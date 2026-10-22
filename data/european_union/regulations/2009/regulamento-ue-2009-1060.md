@@ -37,6 +37,273 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-17'
+version_history:
+  file: regulamento-ue-2009-1060.versoes.json
+  count: 10
+  source_lastmod: '2025-01-17'
+  versions:
+  - date: '2009-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 21.º — Comité das Autoridades de Regulamentação dos Mercados Europeus de Valores Mobiliários
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Artigo 41.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita INDEPENDÊNCIA E PREVENÇÃO DE CONFLITOS DE INTERESSES
+    - Adita Secção A
+    - Adita Requisitos de organização
+    - Adita Secção B
+    - Adita Requisitos de funcionamento
+    - Adita Secção C
+    - Adita Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Adita Secção D
+    - Adita Regras aplicáveis à apresentação de notações de risco
+    - Adita I. Obrigações gerais
+    - Adita II. Obrigações adicionais relativas às notações de risco de instrumentos financeiros estruturados
+    - Adita Secção E
+    - Adita Divulgações
+    - Adita I. Divulgações gerais
+    - Adita II. Divulgações periódicas
+    - Adita III. Relatório de transparência
+    - Adita ANEXO II
+    - Adita INFORMAÇÕES A FORNECER NO PEDIDO DE REGISTO
+  - date: '2011-06-01'
+    amending: eu:celex:32011R0513:por
+    amending_title: REGULAMENTO (UE) N. o 513/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Maio de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º — Equivalência e certificação baseada na equivalência
+    - Altera Artigo 6.º — Independência e prevenção de conflitos de interesses
+    - Altera Artigo 10.º — Divulgação e apresentação das notações de risco
+    - Altera Artigo 11.º — Divulgação geral e periódica
+    - Altera Artigo 14.º — Requisitos de registo
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 19.º — Taxas de registo e de supervisão
+    - Altera Artigo 20.º — Cancelamento do registo
+    - Altera Artigo 26.º — Obrigação de cooperação
+    - Altera Artigo 27.º — Troca de informações
+    - Altera Artigo 32.º — Sigilo profissional
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 35.º — Divulgação de informações provenientes de países terceiros
+    - Altera Artigo 36.º — Sanções
+    - Altera Artigo 37.º — Alteração dos anexos
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Artigo 39.º — Relatórios
+    - Altera Artigo 40.º — Disposição transitória
+    - Altera Requisitos de organização
+    - Altera Requisitos de funcionamento
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera II. Divulgações periódicas
+    - Altera III. Relatório de transparência
+    - Altera Notas
+    - Adita Artigo 9.º — Subcontratação
+    - Adita Artigo 16.º — Análise dos pedidos de registo de agências de notação de risco pela ESMA
+    - Adita Artigo 17.º — Análise dos pedidos de registo de grupos de agências de notação de risco pela ESMA
+    - Adita Artigo 18.º — Notificação de decisões de registo, recusa ou cancelamento do registo e publicação da lista das
+      agências de notação de risco registadas
+    - Adita Supervisão pela ESMA
+    - Adita Artigo 21.º — ESMA
+    - Adita Artigo 22.º-A — Fiscalização do cumprimento da obrigação de efectuar verificações a posteriori
+    - Adita Artigo 23.º — Não ingerência no teor das notações ou nas metodologias de notação
+    - Adita Artigo 23.º-A — Exercício das competências a que se referem os artigos 23.º-B a 23.º-D
+    - Adita Artigo 23.º-B — Pedidos de informação
+    - Adita Artigo 23.º-C — Investigações de carácter geral
+    - Adita Artigo 23.º-D — Inspecções no local
+    - Adita Artigo 23.º-E — Regras processuais para a tomada de medidas de supervisão e a imposição de multas
+  - date: '2011-07-21'
+    amending: eu:celex:32011L0061:por
+    amending_title: DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 8 de Junho
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 18.º — Notificação de decisões de registo, recusa ou cancelamento do registo e publicação da lista das
+      agências de notação de risco registadas
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera Notas
+  - date: '2013-06-20'
+    amending: eu:celex:32013R0462:por
+    amending_title: REGULAMENTO (UE) N. o 462/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º — Equivalência e certificação baseada na equivalência
+    - Altera Artigo 6.º — Independência e prevenção de conflitos de interesses
+    - Altera Artigo 7.º — Analistas de notação de risco, empregados e outras pessoas envolvidas na emissão de notações de
+      risco
+    - Altera Artigo 8.º — Metodologias, modelos e principais pressupostos de notação
+    - Altera Artigo 10.º — Divulgação e apresentação das notações de risco
+    - Altera Artigo 11.º — Divulgação geral e periódica
+    - Altera Artigo 14.º — Requisitos de registo
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 18.º — Notificação de decisões de registo, recusa ou cancelamento do registo e publicação da lista das
+      agências de notação de risco registadas
+    - Altera Artigo 19.º — Taxas de registo e de supervisão
+    - Altera Artigo 21.º — ESMA
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 36.º-A — Multas
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Artigo 39.º — Relatórios
+    - Altera Requisitos de funcionamento
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera I. Obrigações gerais
+    - Altera II. Obrigações adicionais relativas às notações de risco de instrumentos financeiros estruturados
+    - Altera I. Divulgações gerais
+    - Altera II. Divulgações periódicas
+    - Altera III. Relatório de transparência
+    - Altera INFORMAÇÕES A FORNECER NO PEDIDO DE REGISTO
+    - Altera I. Infracções relacionadas com conflitos de interesses e requisitos de organização ou funcionamento
+    - Altera II. Infracções relacionadas com obstáculos às actividades de supervisão
+    - Altera III. Infracções relacionadas com disposições aplicáveis à divulgação de informações
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 5.º-A — Dependência excessiva das instituições financeiras relativamente às notações de risco
+    - Adita Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Adita Artigo 5.º-C — Dependência excessiva de notações de risco na legislação da União
+    - Adita Artigo 6.º-A — Conflitos de interesses associados a investimentos em agências de notação de risco
+    - Adita Artigo 6.º-B — Duração máxima da relação contratual com uma agência de notação de risco
+    - Adita Artigo 8.º-A — Notações soberanas
+    - Adita Artigo 8.º-B — Informações relativas a instrumentos financeiros estruturados
+    - Adita Artigo 8.º-C — Dupla notação de risco de instrumentos financeiros estruturados
+  - date: '2014-05-23'
+    amending: eu:celex:32014L0051:por
+    amending_title: Diretiva 2014/51/UE do Parlamento Europeu e do Conselho de 16 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera Notas
+  - date: '2015-06-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera Notas
+    - Adita Artigo 11.º-A — Plataforma de notação europeia
+  - date: '2019-01-01'
+    amending: eu:celex:32017R2402:por
+    amending_title: REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º — Equivalência e certificação baseada na equivalência
+    - Altera Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Altera Artigo 8.º — Metodologias, modelos e principais pressupostos de notação
+    - Altera Artigo 10.º — Divulgação e apresentação das notações de risco
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Artigo 39.º — Relatórios
+    - Altera Requisitos de organização
+    - Altera Requisitos de funcionamento
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera I. Infracções relacionadas com conflitos de interesses e requisitos de organização ou funcionamento
+    - Altera III. Infracções relacionadas com disposições aplicáveis à divulgação de informações
+    - Altera Notas
+    - Adita Artigo 8.º-C — Dupla notação de risco de [►M5](http://publications.europa.eu/resource/celex/32017R2402) instrumentos
+      de titularização◄
+    - Adita Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, [►M5](http://publications.europa.eu/resource/celex/32017R2402) —————◄ 8.º-C e 8.º-D.
+    - Adita II. Obrigações adicionais relativas às notações de risco de [►M5](http://publications.europa.eu/resource/celex/32017R2402)
+      instrumentos de titularização◄
+    - Suprime Artigo 8.º-B — Informações relativas a instrumentos financeiros estruturados
+    - Suprime Artigo 8.º-C — Dupla notação de risco de instrumentos financeiros estruturados
+    - Suprime Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, 8.º-B, 8.º-C e 8.º-D.
+    - Suprime II. Obrigações adicionais relativas às notações de risco de instrumentos financeiros estruturados
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º — Equivalência e certificação baseada na equivalência
+    - Altera Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Altera Artigo 11.º-A — Plataforma de notação europeia
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera Notas
+    - Adita Artigo 13.º-A — Acessibilidade da informação no ESAP
+    - Adita Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, [►M5](http://publications.europa.eu/resource/celex/32017R2402) 8.-B,◄ 8.º-C e 8.º-D.
+    - Suprime Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, [►M5](http://publications.europa.eu/resource/celex/32017R2402) —————◄ 8.º-C e 8.º-D.
+  - date: '2025-01-17'
+    amending: eu:celex:32022R2554:por
+    amending_title: REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Utilização de notações de risco
+    - Altera Artigo 5.º — Equivalência e certificação baseada na equivalência
+    - Altera Artigo 5.º-B — Recurso das Autoridades Europeias de Supervisão e do Comité Europeu do Risco Sistémico às notações
+      de risco
+    - Altera Artigo 11.º-A — Plataforma de notação europeia
+    - Altera Artigo 15.º — Pedido de registo
+    - Altera Artigo 34.º — Acordos de troca de informações
+    - Altera Artigo 38.º — Procedimento de Comité
+    - Altera Requisitos de organização
+    - Altera Regras aplicáveis aos analistas de notação de risco e outras pessoas directamente envolvidas em actividades de
+      notação de risco
+    - Altera III. Relatório de transparência
+    - Altera I. Infracções relacionadas com conflitos de interesses e requisitos de organização ou funcionamento
+    - Altera Notas
+    - Adita Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, [►M5](http://publications.europa.eu/resource/celex/32017R2402) —————◄ 8.º-C e 8.º-D.
+    - Suprime Artigo 25.º-A — Autoridades setoriais competentes responsáveis pela supervisão e aplicação do artigo 4.º, n.º
+      1, e dos artigos 5.º-A, [►M5](http://publications.europa.eu/resource/celex/32017R2402) 8.-B,◄ 8.º-C e 8.º-D.
 identifiers:
   celex: 32009R1060
   eli: http://data.europa.eu/eli/reg/2009/1060/oj
@@ -51,7 +318,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e35c7f1-c976-4c9f-83d9-f5919e956de0.0019
   content_url: http://publications.europa.eu/resource/cellar/c66360df-d7ec-11ef-be2a-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1060-20250117
-  retrieved_at: '2026-10-22T02:37:14Z'
+  retrieved_at: '2026-10-22T15:44:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:23:18.394+02:00'
 integrity:
@@ -60,9 +327,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:14Z'
-  notes: Texto consolidado 02009R1060-20250117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:28Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2009-1060.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -295,39 +562,19 @@ relationships:
   date: '2022-08-01'
 article_structure:
   article_count: 67
-  section_count: 51
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:14Z'
+  checked_at: '2026-10-22T15:44:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1060/2009 do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009R1060 — PT — 17.01.2025 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0513) — [REGULAMENTO (UE) N.º 513/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Maio de 2011](http://publications.europa.eu/resource/celex/32011R0513) — L 145 — 30 — 31.5.2011
-- [M2](http://publications.europa.eu/resource/celex/32011L0061) — [DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0061) — L 174 — 1 — 1.7.2011
-- [►M3](http://publications.europa.eu/resource/celex/32013R0462) — [REGULAMENTO (UE) N.º 462/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0462) — L 146 — 1 — 31.5.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014L0051) — [DIRETIVA 2014/51/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0051) — L 153 — 1 — 22.5.2014
-- [►M5](http://publications.europa.eu/resource/celex/32017R2402) — [REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2402) — L 347 — 35 — 28.12.2017
-- [►M6](http://publications.europa.eu/resource/celex/32022R2554) — [REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2554) — L 333 — 1 — 27.12.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R1060R%2802%29) — [Rectificação, JO L 350, 29.12.2009, p. 59 (1060/2009)](http://publications.europa.eu/resource/celex/32009R1060R%2802%29)
-
-## REGULAMENTO (CE) N.º 1060/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

@@ -34,6 +34,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-01'
+version_history:
+  file: diretiva-ue-2009-119.versoes.json
+  count: 2
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2009-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: eu:celex:32018L1581:por
+    amending_title: DIRETIVA DE EXECUÇÃO (UE) 2018/1581 DA COMISSÃO de 19 de outubro de 2018; REGULAMENTO (UE) 2018/1999 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem
+    - Altera Artigo 6.º — Registo das reservas de segurança — Relatório anual
+    - Altera Artigo 9.º — Reservas específicas
+    - Altera Artigo 27.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DAS IMPORTAÇÕES DE PRODUTOS PETROLÍFEROS
+    - Adita ANEXO II
+    - Adita MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DO CONSUMO INTERNO
+    - Adita ANEXO III
+    - Adita MÉTODOS APLICÁVEIS AO CÁLCULO DO NÍVEL DE RESERVAS MANTIDO
+    - Adita ANEXO IV
+    - Adita Regras para a elaboração e comunicação à Comissão dos resumos estatísticos relativos ao nível das reservas a manter
+      em aplicação do artigo 3.º
 identifiers:
   celex: 32009L0119
   eli: http://data.europa.eu/eli/dir/2009/119/oj
@@ -48,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018
   content_url: http://publications.europa.eu/resource/cellar/4a4fee48-436d-11ea-b81b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0119-20200101
-  retrieved_at: '2026-10-22T02:40:44Z'
+  retrieved_at: '2026-10-22T15:39:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T18:09:50.484+02:00'
 integrity:
@@ -57,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:44Z'
-  notes: Texto consolidado 02009L0119-20200101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-119.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,30 +203,19 @@ relationships:
   source: null
 article_structure:
   article_count: 27
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:44Z'
+  checked_at: '2026-10-22T15:39:38Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/119/CE do Conselho, de 14 de Setembro de 2009
-
-> 02009L0119 — PT — 01.01.2020 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L1581) — [DIRETIVA DE EXECUÇÃO (UE) 2018/1581 DA COMISSÃO de 19 de outubro de 2018](http://publications.europa.eu/resource/celex/32018L1581) — L 263 — 57 — 22.10.2018
-- [►M2](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-
-## DIRECTIVA 2009/119/CE DO CONSELHO
 
 de 14 de Setembro de 2009
 

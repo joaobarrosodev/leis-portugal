@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-02'
+version_history:
+  file: diretiva-ue-2010-18.versoes.json
+  count: 3
+  source_lastmod: '2022-08-02'
+  versions:
+  - date: '2010-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013L0062:por
+    amending_title: DIRETIVA 2013/62/UE DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)
+    - Adita 18 de Junho de 2009
+    - Adita Preâmbulo
+    - Adita I. Considerações gerais
+    - Adita II. Conteúdo
+    - 'Adita Cláusula 1: Objecto e âmbito de aplicação'
+    - 'Adita Cláusula 2: Licença parental'
+    - 'Adita Cláusula 3: Modalidades de aplicação'
+    - 'Adita Cláusula 4: Adopção'
+    - 'Adita Cláusula 5: Direitos laborais e não discriminação'
+    - 'Adita Cláusula 6: Regresso ao trabalho'
+    - 'Adita Cláusula 7: Faltas ao trabalho por motivo de força maior'
+    - 'Adita Cláusula 8: Disposições finais'
+  - date: '2022-08-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime ANEXO
+    - Suprime ACORDO-QUADRO SOBRE LICENÇA PARENTAL (REVISTO)
+    - Suprime 18 de Junho de 2009
+    - Suprime Preâmbulo
+    - Suprime I. Considerações gerais
+    - Suprime II. Conteúdo
+    - 'Suprime Cláusula 1: Objecto e âmbito de aplicação'
+    - 'Suprime Cláusula 2: Licença parental'
+    - 'Suprime Cláusula 3: Modalidades de aplicação'
+    - 'Suprime Cláusula 4: Adopção'
+    - 'Suprime Cláusula 5: Direitos laborais e não discriminação'
+    - 'Suprime Cláusula 6: Regresso ao trabalho'
+    - 'Suprime Cláusula 7: Faltas ao trabalho por motivo de força maior'
+    - 'Suprime Cláusula 8: Disposições finais'
+    - Suprime Notas
 identifiers:
   celex: 32010L0018
   eli: http://data.europa.eu/eli/dir/2010/18/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52d95d98-38d1-49dd-81a4-424f7a166a4d.0018
   content_url: http://publications.europa.eu/resource/cellar/c501c0be-1d7c-11ed-8fa0-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0018-20220802
-  retrieved_at: '2026-10-22T03:14:59Z'
+  retrieved_at: '2026-10-22T15:46:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T06:49:19.747+02:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:59Z'
-  notes: Texto consolidado 02010L0018-20220802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:06Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-18.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,16 +207,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:59Z'
+  checked_at: '2026-10-22T15:46:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02010L0018-20100407: versão indisponível (Sem expressão na língua por para CELEX 02010L0018-20100407.)'
   errors: []
 ---
 

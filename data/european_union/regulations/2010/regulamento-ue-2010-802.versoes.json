@@ -1,0 +1,193 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0802:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0802-20130104",
+ "dre_path": null,
+ "source_lastmod": "2013-01-04",
+ "versions": [
+  {
+   "date": "2010-09-14",
+   "future": false,
+   "celex": "32010R0802",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "583d006d153e4815",
+    "c20c50da52b5c1f0",
+    "1e35526754bc23cc",
+    "bbe63b40acd8c58b",
+    "86760bb13ae25f58",
+    "20d52e37449cc85e"
+   ]
+  },
+  {
+   "date": "2013-01-04",
+   "future": false,
+   "celex": "02010R0802-20130104",
+   "acts": [
+    {
+     "id": "eu:celex:32012R1205:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1205/2012 DA COMISSÃO de 14 de dezembro de 2012",
+     "published": null,
+     "celex": "32012R1205"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo",
+    "Altera Artigo 4.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita CRITÉRIOS RELATIVOS AO DESEMPENHO DAS COMPANHIAS",
+    "Adita (referido no artigo 10.º, n.º 3, da Directiva 2009/16/CE)",
+    "Adita 1. Índice de detenções de uma companhia",
+    "Adita 2. Índice de anomalias de uma companhia",
+    "Adita 3. Matriz de desempenho das companhias"
+   ],
+   "fragments": [
+    "bae77f3a918e6f9a",
+    "c20c50da52b5c1f0",
+    "1e35526754bc23cc",
+    "3e5bd8fab4f9599e",
+    "3b6ee3f5fa6d706d",
+    "10220b9774fa9034",
+    "deb49e08ccd11fd7",
+    "42739276373723df",
+    "54f76972c9ab79ce",
+    "adc48d1d342f008e",
+    "95f6cfbb9cd7a82d",
+    "e3b471e700933ec3"
+   ]
+  }
+ ],
+ "fragments": {
+  "583d006d153e4815": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Setembro de 2010\n\nque dá execução ao artigo 10.º, n.º 3, e ao artigo 27.º da Directiva 2009/16/CE do Parlamento Europeu e do Conselho no que respeita ao desempenho das companhias\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa à inspecção de navios pelo Estado do porto [([^1])](http://publications.europa.eu/resource/cellar/b1784c93-e92d-43b2-8766-b2d21b2838fc.0008.02/DOC_1#ntr1-L_2010241PT.01000401-E0001), nomeadamente o artigo 10.º, n.º 3, e o artigo 27.º,\n\nConsiderando o seguinte:\n\n(1) O desempenho da companhia é um dos parâmetros genéricos que determinam o perfil de risco de um navio.\n\n(2) Para determinar o desempenho das companhias nos termos da Directiva 2009/16/CE é necessário que, ao inspeccionarem um navio, os inspectores registem o número da Organização Marítima Internacional (OMI) atribuído à companhia.\n\n(3) Para avaliar o desempenho das companhias, devem ter-se em consideração as taxas de anomalias e detenções de todos os navios da frota de uma companhia que tenham sido submetidos a uma inspecção na União e na região do Memorando de Entendimento de Paris para a inspecção de navios pelo Estado do porto («Memorando de Paris»).\n\n(4) No que respeita à metodologia de avaliação do desempenho das companhias, é necessário tomar como base a experiência adquirida através da aplicação do Memorando de Paris.\n\n(5) A Comissão deve recorrer à Agência Europeia da Segurança Marítima, estabelecida pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/b1784c93-e92d-43b2-8766-b2d21b2838fc.0008.02/DOC_1#ntr2-L_2010241PT.01000401-E0002), para a publicação num sítio *web* público da lista de companhias com desempenho baixo ou muito baixo.\n\n(6) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c20c50da52b5c1f0": {
+   "fragment_id": "Artigo 1.º — Identificação das companhias",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Identificação das companhias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Identificação das companhias\n\nOs Estados-Membros devem assegurar que as companhias tal como definidas na alínea 18 do artigo 2.º são identificadas pelo respectivo número IMO, quando ao navio se aplica o Código Internacional de Gestão da Segurança (Código ISM) a que se refere o capítulo IX da Convenção Internacional para a Salvaguarda da Vida no Mar (Convenção SOLAS)."
+  },
+  "1e35526754bc23cc": {
+   "fragment_id": "Artigo 2.º — Critérios de avaliação do desempenho das companhias",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Critérios de avaliação do desempenho das companhias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Critérios de avaliação do desempenho das companhias\n\n1. Para avaliar o desempenho das companhias a que se refere o anexo I, parte I.1, alínea e), da Directiva 2009/16/CE, devem ser utilizados os critérios estabelecidos no anexo do presente regulamento.\n\n2. O nível de desempenho das companhias deve ser actualizado diariamente e calculado com base nos 36 meses anteriores à avaliação. Para tal, o cálculo deve ser feito com base em dados recolhidos depois de 17 de Junho de 2009. Se tiverem decorrido menos de 36 meses desde 17 de Junho de 2009, o cálculo será feito com base nos dados disponíveis.\n\n3. O desempenho das companhias será classificado de muito baixo, baixo, médio ou elevado tal como enumerado no ponto 3 do anexo."
+  },
+  "bbe63b40acd8c58b": {
+   "fragment_id": "Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo\n\n1. A Comissão será assistida pela Agência Europeia da Segurança Marítima (AESM) tendo em vista a publicação regular, num sítio *web* público, de informações relativas às companhias com desempenho baixo ou muito baixo, em conformidade com o artigo 27.º da Directiva 2009/16/CE.\n\n2. A AESM publicará e actualizará diariamente no seu sítio *web* público:\n\na) A lista das companhias cujo desempenho nos 36 meses precedentes foi muito baixo durante um período de, pelo menos, três meses consecutivos;\n\nb) A lista das companhias cujo desempenho nos 36 meses precedentes foi baixo ou muito baixo durante um período de, pelo menos, três meses consecutivos;\n\nc) A lista das companhias cujo desempenho nos 36 meses precedentes foi baixo durante um período de, pelo menos, seis meses consecutivos."
+  },
+  "86760bb13ae25f58": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 13 de Setembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "20d52e37449cc85e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b1784c93-e92d-43b2-8766-b2d21b2838fc.0008.02/DOC_1#ntc1-L_2010241PT.01000401-E0001) [JO L 131 de 28.5.2009, p. 57](http://publications.europa.eu/resource/oj/JOL_2009_131_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b1784c93-e92d-43b2-8766-b2d21b2838fc.0008.02/DOC_1#ntc2-L_2010241PT.01000401-E0002) [JO L 208 de 5.8.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_208_R_TOC)."
+  },
+  "bae77f3a918e6f9a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Setembro de 2010\n\nque dá execução ao artigo 10.º, n.º 3, e ao artigo 27.º da Directiva 2009/16/CE do Parlamento Europeu e do Conselho no que respeita ao desempenho das companhias\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa à inspecção de navios pelo Estado do porto ([^1^](http://publications.europa.eu/resource/cellar/6e975811-0fe5-4645-86fc-465ffcb4464e.0019.03/DOC_1#E0001)), nomeadamente o artigo 10.º, n.º 3, e o artigo 27.º,\n\n(1) O desempenho da companhia é um dos parâmetros genéricos que determinam o perfil de risco de um navio.\n\n(2) Para determinar o desempenho das companhias nos termos da Directiva 2009/16/CE é necessário que, ao inspeccionarem um navio, os inspectores registem o número da Organização Marítima Internacional (OMI) atribuído à companhia.\n\n(3) Para avaliar o desempenho das companhias, devem ter-se em consideração as taxas de anomalias e detenções de todos os navios da frota de uma companhia que tenham sido submetidos a uma inspecção na União e na região do Memorando de Entendimento de Paris para a inspecção de navios pelo Estado do porto («Memorando de Paris»).\n\n(4) No que respeita à metodologia de avaliação do desempenho das companhias, é necessário tomar como base a experiência adquirida através da aplicação do Memorando de Paris.\n\n(5) A Comissão deve recorrer à Agência Europeia da Segurança Marítima, estabelecida pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6e975811-0fe5-4645-86fc-465ffcb4464e.0019.03/DOC_1#E0002)), para a publicação num sítio *web* público da lista de companhias com desempenho baixo ou muito baixo.\n\n(6) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e5bd8fab4f9599e": {
+   "fragment_id": "Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo\n\n1. A Comissão será assistida pela Agência Europeia da Segurança Marítima (AESM) tendo em vista a publicação regular, num sítio *web* público, de informações relativas às companhias com desempenho baixo ou muito baixo, em conformidade com o artigo 27.º da Directiva 2009/16/CE.\n\n2. A AESM publicará e atualizará diariamente no seu sítio *web* público, a partir de 1 de janeiro de 2014, as seguintes informações:\n\na) A lista das companhias cujo desempenho foi muito baixo durante um período contínuo de 36 meses;\n\nb) A lista das companhias cujo desempenho foi baixo ou muito baixo durante um período contínuo de 36 meses;\n\nc) A lista das companhias cujo desempenho foi baixo durante um período contínuo de 36 meses."
+  },
+  "3b6ee3f5fa6d706d": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "deb49e08ccd11fd7": {
+   "fragment_id": "CRITÉRIOS RELATIVOS AO DESEMPENHO DAS COMPANHIAS",
+   "type": "divisao",
+   "heading": "CRITÉRIOS RELATIVOS AO DESEMPENHO DAS COMPANHIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRITÉRIOS RELATIVOS AO DESEMPENHO DAS COMPANHIAS"
+  },
+  "42739276373723df": {
+   "fragment_id": "(referido no artigo 10.º, n.º 3, da Directiva 2009/16/CE)",
+   "type": "divisao",
+   "heading": "(referido no artigo 10.º, n.º 3, da Directiva 2009/16/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referido no artigo 10.º, n.º 3, da Directiva 2009/16/CE)"
+  },
+  "54f76972c9ab79ce": {
+   "fragment_id": "1. Índice de detenções de uma companhia",
+   "type": "divisao",
+   "heading": "1. Índice de detenções de uma companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Índice de detenções de uma companhia\n\nO índice de detenções é o rácio entre o número de detenções de todos os navios da frota de uma companhia e o número de inspecções a todos os navios da frota da companhia nos últimos 36 meses, comparado com o rácio de detenções médio de todos os navios inspeccionados na região do Memorando de Paris nos últimos 3 anos.\n\nO índice de detenções será considerado médio se corresponder à média do rácio de detenções de todos os navios inspeccionados na região do Memorando de Paris nos últimos 36 meses.\n\nO índice de detenções será considerado acima da média se se situar 2 pontos percentuais acima da média do rácio de detenções de todos os navios inspeccionados na região do Memorando de Paris nos últimos 36 meses.\n\nO índice de detenções será considerado abaixo da média se se situar 2 pontos percentuais abaixo da média do rácio de detenções de todos os navios inspeccionados na região do Memorando de Paris nos últimos 36 meses.\n\nO índice de detenções de uma companhia considera-se automaticamente superior à média, independentemente de todos os outros resultados das inspecções, se nos últimos 36 meses tiver sido tomada, em conformidade com a Directiva 2009/16/CE, uma decisão de recusa de acesso relativamente a qualquer navio da frota dessa companhia."
+  },
+  "adc48d1d342f008e": {
+   "fragment_id": "2. Índice de anomalias de uma companhia",
+   "type": "divisao",
+   "heading": "2. Índice de anomalias de uma companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Índice de anomalias de uma companhia\n\nO índice de anomalias é o rácio entre a pontuação total de todas as anomalias de todos os navios da frota de uma companhia e o número de inspecções a todos os navios da frota da companhia nos últimos 36 meses, comparado com o rácio de anomalias médio de todos os navios inspeccionados na região do Memorando de Paris nos últimos 3 anos.\n\nPara efeitos do primeiro parágrafo, às anomalias relacionadas com o Código ISM corresponderão 5 pontos, enquanto a quaisquer outras anomalias corresponderá 1 ponto. O rácio de anomalias médio na região do Memorando de Paris será ponderado tendo em conta a ocorrência média, por inspecção, de anomalias relacionadas com o Código ISM ou de quaisquer outras anomalias.\n\nO índice de anomalias será considerado médio se se situar numa margem de 2 pontos percentuais acima ou abaixo da média ponderada de deficiências na região do Memorando de Paris nos últimos 36 meses.\n\nO índice de anomalias será considerado acima da média se se situar mais de 2 pontos percentuais acima da média ponderada de deficiências na região do Memorando de Paris nos últimos 36 meses.\n\nO índice de anomalias será considerado abaixo da média se se situar mais de 2 pontos percentuais abaixo da média ponderada de deficiências na região do Memorando de Paris nos últimos 36 meses."
+  },
+  "95f6cfbb9cd7a82d": {
+   "fragment_id": "3. Matriz de desempenho das companhias",
+   "type": "divisao",
+   "heading": "3. Matriz de desempenho das companhias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Matriz de desempenho das companhias\n\nO desempenho das companhias será classificado da seguinte forma:\n\n| Valor do índice de detenções | Valor do índice de anomalias | Desempenho da companhia |\n| --- | --- | --- |\n| acima da média | acima da média | muito baixo |\n| acima da média | médio | baixo |\n| acima da média | abaixo da média |  |\n| médio | acima da média |  |\n| abaixo da média | acima da média |  |\n| médio | médio | mediano |\n| médio | abaixo da média |  |\n| abaixo da média | médio |  |\n| abaixo da média | abaixo da média | elevado |\n\nPorém, no caso de uma companhia não ter registo anterior de inspecções efectuadas à sua frota ou não ser obrigada a possuir um número OMI, será considerada como tendo um desempenho médio.\n\n---"
+  },
+  "e3b471e700933ec3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6e975811-0fe5-4645-86fc-465ffcb4464e.0019.03/DOC_1#src.E0001)) JO L 131 de 28.5.2009, p. 57.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6e975811-0fe5-4645-86fc-465ffcb4464e.0019.03/DOC_1#src.E0002)) JO L 208 de 5.8.2002, p. 1."
+  }
+ }
+}

@@ -37,6 +37,153 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-02-13'
+version_history:
+  file: regulamento-ue-2009-684.versoes.json
+  count: 11
+  source_lastmod: '2023-02-13'
+  versions:
+  - date: '2009-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: eu:celex:32012R1221:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1221/2012 DA COMISSÃO de 12 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MENSAGENS ELECTRÓNICAS UTILIZADAS PARA EFEITOS DE CIRCULAÇÃO DE PRODUTOS SUJEITOS A IMPOSTOS ESPECIAIS DE CONSUMO
+      EM REGIME DE SUSPENSÃO DO IMPOSTO
+    - Adita NOTAS EXPLICATIVAS
+    - Adita ANEXO II
+    - Adita (a que se refere o artigo 2.º)
+    - Adita Listas de códigos
+    - Adita 1. CÓDIGOS DAS LÍNGUAS
+    - Adita 2. CÓDIGO DE REFERÊNCIA ADMINISTRATIVO
+    - Adita 3. ESTADOS-MEMBROS
+    - Adita 4. CÓDIGOS DOS PAÍSES
+    - Adita 5. NÚMERO DE REFERÊNCIA DA ESTÂNCIA ADUANEIRA (COR)
+    - 'Adita 6. CÓDIGO DO TIPO DE GARANTE:'
+    - Adita 7. CÓDIGO DO MODO DE TRANSPORTE
+    - Adita 8. CÓDIGO DA UNIDADE DE TRANSPORTE
+    - Adita 9. CÓDIGO(S) DE EMBALAGEM
+    - Adita 10. CÓDIGO DO MOTIVO DE CANCELAMENTO
+    - Adita 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Adita 12. UNIDADES DE MEDIDA
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 1. CÓDIGOS DAS LÍNGUAS
+    - Altera 3. ESTADOS-MEMBROS
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2014-02-13'
+    amending: eu:celex:32014R0076:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 76/2014 DA COMISSÃO de 28 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 2. CÓDIGO DE REFERÊNCIA ADMINISTRATIVO
+    - Altera 3. ESTADOS-MEMBROS
+    - 'Altera 6. CÓDIGO DO TIPO DE GARANTE:'
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2016-04-06'
+    amending: eu:celex:32016R0379:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/379 DA COMISSÃO de 11 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 3. ESTADOS-MEMBROS
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2018-02-15'
+    amending: eu:celex:32018R0503:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/503 DA COMISSÃO de 7 de março de 2018
+    changes:
+    - Altera preambulo
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 3. ESTADOS-MEMBROS
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+    - 'Adita 13: TEMPO DE VIAGEM MÁXIMO POR MODO DE TRANSPORTE'
+  - date: '2018-09-15'
+    amending: eu:celex:32018R0550:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/550 DA COMISSÃO de 6 de abril de 2018
+    changes:
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 3. ESTADOS-MEMBROS
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2020-02-13'
+    amending: eu:celex:32019R2222:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/2222 DA COMISSÃO de 12 de dezembro de 2019
+    changes:
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 3. ESTADOS-MEMBROS
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2021-01-01'
+    amending: eu:celex:32020R1811:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1811 DA COMISSÃO de 1 de dezembro de 2020
+    changes:
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 5. NÚMERO DE REFERÊNCIA DA ESTÂNCIA ADUANEIRA (COR)
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+    - Adita 3. CÓDIGOS DOS PAÍSES
+    - Suprime 3. ESTADOS-MEMBROS
+    - Suprime 4. CÓDIGOS DOS PAÍSES
+  - date: '2022-01-01'
+    amending: eu:celex:32021R2265:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2265 DA COMISSÃO de 17 de dezembro de 2021
+    changes:
+    - Altera NOTAS EXPLICATIVAS
+    - Altera 3. CÓDIGOS DOS PAÍSES
+    - Altera 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Altera Notas
+  - date: '2023-02-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Obrigações no que respeita às mensagens trocadas através do sistema informatizado
+    - Suprime Artigo 3.º — Formalidades a cumprir antes do início da circulação dos produtos sujeitos a impostos especiais
+      de consumo
+    - Suprime Artigo 4.º — Cancelamento do documento administrativo electrónico
+    - Suprime Artigo 5.º — Mensagens relativas a uma mudança de destino da circulação dos produtos sujeitos a impostos especiais
+      de consumo
+    - Suprime Artigo 6.º — Mensagens relativas à repartição da circulação dos produtos sujeitos a impostos especiais de consumo
+    - Suprime Artigo 7.º — Formalidades a cumprir no termo da circulação dos produtos sujeitos a impostos especiais de consumo
+    - Suprime Artigo 8.º — Procedimento de emergência
+    - Suprime Artigo 9.º — Revogação
+    - Suprime Artigo 10.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime MENSAGENS ELECTRÓNICAS UTILIZADAS PARA EFEITOS DE CIRCULAÇÃO DE PRODUTOS SUJEITOS A IMPOSTOS ESPECIAIS DE CONSUMO
+      EM REGIME DE SUSPENSÃO DO IMPOSTO
+    - Suprime NOTAS EXPLICATIVAS
+    - Suprime ANEXO II
+    - Suprime (a que se refere o artigo 2.º)
+    - Suprime Listas de códigos
+    - Suprime 1. CÓDIGOS DAS LÍNGUAS
+    - Suprime 2. CÓDIGO DE REFERÊNCIA ADMINISTRATIVO
+    - Suprime 3. CÓDIGOS DOS PAÍSES
+    - Suprime 5. NÚMERO DE REFERÊNCIA DA ESTÂNCIA ADUANEIRA (COR)
+    - 'Suprime 6. CÓDIGO DO TIPO DE GARANTE:'
+    - Suprime 7. CÓDIGO DO MODO DE TRANSPORTE
+    - Suprime 8. CÓDIGO DA UNIDADE DE TRANSPORTE
+    - Suprime 9. CÓDIGO(S) DE EMBALAGEM
+    - Suprime 10. CÓDIGO DO MOTIVO DE CANCELAMENTO
+    - Suprime 11. PRODUTO SUJEITO A IMPOSTOS ESPECIAIS DE CONSUMO
+    - Suprime 12. UNIDADES DE MEDIDA
+    - 'Suprime 13: TEMPO DE VIAGEM MÁXIMO POR MODO DE TRANSPORTE'
+    - Suprime Notas
 identifiers:
   celex: 32009R0684
   eli: http://data.europa.eu/eli/reg/2009/684/oj
@@ -51,7 +198,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/65de8782-d4a5-450c-94fd-eb960a743a55.0018
   content_url: http://publications.europa.eu/resource/cellar/9db1c26f-bd02-11ed-8912-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0684-20230213
-  retrieved_at: '2026-10-22T02:59:23Z'
+  retrieved_at: '2026-10-22T15:43:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:10:18.968+02:00'
 integrity:
@@ -60,9 +207,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:23Z'
-  notes: Texto consolidado 02009R0684-20230213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:28Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2009-684.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,16 +341,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:23Z'
+  checked_at: '2026-10-22T15:43:28Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0684-20090818: versão indisponível (Sem expressão na língua por para CELEX 02009R0684-20090818.)'
   errors: []
 ---
 

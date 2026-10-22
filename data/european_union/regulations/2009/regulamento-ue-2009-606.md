@@ -36,6 +36,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-07'
+version_history:
+  file: regulamento-ue-2009-606.versoes.json
+  count: 2
+  source_lastmod: '2019-12-07'
+  versions:
+  - date: '2009-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Zonas vitícolas cujos vinhos podem ter, no máximo, 20 % vol de título alcoométrico total
+    - Suprime Artigo 3.º — Práticas enológicas autorizadas e restrições
+    - Suprime Artigo 4.º — Utilização experimental de novas práticas enológicas
+    - Suprime Artigo 5.º — Práticas enológicas aplicáveis às categorias de vinhos espumantes
+    - Suprime Artigo 6.º — Práticas enológicas aplicáveis aos vinhos licorosos
+    - Suprime Artigo 7.º — Definição de lotação
+    - Suprime Artigo 8.º — Regras gerais relativas à mistura e lotação
+    - Suprime Artigo 9.º — Especificações de pureza e identidade das substâncias utilizadas nas práticas enológicas
+    - Suprime Artigo 10.º — Condições de posse, circulação e utilização de produtos não conformes às disposições do capítulo
+      II do título III do Regulamento (CE) n.º 479/2008 ou do presente regulamento
+    - Suprime Artigo 11.º — Condições gerais relativas às operações de enriquecimento e às operações de acidificação e desacidificação
+      dos produtos, excluído o vinho
+    - Suprime Artigo 12.º — Regras administrativas relativas ao enriquecimento
+    - Suprime Artigo 13.º — Regras administrativas relativas à acidificação e à desacidificação
+    - Suprime Artigo 14.º — Derrame de vinho ou de mostos de uvas sobre borra de vinho, bagaço de uvas ou polpa de «aszú»/«výber»
+      espremida
+    - Suprime Artigo 15.º — Métodos de análise comunitários aplicáveis
+    - Suprime Artigo 16.º — Revogações
+    - Suprime Artigo 17.º
+    - Suprime Notas
 identifiers:
   celex: 32009R0606
   eli: http://data.europa.eu/eli/reg/2009/606/oj
@@ -50,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c1c3dfcf-d7a3-4410-9f48-400e8d09e6b8.0018
   content_url: http://publications.europa.eu/resource/cellar/8d72363a-1028-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0606-20191207
-  retrieved_at: '2026-10-22T02:48:14Z'
+  retrieved_at: '2026-10-22T15:42:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T12:56:21.174+02:00'
 integrity:
@@ -59,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:14Z'
-  notes: Texto consolidado 02009R0606-20191207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:53Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-606.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -259,16 +294,26 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:14Z'
+  checked_at: '2026-10-22T15:42:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0606-20090801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20100801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20120416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20130223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20131207: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20140408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20150419: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20150930: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20160525: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20171104: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0606-20180303: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

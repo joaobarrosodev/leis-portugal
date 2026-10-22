@@ -36,6 +36,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-19'
+version_history:
+  file: regulamento-ue-2009-80.versoes.json
+  count: 2
+  source_lastmod: '2024-05-19'
+  versions:
+  - date: '2009-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-19'
+    amending: eu:celex:32024R1230:por
+    amending_title: REGULAMENTO (UE) 2024/1230 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Ecrãs
+    - Altera Artigo 19.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 12.º
+    - Adita ANEXO I
+    - Adita REGRAS APLICÁVEIS AOS ECRÃS PRINCIPAIS
+    - Adita ANEXO II
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Suprime Artigo 12.º — Auditor e relatório do auditor
 identifiers:
   celex: 32009R0080
   eli: http://data.europa.eu/eli/reg/2009/80/oj
@@ -50,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b22ab8f2-e226-4185-b7fb-bf55c6fe8a8f.0019
   content_url: http://publications.europa.eu/resource/cellar/6858cb62-178a-11ef-a251-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0080-20240519
-  retrieved_at: '2026-10-22T02:48:10Z'
+  retrieved_at: '2026-10-22T15:40:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T23:50:39.097+02:00'
 integrity:
@@ -59,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:10Z'
-  notes: Texto consolidado 02009R0080-20240519.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:53Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-80.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,29 +162,19 @@ relationships:
   date: '1989-07-29'
 article_structure:
   article_count: 19
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:10Z'
+  checked_at: '2026-10-22T15:40:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 80/2009 do Parlamento Europeu e do Conselho, de 14 de Janeiro de 2009
-
-> 02009R0080 — PT — 19.05.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R1230) — [REGULAMENTO (UE) 2024/1230 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1230) — L 1230 — 1 — 29.4.2024
-
-## REGULAMENTO (CE) N.º 80/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de Janeiro de 2009
 

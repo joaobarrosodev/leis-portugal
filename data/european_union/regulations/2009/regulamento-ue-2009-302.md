@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-10-06'
+version_history:
+  file: regulamento-ue-2009-302.versoes.json
+  count: 2
+  source_lastmod: '2016-10-06'
+  versions:
+  - date: '2009-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-10-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto, âmbito de aplicação e objectivo
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Comprimento dos navios
+    - Suprime CAPÍTULO II
+    - Suprime POSSIBILIDADES DE PESCA
+    - Suprime Artigo 4.º — Condições associadas às possibilidades de pesca
+    - Suprime CAPÍTULO III
+    - Suprime MEDIDAS APLICÁVEIS EM TERMOS DE CAPACIDADE
+    - Suprime Artigo 5.º — Medidas aplicáveis em termos de capacidades de pesca
+    - Suprime Artigo 6.º — Medidas relativas às capacidades de engorda e de cultura
+    - Suprime CAPÍTULO IV
+    - Suprime MEDIDAS TÉCNICAS
+    - Suprime Artigo 7.º — Época de defeso da pesca
+    - Suprime Artigo 8.º — Utilização de aeronaves
+    - Suprime Artigo 9.º — Tamanho mínimo e medidas específicas para determinadas pescarias
+    - Suprime Artigo 10.º — Programa de amostragem para o atum rabilho vivo
+    - Suprime Artigo 11.º — Capturas acessórias
+    - Suprime Artigo 12.º — Pesca recreativa
+    - Suprime Artigo 13.º — Pesca desportiva
+    - Suprime CAPÍTULO V
+    - Suprime MEDIDAS DE CONTROLO
+    - Suprime Artigo 14.º — Registos dos navios
+    - Suprime Artigo 15.º — Registo das armações autorizadas para a pesca do atum rabilho
+    - Suprime Artigo 16.º — Informação sobre as actividades de pesca
+    - Suprime Artigo 17.º — Portos designados
+    - Suprime Artigo 18.º — Exigências de conservação de registos
+    - Suprime Artigo 19.º — Operações de pesca conjunta
+    - Suprime Artigo 20.º — Declaração das capturas
+    - Suprime Artigo 21.º — Desembarques
+    - Suprime Artigo 22.º — Operações de transferência
+    - Suprime Artigo 23.º — Transbordos
+    - Suprime Artigo 24.º — Operações de enjaulamento
+    - Suprime Artigo 25.º — Sistema de localização dos navios por satélite
+    - Suprime Artigo 26.º — Registo e comunicação da actividade das armações
+    - Suprime Artigo 27.º — Controlo num porto ou numa exploração piscícola
+    - Suprime Artigo 28.º — Controlos cruzados
+    - Suprime Artigo 29.º — Programa de Inspecção Internacional Conjunta da ICCAT
 identifiers:
   celex: 32009R0302
   eli: http://data.europa.eu/eli/reg/2009/302/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018
   content_url: http://publications.europa.eu/resource/cellar/5aa5458f-068f-45eb-8577-ed31a8e50e99.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0302-20161006
-  retrieved_at: '2026-10-22T02:59:21Z'
+  retrieved_at: '2026-10-22T15:41:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T05:49:18.910+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:21Z'
-  notes: Texto consolidado 02009R0302-20161006.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:31Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-302.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,16 +201,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:21Z'
+  checked_at: '2026-10-22T15:41:31Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0302-20120623: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0302-20140601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

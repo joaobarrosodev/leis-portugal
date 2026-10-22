@@ -39,6 +39,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-01'
+version_history:
+  file: regulamento-ue-2010-1016.versoes.json
+  count: 2
+  source_lastmod: '2021-03-01'
+  versions:
+  - date: '2010-11-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 4.º — Avaliação de conformidade
+    - Suprime Artigo 5.º — Procedimento de verificação para efeitos de vigilância do mercado
+    - Suprime Artigo 6.º — Padrões de referência
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8.º — Entrada em vigor e aplicação
+    - Suprime Notas
 identifiers:
   celex: 32010R1016
   eli: http://data.europa.eu/eli/reg/2010/1016/oj
@@ -53,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c59ad79-de37-4784-a1eb-03a08e06e875.0019
   content_url: http://publications.europa.eu/resource/cellar/ecc95e69-7b72-11eb-9ac9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1016-20210301
-  retrieved_at: '2026-10-22T02:59:40Z'
+  retrieved_at: '2026-10-22T15:48:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T00:52:29.356+02:00'
 integrity:
@@ -62,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:40Z'
-  notes: Texto consolidado 02010R1016-20210301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:37Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2010-1016.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -109,16 +132,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:40Z'
+  checked_at: '2026-10-22T15:48:37Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02010R1016-20170109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

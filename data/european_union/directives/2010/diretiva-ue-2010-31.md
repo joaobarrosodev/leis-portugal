@@ -35,6 +35,70 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: diretiva-ue-2010-31.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2010-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-12-24'
+    amending: eu:celex:32018L0844:por
+    amending_title: DIRETIVA (UE) 2018/844 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 30 de
+      maio de 2018; REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Edifícios novos
+    - Altera Artigo 7.º — Edifícios existentes
+    - Altera Artigo 10.º — Incentivos financeiros e entraves ao mercado
+    - Altera Artigo 20.º — Informação
+    - Altera Artigo 23.º — Exercício da delegação
+    - Altera Artigo 31.º — Destinatários
+    - Altera Notas
+    - 'Adita Artigo 2.º-A — Estratégia de renovação a longo prazo:'
+    - Adita Artigo 8.º — Sistemas técnicos de construção, eletromobilidade e indicador de aptidão para tecnologias inteligentes
+    - Adita Artigo 14.º — Inspeção dos sistemas de aquecimento
+    - Adita Artigo 15.º — Inspeção dos sistemas de ar condicionado
+    - Adita Artigo 19.º — Revisão
+    - Adita Artigo 19.º-A — Estudo de viabilidade
+    - Adita Artigo 26.º — Procedimento de comité
+    - Adita ANEXO I
+    - Adita Quadro geral comum para a metodologia de cálculo do desempenho energético dos edifícios
+    - Adita (referido no artigo 3.º)
+    - Adita ANEXO I-A
+    - Adita QUADRO GERAL COMUM PARA CLASSIFICAR A APTIDÃO PARA TECNOLOGIAS INTELIGENTES DOS EDIFÍCIOS
+    - Adita ANEXO II
+    - Adita Sistemas de controlo independente dos certificados de desempenho energético e dos relatórios de inspecção
+    - Adita ANEXO III
+    - Adita Quadro para a metodologia comparativa para a determinação dos níveis óptimos de rentabilidade dos requisitos de
+      desempenho energético aplicáveis a edifícios e a componentes
+    - Adita ANEXO IV
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO V
+    - Suprime Artigo 8.º — Sistemas técnicos dos edifícios
+    - Suprime Artigo 14.º — Inspecção dos sistemas de aquecimento
+    - Suprime Artigo 15.º — Inspecção dos sistemas de ar condicionado
+    - Suprime Artigo 19.º — Avaliação
+    - Suprime Artigo 24.º — Revogação da delegação
+    - Suprime Artigo 25.º — Objecções aos actos delegados
+    - Suprime Artigo 26.º — Procedimento de Comité
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - 'Altera Artigo 2.º-A — Estratégia de renovação a longo prazo:'
+    - Altera Artigo 5.º — Cálculo dos níveis óptimos de rentabilidade dos requisitos mínimos de desempenho energético
+    - Altera Artigo 8.º — Sistemas técnicos de construção, eletromobilidade e indicador de aptidão para tecnologias inteligentes
+    - Altera Artigo 9.º — Edifícios com necessidades quase nulas de energia
+    - Altera Artigo 10.º — Incentivos financeiros e entraves ao mercado
+    - Altera QUADRO GERAL COMUM PARA CLASSIFICAR A APTIDÃO PARA TECNOLOGIAS INTELIGENTES DOS EDIFÍCIOS
+    - Altera Notas
 identifiers:
   celex: 32010L0031
   eli: http://data.europa.eu/eli/dir/2010/31/oj
@@ -49,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3d6e31e5-6fcc-48df-8b49-bcfed2164774.0018
   content_url: http://publications.europa.eu/resource/cellar/e119b41d-69fa-11ea-b735-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0031-20210101
-  retrieved_at: '2026-10-22T02:35:57Z'
+  retrieved_at: '2026-10-22T15:46:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T13:34:21.489+02:00'
 integrity:
@@ -58,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:57Z'
-  notes: Texto consolidado 02010L0031-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:27Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -278,30 +342,20 @@ relationships:
   source: null
 article_structure:
   article_count: 31
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:57Z'
-  warnings: []
+  checked_at: '2026-10-22T15:46:27Z'
+  warnings:
+  - '02010L0031-20100708: versão indisponível (Sem expressão na língua por para CELEX 02010L0031-20100708.)'
   errors: []
 ---
 
 # Directiva 2010/31/UE do Parlamento Europeu e do Conselho, de 19 de Maio de 2010
-
-> 02010L0031 — PT — 01.01.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0844) — [DIRETIVA (UE) 2018/844 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0844) — L 156 — 75 — 19.6.2018
-- [►M2](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-
-## DIRECTIVA 2010/31/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de Maio de 2010
 

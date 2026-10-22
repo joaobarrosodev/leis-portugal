@@ -37,6 +37,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2009-669.versoes.json
+  count: 2
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2009-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Actualizações do anexo I
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Exigências mínimas aplicáveis aos pontos de entrada designados
+    - Suprime Artigo 5.º — Lista de pontos de entrada designados
+    - Suprime Artigo 6.º — Notificação prévia das remessas
+    - Suprime Artigo 7.º — Língua dos documentos comuns de entrada
+    - Suprime Artigo 8.º — Controlos oficiais reforçados nos pontos de entrada designados
+    - Suprime Artigo 9.º — Circunstâncias especiais
+    - Suprime Artigo 10.º — Introdução em livre prática
+    - Suprime Artigo 11.º — Obrigações dos operadores das empresas do sector alimentar e do sector dos alimentos para animais
+    - Suprime Artigo 12.º — Fraccionamento de remessas
+    - Suprime Artigo 13.º — Incumprimento
+    - Suprime Artigo 14.º — Taxas
+    - Suprime Artigo 15.º — Relatórios a apresentar à Comissão
+    - Suprime Artigo 16.º — Alterações à Decisão 2006/504/CE
+    - Suprime Artigo 17.º — Revogação da Decisão 2005/402/CE
+    - Suprime Artigo 18.º — Aplicabilidade
+    - Suprime Artigo 19.º — Medidas transitórias
+    - Suprime Notas
 identifiers:
   celex: 32009R0669
   eli: http://data.europa.eu/eli/reg/2009/669/oj
@@ -51,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8511a470-1bca-409c-8f56-e2e851f9258f.0018
   content_url: http://publications.europa.eu/resource/cellar/46dd30dc-27e0-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0669-20191214
-  retrieved_at: '2026-10-22T03:14:46Z'
+  retrieved_at: '2026-10-22T15:43:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T12:10:33.329+02:00'
 integrity:
@@ -60,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:46Z'
-  notes: Texto consolidado 02009R0669-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:56Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-669.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -352,16 +386,51 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:46Z'
+  checked_at: '2026-10-22T15:43:56Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0669-20100125: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20101007: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20110101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20110401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20110701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20111001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20120101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20120407: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20120701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20121001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20130218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20130401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20131001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20140401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20140701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20141001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20150401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20150620: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20150701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20151001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20160202: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20160212: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20160401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20160701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20170223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20170701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20180706: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20190618: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0669-20191017: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

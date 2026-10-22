@@ -36,6 +36,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-27'
+version_history:
+  file: regulamento-ue-2010-73.versoes.json
+  count: 3
+  source_lastmod: '2022-01-27'
+  versions:
+  - date: '2010-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-10-20'
+    amending: eu:celex:32014R1029:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1029/2014 DA COMISSÃO de 26 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Qualidade dos dados
+    - Altera Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal
+    - Altera Artigo 10.º — Requisitos de gestão
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º
+    - Adita PARTE A
+    - Adita IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos
+    - Adita PARTE B
+    - Adita Conjuntos de dados electrónicos sobre o terreno
+    - Adita PARTE C
+    - Adita Metadados
+    - Adita ANEXO II
+    - Adita REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º
+    - Adita Dados electrónicos sobre o terreno
+    - Adita ANEXO III
+    - Adita DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS
+    - Adita ANEXO IV
+    - Adita REQUISITOS DE QUALIDADE DOS DADOS REFERIDOS NOS ARTIGOS 6.º E 7.º
+    - Adita Requisitos de qualidade dos dados
+    - Adita Requisitos em matéria de prova
+    - Adita Disposições formais
+    - Adita PARTE D
+    - Adita Originação de dados
+    - Adita PARTE E
+    - Adita Requisitos para o processo dos dados
+    - Adita PARTE F
+    - Adita Requisitos em matéria de notificação e rectificação de erros
+    - Adita ANEXO V
+    - Adita REQUISITOS APLICÁVEIS ÀS FERRAMENTAS E AO SOFTWARE REFERIDOS NO ARTIGO 8.º
+    - Adita ANEXO VI
+    - Adita REQUISITOS EM MATÉRIA DE PROTECÇÃO DE DADOS REFERIDOS NO ARTIGO 9.º
+    - Adita ANEXO VII
+    - Adita REQUISITOS EM MATÉRIA DE GESTÃO DA QUALIDADE E DA SEGURANÇA REFERIDOS NO ARTIGO 10.º
+    - Adita Sistema de gestão da qualidade
+    - Adita Objectivos da gestão da segurança operacional
+  - date: '2022-01-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime REQUISITOS DE INTEROPERABILIDADE E DE DESEMPENHO
+    - Suprime Artigo 4.º — Conjuntos de dados
+    - Suprime Artigo 5.º — Intercâmbio de dados
+    - Suprime Artigo 6.º — Qualidade dos dados
+    - Suprime Artigo 7.º — Coerência e oportunidade, e desempenho do pessoal
+    - Suprime Artigo 8.º — Requisitos aplicáveis às ferramentas e ao software
+    - Suprime Artigo 9.º — Protecção dos dados
+    - Suprime CAPÍTULO III
+    - Suprime REQUISITOS EM TERMOS DE GESTÃO DA QUALIDADE E DE SEGURANÇA
+    - Suprime Artigo 10.º — Requisitos de gestão
+    - Suprime CAPÍTULO IV
+    - Suprime AVALIAÇÃO DA CONFORMIDADE E REQUISITOS ADICIONAIS
+    - Suprime Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Suprime Artigo 12.º — Verificação dos sistemas
+    - Suprime Artigo 13.º — Requisitos adicionais
+    - Suprime CAPÍTULO V
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 14.º — Disposições transitórias
+    - Suprime Artigo 15.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime ESPECIFICAÇÕES PARA OS CONJUNTOS DE DADOS REFERIDOS NO ARTIGO 4.º
+    - Suprime PARTE A
+    - Suprime IAIP, dados cartográficos do aeródromo e dados electrónicos sobre obstáculos
+    - Suprime PARTE B
+    - Suprime Conjuntos de dados electrónicos sobre o terreno
+    - Suprime PARTE C
+    - Suprime Metadados
+    - Suprime ANEXO II
+    - Suprime REQUISITOS APLICÁVEIS AO FORMATO DE INTERCÂMBIO DE DADOS AERONÁUTICOS REFERIDOS NO ARTIGO 5.º
+    - Suprime Dados electrónicos sobre o terreno
+    - Suprime ANEXO III
+    - Suprime DISPOSIÇÕES REFERIDAS NO ARTICULADO E NOS ANEXOS
+    - Suprime ANEXO IV
 identifiers:
   celex: 32010R0073
   eli: http://data.europa.eu/eli/reg/2010/73(1)/oj
@@ -50,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/96347910-5b69-40b6-9a64-1161c5efdf33.0018
   content_url: http://publications.europa.eu/resource/cellar/7d99f8dd-9962-11ec-83e1-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0073-20220127
-  retrieved_at: '2026-10-22T02:52:58Z'
+  retrieved_at: '2026-10-22T15:47:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T01:11:31.917+02:00'
 integrity:
@@ -59,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:58Z'
-  notes: Texto consolidado 02010R0073-20220127.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:53Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-73.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,16 +233,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:58Z'
+  checked_at: '2026-10-22T15:47:53Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02010R0073-20100216: versão indisponível (Sem expressão na língua por para CELEX 02010R0073-20100216.)'
   errors: []
 ---
 

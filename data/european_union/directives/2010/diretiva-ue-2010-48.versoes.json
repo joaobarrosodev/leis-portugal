@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0048:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0048-20100728",
+ "dre_path": null,
+ "source_lastmod": "2010-07-28",
+ "versions": [
+  {
+   "date": "2010-07-08",
+   "future": false,
+   "celex": "32010L0048",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "97a568755d1db60c",
+    "c01284798c48aef6",
+    "24a0ca8ee6a8700d",
+    "121bc7f29193c6b3",
+    "aec5680a74d58baa",
+    "dde6c3c6c58cde1b"
+   ]
+  }
+ ],
+ "fragments": {
+  "97a568755d1db60c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho de 2010\n\nque adapta ao progresso técnico a Directiva 2009/40/CE do Parlamento Europeu e do Conselho relativa ao controlo técnico dos veículos a motor e seus reboques\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2009/40/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009, relativa ao controlo técnico dos veículos a motor e seus reboques [([^1])](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntr1-L_2010173PT.01004701-E0001), nomeadamente o artigo 6.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) No interesse da segurança rodoviária, da protecção do ambiente e da concorrência leal, importa garantir que os veículos em circulação sejam devidamente mantidos e controlados, de modo a manter o seu comportamento funcional garantido pela homologação, e sem uma degradação excessiva, ao longo do seu ciclo de vida.\n\n(2) As normas e os métodos referidos no artigo 6.º, n.º 1, da Directiva 2009/40/CE devem ser melhor definidos e adaptar-se ao progresso técnico, a fim de aperfeiçoar, com economia de custos, o controlo técnico dos veículos a motor na União Europeia.\n\n(3) Convém ter em conta as conclusões de dois projectos recentes, o Autofore [([^2])](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntr2-L_2010173PT.01004701-E0002) e a Idelsy [([^3])](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntr3-L_2010173PT.01004701-E0003), sobre as opções futuras em matéria de controlo técnico, bem como os resultados de um diálogo aberto e factual com as partes interessadas.\n\n(4) O estado actual da tecnologia dos veículos exige a inclusão dos sistemas electrónicos modernos na lista de pontos a controlar.\n\n(5) A fim de obter uma maior harmonização do controlo técnico, devem ser introduzidos métodos de controlo para cada um dos pontos a controlar.\n\n(6) Para facilitar uma maior harmonização e por motivos de coerência das normas, deve-se agora incluir uma lista não exaustiva das principais razões da não-aprovação, já existente para os sistemas de travagem.\n\n(7) O controlo técnico deve abranger todos os pontos relativos ao *design*, construção e equipamentos específicos do veículo sujeito a controlo. Deste modo, sempre que necessário, devem ser acrescentados requisitos específicos para determinadas categorias de veículos.\n\n(8) Nos termos do artigo 5.º, alínea e), da Directiva 2009/40/CE, os Estados-Membros tornaram a obrigação do controlo técnico periódico extensiva a outras categorias de veículos. Com vista a uma maior harmonização do controlo técnico, devem ser incluídos os métodos e normas relativos a essas categorias de veículos. Os controlos devem ser efectuados utilizando as técnicas e os equipamentos actualmente disponíveis, e sem utilizar ferramentas de desmontagem ou remoção de qualquer peça ou componente do veículo.\n\n(9) Além dos pontos relativos à segurança e à protecção do ambiente, o controlo tem também de ter em atenção a identificação do veículo, de modo a garantir a aplicação dos ensaios e normas correctos, permitir o registo dos resultados do controlo e possibilitar a aplicação de outros requisitos previstos na lei.\n\n(10) A fim de facilitar o funcionamento do mercado interno e melhorar os métodos do controlo técnico, os resultados de um controlo devem ser indicados num certificado de controlo técnico cobrindo determinados elementos fundamentais.\n\n(11) É necessário continuar a trabalhar no sentido de desenvolver procedimentos de controlo alternativos para controlar as condições de manutenção dos veículos com motores diesel, nomeadamente no que respeita ao NOx e às partículas, tendo em conta os novos sistemas de pós-tratamento de emissões.\n\n(12) As medidas previstas na presente directiva estão em conformidade com o parecer do comité para a adaptação ao progresso técnico da directiva relativa ao controlo técnico dos veículos a motor e seus reboques instituído pelo artigo 7.º da Directiva 2009/40/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "c01284798c48aef6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo II da Directiva 2009/40/CE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "24a0ca8ee6a8700d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 2011, com excepção das disposições do n.º 3 do anexo II, aplicáveis a partir de 31 de Dezembro de 2013. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão os textos das disposições de direito nacional que aprovarem nas matérias abrangidas pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "aec5680a74d58baa": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 5 de Julho de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "dde6c3c6c58cde1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntc1-L_2010173PT.01004701-E0001) [JO L 141 de 6.6.2009, p. 12](http://publications.europa.eu/resource/oj/JOL_2009_141_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntc2-L_2010173PT.01004701-E0002) Estudo Autofore sobre as Opções Futuras para a Instituição do Controlo Técnico na União Europeia (*Study on the Future Options for Roadworthiness Enforcement in the European Union*), http://ec.europa.eu/transport/roadsafety/publications/projectfiles/autofore_en.htm\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/00bf3555-96ed-49e6-94b6-ed9c297131b3.0018.02/DOC_1#ntc3-L_2010173PT.01004701-E0003) Idelsy (*Initiative for Diagnosis of Electronic Systems in Motor Vehicles for PTI*), http://ec.europa.eu/transport/roadsafety/publications/projectfiles/idelsy_en.htm"
+  }
+ }
+}

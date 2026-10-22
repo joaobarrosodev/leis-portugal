@@ -37,6 +37,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-02-26'
+version_history:
+  file: regulamento-ue-2009-288.versoes.json
+  count: 7
+  source_lastmod: '2016-02-26'
+  versions:
+  - date: '2009-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-26'
+    amending: eu:celex:32011R0034:por
+    amending_title: REGULAMENTO (UE) N. o 34/2011 DA COMISSÃO de 18 de Janeiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Ajuda à distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados,
+      bananas e produtos derivados às crianças
+    - Altera Artigo 5.º — Custos elegíveis
+    - Altera Artigo 6.º — Condições gerais de concessão da ajuda
+    - Altera Artigo 7.º — Condições gerais de aprovação dos requerentes da ajuda
+    - Altera Artigo 10.º — Pedidos de ajuda
+    - Altera Artigo 13.º — Controlo e sanções
+    - Altera Artigo 14.º — Cartaz alusivo ao regime europeu de distribuição de fruta nas escolas
+    - Altera Artigo 15.º — Comunicações
+    - Altera Artigo 17.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista dos produtos a excluir dos regimes de distribuição de fruta nas escolas co-financiados pela Comunidade
+    - Adita ANEXO II
+    - Adita ANEXO II-A
+    - Adita ANEXO III
+    - Adita Requisitos mínimos do cartaz alusivo ao regime europeu de distribuição de fruta nas escolas
+  - date: '2011-08-01'
+    amending: eu:celex:32011R1208:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1208/2011 DA COMISSÃO de 22 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Estratégia
+    - Altera Artigo 5.º — Custos elegíveis
+    - Altera Artigo 10.º — Pedidos de ajuda
+    - Altera Artigo 11.º — Pagamento da ajuda
+    - Altera Artigo 12.º — Monitorização e avaliação
+    - Altera Artigo 13.º — Controlo e sanções
+    - Altera Artigo 14.º — Cartaz alusivo ao regime europeu de distribuição de fruta nas escolas
+    - Altera Artigo 15.º — Comunicações
+    - Altera Notas
+    - Adita Artigo 7.º — Condições de aprovação dos requerentes da ajuda
+    - Suprime Artigo 7.º — Condições gerais de aprovação dos requerentes da ajuda
+    - Suprime Artigo 8.º — Condições específicas de aprovação de determinados requerentes
+  - date: '2013-01-25'
+    amending: eu:celex:32013R0030:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 30/2013 DA COMISSÃO de 17 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Ajuda à distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados,
+      bananas e produtos derivados às crianças
+    - Altera Artigo 10.º — Pedidos de ajuda
+    - Altera Artigo 12.º — Monitorização e avaliação
+    - Altera Artigo 13.º — Controlo e sanções
+    - Altera Artigo 15.º — Comunicações
+    - Altera Notas
+    - Suprime ANEXO II-A
+  - date: '2013-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Ajuda à distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados,
+      bananas e produtos derivados às crianças
+    - Altera Artigo 13.º — Controlo e sanções
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2014-08-01'
+    amending: eu:celex:32014R0221:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 221/2014 DA COMISSÃO de 7 de março de 2014; REGULAMENTO DELEGADO (UE)
+      N. o 500/2014 DA COMISSÃO de 11 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Estratégia
+    - Altera Artigo 4.º — Ajuda à distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados,
+      bananas e produtos derivados às crianças
+    - Altera Artigo 5.º — Custos elegíveis
+    - Altera Artigo 13.º — Controlo e sanções
+    - Altera ANEXO II
+    - Altera Notas
+  - date: '2016-02-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação e utilização de termos
+    - Suprime Artigo 2.º — Grupo-alvo
+    - Suprime Artigo 3.º — Estratégia
+    - Suprime Artigo 4.º — Ajuda à distribuição de frutas e produtos hortícolas, frutas e produtos hortícolas transformados,
+      bananas e produtos derivados às crianças
+    - Suprime Artigo 5.º — Custos elegíveis
+    - Suprime Artigo 6.º — Condições gerais de concessão da ajuda
+    - Suprime Artigo 7.º — Condições de aprovação dos requerentes da ajuda
+    - Suprime Artigo 9.º — Suspensão e revogação da aprovação
+    - Suprime Artigo 10.º — Pedidos de ajuda
+    - Suprime Artigo 11.º — Pagamento da ajuda
+    - Suprime Artigo 12.º — Monitorização e avaliação
+    - Suprime Artigo 13.º — Controlo e sanções
+    - Suprime Artigo 14.º — Cartaz alusivo ao regime europeu de distribuição de fruta nas escolas
+    - Suprime Artigo 15.º — Comunicações
+    - Suprime Artigo 16.º — Disposições transitórias
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Lista dos produtos a excluir dos regimes de distribuição de fruta nas escolas co-financiados pela Comunidade
+    - Suprime ANEXO II
+    - Suprime ANEXO III
+    - Suprime Requisitos mínimos do cartaz alusivo ao regime europeu de distribuição de fruta nas escolas
+    - Suprime Notas
 identifiers:
   celex: 32009R0288
   eli: http://data.europa.eu/eli/reg/2009/288/oj
@@ -51,7 +163,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cc65715c-8a37-4b4e-a2fc-90e296a0a85b.0018
   content_url: http://publications.europa.eu/resource/cellar/d0744ded-4bb6-4f38-9bec-1240cbe41c98.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0288-20160226
-  retrieved_at: '2026-10-22T02:48:12Z'
+  retrieved_at: '2026-10-22T15:41:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:23:42.081+02:00'
 integrity:
@@ -60,9 +172,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:12Z'
-  notes: Texto consolidado 02009R0288-20160226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:33Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2009-288.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,16 +256,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:12Z'
+  checked_at: '2026-10-22T15:41:33Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0288-20090411: versão indisponível (Sem expressão na língua por para CELEX 02009R0288-20090411.)'
   errors: []
 ---
 

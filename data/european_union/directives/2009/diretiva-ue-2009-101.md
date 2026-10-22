@@ -37,6 +37,102 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-20'
+version_history:
+  file: diretiva-ue-2009-101.versoes.json
+  count: 4
+  source_lastmod: '2017-07-20'
+  versions:
+  - date: '2009-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-07-06'
+    amending: eu:celex:32012L0017:por
+    amending_title: DIRETIVA 2012/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de junho
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+    - Altera Artigo 18.º
+    - Altera Notas
+    - Adita Artigo 2.º-A
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
+    - Adita Artigo 3.º-C
+    - Adita Artigo 3.º-D
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+    - Adita Artigo 4.º-C
+    - Adita Artigo 4.º-D
+    - Adita Artigo 4.º-E
+    - Adita Artigo 7.º-A
+    - Adita CAPÍTULO 4-A
+    - Adita ATOS DELEGADOS
+    - Adita Artigo 13.º-A
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO II
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0024:por
+    amending_title: DIRETIVA 2013/24/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º-B
+    - Altera Artigo 4.º-C
+    - Altera Artigo 4.º-E
+    - Altera Artigo 7.º-A
+    - Altera Notas
+  - date: '2017-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO 2
+    - Suprime PUBLICIDADE
+    - Suprime Artigo 2.º
+    - Suprime Artigo 2.º-A
+    - Suprime Artigo 3.º
+    - Suprime Artigo 3.º-A
+    - Suprime Artigo 3.º-B
+    - Suprime Artigo 3.º-C
+    - Suprime Artigo 3.º-D
+    - Suprime Artigo 4.º
+    - Suprime Artigo 4.º-A
+    - Suprime Artigo 4.º-B
+    - Suprime Artigo 4.º-C
+    - Suprime Artigo 4.º-D
+    - Suprime Artigo 4.º-E
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 7.º-A
+    - Suprime CAPÍTULO 3
+    - Suprime VALIDADE DAS OBRIGAÇÕES CONTRAÍDAS PELA SOCIEDADE
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO 4
+    - Suprime INVALIDADE DO CONTRATO DE SOCIEDADE
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime CAPÍTULO 4-A
+    - Suprime ATOS DELEGADOS
+    - Suprime Artigo 13.º-A
+    - Suprime CAPÍTULO 5
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
 identifiers:
   celex: 32009L0101
   eli: http://data.europa.eu/eli/dir/2009/101/oj
@@ -51,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/79820c1e-19fe-4caa-b950-f4fbf0cdebb9.0018
   content_url: http://publications.europa.eu/resource/cellar/ddfc241e-e5af-4b73-a529-7d14e7ad7a36.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0101-20170720
-  retrieved_at: '2026-10-22T02:52:40Z'
+  retrieved_at: '2026-10-22T15:39:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T11:14:36.505+02:00'
 integrity:
@@ -60,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:40Z'
-  notes: Texto consolidado 02009L0101-20170720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:24Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2009-101.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,16 +296,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:40Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:39:24Z'
+  warnings: []
   errors: []
 ---
 

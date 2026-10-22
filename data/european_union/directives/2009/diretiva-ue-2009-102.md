@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2009-102.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2009-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0024:por
+    amending_title: Diretiva 2013/24/UE do Conselho de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Formas de sociedades referidas no artigo 1.º
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
 identifiers:
   celex: 32009L0102
   eli: http://data.europa.eu/eli/dir/2009/102/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018
   content_url: http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0102-20130701
-  retrieved_at: '2026-10-22T03:14:29Z'
+  retrieved_at: '2026-10-22T15:39:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T18:40:57.161+02:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:29Z'
-  notes: Texto consolidado 02009L0102-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:26Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-102.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,29 +164,19 @@ relationships:
   date: '1989-12-30'
 article_structure:
   article_count: 11
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:29Z'
+  checked_at: '2026-10-22T15:39:26Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/102/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 2009L0102 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0024) — [Diretiva 2013/24/UE do Conselho de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0024) — L 158 — 365 — 10.6.2013
-
-## DIRECTIVA 2009/102/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

@@ -35,6 +35,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-20'
+version_history:
+  file: diretiva-ue-2009-148.versoes.json
+  count: 3
+  source_lastmod: '2023-12-20'
+  versions:
+  - date: '2009-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 26.º
+    - Altera Notas
+    - Adita Artigo 18.º-A
+    - Adita Artigo 18.º-B
+    - Adita ANEXO I
+    - Adita Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do
+      artigo 18.º
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita Directiva revogada com a lista das suas sucessivas alterações
+    - Adita (referidas no artigo 24.º)
+    - Adita PARTE B
+    - Adita Prazos de transposição para o direito nacional
+    - Adita (referidos no artigo 24.º)
+    - Adita ANEXO III
+    - Suprime Artigo 9.º
+  - date: '2023-12-20'
+    amending: eu:celex:32023L2668:por
+    amending_title: DIRETIVA (UE) 2023/2668 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do
+      artigo 18.º
+    - Altera (referidos no artigo 24.º)
+    - Altera Notas
+    - Adita Artigo 18.º-C
+    - Adita Artigo 22.º-A
+    - Adita ANEXO I-A
+    - Adita Requisitos mínimos para a formação
 identifiers:
   celex: 32009L0148
   eli: http://data.europa.eu/eli/dir/2009/148/oj
@@ -49,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018
   content_url: http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0148-20231220
-  retrieved_at: '2026-10-22T02:59:18Z'
+  retrieved_at: '2026-10-22T15:40:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T18:54:18.151+02:00'
 integrity:
@@ -58,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:18Z'
-  notes: Texto consolidado 02009L0148-20231220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:31Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-148.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,30 +197,19 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:18Z'
+  checked_at: '2026-10-22T15:40:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/148/CE do Parlamento Europeu e do Conselho, de 30 de Novembro de 2009
-
-> 02009L0148 — PT — 20.12.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M2](http://publications.europa.eu/resource/celex/32023L2668) — [DIRETIVA (UE) 2023/2668 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023L2668) — L — 1 — 30.11.2023
-
-## DIRECTIVA 2009/148/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de Novembro de 2009
 

@@ -36,6 +36,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-04'
+version_history:
+  file: regulamento-ue-2010-802.versoes.json
+  count: 2
+  source_lastmod: '2013-01-04'
+  versions:
+  - date: '2010-09-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-04'
+    amending: eu:celex:32012R1205:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1205/2012 DA COMISSÃO de 14 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Lista de companhias com desempenho baixo ou muito baixo
+    - Altera Artigo 4.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita CRITÉRIOS RELATIVOS AO DESEMPENHO DAS COMPANHIAS
+    - Adita (referido no artigo 10.º, n.º 3, da Directiva 2009/16/CE)
+    - Adita 1. Índice de detenções de uma companhia
+    - Adita 2. Índice de anomalias de uma companhia
+    - Adita 3. Matriz de desempenho das companhias
 identifiers:
   celex: 32010R0802
   eli: http://data.europa.eu/eli/reg/2010/802/oj
@@ -50,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b1784c93-e92d-43b2-8766-b2d21b2838fc.0008
   content_url: http://publications.europa.eu/resource/cellar/6e975811-0fe5-4645-86fc-465ffcb4464e.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0802-20130104
-  retrieved_at: '2026-10-22T03:15:23Z'
+  retrieved_at: '2026-10-22T15:48:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T22:44:31.453+02:00'
 integrity:
@@ -59,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:23Z'
-  notes: Texto consolidado 02010R0802-20130104.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:20Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2010-802.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -97,29 +120,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/0961f86e-0f88-4bab-b291-b792303329a2
 article_structure:
   article_count: 4
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:23Z'
+  checked_at: '2026-10-22T15:48:20Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 802/2010 da Comissão, de 13 de Setembro de 2010
-
-> 2010R0802 — PT — 04.01.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R1205) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1205/2012 DA COMISSÃO de 14 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1205) — L 347 — 10 — 15.12.2012
-
-## REGULAMENTO (UE) N.º 802/2010 DA COMISSÃO
 
 de 13 de Setembro de 2010
 

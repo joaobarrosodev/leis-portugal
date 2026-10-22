@@ -38,6 +38,821 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2008-1272.versoes.json
+  count: 22
+  source_lastmod: '2027-01-01'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-01'
+    amending: eu:celex:32009R0790:por
+    amending_title: REGULAMENTO (CE) N. o 790/2009 DA COMISSÃO de 10 de Agosto de 2009
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2011-04-19'
+    amending: eu:celex:32011R0286:por
+    amending_title: REGULAMENTO (UE) N. o 286/2011 DA COMISSÃO de 10 de Março de 2011
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 14.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.2. Rotulagem
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.2. Gases inflamáveis
+    - Altera 2.3. Aerossóis inflamáveis
+    - Altera 2.4. Gases comburentes
+    - Altera 2.5. Gases sob pressão
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.7. Sólidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.11. Substâncias e misturas susceptíveis de auto-aquecimento
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 3.8. Toxicidade para órgãos-alvo específicos — exposição única
+    - Altera 3.9. Toxicidade para órgãos-alvo específicos — exposição repetida
+    - Altera 3.10. Perigo de aspiração
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 2.10. Misturas não destinadas ao grande público
+    - Altera 3.2. Avisos tácteis
+    - 'Altera 1. Parte 1: advertências de perigo'
+    - 'Altera 2. Part 2: supplemental hazard information'
+    - 'Altera 1. Parte 1: critérios aplicáveis à selecção de recomendações de prudência'
+    - 'Altera 2. Parte 2: recomendações de prudência'
+    - Altera INTRODUÇÃO
+    - 'Altera 2. PARTE 2: PERIGOS PARA A SAÚDE'
+    - 'Altera 3. PARTE 3: PERIGOS PARA O AMBIENTE'
+  - date: '2013-12-01'
+    amending: eu:celex:32012R0618:por
+    amending_title: REGULAMENTO (UE) N. o 618/2012 DA COMISSÃO de 10 de julho de 2012; REGULAMENTO (UE) N. o 517/2013 DO CONSELHO
+      de 13 de maio de 2013; REGULAMENTO (UE) N. o 758/2013 DA COMISSÃO de 7 de agosto de 2013
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 14.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - 'Altera 1. Parte 1: advertências de perigo'
+    - 'Altera 2. Part 2: supplemental hazard information'
+    - 'Altera 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      —————◄ mixtures'
+    - 'Altera 2. Parte 2: recomendações de prudência'
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADROS DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2016-04-01'
+    amending: eu:celex:32013R0487:por
+    amending_title: REGULAMENTO (UE) N. o 487/2013 DA COMISSÃO de 8 de maio de 2013; REGULAMENTO (UE) N. o 944/2013 DA COMISSÃO
+      de 2 de outubro de 2013; REGULAMENTO (UE) N. o 605/2014 DA COMISSÃO de 5 de junho de 2014; M9; REGULAMENTO (UE) N. o
+      1297/2014 DA COMISSÃO de 5 de dezembro de 2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 14.º
+    - Altera Artigo 23.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.3. Derrogações aos requisitos de rotulagem para casos especiais
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.4. Gases comburentes
+    - Altera 2.5. Gases sob pressão
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.7. Sólidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.9. Líquidos pirofóricos
+    - Altera 2.10. Sólidos pirofóricos
+    - Altera 2.11. Substâncias e misturas susceptíveis de auto-aquecimento
+    - Altera 2.12. Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis
+    - Altera 2.13. Líquidos comburentes
+    - Altera 2.14. Sólidos comburentes
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.16. Corrosivo para os metais
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.5. Mutagenicidade em células germinativas
+    - Altera 3.6. Carcinogenicidade
+    - Altera 3.7. Toxicidade reprodutiva
+    - Altera 3.8. Toxicidade para órgãos-alvo específicos — exposição única
+    - Altera 3.9. Toxicidade para órgãos-alvo específicos — exposição repetida
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Propriedades físicas
+    - 'Altera 1. Parte 1: advertências de perigo'
+    - 'Altera 2. Part 2: supplemental hazard information'
+    - Altera LISTA DAS RECOMENDAÇÕES DE PRUDÊNCIA
+  - date: '2019-12-01'
+    amending: eu:celex:32015R1221:por
+    amending_title: REGULAMENTO (UE) 2015/1221 DA COMISSÃO de 24 de julho de 2015; REGULAMENTO (UE) 2016/918 DA COMISSÃO de
+      19 de maio de 2016; REGULAMENTO (UE) 2016/1179 DA COMISSÃO de 19 de julho de 2016; REGULAMENTO (UE) 2017/776 DA COMISSÃO
+      de 4 de maio de 2017; REGULAMENTO (UE) 2018/669 DA COMISSÃO de 16 de abril de 2018; M16; REGULAMENTO (UE) 2018/1480
+      DA COMISSÃO de 4 de outubro de 2018; REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de
+      2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 23.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.2. Rotulagem
+    - Altera 1.3. Derrogações aos requisitos de rotulagem para casos especiais
+    - Altera 1.4. Pedido de utilização de um nome químico alternativo
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.2. Gases inflamáveis (incluindo gases quimicamente instáveis)
+    - Altera 2.3. Aerossóis
+    - Altera 2.4. Gases comburentes
+    - Altera 2.5. Gases sob pressão
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.7. Sólidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.9. Líquidos pirofóricos
+    - Altera 2.10. Sólidos pirofóricos
+    - Altera 2.11. Substâncias e misturas susceptíveis de auto-aquecimento
+    - Altera 2.12. Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis
+    - Altera 2.13. Líquidos comburentes
+    - Altera 2.14. Sólidos comburentes
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.16. Corrosivo para os metais
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.5. Mutagenicidade em células germinativas
+    - Altera 3.6. Carcinogenicidade
+    - Altera 3.7. Toxicidade reprodutiva
+    - Altera 3.8. Toxicidade para órgãos-alvo específicos — exposição única
+  - date: '2020-10-17'
+    amending: eu:celex:32017R0542:por
+    amending_title: REGULAMENTO (UE) 2017/542 DA COMISSÃO de 22 de março de 2017; REGULAMENTO (UE) 2019/521 DA COMISSÃO de
+      27 de março de 2019; REGULAMENTO DELEGADO (UE) 2020/11 DA COMISSÃO de 29 de outubro de 2019; REGULAMENTO DELEGADO (UE)
+      2020/217 DA COMISSÃO de 4 de outubro de 2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1.2.2 Valores-limite
+    - Altera 1.1.3.7. Aerossóis
+    - Altera 1.3.2. Garrafas para gases destinadas a propano, butano ou gás de petróleo liquefeito (GPL)
+    - Altera 2.1.1. Definições
+    - Altera 2.1.2. Critérios de classificação
+    - Altera 2.1.4. Considerações suplementares de classificação
+    - Altera 2.1.4.2. Procedimento de despistagem
+    - Altera 2.2.1. Definições
+    - Altera 2.2.2. Critérios de classificação
+    - Altera 2.2.3. Comunicação dos perigos
+    - Altera 2.2.4. Considerações suplementares de classificação
+    - Altera 2.6.2. Critérios de classificação
+    - Altera 2.6.4. Considerações suplementares de classificação
+    - Altera 2.7.2. Critérios de classificação
+    - Altera 2.8.2. Critérios de classificação
+    - Altera 2.8.3. Comunicação dos perigos
+    - Altera 2.12.2. Critérios de classificação
+    - Altera 2.15.2. Critérios de classificação
+    - Altera 2.15.2.3. Critérios aplicáveis ao controlo da temperatura
+    - Altera 2.15.3. Comunicação dos perigos
+    - Altera 3.1.1. Definições
+    - Altera 3.1.2. Critérios de classificação de substâncias como gravemente tóxicas
+    - Altera 3.1.3.6.2. Classificação de misturas se não houver dados para todos os componentes
+    - Altera 3.2.1. Definições e generalidades
+    - Altera 3.2.2.1.1. Corrosão cutânea
+    - Altera 3.3.1. Definições e generalidades
+    - Altera 3.3.3.3. Classificação de misturas se houver dados para todos os ingredientes ou apenas para alguns ingredientes
+      da mistura
+    - Altera 3.3.4. Comunicação dos perigos
+    - Altera 3.4.1. Definições e generalidades
+    - Altera 3.4.2.1.1. Categorias de perigo
+    - Altera 3.4.2.1.3. Estudos com animais
+  - date: '2020-10-28'
+    amending: eu:celex:32020R1413:por
+    amending_title: M23
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1.2.2 Valores-limite
+    - Altera 2.1.2. Critérios de classificação
+    - Altera 2.6.2. Critérios de classificação
+    - Altera 2.6.4. Considerações suplementares de classificação
+    - Altera 2.8.2. Critérios de classificação
+    - Altera 2.8.3. Comunicação dos perigos
+    - Altera 2.15.2. Critérios de classificação
+    - Altera 2.15.2.3. Critérios aplicáveis ao controlo da temperatura
+    - Altera 2.15.3. Comunicação dos perigos
+    - Altera 2.17.1. Definições e generalidades
+    - Altera 3.1.2. Critérios de classificação de substâncias como gravemente tóxicas
+    - Altera 3.1.3.6.2. Classificação de misturas se não houver dados para todos os componentes
+    - Altera 3.2.2.1.1. Corrosão cutânea
+    - Altera 3.3.3.3. Classificação de misturas se houver dados para todos os ingredientes ou apenas para alguns ingredientes
+      da mistura
+    - Altera 3.3.4. Comunicação dos perigos
+    - Altera 3.4.2.1.1. Categorias de perigo
+    - Altera 3.4.2.1.3. Estudos com animais
+    - Altera 3.6.2. Critérios de classificação de substâncias
+    - Altera 4.1.2. Critérios de classificação de substâncias
+    - Altera 4.1.3. Critérios de classificação de misturas
+    - Altera 5.1.1. Definições e generalidades
+    - Altera 1.1.1.2. Números CE
+    - Altera 1.1.2.1.1. Códigos das classes e categorias de perigo
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2020-11-14'
+    amending: eu:celex:32020R1676:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1676 DA COMISSÃO de 31 de agosto de 2020; REGULAMENTO DELEGADO (UE) 2020/1677
+      DA COMISSÃO de 31 de agosto de 2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 25.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1.2.2 Valores-limite
+    - Altera 2.1.2. Critérios de classificação
+    - Altera 2.6.2. Critérios de classificação
+    - Altera 2.6.4. Considerações suplementares de classificação
+    - Altera 2.8.2. Critérios de classificação
+    - Altera 2.8.3. Comunicação dos perigos
+    - Altera 2.15.2. Critérios de classificação
+    - Altera 2.15.2.3. Critérios aplicáveis ao controlo da temperatura
+    - Altera 2.15.3. Comunicação dos perigos
+    - Altera 2.17.1. Definições e generalidades
+    - Altera 3.1.2. Critérios de classificação de substâncias como gravemente tóxicas
+    - Altera 3.1.3.6.2. Classificação de misturas se não houver dados para todos os componentes
+    - Altera 3.2.2.1.1. Corrosão cutânea
+    - Altera 3.3.3.3. Classificação de misturas se houver dados para todos os ingredientes ou apenas para alguns ingredientes
+      da mistura
+    - Altera 3.3.4. Comunicação dos perigos
+    - Altera 3.4.2.1.1. Categorias de perigo
+    - Altera 3.4.2.1.3. Estudos com animais
+    - Altera 3.6.2. Critérios de classificação de substâncias
+    - Altera 4.1.2. Critérios de classificação de substâncias
+    - Altera 4.1.3. Critérios de classificação de misturas
+    - Altera 5.1.1. Definições e generalidades
+    - 'Altera 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      —————◄ mixtures'
+    - Altera 1.1.1.2. Números CE
+    - Altera 1.1.2.1.1. Códigos das classes e categorias de perigo
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera 1.3. Nome, número de telefone e endereço de correio eletrónico para um acesso rápido a informações adicionais
+      sobre o produto
+    - Altera 2.1. Classificação da mistura
+    - Altera 2.2. Elementos do rótulo
+    - Altera 2.4. Informações adicionais
+    - Altera 3.1. Requisitos gerais
+    - Altera 3.2.1. Substâncias
+    - Altera 3.2.2. Mistura em mistura
+  - date: '2021-05-10'
+    amending: eu:celex:32021R0643:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/643 DA COMISSÃO de 3 de fevereiro de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.2. Rotulagem
+    - Altera 1.3. Derrogações aos requisitos de rotulagem para casos especiais
+    - Altera 1.4. Pedido de utilização de um nome químico alternativo
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.2. Gases inflamáveis
+    - Altera 2.3. Aerossóis
+    - Altera 2.4. Gases comburentes
+    - Altera 2.5. Gases sob pressão
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.7. Sólidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.9. Líquidos pirofóricos
+    - Altera 2.10. Sólidos pirofóricos
+    - Altera 2.11. Substâncias e misturas susceptíveis de auto-aquecimento
+    - Altera 2.12. Substâncias e misturas que, em contacto com a água, libertam gases inflamáveis
+    - Altera 2.13. Líquidos comburentes
+    - Altera 2.14. Sólidos comburentes
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.16. Corrosivo para os metais
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.5. Mutagenicidade em células germinativas
+    - Altera 3.6. Carcinogenicidade
+    - Altera 3.7. Toxicidade reprodutiva
+    - Altera 3.8. Toxicidade para órgãos-alvo específicos — exposição única
+    - Altera 3.9. Toxicidade para órgãos-alvo específicos — exposição repetida
+    - Altera 3.10. Perigo de aspiração
+    - Altera 4.1. Perigoso para o ambiente aquático
+  - date: '2021-10-01'
+    amending: eu:celex:32021R0797:por
+    amending_title: M27; REGULAMENTO DELEGADO (UE) 2021/1962 DA COMISSÃO de 12 de agosto de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - 'Altera 2. PARTE 2: REGRAS ESPECIAIS PARA OS ELEMENTOS SUPLEMENTARES DO RÓTULO PARA DETERMINADAS MISTURAS'
+    - 'Altera 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      —————◄ mixtures'
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+    - Adita 2.12. Misturas que contenham dióxido de titânio
+  - date: '2022-03-01'
+    amending: eu:celex:32020R1182:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1182 DA COMISSÃO de 19 de maio de 2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2022-12-17'
+    amending: eu:celex:32021R0849:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/849 DA COMISSÃO de 11 de março de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2023-04-20'
+    amending: eu:celex:32023R0707:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/707 DA COMISSÃO de 19 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 2.10. Misturas não destinadas ao grande público
+    - 'Altera 1. Parte 1: advertências de perigo'
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+    - Adita 3.11. Desregulação endócrina para a saúde humana
+    - Adita 4.2. Desregulação endócrina para o ambiente
+    - Adita 4.3. Propriedades persistentes, bioacumuláveis e tóxicas ou muito persistentes e muito bioacumuláveis
+    - Adita 4.4. Propriedades persistentes, móveis e tóxicas ou muito persistentes e muito móveis
+  - date: '2023-07-31'
+    amending: eu:celex:32023R1434:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1434 DA COMISSÃO de 25 de abril de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2023-12-01'
+    amending: eu:celex:32022R0692:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/692 DA COMISSÃO de 16 de fevereiro de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+    - 'Adita 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      substances and ◄ mixtures'
+    - 'Suprime 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      —————◄ mixtures'
+  - date: '2024-12-10'
+    amending: eu:celex:32024R2865:por
+    amending_title: REGULAMENTO (UE) 2024/2865 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 48.º
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.3. Derrogações aos requisitos de rotulagem para casos especiais
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+  - date: '2025-02-01'
+    amending: eu:celex:32023R1435:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1435 DA COMISSÃO de 2 de maio de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera 1. APLICAÇÃO
+  - date: '2025-09-01'
+    amending: eu:celex:32024R0197:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/197 DA COMISSÃO de 19 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.2. Gases inflamáveis
+    - Altera 2.3. Aerossóis
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.11. Substâncias e misturas susceptíveis de auto-aquecimento
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2026-05-01'
+    amending: eu:celex:32024R2564:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2564 DA COMISSÃO de 19 de junho de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 35.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+  - date: '2026-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 40.º
+    - Altera Artigo 42.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 1.2. Rotulagem
+    - Altera 1.5. Derrogações aos requisitos de rotulagem e de embalagem
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera Notas
+    - Adita CAPITULO 3
+  - date: '2027-01-01'
+    amending: eu:celex:32025R2439:por
+    amending_title: M38; Aviso relativo à classificação harmonizada do dióxido de titânio como cancerígeno da categoria 2
+      por inalação, em conformidade com o Regulamento (CE) n. o 1272/2008 do Parlamento Europeu e do Conselho (C/2025/6670)
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 53.º-A — Exercício da delegação
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 61.º
+    - Altera 1.1. Classificação de substâncias e misturas
+    - Altera 2.1. Explosivos
+    - Altera 2.6. Líquidos inflamáveis
+    - Altera 2.8. Substâncias e misturas auto-reactivas
+    - Altera 2.15. Peróxidos orgânicos
+    - Altera 2.17. Explosivos dessensibilizados
+    - Altera 3.1. Toxicidade aguda
+    - Altera 3.2. Corrosão/irritação cutânea
+    - Altera 3.3. Lesões oculares graves/irritação ocular
+    - Altera 3.4. Sensibilização respiratória ou cutânea
+    - Altera 3.6. Carcinogenicidade
+    - Altera 4.1. Perigoso para o ambiente aquático
+    - Altera 5.1. Perigoso para a camada de ozono
+    - 'Altera 2. PARTE 2: REGRAS ESPECIAIS PARA OS ELEMENTOS SUPLEMENTARES DO RÓTULO PARA DETERMINADAS MISTURAS'
+    - 'Altera 3. Part 3: supplemental label elements/information on certain [►M2](http://publications.europa.eu/resource/celex/32011R0286)
+      —————◄ mixtures'
+    - Altera 1.1. Informações dadas para cada entrada
+    - 'Altera 3. PARTE 3: QUADRO DE CLASSIFICAÇÕES E ROTULAGENS HARMONIZADAS'
+    - Altera 1. APLICAÇÃO
+    - Altera 2. OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Altera 1. IDENTIFICAÇÃO DA MISTURA E DO TRANSMITENTE
+    - Altera 3. INFORMAÇÕES SOBRE OS COMPONENTES DE MISTURAS
+    - Altera 4. ATUALIZAÇÃO DA SUBMISSÃO
+    - Altera 1. FORMATO DE SUBMISSÃO
+    - Altera 1. CIMENTO
+    - Altera 2. LIGANTE À BASE DE GESSO
+    - Altera 3. BETÃO PRONTO
+    - Altera Notas
 identifiers:
   celex: 32008R1272
   eli: http://data.europa.eu/eli/reg/2008/1272/oj
@@ -52,7 +867,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bf54b59-7673-461b-b8e1-f24c545cbd3c.0019
   content_url: http://publications.europa.eu/resource/cellar/e5781283-7bbe-11f1-bf5e-01aa75ed71a1.0012.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1272-20260701
-  retrieved_at: '2026-10-22T02:35:05Z'
+  retrieved_at: '2026-10-22T15:43:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T04:48:46.985+01:00'
 integrity:
@@ -61,9 +876,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:05Z'
-  notes: Texto consolidado 02008R1272-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:42Z'
+  notes: 22 versão(ões); histórico completo em regulamento-ue-2008-1272.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -949,77 +1764,30 @@ relationships:
   date: '1999-05-31'
 article_structure:
   article_count: 69
-  section_count: 155
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 156
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:05Z'
-  warnings: []
+  checked_at: '2026-10-22T15:43:42Z'
+  warnings:
+  - '02008R1272-20090120: versão indisponível (Sem expressão na língua por para CELEX 02008R1272-20090120.)'
+  - '02008R1272-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20150601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20170101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20170601: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20180301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20181201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1272-20200501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1272/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008
-
-> 02008R1272 — PT — 01.07.2026 — 031.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0790) — [REGULAMENTO (CE) N.º 790/2009 DA COMISSÃO de 10 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009R0790) — L 235 — 1 — 5.9.2009
-- [►M2](http://publications.europa.eu/resource/celex/32011R0286) — [REGULAMENTO (UE) N.º 286/2011 DA COMISSÃO de 10 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0286) — L 83 — 1 — 30.3.2011
-- [M3](http://publications.europa.eu/resource/celex/32012R0618) — [REGULAMENTO (UE) N.º 618/2012 DA COMISSÃO de 10 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0618) — L 179 — 3 — 11.7.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013R0487) — [REGULAMENTO (UE) N.º 487/2013 DA COMISSÃO de 8 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0487) — L 149 — 1 — 1.6.2013
-- [►M5](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [M6](http://publications.europa.eu/resource/celex/32013R0758) — [REGULAMENTO (UE) N.º 758/2013 DA COMISSÃO de 7 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0758) — L 216 — 1 — 10.8.2013
-- [M7](http://publications.europa.eu/resource/celex/32013R0944) — [REGULAMENTO (UE) N.º 944/2013 DA COMISSÃO de 2 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0944) — L 261 — 5 — 3.10.2013
-- [►M8](http://publications.europa.eu/resource/celex/32014R0605) — [REGULAMENTO (UE) N.º 605/2014 DA COMISSÃO de 5 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0605) — L 167 — 36 — 6.6.2014
-- [M9](http://publications.europa.eu/resource/celex/32015R0491) — Alterado por: [REGULAMENTO (UE) 2015/491 DA COMISSÃO de 23 de março de 2015](http://publications.europa.eu/resource/celex/32015R0491) — L 78 — 12 — 24.3.2015
-- [►M10](http://publications.europa.eu/resource/celex/32014R1297) — [REGULAMENTO (UE) N.º 1297/2014 DA COMISSÃO de 5 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1297) — L 350 — 1 — 6.12.2014
-- [►M11](http://publications.europa.eu/resource/celex/32015R1221) — [REGULAMENTO (UE) 2015/1221 DA COMISSÃO de 24 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1221) — L 197 — 10 — 25.7.2015
-- [►M12](http://publications.europa.eu/resource/celex/32016R0918) — [REGULAMENTO (UE) 2016/918 DA COMISSÃO de 19 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0918) — L 156 — 1 — 14.6.2016
-- [►M13](http://publications.europa.eu/resource/celex/32016R1179) — [REGULAMENTO (UE) 2016/1179 DA COMISSÃO de 19 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1179) — L 195 — 11 — 20.7.2016
-- [M14](http://publications.europa.eu/resource/celex/32017R0542) — [REGULAMENTO (UE) 2017/542 DA COMISSÃO de 22 de março de 2017](http://publications.europa.eu/resource/celex/32017R0542) — L 78 — 1 — 23.3.2017
-- [►M15](http://publications.europa.eu/resource/celex/32017R0776) — [REGULAMENTO (UE) 2017/776 DA COMISSÃO de 4 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0776) — L 116 — 1 — 5.5.2017
-- [►M16](http://publications.europa.eu/resource/celex/32018R0669) — [REGULAMENTO (UE) 2018/669 DA COMISSÃO de 16 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0669) — L 115 — 1 — 4.5.2018
-- [M17](http://publications.europa.eu/resource/celex/52018XC0709%2801%29) — [Aviso relativo à classificação do breu de alcatrão de hulha de alta temperatura como substância de toxicidade aquática aguda de categoria 1 e de toxicidade aquática crónica de categoria 1, em conformidade com o Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho 2018/C 239/03](http://publications.europa.eu/resource/celex/52018XC0709%2801%29) — C 239 — 3 — 9.7.2018
-- [►M18](http://publications.europa.eu/resource/celex/32018R1480) — [REGULAMENTO (UE) 2018/1480 DA COMISSÃO de 4 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1480) — L 251 — 1 — 5.10.2018
-- [►M19](http://publications.europa.eu/resource/celex/32019R0521) — [REGULAMENTO (UE) 2019/521 DA COMISSÃO de 27 de março de 2019](http://publications.europa.eu/resource/celex/32019R0521) — L 86 — 1 — 28.3.2019
-- [►M20](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [►M21](http://publications.europa.eu/resource/celex/32020R0011) — [REGULAMENTO DELEGADO (UE) 2020/11 DA COMISSÃO de 29 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0011) — L 6 — 8 — 10.1.2020
-- [►M22](http://publications.europa.eu/resource/celex/32020R0217) — [REGULAMENTO DELEGADO (UE) 2020/217 DA COMISSÃO de 4 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0217) — L 44 — 1 — 18.2.2020
-- [►M23](http://publications.europa.eu/resource/celex/32020R1182) — [REGULAMENTO DELEGADO (UE) 2020/1182 DA COMISSÃO de 19 de maio de 2020](http://publications.europa.eu/resource/celex/32020R1182) — L 261 — 2 — 11.8.2020
-- [M24](http://publications.europa.eu/resource/celex/32020R1413) — [REGULAMENTO DELEGADO (UE) 2020/1413 DA COMISSÃO de 29 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1413) — L 326 — 1 — 8.10.2020
-- [►M25](http://publications.europa.eu/resource/celex/32020R1676) — [REGULAMENTO DELEGADO (UE) 2020/1676 DA COMISSÃO de 31 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1676) — L 379 — 1 — 13.11.2020
-- [►M26](http://publications.europa.eu/resource/celex/32020R1677) — [REGULAMENTO DELEGADO (UE) 2020/1677 DA COMISSÃO de 31 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1677) — L 379 — 3 — 13.11.2020
-- [►M27](http://publications.europa.eu/resource/celex/32021R0643) — [REGULAMENTO DELEGADO (UE) 2021/643 DA COMISSÃO de 3 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0643) — L 133 — 5 — 20.4.2021
-- [M28](http://publications.europa.eu/resource/celex/32021R0797) — [REGULAMENTO DELEGADO (UE) 2021/797 DA COMISSÃO de 8 de março de 2021](http://publications.europa.eu/resource/celex/32021R0797) — L 176 — 1 — 19.5.2021
-- [►M29](http://publications.europa.eu/resource/celex/32021R0849) — [REGULAMENTO DELEGADO (UE) 2021/849 DA COMISSÃO de 11 de março de 2021](http://publications.europa.eu/resource/celex/32021R0849) — L 188 — 27 — 28.5.2021
-- [M30](http://publications.europa.eu/resource/celex/32021R1962) — [REGULAMENTO DELEGADO (UE) 2021/1962 DA COMISSÃO de 12 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1962) — L 400 — 16 — 12.11.2021
-- [►M31](http://publications.europa.eu/resource/celex/32022R0692) — [REGULAMENTO DELEGADO (UE) 2022/692 DA COMISSÃO de 16 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0692) — L 129 — 1 — 3.5.2022
-- [►M32](http://publications.europa.eu/resource/celex/32023R0707) — [REGULAMENTO DELEGADO (UE) 2023/707 DA COMISSÃO de 19 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0707) — L 93 — 7 — 31.3.2023
-- [►M33](http://publications.europa.eu/resource/celex/32023R1434) — [REGULAMENTO DELEGADO (UE) 2023/1434 DA COMISSÃO de 25 de abril de 2023](http://publications.europa.eu/resource/celex/32023R1434) — L 176 — 3 — 11.7.2023
-- [►M34](http://publications.europa.eu/resource/celex/32023R1435) — [REGULAMENTO DELEGADO (UE) 2023/1435 DA COMISSÃO de 2 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1435) — L 176 — 6 — 11.7.2023
-- [►M35](http://publications.europa.eu/resource/celex/32024R0197) — [REGULAMENTO DELEGADO (UE) 2024/197 DA COMISSÃO de 19 de outubro de 2023](http://publications.europa.eu/resource/celex/32024R0197) — L 197 — 1 — 5.1.2024
-- [►M36](http://publications.europa.eu/resource/celex/32024R2564) — [REGULAMENTO DELEGADO (UE) 2024/2564 DA COMISSÃO de 19 de junho de 2024](http://publications.europa.eu/resource/celex/32024R2564) — L 2564 — 1 — 30.9.2024
-- [►M37](http://publications.europa.eu/resource/celex/32024R2865) — [REGULAMENTO (UE) 2024/2865 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2865) — L 2865 — 1 — 20.11.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R1272R%2804%29) — [Rectificação, JO L 016, 20.1.2011, p. 1 (1272/2008)](http://publications.europa.eu/resource/celex/32008R1272R%2804%29)
-- [C2](http://publications.europa.eu/resource/celex/32011R0286R%2801%29) — [Rectificação, JO L 138, 26.5.2011, p. 66 (286/2011)](http://publications.europa.eu/resource/celex/32011R0286R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32008R1272R%2811%29) — [Rectificação, JO L 349, 21.12.2016, p. 1 (1272/2008)](http://publications.europa.eu/resource/celex/32008R1272R%2811%29)
-- [►C4](http://publications.europa.eu/resource/celex/32008R1272R%2817%29) — [Rectificação, JO L 117, 3.5.2019, p. 8 (n.o 1272/2008)](http://publications.europa.eu/resource/celex/32008R1272R%2817%29)
-- [►C5](http://publications.europa.eu/resource/celex/32020R0217R%2804%29) — [Rectificação, JO L 214, 17.6.2021, p. 72 (2020/217)](http://publications.europa.eu/resource/celex/32020R0217R%2804%29)
-- [C6](http://publications.europa.eu/resource/celex/32022R0692R%2801%29) — [Rectificação, JO L 146, 25.5.2022, p. 150 (2022/692)](http://publications.europa.eu/resource/celex/32022R0692R%2801%29)
-- [►C7](http://publications.europa.eu/resource/celex/32020R0217R%2806%29) — [Rectificação, JO L 90120, 23.11.2023, p. 1 ((UE) 2020/217)](http://publications.europa.eu/resource/celex/32020R0217R%2806%29)
-- [►C8](http://publications.europa.eu/resource/celex/32023R0707R%2801%29) — [Rectificação, JO L 90724, 18.11.2024, p. 1 ((UE) 2023/707)](http://publications.europa.eu/resource/celex/32023R0707R%2801%29)
-- [►C9](http://publications.europa.eu/resource/celex/32024R0197R%2804%29) — [Rectificação, JO L 90734, 22.9.2025, p. 1 (2024/1972024/197)](http://publications.europa.eu/resource/celex/32024R0197R%2804%29)
-
-## REGULAMENTO (CE) N.º 1272/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 2008
 

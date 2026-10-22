@@ -1,0 +1,379 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0469:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0469-20190701",
+ "dre_path": null,
+ "source_lastmod": "2019-07-01",
+ "versions": [
+  {
+   "date": "2009-06-16",
+   "future": false,
+   "celex": "32009R0469",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "973cd2f22225f1d6",
+    "6236ec804887cd91",
+    "0fba7e1a759f4904",
+    "508c0368145a9c8d",
+    "69dac45e493a9f3d",
+    "844e5c3fc39f4cdd",
+    "4266b8a128bb3865",
+    "29aa27d21f2e7eba",
+    "f0d4102bb5445903",
+    "30eae44b589d0b89",
+    "1991ac7f7ff951ac",
+    "09bc66a2a0a9055e",
+    "1b01687ec28b546e",
+    "08b412209dd5c8d4",
+    "0a965f2e35b833ec",
+    "a3ba1144aa884308",
+    "91b8ffbe7836029c",
+    "a988353187ecaf8e",
+    "36f2a517936984ac",
+    "62ccc1778ea36381",
+    "14458e44d4092fb6",
+    "971938e85102200c",
+    "2cbc21cb2dcc7f4d",
+    "d19e7e84259ec9d6",
+    "2f863cbf9a5623ab"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02009R0469-20130701",
+   "acts": [
+    {
+     "id": null,
+     "title": "►A1",
+     "published": null,
+     "celex": "12012J"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Definições",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 8.º — Conteúdo do pedido de certificado",
+    "Altera Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade",
+    "Altera Artigo 21.º — Disposições transitórias",
+    "Altera Artigo 23.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II"
+   ],
+   "fragments": [
+    "23a59289de42f7a8",
+    "b0c337238fe54324",
+    "9826906c24869eb8",
+    "508c0368145a9c8d",
+    "69dac45e493a9f3d",
+    "844e5c3fc39f4cdd",
+    "4266b8a128bb3865",
+    "29aa27d21f2e7eba",
+    "82982f334b1d9aab",
+    "30eae44b589d0b89",
+    "1991ac7f7ff951ac",
+    "09bc66a2a0a9055e",
+    "1b01687ec28b546e",
+    "08b412209dd5c8d4",
+    "0a965f2e35b833ec",
+    "a3ba1144aa884308",
+    "91b8ffbe7836029c",
+    "a988353187ecaf8e",
+    "36f2a517936984ac",
+    "62ccc1778ea36381",
+    "59951d079cc808da",
+    "59b93565d881877b",
+    "2cbc21cb2dcc7f4d",
+    "254392ea01429fb3",
+    "2cfac96ea3d06a3f",
+    "fed7448e72bce542",
+    "7711161f25905dc6"
+   ]
+  }
+ ],
+ "fragments": {
+  "973cd2f22225f1d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Maio de 2009\n\nrelativo ao certificado complementar de protecção para os medicamentos\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr1-L_2009152PT.01000101-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr2-L_2009152PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.º 1768/92 do Conselho, de 18 de Junho de 1992, relativo à criação de um certificado complementar de protecção para os medicamentos [([^3])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr3-L_2009152PT.01000101-E0003), foi por diversas vezes alterado de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr4-L_2009152PT.01000101-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) A investigação no domínio farmacêutico contribui de forma decisiva para a melhoria contínua da saúde pública.\n\n(3) Os medicamentos, nomeadamente os resultantes de uma investigação longa e onerosa, só continuarão a ser desenvolvidos na Comunidade e na Europa se beneficiarem de uma regulamentação favorável que preveja uma protecção suficiente para incentivar tal investigação.\n\n(4) Actualmente, o período que decorre entre o depósito de um pedido de patente para um novo medicamento e a autorização de introdução no mercado do referido medicamento reduz a protecção efectiva conferida pela patente a um período insuficiente para amortizar os investimentos efectuados na investigação.\n\n(5) Destas circunstâncias resulta uma protecção insuficiente que penaliza a investigação farmacêutica.\n\n(6) Existe o risco de deslocalização dos centros de investigação situados nos Estados-Membros para países que oferecem uma melhor protecção.\n\n(7) É conveniente prever uma solução uniforme a nível comunitário, evitando assim uma evolução divergente das legislações nacionais que origine novas disparidades susceptíveis de entravar a livre circulação dos medicamentos na Comunidade e de, por isso, afectar directamente o funcionamento do mercado interno.\n\n(8) É pois necessário prever um certificado complementar de protecção para os medicamentos relativamente aos quais tenha sido dada autorização de introdução no mercado e que possa ser obtido a pedido do titular de uma patente nacional ou europeia nos mesmos termos em cada Estado-Membro. Consequentemente, o regulamento é o instrumento mais adequado.\n\n(9) A duração da protecção conferida pelo certificado deverá ser determinada de forma a permitir uma protecção efectiva suficiente. Para este efeito, o titular de uma patente e de um certificado deve poder beneficiar no total de um período máximo de quinze anos de exclusividade a partir da primeira autorização de introdução no mercado da Comunidade do medicamento em causa.\n\n(10) No entanto, todos os interesses em causa num sector tão complexo e sensível como o farmacêutico, incluindo os relativos à saúde pública, deverão ser tomados em consideração. Para este efeito, o certificado não poderá ser concedido por um período superior a cinco anos. Além disso, a protecção que o certificado confere deverá ser estritamente limitada ao produto abrangido pela autorização da sua introdução no mercado como medicamento.\n\n(11) É conveniente prever um limite adequado da duração do certificado no caso específico de uma patente já prolongada ao abrigo de uma legislação nacional específica,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "6236ec804887cd91": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\na) «Medicamento»: qualquer substância ou associação de substâncias com propriedades curativas ou preventivas em relação a doenças humanas ou animais, bem como qualquer substância ou associação de substâncias que possa ser administrado ao homem ou a animais com vista a estabelecer um diagnóstico médico ou a restaurar, corrigir ou alterar funções orgânicas no homem ou nos animais;\n\nb) «Produto»: o princípio activo ou associação de princípios activos contidos num medicamento;\n\nc) «Patente de base»: a patente que protege um produto como tal, um processo de obtenção de um produto ou uma aplicação de um produto e que tenha sido designado pelo seu titular para efeitos do processo de obtenção de um certificado;\n\nd) «Certificado»: o certificado complementar de protecção;\n\ne) «Pedido de prorrogação da validade»: o pedido de prorrogação da validade de um certificado concedido nos termos do n.º 3 do artigo 13.º do presente regulamento e do artigo 36.º do Regulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativo a medicamentos para uso pediátrico [([^5])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr5-L_2009152PT.01000101-E0005)."
+  },
+  "0fba7e1a759f4904": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nOs produtos protegidos por uma patente no território de um Estado-Membro e sujeitos, enquanto medicamentos, antes da sua introdução no mercado, a um processo de autorização administrativa por força da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano [([^6])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr6-L_2009152PT.01000101-E0006) ou da Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários [([^7])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr7-L_2009152PT.01000101-E0007), podem ser objecto de um certificado, nas condições e segundo as regras previstas no presente regulamento."
+  },
+  "508c0368145a9c8d": {
+   "fragment_id": "Artigo 3.º — Condições de obtenção do certificado",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Condições de obtenção do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de obtenção do certificado\n\nO certificado é concedido se no Estado-Membro onde for apresentado o pedido previsto no artigo 7.º e à data de tal pedido:\n\na) O produto estiver protegido por uma patente de base em vigor;\n\nb) O produto tiver obtido, enquanto medicamento, uma autorização válida de introdução no mercado, nos termos do disposto na Directiva 2001/83/CE ou na Directiva 2001/82/CE, conforme o caso;\n\nc) O produto não tiver sido já objecto de um certificado;\n\nd) A autorização referida na alínea b) for a primeira autorização de introdução do produto no mercado, como medicamento."
+  },
+  "69dac45e493a9f3d": {
+   "fragment_id": "Artigo 4.º — Objecto da protecção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objecto da protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto da protecção\n\nDentro dos limites da protecção assegurada pela patente de base, a protecção conferida pelo certificado abrange apenas o produto coberto pela autorização de introdução no mercado do medicamento correspondente para qualquer utilização do produto, como medicamento, que tenha sido autorizada antes do termo da validade do certificado."
+  },
+  "844e5c3fc39f4cdd": {
+   "fragment_id": "Artigo 5.º — Efeitos do certificado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Efeitos do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Efeitos do certificado\n\nSem prejuízo do disposto no artigo 4.º, o certificado confere os mesmos direitos que os conferidos pela patente de base e está sujeito às mesmas limitações e obrigações."
+  },
+  "4266b8a128bb3865": {
+   "fragment_id": "Artigo 6.º — Direito ao certificado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Direito ao certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito ao certificado\n\nO direito ao certificado pertence ao titular da patente de base ou aos seus sucessores a qualquer título."
+  },
+  "29aa27d21f2e7eba": {
+   "fragment_id": "Artigo 7.º — Pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedido de certificado\n\n1. O pedido de certificado deve ser apresentado no prazo de seis meses a contar da data em que o produto obteve a autorização de introdução no mercado, como medicamento, referida na alínea b) do artigo 3.º.\n\n2. Sem prejuízo do disposto no n.º 1, quando a autorização de introdução no mercado for dada antes da concessão da patente de base, o pedido de certificado deve ser apresentado no prazo de seis meses a contar da data da concessão da patente.\n\n3. O pedido de prorrogação da validade pode ser apresentado no momento da apresentação ou na pendência de um pedido de certificado, se estiverem preenchidos os requisitos adequados da alínea d) do n.º 1 do artigo 8.º ou do n.º 2 do artigo 8.º, respectivamente.\n\n4. O pedido de prorrogação da validade de um certificado já concedido deve ser apresentado, o mais tardar, dois anos antes do termo de validade do certificado.\n\n5. Não obstante o disposto no n.º 4, durante um período de cinco anos após a entrada em vigor do Regulamento (CE) n.º 1901/2006, os pedidos de prorrogação de certificados já concedidos são apresentados até seis meses antes do termo do referido certificado."
+  },
+  "f0d4102bb5445903": {
+   "fragment_id": "Artigo 8.º — Conteúdo do pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Conteúdo do pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo do pedido de certificado\n\n1. O pedido de certificado deve incluir:\n\na) Um requerimento de emissão do certificado mencionando designadamente: i) o nome e o endereço de requerente, ii) o nome e o endereço do mandatário, se existir, iii) o número da patente de base, bem como o título da invenção, iv) o número e a data da primeira autorização de introdução do produto no mercado, de acordo com a alínea b) do artigo 3.º, bem como o número e a data desta última autorização caso esta não seja a primeira autorização de introdução no mercado na Comunidade;\n\ni) o nome e o endereço de requerente,\n\nii) o nome e o endereço do mandatário, se existir,\n\niii) o número da patente de base, bem como o título da invenção,\n\niv) o número e a data da primeira autorização de introdução do produto no mercado, de acordo com a alínea b) do artigo 3.º, bem como o número e a data desta última autorização caso esta não seja a primeira autorização de introdução no mercado na Comunidade;\n\nb) Uma cópia da autorização de introdução no mercado referida na alínea b) do artigo 3.º que permita identificar o produto, compreendendo, nomeadamente, o número e a data da autorização bem como o resumo das características do produto, tal como previsto no artigo 11.º da Directiva 2001/83/CE ou no artigo 14.º da Directiva 2001/82/CE;\n\nc) Se a autorização prevista na alínea b) não for a primeira autorização de introdução do produto no mercado na Comunidade, como medicamento, a indicação da denominação do produto então autorizado e da disposição legal ao abrigo da qual correu o processo de autorização, bem como uma cópia da publicação dessa autorização no boletim oficial.\n\nd) Se o pedido de certificado incluir um pedido de prorrogação da validade: i) uma cópia da certificação da conformidade com um plano de investigação pediátrica aprovado e completado, conforme referido no n.º 1 do artigo 36.º do Regulamento (CE) n.º 1901/2006, ii) se for o caso, além da cópia da autorização de introdução no mercado referidas na alínea b), prova de que possui autorizações de introdução do medicamento no mercado dos restantes Estados-Membros, nos termos do disposto no n.º 3 do artigo 36.º do Regulamento (CE) n.º 1901/2006.\n\ni) uma cópia da certificação da conformidade com um plano de investigação pediátrica aprovado e completado, conforme referido no n.º 1 do artigo 36.º do Regulamento (CE) n.º 1901/2006,\n\nii) se for o caso, além da cópia da autorização de introdução no mercado referidas na alínea b), prova de que possui autorizações de introdução do medicamento no mercado dos restantes Estados-Membros, nos termos do disposto no n.º 3 do artigo 36.º do Regulamento (CE) n.º 1901/2006.\n\n2. Se estiver pendente um pedido de certificado, o pedido de prorrogação da validade apresentado nos termos do n.º 3 do artigo 7.º deve incluir os dados referidos na alínea d) do n.º 1 do presente artigo e uma referência ao pedido de certificado já apresentado.\n\n3. O pedido de prorrogação da validade de um certificado já concedido deve incluir os dados referidos na alínea d) do n.º 1 e uma referência ao pedido de certificado já concedido.\n\n4. Os Estados-Membros podem exigir o pagamento de uma taxa aquando da apresentação de um pedido de certificado ou de um pedido de prorrogação da validade de um certificado."
+  },
+  "30eae44b589d0b89": {
+   "fragment_id": "Artigo 9.º — Apresentação do pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Apresentação do pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação do pedido de certificado\n\n1. O pedido de certificado deve ser apresentado à autoridade competente em matéria de propriedade industrial do Estado-Membro que concedeu ou para o qual foi concedida a patente de base e no qual foi obtida a autorização de introdução no mercado prevista na alínea b) do artigo 3.º, salvo se o Estado-Membro designar outro serviço para o efeito.\n\nO pedido de prorrogação da validade de um certificado deve ser apresentado à autoridade competente do Estado-Membro em causa.\n\n2. A autoridade prevista no n.º 1 mandará publicar uma menção sobre o pedido de certificado. Esta menção compreenderá, pelo menos, as seguintes indicações:\n\na) Nome e endereço do requerente;\n\nb) Número da patente de base;\n\nc) Título da invenção;\n\nd) Número e data da autorização de introdução no mercado mencionada na alínea b) do artigo 3.º, bem como o produto que é identificado pela autorização;\n\ne) Sendo caso disso, número e data da primeira autorização de introdução no mercado na Comunidade;\n\nf) Caso se justifique, a indicação de que o pedido inclui um pedido de prorrogação da validade.\n\n3. O n.º 2 é aplicável à notificação do pedido de prorrogação da validade de um certificado já concedido ou quando estiver pendente um pedido de certificado. A notificação deve igualmente conter uma referência ao pedido de prorrogação de validade do certificado."
+  },
+  "1991ac7f7ff951ac": {
+   "fragment_id": "Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Concessão do certificado ou recusa do pedido de certificado\n\n1. Se o pedido de certificado e o produto que é objecto do pedido satisfizerem as condições previstas no presente regulamento, a autoridade prevista no n.º 1 do artigo 9.º concederá o certificado.\n\n2. Sem prejuízo do disposto no n.º 3, o pedido de certificado será recusado pela autoridade prevista no n.º 1 do artigo 9.º, se esse pedido ou o produto que dele é objecto não satisfizerem as condições previstas no presente regulamento.\n\n3. Se o pedido de certificado não preencher as condições previstas no prazo fixado para o efeito no artigo 8.º, a autoridade prevista no n.º 1 do artigo 9.º notificará o requerente para corrigir as irregularidades verificadas ou para proceder ao pagamento da taxa.\n\n4. Se, dentro do prazo concedido, não se proceder à correcção das irregularidades ou ao pagamento da taxa, feita a notificação prevista no n.º 3, o pedido será recusado.\n\n5. Os Estados-Membros podem prever que a concessão do certificado pela autoridade prevista no n.º 1 do artigo 9.º se efectue sem exame das condições previstas nas alíneas c) e d) do artigo 3.º.\n\n6. Os n.^os^ 1 a 4 aplicam-se, com as devidas adaptações, aos pedidos de prorrogação da validade."
+  },
+  "09bc66a2a0a9055e": {
+   "fragment_id": "Artigo 11.º — Publicação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Publicação\n\n1. A autoridade prevista no n.º 1 do artigo 9.º publica uma menção de concessão do certificado. Esta menção compreende, pelo menos, as seguintes indicações:\n\na) Nome e endereço do titular do certificado;\n\nb) Número da patente de base;\n\nc) Título da invenção;\n\nd) Número e data da autorização de introdução no mercado mencionada na alínea b) do artigo 3.º, bem como o produto que é identificado pela autorização;\n\ne) Se for caso disso, número e data da primeira autorização de introdução no mercado na Comunidade;\n\nf) Prazo de validade do certificado.\n\n2. A menção da recusa do pedido de certificado será publicada pela autoridade mencionada no n.º 1 do artigo 9.º Esta menção compreenderá, pelo menos, as indicações referidas no n.º 2 do artigo 9.º.\n\n3. Os n.^os^ 1 e 2 são aplicáveis à notificação da concessão de prorrogação da validade de um certificado ou do facto de o pedido de prorrogação ter sido rejeitado."
+  },
+  "1b01687ec28b546e": {
+   "fragment_id": "Artigo 12.º — Taxas anuais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Taxas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Taxas anuais\n\nOs Estados-Membros podem prever que o certificado dê origem ao pagamento de taxas anuais."
+  },
+  "08b412209dd5c8d4": {
+   "fragment_id": "Artigo 13.º — Período de validade do certificado",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Período de validade do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Período de validade do certificado\n\n1. O certificado produz efeitos no termo legal da validade da patente de base, durante um período que corresponde ao período decorrido entre a data da apresentação do pedido da patente de base e a data da primeira autorização de introdução no mercado na Comunidade, reduzido um período de cinco anos.\n\n2. Não obstante o disposto no n.º 1, o período de validade do certificado não pode exceder cinco anos a contar da data em que produzir efeitos.\n\n3. Os períodos previstos nos n.^os^ 1 e 2 serão prorrogados por seis meses no caso do pedido previsto no artigo 36.º do Regulamento (CE) n.º 1901/2006. Nesse caso, o período previsto no n.º 1 do presente artigo só pode ser prorrogado uma vez.\n\n4. Em caso de concessão de um certificado para um produto protegido por uma patente que, antes de 2 de Janeiro de 1993, tenha sido prorrogada ou sido objecto de um pedido de prorrogação ao abrigo da legislação nacional, deverá ser deduzido ao prazo de validade do referido certificado o número de anos que excederem os vinte anos de validade da referida patente."
+  },
+  "0a965f2e35b833ec": {
+   "fragment_id": "Artigo 14.º — Caducidade do certificado",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Caducidade do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caducidade do certificado\n\nO certificado caduca:\n\na) No termo do prazo previsto no artigo 13.º;\n\nb) Em caso de renúncia por parte do titular do certificado;\n\nc) Se a taxa anual prevista nos termos do artigo 12.º não for paga atempadamente;\n\nd) Se e enquanto não for autorizada a introdução no mercado do produto protegido pelo certificado, por ter sido revogada a respectiva autorização ou autorizações de introdução no mercado, ao abrigo da Directiva 2001/83/CE ou da Directiva 2001/82/CE. A autoridade referida no n.º 1 do artigo 9.º do presente regulamento disporá dos poderes necessários para decidir da caducidade do certificado, quer automaticamente, quer a pedido de terceiros."
+  },
+  "a3ba1144aa884308": {
+   "fragment_id": "Artigo 15.º — Nulidade do certificado",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Nulidade do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Nulidade do certificado\n\n1. O certificado é anulado:\n\na) Se tiver sido concedido contrariamente ao disposto no artigo 3.º;\n\nb) Se a patente de base tiver caducado antes do termo do seu período de validade legal;\n\nc) Se a patente de base tiver sido anulada ou de tal modo limitada que o produto para que foi concedido o certificado deixe de estar abrangido pelas reivindicações da patente de base ou se se verificar que, após o termo da validade da patente de base, existiam causas de nulidade que teriam justificado a anulação ou limitação.\n\n2. Qualquer pessoa pode apresentar um pedido ou instaurar uma acção de anulação de um certificado junto da instância competente em matéria de nulidade da patente de base correspondente ao abrigo das disposições da legislação nacional."
+  },
+  "91b8ffbe7836029c": {
+   "fragment_id": "Artigo 16.º — Revogação da prorrogação da validade",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revogação da prorrogação da validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revogação da prorrogação da validade\n\n1. A prorrogação da validade pode ser revogada se tiver sido concedida em violação do disposto no artigo 36.º do Regulamento (CE) n.º 1901/2006.\n\n2. Qualquer pessoa pode apresentar um pedido de revogação da prorrogação junto da instância competente para anular a patente de base correspondente ao abrigo da legislação nacional."
+  },
+  "a988353187ecaf8e": {
+   "fragment_id": "Artigo 17.º — Divulgação da caducidade ou nulidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Divulgação da caducidade ou nulidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divulgação da caducidade ou nulidade\n\n1. Se o certificado caducar nos termos das alíneas b), c) ou d) do artigo 14.º ou for anulado nos termos do artigo 15.º, é publicada uma menção desse facto pela autoridade referida no n.º 1 do artigo 9.º.\n\n2. Se a prorrogação da validade for revogada nos termos do artigo 16.º, a respectiva notificação é publicada pela autoridade referida no n.º 1 do artigo 9.º."
+  },
+  "36f2a517936984ac": {
+   "fragment_id": "Artigo 18.º — Recursos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Recursos\n\nAs decisões tomadas pela autoridade referida no n.º 1 do artigo 9.º ou pelas instâncias referidas no n.º 2 do artigo 15.º e no n.º 2 do artigo 16.º em aplicação do presente regulamento podem ser objecto dos mesmos recursos que os previstos na legislação nacional contra decisões análogas tomadas em matéria de patentes nacionais."
+  },
+  "62ccc1778ea36381": {
+   "fragment_id": "Artigo 19.º — Processo",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processo\n\n1. Na falta de disposições processuais no presente regulamento, aplicam-se ao certificado as disposições processuais aplicáveis por força da legislação nacional à patente de base correspondente, excepto se a legislação nacional estabelecer disposições processuais especiais em relação aos certificados.\n\n2. Sem prejuízo do n.º 1, é excluído o processo de oposição de um certificado concedido."
+  },
+  "14458e44d4092fb6": {
+   "fragment_id": "Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade\n\nSem prejuízo das outras disposições do presente regulamento, são aplicáveis as disposições seguintes:\n\na) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Bulgária após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data de 1 de Janeiro de 2007;\n\nb) Qualquer medicamento que esteja protegido por uma patente de base em vigor na República Checa e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento, i) na República Checa, após 10 de Novembro de 1999, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização, ii) na Comunidade, durante os seis meses anteriores à data de 1 de Maio de 2004, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização;\n\ni) na República Checa, após 10 de Novembro de 1999, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização,\n\nii) na Comunidade, durante os seis meses anteriores à data de 1 de Maio de 2004, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização;\n\nc) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Estónia antes da data de 1 de Maio de 2004, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou, no caso das patentes concedidas antes de 1 de Janeiro de 2000, durante o prazo de seis meses previsto na Lei das Patentes de Outubro de 1999;\n\nd) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento em Chipre antes da data de 1 de Maio de 2004, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização; no entanto, se a autorização de comercialização tiver sido obtida antes da concessão da patente de base, o pedido de certificado deve ser apresentado no prazo de seis meses a contar da data de concessão da patente;\n\ne) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Letónia antes da data de 1 de Maio de 2004. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data da adesão;\n\nf) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor cujo pedido tenha sido apresentado após 1 de Fevereiro de 1994 e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Lituânia antes da data de 1 de Maio de 2004, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar de 1 de Maio de 2004;\n\ng) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Hungria após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data de 1 de Maio de 2004;\n\nh) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento em Malta antes de 1 de Maio de 2004. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data de 1 de Maio de 2004;\n\ni) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Polónia após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar, o mais tardar, da data de 1 de Maio de 2004;\n\nj) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Roménia após 1 de Janeiro de 2000. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data de 1 de Janeiro de 2007;\n\nk) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslovénia antes de 1 de Maio de 2004, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar de 1 de Maio de 2004, inclusive no caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º;\n\nl) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslováquia após 1 de Janeiro de 2000, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou no prazo de seis meses a contar de 1 de Julho de 2002, se a autorização de comercialização tiver sido obtida antes desta data."
+  },
+  "971938e85102200c": {
+   "fragment_id": "Artigo 21.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições transitórias\n\n1. O presente regulamento não se aplica aos certificados concedidos nos termos da legislação nacional de um Estado-Membro antes de 2 de Janeiro de 1993 nem aos pedidos de certificado apresentados nos termos da referida legislação anteriormente a 2 de Julho de 1992.\n\nNo que respeita à Áustria, à Finlândia e à Suécia, o presente regulamento não é aplicável aos certificados concedidos de acordo com a respectiva legislação nacional antes de 1 de Janeiro de 1995.\n\n2. O presente regulamento é aplicável aos certificados complementares de protecção concedidos nos termos da legislação nacional da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, de Malta, da Polónia, da Eslovénia e da Eslováquia antes da data de 1 de Maio de 2004 e nos termos da legislação nacional da Roménia antes da data de 1 de Janeiro de 2007."
+  },
+  "2cbc21cb2dcc7f4d": {
+   "fragment_id": "Artigo 22.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revogação\n\nÉ revogado o Regulamento (CEE) n.º 1768/92, com a redacção que lhe foi dada pelos actos referidos no anexo I.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e ser lidas de acordo com a tabela de correspondência que consta do anexo II."
+  },
+  "d19e7e84259ec9d6": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 6 de Maio de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. KOHOUT**\n\n---"
+  },
+  "2f863cbf9a5623ab": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc1-L_2009152PT.01000101-E0001) [JO C 77 de 31.3.2009, p. 42](http://publications.europa.eu/resource/oj/JOC_2009_077_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc2-L_2009152PT.01000101-E0002) Parecer do Parlamento Europeu de 21 de Outubro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc3-L_2009152PT.01000101-E0003) [JO L 182 de 2.7.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_182_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc4-L_2009152PT.01000101-E0004) Ver anexo I.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc5-L_2009152PT.01000101-E0005) [JO L 378 de 27.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_378_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc6-L_2009152PT.01000101-E0006) [JO L 311 de 28.11.2001, p. 67](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc7-L_2009152PT.01000101-E0007) [JO L 311 de 28.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC)."
+  },
+  "23a59289de42f7a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Maio de 2009\n\nrelativo ao certificado complementar de protecção para os medicamentos\n\n(Versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0002)),\n\n(1) O Regulamento (CEE) n.º 1768/92 do Conselho, de 18 de Junho de 1992, relativo à criação de um certificado complementar de protecção para os medicamentos ([^3^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0003)), foi por diversas vezes alterado de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) A investigação no domínio farmacêutico contribui de forma decisiva para a melhoria contínua da saúde pública.\n\n(3) Os medicamentos, nomeadamente os resultantes de uma investigação longa e onerosa, só continuarão a ser desenvolvidos na Comunidade e na Europa se beneficiarem de uma regulamentação favorável que preveja uma protecção suficiente para incentivar tal investigação.\n\n(4) Actualmente, o período que decorre entre o depósito de um pedido de patente para um novo medicamento e a autorização de introdução no mercado do referido medicamento reduz a protecção efectiva conferida pela patente a um período insuficiente para amortizar os investimentos efectuados na investigação.\n\n(5) Destas circunstâncias resulta uma protecção insuficiente que penaliza a investigação farmacêutica.\n\n(6) Existe o risco de deslocalização dos centros de investigação situados nos Estados-Membros para países que oferecem uma melhor protecção.\n\n(7) É conveniente prever uma solução uniforme a nível comunitário, evitando assim uma evolução divergente das legislações nacionais que origine novas disparidades susceptíveis de entravar a livre circulação dos medicamentos na Comunidade e de, por isso, afectar directamente o funcionamento do mercado interno.\n\n(8) É pois necessário prever um certificado complementar de protecção para os medicamentos relativamente aos quais tenha sido dada autorização de introdução no mercado e que possa ser obtido a pedido do titular de uma patente nacional ou europeia nos mesmos termos em cada Estado-Membro. Consequentemente, o regulamento é o instrumento mais adequado.\n\n(9) A duração da protecção conferida pelo certificado deverá ser determinada de forma a permitir uma protecção efectiva suficiente. Para este efeito, o titular de uma patente e de um certificado deve poder beneficiar no total de um período máximo de quinze anos de exclusividade a partir da primeira autorização de introdução no mercado da Comunidade do medicamento em causa.\n\n(10) No entanto, todos os interesses em causa num sector tão complexo e sensível como o farmacêutico, incluindo os relativos à saúde pública, deverão ser tomados em consideração. Para este efeito, o certificado não poderá ser concedido por um período superior a cinco anos. Além disso, a protecção que o certificado confere deverá ser estritamente limitada ao produto abrangido pela autorização da sua introdução no mercado como medicamento.\n\n(11) É conveniente prever um limite adequado da duração do certificado no caso específico de uma patente já prolongada ao abrigo de uma legislação nacional específica,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "b0c337238fe54324": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento entende-se por:\n\na) «Medicamento»: qualquer substância ou associação de substâncias com propriedades curativas ou preventivas em relação a doenças humanas ou animais, bem como qualquer substância ou associação de substâncias que possa ser administrado ao homem ou a animais com vista a estabelecer um diagnóstico médico ou a restaurar, corrigir ou alterar funções orgânicas no homem ou nos animais;\n\nb) «Produto»: o princípio activo ou associação de princípios activos contidos num medicamento;\n\nc) «Patente de base»: a patente que protege um produto como tal, um processo de obtenção de um produto ou uma aplicação de um produto e que tenha sido designado pelo seu titular para efeitos do processo de obtenção de um certificado;\n\nd) «Certificado»: o certificado complementar de protecção;\n\ne) «Pedido de prorrogação da validade»: o pedido de prorrogação da validade de um certificado concedido nos termos do n.º 3 do artigo 13.º do presente regulamento e do artigo 36.º do Regulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativo a medicamentos para uso pediátrico ([^5^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0005))."
+  },
+  "9826906c24869eb8": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nOs produtos protegidos por uma patente no território de um Estado-Membro e sujeitos, enquanto medicamentos, antes da sua introdução no mercado, a um processo de autorização administrativa por força da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^6^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0006)) ou da Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários ([^7^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0007)), podem ser objecto de um certificado, nas condições e segundo as regras previstas no presente regulamento."
+  },
+  "82982f334b1d9aab": {
+   "fragment_id": "Artigo 8.º — Conteúdo do pedido de certificado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Conteúdo do pedido de certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo do pedido de certificado\n\n1. O pedido de certificado deve incluir:\n\na) Um requerimento de emissão do certificado mencionando designadamente:\n\ni) o nome e o endereço de requerente,\n\nii) o nome e o endereço do mandatário, se existir,\n\niii) o número da patente de base, bem como o título da invenção,\n\niv) o número e a data da primeira autorização de introdução do produto no mercado, de acordo com a alínea b) do artigo 3.º, bem como o número e a data desta última autorização caso esta não seja a primeira autorização de introdução no mercado na Comunidade;\n\nb) Uma cópia da autorização de introdução no mercado referida na alínea b) do artigo 3.º que permita identificar o produto, compreendendo, nomeadamente, o número e a data da autorização bem como o resumo das características do produto, tal como previsto no artigo 11.º da Directiva 2001/83/CE ou no artigo 14.º da Directiva 2001/82/CE;\n\nc) Se a autorização prevista na alínea b) não for a primeira autorização de introdução do produto no mercado na Comunidade, como medicamento, a indicação da denominação do produto então autorizado e da disposição legal ao abrigo da qual correu o processo de autorização, bem como uma cópia da publicação dessa autorização no boletim oficial.\n\nd) Se o pedido de certificado incluir um pedido de prorrogação da validade:\n\ni) uma cópia da certificação da conformidade com um plano de investigação pediátrica aprovado e completado, conforme referido no n.º 1 do artigo 36.º do Regulamento (CE) n.º 1901/2006,\n\nii) se for o caso, além da cópia da autorização de introdução no mercado referidas na alínea b), prova de que possui autorizações de introdução do medicamento no mercado dos restantes Estados-Membros, nos termos do disposto no n.º 3 do artigo 36.º do Regulamento (CE) n.º 1901/2006.\n\n2. Se estiver pendente um pedido de certificado, o pedido de prorrogação da validade apresentado nos termos do n.º 3 do artigo 7.º deve incluir os dados referidos na alínea d) do n.º 1 do presente artigo e uma referência ao pedido de certificado já apresentado.\n\n3. O pedido de prorrogação da validade de um certificado já concedido deve incluir os dados referidos na alínea d) do n.º 1 e uma referência ao pedido de certificado já concedido.\n\n4. Os Estados-Membros podem exigir o pagamento de uma taxa aquando da apresentação de um pedido de certificado ou de um pedido de prorrogação da validade de um certificado."
+  },
+  "59951d079cc808da": {
+   "fragment_id": "Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade\n\nSem prejuízo das outras disposições do presente regulamento, são aplicáveis as disposições seguintes:\n\na) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Bulgária após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data de 1 de Janeiro de 2007;\n\nb) Qualquer medicamento que esteja protegido por uma patente de base em vigor na República Checa e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento,\n\ni) na República Checa, após 10 de Novembro de 1999, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização,\n\nii) na Comunidade, durante os seis meses anteriores à data de 1 de Maio de 2004, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização;\n\nc) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Estónia antes da data de 1 de Maio de 2004, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou, no caso das patentes concedidas antes de 1 de Janeiro de 2000, durante o prazo de seis meses previsto na Lei das Patentes de Outubro de 1999;\n\nd) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento em Chipre antes da data de 1 de Maio de 2004, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização; no entanto, se a autorização de comercialização tiver sido obtida antes da concessão da patente de base, o pedido de certificado deve ser apresentado no prazo de seis meses a contar da data de concessão da patente;\n\ne) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Letónia antes da data de 1 de Maio de 2004. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data da adesão;\n\nf) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor cujo pedido tenha sido apresentado após 1 de Fevereiro de 1994 e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Lituânia antes da data de 1 de Maio de 2004, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar de 1 de Maio de 2004;\n\ng) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Hungria após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data de 1 de Maio de 2004;\n\nh) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento em Malta antes de 1 de Maio de 2004. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data de 1 de Maio de 2004;\n\ni) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Polónia após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar, o mais tardar, da data de 1 de Maio de 2004;\n\nj) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Roménia após 1 de Janeiro de 2000. No caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º, o pedido de certificado poderá ser apresentado durante um período de seis meses a contar, o mais tardar, da data de 1 de Janeiro de 2007;\n\nk) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslovénia antes de 1 de Maio de 2004, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar de 1 de Maio de 2004, inclusive no caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º;\n\nl) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslováquia após 1 de Janeiro de 2000, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou no prazo de seis meses a contar de 1 de Julho de 2002, se a autorização de comercialização tiver sido obtida antes desta data;\n\nm) Pode ser concedido um certificado na Croácia para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de colocação no mercado como medicamento após 1 de Janeiro de 2003, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data da adesão."
+  },
+  "59b93565d881877b": {
+   "fragment_id": "Artigo 21.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições transitórias\n\n1. O presente regulamento não se aplica aos certificados concedidos nos termos da legislação nacional de um Estado-Membro antes de 2 de Janeiro de 1993 nem aos pedidos de certificado apresentados nos termos da referida legislação anteriormente a 2 de Julho de 1992.\n\nNo que respeita à Áustria, à Finlândia e à Suécia, o presente regulamento não é aplicável aos certificados concedidos de acordo com a respectiva legislação nacional antes de 1 de Janeiro de 1995.\n\n2. O presente regulamento é aplicável aos certificados complementares de protecção concedidos nos termos da legislação nacional da República Checa, da Estónia, da Croácia, de Chipre, da Letónia, da Lituânia, de Malta, da Polónia, da Roménia, da Eslovénia e da Eslováquia antes da respectiva data de adesão."
+  },
+  "254392ea01429fb3": {
+   "fragment_id": "Artigo 23.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "2cfac96ea3d06a3f": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nRegulamento (CEE) n.º 1768/92 do Conselho (JO L 182 de 2.7.1992, p. 1)\n\nAnexo I, ponto XI.F.I, do Acto de Adesão de 1994 (JO C 241 de 29.8.1994, p. 233)\n\nAnexo II, ponto 4.C.II, do Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 342)\n\nAnexo III, ponto 1.II, do Acto de Adesão de 2005 (JO L 157 de 21.6.2005, p. 56)\n\nRegulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho (JO L 378 de 27.12.2006, p. 1) Apenas o artigo 52.º"
+  },
+  "fed7448e72bce542": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CEE) n.º 1768/92 Presente regulamento\n\n— Considerando 1\n\nConsiderando 1 Considerando 2\n\nConsiderando 2 Considerando 3\n\nConsiderando 3 Considerando 4\n\nConsiderando 4 Considerando 5\n\nConsiderando 5 Considerando 6\n\nConsiderando 6 Considerando 7\n\nConsiderando 7 Considerando 8\n\nConsiderando 8 Considerando 9\n\nConsiderando 9 Considerando 10\n\nConsiderando 10 —\n\nConsiderando 11 —\n\nConsiderando 12 —\n\nConsiderando 13 Considerando 11\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º, proémio Artigo 3.º, proémio\n\nArtigo 3.º, alínea a) Artigo 3.º, alínea a)\n\nArtigo 3.º, alínea b), primeira frase Artigo 3.º, alínea b)\n\nArtigo 3.º, alínea b), segunda frase —\n\nArtigo 3.º, alíneas c) e d) Artigo 3.º, alíneas c) e d)\n\nArtigos 4.º a 7.º Artigos 4.º a 7.º\n\nArtigo 8.º, n.º 1 Artigo 8.º, n.º 1\n\nArtigo 8.º, n.º 1-A Artigo 8.º, n.º 2\n\nArtigo 8.º, n.º 1-B Artigo 8.º, n.º 3\n\nArtigo 8.º, n.º 2 Artigo 8.º, n.º 4\n\nArtigos 9.º a 12.º Artigos 9.º a 12.º\n\nArtigo 13.º, n.^os^ 1, 2 e 3 Artigo 13.º, n.^os^ 1, 2 e 3\n\nArtigos 14.º e 15.º Artigos 14.º e 15.º\n\nArtigo 15.º-A Artigo 16.º\n\nArtigos 16.º, 17.º e 18.º Artigos 17.º, 18.º e 19.º\n\nArtigo 19.º —\n\nArtigo 19.º-A, proémio Artigo 20.º, proémio\n\nArtigo 19.º-A, alínea a), subalíneas i) e ii) Artigo 20.º, alínea b), proémio, subalíneas i) e ii)\n\nArtigo 19.º-A, alínea b) Artigo 20.º, alínea c)\n\nArtigo 19.º-A, alínea c) Artigo 20.º, alínea d)\n\nArtigo 19.º-A, alínea d) Artigo 20.º, alínea e)\n\nArtigo 19.º-A, alínea e) Artigo 20.º, alínea f)\n\nArtigo 19.º-A, alínea f) Artigo 20.º, alínea g)\n\nArtigo 19.º-A, alínea g) Artigo 20.º, alínea h)\n\nArtigo 19.º-A, alínea h) Artigo 20.º, alínea i)\n\nArtigo 19.º-A, alínea i) Artigo 20.º, alínea k)\n\nArtigo 19.º-A, alínea j) Artigo 20.º, alínea l)\n\nArtigo 19.º-A, alínea k) Artigo 20.º, alínea a)\n\nArtigo 19.º-A, alínea l) Artigo 20.º, alínea j)\n\nArtigo 20.º —\n\nArtigo 21.º —\n\nArtigo 22.º —\n\n— Artigo 13.º, n.º 4\n\nArtigo 23.º Artigo 22.º\n\n— Artigo 23.º\n\n— Anexo I\n\n---"
+  },
+  "7711161f25905dc6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0001)) JO C 77 de 31.3.2009, p. 42.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 21 de Outubro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0003)) JO L 182 de 2.7.1992, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0004)) Ver anexo I.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0005)) JO L 378 de 27.12.2006, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0006)) JO L 311 de 28.11.2001, p. 67.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0007)) JO L 311 de 28.11.2001, p. 1."
+  }
+ }
+}

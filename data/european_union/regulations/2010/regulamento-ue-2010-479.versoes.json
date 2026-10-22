@@ -1,0 +1,1139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0479:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0479-20170711",
+ "dre_path": null,
+ "source_lastmod": "2017-07-11",
+ "versions": [
+  {
+   "date": "2010-06-02",
+   "future": false,
+   "celex": "32010R0479",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "637e1c77b566d3d7",
+    "226c39ffd0a88dad",
+    "856b4ae99d0960b1",
+    "3cb42de52d3e4812",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "55a6ea0cb05a6ac9",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "0dedea91d55e24f7",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "474f063ea23d0bb2",
+    "24ad60fd872e9b85",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "3acb62b1ad05862d",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "f184735af115c665",
+    "139a1564b2b3db0c"
+   ]
+  },
+  {
+   "date": "2010-11-20",
+   "future": false,
+   "celex": "02010R0479-20101120",
+   "acts": [
+    {
+     "id": "eu:celex:32010R1041:por",
+     "title": "REGULAMENTO (UE) N. o 1041/2010 DA COMISSÃO de 16 de Novembro de 2010",
+     "published": null,
+     "celex": "32010R1041"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Notas",
+    "Adita ANEXO I.A",
+    "Adita ANEXO I.B",
+    "Adita ANEXO II",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade com o artigo 3.º",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "84c5e478ccbbbbee",
+    "226c39ffd0a88dad",
+    "856b4ae99d0960b1",
+    "3cb42de52d3e4812",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "55a6ea0cb05a6ac9",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "0dedea91d55e24f7",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "26940155e0429fb6",
+    "eb833c23e49ad0ea",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "3acb62b1ad05862d",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "1e7f81230f302da1",
+    "5031db9f46646512",
+    "852174729551523b",
+    "ef27104f11d0bb9a",
+    "8cb697a8516f464c",
+    "aec5b965d8696b07"
+   ]
+  },
+  {
+   "date": "2011-03-01",
+   "future": false,
+   "celex": "02010R0479-20110301",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0173:por",
+     "title": "REGULAMENTO (UE) N. o 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011",
+     "published": null,
+     "celex": "32011R0173"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "d844745bc6d1f317",
+    "226c39ffd0a88dad",
+    "856b4ae99d0960b1",
+    "3cb42de52d3e4812",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "55a6ea0cb05a6ac9",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "0dedea91d55e24f7",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "4f357008725141b1",
+    "9b4176b0eb6f7c1d",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "3acb62b1ad05862d",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "ab3e4db1d5644970",
+    "07cd5a3540876a5d",
+    "852174729551523b",
+    "b5fcd976491be8b2",
+    "8cb697a8516f464c",
+    "59a78ca901cba188"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "celex": "02010R0479-20111201",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1191:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1191/2011 DA COMISSÃO de 18 de Novembro de 2011",
+     "published": null,
+     "celex": "32011R1191"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "a0ab37b3680fabd0",
+    "226c39ffd0a88dad",
+    "856b4ae99d0960b1",
+    "3cb42de52d3e4812",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "efef6d66380df878",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "0dedea91d55e24f7",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "0557267913b8ddc9",
+    "bb95fc41621bba67",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "3acb62b1ad05862d",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "265ff2103d938c96",
+    "bcbe5ea1420712d7",
+    "852174729551523b",
+    "26b05b4c0053b1f0",
+    "8cb697a8516f464c",
+    "d8d3298360e3d39c"
+   ]
+  },
+  {
+   "date": "2014-04-01",
+   "future": false,
+   "celex": "02010R0479-20140401",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1333:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1333/2013 DA COMISSÃO de 13 de dezembro de 2013",
+     "published": null,
+     "celex": "32013R1333"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "1d13669939efbf18",
+    "226c39ffd0a88dad",
+    "856b4ae99d0960b1",
+    "3cb42de52d3e4812",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "efef6d66380df878",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "0dedea91d55e24f7",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "a2e0d44082b7a251",
+    "692c8b6a67edf9dc",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "afed0138b7ea7a62",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "4bf178b5daf5ee0a",
+    "d6188d61f0c0f76e",
+    "852174729551523b",
+    "9a0664928e216590",
+    "8cb697a8516f464c",
+    "c353d11a6b1d8ca1"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "02010R0479-20141101",
+   "acts": [
+    {
+     "id": "eu:celex:32014R1097:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1097/2014 DA COMISSÃO de 17 de outubro de 2014",
+     "published": null,
+     "celex": "32014R1097"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+    "Suprime CAPÍTULO I",
+    "Suprime MEDIDAS RELATIVAS À AJUDA PARA O LEITE DESNATADO E O LEITE EM PÓ DESNATADO",
+    "Suprime Artigo 1.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "7db20fbb0e786c0b",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "6d879ec589c7c364",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "185dad8f6f2de0c8",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "c0d885516614c63c",
+    "50620d12e029fdcc",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "7d3165c322c334d7",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "0ce8a33074e373a9",
+    "66d6069c42e92a01",
+    "852174729551523b",
+    "5b2f6a6e6ee9dff1",
+    "8cb697a8516f464c",
+    "3fe6337be7732f3a"
+   ]
+  },
+  {
+   "date": "2015-05-01",
+   "future": false,
+   "celex": "02010R0479-20150501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita CAPÍTULO I-A",
+    "Adita ENTREGAS DE LEITE CRU AOS PRIMEIROS COMPRADORES",
+    "Adita Artigo 1.º-A",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "e1a87ccae61edc2c",
+    "41b4aea761b589de",
+    "676b9af3558d8151",
+    "b5eb6d92a92f5197",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "9c72202ea8a983e6",
+    "8bcde776c785b2eb",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "185dad8f6f2de0c8",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "e11e3040a0870996",
+    "25622d34e6e284e3",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "74db15e754f17095",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "9d46fdcd5ced5965",
+    "f0f2dfebbbc62ad2",
+    "852174729551523b",
+    "b03ca12282acd468",
+    "8cb697a8516f464c",
+    "c7c96cb7dd8843b4"
+   ]
+  },
+  {
+   "date": "2017-07-11",
+   "future": false,
+   "celex": "02010R0479-20170711",
+   "acts": [
+    {
+     "id": "eu:celex:32017R1185:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017",
+     "published": null,
+     "celex": "32017R1185"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I.A",
+    "Altera ANEXO I.B",
+    "Altera Notas",
+    "Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0007))em conformidade com o artigo 3.º",
+    "Suprime Artigo 1.º-A",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º"
+   ],
+   "fragments": [
+    "7110f1ca10a686b8",
+    "41b4aea761b589de",
+    "676b9af3558d8151",
+    "f0f8c960bfdbce9b",
+    "cd9234c07cdfd0ca",
+    "1e7a0903d2eed348",
+    "f90547e784da6e6a",
+    "9b406af514eb9164",
+    "22429af6e782c3a5",
+    "185dad8f6f2de0c8",
+    "c844fa89acd7a06c",
+    "c42c0c2b3cabd519",
+    "6a6547526a1c6f45",
+    "ab24489df5edf986",
+    "0adba4b48397502d",
+    "1ecfc79da3f1ac7f",
+    "966d3b11fd5a17ca",
+    "a2132ac5eefc1b8d",
+    "9c2082dca93ac450",
+    "1ec4a256ce4ebdb8",
+    "1c4186c43499cf8a",
+    "8425f34f269ea5dd",
+    "d306f402a6635562",
+    "852174729551523b",
+    "3015ac7cf618ccaf",
+    "8cb697a8516f464c",
+    "4d7de0a100a501f3"
+   ]
+  }
+ ],
+ "fragments": {
+  "637e1c77b566d3d7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr1-L_2010135PT.01002601-E0001), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr2-L_2010135PT.01002601-E0002) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr3-L_2010135PT.01002601-E0003) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais [([^4])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr4-L_2010135PT.01002601-E0004), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação [([^5])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr5-L_2010135PT.01002601-E0005), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas [([^6])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr6-L_2010135PT.01002601-E0006), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho [([^7])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr7-L_2010135PT.01002601-E0007), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos [([^8])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr8-L_2010135PT.01002601-E0008), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "856b4ae99d0960b1": {
+   "fragment_id": "MEDIDAS RELATIVAS À AJUDA PARA O LEITE DESNATADO E O LEITE EM PÓ DESNATADO",
+   "type": "divisao",
+   "heading": "MEDIDAS RELATIVAS À AJUDA PARA O LEITE DESNATADO E O LEITE EM PÓ DESNATADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS RELATIVAS À AJUDA PARA O LEITE DESNATADO E O LEITE EM PÓ DESNATADO"
+  },
+  "3cb42de52d3e4812": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. No que respeita às ajudas concedidas ao abrigo do artigo 99.º, n.º 1, do Regulamento (CE) n.º 1234/2007 para o leite desnatado e o leite em pó desnatado utilizados na alimentação dos animais, os Estados-Membros notificam à Comissão, o mais tardar no dia 20 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades de leite desnatado utilizadas no fabrico de alimentos compostos para animais para as quais tenham sido solicitadas ajudas durante o mês em causa;\n\nb) As quantidades de leite em pó desnatado desnaturado para as quais tenham sido solicitadas ajudas durante o mês em causa;\n\nc) As quantidades de leite em pó desnatado utilizadas no fabrico de alimentos compostos para animais para as quais tenham sido solicitadas ajudas durante o mês em causa.\n\n2. No que respeita às ajudas concedidas ao abrigo do artigo 100.º do Regulamento (CE) n.º 1234/2007 para o leite desnatado transformado em caseína e caseinatos, os Estados-Membros notificam à Comissão, o mais tardar no dia 20 de cada mês, as quantidades de leite desnatado para as quais tenham sido solicitadas ajudas durante o mês anterior. Essas quantidades são repartidas em função da qualidade das caseínas ou caseinatos produzidos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "cd9234c07cdfd0ca": {
+   "fragment_id": "PREÇOS",
+   "type": "divisao",
+   "heading": "PREÇOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PREÇOS"
+  },
+  "55a6ea0cb05a6ac9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O mais tardar na quarta-feira de cada semana às 12 horas (hora de Bruxelas), no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.A registados na semana anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada um dos produtos referidos nos pontos 1 a 6, sempre que a produção nacional represente, pelo menos, 1 % da produção da UE;\n\nb) Os preços dos queijos cuja produção represente, pelo menos, 4 % do total da produção nacional de queijo;\n\nA produção nacional e da UE de manteiga referida nos pontos 4 e 5 do anexo I.A a ter em conta para efeitos do primeiro parágrafo, alínea a), é a produção total de ambos os produtos em conformidade com os pontos referidos.\n\n2. O mais tardar no dia 10 de cada mês, no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.B registados no mês anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada produto, excepto queijos, sempre que a produção nacional represente, pelo menos, 2 % da produção da UE;\n\nb) Os preços dos queijos, por tipo de queijo, excepto os referidos no n.º 1, alínea b), cuja produção represente, pelo menos, 8 % do total da produção nacional de queijo.\n\n3. Os Estados-Membros notificam à Comissão assim que possível, mas o mais tardar no final do mês:\n\na) O preço do leite cru, com o teor real de matérias gordas e proteínas, pago aos produtores de leite no seu território pelas entregas efectuadas no mês anterior;\n\nb) O preço estimado no que respeita às entregas no mês em curso, caso esteja disponível.\n\n4. Para efeitos do presente artigo, entende-se por «preço à saída da fábrica», o preço a que o produto é comprado à empresa, excluindo impostos (IVA) e quaisquer outros custos (transporte, carregamento, manuseamento, armazenagem, paletes, seguros, etc.). O preço diz respeito às vendas facturadas no período de referência."
+  },
+  "8bcde776c785b2eb": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os preços notificados em conformidade com o artigo 2.º são expressos como média ponderada, em moeda nacional por 100 kg.\n\n2. Os Estados-Membros adoptam as medidas necessárias para garantir que as informações notificadas respeitantes aos preços sejam representativas, verdadeiras e completas. Para esse efeito, os Estados-Membros transmitem à Comissão, até 15 de Agosto de 2010, um relatório com base no modelo estabelecido no anexo II. Sempre que seja necessário actualizar um elemento do relatório anterior, é apresentado um novo relatório.\n\n3. Os Estados-Membros adoptam as medidas necessárias para garantir que os operadores económicos em causa lhes apresentem as informações exigidas nos prazos pertinentes.\n\n4. Antes de 15 de Agosto de 2010, os Estados-Membros transmitem à Comissão as seguintes informações, em conformidade com os modelos constantes dos anexos I.A e I.B:\n\na) Se o preço a notificar disser respeito a um produto produzido por menos de três produtores de um Estado-Membro, o termo «Confidencial» deve constar da coluna «Observações» dos anexos I.A e I.B. Essas informações são consideradas confidenciais e só podem ser utilizadas para fins de agregação;\n\nb) Em relação aos queijos, a unidade de embalagem representativa para a qual o preço é comunicado;\n\nc) Em relação aos produtos que não os queijos, quando um preço corresponder a uma unidade de embalagem do produto diferente da indicada na coluna «Unidade de embalagem representativa», a unidade de embalagem do produto relativamente à qual o preço é comunicado deve constar da coluna «Observações» dos anexos I.A e I.B.\n\nOs Estados-Membros informam a Comissão sempre que um dos elementos referidos no primeiro parágrafo, alíneas a), b) e c), tiver de ser actualizado."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f90547e784da6e6a": {
+   "fragment_id": "TROCAS COMERCIAIS",
+   "type": "divisao",
+   "heading": "TROCAS COMERCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TROCAS COMERCIAIS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "22429af6e782c3a5": {
+   "fragment_id": "Importações",
+   "type": "divisao",
+   "heading": "Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Importações"
+  },
+  "0dedea91d55e24f7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros notificam à Comissão, o mais tardar no dia 10 de cada mês em relação ao mês anterior, as quantidades de leite e de produtos lácteos importadas em condições preferenciais, com excepção de contingentes pautais, conforme referido no anexo II, parte I, subparte K, do Regulamento (CE) n.º 376/2008, para as quais tenham sido emitidos certificados de importação, repartidas por código NC e por código do país de origem.\n\nAs notificações incluem as comunicações com a menção «nada»."
+  },
+  "c844fa89acd7a06c": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros notificam à Comissão, o mais tardar em 31 de Março em relação ao ano anterior, os seguintes dados, repartidos por código NC, relativos aos certificados de importação emitidos contra apresentação de um certificado IMA l nos termos do título 2, capítulo III, secção 1, do Regulamento (CE) n.º 2535/2001, especificando os números dos certificados IMA 1:\n\na) A quantidade de produtos para a qual tenha sido emitido o certificado e a data de emissão dos certificados de importação;\n\nb) A quantidade de produtos para a qual tenha sido liberada a garantia.\n\nAs notificações incluem as comunicações com a menção «nada»."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "6a6547526a1c6f45": {
+   "fragment_id": "Exportações",
+   "type": "divisao",
+   "heading": "Exportações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exportações"
+  },
+  "474f063ea23d0bb2": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados: i) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009, ii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto no caso de não ter sido fixada uma restituição ou de ter sido fixada uma restituição à taxa zero para qualquer dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão [([^9])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr9-L_2010135PT.01002601-E0009);\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando: i) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas, ii) a quantidade de produtos abrangida pelo concurso;\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "24ad60fd872e9b85": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido anulados os pedidos de certificado ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão [([^10])](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntr10-L_2010135PT.01002601-E0010), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "3acb62b1ad05862d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As notificações à Comissão nos termos do presente regulamento são efectuadas pelos Estados-Membros por meios electrónicos, segundo os métodos postos à sua disposição pela Comissão.\n\n2. A forma e o conteúdo das notificações são definidos com base em modelos ou métodos postos à disposição das autoridades competentes pela Comissão. Esses modelos e métodos são adaptados e actualizados depois de o comité referido no artigo 195.º, n.º 1, do Regulamento (CE) n.º 1234/2007 ou de as autoridades competentes, consoante o caso, terem sido informados."
+  },
+  "9c2082dca93ac450": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Comissão mantém à disposição dos Estados-Membros os dados, informações e documentos que estes lhe transmitam."
+  },
+  "1ec4a256ce4ebdb8": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ revogado o Regulamento (CE) n.º 562/2005.\n\nNo entanto, o Regulamento (CE) n.º 562/2005 continua a ser aplicável à transmissão dos dados, informações e documentos relativos ao período anterior à aplicação do presente regulamento.\n\nAs referências ao regulamento revogado devem entender-se como referências ao presente regulamento e devem ser lidas de acordo com a tabela de correspondência constante do anexo III do presente regulamento."
+  },
+  "f184735af115c665": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 1 de Junho de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "139a1564b2b3db0c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc1-L_2010135PT.01002601-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc2-L_2010135PT.01002601-E0002) [JO L 95 de 14.4.2005, p. 11](http://publications.europa.eu/resource/oj/JOL_2005_095_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc3-L_2010135PT.01002601-E0003) [JO L 160 de 26.6.1999, p. 48](http://publications.europa.eu/resource/oj/JOL_1999_160_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc4-L_2010135PT.01002601-E0004) [JO L 341 de 22.12.2001, p. 29](http://publications.europa.eu/resource/oj/JOL_2001_341_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc5-L_2010135PT.01002601-E0005) [JO L 238 de 1.9.2006, p. 13](http://publications.europa.eu/resource/oj/JOL_2006_238_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc6-L_2010135PT.01002601-E0006) [JO L 114 de 26.4.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_114_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc7-L_2010135PT.01002601-E0007) [JO L 336 de 23.12.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_336_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc8-L_2010135PT.01002601-E0008) [JO L 318 de 4.12.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_318_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc9-L_2010135PT.01002601-E0009) [JO L 366 de 24.12.1987, p. 1](http://publications.europa.eu/resource/oj/JOL_1987_366_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018.02/DOC_1#ntc10-L_2010135PT.01002601-E0010) [JO L 186 de 17.7.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_186_R_TOC)."
+  },
+  "84c5e478ccbbbbee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "26940155e0429fb6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "eb833c23e49ad0ea": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido anulados os pedidos de certificado ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "1c4186c43499cf8a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "1e7f81230f302da1": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0011) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0011) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0011) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0011) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "5031db9f46646512": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0012) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0012) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0012) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0012) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0012) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "ef27104f11d0bb9a": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito (por exemplo, inquérito directo aos primeiros compradores). Se os preços forem estabelecidos por uma entidade de comercialização, deve indicar-se se se baseiam em opiniões ou em factos. Se for utilizado material secundário, devem ser indicadas as fontes (por exemplo, utilização de relatórios de mercado);\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "8cb697a8516f464c": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nRegulamento (CE) n.º 562/2005 Presente regulamento\n\nArtigo 1.º —\n\nArtigo 2.º —\n\nArtigo 3.º —\n\nArtigo 4.º —\n\nArtigo 5.º Artigo 1.º\n\nArtigo 6.º, n.º 1 Artigo 2.º, n.º 1\n\n— Artigo 2.º, n.º 2\n\nArtigo 6.º, n.º 2 Artigo 2.º, n.º 3, e artigo 3.º, n.º 1\n\nArtigo 6.º, n.º 3 Artigo 3.º, n.º 2\n\nArtigo 6.º, n.º 4 Artigo 3.º, n.º 3\n\nArtigo 6.º, n.º 5 Artigo 2.º, n.º 4\n\n— Artigo 3.º, n.º 4\n\nArtigo 7.º, n.º 1 —\n\nArtigo 7.º, n.º 2 —\n\nArtigo 7.º, n.º 3 —\n\nArtigo 7.º, n.º 4 Artigo 4.º\n\nArtigo 7.º, n.º 5 Artigo 4.º\n\nArtigo 7.º, n.º 6 —\n\nArtigo 8.º Artigo 5.º\n\nArtigo 9.º, n.º 1 Artigo 6.º, n.º 1\n\nArtigo 9.º, n.º 2 Artigo 6.º, n.º 2\n\nArtigo 9.º, n.º 3 —\n\nArtigo 10.º —\n\nArtigo 11.º, alínea a) Artigo 7.º, n.º 1, alínea a)\n\nArtigo 11.º, alínea b) Artigo 7.º, n.º 1, alínea b)\n\nArtigo 11.º, alínea c) —\n\nArtigo 11.º, alínea d) Artigo 7.º, n.º 1, alínea c)\n\nArtigo 11.º, alínea e) Artigo 7.º, n.º 1, alínea d)\n\nArtigo 11.º, alínea e) Artigo 7.º, n.º 2\n\nArtigo 12.º —\n\nArtigo 13.º —\n\nArtigo 14.º Artigo 8.º\n\nArtigo 15.º Artigo 9.º\n\nArtigo 16.º Artigo 10.º\n\nArtigo 17.º Artigo 11.º\n\nAnexo I —\n\nAnexo II —\n\nAnexo III —\n\nAnexo IV —\n\nAnexo V —\n\nAnexo VI Anexos I.A e I.B\n\nAnexo VII —\n\nAnexo VIII —\n\nAnexo IX —\n\nAnexo X —\n\nAnexo XI —\n\nAnexo XII Anexo II\n\nAnexo XIII Anexo III\n\n---"
+  },
+  "aec5b965d8696b07": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#src.E0013)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "d844745bc6d1f317": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4f357008725141b1": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "9b4176b0eb6f7c1d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido anulados os pedidos de certificado ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009.\n\n3. Em derrogação do artigo 8.º, as notificações referidas no presente artigo são efectuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0011))."
+  },
+  "ab3e4db1d5644970": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0012) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0012) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0012) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0012) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "07cd5a3540876a5d": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0013) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "b5fcd976491be8b2": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito (por exemplo, inquérito directo aos primeiros compradores). Se os preços forem estabelecidos por uma entidade de comercialização, deve indicar-se se se baseiam em opiniões ou em factos. Se for utilizado material secundário, devem ser indicadas as fontes (por exemplo, utilização de relatórios de mercado);\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "59a78ca901cba188": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0011)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#src.E0014)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "a0ab37b3680fabd0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "efef6d66380df878": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O mais tardar na quarta-feira de cada semana às 12 horas (hora de Bruxelas), no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.A registados na semana anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada um dos produtos referidos nos pontos 1 a 6, sempre que a produção nacional represente, pelo menos, 1 % da produção da UE;\n\nb) Os preços dos queijos cuja produção represente, pelo menos, 4 % do total da produção nacional de queijo;\n\nA produção nacional e da UE de manteiga referida nos pontos 4 e 5 do anexo I.A a ter em conta para efeitos do primeiro parágrafo, alínea a), é a produção total de ambos os produtos em conformidade com os pontos referidos.\n\n2. O mais tardar no dia 15 de cada mês, no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.B registados no mês anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada produto, excepto queijos, sempre que a produção nacional represente, pelo menos, 2 % da produção da UE;\n\nb) Os preços dos queijos, por tipo de queijo, excepto os referidos no n.º 1, alínea b), cuja produção represente, pelo menos, 8 % do total da produção nacional de queijo.\n\n3. Os Estados-Membros notificam à Comissão assim que possível, mas o mais tardar no final do mês:\n\na) O preço do leite cru, com o teor real de matérias gordas e proteínas, pago aos produtores de leite no seu território pelas entregas efectuadas no mês anterior;\n\nb) O preço estimado no que respeita às entregas no mês em curso, caso esteja disponível.\n\n4. Para efeitos dos n.^os^ 1 e 2, entende-se por «preço à saída da fábrica» o preço a que o produto é comprado à empresa, excluindo impostos (IVA) e quaisquer outros custos (transporte, carregamento, manuseamento, armazenagem, paletes, seguros, etc.).\n\nOs Estados-Membros devem assegurar que o preço notificado é representativo da conjuntura do mercado. O preço notificado deve basear-se na fonte de informação disponível mais adequada, nomeadamente:\n\na) Vendas facturadas no período de referência;\n\nb) Contratos celebrados no período de referência para as entregas no prazo de três meses."
+  },
+  "0557267913b8ddc9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "bb95fc41621bba67": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino e data da apresentação do pedido, para as quais os pedidos de certificado tenham sido anulados, ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009.\n\n3. Em derrogação do artigo 8.º, as notificações referidas no presente artigo são efectuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0011))."
+  },
+  "265ff2103d938c96": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0012) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0012) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0012) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0012) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "bcbe5ea1420712d7": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0013) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0013) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "26b05b4c0053b1f0": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito: Devem ser indicadas as partes interessadas (produtores, primeiros compradores) de que procedem os dados e a forma ou método de recolha dos mesmos;\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "d8d3298360e3d39c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0011)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#src.E0014)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "1d13669939efbf18": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a2e0d44082b7a251": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "692c8b6a67edf9dc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino e data da apresentação do pedido, para as quais os pedidos de certificado tenham sido anulados, ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "afed0138b7ea7a62": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As notificações referidas nos artigos 1.º, 3.º, 5.º e 7.º são efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0012)).\n\n2. As notificações referidas nos artigos 2.º, 4.º e 6.º são efetuadas pelos Estados-Membros por via eletrónica, utilizando os métodos postos à sua disposição pela Comissão. A forma e o conteúdo das notificações são definidos com base em modelos ou métodos postos à disposição das autoridades competentes pela Comissão. Esses modelos e métodos são adaptados e atualizados depois de o comité referido no artigo 195.º, n.º 1, do Regulamento (CE) n.º 1234/2007 ou de as autoridades competentes, consoante o caso, terem sido informados."
+  },
+  "4bf178b5daf5ee0a": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0013) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0013) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0013) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0013) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "d6188d61f0c0f76e": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0014) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "9a0664928e216590": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito: Devem ser indicadas as partes interessadas (produtores, primeiros compradores) de que procedem os dados e a forma ou método de recolha dos mesmos;\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "c353d11a6b1d8ca1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0012)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#src.E0015)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "7db20fbb0e786c0b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6d879ec589c7c364": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O mais tardar na quarta-feira de cada semana às 12 horas (hora de Bruxelas), no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.A registados na semana anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada um dos produtos referidos nos pontos 1 a 6, sempre que a produção nacional represente, pelo menos, 1 % da produção da UE;\n\nb) Os preços dos queijos cuja produção represente, pelo menos, 4 % do total da produção nacional de queijo;\n\nA produção nacional e da UE de manteiga referida nos pontos 4 e 5 do anexo I.A a ter em conta para efeitos do primeiro parágrafo, alínea a), é a produção total de ambos os produtos em conformidade com os pontos referidos.\n\n2. O mais tardar no dia 15 de cada mês, no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.B registados no mês anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada produto, excepto queijos, sempre que a produção nacional represente, pelo menos, 2 % da produção da UE;\n\nb) Os preços dos queijos, por tipo de queijo, excepto os referidos no n.º 1, alínea b), cuja produção represente, pelo menos, 8 % do total da produção nacional de queijo.\n\n3. Os Estados-Membros notificam à Comissão assim que possível, mas o mais tardar no final do mês:\n\na) O preço do leite cru, com o teor real de matérias gordas e proteínas, pago aos produtores de leite no seu território pelas entregas efectuadas no mês anterior;\n\nb) O preço estimado no que respeita às entregas no mês em curso[**►M5**](http://publications.europa.eu/resource/celex/32014R1097) —————**◄**.\n\n4. Para efeitos dos n.^os^ 1 e 2, entende-se por «preço à saída da fábrica» o preço a que o produto é comprado à empresa, excluindo impostos (IVA) e quaisquer outros custos (transporte, carregamento, manuseamento, armazenagem, paletes, seguros, etc.).\n\nOs Estados-Membros devem assegurar que o preço notificado é representativo da conjuntura do mercado. O preço notificado deve basear-se na fonte de informação disponível mais adequada, nomeadamente:\n\na) Vendas facturadas no período de referência;\n\nb) Contratos celebrados no período de referência para as entregas no prazo de três meses."
+  },
+  "185dad8f6f2de0c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros notificam à Comissão, o mais tardar no dia 10 de cada mês em relação ao mês anterior, as quantidades de leite e de produtos lácteos importadas em condições preferenciais, com excepção de contingentes pautais, conforme referido no anexo II, parte I, [**►M5**](http://publications.europa.eu/resource/celex/32014R1097) subparte J**◄**, do Regulamento (CE) n.º 376/2008, para as quais tenham sido emitidos certificados de importação, repartidas por código NC e por código do país de origem.\n\nAs notificações incluem as comunicações com a menção «nada»."
+  },
+  "c0d885516614c63c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "50620d12e029fdcc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino e data da apresentação do pedido, para as quais os pedidos de certificado tenham sido anulados, ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "7d3165c322c334d7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As notificações referidas no presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0012)).\n\n2. Em derrogação do n.º 1, até 31 de dezembro de 2014, as notificações referidas nos artigos 2.º, 4.º e 6.º devem ser efetuadas pelos Estados-Membros por via eletrónica, utilizando os métodos postos à sua disposição pela Comissão. A forma e o conteúdo das notificações são definidos com base em modelos ou métodos postos à disposição das autoridades competentes pela Comissão. Esses modelos e métodos são adaptados e atualizados depois de o comité referido no artigo 229.º do Regulamento (CE) n.º 1308/2013 ou de as autoridades competentes, consoante o caso, terem sido informados.“."
+  },
+  "0ce8a33074e373a9": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0013) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0013) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0013) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0013) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "66d6069c42e92a01": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0014) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "5b2f6a6e6ee9dff1": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito: Devem ser indicadas as partes interessadas (produtores, primeiros compradores) de que procedem os dados e a forma ou método de recolha dos mesmos;\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "3fe6337be7732f3a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0012)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#src.E0015)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "e1a87ccae61edc2c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0001)), nomeadamente o artigo 192.º, n.º 2, em conjugação com o artigo 4.º,\n\n(1) O artigo 192.º, n.º 1, do Regulamento (CE) n.º 1234/2007 prevê o intercâmbio entre os Estados-Membros e a Comissão das informações necessárias para a aplicação desse regulamento. O Regulamento (CE) n.º 562/2005 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0002)) estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0003)) no que respeita às comunicações entre os Estados-Membros e a Comissão no sector do leite e dos produtos lácteos.\n\n(2) Atendendo a que o Regulamento (CE) n.º 562/2005 foi já alterado e que são necessárias novas alterações, nomeadamente para actualizar referências a outros regulamentos, é conveniente, por razões de clareza, revogar o Regulamento (CE) n.º 562/2005 e substituí-lo por um novo regulamento.\n\n(3) A fixação das restituições à exportação e das ajudas relativas ao leite desnatado transformado em caseína só é possível com base em informações sobre a evolução dos preços praticados no mercado interno e no comércio internacional.\n\n(4) É necessário poder comparar cotações de preços de produtos, especialmente para fins de cálculo dos montantes das ajudas e das restituições. É, igualmente, necessário aumentar a fiabilidade dessas cotações de preços mediante uma ponderação dos dados.\n\n(5) Para simplificar e aliviar o fardo administrativo das autoridades nacionais, as notificações semanais dos preços devem ser limitadas aos produtos relativamente aos quais sejam necessárias informações para acompanhar atentamente o mercado do leite e dos produtos lácteos. Devem ser previstas notificações mensais em relação a outros produtos e ser abolidas as notificações para os produtos em relação aos quais as informações não são essenciais.\n\n(6) A notificação dos preços relativos aos produtos produzidos por menos de três produtores por Estado-Membro deve ser marcada como confidencial e utilizada apenas pela Comissão, não devendo ser divulgada.\n\n(7) Para uma melhor vigilância do mercado do leite e dos produtos lácteos, é essencial dispor das informações sobre as importações dos produtos que requerem um certificado de importação. Em conformidade com o artigo 2.º do Regulamento (CE) n.º 2535/2001 da Comissão, de 14 de Dezembro de 2001, que estabelece normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita ao regime de importação do leite e dos produtos lácteos e à abertura de contingentes pautais ([^4^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0004)), a partir de 1 de Julho de 2008 os certificados de importação apenas são exigidos para as importações preferenciais.\n\n(8) O artigo 11.º, n.º 1, alíneas b) e c), do Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^5^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0005)), prevê a notificação à Comissão das quantidades constantes dos certificados de importação emitidos e das quantidades constantes dos certificados de importação não utilizados ou parcialmente utilizados ao abrigo dos contingentes pautais de importação. Essas disposições horizontais referem-se às informações também abrangidas pelo artigo 7.º, n.^os^ 1 e 6, do Regulamento (CE) n.º 562/2005. A obrigação de notificar essas informações não deve, pois, ser incluída no novo regulamento.\n\n(9) O artigo 1.º, n.º 2, alínea a), subalínea i), do Regulamento (CE) n.º 376/2008 da Comissão, de 23 Abril 2008, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^6^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0006)), prevê os casos e os produtos para os quais é exigida a apresentação de um certificado de importação. O anexo II, subparte K, desse regulamento estabelece a lista do leite e dos produtos lácteos importados em condições preferenciais, com excepção de contingentes pautais, e sujeitos a um certificado de importação. Em relação a esses produtos, há que notificar a Comissão.\n\n(10) O título 2, capítulo III, do Regulamento (CE) n.º 2535/2001 prevê que determinados contingentes de importação sejam geridos por meio de certificados IMA 1 («inward monitoring arrangement») emitidos pelas autoridades de países terceiros. Os Estados-Membros informam a Comissão das quantidades de produtos para os quais são emitidos certificados de importação com base nos certificados IMA 1. A experiência demonstrou que essas informações nem sempre permitem acompanhar de perto, em todas as fases, as referidas importações. É conveniente prever a transmissão de informações complementares.\n\n(11) Uma observação precisa e regular das correntes comerciais que permita avaliar o efeito das restituições exige informações sobre as exportações dos produtos para os quais são fixadas restituições, nomeadamente no que se refere às quantidades adjudicadas no âmbito de um concurso público.\n\n(12) A aplicação do Acordo sobre a Agricultura concluído no âmbito das negociações comerciais multilaterais do Uruguay Round (seguidamente designado «Acordo sobre a Agricultura»), aprovado pela Decisão 94/800/CE do Conselho ([^7^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0007)), exige, para assegurar o respeito dos compromissos assumidos no Acordo sobre a Agricultura, a transmissão de uma vasta série de informações pormenorizadas sobre as importações e exportações, nomeadamente sobre os pedidos de certificados e o modo como os certificados são utilizados. A fim de tirar o máximo proveito desses compromissos, é necessário dispor rapidamente de informações sobre a evolução das exportações.\n\n(13) O Regulamento (CE) n.º 1187/2009 da Comissão, de 27 de Novembro de 2009, que estabelece as regras especiais de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos certificados de exportação e às restituições à exportação no sector do leite e dos produtos lácteos ([^8^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0008)), estabelece regras especiais para a exportação de certos produtos lácteos para o Canadá, os Estados Unidos e a República Dominicana. É conveniente prever a notificação das informações correspondentes.\n\n(14) O Regulamento (CE) n.º 1187/2009 prevê um regime específico para a concessão das restituições aos componentes de origem UE do queijo fundido fabricado ao abrigo do regime do aperfeiçoamento activo. É conveniente prever a notificação das informações correspondentes.\n\n(15) A experiência obtida ao longo dos anos com o tratamento das informações recebidas pela Comissão mostra que a frequência de determinadas notificações pode ser reduzida sem perda de informações essenciais.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "41b4aea761b589de": {
+   "fragment_id": "CAPÍTULO I-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO I-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I-A"
+  },
+  "676b9af3558d8151": {
+   "fragment_id": "ENTREGAS DE LEITE CRU AOS PRIMEIROS COMPRADORES",
+   "type": "divisao",
+   "heading": "ENTREGAS DE LEITE CRU AOS PRIMEIROS COMPRADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ENTREGAS DE LEITE CRU AOS PRIMEIROS COMPRADORES"
+  },
+  "b5eb6d92a92f5197": {
+   "fragment_id": "Artigo 1.º-A",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A\n\n1. A partir de 1 de maio de 2015, os Estados-Membros devem notificar à Comissão, até ao dia 25 de cada mês, a quantidade total de leite de vaca cru entregue no mês precedente aos primeiros compradores estabelecidos nos respetivos territórios, em conformidade com o artigo 151.º do Regulamento (UE) n.º 1308/2013. A quantidade total de leite de vaca cru entregue deve ser expressa em quilogramas e referir-se a leite com o teor efetivo de matérias gordas.\n\n2. Os Estados-Membros devem tomar as medidas adequadas para assegurar que todos os primeiros compradores estabelecidos nos seus territórios declarem, atempada e rigorosamente, à autoridade nacional competente a quantidade de leite de vaca cru que lhes foi entregue em cada mês, de forma a cumprirem o prazo estabelecido no n.º 1."
+  },
+  "9c72202ea8a983e6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O mais tardar na quarta-feira de cada semana às 12 horas (hora de Bruxelas), no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.A registados na semana anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada um dos produtos referidos nos pontos 1 a 6, sempre que a produção nacional represente, pelo menos, 1 % da produção da UE;\n\nb) Os preços dos queijos cuja produção represente, pelo menos, 4 % do total da produção nacional de queijo;\n\nA produção nacional e da UE de manteiga referida nos pontos 4 e 5 do anexo I.A a ter em conta para efeitos do primeiro parágrafo, alínea a), é a produção total de ambos os produtos em conformidade com os pontos referidos.\n\n2. O mais tardar no dia 15 de cada mês, no que respeita aos preços à saída da fábrica dos produtos indicados no anexo I.B registados no mês anterior, os Estados-Membros notificam à Comissão:\n\na) Os preços para cada produto, excepto queijos, sempre que a produção nacional represente, pelo menos, 2 % da produção da UE;\n\nb) Os preços dos queijos, por tipo de queijo, excepto os referidos no n.º 1, alínea b), cuja produção represente, pelo menos, 8 % do total da produção nacional de queijo.\n\n3. Os Estados-Membros notificam à Comissão assim que possível, mas o mais tardar no final do mês:\n\na) O preço do leite cru, com o teor real de matérias gordas e proteínas, pago aos produtores de leite no seu território pelas entregas efectuadas no mês anterior;\n\nb) O preço estimado no que respeita às entregas no mês em curso,[**►M5**](http://publications.europa.eu/resource/celex/32014R1097) —————**◄**.\n\n4. Para efeitos dos n.^os^ 1 e 2, entende-se por «preço à saída da fábrica» o preço a que o produto é comprado à empresa, excluindo impostos (IVA) e quaisquer outros custos (transporte, carregamento, manuseamento, armazenagem, paletes, seguros, etc.).\n\nOs Estados-Membros devem assegurar que o preço notificado é representativo da conjuntura do mercado. O preço notificado deve basear-se na fonte de informação disponível mais adequada, nomeadamente:\n\na) Vendas facturadas no período de referência;\n\nb) Contratos celebrados no período de referência para as entregas no prazo de três meses."
+  },
+  "e11e3040a0870996": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0009)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "25622d34e6e284e3": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino e data da apresentação do pedido, para as quais os pedidos de certificado tenham sido anulados, ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0010)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "74db15e754f17095": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As notificações referidas no presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0012)).\n\n2. Em derrogação do n.º 1, até 31 de dezembro de 2014, as notificações referidas nos artigos 2.º, 4.º e 6.º devem ser efetuadas pelos Estados-Membros por via eletrónica, utilizando os métodos postos à sua disposição pela Comissão. A forma e o conteúdo das notificações são definidos com base em modelos ou métodos postos à disposição das autoridades competentes pela Comissão. Esses modelos e métodos são adaptados e atualizados depois de o comité referido no artigo 229.º do Regulamento (CE) n.º 1308/2013 ou de as autoridades competentes, consoante o caso, terem sido informados.“."
+  },
+  "9d46fdcd5ced5965": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0013) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0013) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0013) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0013) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "f0f2dfebbbc62ad2": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0014) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0014) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "b03ca12282acd468": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito: Devem ser indicadas as partes interessadas (produtores, primeiros compradores) de que procedem os dados e a forma ou método de recolha dos mesmos;\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "c7c96cb7dd8843b4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0002)) JO L 95 de 14.4.2005, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0003)) JO L 160 de 26.6.1999, p. 48.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0004)) JO L 341 de 22.12.2001, p. 29.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0005)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0006)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0008)) JO L 318 de 4.12.2009, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0009)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0010)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0012)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#src.E0015)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  },
+  "7110f1ca10a686b8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho de 2010\n\nque estabelece as regras de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita às notificações dos Estados-Membros à Comissão no sector do leite e dos produtos lácteos"
+  },
+  "ab24489df5edf986": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificam à Comissão todos os dias úteis, até às 18 horas, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados:\n\ni) referidos no artigo 1.º, n.º 2, alínea b), subalínea ii), do Regulamento (CE) n.º 376/2008, com excepção dos referidos nos artigos 15.º e 29.º do Regulamento (CE) n.º 1178/2009,\n\nii) referidos no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nb) Se for caso disso, que não foram, nesse dia, solicitados certificados, excepto quando nenhum dos produtos referidos no anexo I, parte 9, do Regulamento (CEE) n.º 3846/87 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0001)) esteja sujeito a restituição ou quando esta tenha sido fixada à taxa zero;\n\nc) As quantidades, repartidas por pedido, por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido solicitados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, indicando:\n\ni) a data-limite para a apresentação de propostas, acompanhada de uma cópia do documento que confirma o concurso para as quantidades solicitadas,\n\nii) a quantidade de produtos abrangida pelo concurso;\n\nd) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino, para as quais tenham sido definitivamente emitidos ou anulados, nesse dia, certificados provisórios referidos no artigo 8.º do Regulamento (CE) n.º 1187/2009, a data do certificado provisório e a quantidade por ele abrangida;\n\ne) Se for caso disso, a quantidade revista de produtos abrangida pelo concurso referida presente número, alínea c);\n\nf) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação, para as quais tenham sido emitidos certificados com restituição ao abrigo do artigo 32.º, n.º 1, do Regulamento (CE) n.º 1187/2009.\n\n2. No respeitante à notificação referida no n.º 1, alínea c), subalínea i), sempre que sejam apresentados vários pedidos para o mesmo concurso, é suficiente uma notificação por Estado-Membro."
+  },
+  "0adba4b48397502d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os Estados-Membros notificam à Comissão, antes do dia 16 de cada mês em relação ao mês anterior, as seguintes informações:\n\na) As quantidades, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino e data da apresentação do pedido, para as quais os pedidos de certificado tenham sido anulados, ao abrigo do artigo 10.º, n.º 2, segundo parágrafo, do Regulamento (CE) n.º 1187/2009;\n\nb) As quantidades não utilizadas de certificados caducados e devolvidos no mês anterior e que tenham sido emitidos desde 1 de Julho do ano GATT em curso, repartidas por código da nomenclatura dos produtos lácteos para as restituições à exportação e por código de destino;\n\nc) As quantidades, repartidas por código NC e por código do país de origem, que não se encontrem em qualquer das situações referidas no artigo 28.º, n.º 2, do Tratado, de produtos lácteos importados para serem utilizados no fabrico de produtos do código NC 0406 30, em conformidade com o artigo 12.º n.º 5, alínea c), do Regulamento (CE) n.º 612/2009 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0002)), e para os quais tenha sido concedida a autorização referida no artigo 15.º do Regulamento (CE) n.º 1187/2009;\n\nd) As quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados e não tenham sido solicitadas restituições, como referido no artigo 18.º do Regulamento (CE) n.º 1187/2009.\n\n2. Os Estados-Membros notificam à Comissão, antes de 31 de Dezembro, as quantidades, repartidas por código NC, para as quais tenham sido emitidos certificados em relação ao ano de contingentamento seguinte, em conformidade com o artigo 25.º do Regulamento (CE) n.º 1187/2009."
+  },
+  "a2132ac5eefc1b8d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As notificações referidas no presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0004)).\n\n2. Em derrogação do n.º 1, até 31 de dezembro de 2014, as notificações referidas nos artigos 2.º, 4.º e 6.º devem ser efetuadas pelos Estados-Membros por via eletrónica, utilizando os métodos postos à sua disposição pela Comissão. A forma e o conteúdo das notificações são definidos com base em modelos ou métodos postos à disposição das autoridades competentes pela Comissão. Esses modelos e métodos são adaptados e atualizados depois de o comité referido no artigo 229.º do Regulamento (CE) n.º 1308/2013 ou de as autoridades competentes, consoante o caso, terem sido informados."
+  },
+  "8425f34f269ea5dd": {
+   "fragment_id": "ANEXO I.A",
+   "type": "divisao",
+   "heading": "ANEXO I.A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.A\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Soro de leite em pó | 0404 10 02 | 25 kg |  |\n| 2. Leite em pó desnatado em conformidade com os requisitos de qualidade de intervenção | 0402 10 19 | 25 kg |  |\n| 3. Leite em pó desnatado para alimentação dos animais | 0402 10 19 ANIM | 20 t |  |\n| 4. Leite em pó gordo | 0402 21 19 | 25 kg |  |\n| 5. Manteiga — sem sal | 0405 10 19 | 25 kg |  |\n| 6. Manteiga — sem sal | 0405 10 11 | 250 g |  |\n| 7. *Butter oil* | 0405 90 10 | 200 kg |  |\n| 8. Cheddar, 45 a 50 % de matéria gorda na matéria seca | 0406 90 21 | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0005) |  |\n| 9. Gouda, 45 a 50 % de matéria gorda na matéria seca | 0406 90 78 | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0005) |  |\n| 10. Edam, 40 a 45 % de matéria gorda na matéria seca | 0406 90 23 | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0005) |  |\n| 11. Emmental, 45 a 50 % de matéria gorda na matéria seca | 0406 90 13 | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0005) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "d306f402a6635562": {
+   "fragment_id": "ANEXO I.B",
+   "type": "divisao",
+   "heading": "ANEXO I.B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I.B\n\n| Produto | Código NC | Unidade de embalagem representativa | Observações |\n| --- | --- | --- | --- |\n| 1. Caseína | 3501 10 | 25 kg (sacos) |  |\n| 2. Queijos: |  |  |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0006) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0006) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0006) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0006) |  |\n| — |  | [(^1^)](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0006) |  |\n| (^1^)Em relação aos queijos, a notificação refere-se à unidade de embalagem mais representativa. |  |  |  |"
+  },
+  "3015ac7cf618ccaf": {
+   "fragment_id": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0007))em conformidade com o artigo 3.º",
+   "type": "divisao",
+   "heading": "Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0007))em conformidade com o artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0007))em conformidade com o artigo 3.º\n\n1. Organização e estrutura do mercado:\n\n2. Definição do produto:\n\n3. Local e procedimento de registo:\n\na) Entidade responsável pelas estatísticas dos preços (endereço, fax, correio electrónico);\n\nb) Número de pontos de registo, assim como a área ou a região geográfica a que os preços se referem;\n\nc) Método de inquérito: Devem ser indicadas as partes interessadas (produtores, primeiros compradores) de que procedem os dados e a forma ou método de recolha dos mesmos;\n\nd) Tratamento estatístico dos preços, incluindo factores de conversão utilizados para converter o peso dos produtos no peso representativo, estabelecido no anexo I.\n\n4. Produção:\n\n5. Representatividade:\n\n6. Outros aspectos pertinentes"
+  },
+  "4d7de0a100a501f3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#src.E0001)) JO L 366 de 24.12.1987, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#src.E0002)) JO L 186 de 17.7.2009, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#src.E0004)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#src.E0007)) O relatório deve ser enviado para o seguinte endereço: Comissão Europeia — DG AGRI.C.4 — Unidade produtos animais."
+  }
+ }
+}

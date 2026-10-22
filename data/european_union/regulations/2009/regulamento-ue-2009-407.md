@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-05-22'
+version_history:
+  file: regulamento-ue-2009-407.versoes.json
+  count: 2
+  source_lastmod: '2009-05-22'
+  versions:
+  - date: '2009-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-22'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO
+    - Adita Interpretação dos anexos A, B, C e D
 identifiers:
   celex: 32009R0407
   eli: http://data.europa.eu/eli/reg/2009/407/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c1eb26a3-5c16-4308-a969-0ab3216ca3d6.0018
   content_url: http://publications.europa.eu/resource/cellar/cd27b850-12a8-4c70-ab22-50504a44d278.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0407-20090522
-  retrieved_at: '2026-10-22T03:14:42Z'
+  retrieved_at: '2026-10-22T15:41:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:49:20.365+02:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:42Z'
-  notes: Texto consolidado 02009R0407-20090522.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:48Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-407.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -113,31 +132,19 @@ relationships:
   date: '2008-04-08'
 article_structure:
   article_count: 2
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:42Z'
+  checked_at: '2026-10-22T15:41:48Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 407/2009 da Comissão, de 14 de Maio de 2009
-
-> 2009R0407 — PT — 22.05.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32009R0407R%2801%29) — [Rectificação, JO L 139, 5.6.2009, p. 35 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009R0407R%2803%29) — [Rectificação, JO L 176, 7.7.2009, p. 27 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32009R0407R%2804%29) — [Rectificação, JO L 288, 4.11.2009, p. 40 (407/2009)](http://publications.europa.eu/resource/celex/32009R0407R%2804%29)
-
-## REGULAMENTO (CE) N.º 407/2009 DA COMISSÃO
 
 de 14 de Maio de 2009
 

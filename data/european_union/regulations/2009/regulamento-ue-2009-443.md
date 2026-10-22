@@ -32,10 +32,39 @@ legal_status: repealed
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto original publicado no Jornal Oficial
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-05-08'
+version_history:
+  file: regulamento-ue-2009-443.versoes.json
+  count: 2
+  source_lastmod: '2018-05-17'
+  versions:
+  - date: '2009-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-05-08'
+    amending: eu:celex:32013R0397:por
+    amending_title: REGULAMENTO (UE) N. o 397/2013 DA COMISSÃO de 30 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Prémio sobre emissões excedentárias
+    - Altera Artigo 11.º — Derrogações para determinados fabricantes
+    - Altera Artigo 14.º — Procedimento de comité
+    - Altera Artigo 16.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita OBJECTIVOS DE EMISSÕES ESPECÍFICAS
+    - Adita ANEXO II
+    - Adita VIGILÂNCIA E COMUNICAÇÃO DAS EMISSÕES
+    - Adita PARTE A – Recolha de dados sobre os automóveis novos de passageiros e determinação das informações relativas à
+      vigilância das emissões de CO2
+    - Adita PARTE B – Metodologia para determinação das informações relativas à vigilância das emissões de CO2 dos automóveis
+      novos de passageiros
+    - Adita PARTE C – Modelos para transmissão dos dados
 identifiers:
   celex: 32009R0443
   eli: http://data.europa.eu/eli/reg/2009/443/oj
@@ -49,19 +78,19 @@ source:
   official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32009R0443
   metadata_url: http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019
   content_url: http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1
-  consolidated_url: null
-  retrieved_at: '2026-10-22T03:14:43Z'
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0443-20130508
+  retrieved_at: '2026-10-22T15:42:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:38:33.259+02:00'
 integrity:
-  source_sha256: 8a1c6e3c172a098eb0ca0a4d4c02f2269cedf2f671205d007158715c9dfb4e8a
+  source_sha256: 18d1835bbcf8016b0f0e1aff22d85e198e319c4a5650e6ec872fadcb5fa857bd
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:43Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:06Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-443.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,21 +210,23 @@ relationships:
   date: '2000-08-16'
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:43Z'
+  checked_at: '2026-10-22T15:42:06Z'
   warnings:
-  - 'Versão consolidada 02009R0443-20180517 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009R0443-20140408: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0443-20150127: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0443-20170915: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0443-20180517: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 443/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n. o 443/2009 do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
 
 de 23 de Abril de 2009
 
@@ -209,31 +240,29 @@ Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º
 
 Tendo em conta a proposta da Comissão,
 
-Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr1-L_2009140PT.01000101-E0001),
+Tendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0001)),
 
 Após consulta ao Comité das Regiões,
 
-Deliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr2-L_2009140PT.01000101-E0002),
-
-Considerando o seguinte:
+Deliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0002)),
 
 (1) O objectivo do presente regulamento é estabelecer normas de desempenho em matéria de emissões aplicáveis aos automóveis novos de passageiros matriculados na Comunidade, que contribuam para a abordagem integrada da Comunidade de redução das emissões de CO2 dos veículos ligeiros, garantindo simultaneamente o bom funcionamento do mercado interno.
 
-(2) A Convenção-Quadro das Nações Unidas relativa às Alterações Climáticas, aprovada em nome da Comunidade Europeia pela Decisão 94/69/CE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr3-L_2009140PT.01000101-E0003), exige que todas as partes formulem e executem programas nacionais e, se for caso disso, regionais contendo medidas para mitigar as alterações climáticas. Nesta matéria a Comissão propôs, em Janeiro de 2007, que a União Europeia promovesse, no âmbito de negociações internacionais, o objectivo de uma redução de 30 % das emissões de gases com efeito de estufa pelos países desenvolvidos até 2020 (relativamente aos níveis de 1990) e que a própria União assumisse de forma autónoma o compromisso firme de, até 2020, reduzir as suas emissões de gases com efeito de estufa em, pelo menos, 20 % (relativamente aos níveis de 1990), independentemente das reduções conseguidas por outros países desenvolvidos. Este objectivo foi aprovado pelo Parlamento Europeu e pelo Conselho.
+(2) A Convenção-Quadro das Nações Unidas relativa às Alterações Climáticas, aprovada em nome da Comunidade Europeia pela Decisão 94/69/CE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0003)), exige que todas as partes formulem e executem programas nacionais e, se for caso disso, regionais contendo medidas para mitigar as alterações climáticas. Nesta matéria a Comissão propôs, em Janeiro de 2007, que a União Europeia promovesse, no âmbito de negociações internacionais, o objectivo de uma redução de 30 % das emissões de gases com efeito de estufa pelos países desenvolvidos até 2020 (relativamente aos níveis de 1990) e que a própria União assumisse de forma autónoma o compromisso firme de, até 2020, reduzir as suas emissões de gases com efeito de estufa em, pelo menos, 20 % (relativamente aos níveis de 1990), independentemente das reduções conseguidas por outros países desenvolvidos. Este objectivo foi aprovado pelo Parlamento Europeu e pelo Conselho.
 
 (3) Uma das implicações desses compromissos é que todos os Estados-Membros necessitarão de reduzir significativamente as emissões dos automóveis de passageiros. Para se atingirem as substanciais reduções necessárias, deverão ser aplicadas políticas e medidas, tanto a nível dos Estados-Membros como da Comunidade, que abranjam todos os sectores da economia da Comunidade, e não apenas os sectores industrial e energético. O sector do transporte rodoviário é o segundo maior emissor de gases com efeito de estufa na União e as suas emissões continuam a aumentar. Caso o impacto do transporte rodoviário nas alterações climáticas continue a aumentar, tal comprometerá significativamente as reduções obtidas noutros sectores para combate às alterações climáticas.
 
 (4) A definição de objectivos comunitários aplicáveis a automóveis novos de passageiros proporciona aos fabricantes maior segurança no planeamento e maior flexibilidade no cumprimento dos requisitos de redução das emissões de CO2 do que o que resultaria de objectivos nacionais de redução separados. Na fixação de normas de desempenho relativas a emissões é importante tomar em consideração as implicações para os mercados e para a competitividade dos fabricantes, os custos directos e indirectos impostos às empresas e os benefícios resultantes em termos de incentivos à inovação e de redução do consumo de energia.
 
-(5) O presente regulamento baseia-se num procedimento sólido de medição e vigilância a nível comunitário das emissões de CO2 dos veículos matriculados na Comunidade nos termos da Decisão n.º 1753/2000/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 2000, que estabelece um regime de vigilância das emissões específicas médias de CO2 dos automóveis novos de passageiros [([^4])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr4-L_2009140PT.01000101-E0004). É importante que a fixação de requisitos de redução das emissões de CO2 continue a proporcionar aos fabricantes de automóveis previsibilidade e segurança de planeamento a nível comunitário para todo o seu parque de automóveis novos na Comunidade.
+(5) O presente regulamento baseia-se num procedimento sólido de medição e vigilância a nível comunitário das emissões de CO2 dos veículos matriculados na Comunidade nos termos da Decisão n.º 1753/2000/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 2000, que estabelece um regime de vigilância das emissões específicas médias de CO2 dos automóveis novos de passageiros ([^4^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0004)). É importante que a fixação de requisitos de redução das emissões de CO2 continue a proporcionar aos fabricantes de automóveis previsibilidade e segurança de planeamento a nível comunitário para todo o seu parque de automóveis novos na Comunidade.
 
 (6) A Comissão aprovou em 1995 uma estratégia comunitária de redução das emissões de CO2 dos veículos automóveis. Essa estratégia assentava em três pilares: compromissos voluntários da indústria automóvel no sentido da redução das emissões, melhor informação ao consumidor e promoção de automóveis eficientes em termos de consumo de combustível através de medidas fiscais.
 
-(7) Em 1998, a Associação dos Construtores Europeus de Automóveis (ACEA) assumiu o compromisso de reduzir as emissões médias dos automóveis novos vendidos para 140 g de CO2/km até 2008 e, em 1999, a Associação de Construtores Japoneses de Automóveis (JAMA) e a Associação de Construtores Coreanos de Automóveis (KAMA) assumiram o compromisso de reduzir as emissões médias dos automóveis novos vendidos para 140 g de CO2/km até 2009. Esses compromissos foram reconhecidos na Recomendação 1999/125/CE da Comissão, de 5 de Fevereiro de 1999, relativa à redução das emissões de CO2 dos automóveis de passageiros [([^5])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr5-L_2009140PT.01000101-E0005) (ACEA), na Recomendação 2000/303/CE da Comissão, de 13 de Abril de 2000, relativa à redução das emissões de CO2 dos automóveis de passageiros (KAMA) [([^6])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr6-L_2009140PT.01000101-E0006) e na Recomendação 2000/304/CE da Comissão, de 13 de Abril de 2000, relativa à redução das emissões de CO2 dos automóveis de passageiros (JAMA) [([^7])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr7-L_2009140PT.01000101-E0007).
+(7) Em 1998, a Associação dos Construtores Europeus de Automóveis (ACEA) assumiu o compromisso de reduzir as emissões médias dos automóveis novos vendidos para 140 g de CO2/km até 2008 e, em 1999, a Associação de Construtores Japoneses de Automóveis (JAMA) e a Associação de Construtores Coreanos de Automóveis (KAMA) assumiram o compromisso de reduzir as emissões médias dos automóveis novos vendidos para 140 g de CO2/km até 2009. Esses compromissos foram reconhecidos na Recomendação 1999/125/CE da Comissão, de 5 de Fevereiro de 1999, relativa à redução das emissões de CO2 dos automóveis de passageiros ([^5^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0005)) (ACEA), na Recomendação 2000/303/CE da Comissão, de 13 de Abril de 2000, relativa à redução das emissões de CO2 dos automóveis de passageiros (KAMA) ([^6^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0006)) e na Recomendação 2000/304/CE da Comissão, de 13 de Abril de 2000, relativa à redução das emissões de CO2 dos automóveis de passageiros (JAMA) ([^7^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0007)).
 
 (8) Em 7 de Fevereiro de 2007, a Comissão aprovou duas comunicações paralelas: uma sobre os resultados da análise da estratégia comunitária de redução das emissões de CO2 dos veículos de passageiros e dos veículos comerciais ligeiros e outra sobre um quadro regulador concorrencial para o sector automóvel no século XXI (CARS 21). Essas comunicações sublinharam que se registaram progressos na concretização do objectivo de 140 g de CO2/km até 2008/2009, mas que o objectivo comunitário de 120 g de CO2/km não seria atingido até 2012 sem medidas adicionais.
 
-(9) As referidas comunicações propuseram uma abordagem integrada com vista a atingir o objectivo comunitário de 120 g de CO2/km até 2012 e anunciaram que a Comissão apresentaria uma proposta de enquadramento legal para alcançar o objectivo comunitário com base em reduções obrigatórias das emissões de CO2, a fim de cumprir o objectivo de 130 g de CO2/km de emissões médias do parque de automóveis novos através de avanços na tecnologia dos motores dos veículos. Coerente com a abordagem de compromissos voluntários assumidos pelos fabricantes, esta abordagem integrada abrange os elementos que são tidos em conta na medição das emissões de CO2 dos automóveis de passageiros nos termos do Regulamento (CE) n.º 715/2007 do Parlamento Europeu e do Conselho, de 20 de Junho de 2007, relativo à homologação dos veículos a motor no que respeita às emissões dos veículos ligeiros de passageiros e comerciais (Euro 5 e Euro 6) e ao acesso à informação relativa à reparação e manutenção de veículos [([^8])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr8-L_2009140PT.01000101-E0008). Uma redução adicional de 10 g de CO2/km, ou equivalente, se tecnicamente necessário, obter-se-á através de outros avanços tecnológicos e de um aumento da utilização de biocombustíveis sustentáveis.
+(9) As referidas comunicações propuseram uma abordagem integrada com vista a atingir o objectivo comunitário de 120 g de CO2/km até 2012 e anunciaram que a Comissão apresentaria uma proposta de enquadramento legal para alcançar o objectivo comunitário com base em reduções obrigatórias das emissões de CO2, a fim de cumprir o objectivo de 130 g de CO2/km de emissões médias do parque de automóveis novos através de avanços na tecnologia dos motores dos veículos. Coerente com a abordagem de compromissos voluntários assumidos pelos fabricantes, esta abordagem integrada abrange os elementos que são tidos em conta na medição das emissões de CO2 dos automóveis de passageiros nos termos do Regulamento (CE) n.º 715/2007 do Parlamento Europeu e do Conselho, de 20 de Junho de 2007, relativo à homologação dos veículos a motor no que respeita às emissões dos veículos ligeiros de passageiros e comerciais (Euro 5 e Euro 6) e ao acesso à informação relativa à reparação e manutenção de veículos ([^8^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0008)). Uma redução adicional de 10 g de CO2/km, ou equivalente, se tecnicamente necessário, obter-se-á através de outros avanços tecnológicos e de um aumento da utilização de biocombustíveis sustentáveis.
 
 (10) O enquadramento legal para a execução do objectivo de emissões médias do parque de automóveis novos deverá garantir objectivos de redução neutros em termos de concorrência, socialmente equitativos e sustentáveis, que tenham em conta a diversidade dos fabricantes de automóveis europeus e evitem distorções injustificadas da concorrência entre eles. O referido enquadramento legal deverá ser compatível com o objectivo geral de cumprimento dos objectivos da Comunidade no âmbito de Quioto e ser complementado com outros instrumentos mais ligados à utilização, como a diferenciação dos impostos sobre os automóveis e sobre a energia.
 
@@ -249,7 +278,7 @@ Considerando o seguinte:
 
 (16) A fim de garantir a coerência com a abordagem adoptada no âmbito da estratégia da Comissão em matéria de CO2 e veículos automóveis, em particular em relação aos compromissos voluntários assumidos pelas associações de fabricantes, o objectivo deverá ser aplicado aos automóveis novos de passageiros matriculados na Comunidade pela primeira vez e que, excepto durante um período limitado, para evitar abusos, não tenham sido previamente matriculados fora da Comunidade.
 
-(17) A Directiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de Setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos [([^9])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr9-L_2009140PT.01000101-E0009), estabeleceu um quadro harmonizado com disposições administrativas e requisitos técnicos gerais para a homologação de todos os veículos novos por ela abrangidos. A entidade responsável pelo cumprimento do presente regulamento deverá ser a entidade responsável por todos os aspectos do processo de homologação previsto naquela directiva e por assegurar a conformidade da produção.
+(17) A Directiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de Setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos ([^9^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0009)), estabeleceu um quadro harmonizado com disposições administrativas e requisitos técnicos gerais para a homologação de todos os veículos novos por ela abrangidos. A entidade responsável pelo cumprimento do presente regulamento deverá ser a entidade responsável por todos os aspectos do processo de homologação previsto naquela directiva e por assegurar a conformidade da produção.
 
 (18) Para efeitos de homologação, são aplicáveis requisitos específicos aos veículos para fins especiais, definidos no anexo II da Directiva 2007/46/CE, pelo que os mesmos deverão ser excluídos do âmbito do presente regulamento. Os veículos classificados na categoria M1 antes da entrada em vigor do presente regulamento que sejam fabricados especificamente para fins comerciais para transportar cadeiras de rodas dentro do veículo e que satisfaçam a definição de veículo para fins especiais constante do anexo II da Directiva 2007/46/CE deverão também ser excluídos do âmbito do presente regulamento, de acordo com a política comunitária de apoio às pessoas com deficiência.
 
@@ -259,7 +288,7 @@ Considerando o seguinte:
 
 (21) Os fabricantes de nicho deverão ter a possibilidade de beneficiar de um objectivo alternativo, 25 % inferior às suas emissões médias específicas de CO2 em 2007. Deverá ser fixado um objectivo equivalente sempre que não existam informações sobre a média das emissões específicas do fabricante para o ano de 2007. Esta excepção deverá ser abrangida pela revisão dos objectivos de emissões específicas constantes do anexo I, a concluir até ao início de 2013.
 
-(22) Na determinação das emissões médias específicas de CO2 de todos os veículos novos matriculados na Comunidade pelos quais os fabricantes são responsáveis, todos os automóveis deverão ser tidos em conta, independentemente da sua massa ou outras características. Apesar de o Regulamento (CE) n.º 715/2007 não abranger os automóveis de passageiros com uma massa de referência superior a 2 610 kg e cuja homologação não seja alargada ao abrigo do n.º 2 do artigo 2.º do mesmo regulamento, as emissões para esses veículos deverão ser medidas pelo mesmo processo de medição para automóveis de passageiros previsto no Regulamento (CE) n.º 692/2008 [([^10])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr10-L_2009140PT.01000101-E0010). Os valores resultantes das emissões de CO2 deverão ser inscritos no certificado de conformidade do veículo, a fim de permitir a sua inclusão no regime de vigilância.
+(22) Na determinação das emissões médias específicas de CO2 de todos os veículos novos matriculados na Comunidade pelos quais os fabricantes são responsáveis, todos os automóveis deverão ser tidos em conta, independentemente da sua massa ou outras características. Apesar de o Regulamento (CE) n.º 715/2007 não abranger os automóveis de passageiros com uma massa de referência superior a 2 610 kg e cuja homologação não seja alargada ao abrigo do n.º 2 do artigo 2.º do mesmo regulamento, as emissões para esses veículos deverão ser medidas pelo mesmo processo de medição para automóveis de passageiros previsto no Regulamento (CE) n.º 692/2008 ([^10^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0010)). Os valores resultantes das emissões de CO2 deverão ser inscritos no certificado de conformidade do veículo, a fim de permitir a sua inclusão no regime de vigilância.
 
 (23) A fim de proporcionar a necessária flexibilidade com vista a atingir os seus objectivos ao abrigo do presente regulamento, os fabricantes poderão decidir formar um agrupamento, de forma aberta, transparente e não discriminatória. Os acordos de criação de agrupamentos não poderão ter duração superior a cinco anos, podendo, no entanto, ser renovados. Caso os fabricantes formem um agrupamento, deverá considerar-se que atingiram os objectivos estabelecidos no presente regulamento se as emissões médias do agrupamento, no seu conjunto, não ultrapassarem o objectivo de emissões desse agrupamento.
 
@@ -277,7 +306,7 @@ Considerando o seguinte:
 
 (30) A Comissão deverá considerar novas formas de alcançar o objectivo a longo prazo, em especial a inclinação da curva, o parâmetro da utilidade e o prémio sobre as emissões excedentárias.
 
-(31) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^11])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr11-L_2009140PT.01000101-E0011).
+(31) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0011)).
 
 (32) Em especial, deverá ser atribuída competência à Comissão para alterar os requisitos de vigilância e comunicação de dados em função da experiência adquirida na aplicação do presente regulamento, para estabelecer métodos de cobrança dos prémios sobre as emissões excedentárias, para aprovar disposições pormenorizadas relativas à derrogação aplicável a determinados fabricantes e para adaptar o anexo I, a fim de ter em conta a evolução do volume de automóveis novos de passageiros matriculados na Comunidade e reflectir qualquer mudança no procedimento de ensaio regulamentar de medição das emissões específicas de CO2. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, nomeadamente completando-o mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.
 
@@ -323,7 +352,7 @@ g) «Objectivo de emissões específicas», em relação a um fabricante, a méd
 
 2. Para os efeitos do presente regulamento, entende-se por «grupo de fabricantes ligados» um fabricante e as empresas a ele ligadas. No que diz respeito aos fabricantes, entende-se por «empresas ligadas»:
 
-a) As empresas nas quais o fabricante detém, directa ou indirectamente: — o poder de exercer mais de metade dos direitos de voto, — o poder de designar mais de metade dos membros dos órgãos de fiscalização ou de administração ou dos órgãos que representam legalmente a empresa, ou — o direito de gerir os negócios da empresa;
+a) As empresas nas quais o fabricante detém, directa ou indirectamente:
 
 — o poder de exercer mais de metade dos direitos de voto,
 
@@ -439,17 +468,17 @@ A Comissão pode alterar o anexo II à luz da experiência adquirida na aplicaç
 
 2. O prémio sobre emissões excedentárias previsto no n.º 1 é calculado com base nas seguintes fórmulas:
 
-a) Entre 2012 e 2018: i) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 3 g CO2/km: [(Emissões excedentárias — 3 g CO2/km) × 95 EUR/g CO2/km + 1 g CO2/km × 25 EUR/g CO2/km + 1 g CO2/km × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2 /km] × número de automóveis novos de passageiros, ii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 2 g CO2/km, mas em não mais de 3 g CO2/km: [(Emissões excedentárias — 2 g CO2/km) × 25 EUR/g CO2/km + 1 g CO2/km × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2/km] × número de automóveis novos de passageiros, iii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 1 g CO2/km, mas em não mais de 2 g CO2/km: [(Emissões excedentárias — 1 g CO2/km) × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2/km] × número de automóveis novos de passageiros, iv) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em não mais de 1 g CO2/km: (Emissões excedentárias × 5 EUR/g CO2/km) × número de automóveis novos de passageiros;
+a) Entre 2012 e 2018:
 
-i) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 3 g CO2/km: [(Emissões excedentárias — 3 g CO2/km) × 95 EUR/g CO2/km + 1 g CO2/km × 25 EUR/g CO2/km + 1 g CO2/km × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2 /km] × número de automóveis novos de passageiros,
+i) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 3 g CO2/km:
 
-ii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 2 g CO2/km, mas em não mais de 3 g CO2/km: [(Emissões excedentárias — 2 g CO2/km) × 25 EUR/g CO2/km + 1 g CO2/km × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2/km] × número de automóveis novos de passageiros,
+ii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 2 g CO2/km, mas em não mais de 3 g CO2/km:
 
-iii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 1 g CO2/km, mas em não mais de 2 g CO2/km: [(Emissões excedentárias — 1 g CO2/km) × 15 EUR/g CO2/km + 1 g CO2/km × 5 EUR/g CO2/km] × número de automóveis novos de passageiros,
+iii) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em mais de 1 g CO2/km, mas em não mais de 2 g CO2/km:
 
-iv) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em não mais de 1 g CO2/km: (Emissões excedentárias × 5 EUR/g CO2/km) × número de automóveis novos de passageiros;
+iv) caso as emissões médias específicas de CO2 do fabricante ultrapassem o objectivo de emissões específicas em não mais de 1 g CO2/km:
 
-b) A partir de 2019: (Emissões excedentárias × 95 EUR/g CO2/km) × número de automóveis novos de passageiros.
+b) A partir de 2019:
 
 Para efeitos do presente artigo, entende-se por «emissões excedentárias», determinadas nos termos do artigo 4.º, o número positivo de gramas por quilómetro das emissões médias específicas do fabricante que — tendo em conta as reduções das emissões de CO2 decorrentes de tecnologias inovadoras aprovadas — ultrapassa o seu objectivo de emissões específicas no ano civil em causa, arredondado à terceira casa decimal mais próxima; e por «número de automóveis novos de passageiros», o número de automóveis novos de passageiros pelo mesmo fabricados e matriculados nesse ano de acordo com os critérios de introdução progressiva.
 
@@ -519,7 +548,7 @@ A Comissão concede a derrogação ao fabricante caso se prove estarem preenchid
 
 Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 14.º
 
-9. Os pedidos de derrogação e as informações que os instruam, as notificações feitas nos termos do n.º 5, as revogações ao abrigo do n.º 6, a aplicação de prémios sobre emissões excedentárias ao abrigo do n.º 7 e as medidas aprovadas ao abrigo do n.º 8 são facultados ao público sem prejuízo do disposto no Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão [([^12])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr12-L_2009140PT.01000101-E0012).
+9. Os pedidos de derrogação e as informações que os instruam, as notificações feitas nos termos do n.º 5, as revogações ao abrigo do n.º 6, a aplicação de prémios sobre emissões excedentárias ao abrigo do n.º 7 e as medidas aprovadas ao abrigo do n.º 8 são facultados ao público sem prejuízo do disposto no Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^12^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0012)).
 
 ###### Artigo 12.º — Eco-inovação
 
@@ -569,7 +598,7 @@ Essas medidas, que têm por objecto alterar elementos não essenciais do present
 
 ###### Artigo 14.º — Procedimento de comité
 
-1. A Comissão é assistida pelo comité criado pelo artigo 9.º da Decisão n.º 280/2004/CE [([^13])](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntr13-L_2009140PT.01000101-E0013).
+1. A Comissão é assistida pelo comité criado pelo artigo 9.º da Decisão n.º 280/2004/CE ([^13^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0013)).
 
 2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º
 
@@ -589,46 +618,134 @@ O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publica
 
 O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
 
-Feito em Estrasburgo, em 23 de Abril de 2009.
+## ANEXO I
 
-***Pelo Parlamento Europeu***
+### OBJECTIVOS DE EMISSÕES ESPECÍFICAS
 
-***O Presidente***
+| 1. | As emissões específicas de CO2 de cada automóvel novo de passageiros são, para efeitos dos cálculos do presente anexo, determinadas com base nas seguintes fórmulas: a) De 2012 a 2015: Emissões específicas de CO2 = 130 + a × (M – M0) Em que: M = massa do veículo em quilogramas (kg) M0 = 1 372,0 a = 0,0457 b) A partir de 2016: Emissões específicas de CO2 = 130 + a × (M – M0) Em que: M = massa do veículo em quilogramas (kg) M0 = o valor fixado nos termos do n.º 2 do artigo 13.º a = 0,0457 |  |
+| --- | --- | --- |
+| M | = | massa do veículo em quilogramas (kg) |
+| M0 | = | 1 372,0 |
+| a | = | 0,0457 |
+| M | = | massa do veículo em quilogramas (kg) |
+| M0 | = | o valor fixado nos termos do n.º 2 do artigo 13.º |
+| a | = | 0,0457 |
 
-**H.-G. POTTERING**
+2. O objectivo de emissões específicas de um fabricante num dado ano civil é calculado como a média das emissões específicas de CO2 de cada automóvel novo de passageiros matriculado nesse ano civil de que aquele seja o fabricante.
 
-***Pelo Conselho***
+## ANEXO II
 
-***O Presidente***
+### VIGILÂNCIA E COMUNICAÇÃO DAS EMISSÕES
 
-**P. NEČAS**
+### PARTE A – Recolha de dados sobre os automóveis novos de passageiros e determinação das informações relativas à vigilância das emissões de CO2
+
+1. Dados pormenorizados a compilar anualmente por cada Estado-Membro relativamente a cada automóvel novo de passageiros matriculado no seu território:
+
+a) Fabricante;
+
+b) Número de homologação e respetivas extensões;
+
+c) Modelo, variante e versão;
+
+d) Marca e designação comercial;
+
+e) Categoria do veículo homologado;
+
+f) Número de novas matrículas;
+
+g) Massa;
+
+h) Emissões específicas de CO2;
+
+i) Superfície de apoio das rodas: distância entre eixos, largura de via do eixo direcional e largura de via do outro eixo;
+
+j) Tipo de combustível e modo do combustível;
+
+k) Cilindrada;
+
+l) Consumo de energia elétrica;
+
+m) Código da tecnologia inovadora ou grupo de tecnologias inovadoras e redução das emissões de CO2 através desta(s) tecnologia(s).
+
+2. Os dados pormenorizados referidos no ponto 1 devem provir do certificado de conformidade do automóvel de passageiros em causa ou ser coerentes com o certificado de conformidade emitido pelo fabricante do mesmo. Se não for utilizado o certificado de conformidade, o Estado-Membro deve tomar as medidas necessárias para garantir um grau adequado de rigor da vigilância. Nos casos em que sejam especificados para um automóvel de passageiros um valor mínimo e um valor máximo da massa ou dos valores referentes à superfície de apoio das rodas referidos no ponto 1, alínea i), os Estados-Membros, para efeitos do presente regulamento, devem utilizar unicamente valores máximos. No caso dos veículos com alimentação dupla (gasolina e gás) em cujos certificados de conformidade figurem as emissões específicas de CO2 para os dois tipos de combustível, os Estados-Membros devem utilizar apenas o valor medido para gás.
+
+3. Cada Estado-Membro deve determinar, relativamente a cada ano:
+
+a) As fontes utilizadas para compilação dos dados pormenorizados referidos no ponto 1;
+
+b) O número de novas matrículas de automóveis novos de passageiros objeto da homologação CE;
+
+c) O número de novas matrículas de automóveis novos de passageiros homologados individualmente;
+
+d) O número de novas matrículas de automóveis novos de passageiros homologados a nível nacional em pequenas séries;
+
+e) A percentagem das estações de serviço que fornecem E85 no seu território.
+
+### PARTE B – Metodologia para determinação das informações relativas à vigilância das emissões de CO2 dos automóveis novos de passageiros
+
+As informações relativas à vigilância que compete a cada Estado-Membro determinar nos termos da parte A, pontos 1 e 3, devem sê-lo de acordo com a metodologia descrita na presente parte.
+
+1. Número de automóveis novos de passageiros matriculados
+
+2. Distribuição dos automóveis novos de passageiros por versão
+
+3. Indicar, de acordo com o artigo 6.º do Regulamento (UE) n.º 1014/2010 da Comissão ([^14^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0014)), as estações de serviço existentes no território do Estado-Membro que fornecem combustível E85.
+
+### PARTE C – Modelos para transmissão dos dados
+
+Modelos a utilizar pelos Estados-Membros na comunicação anual das informações especificadas na parte A, pontos 1 e 3:
+
+Dados agregados, entre os quais as informações gerais especificadas na parte A, ponto 3
+
+| Estado-Membro [(^1^)](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0015) |  |
+| --- | --- |
+| Ano |  |
+| Fonte dos dados |  |
+| Número de novas matrículas de automóveis novos de passageiros objeto da homologação CE |  |
+| Número de novas matrículas de automóveis novos de passageiros homologados individualmente |  |
+| Número de novas matrículas de automóveis novos de passageiros homologados a nível nacional em pequenas séries |  |
+| Percentagem que representam as estações de serviço que fornecem E85, de acordo com o artigo 6.º, n.º 1, do Regulamento (UE) n.º 1014/2010 |  |
+| Número de estações de serviço que fornecem E85, se essas estações de serviço representarem mais de 30 % das estações de serviço, de acordo com o artigo 6.º, n.º 2, do Regulamento (UE) n.º 1014/2010 |  |
+| (^1^)Códigos ISO 3166 alfa-2, com exceção da Grécia e do Reino Unido, cujos códigos são «EL» e «UK», respetivamente |  |
+
+Dados pormenorizados especificados na parte A, ponto 1:
+
+| Ano | Nome do fabricante Denominação normalizada na UE | Nome do fabricante Denominação do fabricante | Nome do fabricante Denominação no registo nacional | Número de homologação e respetivas extensões | Modelo | Variante | Versão | Marca | Designação comercial | Categoria do veículo homologado | Número de novas matrículas | Massa (kg) | Emissões específicas de CO2 (g/km) | Distância entre eixos (mm) | Largura de via do eixo direcional (mm) | Largura de via do outro eixo (mm) | Tipo de combustível [(^1^)](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0016) | Modo do combustível [(^1^)](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0016) | Cilindrada (cm^3^) | Consumo de energia elétrica (Wh/km) | Código da tecnologia inovadora ou do grupo de tecnologias inovadoras [(^2^)](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0017) | Redução das emissões através de tecnologias inovadoras (g/km) [(^2^)](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#E0017) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ano 1 | Fabr. 1 | Fabr. 1 | Fabr. 1 | NH 1 | Mod. 1 | Var. 1 | Vers. 1 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Ano 1 | Fabr. 1 | Fabr. 1 | Fabr. 1 | NH 1 | Mod. 1 | Var. 1 | Vers. 2 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Ano 1 | Fabr. 1 | Fabr. 1 | Fabr. 1 | NH 1 | Mod. 1 | Var. 2 | Vers. 1 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| Ano 1 | Fabr. 1 | Fabr. 1 | Fabr. 1 | NH 1 | Mod. 1 | Var. 2 | Vers. 2 | … | … | … | … | … | … | … | … | … | … | … | … | … | … | … |
+| (^1^)De acordo com o artigo 6.º. (^2^)De acordo com o artigo 12.º. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ---
 
 ## Notas
 
-> [(^1^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc1-L_2009140PT.01000101-E0001) [JO C 77 de 31.3.2009, p. 1](http://publications.europa.eu/resource/oj/JOC_2009_077_R_TOC).
+> ([^1^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0001)) JO C 77 de 31.3.2009, p. 1.
 
-> [(^2^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc2-L_2009140PT.01000101-E0002) Parecer do Parlamento Europeu de 17 de Dezembro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.
+> ([^2^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 17 de Dezembro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.
 
-> [(^3^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc3-L_2009140PT.01000101-E0003) [JO L 33 de 7.2.1994, p. 11](http://publications.europa.eu/resource/oj/JOL_1994_033_R_TOC).
+> ([^3^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0003)) JO L 33 de 7.2.1994, p. 11.
 
-> [(^4^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc4-L_2009140PT.01000101-E0004) [JO L 202 de 10.8.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_202_R_TOC).
+> ([^4^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0004)) JO L 202 de 10.8.2000, p. 1.
 
-> [(^5^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc5-L_2009140PT.01000101-E0005) [JO L 40 de 13.2.1999, p. 49](http://publications.europa.eu/resource/oj/JOL_1999_040_R_TOC).
+> ([^5^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0005)) JO L 40 de 13.2.1999, p. 49.
 
-> [(^6^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc6-L_2009140PT.01000101-E0006) [JO L 100 de 20.4.2000, p. 55](http://publications.europa.eu/resource/oj/JOL_2000_100_R_TOC).
+> ([^6^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0006)) JO L 100 de 20.4.2000, p. 55.
 
-> [(^7^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc7-L_2009140PT.01000101-E0007) [JO L 100 de 20.4.2000, p. 57](http://publications.europa.eu/resource/oj/JOL_2000_100_R_TOC).
+> ([^7^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0007)) JO L 100 de 20.4.2000, p. 57.
 
-> [(^8^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc8-L_2009140PT.01000101-E0008) [JO L 171 de 29.6.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_171_R_TOC).
+> ([^8^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0008)) JO L 171 de 29.6.2007, p. 1.
 
-> [(^9^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc9-L_2009140PT.01000101-E0009) [JO L 263 de 9.10.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_263_R_TOC).
+> ([^9^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0009)) JO L 263 de 9.10.2007, p. 1.
 
-> [(^10^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc10-L_2009140PT.01000101-E0010) Regulamento (CE) n.º 692/2008 da Comissão, de 18 de Julho de 2008, que executa e altera o Regulamento (CE) n.º 715/2007 do Parlamento Europeu e do Conselho relativo à homologação dos veículos a motor no que respeita às emissões dos veículos ligeiros de passageiros e comerciais (Euro 5 e Euro 6) e ao acesso à informação relativa à reparação e manutenção de veículos ([JO L 199 de 28.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_199_R_TOC)).
+> ([^10^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0010)) Regulamento (CE) n.º 692/2008 da Comissão, de 18 de Julho de 2008, que executa e altera o Regulamento (CE) n.º 715/2007 do Parlamento Europeu e do Conselho relativo à homologação dos veículos a motor no que respeita às emissões dos veículos ligeiros de passageiros e comerciais (Euro 5 e Euro 6) e ao acesso à informação relativa à reparação e manutenção de veículos (JO L 199 de 28.7.2008, p. 1).
 
-> [(^11^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc11-L_2009140PT.01000101-E0011) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).
+> ([^11^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23.
 
-> [(^12^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc12-L_2009140PT.01000101-E0012) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC).
+> ([^12^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0012)) JO L 145 de 31.5.2001, p. 43.
 
-> [(^13^)](http://publications.europa.eu/resource/cellar/175e820b-405c-4df6-ace7-3d4e23d40110.0019.04/DOC_1#ntc13-L_2009140PT.01000101-E0013) Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativa à criação de um mecanismo de vigilância das emissões comunitárias de gases com efeito de estufa e de implementação do Protocolo de Quioto ([JO L 49 de 19.2.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_049_R_TOC)).
+> ([^13^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0013)) Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativa à criação de um mecanismo de vigilância das emissões comunitárias de gases com efeito de estufa e de implementação do Protocolo de Quioto (JO L 49 de 19.2.2004, p. 1).
+
+> ([^14^](http://publications.europa.eu/resource/cellar/361804ab-2786-4ec6-96e5-a58ebbed853a.0018.03/DOC_1#src.E0014)) JO L 293 de 11.11.2010, p. 15.

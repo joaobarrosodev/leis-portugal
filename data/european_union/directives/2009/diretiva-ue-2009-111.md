@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-07'
+version_history:
+  file: diretiva-ue-2009-111.versoes.json
+  count: 2
+  source_lastmod: '2009-12-07'
+  versions:
+  - date: '2009-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Directiva 2006/48/CE
+    - Altera Artigo 2.º — Alterações à Directiva 2006/49/CE
+    - Altera Artigo 6.º — Destinatários
+    - Altera Notas
+    - Adita «Secção 7
+    - Adita Posições em risco sobre o risco de crédito transferido
 identifiers:
   celex: 32009L0111
   eli: http://data.europa.eu/eli/dir/2009/111/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4fe65acf-d288-43e0-b6f0-c24c00ee2899.0018
   content_url: http://publications.europa.eu/resource/cellar/f7d869e6-fc82-11e3-831f-01aa75ed71a1.0003.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0111-20091207
-  retrieved_at: '2026-10-22T03:14:32Z'
+  retrieved_at: '2026-10-22T15:39:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-18T02:22:15.069+02:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:32Z'
-  notes: Texto consolidado 02009L0111-20091207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:34Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-111.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,29 +155,19 @@ relationships:
   date: '2015-12-23'
 article_structure:
   article_count: 6
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:32Z'
+  checked_at: '2026-10-22T15:39:34Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/111/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 2009L0111 — PT — 07.12.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0111R%2801%29) — [Rectificação, JO L 255, 27.9.2013, p. 19 (2009/111)](http://publications.europa.eu/resource/celex/32009L0111R%2801%29)
-
-## DIRECTIVA 2009/111/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

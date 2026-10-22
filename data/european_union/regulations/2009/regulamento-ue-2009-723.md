@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-12-26'
+version_history:
+  file: regulamento-ue-2009-723.versoes.json
+  count: 2
+  source_lastmod: '2013-12-26'
+  versions:
+  - date: '2009-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-26'
+    amending: eu:celex:32013R1261:por
+    amending_title: REGULAMENTO (UE) N. o 1261/2013 DO CONSELHO de 2 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Critérios de composição
+    - Altera Artigo 10.º — Estatutos
+    - Altera Artigo 21.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32009R0723
   eli: http://data.europa.eu/eli/reg/2009/723/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0ee0c61b-f877-4279-acf4-c8b57b350d92.0018
   content_url: http://publications.europa.eu/resource/cellar/86887526-e0bc-11e3-8cd4-01aa75ed71a1.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0723-20131226
-  retrieved_at: '2026-10-22T03:14:47Z'
+  retrieved_at: '2026-10-22T15:43:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T11:10:51.192+02:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:47Z'
-  notes: Texto consolidado 02009R0723-20131226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-723.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,29 +145,19 @@ relationships:
   date: '2025-09-23'
 article_structure:
   article_count: 21
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:47Z'
+  checked_at: '2026-10-22T15:43:44Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 723/2009 do Conselho, de 25 de Junho de 2009
-
-> 2009R0723 — PT — 26.12.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R1261) — [REGULAMENTO (UE) N.º 1261/2013 DO CONSELHO de 2 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1261) — L 326 — 1 — 6.12.2013
-
-## REGULAMENTO (CE) N.º 723/2009 DO CONSELHO
 
 de 25 de Junho de 2009
 

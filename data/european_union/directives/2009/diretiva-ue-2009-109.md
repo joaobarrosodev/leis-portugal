@@ -36,6 +36,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-20'
+version_history:
+  file: diretiva-ue-2009-109.versoes.json
+  count: 3
+  source_lastmod: '2017-07-20'
+  versions:
+  - date: '2009-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-01'
+    amending: eu:celex:32011L0035:por
+    amending_title: DIRECTIVA 2011/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Abril
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações da Directiva 77/91/CEE
+    - Altera Artigo 3.º — Alterações da Directiva 82/891/CEE
+    - Altera Artigo 8.º — Destinatários
+    - Altera Notas
+    - Suprime Artigo 2.º — Alterações da Directiva 78/855/CEE
+  - date: '2017-07-20'
+    amending: eu:celex:32012L0030:por
+    amending_title: DIRETIVA 2012/30/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de outubro
+      de 2012; DIRETIVA (UE) 2017/1132 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de junho
+      de 2017
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Alterações da Directiva 77/91/CEE
+    - Suprime Artigo 3.º — Alterações da Directiva 82/891/CEE
+    - Suprime Artigo 4.º — Alterações da Directiva 2005/56/CE
+    - Suprime Notas
 identifiers:
   celex: 32009L0109
   eli: http://data.europa.eu/eli/dir/2009/109/oj
@@ -50,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/061f164d-e1d6-445c-84bf-9b4dda40152f.0018
   content_url: http://publications.europa.eu/resource/cellar/8c9c001f-de6b-4d10-847e-2b769ffa47c7.0014.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0109-20170720
-  retrieved_at: '2026-10-22T03:14:31Z'
+  retrieved_at: '2026-10-22T15:39:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T11:17:35.365+02:00'
 integrity:
@@ -59,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:31Z'
-  notes: Texto consolidado 02009L0109-20170720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:32Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-109.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,30 +172,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:31Z'
+  checked_at: '2026-10-22T15:39:32Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/109/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009L0109 — PT — 20.07.2017 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0035) — [DIRECTIVA 2011/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 5 de Abril de 2011](http://publications.europa.eu/resource/celex/32011L0035) — L 110 — 1 — 29.4.2011
-- [►M2](http://publications.europa.eu/resource/celex/32012L0030) — [DIRETIVA 2012/30/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0030) — L 315 — 74 — 14.11.2012
-- [►M3](http://publications.europa.eu/resource/celex/32017L1132) — [DIRETIVA (UE) 2017/1132 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017L1132) — L 169 — 46 — 30.6.2017
-
-## DIRECTIVA 2009/109/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

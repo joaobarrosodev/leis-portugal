@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-21'
+version_history:
+  file: regulamento-ue-2010-72.versoes.json
+  count: 2
+  source_lastmod: '2016-04-21'
+  versions:
+  - date: '2010-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-21'
+    amending: eu:celex:32016R0472:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/472 DA COMISSÃO de 31 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32010R0072
   eli: http://data.europa.eu/eli/reg/2010/72/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c1edc4d1-7357-4f3c-8a24-e46ff8da27da.0018
   content_url: http://publications.europa.eu/resource/cellar/3effd327-fbad-4f1e-a522-9926344d007f.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0072-20160421
-  retrieved_at: '2026-10-22T03:15:17Z'
+  retrieved_at: '2026-10-22T15:47:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T10:41:31.033+02:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:17Z'
-  notes: Texto consolidado 02010R0072-20160421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:49Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2010-72.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -91,29 +108,19 @@ relationships:
   source: null
 article_structure:
   article_count: 16
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:17Z'
+  checked_at: '2026-10-22T15:47:49Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 72/2010 da Comissão, de 26 de Janeiro de 2010
-
-> 2010R0072 — PT — 21.04.2016 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R0472) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/472 DA COMISSÃO de 31 de março de 2016](http://publications.europa.eu/resource/celex/32016R0472) — L 85 — 28 — 1.4.2016
-
-## REGULAMENTO (UE) N.º 72/2010 DA COMISSÃO
 
 de 26 de Janeiro de 2010
 

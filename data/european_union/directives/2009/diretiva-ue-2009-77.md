@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2009-77.versoes.json
+  count: 1
+  source_lastmod: '2010-01-01'
+  versions:
+  - date: '2009-07-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009L0077
   eli: http://data.europa.eu/eli/dir/2009/77/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/05146d31-020b-4f9c-8b39-6d09d150d4aa.0018
   content_url: http://publications.europa.eu/resource/cellar/05146d31-020b-4f9c-8b39-6d09d150d4aa.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:14Z'
+  retrieved_at: '2026-10-22T15:39:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T22:34:20.572+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:14Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:06Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2009-77.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,21 +130,20 @@ relationships:
   date: '2010-10-20'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:14Z'
+  checked_at: '2026-10-22T15:39:06Z'
   warnings:
-  - Versão consolidada 02009L0077-20100101 indisponível (Sem expressão na língua por para CELEX 02009L0077-20100101.); usado
-    o texto do JO.
+  - '02009L0077-20100101: versão indisponível (Sem expressão na língua por para CELEX 02009L0077-20100101.)'
   errors: []
 ---
 
-# DIRECTIVA 2009/77/CE DA COMISSÃO
+# Directiva 2009/77/CE da Comissão, de 1 de Julho de 2009
 
 de 1 de Julho de 2009
 

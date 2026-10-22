@@ -36,6 +36,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-26'
+version_history:
+  file: diretiva-ue-2010-63.versoes.json
+  count: 3
+  source_lastmod: '2019-06-26'
+  versions:
+  - date: '2010-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-11-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Objectivo dos procedimentos
+    - Altera Artigo 7.º — Espécies ameaçadas de extinção
+    - Altera Artigo 8.º — Primatas não humanos
+    - Altera Artigo 63.º — Alteração do Regulamento (CE) n.º 1069/2009
+    - Altera Artigo 66.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DOS ANIMAIS A QUE SE REFERE O ARTIGO 10.º
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita REQUISITOS RELATIVOS A ESTABELECIMENTOS E À PRESTAÇÃO DE CUIDADOS E ALOJAMENTO DOS ANIMAIS
+    - 'Adita Secção A: Secção geral'
+    - Adita 1. Instalações
+    - Adita 1.1. Funções e concepção geral
+    - Adita 1.2. Salas de alojamento
+    - Adita 1.3. Salas para procedimentos gerais e especiais
+    - Adita 1.4. Locais de serviço
+    - Adita 2. Meio ambiente e seu controlo
+    - Adita 2.1. Ventilação e temperatura
+    - Adita 2.2. Iluminação
+    - Adita 2.3. Ruído
+    - Adita 2.4. Sistemas de alarme
+    - Adita 3. Cuidados a prestar aos animais
+    - Adita 3.1. Saúde
+    - Adita 3.2. Animais capturados no meio selvagem
+    - Adita 3.3. Alojamento e enriquecimento
+    - Adita a) Alojamento
+    - Adita b) Enriquecimento
+    - Adita c) Compartimentos para animais
+    - Adita 3.4. Alimentação
+    - Adita 3.5. Abeberamento
+    - Adita 3.6. Áreas de repouso e para dormir
+    - Adita 3.7. Manuseamento
+    - 'Adita Secção B: Secção específica para cada espécie'
+    - Adita 1. Murganhos, ratos, gérbilos, hamsters e cobaios
+    - Adita 2. Coelhos
+    - Adita 3. Gatos
+  - date: '2019-06-26'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 7.º — Espécies ameaçadas de extinção
+    - Altera Artigo 43.º — Resumos não técnicos do projecto
+    - Altera Artigo 63.º — Alteração do Regulamento (CE) n.º 1069/2009
+    - Altera 1. Murganhos, ratos, gérbilos, hamsters e cobaios
+    - Altera 2. Coelhos
+    - Altera 3. Gatos
+    - Altera 6. Primatas não humanos
+    - Altera 7. Animais de criação
+    - Altera 8. Aves
+    - Altera 9. Anfíbios
+    - Altera 10. Répteis
+    - Altera MÉTODOS DE OCCISÃO DE ANIMAIS
+    - Altera Notas
+    - Adita Artigo 54.º
+    - Adita Informações sobre a aplicação e apresentação de dados estatísticos
+    - Suprime Artigo 54.º — Comunicação de informações
+    - Suprime Artigo 57.º — Relatórios da Comissão
 identifiers:
   celex: 32010L0063
   eli: http://data.europa.eu/eli/dir/2010/63/oj
@@ -50,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/169b16db-cb47-46e3-aff5-caa8009ec295.0015
   content_url: http://publications.europa.eu/resource/cellar/4f43b574-ca81-11e9-992f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0063-20190626
-  retrieved_at: '2026-10-22T02:52:56Z'
+  retrieved_at: '2026-10-22T15:46:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T12:47:36.283+02:00'
 integrity:
@@ -59,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:56Z'
-  notes: Texto consolidado 02010L0063-20190626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:56Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-63.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -223,34 +299,19 @@ relationships:
   source: null
 article_structure:
   article_count: 65
-  section_count: 78
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 80
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:56Z'
+  checked_at: '2026-10-22T15:46:56Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/63/UE do Parlamento Europeu e do Conselho, de 22 de Setembro de 2010
-
-> 02010L0063 — PT — 26.06.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010L0063R%2803%29) — [Rectificação, JO L 163, 22.6.2012, p. 19 (2010/63/UE)](http://publications.europa.eu/resource/celex/32010L0063R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32010L0063R%2804%29) — [Rectificação, JO L 028, 4.2.2015, p. 49 (2010/63/UE)](http://publications.europa.eu/resource/celex/32010L0063R%2804%29)
-
-## DIRECTIVA 2010/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Setembro de 2010
 

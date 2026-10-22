@@ -1,0 +1,1001 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0029:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0029-20231005",
+ "dre_path": null,
+ "source_lastmod": "2023-10-05",
+ "versions": [
+  {
+   "date": "2009-01-17",
+   "future": false,
+   "celex": "32009R0029",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2763ca31a5d198f0",
+    "98f88d62a1ebf8c6",
+    "d6b26ec5e4391236",
+    "652d0fbf259823cc",
+    "dd501ef8bbb45e27",
+    "3ee3996f347e774e",
+    "16ec6df776caf539",
+    "b770d299317b090b",
+    "821c291e8a5126c7",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "318d0b5ac85f630f",
+    "96a507f3d948427f",
+    "7bfdb9876e28a75a"
+   ]
+  },
+  {
+   "date": "2009-02-06",
+   "future": false,
+   "celex": "02009R0029-20090206",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Espaço aéreo a que se refere o n.º 3 do artigo 1.º",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO II",
+    "Adita Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV",
+    "Adita 1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)",
+    "Adita 2. Definição do serviço de gestão de comunicações ATC (ACM)",
+    "Adita 3. Definição do serviço de autorização e de informação ATC (ACL)",
+    "Adita 4. Definição do serviço de verificação de microfone ATC (AMC)",
+    "Adita ANEXO III",
+    "Adita Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV",
+    "Adita Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II",
+    "Adita ANEXO IV",
+    "Adita Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º",
+    "Adita Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo",
+    "Adita Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2",
+    "Adita Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação",
+    "Adita Parte D: Condições referidas na parte C",
+    "Adita ANEXO V",
+    "Adita Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes",
+    "Adita ANEXO VI",
+    "Adita Condições a que se refere o artigo 12.º",
+    "Adita ANEXO VII",
+    "Adita Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º",
+    "Adita Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º"
+   ],
+   "fragments": [
+    "128bc6873e59cea9",
+    "98f88d62a1ebf8c6",
+    "00bc4e8f5a530218",
+    "652d0fbf259823cc",
+    "dd501ef8bbb45e27",
+    "4e645c8db38c05e4",
+    "16ec6df776caf539",
+    "b770d299317b090b",
+    "821c291e8a5126c7",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "318d0b5ac85f630f",
+    "30978be4afbadc00",
+    "d664376e2a8dcecd",
+    "1306dd1d1164d74c",
+    "dbaab9bc6f250e51",
+    "9f03159dc9f2ee3e",
+    "852174729551523b",
+    "01e757ecb4a1d8f1",
+    "f8473edd258fd5d0",
+    "bbbf34c0c4bc22a5",
+    "7a45bd8f5a8cf5d1",
+    "d74a8ed103efbf0f",
+    "720af75c92791b10",
+    "ed71bcc4667cf769",
+    "3d185231bb268651",
+    "e03a0eb4d5b2eef3",
+    "0cca1407619dcbd2",
+    "19c8c764d40024e2",
+    "89c5a7c2a6b473b4",
+    "a63e4f5915bad8f8",
+    "eadaa9c7a90174f7",
+    "64610ae29a6cb67c",
+    "4f84f459d0e045ac",
+    "90c7d2baf4d44ee2",
+    "836e700bead81e7d",
+    "d46ca50274582635",
+    "81735b3cb5ae8bd6",
+    "de51670436e76833",
+    "3486c9e79ed6ea67"
+   ]
+  },
+  {
+   "date": "2015-03-19",
+   "future": false,
+   "celex": "02009R0029-20150319",
+   "acts": [
+    {
+     "id": "eu:celex:32015R0310:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2015/310 DA COMISSÃO de 26 de fevereiro de 2015",
+     "published": null,
+     "celex": "32015R0310"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 3.º — Serviços de ligações de dados",
+    "Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera PARTE B",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "f4f1829e79f9f412",
+    "580ce6558f19821f",
+    "00bc4e8f5a530218",
+    "c1b1e73e81a67f44",
+    "dd501ef8bbb45e27",
+    "86e014df26bbff3d",
+    "16ec6df776caf539",
+    "b770d299317b090b",
+    "821c291e8a5126c7",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "318d0b5ac85f630f",
+    "dace42b0e430b742",
+    "d664376e2a8dcecd",
+    "1306dd1d1164d74c",
+    "dbaab9bc6f250e51",
+    "8212322d513a5e87",
+    "852174729551523b",
+    "01e757ecb4a1d8f1",
+    "f8473edd258fd5d0",
+    "bbbf34c0c4bc22a5",
+    "7a45bd8f5a8cf5d1",
+    "d74a8ed103efbf0f",
+    "720af75c92791b10",
+    "ed71bcc4667cf769",
+    "3d185231bb268651",
+    "e03a0eb4d5b2eef3",
+    "0cca1407619dcbd2",
+    "19c8c764d40024e2",
+    "89c5a7c2a6b473b4",
+    "a63e4f5915bad8f8",
+    "eadaa9c7a90174f7",
+    "64610ae29a6cb67c",
+    "4f84f459d0e045ac",
+    "90c7d2baf4d44ee2",
+    "836e700bead81e7d",
+    "d46ca50274582635",
+    "81735b3cb5ae8bd6",
+    "de51670436e76833",
+    "7738d5cf08624d42"
+   ]
+  },
+  {
+   "date": "2016-02-05",
+   "future": false,
+   "celex": "02009R0029-20160205",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0441:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32014R0441"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Altera Artigo 15.º — Entrada em vigor e aplicação",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "32adfe2e49adc557",
+    "580ce6558f19821f",
+    "00bc4e8f5a530218",
+    "c1b1e73e81a67f44",
+    "dd501ef8bbb45e27",
+    "b355704e0ff66a6e",
+    "16ec6df776caf539",
+    "b770d299317b090b",
+    "821c291e8a5126c7",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "318d0b5ac85f630f",
+    "8e9ca4396d371540",
+    "d664376e2a8dcecd",
+    "1306dd1d1164d74c",
+    "dbaab9bc6f250e51",
+    "8212322d513a5e87",
+    "852174729551523b",
+    "01e757ecb4a1d8f1",
+    "f8473edd258fd5d0",
+    "bbbf34c0c4bc22a5",
+    "7a45bd8f5a8cf5d1",
+    "d74a8ed103efbf0f",
+    "720af75c92791b10",
+    "ed71bcc4667cf769",
+    "3d185231bb268651",
+    "e03a0eb4d5b2eef3",
+    "0cca1407619dcbd2",
+    "19c8c764d40024e2",
+    "89c5a7c2a6b473b4",
+    "a63e4f5915bad8f8",
+    "eadaa9c7a90174f7",
+    "64610ae29a6cb67c",
+    "4f84f459d0e045ac",
+    "90c7d2baf4d44ee2",
+    "836e700bead81e7d",
+    "d46ca50274582635",
+    "81735b3cb5ae8bd6",
+    "de51670436e76833",
+    "dccf723639fbec70"
+   ]
+  },
+  {
+   "date": "2019-07-29",
+   "future": false,
+   "celex": "02009R0029-20190729",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1170:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2019/1170 DA COMISSÃO de 8 de julho de 2019",
+     "published": null,
+     "celex": "32019R1170"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Serviços de ligações de dados",
+    "Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Altera Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+    "Altera Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+    "Altera Artigo 14.º — Isenções",
+    "Altera ANEXO III",
+    "Altera Notas",
+    "Suprime Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV",
+    "Suprime Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II"
+   ],
+   "fragments": [
+    "f105c188e4a81e89",
+    "580ce6558f19821f",
+    "00bc4e8f5a530218",
+    "a24346d5b6781adb",
+    "dd501ef8bbb45e27",
+    "752c81784479705c",
+    "e1412830c24639a6",
+    "b770d299317b090b",
+    "e83d3d26dc0facd5",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "3500a4244ac22e27",
+    "8e9ca4396d371540",
+    "d664376e2a8dcecd",
+    "1306dd1d1164d74c",
+    "dbaab9bc6f250e51",
+    "8212322d513a5e87",
+    "852174729551523b",
+    "01e757ecb4a1d8f1",
+    "f8473edd258fd5d0",
+    "bbbf34c0c4bc22a5",
+    "7a45bd8f5a8cf5d1",
+    "d74a8ed103efbf0f",
+    "c4bf124daad16553",
+    "e03a0eb4d5b2eef3",
+    "0cca1407619dcbd2",
+    "19c8c764d40024e2",
+    "89c5a7c2a6b473b4",
+    "a63e4f5915bad8f8",
+    "eadaa9c7a90174f7",
+    "64610ae29a6cb67c",
+    "4f84f459d0e045ac",
+    "90c7d2baf4d44ee2",
+    "836e700bead81e7d",
+    "d46ca50274582635",
+    "81735b3cb5ae8bd6",
+    "de51670436e76833",
+    "0ec3c0e6221ebbab"
+   ]
+  },
+  {
+   "date": "2020-03-08",
+   "future": false,
+   "celex": "02009R0029-20200308",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0208:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2020/208 DA COMISSÃO de 14 de fevereiro de 2020",
+     "published": null,
+     "celex": "32020R0208"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Altera ANEXO III",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "f105c188e4a81e89",
+    "580ce6558f19821f",
+    "00bc4e8f5a530218",
+    "a24346d5b6781adb",
+    "dd501ef8bbb45e27",
+    "701e8747ac524f28",
+    "e1412830c24639a6",
+    "b770d299317b090b",
+    "e83d3d26dc0facd5",
+    "9c3f8f9a34f77b80",
+    "fb90d0a7fffd437d",
+    "7235f83c2e2c14e6",
+    "93f0ac1ca98fdf84",
+    "33a2b1ed2441fcc9",
+    "3500a4244ac22e27",
+    "8e9ca4396d371540",
+    "d664376e2a8dcecd",
+    "1306dd1d1164d74c",
+    "dbaab9bc6f250e51",
+    "8212322d513a5e87",
+    "852174729551523b",
+    "01e757ecb4a1d8f1",
+    "f8473edd258fd5d0",
+    "bbbf34c0c4bc22a5",
+    "7a45bd8f5a8cf5d1",
+    "d74a8ed103efbf0f",
+    "037f8b63cec63836",
+    "e03a0eb4d5b2eef3",
+    "0cca1407619dcbd2",
+    "19c8c764d40024e2",
+    "89c5a7c2a6b473b4",
+    "a63e4f5915bad8f8",
+    "eadaa9c7a90174f7",
+    "64610ae29a6cb67c",
+    "4f84f459d0e045ac",
+    "90c7d2baf4d44ee2",
+    "836e700bead81e7d",
+    "d46ca50274582635",
+    "81735b3cb5ae8bd6",
+    "de51670436e76833",
+    "1e7eb31281189064"
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "future": false,
+   "celex": "02009R0029-20231005",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Serviços de ligações de dados",
+    "Suprime Artigo 4.º — Procedimentos conexos",
+    "Suprime Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+    "Suprime Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+    "Suprime Artigo 7.º — Obrigações gerais dos Estados-Membros no que respeita às comunicações através de ligações de dados",
+    "Suprime Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+    "Suprime Artigo 9.º — Obrigações dos prestadores de serviços de navegação aérea e demais entidades no que respeita às comunicações através de ligações de dados",
+    "Suprime Artigo 10.º — Requisitos de segurança",
+    "Suprime Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+    "Suprime Artigo 12.º — Verificação dos sistemas",
+    "Suprime Artigo 13.º — Requisitos complementares",
+    "Suprime Artigo 14.º — Isenções",
+    "Suprime Artigo 15.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Espaço aéreo a que se refere o n.º 3 do artigo 1.º",
+    "Suprime PARTE A",
+    "Suprime PARTE B",
+    "Suprime ANEXO II",
+    "Suprime Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV",
+    "Suprime 1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)",
+    "Suprime 2. Definição do serviço de gestão de comunicações ATC (ACM)",
+    "Suprime 3. Definição do serviço de autorização e de informação ATC (ACL)",
+    "Suprime 4. Definição do serviço de verificação de microfone ATC (AMC)",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV",
+    "Suprime Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º",
+    "Suprime Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo",
+    "Suprime Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2",
+    "Suprime Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação",
+    "Suprime Parte D: Condições referidas na parte C",
+    "Suprime ANEXO V",
+    "Suprime Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes",
+    "Suprime ANEXO VI",
+    "Suprime Condições a que se refere o artigo 12.º",
+    "Suprime ANEXO VII",
+    "Suprime Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º",
+    "Suprime Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "cbf5c86f3c6366a3"
+   ]
+  }
+ ],
+ "fragments": {
+  "2763ca31a5d198f0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr1-L_2009013PT.01000301-E0001), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr2-L_2009013PT.01000301-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) O crescimento registado e estimado dos níveis de tráfego aéreo na Europa impõe um aumento equivalente da capacidade de controlo do tráfego aéreo. Esta situação induz uma procura de melhorias de natureza operacional, nomeadamente para aumentar a eficiência das comunicações entre os controladores de tráfego aéreo e os pilotos. Os canais de comunicações de voz registam níveis de congestionamento cada vez mais elevados, pelo que devem ser complementados por comunicações ar-terra através de ligações de dados.\n\n(2) Os vários estudos e testes efectuados no âmbito da Comunidade e do Eurocontrol confirmaram que os serviços de ligações de dados permitem aumentar a capacidade do controlo de tráfego aéreo. Estes serviços devem ser introduzidos de forma coordenada, de modo a optimizar os seus potenciais benefícios.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 de Outubro de 2007.\n\n(4) O presente regulamento não abrange as operações e treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(5) O Plano Director Europeu de Gestão do Tráfego Aéreo (Plano Director ATM), elaborado uma vez concluída a fase de definição do Projecto SESAR, baseado no Regulamento (CE) n.º 219/2007 do Conselho, de 27 de Fevereiro de 2007, relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR) [([^3])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr3-L_2009013PT.01000301-E0003), prevê a rápida introdução de serviços de ligações de dados, tendo em vista complementar as comunicações de voz entre o controlador e o piloto na fase de cruzeiro.\n\n(6) Os serviços de ligações de dados devem ser introduzidos em zonas contíguas e homogéneas do espaço aéreo do céu único europeu, começando pelo espaço aéreo superior de elevada densidade de tráfego. Considerando a importância dos serviços de ligações de dados para a evolução futura da rede europeia de gestão do tráfego aéreo (a seguir designada por «EATMN»), a sua utilização deve ser progressivamente alargada à maior extensão possível de espaço aéreo do céu único europeu, conforme definido no n.º 3 do artigo 1.º do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») [([^4])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr4-L_2009013PT.01000301-E0004).\n\n(7) A Organização da Aviação Civil Internacional (a seguir designada por «ICAO») e a Organização Europeia para o Equipamento da Aviação Civil (a seguir designada por «Eurocae») especificaram já um significativo número de serviços de ligações de dados. Apenas os serviços que tenham sido devidamente validados a nível do Eurocontrol serão obrigatoriamente introduzidos, com base nas normas estabelecidas por essas organizações.\n\n(8) O aumento da capacidade de tráfego permitido pelos serviços de ligações de dados depende da percentagem de voos operados com as funcionalidades necessárias. O objectivo é equipar uma percentagem significativa de aeronaves com essas funcionalidades, no mínimo 75 %, de modo a permitir um incremento suficiente de capacidade.\n\n(9) Os operadores devem dispor de um prazo suficiente para equiparem as aeronaves com essas novas funcionalidades, quer se trate das aeronaves novas quer da frota existente. Tal deverá ser tido em conta quando da fixação das datas em que o equipamento será tornado obrigatório.\n\n(10) Algumas aeronaves, designadamente nas operações intercontinentais de longa distância, dispõem já de capacidade de ligação de dados em conformidade com as normas denominadas «futuros sistemas de navegação aérea» (FANS) 1/A. Do ponto de vista económico, não há motivos para obrigar os operadores a instalarem equipamentos adicionais de ligação de dados nessas aeronaves de modo a cumprirem as regras estabelecidas no presente regulamento. Contudo, a mais longo prazo, devem ser envidados esforços para se conseguir a convergência entre as soluções técnicas utilizadas nas operações intercontinentais e as definidas no presente regulamento. Deve, por conseguinte, ser fixado um prazo adequado para o efeito.\n\n(11) As condições de utilização de uma aeronave cujos componentes de ligação de dados se encontram temporariamente inoperantes devem ser definidas na lista do equipamento mínimo aplicável prevista no Anexo III do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil [([^5])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr5-L_2009013PT.01000301-E0005) e no Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE [([^6])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr6-L_2009013PT.01000301-E0006), e nas suas regras de execução.\n\n(12) Devem ser identificados os critérios a aplicar em caso de eventuais derrogações, nomeadamente por razões imperiosas de natureza económica ou técnica, de modo a permitir que, em casos excepcionais, os operadores sejam isentos da obrigação de equipar certos tipos de aeronaves com capacidade de ligação de dados.\n\n(13) As aeronaves do tipo «transporte» são a categoria de aeronaves do Estado mais frequentemente utilizadas nas operações de tráfego aéreo geral no espaço aéreo abrangido pelo presente regulamento. Caso optem por equipar as aeronaves novas deste tipo com capacidade de ligação de dados, de acordo com normas que não sejam específicas dos requisitos operacionais militares, os Estados-Membros devem ter de adoptar soluções técnicas em conformidade com o presente regulamento.\n\n(14) A aplicação uniforme no espaço aéreo do céu único europeu de procedimentos específicos relacionados com a utilização de ligações de dados é essencial para garantir a interoperabilidade e a homogeneidade das operações.\n\n(15) A ICAO definiu normas para a gestão do contexto das aplicações ar-terra (a seguir designada por «CM») e as comunicações controlador-piloto através de ligações de dados (a seguir designadas por «CPDLC») tendo em vista a introdução dos serviços de ligações de dados. Os prestadores de serviços de tráfego aéreo e os operadores devem ficar em condições de utilizar estas aplicações e um conjunto de mensagens normalizadas comum de modo a garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados.\n\n(16) Poderão ser utilizados vários protocolos de comunicação nos intercâmbios de dados entre as aplicações ar-terra. Contudo, deve ser implantado um conjunto comum, pelo menos no lado «terra», de modo a proteger a interoperabilidade global no interior do espaço aéreo abrangido pelo presente regulamento. Actualmente, os protocolos definidos pela ICAO, assentes na Rede de Telecomunicações Aeronáuticas (a seguir designada por «ATN») e no modo 2 da ligação digital VHF (a seguir designada por «VDL 2») são considerados a única solução validada para uma implantação harmonizada. Os Estados-Membros devem, por conseguinte, assegurar a disponibilidade de tal solução.\n\n(17) Os procedimentos regionais complementares da ICAO aplicáveis a nível europeu encontram-se em fase de revisão, de modo a tornar possível o embarque obrigatório dos componentes de ligação de dados no espaço aéreo de alguns Estados-Membros.\n\n(18) Os operadores e as organizações que prestam serviços de comunicações para o intercâmbio de dados entre aplicações ar-terra devem ter a possibilidade de utilizar protocolos diferentes dos ATN/VDL 2. Esses protocolos devem, contudo, preencher requisitos adequados, de modo a garantir a interoperabilidade extremo-a-extremo, entre os órgãos dos serviços de tráfego aéreo e as aeronaves.\n\n(19) Os prestadores de serviços de tráfego aéreo (a seguir designados por «ATS») podem confiar a prestação de serviços de comunicações ar-terra através de ligações de dados a outras organizações. Nesse caso, as partes interessadas devem celebrar acordos de nível de serviço, de modo a garantir que esses serviços apresentam níveis de segurança e de eficiência adequados.\n\n(20) Para garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados, as aeronaves e os órgãos ATS dotados de capacidade de ligação de dados devem poder estabelecer comunicações através de ligações de dados independentemente dos acordos celebrados entre os operadores e os prestadores de serviços ATS, de modo a garantir a disponibilidade dos serviços de comunicações ar-terra. Devem, por conseguinte, ser adoptadas medidas adequadas para o efeito.\n\n(21) As informações relativas à capacidade de ligação de dados existente a bordo devem ser incluídas no plano de voo, processadas e transmitidas entre órgãos ATS. A informação de identificação que permite a utilização das aplicações baseadas em ligações de dados ar-terra e a indicação de que o órgão ATS seguinte pode começar a trocar dados com as aeronaves devem também ser processadas e transmitidas entre órgãos ATS.\n\n(22) Os prestadores de serviços de navegação aérea e as demais entidades que prestam serviços de comunicações ar-terra através de ligações de dados devem adoptar medidas para garantir a segurança adequada do intercâmbio de informações.\n\n(23) Os prestadores de serviços de tráfego aéreo devem proceder a controlos periódicos da qualidade do serviço de comunicações ar-terra através de ligações de dados.\n\n(24) Deve ser usado um regime comum de endereçamento que identifique, de uma forma inequívoca, o conjunto das estações, embarcadas e em terra, envolvidas no intercâmbio de dados.\n\n(25) Para manter ou reforçar a segurança das operações, os Estados-Membros devem ter de assegurar que as partes interessadas efectuem uma avaliação da segurança, nomeadamente no que respeita à identificação dos perigos e à avaliação e redução dos riscos.\n\n(26) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "98f88d62a1ebf8c6": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece as regras aplicáveis à introdução coordenada de serviços de ligações de dados baseados em comunicações de dados ponto-a-ponto ar-terra, conforme definido no ponto 5 do artigo 2.º\n\n2. O presente regulamento aplica-se:\n\na) Aos sistemas de processamento de dados de voo, aos seus componentes e procedimentos associados, bem como aos sistemas de interface homem-máquina, aos seus componentes e procedimentos associados, utilizados pelos órgãos de controlo do tráfego aéreo que prestam serviços ao tráfego aéreo geral;\n\nb) Aos componentes de bordo das interfaces homem-máquina e procedimentos associados;\n\nc) Aos sistemas de comunicação ar-terra, aos seus componentes e procedimentos associados.\n\n3. O presente regulamento aplica-se a todos os voos operados em regime de tráfego aéreo geral em conformidade com as regras de voo por instrumentos no espaço aéreo acima do nível de voo FL 285 definido no Anexo I, parte A.\n\nAlém disso, o presente regulamento aplica-se, a partir de 5 de Fevereiro de 2015, a todos os voos que operem como tráfego aéreo geral de acordo com regras de instrumentos de voo no espaço aéreo acima do nível de voo FL 285 definido no Anexo I, parte B.\n\n4. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo a seguir designados («prestadores ATS») que fornecem serviços ao tráfego aéreo geral no espaço aéreo referido no n.º 3, de acordo com as datas de aplicação pertinentes."
+  },
+  "d6b26ec5e4391236": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições estabelecidas no artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nPara além dessas definições, aplicam-se ainda as seguintes:\n\n1. «Serviços de ligações de dados»: um conjunto de transacções inter-relacionadas no domínio da gestão do tráfego aéreo, assentes em comunicações ar-terra através de ligações de dados, com um objectivo operacional claramente definido, e que têm início e fim com um evento operacional.\n\n2. «Operador»: pessoa, organização ou empresa envolvida, ou que se propõe envolver-se, na operação de uma aeronave.\n\n3. «Órgão dos serviços de tráfego aéreo» (a seguir designado por «órgão ATS»): unidade, civil ou militar, responsável pela prestação de serviços de tráfego aéreo.\n\n4. «Acordo de nível de serviço»: parte de um contrato de prestação de serviços entre organizações, na qual é acordado um determinado nível de serviço, nomeadamente no que respeita à qualidade e ao nível de desempenho dos serviços de comunicações de dados.\n\n5. «Comunicação de dados ponto-a-ponto ar-terra»: comunicação bidireccional entre uma aeronave e uma entidade de comunicação em terra, assente num conjunto de funções distribuídas, com os seguintes objectivos: a) A transmissão e a recepção de pacotes de *bits*, em ligação ascendente ou descendente, através de ligações de dados móveis entre os sistemas de comunicação de terra e de bordo; b) A transmissão e a recepção de unidades de dados entre os sistemas, de terra e de bordo, que alojam as aplicações ar-terra, nomeadamente: i) a retransmissão de unidades de dados por meio de trajectos de comunicação em terra e de ligações de dados móveis, ii) os mecanismos cooperativos de ambos os extremos destinados ao transporte das unidades de dados.\n\na) A transmissão e a recepção de pacotes de *bits*, em ligação ascendente ou descendente, através de ligações de dados móveis entre os sistemas de comunicação de terra e de bordo;\n\nb) A transmissão e a recepção de unidades de dados entre os sistemas, de terra e de bordo, que alojam as aplicações ar-terra, nomeadamente: i) a retransmissão de unidades de dados por meio de trajectos de comunicação em terra e de ligações de dados móveis, ii) os mecanismos cooperativos de ambos os extremos destinados ao transporte das unidades de dados.\n\ni) a retransmissão de unidades de dados por meio de trajectos de comunicação em terra e de ligações de dados móveis,\n\nii) os mecanismos cooperativos de ambos os extremos destinados ao transporte das unidades de dados.\n\n6. «Aeronave do Estado»: aeronave utilizada pelas forças armadas, as alfândegas ou as forças policiais.\n\n7. «Aeronave do Estado do tipo transporte»: aeronave do Estado de asa fixa, destinada a transportar pessoas e/ou carga.\n\n8. «Aplicação ar-terra»: um grupo de funções cooperativas ar-terra que servem de suporte aos serviços de tráfego aéreo.\n\n9. «Comunicação extremo-a-extremo»: transferência de informações entre aplicações ar-terra homólogas.\n\n10. «Comunicação ar-terra»: comunicação bidireccional entre os sistemas de comunicação de bordo e de terra.\n\n11. «Política de segurança»: conjunto de objectivos, regras de conduta dos utilizadores e administradores e requisitos de configuração e de gestão do sistema que, no conjunto, são concebidos para proteger os sistemas e os recursos de comunicação relacionados com a prestação de serviços de ligações de dados contra actos de interferência ilegal.\n\n12. «Dados de endereçamento»: informação pertencente ao endereço do sistema ou da rede de uma entidade que participa nas comunicações ar-terra através de ligações de dados e que permite determinar inequivocamente a localização dessa entidade.\n\n13. «Sistema Integrado de Processamento do Plano de Voo Inicial» (a seguir designado por «IFPS»): um sistema integrado na rede europeia de gestão do tráfego aéreo através do qual é prestado um serviço de processamento e de distribuição centralizada de planos de voo no espaço aéreo abrangido pelo presente regulamento, que procede à recepção, validação e distribuição dos planos de voo.\n\n14. «Inoperante»: um componente de bordo que não cumpre o objectivo pretendido ou de forma sistemática não funciona dentro dos limites ou margens de tolerância operacionais estabelecidos."
+  },
+  "652d0fbf259823cc": {
+   "fragment_id": "Artigo 3.º — Serviços de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Serviços de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de ligações de dados\n\n1. Os prestadores de serviços de tráfego aéreo («ATS») garantem que os órgãos ATS que prestam serviços de tráfego aéreo no espaço aéreo referido no n.º 3 do artigo 1.º dispõem de capacidade para prestar e para explorar os serviços de ligações de dados definidos no Anexo II.\n\n2. Sem prejuízo do disposto no n.º 4 do presente artigo, os operadores garantem que as aeronaves que operam os voos referidos no n.º 3 do artigo 1.º, cujo certificado de navegabilidade tenha sido emitido pela primeira vez em 1 de Janeiro de 2011 ou em data posterior, dispõem de capacidade para utilizar os serviços de ligações de dados definidos no Anexo II.\n\n3. Sem prejuízo do disposto no n.º 4 do presente artigo, os operadores garantem que as aeronaves que operam os voos referidos no n.º 3 do artigo 1.º, cujo certificado de navegabilidade tenha sido emitido pela primeira vez antes de 1 de Janeiro de 2011, dispõem de capacidade para utilizar os serviços de ligações de dados definidos no Anexo II, a partir de 5 de Fevereiro de 2015.\n\n4. As disposições estabelecidas nos n.^os^ 2 e 3 não se aplicam:\n\na) Às aeronaves cujo certificado de navegabilidade tenha sido emitido pela primeira vez antes de 1 de Janeiro de 2014 providas de equipamento de ligação de dados certificado, de acordo com os requisitos de um dos documentos da Eurocae especificados no ponto 10 do Anexo III;\n\nb) Às aeronaves cujo certificado de navegabilidade tenha sido emitido pela primeira vez antes de 1 de Janeiro de 1998 e que cessem as operações no espaço aéreo referido no n.º 3 do artigo 1.º até 31 de Dezembro de 2017;\n\nc) Às aeronaves do Estado;\n\nd) Às aeronaves que voam no espaço aéreo referido no n.º 3 do artigo 1.º para efeitos de teste, entrega e manutenção, ou cujos componentes de ligação de dados se encontrem temporariamente inoperantes, nas condições definidas na lista de equipamento mínimo requerida no ponto 1 do Anexo III do presente regulamento, bem como no Regulamento (CE) n.º 216/2008 e nas suas regras de execução.\n\n5. Os Estados-Membros que decidam dotar as aeronaves do Estado novas do tipo «transporte», colocadas em serviço a partir de 1 de Janeiro de 2014, de capacidade de ligação de dados segundo normas que não sejam específicas dos requisitos operacionais militares, devem garantir que essas aeronaves dispõem de capacidade para utilizar os serviços de ligações de dados definidos no Anexo II."
+  },
+  "dd501ef8bbb45e27": {
+   "fragment_id": "Artigo 4.º — Procedimentos conexos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimentos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos conexos\n\nOs fornecedores ATS que prestam serviços de tráfego aéreo e os operadores que utilizam os serviços de tráfego aéreo assentes nos serviços de ligações de dados definidos no Anexo II devem aplicar procedimentos normalizados comuns de acordo com as disposições pertinentes da Organização Internacional da Aviação Civil (a seguir designada «ICAO»), aplicáveis nos seguintes domínios:\n\n1. Estabelecimento das comunicações controlador-piloto através de ligações de dados (a seguir designadas por «CPDLC»).\n\n2. Intercâmbio de mensagens operacionais CPDLC.\n\n3. Transferência de CPDLC.\n\n4. Suspensão temporária do recurso aos pedidos de CPDLC emanados do piloto.\n\n5. Interrupção ou fim das CPDLC.\n\n6. Classificação dos planos de voo no que respeita às informações que se prendem com a capacidade de utilização de ligações de dados."
+  },
+  "3ee3996f347e774e": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntr7-L_2009013PT.01000301-E0007), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "16ec6df776caf539": {
+   "fragment_id": "Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados\n\n1. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos n.^os^ 2 e 3 do artigo 3.º servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos n.^os^ 2 e 3 do artigo 3.º estabelecem comunicações extremo-a-extremo em conformidade com os requisitos do Anexo IV, parte A, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n3. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos n.^os^ 2 e 3 do artigo 3.º estabelecem comunicações ar-terra em conformidade com os requisitos do Anexo IV, parte B ou C, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n4. Os operadores referidos no n.º 3 adoptam as disposições adequadas para garantir que podem ser estabelecidos os intercâmbios de dados entre as suas aeronaves capazes de utilizar ligações de dados e todos os órgãos ATS que dispõem de capacidade de controlo dos voos que operam no espaço aéreo a que é feita referência no n.º 3 do artigo 1.º, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada."
+  },
+  "b770d299317b090b": {
+   "fragment_id": "Artigo 7.º — Obrigações gerais dos Estados-Membros no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações gerais dos Estados-Membros no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações gerais dos Estados-Membros no que respeita às comunicações através de ligações de dados\n\n1. Os Estados-Membros que tenham procedido à designação dos prestadores ATS no espaço aéreo referido no n.º 3 do artigo 1.º garantem que os operadores de aeronaves que voam no espaço aéreo sob a sua responsabilidade dispõem de serviços de comunicações ar-terra de acordo com os requisitos do Anexo IV, parte B aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n2. Os Estados-Membros garantem que os prestadores dos serviços de navegação aérea e demais entidades que prestam serviços de comunicações aplicam uma política de segurança adequada no que se refere aos intercâmbios de dados dos serviços de ligações de dados referidos no Anexo II, nomeadamente através da aplicação de regras de segurança comuns, de modo a assegurar a protecção dos recursos físicos distribuídos que servem de suporte a esses intercâmbios de dados.\n\n3. Os Estados-Membros garantem a aplicação de procedimentos harmonizados de gestão da informação de endereçamento, de modo a identificar inequivocamente os sistemas de comunicações, embarcados e em terra, que servem de suporte aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III."
+  },
+  "821c291e8a5126c7": {
+   "fragment_id": "Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»\n\n1. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no n.º 5 do artigo 3.º servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no n.º 5 do artigo 3.º estabelecem comunicações extremo-a-extremo em conformidade com os requisitos do Anexo IV, parte A, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n3. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no n.º 5 do artigo 3.º estabelecem comunicações ar-terra em conformidade com os requisitos especificados no Anexo IV, parte B ou C, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III."
+  },
+  "9c3f8f9a34f77b80": {
+   "fragment_id": "Artigo 9.º — Obrigações dos prestadores de serviços de navegação aérea e demais entidades no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Obrigações dos prestadores de serviços de navegação aérea e demais entidades no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos prestadores de serviços de navegação aérea e demais entidades no que respeita às comunicações através de ligações de dados\n\nOs prestadores de serviços de navegação aérea e demais entidades que prestam serviços de comunicações aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que os sistemas de terra referidos no n.º 2, alínea c), do artigo 1.º estabelecem comunicações ar-terra em conformidade com os requisitos do Anexo IV, parte B ou C."
+  },
+  "fb90d0a7fffd437d": {
+   "fragment_id": "Artigo 10.º — Requisitos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de segurança\n\nOs Estados-Membros adoptam as medidas necessárias para assegurar que a eventual modificação dos sistemas existentes referidos no n.º 2 do artigo 1.º, ou a introdução de novos sistemas, seja precedida da realização de uma avaliação da segurança, incluindo a identificação das situações de perigo e a avaliação e redução dos riscos, pelas partes interessadas."
+  },
+  "7235f83c2e2c14e6": {
+   "fragment_id": "Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conformidade ou adequação para utilização dos componentes\n\nAntes de emitirem a Declaração CE de conformidade ou de adequação para utilização referida no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes dos componentes dos sistemas referidos no n.º 2 do artigo 1.º do presente regulamento, ou os seus representantes autorizados estabelecidos na Comunidade avaliam a conformidade ou adequação para utilização desses componentes, de acordo com as regras estabelecidas no Anexo V.\n\nOs procedimentos de certificação da navegabilidade em conformidade com o Regulamento (CE) n.º 216/2008, quando aplicados aos componentes de bordo referidos no n.º 2, alíneas b) e c) do artigo 1.º do presente regulamento, são considerados procedimentos aceitáveis para a avaliação da conformidade desses componentes se incluírem a demonstração da conformidade com os requisitos de interoperabilidade, desempenho e segurança estabelecidos no presente regulamento."
+  },
+  "93f0ac1ca98fdf84": {
+   "fragment_id": "Artigo 12.º — Verificação dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Verificação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Verificação dos sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar ou tenham demonstrado que satisfazem as condições estabelecidas no Anexo VI devem proceder à verificação dos sistemas referidos no n.º 2, alíneas a) e c) do artigo 1.º em conformidade com as regras estabelecidas no Anexo VII, parte A.\n\n2. Os prestadores de serviços de navegação aérea que não possam demonstrar que satisfazem as condições estabelecidas no Anexo VI devem subcontratar um organismo notificado para proceder à verificação dos sistemas a que se refere o n.º 2, alíneas a) e c), do artigo 1.º. Essa verificação deve ser efectuada em conformidade com os requisitos previstos no Anexo VII, parte B."
+  },
+  "33a2b1ed2441fcc9": {
+   "fragment_id": "Artigo 13.º — Requisitos complementares",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Requisitos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisitos complementares\n\n1. Os prestadores ATS garantem que os intercâmbios de dados ar-terra das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III são registados de acordo com as normas da ICAO especificadas nos pontos 6, 7 e 8 do Anexo III aplicáveis à função de registo em terra das comunicações através de ligações de dados.\n\n2. O documento da Eurocae referido no ponto 9 do Anexo III é considerado um meio suficiente de garantir a conformidade com os requisitos aplicáveis ao registo dos intercâmbios de dados ar-terra referidos no n.º 1 definidos nas normas da ICAO especificadas nos pontos 6, 7 e 8 do Anexo III.\n\n3. Os prestadores ATS devem:\n\na) Elaborar e conservar manuais de operações, com as instruções e informações necessárias para que o pessoal competente possa dar cumprimento ao disposto no presente regulamento;\n\nb) Assegurar que os manuais referidos na alínea a) estejam disponíveis e sejam mantidos actualizados e que a sua actualização e distribuição sejam objecto de uma gestão adequada em termos de qualidade e de formato documental;\n\nc) Assegurar que os métodos de trabalho e os procedimentos operacionais satisfaçam o disposto no presente regulamento.\n\n4. Os Estados-Membros tomam as medidas necessárias para assegurar que o serviço centralizado de processamento e de distribuição de planos de voo:\n\na) Elabora e conserva manuais de operações com as instruções e informações necessárias para que o pessoal competente possa dar cumprimento ao disposto no presente regulamento;\n\nb) Assegura que os manuais referidos na alínea a) estão disponíveis e são mantidos actualizados e que a sua actualização e divulgação são objecto de uma gestão adequada em termos de qualidade e de formato documental;\n\nc) Assegura que os métodos de trabalho e os procedimentos operacionais satisfazem o disposto no presente regulamento.\n\n5. Os prestadores de serviços de navegação aérea garantem que todo o pessoal competente está devidamente sensibilizado para as disposições pertinentes do presente regulamento e que adquiriu formação adequada para o exercício das suas funções.\n\n6. Os operadores tomam as medidas necessárias para assegurar que o pessoal que opera o equipamento de ligações de dados está devidamente sensibilizado para o presente regulamento, que adquiriu formação adequada para o exercício das suas funções e que as instruções de utilização do equipamento de ligações de dados estão, se possível, disponíveis na cabina de pilotagem.\n\n7. Os Estados-Membros tomam as medidas necessárias para assegurar que o pessoal que opera o sistema IFPS e participa no planeamento dos voos está devidamente sensibilizado para as regras estabelecidas no presente regulamento e que adquiriu formação adequada para o exercício das suas funções.\n\n8. Os Estados-Membros garantem que as informações pertinentes sobre a utilização dos serviços de ligações de dados são divulgadas nas publicações de informação aeronáutica nacionais."
+  },
+  "318d0b5ac85f630f": {
+   "fragment_id": "Artigo 14.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções\n\n1. Quando circunstâncias específicas, com base nos critérios definidos no n.º 3, impedem determinados tipos de aeronaves de cumprir as regras estabelecidas no presente regulamento, os Estados-Membros em causa comunicam à Comissão, até 31 de Dezembro de 2012, informações pormenorizadas comprovativas da necessidade de conceder derrogações para esses tipos de aeronaves.\n\n2. A Comissão examinará os pedidos de isenção referidos no n.º 1 e, após ter consultado as partes interessadas, tomará uma decisão de acordo com o procedimento referido n.º 3 do artigo 5.º do Regulamento (CE) n.º 549/2004.\n\n3. Os critérios referidos no n.º 1 são os seguintes:\n\na) Tipos de aeronaves que atingem o fim do seu ciclo produtivo e que são produzidas em quantidades limitadas; e\n\nb) Tipos de aeronaves cujos custos de transformação são desproporcionados devido à sua concepção antiga."
+  },
+  "96a507f3d948427f": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 7 de Fevereiro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Janeiro de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "7bfdb9876e28a75a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc1-L_2009013PT.01000301-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc2-L_2009013PT.01000301-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc3-L_2009013PT.01000301-E0003) [JO L 64 de 2.3.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_064_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc4-L_2009013PT.01000301-E0004) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc5-L_2009013PT.01000301-E0005) [JO L 373 de 31.12.1991, p. 4](http://publications.europa.eu/resource/oj/JOL_1991_373_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc6-L_2009013PT.01000301-E0006) [JO L 79 de 19.3.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_079_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018.02/DOC_1#ntc7-L_2009013PT.01000301-E0007) [JO L 186 de 7.7.2006, p. 27](http://publications.europa.eu/resource/oj/JOL_2006_186_R_TOC)."
+  },
+  "128bc6873e59cea9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) O crescimento registado e estimado dos níveis de tráfego aéreo na Europa impõe um aumento equivalente da capacidade de controlo do tráfego aéreo. Esta situação induz uma procura de melhorias de natureza operacional, nomeadamente para aumentar a eficiência das comunicações entre os controladores de tráfego aéreo e os pilotos. Os canais de comunicações de voz registam níveis de congestionamento cada vez mais elevados, pelo que devem ser complementados por comunicações ar-terra através de ligações de dados.\n\n(2) Os vários estudos e testes efectuados no âmbito da Comunidade e do Eurocontrol confirmaram que os serviços de ligações de dados permitem aumentar a capacidade do controlo de tráfego aéreo. Estes serviços devem ser introduzidos de forma coordenada, de modo a optimizar os seus potenciais benefícios.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 de Outubro de 2007.\n\n(4) O presente regulamento não abrange as operações e treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(5) O Plano Director Europeu de Gestão do Tráfego Aéreo (Plano Director ATM), elaborado uma vez concluída a fase de definição do Projecto SESAR, baseado no Regulamento (CE) n.º 219/2007 do Conselho, de 27 de Fevereiro de 2007, relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR) ([^3^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0003)), prevê a rápida introdução de serviços de ligações de dados, tendo em vista complementar as comunicações de voz entre o controlador e o piloto na fase de cruzeiro.\n\n(6) Os serviços de ligações de dados devem ser introduzidos em zonas contíguas e homogéneas do espaço aéreo do céu único europeu, começando pelo espaço aéreo superior de elevada densidade de tráfego. Considerando a importância dos serviços de ligações de dados para a evolução futura da rede europeia de gestão do tráfego aéreo (a seguir designada por «EATMN»), a sua utilização deve ser progressivamente alargada à maior extensão possível de espaço aéreo do céu único europeu, conforme definido no n.º 3 do artigo 1.º do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») ([^4^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0004)).\n\n(7) A Organização da Aviação Civil Internacional (a seguir designada por «ICAO») e a Organização Europeia para o Equipamento da Aviação Civil (a seguir designada por «Eurocae») especificaram já um significativo número de serviços de ligações de dados. Apenas os serviços que tenham sido devidamente validados a nível do Eurocontrol serão obrigatoriamente introduzidos, com base nas normas estabelecidas por essas organizações.\n\n(8) O aumento da capacidade de tráfego permitido pelos serviços de ligações de dados depende da percentagem de voos operados com as funcionalidades necessárias. O objectivo é equipar uma percentagem significativa de aeronaves com essas funcionalidades, no mínimo 75 %, de modo a permitir um incremento suficiente de capacidade.\n\n(9) Os operadores devem dispor de um prazo suficiente para equiparem as aeronaves com essas novas funcionalidades, quer se trate das aeronaves novas quer da frota existente. Tal deverá ser tido em conta quando da fixação das datas em que o equipamento será tornado obrigatório.\n\n(10) Algumas aeronaves, designadamente nas operações intercontinentais de longa distância, dispõem já de capacidade de ligação de dados em conformidade com as normas denominadas «futuros sistemas de navegação aérea» (FANS) 1/A. Do ponto de vista económico, não há motivos para obrigar os operadores a instalarem equipamentos adicionais de ligação de dados nessas aeronaves de modo a cumprirem as regras estabelecidas no presente regulamento. Contudo, a mais longo prazo, devem ser envidados esforços para se conseguir a convergência entre as soluções técnicas utilizadas nas operações intercontinentais e as definidas no presente regulamento. Deve, por conseguinte, ser fixado um prazo adequado para o efeito.\n\n(11) As condições de utilização de uma aeronave cujos componentes de ligação de dados se encontram temporariamente inoperantes devem ser definidas na lista do equipamento mínimo aplicável prevista no Anexo III do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil ([^5^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0005)) e no Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE ([^6^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0006)), e nas suas regras de execução.\n\n(12) Devem ser identificados os critérios a aplicar em caso de eventuais derrogações, nomeadamente por razões imperiosas de natureza económica ou técnica, de modo a permitir que, em casos excepcionais, os operadores sejam isentos da obrigação de equipar certos tipos de aeronaves com capacidade de ligação de dados.\n\n(13) As aeronaves do tipo «transporte» são a categoria de aeronaves do Estado mais frequentemente utilizadas nas operações de tráfego aéreo geral no espaço aéreo abrangido pelo presente regulamento. Caso optem por equipar as aeronaves novas deste tipo com capacidade de ligação de dados, de acordo com normas que não sejam específicas dos requisitos operacionais militares, os Estados-Membros devem ter de adoptar soluções técnicas em conformidade com o presente regulamento.\n\n(14) A aplicação uniforme no espaço aéreo do céu único europeu de procedimentos específicos relacionados com a utilização de ligações de dados é essencial para garantir a interoperabilidade e a homogeneidade das operações.\n\n(15) A ICAO definiu normas para a gestão do contexto das aplicações ar-terra (a seguir designada por «CM») e as comunicações controlador-piloto através de ligações de dados (a seguir designadas por «CPDLC») tendo em vista a introdução dos serviços de ligações de dados. Os prestadores de serviços de tráfego aéreo e os operadores devem ficar em condições de utilizar estas aplicações e um conjunto de mensagens normalizadas comum de modo a garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados.\n\n(16) Poderão ser utilizados vários protocolos de comunicação nos intercâmbios de dados entre as aplicações ar-terra. Contudo, deve ser implantado um conjunto comum, pelo menos no lado «terra», de modo a proteger a interoperabilidade global no interior do espaço aéreo abrangido pelo presente regulamento. Actualmente, os protocolos definidos pela ICAO, assentes na Rede de Telecomunicações Aeronáuticas (a seguir designada por «ATN») e no modo 2 da ligação digital VHF (a seguir designada por «VDL 2») são considerados a única solução validada para uma implantação harmonizada. Os Estados-Membros devem, por conseguinte, assegurar a disponibilidade de tal solução.\n\n(17) Os procedimentos regionais complementares da ICAO aplicáveis a nível europeu encontram-se em fase de revisão, de modo a tornar possível o embarque obrigatório dos componentes de ligação de dados no espaço aéreo de alguns Estados-Membros.\n\n(18) Os operadores e as organizações que prestam serviços de comunicações para o intercâmbio de dados entre aplicações ar-terra devem ter a possibilidade de utilizar protocolos diferentes dos ATN/VDL 2. Esses protocolos devem, contudo, preencher requisitos adequados, de modo a garantir a interoperabilidade extremo-a-extremo, entre os órgãos dos serviços de tráfego aéreo e as aeronaves.\n\n(19) Os prestadores de serviços de tráfego aéreo (a seguir designados por «ATS») podem confiar a prestação de serviços de comunicações ar-terra através de ligações de dados a outras organizações. Nesse caso, as partes interessadas devem celebrar acordos de nível de serviço, de modo a garantir que esses serviços apresentam níveis de segurança e de eficiência adequados.\n\n(20) Para garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados, as aeronaves e os órgãos ATS dotados de capacidade de ligação de dados devem poder estabelecer comunicações através de ligações de dados independentemente dos acordos celebrados entre os operadores e os prestadores de serviços ATS, de modo a garantir a disponibilidade dos serviços de comunicações ar-terra. Devem, por conseguinte, ser adoptadas medidas adequadas para o efeito.\n\n(21) As informações relativas à capacidade de ligação de dados existente a bordo devem ser incluídas no plano de voo, processadas e transmitidas entre órgãos ATS. A informação de identificação que permite a utilização das aplicações baseadas em ligações de dados ar-terra e a indicação de que o órgão ATS seguinte pode começar a trocar dados com as aeronaves devem também ser processadas e transmitidas entre órgãos ATS.\n\n(22) Os prestadores de serviços de navegação aérea e as demais entidades que prestam serviços de comunicações ar-terra através de ligações de dados devem adoptar medidas para garantir a segurança adequada do intercâmbio de informações.\n\n(23) Os prestadores de serviços de tráfego aéreo devem proceder a controlos periódicos da qualidade do serviço de comunicações ar-terra através de ligações de dados.\n\n(24) Deve ser usado um regime comum de endereçamento que identifique, de uma forma inequívoca, o conjunto das estações, embarcadas e em terra, envolvidas no intercâmbio de dados.\n\n(25) Para manter ou reforçar a segurança das operações, os Estados-Membros devem ter de assegurar que as partes interessadas efectuem uma avaliação da segurança, nomeadamente no que respeita à identificação dos perigos e à avaliação e redução dos riscos.\n\n(26) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "00bc4e8f5a530218": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições estabelecidas no artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nPara além dessas definições, aplicam-se ainda as seguintes:\n\n1. «Serviços de ligações de dados»: um conjunto de transacções inter-relacionadas no domínio da gestão do tráfego aéreo, assentes em comunicações ar-terra através de ligações de dados, com um objectivo operacional claramente definido, e que têm início e fim com um evento operacional.\n\n2. «Operador»: pessoa, organização ou empresa envolvida, ou que se propõe envolver-se, na operação de uma aeronave.\n\n3. «Órgão dos serviços de tráfego aéreo» (a seguir designado por «órgão ATS»): unidade, civil ou militar, responsável pela prestação de serviços de tráfego aéreo.\n\n4. «Acordo de nível de serviço»: parte de um contrato de prestação de serviços entre organizações, na qual é acordado um determinado nível de serviço, nomeadamente no que respeita à qualidade e ao nível de desempenho dos serviços de comunicações de dados.\n\n5. «Comunicação de dados ponto-a-ponto ar-terra»: comunicação bidireccional entre uma aeronave e uma entidade de comunicação em terra, assente num conjunto de funções distribuídas, com os seguintes objectivos:\n\na) A transmissão e a recepção de pacotes de *bits*, em ligação ascendente ou descendente, através de ligações de dados móveis entre os sistemas de comunicação de terra e de bordo;\n\nb) A transmissão e a recepção de unidades de dados entre os sistemas, de terra e de bordo, que alojam as aplicações ar-terra, nomeadamente:\n\ni) a retransmissão de unidades de dados por meio de trajectos de comunicação em terra e de ligações de dados móveis,\n\nii) os mecanismos cooperativos de ambos os extremos destinados ao transporte das unidades de dados.\n\n6. «Aeronave do Estado»: aeronave utilizada pelas forças armadas, as alfândegas ou as forças policiais.\n\n7. «Aeronave do Estado do tipo transporte»: aeronave do Estado de asa fixa, destinada a transportar pessoas e/ou carga.\n\n8. «Aplicação ar-terra»: um grupo de funções cooperativas ar-terra que servem de suporte aos serviços de tráfego aéreo.\n\n9. «Comunicação extremo-a-extremo»: transferência de informações entre aplicações ar-terra homólogas.\n\n10. «Comunicação ar-terra»: comunicação bidireccional entre os sistemas de comunicação de bordo e de terra.\n\n11. «Política de segurança»: conjunto de objectivos, regras de conduta dos utilizadores e administradores e requisitos de configuração e de gestão do sistema que, no conjunto, são concebidos para proteger os sistemas e os recursos de comunicação relacionados com a prestação de serviços de ligações de dados contra actos de interferência ilegal.\n\n12. «Dados de endereçamento»: informação pertencente ao endereço do sistema ou da rede de uma entidade que participa nas comunicações ar-terra através de ligações de dados e que permite determinar inequivocamente a localização dessa entidade.\n\n13. «Sistema Integrado de Processamento do Plano de Voo Inicial» (a seguir designado por «IFPS»): um sistema integrado na rede europeia de gestão do tráfego aéreo através do qual é prestado um serviço de processamento e de distribuição centralizada de planos de voo no espaço aéreo abrangido pelo presente regulamento, que procede à recepção, validação e distribuição dos planos de voo.\n\n14. «Inoperante»: um componente de bordo que não cumpre o objectivo pretendido ou de forma sistemática não funciona dentro dos limites ou margens de tolerância operacionais estabelecidos."
+  },
+  "4e645c8db38c05e4": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#E0007)), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "30978be4afbadc00": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 7 de Fevereiro de 2013.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "1306dd1d1164d74c": {
+   "fragment_id": "Espaço aéreo a que se refere o n.º 3 do artigo 1.º",
+   "type": "divisao",
+   "heading": "Espaço aéreo a que se refere o n.º 3 do artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Espaço aéreo a que se refere o n.º 3 do artigo 1.º"
+  },
+  "dbaab9bc6f250e51": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A\n\nO espaço aéreo a que se refere [**►C1**](http://publications.europa.eu/resource/celex/32009R0029R%2801%29) o n.º 3, primeiro parágrafo, do artigo 1.º **◄** compreende o espaço aéreo acima do nível de voo FL 285 das regiões de informação de voo e das regiões superiores de informação de voo seguintes:\n\n— Amesterdão FIR,\n\n— Wien FIR,\n\n— Barcelona UIR,\n\n— Brindisi UIR,\n\n— Brussels UIR,\n\n— Canarias UIR,\n\n— France UIR,\n\n— Hannover UIR,\n\n— Lisboa UIR,\n\n— London UIR,\n\n— Madrid UIR,\n\n— Milano UIR,\n\n— Rhein UIR,\n\n— Roma UIR,\n\n— Scottish UIR,\n\n— Shannon UIR."
+  },
+  "9f03159dc9f2ee3e": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B\n\nO espaço aéreo a que se refere [**►C1**](http://publications.europa.eu/resource/celex/32009R0029R%2801%29) o n.º 3, segundo parágrafo, do artigo 1.º **◄** compreende o espaço aéreo acima do nível de voo FL 285 definido na parte A e, adicionalmente, as regiões de informação de voo e as regiões superiores de informação de voo seguintes:\n\n— Bratislava FIR,\n\n— Bucuresti FIR,\n\n— Budapest FIR,\n\n— Kobenhavn FIR,\n\n— Ljubljana FIR,\n\n— Nicosia FIR,\n\n— Praha FIR,\n\n— Sofia FIR,\n\n— Warszawa FIR,\n\n— Finland UIR a sul de 61°30′,\n\n— Hellas UIR,\n\n— Malta UIR,\n\n— Riga UIR,\n\n— Sweden UIR a sul de 61°30′,\n\n— Tallinn UIR,\n\n— Vilnius UIR."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "01e757ecb4a1d8f1": {
+   "fragment_id": "Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV",
+   "type": "divisao",
+   "heading": "Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV"
+  },
+  "f8473edd258fd5d0": {
+   "fragment_id": "1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)",
+   "type": "divisao",
+   "heading": "1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)\n\nO serviço DLIC deve permitir o intercâmbio das informações necessárias ao estabelecimento de comunicações através de ligações de dados entre os sistemas de ligações de dados, em terra e a bordo das aeronaves.\n\nO serviço DLIC deve ser disponibilizado para servir de suporte:\n\n— à associação, sem ambiguidades, dos dados de voo das aeronaves com os dados do plano de voo usados por um órgão ATS;\n\n— ao intercâmbio de informações sobre o tipo e a versão da aplicação ar-terra suportada;\n\n— e à prestação de informações de endereçamento da entidade que aloja a aplicação.\n\nOs intercâmbios entre sistemas de ligações de dados, embarcados e em terra, destinados à prestação do serviço DLIC, devem ser conformes com:\n\n— os métodos operacionais, diagramas de sequência temporal e mensagens de início de DLIC, bem como as funções de contacto DLIC definidas na secção 4.1 do documento da Eurocae referido no ponto 11 do Anexo III;\n\n— os requisitos de segurança especificados na secção 4.2.2 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— os requisitos de desempenho especificados na secção 4.3.2 do documento da Eurocae mencionado no ponto 11 do Anexo III."
+  },
+  "bbbf34c0c4bc22a5": {
+   "fragment_id": "2. Definição do serviço de gestão de comunicações ATC (ACM)",
+   "type": "divisao",
+   "heading": "2. Definição do serviço de gestão de comunicações ATC (ACM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Definição do serviço de gestão de comunicações ATC (ACM)\n\nO serviço ACM deve prestar assistência automatizada às tripulações de voo e aos controladores de tráfego aéreo para a transferência de comunicações ATC (voz e dados), incluindo:\n\n— o estabelecimento inicial das CPDLC com um órgão ATS;\n\n— a transferência das CPDLC e das comunicações de voz relacionadas com um voo, de um órgão ATS para o órgão ATS seguinte, ou as instruções de mudança de canal de voz num órgão ou sector ATS;\n\n— o termo normal das CPDLC com um órgão ATS.\n\nOs intercâmbios entre os sistemas de ligações de dados, embarcados e em terra, destinados à prestação do serviço ACM, devem ser conformes com:\n\n— os métodos operacionais e diagramas de sequência temporal especificados nas secções 5.1.1.1.1 a 5.1.1.1.7 e 5.1.1.2 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— os requisitos de segurança especificados na secção 5.1.2.3 do documento da Eurocae mencionado no ponto 11 do Anexo III, à excepção dos requisitos relativos à autorização a jusante;\n\n— os requisitos de desempenho aplicáveis na fase de cruzeiro especificados na secção 5.1.3.2 do documento da Eurocae mencionado no ponto 11 do Anexo III."
+  },
+  "7a45bd8f5a8cf5d1": {
+   "fragment_id": "3. Definição do serviço de autorização e de informação ATC (ACL)",
+   "type": "divisao",
+   "heading": "3. Definição do serviço de autorização e de informação ATC (ACL)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Definição do serviço de autorização e de informação ATC (ACL)\n\nO serviço ACL deve fornecer às tripulações de voo e aos controladores capacidade para realizar intercâmbios operacionais, nomeadamente no que respeita:\n\n— aos pedidos e aos relatórios enviados pelas tripulações de voo aos controladores de tráfego aéreo;\n\n— às autorizações, instruções e notificações enviadas pelos controladores de tráfego aéreo às tripulações de voo.\n\nOs intercâmbios entre os sistemas de ligações de dados, embarcados e em terra, destinados à prestação do serviço ACL, devem ser conformes com:\n\n— os métodos operacionais e diagramas de sequência temporal especificados nas secções 5.2.1.1.1 a 5.2.1.1.4 e 5.2.1.2 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— um subconjunto comum dos elementos da mensagem especificados na secção 5.2.1.1.5 do documento da Eurocae mencionado no ponto 11 do Anexo III, de acordo com o ambiente operacional em fase de cruzeiro;\n\n— os requisitos de segurança especificados na secção 5.2.2.3 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— os requisitos de desempenho aplicáveis na fase de cruzeiro especificados na secção 5.2.3.2 do documento da Eurocae mencionado no ponto 11 do Anexo III."
+  },
+  "d74a8ed103efbf0f": {
+   "fragment_id": "4. Definição do serviço de verificação de microfone ATC (AMC)",
+   "type": "divisao",
+   "heading": "4. Definição do serviço de verificação de microfone ATC (AMC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Definição do serviço de verificação de microfone ATC (AMC)\n\nO serviço AMC deve fornecer aos controladores de tráfego aéreo capacidade de transmissão de instruções em simultâneo a diversas aeronaves capazes de utilizar ligações de dados, para que as tripulações de voo verifiquem se o seu equipamento de comunicações de voz não está a bloquear um determinado canal de voz.\n\nEstas instruções destinam-se apenas às aeronaves sintonizadas na frequência bloqueada.\n\nOs intercâmbios entre os sistemas de ligações de dados, embarcados e em terra, destinados à prestação do serviço AMC, devem ser conformes com:\n\n— os métodos operacionais e diagramas de sequência temporal especificados nas secções 5.3.1.1.1, 5.3.1.1.2 e 5.3.1.2 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— os requisitos de segurança especificados na secção 5.3.2.3 do documento da Eurocae mencionado no ponto 11 do Anexo III;\n\n— os requisitos de desempenho especificados na secção 5.3.3.2 do documento da Eurocae mencionado no ponto 11 do Anexo III."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "ed71bcc4667cf769": {
+   "fragment_id": "Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV",
+   "type": "divisao",
+   "heading": "Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV"
+  },
+  "3d185231bb268651": {
+   "fragment_id": "Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II",
+   "type": "divisao",
+   "heading": "Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II\n\n1. Anexo III, sub-parte B, OPS 1 030, do Regulamento (CEE) n.º 3922/91.\n\n2. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.1.1 (aplicação «gestão do contexto»), alíneas a) e b), do Anexo 10 da ICAO (telecomunicações aeronáuticas), volume III, parte I (sistemas de comunicações de dados digitais) [primeira edição, Julho de 1995, incluindo a alteração 81 (23.11.2006)].\n\n3. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.2.2 (aplicação «comunicações controlador-piloto através de ligações de dados (CPDLC)»), alíneas a) e b, do Anexo 10 da ICAO (telecomunicações aeronáuticas), volume III, parte I (sistemas de comunicações de dados digitais) [primeira edição, Julho de 1995, incluindo a alteração 81 (23.11.2006)].\n\n4. Capítulo 3 (rede de telecomunicações aeronáuticas), secções 3.3, 3.4 e 3.6 do Anexo 10 da ICAO (telecomunicações aeronáuticas), volume III, parte I (sistemas de comunicações de dados digitais) [primeira edição, Julho de 1995, incluindo a alteração 81 (23.11.2006)].\n\n5. Capítulo 6 [ligação digital VHF ar-terra (VDL)] do Anexo 10 da ICAO (telecomunicações aeronáuticas), volume III, parte I (sistemas de comunicações de dados digitais) [primeira edição, Julho de 1995, incluindo a alteração 81 (23.11.2006)].\n\n6. Capítulo 3 (procedimentos gerais para o serviço de telecomunicações aeronáuticas internacionais), secção 3.5.1.5 do Anexo 10 da ICAO (telecomunicações aeronáuticas), volume II [(procedimentos aplicados nas comunicações) [sexta edição, Outubro de 2001, incluindo a alteração 81 (23.11.2006)].\n\n7. Capítulo 2 (geral), secção 2.25.3 do Anexo 11 da ICAO (serviços de tráfego aéreo) [décima terceira edição, Julho de 2001, incluindo a alteração 45 (16.07.2007)].\n\n8. Capítulo 6 (requisitos aplicáveis em matéria de comunicações aos serviços de tráfego aéreo), secção 6.1.1.2 do Anexo 11 da ICAO (serviços de tráfego aéreo) [décima terceira edição, Julho de 2001, incluindo a alteração 45 (16.7.2007)].\n\n9. Eurocae ED-111 (especificações funcionais do registo em terra CNS/ATM), Julho de 2002, incluindo a alteração 1 (30.7.2003).\n\n10. Eurocae ED-100 (Setembro de 2000) e ED-100A (Abril de 2005), (requisitos de interoperabilidade para as aplicações ATS que utilizam comunicações de dados ARINC 622).\n\n11. Eurocae ED-120 (requisitos de segurança e de desempenho aplicáveis aos serviços de ligações de dados de tráfego aéreo no espaço aéreo continental), publicado em Maio de 2004, incluindo a alteração 1, publicada em Abril de 2007, e a alteração 2, publicada em Outubro de 2007."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "0cca1407619dcbd2": {
+   "fragment_id": "Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º",
+   "type": "divisao",
+   "heading": "Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º"
+  },
+  "19c8c764d40024e2": {
+   "fragment_id": "Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo\n\n1. As comunicações de dados extremo-a-extremo devem garantir a prestação e utilização sem descontinuidades de serviços de comunicações no espaço aéreo referido no n.º 3 do artigo 1.º\n\n2. As comunicações de dados extremo-a-extremo devem servir de suporte ao intercâmbio de mensagens no âmbito dos serviços de ligações de dados definidos no Anexo II, de acordo com um conjunto comum de mensagens normalizadas.\n\n3. As comunicações de dados extremo-a-extremo devem servir de suporte a um mecanismo comum de protecção extremo-a-extremo normalizado, de modo a garantir a integridade das mensagens recebidas, em conformidade com os requisitos de segurança dos serviços de ligações de dados definidos no Anexo II."
+  },
+  "89c5a7c2a6b473b4": {
+   "fragment_id": "Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2\n\n1. As comunicações ar-terra devem ser concebidas de modo a servirem de suporte às comunicações extremo-a-extremo e a garantirem a prestação e utilização sem descontinuidades dos serviços de comunicações para as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do anexo III, no espaço aéreo referido no n.º 3 do artigo 1.º\n\n2. As comunicações ar-terra devem cumprir os requisitos de segurança e de desempenho dos serviços de ligações de dados definidos no Anexo II.\n\n3. As comunicações ar-terra devem basear-se num sistema de endereçamento comum.\n\n4. A transmissão e a recepção de unidades de dados entre os sistemas de terra e de bordo que alojam as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III devem basear-se em protocolos de comunicação conformes com as normas da ICAO que definem a rede de telecomunicações aeronáuticas (ATN) referida no ponto 4 do Anexo III.\n\n5. As características dos sistemas de comunicações de terra e de bordo e a transmissão e a recepção de pacotes de *bits* entre os sistemas de comunicações de terra e de bordo devem satisfazer as normas da ICAO que definem a ligação digital de muito alta frequência, VDL modo 2, referida no ponto 5 do Anexo III."
+  },
+  "a63e4f5915bad8f8": {
+   "fragment_id": "Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação",
+   "type": "divisao",
+   "heading": "Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação\n\n1. As comunicações ar-terra devem ser concebidas de modo a servirem de suporte às comunicações extremo-a-extremo e garantirem a prestação e utilização sem descontinuidades dos serviços de comunicações para as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III no espaço aéreo referido no n.º 3 do artigo 1.º\n\n2. As comunicações ar-terra devem cumprir os requisitos de segurança e de desempenho dos serviços de ligações de dados definidos no Anexo II.\n\n3. As comunicações ar-terra devem assentar num sistema de endereçamento comum.\n\n4. A transmissão e a recepção de pacotes de *bits* entre sistemas de comunicações de terra e de bordo devem basear-se em protocolos de comunicação que satisfaçam as condições previstas na parte D."
+  },
+  "eadaa9c7a90174f7": {
+   "fragment_id": "Parte D: Condições referidas na parte C",
+   "type": "divisao",
+   "heading": "Parte D: Condições referidas na parte C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte D: Condições referidas na parte C\n\n1. Os protocolos de comunicação devem servir de suporte a comunicações extremo-a-extremo.\n\n2. Os protocolos de comunicação devem ser objecto de um exame de segurança de modo a comprovar o cumprimento dos requisitos de segurança e de desempenho dos serviços de ligações de dados definidos no Anexo II.\n\n3. Os protocolos de comunicação devem servir de suporte a comunicações bidireccionais ponto-a-ponto que utilizam as partes do espectro de radiofrequências identificadas pela ICAO como sendo adequadas para as comunicações de dados ar-terra destinadas aos serviços de tráfego aéreo.\n\n4. Os protocolos de comunicação devem incluir um mecanismo de gestão da conectividade móvel entre as estações, em terra e embarcadas, de uma forma transparente.\n\n5. Os protocolos de comunicação devem ser especificados e validados de acordo com a regulamentação no domínio da aeronavegabilidade e da homologação aplicável ao equipamento de comunicações das aeronaves.\n\n6. Os sistemas de comunicações que servem de suporte a esses protocolos não devem ter efeitos nocivos nos equipamentos, embarcados e em terra, que servem de suporte às comunicações VDL 2."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "4f84f459d0e045ac": {
+   "fragment_id": "Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes",
+   "type": "divisao",
+   "heading": "Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes\n\n1. As actividades de verificação devem demonstrar a conformidade com os requisitos aplicáveis do presente regulamento ou a adequação para utilização dos componentes utilizados nos serviços de ligações de dados, comunicações extremo-a-extremo e comunicações ar-terra, quando tais componentes estejam a funcionar num ambiente de teste.\n\n2. O fabricante deve gerir as actividades de avaliação da conformidade e, nomeadamente:\n\n— determinar o ambiente de teste adequado;\n\n— verificar que o plano de teste descreve os componentes em ambiente de teste;\n\n— verificar que o plano de teste cobre a totalidade dos requisitos aplicáveis;\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de teste;\n\n— planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\n— realizar as inspecções e os testes previstos no plano de teste;\n\n— redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n3. O fabricante deve assegurar que os componentes utilizados nos serviços de ligações de dados, comunicações extremo-a-extremo e comunicações ar-terra integrados no ambiente de teste satisfazem as regras de interoperabilidade aplicáveis do presente regulamento.\n\n4. Uma vez concluída a verificação da conformidade ou da adequação para utilização, o fabricante deve, sob a sua responsabilidade, emitir a declaração CE de conformidade ou de adequação para utilização, especificando, os requisitos do presente regulamento a que o componente obedece e as suas condições de utilização, em conformidade com o ponto 3 do Anexo III do Regulamento (CE) n.º 552/2004."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "836e700bead81e7d": {
+   "fragment_id": "Condições a que se refere o artigo 12.º",
+   "type": "divisao",
+   "heading": "Condições a que se refere o artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições a que se refere o artigo 12.º\n\n1. O prestador de serviços de navegação aérea deve dispor, na sua organização, de métodos de elaboração de relatórios que garantam e demonstrem a imparcialidade e independência dos seus juízos sobre as actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação desempenha as suas funções com a máxima integridade profissional e a máxima competência técnica possíveis e não é objecto de quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar os seus juízos ou os resultados das suas verificações, nomeadamente por parte de pessoas ou grupos de pessoas interessadas nos resultados das verificações.\n\n3. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação tem acesso a equipamentos que lhe permitam a correcta realização das verificações necessárias.\n\n4. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação possui uma sólida formação técnica e profissional, um conhecimento satisfatório das exigências inerentes às verificações que deve efectuar, uma experiência adequada de tais operações e a capacidade necessária para estabelecer as declarações, os registos e os relatórios comprovativos de que as verificações foram efectuadas.\n\n5. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação pode efectuar as verificações com total imparcialidade. A sua remuneração deve ser independente do número de verificações realizadas e dos resultados destas."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "81735b3cb5ae8bd6": {
+   "fragment_id": "Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º\n\n1. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve demonstrar a conformidade desses sistemas com os requisitos estabelecidos no presente regulamento, num ambiente de avaliação que reproduza as condições operacionais desses sistemas.\n\n2. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve ser efectuada em conformidade com práticas de teste adequadas e reconhecidas.\n\n3. As ferramentas de teste utilizadas na verificação dos sistemas identificados no n.º 2 do artigo 1.º devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve fornecer os elementos do processo técnico referido no ponto 3 do Anexo IV do Regulamento (CE) n.º 552/2004, incluindo os seguintes:\n\n— descrição do sistema instalado;\n\n— relatório das inspecções e dos testes realizados antes da sua colocação em serviço.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação e, nomeadamente:\n\n— determinar o ambiente de avaliação operacional e técnica de modo a reproduzir de forma adequada as condições operacionais reais;\n\n— verificar que o plano de teste descreve a integração dos sistemas identificados no n.º 2 do artigo 1.º no ambiente de avaliação operacional e técnica;\n\n— verificar que o plano de teste cobre a totalidade dos requisitos de interoperabilidade e de desempenho do presente regulamento;\n\n— garantir a coerência e a qualidade da documentação técnica e do plano de teste;\n\n— planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\n— realizar as inspecções e os testes especificados no plano de teste;\n\n— redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n6. O prestador de serviços de navegação aérea deve assegurar que os sistemas referidos no n.º 2 do artigo 1.º, utilizados no ambiente de avaliação operacional, satisfazem os requisitos aplicáveis do presente regulamento.\n\n7. Uma vez concluída a verificação da conformidade, o prestador de serviços de navegação aérea redigirá a declaração CE de verificação do sistema e apresentá-la-á à autoridade supervisora nacional, acompanhada do processo técnico, conforme estabelecido no artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "de51670436e76833": {
+   "fragment_id": "Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º\n\n1. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve demonstrar a conformidade desses sistemas com os requisitos estabelecidos no presente regulamento, num ambiente de avaliação que reflicta as condições operacionais dos sistemas.\n\n2. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve ser efectuada em conformidade com práticas de teste adequadas e reconhecidas.\n\n3. As ferramentas de teste utilizadas para a verificação dos sistemas identificados no n.º 2 do artigo 1.º devem ser dotadas das funcionalidades adequadas.\n\n4. A verificação dos sistemas identificados no n.º 2 do artigo 1.º deve fornecer os elementos do processo técnico referido no ponto 3 do Anexo IV do Regulamento (CE) n.º 552/2004, incluindo os seguintes:\n\n— descrição do sistema instalado;\n\n— relatório das inspecções e dos testes realizados antes da sua colocação em serviço.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente de avaliação operacional e técnica de modo a reproduzir de forma adequada as condições operacionais reais e confiar as actividades de verificação a um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação, nomeadamente:\n\n— verificar que o plano de teste descreve a integração dos sistemas identificados no n.º 2 do artigo 1.º no ambiente de avaliação operacional e técnica;\n\n— verificar que o plano de teste cobre a totalidade dos requisitos do presente regulamento;\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de teste;\n\n— planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\n— realizar as inspecções e os testes especificados no plano de teste;\n\n— redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n7. O organismo notificado deve assegurar que os sistemas referidos no n.º 2 do artigo 1.º, utilizados no ambiente de avaliação operacional, satisfazem os requisitos aplicáveis do presente regulamento.\n\n8. Uma vez concluídas as tarefas de verificação, o organismo notificado emitirá um certificado de conformidade relativo às tarefas executadas.\n\n9. O prestador de serviços de navegação aérea deve então emitir a declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme estabelecido no artigo 6.º do Regulamento (CE) n.º 552/2004.\n\n---"
+  },
+  "3486c9e79ed6ea67": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0003)) JO L 64 de 2.3.2007, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0004)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0005)) JO L 373 de 31.12.1991, p. 4.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0006)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f01b3be5-76d0-41dd-b3d9-aac31d51ad01.0018.03/DOC_1#src.E0007)) JO L 186 de 7.7.2006, p. 27."
+  },
+  "f4f1829e79f9f412": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) O crescimento registado e estimado dos níveis de tráfego aéreo na Europa impõe um aumento equivalente da capacidade de controlo do tráfego aéreo. Esta situação induz uma procura de melhorias de natureza operacional, nomeadamente para aumentar a eficiência das comunicações entre os controladores de tráfego aéreo e os pilotos. Os canais de comunicações de voz registam níveis de congestionamento cada vez mais elevados, pelo que devem ser complementados por comunicações ar-terra através de ligações de dados.\n\n(2) Os vários estudos e testes efectuados no âmbito da Comunidade e do Eurocontrol confirmaram que os serviços de ligações de dados permitem aumentar a capacidade do controlo de tráfego aéreo. Estes serviços devem ser introduzidos de forma coordenada, de modo a optimizar os seus potenciais benefícios.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 de Outubro de 2007.\n\n(4) O presente regulamento não abrange as operações e treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(5) O Plano Director Europeu de Gestão do Tráfego Aéreo (Plano Director ATM), elaborado uma vez concluída a fase de definição do Projecto SESAR, baseado no Regulamento (CE) n.º 219/2007 do Conselho, de 27 de Fevereiro de 2007, relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR) ([^3^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0003)), prevê a rápida introdução de serviços de ligações de dados, tendo em vista complementar as comunicações de voz entre o controlador e o piloto na fase de cruzeiro.\n\n(6) Os serviços de ligações de dados devem ser introduzidos em zonas contíguas e homogéneas do espaço aéreo do céu único europeu, começando pelo espaço aéreo superior de elevada densidade de tráfego. Considerando a importância dos serviços de ligações de dados para a evolução futura da rede europeia de gestão do tráfego aéreo (a seguir designada por «EATMN»), a sua utilização deve ser progressivamente alargada à maior extensão possível de espaço aéreo do céu único europeu, conforme definido no n.º 3 do artigo 1.º do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») ([^4^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0004)).\n\n(7) A Organização da Aviação Civil Internacional (a seguir designada por «ICAO») e a Organização Europeia para o Equipamento da Aviação Civil (a seguir designada por «Eurocae») especificaram já um significativo número de serviços de ligações de dados. Apenas os serviços que tenham sido devidamente validados a nível do Eurocontrol serão obrigatoriamente introduzidos, com base nas normas estabelecidas por essas organizações.\n\n(8) O aumento da capacidade de tráfego permitido pelos serviços de ligações de dados depende da percentagem de voos operados com as funcionalidades necessárias. O objectivo é equipar uma percentagem significativa de aeronaves com essas funcionalidades, no mínimo 75 %, de modo a permitir um incremento suficiente de capacidade.\n\n(9) Os operadores devem dispor de um prazo suficiente para equiparem as aeronaves com essas novas funcionalidades, quer se trate das aeronaves novas quer da frota existente. Tal deverá ser tido em conta quando da fixação das datas em que o equipamento será tornado obrigatório.\n\n(10) Algumas aeronaves, designadamente nas operações intercontinentais de longa distância, dispõem já de capacidade de ligação de dados em conformidade com as normas denominadas «futuros sistemas de navegação aérea» (FANS) 1/A. Do ponto de vista económico, não há motivos para obrigar os operadores a instalarem equipamentos adicionais de ligação de dados nessas aeronaves de modo a cumprirem as regras estabelecidas no presente regulamento. Contudo, a mais longo prazo, devem ser envidados esforços para se conseguir a convergência entre as soluções técnicas utilizadas nas operações intercontinentais e as definidas no presente regulamento. Deve, por conseguinte, ser fixado um prazo adequado para o efeito.\n\n(11) As condições de utilização de uma aeronave cujos componentes de ligação de dados se encontram temporariamente inoperantes devem ser definidas na lista do equipamento mínimo aplicável prevista no Anexo III do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil ([^5^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0005)) e no Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE ([^6^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0006)), e nas suas regras de execução.\n\n(12) Devem ser identificados os critérios a aplicar em caso de eventuais derrogações, nomeadamente por razões imperiosas de natureza económica ou técnica, de modo a permitir que, em casos excepcionais, os operadores sejam isentos da obrigação de equipar certos tipos de aeronaves com capacidade de ligação de dados.\n\n(13) As aeronaves do tipo «transporte» são a categoria de aeronaves do Estado mais frequentemente utilizadas nas operações de tráfego aéreo geral no espaço aéreo abrangido pelo presente regulamento. Caso optem por equipar as aeronaves novas deste tipo com capacidade de ligação de dados, de acordo com normas que não sejam específicas dos requisitos operacionais militares, os Estados-Membros devem ter de adoptar soluções técnicas em conformidade com o presente regulamento.\n\n(14) A aplicação uniforme no espaço aéreo do céu único europeu de procedimentos específicos relacionados com a utilização de ligações de dados é essencial para garantir a interoperabilidade e a homogeneidade das operações.\n\n(15) A ICAO definiu normas para a gestão do contexto das aplicações ar-terra (a seguir designada por «CM») e as comunicações controlador-piloto através de ligações de dados (a seguir designadas por «CPDLC») tendo em vista a introdução dos serviços de ligações de dados. Os prestadores de serviços de tráfego aéreo e os operadores devem ficar em condições de utilizar estas aplicações e um conjunto de mensagens normalizadas comum de modo a garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados.\n\n(16) Poderão ser utilizados vários protocolos de comunicação nos intercâmbios de dados entre as aplicações ar-terra. Contudo, deve ser implantado um conjunto comum, pelo menos no lado «terra», de modo a proteger a interoperabilidade global no interior do espaço aéreo abrangido pelo presente regulamento. Actualmente, os protocolos definidos pela ICAO, assentes na Rede de Telecomunicações Aeronáuticas (a seguir designada por «ATN») e no modo 2 da ligação digital VHF (a seguir designada por «VDL 2») são considerados a única solução validada para uma implantação harmonizada. Os Estados-Membros devem, por conseguinte, assegurar a disponibilidade de tal solução.\n\n(17) Os procedimentos regionais complementares da ICAO aplicáveis a nível europeu encontram-se em fase de revisão, de modo a tornar possível o embarque obrigatório dos componentes de ligação de dados no espaço aéreo de alguns Estados-Membros.\n\n(18) Os operadores e as organizações que prestam serviços de comunicações para o intercâmbio de dados entre aplicações ar-terra devem ter a possibilidade de utilizar protocolos diferentes dos ATN/VDL 2. Esses protocolos devem, contudo, preencher requisitos adequados, de modo a garantir a interoperabilidade extremo-a-extremo, entre os órgãos dos serviços de tráfego aéreo e as aeronaves.\n\n(19) Os prestadores de serviços de tráfego aéreo (a seguir designados por «ATS») podem confiar a prestação de serviços de comunicações ar-terra através de ligações de dados a outras organizações. Nesse caso, as partes interessadas devem celebrar acordos de nível de serviço, de modo a garantir que esses serviços apresentam níveis de segurança e de eficiência adequados.\n\n(20) Para garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados, as aeronaves e os órgãos ATS dotados de capacidade de ligação de dados devem poder estabelecer comunicações através de ligações de dados independentemente dos acordos celebrados entre os operadores e os prestadores de serviços ATS, de modo a garantir a disponibilidade dos serviços de comunicações ar-terra. Devem, por conseguinte, ser adoptadas medidas adequadas para o efeito.\n\n(21) As informações relativas à capacidade de ligação de dados existente a bordo devem ser incluídas no plano de voo, processadas e transmitidas entre órgãos ATS. A informação de identificação que permite a utilização das aplicações baseadas em ligações de dados ar-terra e a indicação de que o órgão ATS seguinte pode começar a trocar dados com as aeronaves devem também ser processadas e transmitidas entre órgãos ATS.\n\n(22) Os prestadores de serviços de navegação aérea e as demais entidades que prestam serviços de comunicações ar-terra através de ligações de dados devem adoptar medidas para garantir a segurança adequada do intercâmbio de informações.\n\n(23) Os prestadores de serviços de tráfego aéreo devem proceder a controlos periódicos da qualidade do serviço de comunicações ar-terra através de ligações de dados.\n\n(24) Deve ser usado um regime comum de endereçamento que identifique, de uma forma inequívoca, o conjunto das estações, embarcadas e em terra, envolvidas no intercâmbio de dados.\n\n(25) Para manter ou reforçar a segurança das operações, os Estados-Membros devem ter de assegurar que as partes interessadas efectuem uma avaliação da segurança, nomeadamente no que respeita à identificação dos perigos e à avaliação e redução dos riscos.\n\n(26) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "580ce6558f19821f": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece as regras aplicáveis à introdução coordenada de serviços de ligações de dados baseados em comunicações de dados ponto-a-ponto ar-terra, conforme definido no ponto 5 do artigo 2.º\n\n2. O presente regulamento aplica-se:\n\na) Aos sistemas de processamento de dados de voo, aos seus componentes e procedimentos associados, bem como aos sistemas de interface homem-máquina, aos seus componentes e procedimentos associados, utilizados pelos órgãos de controlo do tráfego aéreo que prestam serviços ao tráfego aéreo geral;\n\nb) Aos componentes de bordo das interfaces homem-máquina e procedimentos associados;\n\nc) Aos sistemas de comunicação ar-terra, aos seus componentes e procedimentos associados.\n\n3. O presente regulamento aplica-se a todos os voos operados em regime de tráfego aéreo geral em conformidade com as regras de voo por instrumentos no espaço aéreo acima do nível de voo FL 285 definido no anexo I, partes A e B.\n\n4. O presente regulamento aplica-se aos prestadores de serviços de tráfego aéreo a seguir designados («prestadores ATS») que fornecem serviços ao tráfego aéreo geral no espaço aéreo referido no n.º 3, de acordo com as datas de aplicação pertinentes."
+  },
+  "c1b1e73e81a67f44": {
+   "fragment_id": "Artigo 3.º — Serviços de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Serviços de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de ligações de dados\n\n1. Os prestadores de serviços de tráfego aéreo («ATS») garantem que os órgãos ATS que prestam serviços de tráfego aéreo no espaço aéreo referido no n.º 3 do artigo 1.º dispõem de capacidade para prestar e para explorar os serviços de ligações de dados definidos no Anexo II.\n\n2. Sem prejuízo do disposto no n.º 3, os operadores garantem que as aeronaves que operam os voos referidos no artigo 1.º, n.º 3, dispõem de capacidade para utilizar os serviços de ligações de dados definidos no anexo II a partir de 5 de fevereiro de 2020.\n\n3. O disposto no n.º 2 não se aplica:\n\na) às aeronaves cujo certificado de navegabilidade tenha sido emitido pela primeira vez antes de 1 de janeiro de 2014, providas de equipamento de ligação de dados certificado, de acordo com os requisitos de um dos documentos da Eurocae especificados no anexo III, ponto 10;\n\nb) às aeronaves cujo certificado de navegabilidade tenha sido emitido pela primeira vez antes de 31 de dezembro de 2003 e que cessem as operações no espaço aéreo referido no artigo 1.º, n.º 3, até 31 de dezembro de 2022;\n\nc) às aeronaves do Estado;\n\nd) às aeronaves que voam no espaço aéreo referido no artigo 1.º, n.º 3, para efeitos de voos de ensaio, entrega ou manutenção, ou cujos componentes de ligação de dados se encontrem temporariamente inoperantes, nas condições definidas na lista de equipamento mínimo requerida no anexo III, ponto 1, bem como no Regulamento (CE) n.º 216/2008 e nas suas regras de execução.\n\n4. Os Estados-Membros que decidam dotar as aeronaves do Estado novas do tipo «transporte», colocadas em serviço após 1 de janeiro de 2019, de capacidade de ligação de dados segundo normas que não sejam específicas dos requisitos operacionais militares, devem garantir que essas aeronaves dispõem de capacidade para utilizar os serviços de ligações de dados definidos no anexo II."
+  },
+  "86e014df26bbff3d": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#E0007)), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "dace42b0e430b742": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de [**►M1**](http://publications.europa.eu/resource/celex/32015R0310) 5 de fevereiro de 2018**◄**.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "8212322d513a5e87": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B\n\nO espaço aéreo a que se refere [**►C1**](http://publications.europa.eu/resource/celex/32009R0029R%2801%29) o n.º 3, segundo parágrafo, do artigo 1.º **◄** compreende o espaço aéreo acima do nível de voo FL 285 definido na parte A e, adicionalmente, as regiões de informação de voo e as regiões superiores de informação de voo seguintes:\n\n— Bratislava FIR,\n\n— Bucuresti FIR,\n\n— Budapest FIR,\n\n— Kobenhavn FIR,\n\n— Ljubljana FIR,\n\n— Nicosia FIR,\n\n— Praha FIR,\n\n— Sofia FIR,\n\n— Warszawa FIR,\n\n— Zagreb FIR,\n\n— Finland UIR a sul de 61°30′,\n\n— Hellas UIR,\n\n— Malta UIR,\n\n— Riga UIR,\n\n— Sweden UIR a sul de 61°30′,\n\n— Tallinn UIR,\n\n— Vilnius UIR."
+  },
+  "7738d5cf08624d42": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0003)) JO L 64 de 2.3.2007, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0004)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0005)) JO L 373 de 31.12.1991, p. 4.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0006)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b0944fdf-b11e-40ab-9ae4-7d15d6bd45e1.0015.02/DOC_1#src.E0007)) JO L 186 de 7.7.2006, p. 27."
+  },
+  "32adfe2e49adc557": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) O crescimento registado e estimado dos níveis de tráfego aéreo na Europa impõe um aumento equivalente da capacidade de controlo do tráfego aéreo. Esta situação induz uma procura de melhorias de natureza operacional, nomeadamente para aumentar a eficiência das comunicações entre os controladores de tráfego aéreo e os pilotos. Os canais de comunicações de voz registam níveis de congestionamento cada vez mais elevados, pelo que devem ser complementados por comunicações ar-terra através de ligações de dados.\n\n(2) Os vários estudos e testes efectuados no âmbito da Comunidade e do Eurocontrol confirmaram que os serviços de ligações de dados permitem aumentar a capacidade do controlo de tráfego aéreo. Estes serviços devem ser introduzidos de forma coordenada, de modo a optimizar os seus potenciais benefícios.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 de Outubro de 2007.\n\n(4) O presente regulamento não abrange as operações e treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(5) O Plano Director Europeu de Gestão do Tráfego Aéreo (Plano Director ATM), elaborado uma vez concluída a fase de definição do Projecto SESAR, baseado no Regulamento (CE) n.º 219/2007 do Conselho, de 27 de Fevereiro de 2007, relativo à constituição de uma empresa comum para a realização do sistema europeu de gestão do tráfego aéreo de nova geração (SESAR) ([^3^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0003)), prevê a rápida introdução de serviços de ligações de dados, tendo em vista complementar as comunicações de voz entre o controlador e o piloto na fase de cruzeiro.\n\n(6) Os serviços de ligações de dados devem ser introduzidos em zonas contíguas e homogéneas do espaço aéreo do céu único europeu, começando pelo espaço aéreo superior de elevada densidade de tráfego. Considerando a importância dos serviços de ligações de dados para a evolução futura da rede europeia de gestão do tráfego aéreo (a seguir designada por «EATMN»), a sua utilização deve ser progressivamente alargada à maior extensão possível de espaço aéreo do céu único europeu, conforme definido no n.º 3 do artigo 1.º do Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu («regulamento relativo ao espaço aéreo») ([^4^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0004)).\n\n(7) A Organização da Aviação Civil Internacional (a seguir designada por «ICAO») e a Organização Europeia para o Equipamento da Aviação Civil (a seguir designada por «Eurocae») especificaram já um significativo número de serviços de ligações de dados. Apenas os serviços que tenham sido devidamente validados a nível do Eurocontrol serão obrigatoriamente introduzidos, com base nas normas estabelecidas por essas organizações.\n\n(8) O aumento da capacidade de tráfego permitido pelos serviços de ligações de dados depende da percentagem de voos operados com as funcionalidades necessárias. O objectivo é equipar uma percentagem significativa de aeronaves com essas funcionalidades, no mínimo 75 %, de modo a permitir um incremento suficiente de capacidade.\n\n(9) Os operadores devem dispor de um prazo suficiente para equiparem as aeronaves com essas novas funcionalidades, quer se trate das aeronaves novas quer da frota existente. Tal deverá ser tido em conta quando da fixação das datas em que o equipamento será tornado obrigatório.\n\n(10) Algumas aeronaves, designadamente nas operações intercontinentais de longa distância, dispõem já de capacidade de ligação de dados em conformidade com as normas denominadas «futuros sistemas de navegação aérea» (FANS) 1/A. Do ponto de vista económico, não há motivos para obrigar os operadores a instalarem equipamentos adicionais de ligação de dados nessas aeronaves de modo a cumprirem as regras estabelecidas no presente regulamento. Contudo, a mais longo prazo, devem ser envidados esforços para se conseguir a convergência entre as soluções técnicas utilizadas nas operações intercontinentais e as definidas no presente regulamento. Deve, por conseguinte, ser fixado um prazo adequado para o efeito.\n\n(11) As condições de utilização de uma aeronave cujos componentes de ligação de dados se encontram temporariamente inoperantes devem ser definidas na lista do equipamento mínimo aplicável prevista no Anexo III do Regulamento (CEE) n.º 3922/91 do Conselho, de 16 de Dezembro de 1991, relativo à harmonização de normas técnicas e dos procedimentos administrativos no sector da aviação civil ([^5^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0005)) e no Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008, relativo a regras comuns no domínio da aviação civil e que cria a Agência Europeia para a Segurança da Aviação, e que revoga a Directiva 91/670/CEE do Conselho, o Regulamento (CE) n.º 1592/2002 e a Directiva 2004/36/CE ([^6^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0006)), e nas suas regras de execução.\n\n(12) Devem ser identificados os critérios a aplicar em caso de eventuais derrogações, nomeadamente por razões imperiosas de natureza económica ou técnica, de modo a permitir que, em casos excepcionais, os operadores sejam isentos da obrigação de equipar certos tipos de aeronaves com capacidade de ligação de dados.\n\n(13) As aeronaves do tipo «transporte» são a categoria de aeronaves do Estado mais frequentemente utilizadas nas operações de tráfego aéreo geral no espaço aéreo abrangido pelo presente regulamento. Caso optem por equipar as aeronaves novas deste tipo com capacidade de ligação de dados, de acordo com normas que não sejam específicas dos requisitos operacionais militares, os Estados-Membros devem ter de adoptar soluções técnicas em conformidade com o presente regulamento.\n\n(14) A aplicação uniforme no espaço aéreo do céu único europeu de procedimentos específicos relacionados com a utilização de ligações de dados é essencial para garantir a interoperabilidade e a homogeneidade das operações.\n\n(15) A ICAO definiu normas para a gestão do contexto das aplicações ar-terra (a seguir designada por «CM») e as comunicações controlador-piloto através de ligações de dados (a seguir designadas por «CPDLC») tendo em vista a introdução dos serviços de ligações de dados. Os prestadores de serviços de tráfego aéreo e os operadores devem ficar em condições de utilizar estas aplicações e um conjunto de mensagens normalizadas comum de modo a garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados.\n\n(16) Poderão ser utilizados vários protocolos de comunicação nos intercâmbios de dados entre as aplicações ar-terra. Contudo, deve ser implantado um conjunto comum, pelo menos no lado «terra», de modo a proteger a interoperabilidade global no interior do espaço aéreo abrangido pelo presente regulamento. Actualmente, os protocolos definidos pela ICAO, assentes na Rede de Telecomunicações Aeronáuticas (a seguir designada por «ATN») e no modo 2 da ligação digital VHF (a seguir designada por «VDL 2») são considerados a única solução validada para uma implantação harmonizada. Os Estados-Membros devem, por conseguinte, assegurar a disponibilidade de tal solução.\n\n(17) Os procedimentos regionais complementares da ICAO aplicáveis a nível europeu encontram-se em fase de revisão, de modo a tornar possível o embarque obrigatório dos componentes de ligação de dados no espaço aéreo de alguns Estados-Membros.\n\n(18) Os operadores e as organizações que prestam serviços de comunicações para o intercâmbio de dados entre aplicações ar-terra devem ter a possibilidade de utilizar protocolos diferentes dos ATN/VDL 2. Esses protocolos devem, contudo, preencher requisitos adequados, de modo a garantir a interoperabilidade extremo-a-extremo, entre os órgãos dos serviços de tráfego aéreo e as aeronaves.\n\n(19) Os prestadores de serviços de tráfego aéreo (a seguir designados por «ATS») podem confiar a prestação de serviços de comunicações ar-terra através de ligações de dados a outras organizações. Nesse caso, as partes interessadas devem celebrar acordos de nível de serviço, de modo a garantir que esses serviços apresentam níveis de segurança e de eficiência adequados.\n\n(20) Para garantir a interoperabilidade extremo-a-extremo dos serviços de ligações de dados, as aeronaves e os órgãos ATS dotados de capacidade de ligação de dados devem poder estabelecer comunicações através de ligações de dados independentemente dos acordos celebrados entre os operadores e os prestadores de serviços ATS, de modo a garantir a disponibilidade dos serviços de comunicações ar-terra. Devem, por conseguinte, ser adoptadas medidas adequadas para o efeito.\n\n(21) As informações relativas à capacidade de ligação de dados existente a bordo devem ser incluídas no plano de voo, processadas e transmitidas entre órgãos ATS. A informação de identificação que permite a utilização das aplicações baseadas em ligações de dados ar-terra e a indicação de que o órgão ATS seguinte pode começar a trocar dados com as aeronaves devem também ser processadas e transmitidas entre órgãos ATS.\n\n(22) Os prestadores de serviços de navegação aérea e as demais entidades que prestam serviços de comunicações ar-terra através de ligações de dados devem adoptar medidas para garantir a segurança adequada do intercâmbio de informações.\n\n(23) Os prestadores de serviços de tráfego aéreo devem proceder a controlos periódicos da qualidade do serviço de comunicações ar-terra através de ligações de dados.\n\n(24) Deve ser usado um regime comum de endereçamento que identifique, de uma forma inequívoca, o conjunto das estações, embarcadas e em terra, envolvidas no intercâmbio de dados.\n\n(25) Para manter ou reforçar a segurança das operações, os Estados-Membros devem ter de assegurar que as partes interessadas efectuem uma avaliação da segurança, nomeadamente no que respeita à identificação dos perigos e à avaliação e redução dos riscos.\n\n(26) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade devem descrever os procedimentos de avaliação da conformidade específicos a utilizar na avaliação da conformidade ou da adequação para utilização dos componentes, bem como na verificação dos sistemas.\n\n(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b355704e0ff66a6e": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#E0007)), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "8e9ca4396d371540": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de [**►M2**](http://publications.europa.eu/resource/celex/32015R0310) 5 de fevereiro de 2018**◄**.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "dccf723639fbec70": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0003)) JO L 64 de 2.3.2007, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0004)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0005)) JO L 373 de 31.12.1991, p. 4.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0006)) JO L 79 de 19.3.2008, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/06527ef0-01e8-4742-a9b5-9c904fa9cd2b.0015.02/DOC_1#src.E0007)) JO L 186 de 7.7.2006, p. 27."
+  },
+  "f105c188e4a81e89": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "a24346d5b6781adb": {
+   "fragment_id": "Artigo 3.º — Serviços de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Serviços de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de ligações de dados\n\n1. Os prestadores de serviços de tráfego aéreo («ATS») garantem que os órgãos ATS que prestam serviços de tráfego aéreo no espaço aéreo referido no n.º 3 do artigo 1.º dispõem de capacidade para prestar e para explorar os serviços de ligações de dados definidos no Anexo II.\n\n2. Sem prejuízo do disposto no n.º 3, os operadores garantem que as aeronaves que operam os voos referidos no artigo 1.º, n.º 3, dispõem de capacidade para utilizar os serviços de ligações de dados definidos no anexo II a partir de 5 de fevereiro de 2020.\n\n3. O disposto no n.º 2 não se aplica:\n\na) Às aeronaves cujo certificado de aeronavegabilidade tenha sido emitido pela primeira vez antes de 1 de janeiro de 1995;\n\nb) Às aeronaves cujo certificado de aeronavegabilidade tenha sido emitido pela primeira vez antes de 31 de dezembro de 2003 e que cessem as operações no espaço aéreo referido no artigo 1.º, n.º 3, até 31 de dezembro de 2022;\n\nc) Às aeronaves cujo certificado de aeronavegabilidade tenha sido emitido pela primeira vez antes de 1 de janeiro de 2018 e que antes desta data tenham sido providas de equipamento de ligação de dados conforme com os requisitos de um dos documentos da Eurocae especificados no anexo III, ponto 10;\n\nd) Às aeronaves com uma capacidade máxima certificada de lugares sentados igual ou inferior a 19 passageiros e uma massa máxima certificada à descolagem igual ou inferior a 45 359 kg (100 000 libras) e cujo primeiro certificado de aeronavegabilidade tenha sido emitido antes de 5 de fevereiro de 2020;\n\ne) Às aeronaves do Estado;\n\nf) Às aeronaves que voam no espaço aéreo referido no artigo 1.º, n.º 3, para efeitos de voos de ensaio, entrega ou manutenção ou cujos componentes de ligação de dados se encontrem temporariamente inoperantes nas condições especificadas na lista correspondente de equipamento mínimo exigida no anexo III, ponto 1.\n\n4. Os Estados-Membros que decidam dotar as aeronaves do Estado novas do tipo «transporte», colocadas em serviço após 1 de janeiro de 2019, de capacidade de ligação de dados segundo normas que não sejam específicas dos requisitos operacionais militares, devem garantir que essas aeronaves dispõem de capacidade para utilizar os serviços de ligações de dados definidos no anexo II."
+  },
+  "752c81784479705c": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b9c38d23-d937-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "e1412830c24639a6": {
+   "fragment_id": "Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados\n\n1. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 2**◄** servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 2**◄** estabelecem comunicações extremo-a-extremo em conformidade com os requisitos do Anexo IV, parte A, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n3. Os operadores garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo da aeronave referidos nos [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 2**◄** estabelecem comunicações ar-terra em conformidade com os requisitos do Anexo IV, parte B ou C, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n4. Os operadores referidos no n.º 3 adoptam as disposições adequadas para garantir que podem ser estabelecidos os intercâmbios de dados entre as suas aeronaves capazes de utilizar ligações de dados e todos os órgãos ATS que dispõem de capacidade de controlo dos voos que operam no espaço aéreo a que é feita referência no n.º 3 do artigo 1.º, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada."
+  },
+  "e83d3d26dc0facd5": {
+   "fragment_id": "Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»\n\n1. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 4**◄** servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 4**◄** estabelecem comunicações extremo-a-extremo em conformidade com os requisitos do Anexo IV, parte A, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n3. Os Estados-Membros garantem que os sistemas de bordo referidos no n.º 2, alínea c), do artigo 1.º e os seus componentes instalados a bordo das aeronaves do Estado do tipo «transporte» referidas no [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 3.º, n.º 4**◄** estabelecem comunicações ar-terra em conformidade com os requisitos especificados no Anexo IV, parte B ou C, aplicáveis aos intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III."
+  },
+  "3500a4244ac22e27": {
+   "fragment_id": "Artigo 14.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções\n\n1. Quando circunstâncias específicas, com base nos critérios definidos no n.º 3, impedem determinados tipos de aeronaves de cumprir as regras estabelecidas no presente regulamento, os Estados-Membros em causa comunicam à Comissão, até 31 de Dezembro de 2012, informações pormenorizadas comprovativas da necessidade de conceder derrogações para esses tipos de aeronaves.\n\n2. A Comissão examinará os pedidos de isenção referidos no n.º 1 e, após ter consultado as partes interessadas, tomará uma decisão de acordo com o procedimento referido n.º 3 do [**►M3**](http://publications.europa.eu/resource/celex/32019R1170) artigo 127.º, n.º 3 do Regulamento (UE) 2018/1139**◄**.\n\n3. Os critérios referidos no n.º 1 são os seguintes:\n\na) Combinações de tipos e modelos de aeronaves que atingem o fim do seu ciclo produtivo e que são produzidas em quantidades limitadas; e\n\nb) Combinações de tipos e modelos de aeronaves cujos custos de transformação são desproporcionados devido à sua conceção antiga."
+  },
+  "c4bf124daad16553": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. Anexo III, secção ORO.MLR.105, do Regulamento (UE) n.º 965/2012 da Comissão, de 5 de outubro de 2012, que estabelece os requisitos técnicos e os procedimentos administrativos para as operações aéreas, ou anexo 6 da ICAO — Operações de aeronaves, parte I (Transporte aéreo comercial internacional — Aviões [11.ª edição, julho de 2018, que incorpora a alteração 43]), ou o anexo 6 da ICAO — Operações de aeronaves, Parte II (Aviação geral internacional — Aviões [décima edição, julho de 2018, incluindo a alteração 36]).\n\n2. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.1.1 (aplicação «gestão do contexto», [CM]), alíneas a) e b) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n3. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.2.2 (aplicação «comunicações controlador-piloto através de ligações de dados» [CPDLC]), alíneas a) e b) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n4. Capítulo 3 (rede de telecomunicações aeronáuticas), secções 3.3, 3.4 e 3.6 do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n5. Capítulo 6 (ligação digital VHF ar-terra [VDL]) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo a alteração 90]).\n\n6. Capítulo 3 (procedimentos gerais para o serviço de telecomunicações aeronáuticas internacionais), secção 3.5.1.5 do anexo 10 da ICAO (telecomunicações aeronáuticas — volume II (procedimentos aplicados nas comunicações, incluindo os que têm o estatuto de PANS) [sétima edição, julho de 2016, incluindo alterações 40-90]).\n\n7. Capítulo 2 (geral), secção 2.26.3 do anexo 11 da ICAO (serviços de tráfego aéreo) [décima quarta edição, julho de 2016, incluindo a alteração 50-A].\n\n8. Capítulo 6 (requisitos aplicáveis em matéria de comunicações aos serviços de tráfego aéreo), secção 6.1.1.2 do anexo 11 da ICAO (serviços de tráfego aéreo) [décima terceira edição, julho de 2016, incluindo a alteração 50-A].\n\n9. Eurocae ED-111 (especificações funcionais do registo em terra CNS/ATM), julho de 2002, incluindo a alteração 1 (30.7.2003).\n\n10. Eurocae ED-100 (setembro de 2000) e ED-100A (abril de 2005), (requisitos de interoperabilidade para as aplicações ATS que utilizam comunicações de dados ARINC 622).\n\n11. Eurocae ED-120 (requisitos de segurança e de desempenho aplicáveis aos serviços de ligações de dados de tráfego aéreo no espaço aéreo continental), publicado em maio de 2004, incluindo a alteração 1, publicada em abril de 2007, e a alteração 2, publicada em outubro de 2007."
+  },
+  "0ec3c0e6221ebbab": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b9c38d23-d937-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 186 de 7.7.2006, p. 27."
+  },
+  "701e8747ac524f28": {
+   "fragment_id": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através de ligações de dados\n\n1. Os prestadores ATS garantem que os sistemas em terra referidos no n.º 2 do artigo 1.º e os seus componentes servem de suporte às aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III.\n\n2. Os prestadores ATS garantem que, no caso dos intercâmbios de dados entre as aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III, os sistemas em terra referidos no n.º 2, alínea c), do artigo 1.º e os respectivos componentes estabelecem comunicações extremo-a-extremo de acordo com os requisitos do Anexo IV, parte A.\n\n3. Os prestadores ATS que delegam em terceiros o fornecimento dos serviços de comunicação com as aeronaves para o intercâmbio de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III garantem que esses serviços são prestados em conformidade e com os termos e condições de um acordo de nível de serviços que inclua, nomeadamente:\n\na) A descrição dos serviços de comunicações em conformidade com os requisitos dos serviços de ligações de dados definidos no Anexo II;\n\nb) A descrição da política de segurança instaurada para proteger os intercâmbios de dados das aplicações ar-terra definidas nas normas da ICAO especificadas nos pontos 2 e 3 do Anexo III;\n\nc) Os equipamentos pertinentes que devem ser fornecidos para controlar a qualidade do serviço e os níveis de desempenho dos serviços de comunicações.\n\n4. Os prestadores ATS adoptam as disposições adequadas para garantir que podem ser estabelecidos intercâmbios de dados com todas as aeronaves que voam no espaço aéreo sob a sua responsabilidade que possam utilizar ligações de dados em conformidade com os requisitos do presente regulamento, tendo em conta as eventuais limitações de cobertura inerentes à tecnologia de comunicação utilizada.\n\n5. Nos seus sistemas de processamento de dados de voo, os prestadores ATS executam os processos de envio dos dados de identificação e de notificação da autoridade seguinte entre órgãos ATC de acordo com o Regulamento (CE) n.º 1032/2006 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/29c2f4af-62b0-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0001)), no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados.\n\n6. Os prestadores de serviços de tráfego aéreo controlam a qualidade dos serviços de comunicações e verificam a sua conformidade com o nível de desempenho requerido no ambiente operacional sob a sua responsabilidade."
+  },
+  "037f8b63cec63836": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n1. Anexo III, secção ORO.MLR.105, do Regulamento (UE) n.º 965/2012 da Comissão, de 5 de outubro de 2012, que estabelece os requisitos técnicos e os procedimentos administrativos para as operações aéreas, ou anexo 6 da ICAO — Operações de aeronaves, parte I (Transporte aéreo comercial internacional — Aviões [11.ª edição, julho de 2018, que incorpora a alteração 43]), ou o anexo 6 da ICAO — Operações de aeronaves, Parte II (Aviação geral internacional — Aviões [décima edição, julho de 2018, incluindo a alteração 36]).\n\n2. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.1.1 (aplicação «gestão do contexto», [CM]), alíneas a) e b) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n3. Capítulo 3 (rede de telecomunicações aeronáuticas), secção 3.5.2.2 (aplicação «comunicações controlador-piloto através de ligações de dados» [CPDLC]), alíneas a) e b) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n4. Capítulo 3 (rede de telecomunicações aeronáuticas), secções 3.3, 3.4 e 3.6 do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo alterações 70-82]).\n\n5. Capítulo 6 (ligação digital VHF ar-terra [VDL]) do anexo 10 da ICAO (telecomunicações aeronáuticas — volume III, parte I (sistemas de comunicações de dados digitais) [segunda edição, julho de 2007, incluindo a alteração 90]).\n\n6. Capítulo 3 (procedimentos gerais para o serviço de telecomunicações aeronáuticas internacionais), secção 3.5.1.5 do anexo 10 da ICAO (telecomunicações aeronáuticas — volume II (procedimentos aplicados nas comunicações, incluindo os que têm o estatuto de PANS) [sétima edição, julho de 2016, incluindo alterações 40-90]).\n\n7. Capítulo 2 (geral), secção 2.26.3 do anexo 11 da ICAO (serviços de tráfego aéreo) [décima quarta edição, julho de 2016, incluindo a alteração 50-A].\n\n8. Capítulo 6 (requisitos aplicáveis em matéria de comunicações aos serviços de tráfego aéreo), secção 6.1.1.2 do anexo 11 da ICAO (serviços de tráfego aéreo) [décima terceira edição, julho de 2016, incluindo a alteração 50-A].\n\n9. Eurocae ED-111 (especificações funcionais do registo em terra CNS/ATM), julho de 2002, incluindo a alteração 1 (30.7.2003).\n\n10. Eurocae ED-100 (setembro de 2000) e ED-100A (abril de 2005), (requisitos de interoperabilidade para as aplicações ATS que utilizam comunicações de dados ARINC 622).\n\n11. Eurocae ED-120 (requisitos de segurança e de desempenho aplicáveis aos serviços de ligações de dados de tráfego aéreo no espaço aéreo continental), publicado em maio de 2004, incluindo:\n\na) Para os operadores:\n\n— a alteração 1, publicada em abril de 2007, e a alteração 2, publicada em outubro de 2007, ou\n\n— a alteração 1, publicada em abril de 2007, a alteração 2, publicada em outubro de 2007, e a alteração 3, publicada em setembro de 2019.\n\nb) Para os prestadores ATS:\n\n— a alteração 1, publicada em abril de 2007, a alteração 2, publicada em outubro de 2007, e a alteração 3, publicada em setembro de 2019."
+  },
+  "1e7eb31281189064": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/29c2f4af-62b0-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 186 de 7.7.2006, p. 27."
+  },
+  "cbf5c86f3c6366a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0029 — PT — 05.10.2023 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0029) [REGULAMENTO (CE) N.º 29/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0029) [de 16 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0029) [que estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu](http://publications.europa.eu/resource/celex/32009R0029) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0029) (JO L 013, 17.1.2009, p.3)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2023/1770 da Comissão de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1770) — L 228 — 39 — 15.9.2023"
+  }
+ }
+}

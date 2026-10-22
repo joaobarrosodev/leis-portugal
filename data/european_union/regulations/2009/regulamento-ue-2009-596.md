@@ -36,6 +36,92 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-08-07'
+version_history:
+  file: regulamento-ue-2009-596.versoes.json
+  count: 2
+  source_lastmod: '2009-08-07'
+  versions:
+  - date: '2009-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita 1. EMPRESAS
+    - Adita 1.1. Directiva 97/68/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1997, relativa à aproximação
+      das legislações dos Estados-Membros respeitantes a medidas contra a emissão de poluentes gasosos e de partículas pelos
+      motores de combustão interna a instalar em máquinas móveis não rodoviárias ([^7^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0007))
+    - Adita 1.2. Directiva 98/79/CE do Parlamento Europeu e do Conselho, de 27 de Outubro de 1998, relativa aos dispositivos
+      médicos de diagnóstico in vitro ([^8^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0008))
+    - Adita 1.3. Directiva 1999/5/CE do Parlamento Europeu e do Conselho, de 9 de Março de 1999, relativa aos equipamentos
+      de rádio e equipamentos terminais de telecomunicações e ao reconhecimento mútuo da sua conformidade ([^10^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0010))
+    - Adita 1.4. Regulamento (CE) n.º 141/2000 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1999, relativo aos
+      medicamentos órfãos ([^11^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0011))
+    - Adita 1.5. Directiva 2001/20/CE do Parlamento Europeu e do Conselho, de 4 de Abril de 2001, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à aplicação de boas práticas
+      clínicas na condução dos ensaios clínicos de medicamentos para uso humano ([^14^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0014))
+    - Adita 1.6. Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código
+      comunitário relativo aos medicamentos veterinários ([^16^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0016))
+    - Adita 1.7. Directiva 2006/42/CE do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativa às máquinas e que
+      altera a Directiva 95/16/CE ([^17^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0017))
+    - Adita 2. AMBIENTE
+    - Adita 2.1. Directiva 96/59/CE do Conselho, de 16 de Setembro de 1996, relativa à eliminação dos policlorobifenilos e
+      dos policlorotrifenilos (PCB/PCT) ([^18^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0018))
+    - Adita 2.2. Directiva 98/83/CE do Conselho, de 3 de Novembro de 1998, relativa à qualidade da água destinada ao consumo
+      humano ([^20^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0020))
+    - Adita «2. Controlo de inspecção
+    - Adita 2.3. Regulamento (CE) n.º 2037/2000 do Parlamento Europeu e do Conselho, de 29 de Junho de 2000, relativo às substâncias
+      que empobrecem a camada de ozono ([^21^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0021))
+    - Adita 2.4. Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006, relativo à criação
+      do Registo Europeu das Emissões e Transferências de Poluentes e que altera as Directivas 91/689/CEE e 96/61/CE do Conselho
+      ([^22^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0022))
+    - Adita 2.5. Directiva 2006/7/CE do Parlamento Europeu e do Conselho, de 15 de Fevereiro de 2006, relativa à gestão da
+      qualidade das águas balneares ([^23^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0023))
+    - Adita 2.6. Directiva 2006/21/CE do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativa à gestão dos resíduos
+      de indústrias extractivas ([^24^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0024))
+    - Adita 3. EUROSTAT
+    - Adita 3.1. Regulamento (CE) n.º 2494/95 do Conselho, de 23 de Outubro de 1995, relativo aos índices harmonizados de
+      preços no consumidor ([^25^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0025))
+    - Adita 3.2. Regulamento (CE) n.º 577/98 do Conselho, de 9 de Março de 1998, relativo à organização de um inquérito por
+      amostragem às forças de trabalho na Comunidade ([^29^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0029))
+    - Adita 3.3. Regulamento (CE) n.º 1165/98 do Conselho, de 19 de Maio de 1998, relativo a estatísticas conjunturais ([^32^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0032))
+    - Adita «a) Âmbito de aplicação
+    - Adita 3.4. Regulamento (CE) n.º 530/1999 do Conselho, de 9 de Março de 1999, relativo às estatísticas sobre a estrutura
+      dos ganhos e dos custos da mão-de-obra ([^35^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0035))
+    - Adita 3.5. Regulamento (CE) n.º 450/2003 do Parlamento Europeu e do Conselho, de 27 de Fevereiro de 2003, relativo ao
+      índice de custos da mão-de-obra ([^38^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0038))
+    - Adita 3.6. Regulamento (CE) n.º 1552/2005 do Parlamento Europeu e do Conselho, de 7 de Setembro de 2005, relativo às
+      estatísticas da formação profissional nas empresas ([^40^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0040))
+    - Adita 4. MERCADO INTERNO
+    - Adita 4.1. Regulamento (CE) n.º 2195/2002 do Parlamento Europeu e do Conselho, de 5 de Novembro de 2002, relativo ao
+      Vocabulário Comum para os Contratos Públicos (CPV) ([^42^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0042))
+    - Adita 4.2. Directiva 2004/17/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação
+      dos processos de adjudicação de contratos nos sectores da água, da energia, dos transportes e dos serviços postais ([^44^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0044))
+    - Adita 4.3. Directiva 2004/18/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa à coordenação
+      dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e
+      dos contratos públicos de serviços ([^46^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0046))
+    - Adita 5. SAÚDE E PROTECÇÃO DO CONSUMIDOR
+    - Adita 5.1. Regulamento (CEE) n.º 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários
+      para os contaminantes presentes nos géneros alimentícios ([^48^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0048))
+    - Adita 5.2. Directiva 93/74/CEE do Conselho, de 13 de Setembro de 1993, relativa aos alimentos para animais com objectivos
+      nutricionais específicos ([^51^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0051))
+    - Adita 5.3. Directiva 96/23/CE do Conselho, de 29 de Abril de 1996, relativa às medidas de controlo a aplicar a certas
+      substâncias e aos seus resíduos nos animais vivos e respectivos produtos ([^52^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0052))
+    - Adita 5.4. Regulamento (CE) n.º 258/97 do Parlamento Europeu e do Conselho, de 27 de Janeiro de 1997, relativo a novos
+      alimentos e ingredientes alimentares ([^55^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0055))
+    - Adita 5.5. Decisão n.º 2119/98/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 1998, que institui uma rede
+      de vigilância epidemiológica e de controlo das doenças transmissíveis na Comunidade ([^56^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0056))
+    - Adita 5.6. Directiva 2000/13/CE do Parlamento Europeu e do Conselho, de 20 de Março de 2000, relativa à aproximação
+      das legislações dos Estados-Membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios ([^57^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0057))
+    - Adita 5.7. Directiva 2001/37/CE do Parlamento Europeu e do Conselho, de 5 de Junho de 2001, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita ao fabrico, à apresentação
+      e à venda de produtos do tabaco ([^59^](http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1#E0059))
 identifiers:
   celex: 32009R0596
   eli: http://data.europa.eu/eli/reg/2009/596/oj
@@ -50,7 +136,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7e1c2c74-d24a-4f9e-8e09-6cc5fc19b98a.0019
   content_url: http://publications.europa.eu/resource/cellar/9a296209-f26b-494f-8141-1a54a5933503.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0596-20090807
-  retrieved_at: '2026-10-22T02:59:23Z'
+  retrieved_at: '2026-10-22T15:42:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:42:27.195+02:00'
 integrity:
@@ -59,9 +145,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:23Z'
-  notes: Texto consolidado 02009R0596-20090807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:35Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-596.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -498,29 +584,19 @@ relationships:
   date: '2025-05-20'
 article_structure:
   article_count: 3
-  section_count: 56
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 57
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:23Z'
+  checked_at: '2026-10-22T15:42:35Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 596/2009 do Parlamento Europeu e do Conselho, de 18 de Junho de 2009
-
-> 2009R0596 — PT — 07.08.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0596R%2801%29) — [Rectificação, JO L 086, 24.3.2012, p. 25 (596/2009)](http://publications.europa.eu/resource/celex/32009R0596R%2801%29)
-
-## REGULAMENTO (CE) N.º 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Junho de 2009
 

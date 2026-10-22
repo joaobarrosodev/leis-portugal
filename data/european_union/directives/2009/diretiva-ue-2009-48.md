@@ -35,6 +35,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-29'
+version_history:
+  file: diretiva-ue-2009-48.versoes.json
+  count: 5
+  source_lastmod: '2026-08-29'
+  versions:
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-05-21'
+    amending: eu:celex:32012L0007:por
+    amending_title: DIRETIVA 2012/7/UE DA COMISSÃO de 2 de março de 2012; REGULAMENTO (UE) N. o 681/2013 DA COMISSÃO de 17
+      de julho de 2013; M3; DIRETIVA 2014/81/UE DA COMISSÃO de 23 de junho de 2014; DIRETIVA 2014/84/UE DA COMISSÃO de 30
+      de junho de 2014; DIRETIVA (UE) 2015/2115 DA COMISSÃO de 23 de novembro de 2015; DIRETIVA (UE) 2015/2116 DA COMISSÃO
+      de 23 de novembro de 2015; DIRETIVA (UE) 2015/2117 DA COMISSÃO de 23 de novembro de 2015; DIRETIVA (UE) 2017/738 DO
+      CONSELHO de 27 de março de 2017; DIRETIVA (UE) 2017/774 DA COMISSÃO de 3 de maio de 2017; DIRETIVA (UE) 2017/898 DA
+      COMISSÃO de 24 de maio de 2017; DIRETIVA (UE) 2018/725 DA COMISSÃO de 16 de maio de 2018; DIRETIVA (UE) 2019/1922 DA
+      COMISSÃO de 18 de novembro de 2019; DIRETIVA (UE) 2019/1929 DA COMISSÃO de 19 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 53.º — Períodos transitórios
+    - Altera Artigo 55.º — Revogação
+    - Altera Artigo 57.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de produtos que, explicitamente, não são considerados brinquedos na acepção da presente directiva
+    - Adita (a que se refere o n.º 1 do artigo 2.º)
+    - Adita ANEXO II
+    - Adita REQUISITOS ESPECÍFICOS DE SEGURANÇA
+    - Adita I. Propriedades físicas e mecânicas
+    - Adita II. Inflamabilidade
+    - Adita III. Propriedades químicas
+    - Adita IV. Propriedades eléctricas
+    - Adita V. Higiene
+    - Adita VI. Radioactividade
+    - Adita Apêndice A
+    - Adita Apêndice B
+    - Adita CLASSIFICAÇÃO DE SUBSTÂNCIAS E MISTURAS
+    - Adita 1. Critérios de classificação de substâncias e misturas para efeitos do ponto 2 da Parte II
+    - Adita 2. Actos comunitários que regem a utilização de determinadas substâncias para efeitos da alínea a) do ponto 4
+      e da alínea a) do ponto 5 da Parte III
+    - Adita 3. Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução
+      (CMR) para efeitos do ponto 4 da Parte III
+    - Adita 4. Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução
+      (CMR) para efeitos do ponto 5 da Parte III
+    - Adita 5. Categorias de substâncias e misturas classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução
+      (CMR) para efeitos do n.º 3 do artigo 46.º
+    - Adita Apêndice C
+    - Adita Valores-limite específicos para produtos químicos utilizados em brinquedos destinados a serem utilizados por crianças
+      com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, adotados em conformidade com o artigo
+      46.º, n.º 2.
+    - Adita ANEXO III
+    - Adita DECLARAÇÃO CE DE CONFORMIDADE
+    - Adita ANEXO IV
+    - Adita DOCUMENTAÇÃO TÉCNICA
+    - Adita ANEXO V
+    - Adita AVISOS
+    - Adita (a que se refere o artigo 11.º)
+    - Adita PARTE A
+    - Adita AVISOS DE CARÁCTER GERAL
+    - Adita PARTE B
+    - Adita AVISOS E INDICAÇÕES ESPECÍFICOS DE PRECAUÇÃO DE UTILIZAÇÃO DE DETERMINADAS CATEGORIAS DE BRINQUEDOS
+  - date: '2022-07-05'
+    amending: eu:celex:32020L2088:por
+    amending_title: DIRETIVA (UE) 2020/2088 DA COMISSÃO de 11 de dezembro de 2020; DIRETIVA (UE) 2020/2089 DA COMISSÃO de
+      11 de dezembro de 2020
+    changes:
+    - Altera III. Propriedades químicas
+    - Altera AVISOS E INDICAÇÕES ESPECÍFICOS DE PRECAUÇÃO DE UTILIZAÇÃO DE DETERMINADAS CATEGORIAS DE BRINQUEDOS
+    - Altera Notas
+  - date: '2022-12-05'
+    amending: eu:celex:32021L0903:por
+    amending_title: DIRETIVA (UE) 2021/903 DA COMISSÃO de 3 de junho de 2021
+    changes:
+    - Altera III. Propriedades químicas
+    - Altera Valores-limite específicos para produtos químicos utilizados em brinquedos destinados a serem utilizados por
+      crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, adotados em conformidade
+      com o artigo 46.º, n.º 2.
+    - Altera AVISOS E INDICAÇÕES ESPECÍFICOS DE PRECAUÇÃO DE UTILIZAÇÃO DE DETERMINADAS CATEGORIAS DE BRINQUEDOS
+    - Altera Notas
+  - date: '2026-08-29'
+    amending: eu:celex:32026L0192:por
+    amending_title: DIRETIVA (UE) 2026/192 DA COMISSÃO de 28 de janeiro de 2026
+    changes:
+    - Altera III. Propriedades químicas
+    - Altera Apêndice A
+    - Altera AVISOS E INDICAÇÕES ESPECÍFICOS DE PRECAUÇÃO DE UTILIZAÇÃO DE DETERMINADAS CATEGORIAS DE BRINQUEDOS
+    - Altera Notas
 identifiers:
   celex: 32009L0048
   eli: http://data.europa.eu/eli/dir/2009/48/oj
@@ -49,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1.0018
   content_url: http://publications.europa.eu/resource/cellar/c9a6c253-906d-11f1-9262-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0048-20260829
-  retrieved_at: '2026-10-22T02:38:41Z'
+  retrieved_at: '2026-10-22T15:38:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:32:45.344+02:00'
 integrity:
@@ -58,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:41Z'
-  notes: Texto consolidado 02009L0048-20260829.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:38:36Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2009-48.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -307,50 +395,25 @@ relationships:
   source: null
 article_structure:
   article_count: 57
-  section_count: 50
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 51
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:41Z'
-  warnings: []
+  checked_at: '2026-10-22T15:38:36Z'
+  warnings:
+  - '02009L0048-20120323: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0048-20130720: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0048-20140721: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0048-20170524: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0048-20171124: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0048-20191118: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2009/48/CE do Parlamento Europeu e do Conselho, de 18 de Junho de 2009
-
-> 02009L0048 — PT — 29.08.2026 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012L0007) — [DIRETIVA 2012/7/UE DA COMISSÃO de 2 de março de 2012](http://publications.europa.eu/resource/celex/32012L0007) — L 64 — 7 — 3.3.2012
-- [►M2](http://publications.europa.eu/resource/celex/32013R0681) — [REGULAMENTO (UE) N.º 681/2013 DA COMISSÃO de 17 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0681) — L 195 — 16 — 18.7.2013
-- [M3](http://publications.europa.eu/resource/celex/32014L0079) — [DIRETIVA 2014/79/UE DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014L0079) — L 182 — 49 — 21.6.2014
-- [►M4](http://publications.europa.eu/resource/celex/32014L0081) — [DIRETIVA 2014/81/UE DA COMISSÃO de 23 de junho de 2014](http://publications.europa.eu/resource/celex/32014L0081) — L 183 — 49 — 24.6.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014L0084) — [DIRETIVA 2014/84/UE DA COMISSÃO de 30 de junho de 2014](http://publications.europa.eu/resource/celex/32014L0084) — L 192 — 49 — 1.7.2014
-- [►M6](http://publications.europa.eu/resource/celex/32015L2115) — [DIRETIVA (UE) 2015/2115 DA COMISSÃO de 23 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2115) — L 306 — 17 — 24.11.2015
-- [►M7](http://publications.europa.eu/resource/celex/32015L2116) — [DIRETIVA (UE) 2015/2116 DA COMISSÃO de 23 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2116) — L 306 — 20 — 24.11.2015
-- [►M8](http://publications.europa.eu/resource/celex/32015L2117) — [DIRETIVA (UE) 2015/2117 DA COMISSÃO de 23 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2117) — L 306 — 23 — 24.11.2015
-- [►M9](http://publications.europa.eu/resource/celex/32017L0738) — [DIRETIVA (UE) 2017/738 DO CONSELHO de 27 de março de 2017](http://publications.europa.eu/resource/celex/32017L0738) — L 110 — 6 — 27.4.2017
-- [►M10](http://publications.europa.eu/resource/celex/32017L0774) — [DIRETIVA (UE) 2017/774 DA COMISSÃO de 3 de maio de 2017](http://publications.europa.eu/resource/celex/32017L0774) — L 115 — 47 — 4.5.2017
-- [►M11](http://publications.europa.eu/resource/celex/32017L0898) — [DIRETIVA (UE) 2017/898 DA COMISSÃO de 24 de maio de 2017](http://publications.europa.eu/resource/celex/32017L0898) — L 138 — 128 — 25.5.2017
-- [►M12](http://publications.europa.eu/resource/celex/32018L0725) — [DIRETIVA (UE) 2018/725 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0725) — L 122 — 29 — 17.5.2018
-- [►M13](http://publications.europa.eu/resource/celex/32019L1922) — [DIRETIVA (UE) 2019/1922 DA COMISSÃO de 18 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L1922) — L 298 — 5 — 19.11.2019
-- [►M14](http://publications.europa.eu/resource/celex/32019L1929) — [DIRETIVA (UE) 2019/1929 DA COMISSÃO de 19 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L1929) — L 299 — 51 — 20.11.2019
-- [►M15](http://publications.europa.eu/resource/celex/32020L2088) — [DIRETIVA (UE) 2020/2088 DA COMISSÃO de 11 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020L2088) — L 423 — 53 — 15.12.2020
-- [►M16](http://publications.europa.eu/resource/celex/32020L2089) — [DIRETIVA (UE) 2020/2089 DA COMISSÃO de 11 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020L2089) — L 423 — 58 — 15.12.2020
-- [►M17](http://publications.europa.eu/resource/celex/32021L0903) — [DIRETIVA (UE) 2021/903 DA COMISSÃO de 3 de junho de 2021](http://publications.europa.eu/resource/celex/32021L0903) — L 197 — 110 — 4.6.2021
-- [►M18](http://publications.europa.eu/resource/celex/32026L0192) — [DIRETIVA (UE) 2026/192 DA COMISSÃO de 28 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026L0192) — L 192 — 1 — 29.1.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0048R%2801%29) — [Rectificação, JO L 355, 31.12.2013, p. 92 (2009/48/CE)](http://publications.europa.eu/resource/celex/32009L0048R%2801%29)
-
-## DIRECTIVA 2009/48/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Junho de 2009
 

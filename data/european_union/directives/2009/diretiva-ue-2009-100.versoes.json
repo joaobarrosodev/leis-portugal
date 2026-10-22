@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0100:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0100-20161006",
+ "dre_path": null,
+ "source_lastmod": "2016-10-06",
+ "versions": [
+  {
+   "date": "2009-10-02",
+   "future": false,
+   "celex": "32009L0100",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "20889206f721aa79",
+    "c9fafba709a4fbca",
+    "52ad9172320147bb",
+    "232355a4959bcab5",
+    "4d18592693ef0978",
+    "ae64639d14f27a33",
+    "75df324245c260b8",
+    "d0a4b242a3254585",
+    "c95e41a5eaf62f87"
+   ]
+  },
+  {
+   "date": "2016-10-06",
+   "future": false,
+   "celex": "02009L0100-20161006",
+   "acts": [
+    {
+     "id": "eu:celex:32016L1629:por",
+     "title": "DIRETIVA (UE) 2016/1629 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016",
+     "published": null,
+     "celex": "32016L1629"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Adita ANEXO I",
+    "Adita INFORMAÇÕES MÍNIMAS A INDICAR NOS CERTIFICADOS",
+    "Adita (referidas no n.º 3 do artigo 2.º)",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "cd1d5107579782c8",
+    "d046b17d640e99f8",
+    "52ad9172320147bb",
+    "93a114b16262da4b",
+    "4d18592693ef0978",
+    "ae64639d14f27a33",
+    "75df324245c260b8",
+    "aefd2b4e47e34877",
+    "d664376e2a8dcecd",
+    "8c58715ab32ff0ab",
+    "9b2a1f582228c596",
+    "852174729551523b",
+    "f75c6eefd1f652bf",
+    "1050f1e5c6594f89",
+    "370f0b2594b4b163"
+   ]
+  }
+ ],
+ "fragments": {
+  "20889206f721aa79": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro de 2009\n\nrelativa ao reconhecimento recíproco dos certificados de navegabilidade emitidos para as embarcações de navegação interior\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 71.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntr1-L_2009259PT.01000801-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntr2-L_2009259PT.01000801-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 76/135/CEE do Conselho, de 20 de Janeiro de 1976, relativa ao reconhecimento recíproco dos certificados de navegabilidade emitidos para as embarcações de navegação interior [([^3])](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntr3-L_2009259PT.01000801-E0003), foi alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntr4-L_2009259PT.01000801-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) É útil, tendo em vista a melhoria da segurança da navegação interior na Comunidade, conseguir o reconhecimento recíproco dos certificados de navegabilidade emitidos para as embarcações de navegação interior.\n\n(3) É necessário definir em que circunstâncias e em que condições os Estados-Membros podem interromper a navegação de uma embarcação.\n\n(4) É necessário que as normas da presente directiva sejam aplicáveis às embarcações que não são abrangidas pela Directiva 2006/87/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, que estabelece as prescrições técnicas das embarcações de navegação interior [([^5])](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntr5-L_2009259PT.01000801-E0005).\n\n(5) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "c9fafba709a4fbca": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm conformidade com o artigo 21.º da Directiva 2006/87/CE, a presente directiva aplica-se às embarcações afectas aos transportes de mercadorias nas vias navegáveis interiores com um porte de vinte toneladas ou mais:\n\na) De menos de 20 metros de comprimento; ou\n\nb) Em que o produto Comprimento (L) x Boca (B) x Calado (T) é inferior a 100 m^3^.\n\nA presente directiva não prejudica as disposições do Regulamento sobre a Inspecção das Embarcações do Reno e do Acordo relativo ao Transporte de Matérias Perigosas no Reno (ADNR)."
+  },
+  "52ad9172320147bb": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptam, na medida do necessário, os procedimentos necessários para a emissão dos certificados de navegabilidade.\n\nTodavia, o Estado-Membro pode isentar da aplicação da presente directiva as embarcações que não saiam das vias navegáveis interiores do seu território.\n\n2. O certificado de navegabilidade é emitido pelo Estado-Membro no qual a embarcação está registada ou tem o seu porto de armamento ou, na falta, pelo Estado-Membro no qual o proprietário da embarcação está domiciliado. Qualquer Estado-Membro pode pedir a outro Estado-Membro a emissão de certificados de navegabilidade para as embarcações exploradas pelos seus próprios nacionais. Os Estados-Membros podem delegar os seus poderes em organismos reconhecidos.\n\n3. O certificado de navegabilidade é redigido numa das línguas oficiais das instituições da União Europeia; deve conter, no mínimo, as indicações especificadas no anexo I, e empregar o sistema de numeração aí indicado."
+  },
+  "232355a4959bcab5": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sob reserva do disposto nos n.^os^ 3 a 6, qualquer Estado-Membro reconhece a validade dos certificados de navegabilidade emitidos por outro Estado-Membro em conformidade com o artigo 2.º, para navegar na sua rede de vias navegáveis nacionais, tal como se ele próprio tivesse emitido os referidos certificados.\n\n2. O n.º 1 só é aplicável se a data de emissão do certificado ou da sua última validação não remontar a mais de cinco anos, e desde que a data de expiração não esteja ultrapassada.\n\nDurante todo o período de validade, o certificado emitido por força do Regulamento de Inspecção das Embarcações do Reno é admitido como título de prova nos termos do disposto nos n.^os^ 3 e 5.\n\n3. Os Estados-Membros podem exigir que sejam preenchidas as condições técnicas fixadas no Regulamento de Inspecção das Embarcações do Reno. Os Estados-Membros podem exigir como título de prova o certificado previsto no segundo parágrafo do n.º 2.\n\n4. Quando as embarcações transportem matérias perigosas, na acepção do ADNR, os Estados-Membros podem exigir que sejam preenchidas as condições fixadas por este acordo. Podem exigir, a título de prova, a apresentação da autorização prevista nesse acordo.\n\n5. As embarcações que preencham as condições fixadas no Regulamento de Inspecção das Embarcações do Reno podem a navegar em todas as vias navegáveis interiores da Comunidade. O certificado previsto no segundo parágrafo do n.º 2 pode servir de prova do preenchimento dessas condições.\n\nAs condições especiais para o transporte de matérias perigosas são consideradas como preenchidas em todas as vias navegáveis da Comunidade, desde que as embarcações preencham as condições do ADNR. A prova do preenchimento dessas condições é fornecida pelo certificado de autorização previsto no n.º 4.\n\n6. Os Estados-Membros podem exigir que, nas vias navegáveis com carácter marítimo, sejam preenchidas condições adicionais equivalentes às exigidas às embarcações nacionais. Os Estados-Membros comunicam à Comissão as suas vias navegáveis de carácter marítimo cuja lista é elaborada pela Comissão, tendo em conta as indicações fornecidas pelos Estados-Membros."
+  },
+  "4d18592693ef0978": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Qualquer Estado-Membro pode suspender a validade de um certificado de navegabilidade por ele emitido.\n\n2. Qualquer Estado-Membro pode interromper a navegação de uma embarcação quando um controlo tenha revelado que ela se encontra em condições tais que constitui um perigo para o meio onde se encontra, até à correcção dos defeitos verificados. O Estado-Membro pode, igualmente, fazê-lo quando o controlo tenha revelado que a referida embarcação ou o seu equipamento não preenche as condições que figuram no certificado de navegabilidade ou nos outros documentos previstos no artigo 3.º, conforme os casos.\n\n3. Qualquer Estado-Membro que tiver interrompido a navegação de uma embarcação, ou tiver manifestado a sua intenção de o fazer se os defeitos verificados não forem corrigidos, informa as autoridades competentes do Estado-Membro que tiver emitido o certificado de navegabilidade ou os outros documentos previstos no artigo 3.º, das razões da decisão que tomou ou pretende tomar.\n\n4. Qualquer decisão de interrupção da navegação tomada por força das disposições adoptadas em execução da presente directiva é fundamentada de maneira precisa. A decisão é notificada ao interessado com a indicação das vias de recurso previstas pela legislação em vigor nos Estados-Membros e dos prazos nos quais os recursos podem ser interpostos."
+  },
+  "ae64639d14f27a33": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ revogada a Directiva 76/135/CEE, com a redacção que lhe foi dada pela directiva referida na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "75df324245c260b8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "d0a4b242a3254585": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 16 de Setembro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "c95e41a5eaf62f87": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntc1-L_2009259PT.01000801-E0001) [JO C 204 de 9.8.2008, p. 47](http://publications.europa.eu/resource/oj/JOC_2008_204_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntc2-L_2009259PT.01000801-E0002) Parecer do Parlamento Europeu de 17 de Junho de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 13 de Julho de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntc3-L_2009259PT.01000801-E0003) [JO L 21 de 29.1.1976, p. 10](http://publications.europa.eu/resource/oj/JOL_1976_021_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntc4-L_2009259PT.01000801-E0004) Ver parte A do anexo II.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018.02/DOC_1#ntc5-L_2009259PT.01000801-E0005) [JO L 389 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_389_R_TOC)."
+  },
+  "cd1d5107579782c8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro de 2009\n\nrelativa ao reconhecimento recíproco dos certificados de navegabilidade emitidos para as embarcações de navegação interior\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "d046b17d640e99f8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente diretiva aplica-se a embarcações utilizadas no transporte de mercadorias nas vias navegáveis interiores e com um porte bruto de 20 toneladas ou mais:\n\na) Com um comprimento inferior a 20 metros; e\n\nb) Em que o produto comprimento (L) x boca (B) x calado (T) representa um volume inferior a 100 metros cúbicos.\n\nA presente diretiva não prejudica o Regulamento de Inspeção de Embarcações do Reno nem o Acordo Europeu relativo ao Transporte Internacional de Mercadorias Perigosas por Via Navegável Interior (ADN)."
+  },
+  "93a114b16262da4b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sob reserva do disposto nos n.^os^ 3 a 6, qualquer Estado-Membro reconhece a validade dos certificados de navegabilidade emitidos por outro Estado-Membro em conformidade com o artigo 2.º, para navegar na sua rede de vias navegáveis nacionais, tal como se ele próprio tivesse emitido os referidos certificados.\n\n2. O n.º 1 só é aplicável se a data de emissão do certificado ou da sua última validação não remontar a mais de cinco anos, e desde que a data de expiração não esteja ultrapassada.\n\nDurante todo o período de validade, o certificado emitido por força do Regulamento de Inspecção das Embarcações do Reno é admitido como título de prova nos termos do disposto nos n.^os^ 3 e 5.\n\n3. Os Estados-Membros podem exigir que sejam preenchidas as condições técnicas fixadas no Regulamento de Inspecção das Embarcações do Reno. Os Estados-Membros podem exigir como título de prova o certificado previsto no segundo parágrafo do n.º 2.\n\n4. Quando as embarcações transportem matérias perigosas, na aceção do ADN, os Estados-Membros podem exigir que sejam preenchidas as condições fixadas por este acordo. Podem exigir, a título de prova, a apresentação da autorização prevista nesse acordo.\n\n5. As embarcações que preencham as condições fixadas no Regulamento de Inspecção das Embarcações do Reno podem a navegar em todas as vias navegáveis interiores da Comunidade. O certificado previsto no segundo parágrafo do n.º 2 pode servir de prova do preenchimento dessas condições.\n\nAs condições especiais para o transporte de matérias perigosas são consideradas como preenchidas em todas as vias navegáveis da Comunidade, desde que as embarcações preencham as condições do ADN. A prova do preenchimento dessas condições é fornecida pelo certificado de autorização previsto no n.º 4.\n\n6. Os Estados-Membros podem exigir que, nas vias navegáveis com carácter marítimo, sejam preenchidas condições adicionais equivalentes às exigidas às embarcações nacionais. Os Estados-Membros comunicam à Comissão as suas vias navegáveis de carácter marítimo cuja lista é elaborada pela Comissão, tendo em conta as indicações fornecidas pelos Estados-Membros."
+  },
+  "aefd2b4e47e34877": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8c58715ab32ff0ab": {
+   "fragment_id": "INFORMAÇÕES MÍNIMAS A INDICAR NOS CERTIFICADOS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES MÍNIMAS A INDICAR NOS CERTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES MÍNIMAS A INDICAR NOS CERTIFICADOS"
+  },
+  "9b2a1f582228c596": {
+   "fragment_id": "(referidas no n.º 3 do artigo 2.º)",
+   "type": "divisao",
+   "heading": "(referidas no n.º 3 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no n.º 3 do artigo 2.º)\n\nAs informações repartem-se por três grupos:\n\n| Obrigatórias | : | sem sinal especial |\n| --- | --- | --- |\n\n| Exigidas, se aplicáveis | : | (x) |\n| --- | --- | --- |\n\n| Úteis, mas facultativas | : | (+) |\n| --- | --- | --- |\n\n1. Autoridade competente ou organismo reconhecido que emite o documento\n\na) Título do documento\n\nb) (+) Número do documento\n\n3. Estado que emite o documento\n\n4. Nome e domicílio do armador\n\n5. Nome da embarcação\n\n6. (x) Local e número de registo\n\n7. (x) Porto de armamento\n\n8. (+) Tipo de embarcação\n\n9. (+) Utilização\n\n10. Características principais:\n\na) Comprimento de fora a fora, em metros\n\nb) Boca máxima, em metros\n\nc) Altura abaixo da linha de água, no calado máximo, em metros\n\n11. (x) Porte bruto ou deslocamento, em m^3^, no calado máximo\n\n12. (x) Indicações relativas às marcações da arqueação\n\n13. (x) Número máximo autorizado de passageiros\n\n14. (x) Potência total dos motores de propulsão em HP ou kW\n\n15. Bordo livre mínimo, em centímetros\n\na) Declaração: a embarcação acima designada é reconhecida como apta a navegar\n\nb) (x) Sob reserva das seguintes condições\n\nc) (x) Indicação das restrições à navegação\n\na) Data de expiração\n\nb) Data de emissão\n\n18. Carimbo e assinatura da autoridade competente ou do organismo reconhecido que emite o certificado."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f75c6eefd1f652bf": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 76/135/CEE do Conselho (JO L 21 de 29.1.1976, p. 10)\n\nDirectiva 78/1016/CEE do Conselho (JO L 349 de 13.12.1978, p. 31)"
+  },
+  "1050f1e5c6594f89": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Prazo de transposição\n\n76/135/CEE 19 de Janeiro de 1977\n\n78/1016/CEE —"
+  },
+  "370f0b2594b4b163": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 76/135/CEE Presente directiva\n\nArtigo 1.º, proémio e alínea a) Artigo 1.º, n.º 1, proémio\n\nArtigo 1.º, alínea b) —\n\n— Artigo 1.º, n.º 1, alíneas a) e b)\n\nArtigo 1.º, última frase Artigo 1.º, n.º 2\n\nArtigos 2.º a 4.º Artigos 2.º a 4.º\n\nArtigo 5.º —\n\nArtigo 6.º —\n\nArtigo 7.º —\n\n— Artigo 5.º\n\n— Artigo 6.º\n\nArtigo 8.º Artigo 7.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III"
+  }
+ }
+}

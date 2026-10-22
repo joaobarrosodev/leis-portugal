@@ -1,0 +1,589 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0302:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0302-20161006",
+ "dre_path": null,
+ "source_lastmod": "2016-10-06",
+ "versions": [
+  {
+   "date": "2009-04-15",
+   "future": false,
+   "celex": "32009R0302",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4ceedaf8cc9b0709",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "ca2d2c02c46ee7b5",
+    "db3a9e908ccd196d",
+    "9adb86def3bfa2a5",
+    "f0f8c960bfdbce9b",
+    "cb26737379f30d4e",
+    "4e8249ce1f3eae2b",
+    "1e7a0903d2eed348",
+    "99e3cb415b4c4b59",
+    "8a9a301313f532be",
+    "d98509c96603eb6c",
+    "1ecfc79da3f1ac7f",
+    "29a5272a729bc335",
+    "b031dec25044c606",
+    "f208308b7bf75c51",
+    "b7677fa06473a48c",
+    "eec7bfcef7b531de",
+    "b2da00736d70adf5",
+    "670d5444c91f7ee6",
+    "84c93c2e49b9c7b2",
+    "40ed6b62e188ac6f",
+    "d8b24293e4d70925",
+    "2145af7ee05949ef",
+    "dfdc176e3a041305",
+    "9856c9cbefa88082",
+    "70049bcf3c2cc710",
+    "7f75ba71b0102147",
+    "ecdf79ae6d6e4d44",
+    "6461c57aafe0bff0",
+    "67e2c30e3ec0ddca",
+    "2cc6c32853a30771",
+    "1e4202209fa8dc28",
+    "b73aeceebffd45c0",
+    "797f79c032761751",
+    "34f52cffb2c5c544",
+    "6c72b7cb19f3735c",
+    "8935a2959052cb43",
+    "06af6492233c4114",
+    "005418f262ddfbcc",
+    "3ffe7a767e4c70f9",
+    "392e87ca20120bfe",
+    "136ef4fd23d26ac4",
+    "3c31164ec149d5d7",
+    "092bce5be93deae6",
+    "d1a769859a0a76c6",
+    "cb98b3d273e90125",
+    "37cb975a626ab4c1",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "168be2a00120aa45",
+    "5f86aec6673979c3",
+    "e3d612b5c99edd28",
+    "522558189291acd2"
+   ]
+  },
+  {
+   "date": "2016-10-06",
+   "future": false,
+   "celex": "02009R0302-20161006",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Objecto, âmbito de aplicação e objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Comprimento dos navios",
+    "Suprime CAPÍTULO II",
+    "Suprime POSSIBILIDADES DE PESCA",
+    "Suprime Artigo 4.º — Condições associadas às possibilidades de pesca",
+    "Suprime CAPÍTULO III",
+    "Suprime MEDIDAS APLICÁVEIS EM TERMOS DE CAPACIDADE",
+    "Suprime Artigo 5.º — Medidas aplicáveis em termos de capacidades de pesca",
+    "Suprime Artigo 6.º — Medidas relativas às capacidades de engorda e de cultura",
+    "Suprime CAPÍTULO IV",
+    "Suprime MEDIDAS TÉCNICAS",
+    "Suprime Artigo 7.º — Época de defeso da pesca",
+    "Suprime Artigo 8.º — Utilização de aeronaves",
+    "Suprime Artigo 9.º — Tamanho mínimo e medidas específicas para determinadas pescarias",
+    "Suprime Artigo 10.º — Programa de amostragem para o atum rabilho vivo",
+    "Suprime Artigo 11.º — Capturas acessórias",
+    "Suprime Artigo 12.º — Pesca recreativa",
+    "Suprime Artigo 13.º — Pesca desportiva",
+    "Suprime CAPÍTULO V",
+    "Suprime MEDIDAS DE CONTROLO",
+    "Suprime Artigo 14.º — Registos dos navios",
+    "Suprime Artigo 15.º — Registo das armações autorizadas para a pesca do atum rabilho",
+    "Suprime Artigo 16.º — Informação sobre as actividades de pesca",
+    "Suprime Artigo 17.º — Portos designados",
+    "Suprime Artigo 18.º — Exigências de conservação de registos",
+    "Suprime Artigo 19.º — Operações de pesca conjunta",
+    "Suprime Artigo 20.º — Declaração das capturas",
+    "Suprime Artigo 21.º — Desembarques",
+    "Suprime Artigo 22.º — Operações de transferência",
+    "Suprime Artigo 23.º — Transbordos",
+    "Suprime Artigo 24.º — Operações de enjaulamento",
+    "Suprime Artigo 25.º — Sistema de localização dos navios por satélite",
+    "Suprime Artigo 26.º — Registo e comunicação da actividade das armações",
+    "Suprime Artigo 27.º — Controlo num porto ou numa exploração piscícola",
+    "Suprime Artigo 28.º — Controlos cruzados",
+    "Suprime Artigo 29.º — Programa de Inspecção Internacional Conjunta da ICCAT",
+    "Suprime Artigo 30.º — Programa nacional de observação",
+    "Suprime Artigo 31.º — Programa de observação regional da ICCAT",
+    "Suprime Artigo 32.º — Acesso aos registos vídeo",
+    "Suprime Artigo 33.º — Execução",
+    "Suprime Artigo 34.º — Medidas de mercado",
+    "Suprime Artigo 35.º — Factores de conversão",
+    "Suprime Artigo 36.º — Factores de crescimento para o atum engordado ou cultivado",
+    "Suprime Artigo 37.º — Avaliação",
+    "Suprime Artigo 38.º — Financiamento",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 39.º — Revogação do Regulamento (CE) n.º 1559/2007",
+    "Suprime Artigo 40.º — Alterações ao Regulamento (CE) n.º 43/2009 e ao Regulamento (CE) n.º 1936/2001",
+    "Suprime Artigo 41.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "eeedc91697f95146"
+   ]
+  }
+ ],
+ "fragments": {
+  "4ceedaf8cc9b0709": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril de 2009\n\nque estabelece um plano plurianual de recuperação do atum rabilho no Atlântico Este e no Mediterrâneo, que altera o Regulamento (CE) n.º 43/2009 e que revoga o Regulamento (CE) n.º 1559/2007\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr1-L_2009096PT.01000101-E0001),\n\nConsiderando o seguinte:\n\n(1) A Comunidade é, desde 14 de Novembro de 1997, Parte Contratante na Convenção Internacional para a Conservação dos Tunídeos do Atlântico (a seguir designada «Convenção») [([^2])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr2-L_2009096PT.01000101-E0002).\n\n(2) Na sua 16.ª Reunião Extraordinária, em Novembro de 2008, a Comissão Internacional para a Conservação dos Tunídeos do Atlântico (ICCAT) aprovou a Recomendação 08-05 relativa ao estabelecimento de um novo plano de recuperação para o atum rabilho no Atlântico Este e no Mediterrâneo, que será aplicável até 2022 e substitui o plano de recuperação adoptado em 2006.\n\n(3) Para permitir a reconstituição da unidade populacional, o novo plano de recuperação da ICCAT prevê uma redução gradual do nível dos totais admissíveis de capturas entre 2007 e 2011, restrições da pesca em determinadas zonas e períodos, um novo tamanho mínimo, medidas relacionadas com as actividades de pesca desportiva e recreativa e com as capacidades de pesca e de cultura, bem como medidas reforçadas de controlo e a aplicação do Programa de Inspecção Internacional Conjunta da ICCAT, a fim de garantir a eficácia do plano.\n\n(4) É necessário, portanto, aplicar o novo plano de recuperação da ICCAT, através de um regulamento que estabeleça um plano de recuperação em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^3])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr3-L_2009096PT.01000101-E0003), que deverá entrar em vigor antes do início da campanha normal de pesca.\n\n(5) O plano de recuperação da ICCAT de 2006 foi transposto para o direito comunitário através do Regulamento (CE) n.º 1559/2007 do Conselho, de 17 de Dezembro de 2007, que estabelece um plano plurianual de recuperação do atum rabilho no Atlântico Este e no Mediterrâneo [([^4])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr4-L_2009096PT.01000101-E0004). A adopção pela ICCAT de um novo plano de recuperação para o atum rabilho torna necessária a alteração do Regulamento (CE) n.º 43/2009 do Conselho, de 16 de Janeiro de 2009, que fixa, para 2009, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas sujeitas a limitações de captura [([^5])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr5-L_2009096PT.01000101-E0005), a revogação do Regulamento (CE) n.º 1559/2007 e a sua substituição pelo presente regulamento.\n\n(6) Dada a urgência da questão, é imperativo derrogar ao prazo de seis semanas previsto no ponto I.3 do Protocolo relativo ao papel dos Parlamentos Nacionais na União Europeia, anexo ao Tratado da União Europeia, ao Tratado que institui a Comunidade Europeia e ao Tratado que institui a Comunidade Europeia da Energia Atómica,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "ca2d2c02c46ee7b5": {
+   "fragment_id": "Artigo 1.º — Objecto, âmbito de aplicação e objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto, âmbito de aplicação e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto, âmbito de aplicação e objectivo\n\nO presente regulamento estabelece as regras gerais para a aplicação, por parte da Comunidade, de um plano plurianual de recuperação do atum rabilho (*Thunnus thynnus*) recomendado pela Comissão Internacional para a Conservação dos Tunídeos do Atlântico (ICCAT).\n\nO presente regulamento é aplicável ao atum rabilho no Atlântico Este e no Mediterrâneo.\n\nO objectivo do plano de recuperação é alcançar um nível de biomassa correspondente ao rendimento máximo sustentável, com uma probabilidade superior a 50 %."
+  },
+  "db3a9e908ccd196d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «PCC», as Partes Contratantes na Convenção, bem como as partes não contratantes, entidades ou entidades de pesca cooperantes;\n\nb) «Navio de pesca», qualquer navio utilizado ou destinado a ser utilizado para efeitos da exploração comercial de recursos de atum rabilho, incluindo os navios de captura, os navios de transformação do pescado, os navios de apoio, os rebocadores, os navios que participam em transbordos, navios de transporte equipados para o transporte de produtos do atum e os navios de apoio, com excepção dos navios porta-contentores;\n\nc) «Navio de captura», qualquer navio utilizado para efeitos da captura comercial de recursos de atum rabilho;\n\nd) «Navio de apoio», qualquer navio utilizado para transportar atum rabilho morto (não transformado) de uma jaula para um porto designado;\n\ne) «Navio de transformação», um navio a bordo do qual o pescado é submetido a uma ou mais das seguintes operações, antes da respectiva embalagem: filetagem ou corte em postas, congelação e/ou transformação;\n\nf) «Exercer actividade de pesca», em relação a qualquer navio de captura, o facto de exercer uma pesca dirigida ao atum rabilho durante uma determinada campanha;\n\ng) «Operação de pesca conjunta», qualquer operação envolvendo dois ou mais navios de captura que arvoram o pavilhão de diferentes PCC ou de diferentes Estados-Membros ou do mesmo Estado-Membro, em que as capturas de um navio de captura são atribuídas, no todo ou em parte, a um ou mais navios de captura diferentes, de acordo com uma chave de repartição;\n\nh) «Actividades de transferência», i) qualquer transferência de atum rabilho vivo das redes ou de uma armação do navio de captura para uma jaula de transporte, ii) qualquer transferência de atum rabilho vivo de uma jaula de transporte para outra, iii) qualquer transferência de atum rabilho morto das redes ou de uma jaula de transporte do navio de captura para um navio de apoio, iv) qualquer transferência de atum rabilho de uma exploração de atum rabilho ou de uma armação de atum para um navio de transformação ou de transporte ou para terra, v) qualquer transferência de uma jaula de transporte de um rebocador para outro rebocador;\n\ni) qualquer transferência de atum rabilho vivo das redes ou de uma armação do navio de captura para uma jaula de transporte,\n\nii) qualquer transferência de atum rabilho vivo de uma jaula de transporte para outra,\n\niii) qualquer transferência de atum rabilho morto das redes ou de uma jaula de transporte do navio de captura para um navio de apoio,\n\niv) qualquer transferência de atum rabilho de uma exploração de atum rabilho ou de uma armação de atum para um navio de transformação ou de transporte ou para terra,\n\nv) qualquer transferência de uma jaula de transporte de um rebocador para outro rebocador;\n\ni) «Armação de atum», uma arte fixa ancorada ao fundo, que inclui normalmente uma rede-guia que conduz o peixe até um cercado;\n\nj) «Enjaulamento», a transferência de atum rabilho da jaula de transporte para as jaulas de engorda ou cultura;\n\nk) «Engorda», a colocação do atum rabilho em jaulas por períodos curtos (habitualmente 2-6 meses), essencialmente para aumentar o teor de gordura do animal;\n\nl) «Cultura», a colocação do atum rabilho em jaulas por períodos superiores a um ano, para aumentar a biomassa total;\n\nm) «Transbordo», o descarregamento da totalidade ou de parte do atum rabilho mantido a bordo de um navio de pesca para outro navio de pesca;\n\nn) «Pesca desportiva», uma pescaria não comercial cujos participantes são membros de uma organização desportiva nacional ou detentores de uma licença desportiva nacional;\n\no) «Pesca recreativa», uma pescaria não comercial cujos participantes não são membros de uma organização desportiva nacional nem detentores de uma licença desportiva nacional;\n\np) «Tarefa II», a tarefa II definida pela ICCAT no seu «Manual de Operações para as Estatísticas e a Amostragem dos Tunídeos e Espécies afins no Oceano Atlântico» (3.ª edição, ICCAT, 1990)."
+  },
+  "9adb86def3bfa2a5": {
+   "fragment_id": "Artigo 3.º — Comprimento dos navios",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Comprimento dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comprimento dos navios\n\nTodas as referências no presente regulamento ao comprimento dos navios devem ser entendidas como sendo feitas ao comprimento de fora a fora."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "cb26737379f30d4e": {
+   "fragment_id": "POSSIBILIDADES DE PESCA",
+   "type": "divisao",
+   "heading": "POSSIBILIDADES DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### POSSIBILIDADES DE PESCA"
+  },
+  "4e8249ce1f3eae2b": {
+   "fragment_id": "Artigo 4.º — Condições associadas às possibilidades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Condições associadas às possibilidades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições associadas às possibilidades de pesca\n\n1. Cada Estado-Membro adopta as medidas necessárias para assegurar que o esforço de pesca dos seus navios de captura e das suas armações seja compatível com as possibilidades de pesca de atum rabilho que lhes são atribuídas no Atlântico Este e no Mediterrâneo.\n\n2. Cada Estado-Membro elabora um plano anual de pesca para os navios de captura e armações que pescam atum rabilho no Atlântico Este e no Mediterrâneo.\n\n3. O plano anual de pesca deve nomeadamente:\n\na) Identificar os navios de captura de comprimento superior a 24 m incluídos na lista referida no artigo 14.º, a quota individual que lhes está atribuída e o método utilizado para a atribuição das quotas, bem como as medidas adoptadas para garantir o respeito das quotas individuais;\n\nb) Para os navios de captura com menos de 24 m e para as armações, identificar, pelo menos, a quota atribuída às organizações de produtores ou aos grupos de navios que pescam utilizando artes similares.\n\n4. O plano anual de pesca é transmitido à Comissão Europeia (a seguir designada «Comissão») o mais tardar em 31 de Janeiro de cada ano. A Comissão transmite essas informações ao Secretariado da ICCAT até 1 de Março de cada ano.\n\n5. Qualquer alteração subsequente do plano anual de pesca ou do método específico de gestão das quotas atribuídas é transmitida à Comissão pelo menos 13 dias antes do exercício da actividade correspondente à alteração. A Comissão transmite essas alterações ao Secretariado da ICCAT pelo menos 10 dias antes do exercício da actividade correspondente às mesmas.\n\n6. O Estado-Membro de pavilhão age em conformidade com o presente número sempre que um navio que arvore o seu pavilhão:\n\na) Não tenha cumprido a exigência de declaração referida no artigo 20.º;\n\nb) Tenha cometido uma das infracções referidas no artigo 33.º\n\nO Estado-Membro de pavilhão assegura que seja efectuada uma inspecção física sob a sua autoridade, nos seus portos, ou sob a autoridade de outra pessoa designada pelo Estado-Membro de pavilhão, sempre que o navio não se encontre num dos seus portos.\n\nO Estado-Membro de pavilhão retira a autorização de pesca de atum rabilho e pode ordenar ao navio que se dirija imediatamente para um porto por ele designado, quando a quota individual for considerada esgotada.\n\n7. Até 15 de Setembro de cada ano, os Estados-Membros devem apresentar à Comissão um relatório sobre a execução dos seus planos anuais de pesca para esse ano. Esses relatórios devem incluir:\n\na) A lista dos navios de captura que participam efectivamente em actividades de pesca do atum rabilho no Atlântico Este e no Mediterrâneo;\n\nb) As capturas de cada navio de captura; e\n\nc) O número total de dias de pesca de cada navio de captura no Atlântico Este e no Mediterrâneo.\n\nA Comissão transmite esses relatórios ao Secretariado da ICCAT até 15 de Outubro de cada ano.\n\nAtendendo a que, para certas artes, a época de pesca encerra a 15 de Outubro, os Estados-Membros podem apresentar à Comissão informação adicional sobre essas pescarias numa fase ulterior.\n\n8. Só podem ser celebrados acordos comerciais privados entre cidadãos de um Estado-Membro e uma PCC, com vista à utilização de um navio de pesca que arvore o pavilhão desse Estado-Membro para a pesca no quadro de uma quota de atum atribuída a uma PCC, mediante autorização do Estado-Membro em causa, que informa desse facto a Comissão, e da Comissão da ICCAT.\n\n9. Até 1 de Março de cada ano, os Estados-Membros enviam à Comissão informações sobre qualquer acordo comercial privado celebrado entre os seus nacionais e uma PCC.\n\n10. As informações a que se refere o n.º 9 devem incluir:\n\na) A lista de todos os navios de pesca que arvorem o pavilhão do Estado-Membro autorizados a pescar activamente atum rabilho ao abrigo de acordos comerciais privados;\n\nb) O número de identificação CFR (*Community Fleet Register*), tal como definido no anexo I do Regulamento (CE) n.º 26/2004 da Comissão, de 30 de Dezembro de 2003, relativo ao ficheiro da frota de pesca comunitária [([^6])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr6-L_2009096PT.01000101-E0006);\n\nc) A duração dos acordos comerciais privados;\n\nd) A anuência do Estado-Membro pertinente em relação ao acordo privado;\n\ne) O nome da PCC em questão.\n\n11. A Comissão envia sem demora a informação referida no n.º 9 ao Secretariado da ICCAT.\n\n12. A Comissão garante que a percentagem das quotas de atum rabilho de outras PCC que pode ser utilizada para o fretamento de navios de pesca comunitários nos termos no artigo 8.º-B do Regulamento (CE) n.º 1936/2001 [([^7])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr7-L_2009096PT.01000101-E0007) não exceda 20 % dessas quotas em 2009.\n\n13. A partir de 2010, fica proibido o fretamento de navios de pesca comunitários para a pesca do atum rabilho no Atlântico Este e no Mediterrâneo.\n\n14. Cada Estado-Membro deve assegurar-se de que o número dos seus navios de pesca do atum rabilho fretados e a duração do fretamento sejam compatíveis com a quota atribuída ao Estado que afreta o navio.\n\n15. Cada Estado-Membro atribui uma quota específica para a pesca recreativa e desportiva e informa em conformidade a Comissão antes do início da campanha referida no n.º 5 do artigo 7.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "99e3cb415b4c4b59": {
+   "fragment_id": "MEDIDAS APLICÁVEIS EM TERMOS DE CAPACIDADE",
+   "type": "divisao",
+   "heading": "MEDIDAS APLICÁVEIS EM TERMOS DE CAPACIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS APLICÁVEIS EM TERMOS DE CAPACIDADE"
+  },
+  "8a9a301313f532be": {
+   "fragment_id": "Artigo 5.º — Medidas aplicáveis em termos de capacidades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Medidas aplicáveis em termos de capacidades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Medidas aplicáveis em termos de capacidades de pesca\n\n1. Cada Estado-Membro deve assegurar-se de que a sua capacidade de pesca seja compatível com as quotas respectivas.\n\n2. O número e a correspondente tonelagem de arqueação bruta do conjunto dos navios de pesca de um Estado-Membro que podem pescar, manter a bordo, transbordar, transportar ou desembarcar atum rabilho é limitado ao número e à correspondente tonelagem de arqueação bruta de todos os navios de pesca que arvoram o pavilhão desse Estado-Membro e que pescaram, mantiveram a bordo, transbordaram, transportaram ou desembarcaram atum rabilho entre 1 de Janeiro de 2007 e 1 de Julho de 2008. Este limite é aplicável por tipo de arte, para os navios de captura, e por tipo de navio, para os restantes navios de pesca.\n\n3. Para efeitos do n.º 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número e a correspondente tonelagem de arqueação bruta de todos os navios de pesca de cada Estado-Membro que pescaram, mantiveram a bordo, transbordaram, transportaram ou desembarcaram atum rabilho entre 1 de Janeiro de 2007 e 1 de Julho de 2008. Este limite é aplicável por tipo de arte, para os navios de captura, e por tipo de navio, para os restantes navios de pesca.\n\n4. O número de armações de um Estado-Membro envolvidas na pescaria de atum rabilho no Atlântico Este e no Mediterrâneo é limitado ao número de armações autorizadas por esse Estado-Membro antes de 1 de Julho de 2008.\n\n5. Para efeitos do n.º 4, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número de armações autorizadas por cada Estado Membro antes de 1 de Julho de 2008.\n\n6. O congelamento das capacidades de pesca referido nos n.^os^ 2 e 4 pode não ser aplicável a um Estado-Membro que demonstre que precisa de desenvolver a sua capacidade de pesca para utilizar totalmente a quota que lhe está atribuída.\n\n7. Sem prejuízo do n.º 6, a capacidade de pesca referida nos n.^os^ 2 e 4 e no artigo 9.º é reduzida de modo a eliminar, até 2010 e para cada Estado-Membro, pelo menos 25 % do diferencial entre a sua capacidade de pesca e uma capacidade de pesca compatível com a quota respectiva para 2010.\n\nPara efeitos do cálculo da redução de capacidade, são tomadas em consideração as estimativas da taxa anual de capturas por navio e por arte de pesca.\n\nEsta exigência de redução pode não ser aplicável a um Estado-Membro que demonstre que a sua capacidade de pesca é compatível com a quota respectiva.\n\n8. Para efeitos do n.º 7, o Conselho, deliberando nos termos do procedimento referido no artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número e a capacidade total em tonelagem de arqueação bruta de todos os navios de pesca de cada Estado Membro que podem ser autorizados a pescar, manter a bordo, transbordar, transportar ou desembarcar atum rabilho.\n\n9. Cada Estado-Membro estabelece um plano de gestão das suas capacidades de pesca para o período compreendido entre 2010 e 2013. Esse plano é apresentado à Comissão até 15 de Agosto de 2009 e deve incluir as informações referidas nos n.^os^ 2, 4, 6 e 7. Até 15 de Setembro de 2009, a Comissão apresenta à ICCAT o plano comunitário de gestão das capacidades de pesca para o período compreendido entre 2010 e 2013."
+  },
+  "d98509c96603eb6c": {
+   "fragment_id": "Artigo 6.º — Medidas relativas às capacidades de engorda e de cultura",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Medidas relativas às capacidades de engorda e de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medidas relativas às capacidades de engorda e de cultura\n\n1. As capacidades de engorda e de cultura de um Estado-Membro são limitadas às capacidades de engorda e de cultura das explorações desse Estado-Membro inscritas no registo ICCAT das explorações de cultura ou autorizadas e declaradas à ICCAT à data de 1 de Julho de 2008.\n\n2. A quantidade máxima de atum rabilho selvagem que pode ser colocada nas explorações de um Estado-Membro para 2010 é limitada ao nível das quantidades colocadas nas explorações desse Estado-Membro e registadas junto da ICCAT em 2005, 2006, 2007 ou 2008.\n\n3. Os Estados-Membros repartem pelas suas explorações a quantidade máxima de atum rabilho selvagem que aí pode ser colocada, referida no n.º 2.\n\n4. Para efeitos dos n.^os^ 1 e 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, determina as capacidades de cultura e de engorda de cada Estado-Membro e a quantidade máxima de atum rabilho selvagem que cada Estado-Membro pode repartir pelas suas explorações.\n\n5. Os Estados-Membros em que existam actividades de cultura ou engorda estabelecem um plano de gestão das suas capacidades de cultura e de engorda para o período compreendido entre 2010 e 2013. Esse plano é apresentado à Comissão até 15 de Agosto de 2009 e deve incluir as informações referidas nos n.^os^ 1 a 3. Até 15 de Setembro de 2009, a Comissão apresenta à ICCAT o plano comunitário de gestão das capacidades de cultura e de engorda para o período compreendido entre 2010 e 2013."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "29a5272a729bc335": {
+   "fragment_id": "MEDIDAS TÉCNICAS",
+   "type": "divisao",
+   "heading": "MEDIDAS TÉCNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS TÉCNICAS"
+  },
+  "b031dec25044c606": {
+   "fragment_id": "Artigo 7.º — Época de defeso da pesca",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Época de defeso da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Época de defeso da pesca\n\n1. A pesca do atum rabilho por grandes palangreiros pelágicos de comprimento superior a 24 m é proibida no Atlântico Este e no Mediterrâneo no período compreendido entre 1 de Junho e 31 de Dezembro, com excepção da zona a oeste do meridiano 10° W e a norte do paralelo 42° N, onde essa pesca é proibida entre 1 de Fevereiro e 31 de Julho.\n\n2. A pesca do atum rabilho por cercadores com rede de cerco com retenida é proibida no Atlântico Este e no Mediterrâneo no período compreendido entre 15 de Junho e 15 de Abril.\n\n3. A pesca do atum rabilho por navios de pesca com canas (isco) e navios de pesca ao corrico é proibida no Atlântico Este e no Mediterrâneo no período compreendido entre 15 de Outubro e 15 de Junho.\n\n4. A pesca do atum rabilho por arrastões pelágicos é proibida no Atlântico Este no período compreendido entre 15 de Outubro e 15 de Junho.\n\n5. A pesca desportiva de atum rabilho é proibida no Atlântico Este e no Mediterrâneo no período compreendido entre 15 de Outubro e 15 de Junho.\n\n6. Em derrogação ao n.º 2, se um Estado-Membro puder demonstrar que, devido a ventos de força igual ou superior a 5 na escala de Beaufort, alguns dos seus navios cercadores com rede de cerco com retenida que pescam atum rabilho no Atlântico Este e no Mediterrâneo não tiveram a possibilidade de utilizar todos os seus dias de pesca normais, esse Estado-Membro pode proceder ao reporte de um máximo de 5 dias perdidos até 20 de Junho.\n\nO Estado-Membro em causa comunica à Comissão, até 14 de Junho, o número de dias de pesca adicionais concedidos. Essa comunicação deve incluir:\n\ni) Um relatório de que constem os pormenores relativos à cessação das actividades de pesca em causa, incluindo as informações meteorológicas pertinentes;\n\nii) O nome do navio de captura;\n\niii) O número de identificação CFR (*Community Fleet Register*), tal como definido no anexo I do Regulamento (CE) n.º 26/2004.\n\nA Comissão transmite imediatamente essa informação à ICCAT."
+  },
+  "f208308b7bf75c51": {
+   "fragment_id": "Artigo 8.º — Utilização de aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Utilização de aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização de aeronaves\n\nÉ proibida a utilização de aeronaves ou de helicópteros para a busca de atum rabilho."
+  },
+  "b7677fa06473a48c": {
+   "fragment_id": "Artigo 9.º — Tamanho mínimo e medidas específicas para determinadas pescarias",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Tamanho mínimo e medidas específicas para determinadas pescarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tamanho mínimo e medidas específicas para determinadas pescarias\n\n1. O tamanho mínimo para o atum rabilho no Atlântico Este e no Mediterrâneo é de 30 kg ou 115 cm.\n\n2. Em derrogação ao n.º 1 e sem prejuízo do artigo 11.º, é aplicável um tamanho mínimo de 8 kg ou 75 cm para o atum rabilho, nas seguintes condições:\n\na) Atum rabilho capturado no Atlântico Este por navios de pesca com canas (isco) e navios de pesca ao corrico;\n\nb) Atum rabilho capturado no Adriático para fins de cultura;\n\nc) Atum rabilho capturado no Mediterrâneo pela pesca artesanal costeira de peixe fresco por navios de pesca com canas (isco), palangreiros e navios que pescam com linha de mão.\n\n3. Para efeitos da alínea a) do n.º 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número máximo de navios de pesca com canas (isco) e navios de pesca ao corrico autorizados a pescar activamente atum rabilho no Atlântico Este. Em derrogação ao n.º 2 do artigo 5.º, o número de navios de pesca com canas (isco) e de navios de pesca ao corrico é definido como o número de navios comunitários de captura que pescaram activamente atum rabilho em 2006.\n\n4. Para efeitos da alínea b) do n.º 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número máximo de navios de captura autorizados a pescar activamente atum rabilho no Adriático para fins de cultura. Em derrogação ao n.º 2 do artigo 5.º, o número de navios de captura é definido como o número de navios comunitários de captura que pescaram activamente atum rabilho em 2008.\n\n5. Para efeitos da alínea c) do n.º 2, o Conselho, deliberando nos termos do procedimento referido no artigo 20.º do Regulamento (CE) n.º 2371/2002, determina o número máximo de navios de pesca com canas (isco), de palangreiros e de navios que pescam com linha de mão autorizados a pescar activamente atum rabilho no Mediterrâneo. Em derrogação ao n.º 2 do artigo 5.º, o número de navios de captura é definido como o número de navios comunitários de captura que pescaram activamente atum rabilho em 2008.\n\n6. A Comissão comunica o número de navios de captura referido nos n.^os^ 3, 4 e 5 ao Secretariado da ICCAT até 30 de Janeiro de cada ano.\n\n7. Para efeitos das alíneas a), b) e c) do n.º 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, reparte pelos Estados-Membros o número de navios de captura determinado nos termos dos n.^os^ 3, 4 e 5.\n\n8. Para efeitos da alínea a) do n.º 2, um máximo de 7 % da quota comunitária de atum rabilho entre 8 kg ou 75 cm e 30 kg ou 115 cm é repartido pelos navios de captura autorizados referidos no n.º 3, com um máximo de 100 toneladas de atum rabilho de dimensões inferiores a 6,4 kg ou 70 cm capturado por navios de pesca com canas (isco) de comprimento inferior a 17 m, em derrogação ao n.º 2. O Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, decide a repartição da quota comunitária pelos Estados-Membros.\n\n9. Para efeitos da alínea b) do n.º 2, o Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, decide os valores máximos da repartição da quota comunitária pelos Estados-Membros.\n\n10. Para efeitos da alínea c) do n.º 2, um máximo de 2 % da quota comunitária de atum rabilho entre 8 kg ou 75 cm e 30 kg ou 115 cm é repartido pelos navios de captura autorizados referidos no n.º 5. O Conselho, deliberando nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002, decide a repartição da quota comunitária pelos Estados-Membros.\n\n11. As condições específicas adicionais aplicáveis ao atum rabilho capturado no Atlântico Este por navios de pesca com canas (isco) e navios de pesca ao corrico, ao atum rabilho capturado no Adriático para fins de cultura e ao atum rabilho capturado no Mediterrâneo pela pesca artesanal costeira de peixe fresco por navios de pesca com canas (isco), palangreiros e navios que pescam com linha de mão são definidas no anexo I.\n\n12. São autorizadas capturas acidentais de, no máximo, 5 % de atum rabilho entre 10 kg ou 80 cm e 30 kg para todos os navios de captura que pesca activamente atum rabilho.\n\n13. A percentagem referida no n.º 12 pode ser calculada com base na relação entre as capturas acidentais desses navios de captura e as suas capturas totais, em número de espécimes por desembarque, ou com base no seu equivalente-peso em percentagem.\n\n14. As capturas acidentais são descontadas da quota do Estado-Membro de pavilhão. É proibida a devolução dos peixes mortos das capturas acidentais referidas no n.º 12; estes são descontados da quota do Estado-Membro de pavilhão.\n\n15. As capturas acidentais de atum rabilho são abrangidas pelos artigos 17.º, 18.º, 21.º e 23.º"
+  },
+  "eec7bfcef7b531de": {
+   "fragment_id": "Artigo 10.º — Programa de amostragem para o atum rabilho vivo",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programa de amostragem para o atum rabilho vivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa de amostragem para o atum rabilho vivo\n\n1. Cada Estado-Membro estabelece um programa de amostragem com vista à estimativa das quantidades por tamanho do atum rabilho capturado.\n\n2. A amostragem por tamanho nas jaulas é efectuada numa amostra de 100 espécimes por cada 100 toneladas de peixe vivo ou de 10 % do número total de peixes enjaulados. A amostra do tamanho, em comprimento ou em peso, deve ser recolhida durante a captura na exploração piscícola e nos animais mortos durante o transporte, em conformidade com a metodologia da ICCAT para as comunicações de dados no âmbito da tarefa II.\n\n3. Para os peixes cultivados durante mais de um ano, devem ser desenvolvidos métodos e amostragens suplementares.\n\n4. A amostragem deve ter lugar durante uma operação de captura seleccionada aleatoriamente e abranger o conjunto das jaulas. Os dados recolhidos por amostragem em cada ano são comunicados à Comissão até 31 de Maio do ano seguinte."
+  },
+  "b2da00736d70adf5": {
+   "fragment_id": "Artigo 11.º — Capturas acessórias",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Capturas acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Capturas acessórias\n\n1. Os navios comunitários de captura que não pescam activamente atum rabilho não são autorizados a manter a bordo atum rabilho que ultrapasse 5 %, em peso e/ou em número de indivíduos, das capturas totais mantidas a bordo.\n\n2. As capturas acessórias são descontadas da quota do Estado-Membro de pavilhão. É proibida a devolução dos peixes mortos das capturas acessórias, a que se refere o n.º 1, enquanto estiver aberta a pesca do atum rabilho; estes são descontados da quota do Estado-Membro de pavilhão.\n\n3. As capturas acessórias de atum rabilho são abrangidas pelos artigos 17.º, 18.º, 21.º, 23.º e 34.º"
+  },
+  "670d5444c91f7ee6": {
+   "fragment_id": "Artigo 12.º — Pesca recreativa",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pesca recreativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pesca recreativa\n\n1. Os Estados-Membros atribuem autorizações de pesca recreativa aos seus navios.\n\n2. É proibido, na pesca recreativa, capturar, manter a bordo, transbordar ou desembarcar mais de um exemplar de atum rabilho por viagem de pesca.\n\n3. A venda de atum rabilho capturado na pesca recreativa é proibida, excepto para fins de caridade.\n\n4. Os Estados-Membros registam os dados relativos às capturas da pesca recreativa e comunicam os dados relativos ao ano anterior à Comissão até 30 de Junho de cada ano. A Comissão transmite essa informação ao Comité Permanente de Investigação e Estatísticas da ICCAT.\n\n5. Cada Estado-Membro adopta as medidas necessárias para garantir, em toda a medida do possível, a libertação do atum rabilho capturado vivo na pesca recreativa, em especial dos juvenis."
+  },
+  "84c93c2e49b9c7b2": {
+   "fragment_id": "Artigo 13.º — Pesca desportiva",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pesca desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pesca desportiva\n\n1. Os Estados-Membros regulamentam a pesca desportiva, nomeadamente através da concessão de autorizações de pesca desportiva aos seus navios.\n\n2. A venda de atum rabilho capturado em competições de pesca desportiva é proibida, excepto para fins de caridade.\n\n3. Os Estados-Membros registam os dados relativos às capturas da pesca desportiva e comunicam os dados relativos ao ano anterior à Comissão até 30 de Junho de cada ano. A Comissão transmite essa informação ao Comité Permanente de Investigação e Estatísticas da ICCAT.\n\n4. Cada Estado-Membro adopta as medidas necessárias para garantir, em toda a medida do possível, a libertação do atum rabilho capturado vivo na pesca desportiva, em especial dos juvenis."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "d8b24293e4d70925": {
+   "fragment_id": "MEDIDAS DE CONTROLO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE CONTROLO"
+  },
+  "2145af7ee05949ef": {
+   "fragment_id": "Artigo 14.º — Registos dos navios",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Registos dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registos dos navios\n\n1. Pelo menos 45 dias antes do início das campanhas de pesca referidas no artigo 7.º, cada Estado-Membro envia à Comissão, por via electrónica e em conformidade com o modelo definido nas *Orientações para a Apresentação dos Dados e Informações Exigidos pela ICCAT*:\n\na) Uma lista de todos os navios de captura que arvoram o seu pavilhão autorizados a pescar activamente atum rabilho no Atlântico Este e no Mediterrâneo ao abrigo de uma autorização especial de pesca;\n\nb) Uma lista de todos os outros navios de pesca (excluindo os navios de captura) que arvoram o seu pavilhão autorizados a operar na pesca ao atum rabilho no Atlântico Este e no Mediterrâneo.\n\nEm cada ano civil, um navio de pesca só pode ser incluído numa das listas referidas no presente número.\n\n2. Não é aceite qualquer alteração subsequente das listas referidas no n.º 1 durante um ano civil, excepto nos casos em que um navio de pesca notificado seja impedido de participar na pescaria por razões operacionais legítimas ou de força maior. Nessas circunstâncias, o Estado-Membro em causa informa imediatamente a Comissão, fornecendo:\n\na) Todos os dados a que se refere o n.º 1 relativos ao(s) navio(s) de pesca previsto(s) para substituição;\n\nb) Uma descrição completa das razões que justificam a substituição e quaisquer provas ou referências pertinentes.\n\n3. A Comissão transmite a informação referida nos n.^os^ 1 e 2 ao Secretariado da ICCAT, de modo a que esses navios possam ser incluídos no registo ICCAT dos navios de captura autorizados a pescar activamente atum rabilho ou no registo ICCAT de todos os outros navios de pesca (excluindo os navios de captura) autorizados a operar na pesca ao atum rabilho.\n\n4. Sem prejuízo do artigo 11.º, os navios de pesca comunitários que não constam dos registos ICCAT não podem pescar, manter a bordo, transbordar, transportar, transferir, transformar ou desembarcar atum rabilho no Atlântico Este ou no Mediterrâneo.\n\n5. Os n.^os^ 2, 6, 7 e 8 do artigo 8.º-A do Regulamento (CE) n.º 1936/2001 são aplicáveis com as devidas adaptações."
+  },
+  "dfdc176e3a041305": {
+   "fragment_id": "Artigo 15.º — Registo das armações autorizadas para a pesca do atum rabilho",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Registo das armações autorizadas para a pesca do atum rabilho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registo das armações autorizadas para a pesca do atum rabilho\n\n1. Até 15 de Fevereiro de cada ano, cada Estado-Membro envia à Comissão, por via electrónica, uma lista das suas armações autorizadas, ao abrigo de uma autorização especial de pesca, para a pesca do atum rabilho no Atlântico Este e no Mediterrâneo. Essa lista inclui o nome e o número de registo das armações.\n\n2. A Comissão transmite a lista ao Secretariado da ICCAT, de modo a que essas armações possam ser inscritas no registo ICCAT das armações autorizadas a pescar atum rabilho.\n\n3. As armações de atum comunitárias que não constarem do registo ICCAT não podem pescar, manter, transferir ou desembarcar atum rabilho no Atlântico Este ou no Mediterrâneo.\n\n4. Os n.^os^ 2, 4, 6, 7 e 8 do artigo 8.º-A do Regulamento (CE) n.º 1936/2001 são aplicáveis com as devidas adaptações."
+  },
+  "9856c9cbefa88082": {
+   "fragment_id": "Artigo 16.º — Informação sobre as actividades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Informação sobre as actividades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Informação sobre as actividades de pesca\n\n1. Até 15 de Fevereiro de cada ano, cada Estado-Membro comunica à Comissão a lista dos navios de captura inscritos no registo ICCAT referido no artigo 14.º que pescaram atum rabilho no Atlântico Este e no Mediterrâneo durante a campanha anterior.\n\n2. Os Estados-Membros comunicam à Comissão quaisquer informações relativas aos navios não abrangidos pelo n.º 1 mas em relação aos quais se sabe ou presume que pescaram atum rabilho no Atlântico Este ou no Mediterrâneo.\n\n3. A Comissão transmite ao Secretariado da ICCAT a informação referida no n.º 1 até 1 de Março de cada ano e as informações referidas no n.º 2."
+  },
+  "70049bcf3c2cc710": {
+   "fragment_id": "Artigo 17.º — Portos designados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Portos designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Portos designados\n\n1. Os Estados-Membros designam um local a utilizar para os desembarques ou transbordos ou um local perto do litoral (portos designados) onde sejam autorizadas as operações de desembarque ou transbordo de atum rabilho.\n\nPara que um porto possa ser considerado como porto designado, o Estado-Membro deve especificar os períodos e locais em que os desembarques e transbordos são autorizados. O Estado-Membro de porto garante uma cobertura total de inspecção durante todos os períodos e em todos os locais em que os desembarques e transbordos são autorizados.\n\n2. Os Estados-Membros transmitem à Comissão, até 15 de Fevereiro de cada ano, a lista dos portos designados. A Comissão envia essa informação ao Secretariado da ICCAT antes de 1 de Março de cada ano.\n\n3. É proibido desembarcar ou transbordar a partir dos navios de pesca, em qualquer local com excepção dos portos designados pelas PCC e pelos Estados-Membros nos termos dos n.^os^ 1 e 2, qualquer quantidade de atum rabilho capturado no Atlântico Este ou no Mediterrâneo."
+  },
+  "7f75ba71b0102147": {
+   "fragment_id": "Artigo 18.º — Exigências de conservação de registos",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Exigências de conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Exigências de conservação de registos\n\n1. Para além da observância dos artigos 6.º e 8.º do Regulamento (CEE) n.º 2847/93, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^8])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr8-L_2009096PT.01000101-E0008), o capitão de um navio comunitário de captura referido no artigo 14.º do presente regulamento deve registar no diário de bordo, se for caso disso, as informações enumeradas no anexo II.\n\n2. O capitão de um navio comunitário de captura envolvido numa operação de pesca conjunta deve registar no seu diário de bordo as seguintes informações adicionais:\n\na) No que respeita aos navios de captura que transferem o peixe para jaulas: i) o seu nome e indicativo de chamada rádio internacional, ii) a data e hora das capturas e da transferência, iii) o local (latitude e longitude) das capturas e da transferência, iv) a quantidade de capturas mantida a bordo e a quantidade transferida para jaulas, v) a quantidade de capturas descontada da sua quota individual, vi) o nome e número ICCAT do rebocador;\n\ni) o seu nome e indicativo de chamada rádio internacional,\n\nii) a data e hora das capturas e da transferência,\n\niii) o local (latitude e longitude) das capturas e da transferência,\n\niv) a quantidade de capturas mantida a bordo e a quantidade transferida para jaulas,\n\nv) a quantidade de capturas descontada da sua quota individual,\n\nvi) o nome e número ICCAT do rebocador;\n\nb) No que respeita aos restantes navios de captura, não envolvidos na transferência de peixes: i) os seus nomes e indicativos de chamada rádio internacional, ii) a data e hora das capturas e da transferência, iii) o local (latitude e longitude) das capturas e da transferência, iv) a indicação de que nenhumas capturas foram trazidas para bordo ou transferidas para jaulas, v) a quantidade de capturas descontada das suas quotas individuais, vi) o nome e número ICCAT dos navios de captura referidos na alínea a), vii) o nome e número ICCAT do rebocador.\n\ni) os seus nomes e indicativos de chamada rádio internacional,\n\nii) a data e hora das capturas e da transferência,\n\niii) o local (latitude e longitude) das capturas e da transferência,\n\niv) a indicação de que nenhumas capturas foram trazidas para bordo ou transferidas para jaulas,\n\nv) a quantidade de capturas descontada das suas quotas individuais,\n\nvi) o nome e número ICCAT dos navios de captura referidos na alínea a),\n\nvii) o nome e número ICCAT do rebocador."
+  },
+  "ecdf79ae6d6e4d44": {
+   "fragment_id": "Artigo 19.º — Operações de pesca conjunta",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Operações de pesca conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Operações de pesca conjunta\n\n1. Qualquer operação de pesca conjunta de atum rabilho só pode ser autorizada com o consentimento do Estado ou Estados de pavilhão em causa. Para poderem ser autorizados, os navios de pesca devem estar equipados para a pesca do atum rabilho e ter uma quota individual.\n\n2. No momento do pedido de autorização, cada Estado-Membro adopta as medidas necessárias para obter da parte dos seus navios de pesca que participam na operação de pesca conjunta as seguintes informações:\n\na) Duração;\n\nb) Identidade dos operadores envolvidos;\n\nc) Quota individual dos navios;\n\nd) Chave de repartição das capturas pelos navios de pesca; e\n\ne) Informações sobre as explorações de engorda ou cultura a que se destina o peixe.\n\n3. Cada Estado-Membro transmite, pelo menos 15 dias antes do início da operação, as informações referidas no n.º 2 à Comissão, em conformidade com o modelo definido no anexo V. A Comissão, prontamente e pelo menos 10 dias antes do início da operação, envia essas informações ao Secretariado da ICCAT e aos Estados-Membros de pavilhão dos restantes navios de pesca envolvidos."
+  },
+  "6461c57aafe0bff0": {
+   "fragment_id": "Artigo 20.º — Declaração das capturas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Declaração das capturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Declaração das capturas\n\n1. O capitão de um navio de captura cercador com rede de cerco com retenida de comprimento superior a 24 m que pesque activamente atum rabilho envia às autoridades competentes do seu Estado-Membro de pavilhão, por via electrónica ou por outros meios, uma declaração diária de capturas que inclua, no mínimo, informações sobre o número de registo ICCAT, o nome do navio, o início e o termo do período, a quantidade capturada (incluindo o peso e o número de indivíduos), mesmo quando não tenha feito capturas (declaração nula), e a data e local (latitude e longitude) das capturas, em conformidade com o modelo definido no anexo IV ou um modelo equivalente.\n\n2. O capitão de um navio de captura não abrangido pelo n.º 1 envia às autoridades competentes do seu Estado-Membro de pavilhão uma declaração semanal de capturas que inclua, no mínimo, informações sobre o número de registo ICCAT, o nome do navio, o início e o termo do período, a quantidade capturada (incluindo o peso e o número de indivíduos), mesmo quando não tenha feito capturas (declaração nula), e a data e local (latitude e longitude) das capturas, em conformidade com o modelo definido no anexo IV ou um modelo equivalente. A declaração das capturas efectuadas durante a semana anterior, até às 24 horas TMG de domingo, é enviada o mais tardar na 2.º-feira ao meio-dia. A declaração deve incluir informações sobre o número de dias de mar no Atlântico Este e no Mediterrâneo desde o início das actividades de pesca ou desde a última declaração semanal de capturas.\n\n3. Logo que receba as declarações de capturas referidas nos n.^os^ 1 e 2, cada Estado-Membro envia-as prontamente à Comissão em formato informático e assegura o pronto fornecimento à Comissão de relatórios de captura semanais em formato informático relativos aos navios de captura, em conformidade com o modelo definido no anexo IV. A Comissão transmite semanalmente essa informação ao Secretariado da ICCAT, em conformidade com o modelo definido no anexo IV.\n\n4. Os Estados-Membros comunicam à Comissão, antes do dia 15 de cada mês, as quantidades de atum rabilho capturadas no Atlântico Este ou no Mediterrâneo que tenham sido desembarcadas, transbordadas, presas numa armação ou enjauladas durante o mês anterior pelos navios de pesca que arvoram o seu pavilhão. A Comissão transmite prontamente essa informação ao Secretariado da ICCAT."
+  },
+  "67e2c30e3ec0ddca": {
+   "fragment_id": "Artigo 21.º — Desembarques",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Desembarques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Desembarques\n\n1. Em derrogação do artigo 7.º do Regulamento (CEE) n.º 2847/93, o capitão de um navio comunitário referido no artigo 14.º do presente regulamento ou os seus representantes comunicam, pelo menos quatro horas antes da hora prevista de chegada ao porto, à autoridade competente do Estado-Membro (incluindo o Estado-Membro de pavilhão) ou da PCC cujos portos ou instalações de desembarque pretendam utilizar, os seguintes elementos:\n\na) Hora prevista de chegada;\n\nb) Quantidade estimada de atum rabilho mantida a bordo;\n\nc) Informações sobre a zona geográfica onde foram efectuadas as capturas.\n\n2. As autoridades do Estado-Membro de porto conservam registos de todas as comunicações anteriores no ano em curso.\n\n3. As autoridades do Estado-Membro de porto enviam um relatório do desembarque às autoridades do Estado-Membro de pavilhão do navio de pesca, no prazo de 48 horas a contar do final do desembarque.\n\n4. Depois de cada saída de pesca e no prazo de 48 horas a contar do desembarque, os capitães dos navios de pesca comunitários apresentam uma declaração de desembarque às autoridades competentes do Estado-Membro ou da PCC em cujo território teve lugar o desembarque e ao seu Estado-Membro de pavilhão. O capitão de um navio de captura autorizado é responsável pela exactidão da declaração, da qual devem constar, no mínimo, as quantidades de atum rabilho desembarcadas e a zona em que foram capturadas. Todas as capturas desembarcadas devem ser efectivamente pesadas, e não estimadas."
+  },
+  "2cc6c32853a30771": {
+   "fragment_id": "Artigo 22.º — Operações de transferência",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Operações de transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Operações de transferência\n\n1. Antes de qualquer operação de transferência para jaulas rebocadas, o capitão de um navio de captura envia às autoridades competentes do seu Estado-Membro de pavilhão uma notificação prévia de transferência onde indica:\n\na) O nome e número de registo ICCAT do navio de captura;\n\nb) A hora prevista da transferência;\n\nc) A quantidade estimada de atum rabilho a transferir;\n\nd) Informações sobre a posição (latitude e longitude) em que irá ter lugar a transferência;\n\ne) O nome do rebocador receptor, o número de jaulas rebocadas e o número de registo ICCAT.\n\n2. A operação de transferência não se pode iniciar sem a autorização prévia do Estado de pavilhão do navio de captura. O Estado-Membro de pavilhão informa o capitão do navio de captura de que a transferência não é autorizada e que deverá devolver ao mar o peixe capturado se considerar, após recepção da notificação prévia de transferência, que:\n\na) O navio de captura declarado como tendo capturado o pescado não dispunha de uma quota suficiente para o atum rabilho enjaulado;\n\nb) A quantidade de peixe não foi tida em conta na utilização da quota eventualmente aplicável;\n\nc) O navio de captura declarado como tendo capturado o pescado não está autorizado a pescar atum rabilho; ou\n\nd) O rebocador declarado como receptor da transferência de pescado não consta do registo ICCAT de todos os outros navios de pesca referido no artigo 14.º ou não está equipado com um sistema de localização dos navios por satélite (VMS).\n\n3. O capitão de um navio de captura preenche e transmite às autoridades competentes do seu Estado-Membro de pavilhão, no final da operação de transferência para o rebocador, a declaração de transferência ICCAT, em conformidade com o modelo definido no anexo III.\n\n4. A declaração de transferência acompanha o peixe transferido durante o transporte para uma exploração ou um porto designado.\n\n5. A autorização de transferência do Estado-Membro de pavilhão não constitui autorização da operação de enjaulamento a que se refere o artigo 24.º\n\n6. O capitão do navio de captura que transfere atum rabilho deve garantir que as actividades de transferência sejam monitorizadas através de uma câmara de vídeo submarina.\n\n7. O observador regional da ICCAT a bordo do navio de captura, referido no Programa de Observação Regional da ICCAT mencionado no anexo VII, regista e comunica informações sobre as actividades de transferência efectuadas, verifica a posição do navio de captura durante a operação de transferência, observa e estima as capturas transferidas e verifica os elementos transmitidos na notificação prévia de transferência referida no n.º 2 e na declaração de transferência ICCAT referida no n.º 3.\n\nO observador regional da ICCAT averba a notificação prévia de transferência e a declaração de transferência ICCAT, assinando-as. Deve verificar se a declaração de transferência ICCAT foi correctamente preenchida e transmitida ao capitão do rebocador.\n\n8. O operador da armação de atum preenche e transmite às autoridades competentes do seu Estado-Membro, no final da operação de transferência para o navio de pesca, a declaração de transferência ICCAT em conformidade com o modelo definido no anexo III."
+  },
+  "1e4202209fa8dc28": {
+   "fragment_id": "Artigo 23.º — Transbordos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transbordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transbordos\n\n1. Em derrogação ao artigo 11.º do Regulamento (CEE) n.º 2847/93, o transbordo no mar de atum rabilho é proibido no Atlântico Este e no Mediterrâneo.\n\n2. Antes da entrada em qualquer porto, o capitão do navio de pesca receptor ou os seus representantes comunicam, pelo menos 48 horas antes da hora prevista para a chegada, às autoridades competentes do Estado em cujo território se encontra o porto que pretende utilizar, os seguintes elementos:\n\na) Data, hora e porto previstos de chegada;\n\nb) Quantidade estimada de atum rabilho mantida a bordo e informações sobre a zona geográfica onde foram efectuadas as capturas;\n\nc) Nome do navio de pesca que procede ao transbordo e o seu número de identificação no registo ICCAT dos navios de captura autorizados a pescar activamente atum rabilho ou no registo ICCAT dos outros navios de pesca autorizados a operar no Atlântico Este e no Mediterrâneo;\n\nd) Nome do navio de pesca receptor das capturas e o seu número de identificação no registo ICCAT dos navios de captura autorizados a pescar activamente atum rabilho ou no registo ICCAT dos outros navios de pesca autorizados a operar no Atlântico Este e no Mediterrâneo;\n\ne) Tonelagem e zona geográfica em que foi capturado o atum rabilho a transbordar.\n\n3. Os navios de pesca só são autorizados a transbordar quando tiverem obtido uma autorização prévia do seu Estado de pavilhão.\n\n4. O capitão do navio que procede ao transbordo comunica ao seu Estado de pavilhão, antes do início do transbordo, os seguintes elementos:\n\na) Quantidades de atum rabilho a transbordar;\n\nb) Data e porto onde se realiza o transbordo;\n\nc) Nome, número de registo e pavilhão do navio de pesca receptor das capturas e o seu número de identificação no registo ICCAT dos navios de captura autorizados a pescar activamente atum rabilho ou no registo ICCAT dos outros navios de pesca autorizados a operar na pesca ao atum rabilho;\n\nd) Zona geográfica onde foram efectuadas as capturas de atum rabilho.\n\n5. A autoridade competente do Estado-Membro em cujo porto se realiza o transbordo:\n\na) Inspecciona o navio de pesca receptor à chegada, verificando a carga e a documentação relacionada com a operação de transbordo;\n\nb) Envia um relatório do transbordo à autoridade do Estado de pavilhão do navio de pesca que efectua o transbordo, no prazo de 48 horas a contar do final do mesmo.\n\n6. Os capitães dos navios de pesca comunitários preenchem e enviam a declaração de transbordo da ICCAT às autoridades competentes do Estado-Membro de pavilhão dos navios de pesca. A declaração é enviada o mais tardar 48 horas após a data do transbordo no porto, em conformidade com o modelo definido no anexo III."
+  },
+  "b73aeceebffd45c0": {
+   "fragment_id": "Artigo 24.º — Operações de enjaulamento",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Operações de enjaulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Operações de enjaulamento\n\n1. No prazo de uma semana a contar da conclusão da operação de enjaulamento, o Estado-Membro sob cuja jurisdição se encontra a exploração de engorda ou cultura de atum rabilho apresenta uma declaração de enjaulamento, validada por um observador, ao Estado-Membro ou à PCC de pavilhão dos navios que capturaram o atum e à Comissão. A Comissão transmite prontamente essa informação ao Secretariado da ICCAT. A declaração deve incluir as informações constantes da declaração de enjaulamento, definidas na Recomendação 06-07 da ICCAT relativa à cultura de atum rabilho.\n\n2. Nos casos em que as explorações de engorda ou cultura se encontrem no alto mar, as disposições do n.º 1 são aplicáveis, com as devidas adaptações, aos Estados-Membros de estabelecimento das pessoas singulares ou colectivas responsáveis pelas explorações de engorda ou cultura.\n\n3. Antes de qualquer operação de enjaulamento, o Estado-Membro ou a PCC de pavilhão do navio de captura é informado pela autoridade competente do Estado-Membro em que se encontra a exploração de engorda ou cultura da transferência para jaulas das quantidades capturadas por navios de captura que arvoram o seu pavilhão.\n\nO Estado-Membro de pavilhão do navio de captura informa a autoridade competente do Estado-Membro ou da PCC onde se encontra a exploração de engorda ou cultura de que deverá confiscar as capturas e proceder à libertação dos peixes no mar se, após recepção dessa informação, considerar que:\n\na) O navio de captura declarado como tendo capturado o pescado tinha uma quota individual insuficiente para o atum rabilho enjaulado;\n\nb) A quantidade de peixe não foi devidamente comunicada nem tida em conta nos cálculos da utilização de qualquer quota eventualmente aplicável; ou\n\nc) O navio de captura declarado como tendo capturado o pescado não está autorizado a pescar atum rabilho.\n\n4. A operação de enjaulamento não se pode iniciar sem a autorização prévia do Estado-Membro ou PCC de pavilhão do navio de captura.\n\n5. O Estado-Membro sob cuja jurisdição se encontra a exploração de atum rabilho adopta as medidas necessárias para proibir o enjaulamento para fins de cultura ou engorda de atum rabilho que não esteja acompanhado pela documentação exacta, completa e validada exigida pela ICCAT.\n\n6. O Estado-Membro sob cuja jurisdição se encontra a exploração garante que as actividades de enjaulamento sejam monitorizadas através de uma câmara de vídeo submarina. Esta exigência não é aplicável quando as jaulas forem directamente fixadas ao sistema de amarração."
+  },
+  "797f79c032761751": {
+   "fragment_id": "Artigo 25.º — Sistema de localização dos navios por satélite",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Sistema de localização dos navios por satélite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sistema de localização dos navios por satélite\n\n1. O Regulamento (CE) n.º 2244/2003 da Comissão, de 18 de Dezembro de 2003, que estabelece normas de execução relativas aos sistemas de localização dos navios por satélite [([^9])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr9-L_2009096PT.01000101-E0009), é aplicável aos navios de pesca referidos na alínea b) do artigo 2.º do presente regulamento. Por outro lado, os Estados-Membros devem garantir que todos os rebocadores que arvoram o seu pavilhão, independentemente do seu comprimento, estejam equipados e operem um sistema de localização dos navios por satélite em conformidade com os artigos 3.º e 16.º do Regulamento (CE) n.º 2244/2003.\n\n2. Os Estados-Membros garantem que os seus Centros de Vigilância da Pesca enviam à Comissão e a um organismo por esta designado, em tempo real e utilizando o formato «*https data feed*», as mensagens do VMS recebidas dos navios de pesca que arvoram o seu pavilhão. A Comissão transmite essas mensagens, por via electrónica, ao Secretariado da ICCAT.\n\n3. Os Estados-Membros devem garantir que:\n\na) As mensagens dos navios de pesca que arvoram o seu pavilhão sejam enviadas à Comissão pelo menos de duas em duas horas, quando os navios se encontrarem em operação no Atlântico Este e no Mediterrâneo;\n\nb) Em caso de avaria técnica, as mensagens dos navios de pesca que arvoram o seu pavilhão sejam enviadas à Comissão no prazo de 24 horas a contar da recepção da mensagem pelo seu Centro de Vigilância da Pesca;\n\nc) As mensagens enviadas à Comissão sejam numeradas sequencialmente (com um identificador único), de modo a evitar qualquer duplicação;\n\nd) As mensagens enviadas à Comissão sejam conformes com o formato de intercâmbio de dados definido no anexo VIII.\n\n4. Os Estados-Membros adoptam as medidas necessárias para garantir que todas as mensagens disponibilizadas aos seus navios de inspecção sejam tratadas de modo confidencial e só sejam utilizadas para as operações de inspecção no mar."
+  },
+  "34f52cffb2c5c544": {
+   "fragment_id": "Artigo 26.º — Registo e comunicação da actividade das armações",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Registo e comunicação da actividade das armações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Registo e comunicação da actividade das armações\n\n1. As capturas através de armações são registadas após o final de cada operação de pesca conduzida com armações para atum e são enviadas à autoridade competente do Estado-Membro onde a armação está montada, por via electrónica ou por outros meios, no prazo de 48 horas a contar do final de cada operação de pesca.\n\n2. Cada Estado-Membro transmite à Comissão por via electrónica, logo que as receba, as declarações de capturas. A Comissão transmite prontamente essa informação ao Secretariado da ICCAT."
+  },
+  "6c72b7cb19f3735c": {
+   "fragment_id": "Artigo 27.º — Controlo num porto ou numa exploração piscícola",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Controlo num porto ou numa exploração piscícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Controlo num porto ou numa exploração piscícola\n\n1. Os Estados-Membros adoptam as medidas necessárias para garantir que todos os navios de captura constantes do registo ICCAT dos navios autorizados a pescar activamente atum rabilho que entram num porto designado para desembarcar e/ou transbordar atum rabilho capturado no Atlântico Este ou no Mediterrâneo sejam submetidos a um controlo no porto.\n\n2. Os Estados-Membros adoptam as medidas necessárias para controlar todas as operações de enjaulamento nas explorações de engorda ou cultura que se encontram sob a sua jurisdição.\n\n3. Nos casos em que as explorações de engorda ou cultura se encontrem no alto mar, as disposições do n.º 2 são aplicáveis, com as devidas adaptações, aos Estados-Membros de estabelecimento das pessoas singulares ou colectivas responsáveis pelas explorações de engorda ou cultura."
+  },
+  "8935a2959052cb43": {
+   "fragment_id": "Artigo 28.º — Controlos cruzados",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Controlos cruzados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Controlos cruzados\n\n1. Os Estados-Membros verificam, nomeadamente utilizando os relatórios de inspecção, os relatórios dos observadores e os dados VMS, a apresentação dos diários de bordo dos seus navios de pesca, bem como de todas as informações pertinentes contidas nos mesmos, nos documentos de transferência/transbordo e nos documentos relacionados com as capturas de atum rabilho.\n\n2. Os Estados-Membros procedem a controlos cruzados de todos os desembarques, transbordos ou enjaulamentos, comparando as quantidades por espécie registadas nos diários de bordo dos navios de pesca ou nas declarações de transbordo com as quantidades registadas nas declarações de desembarque ou de enjaulamento ou em qualquer outro documento pertinente, como facturas e/ou notas de vendas."
+  },
+  "06af6492233c4114": {
+   "fragment_id": "Artigo 29.º — Programa de Inspecção Internacional Conjunta da ICCAT",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Programa de Inspecção Internacional Conjunta da ICCAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Programa de Inspecção Internacional Conjunta da ICCAT\n\n1. O Programa de Inspecção Internacional Conjunta da ICCAT, adoptado pela organização na sua 4.º Reunião Ordinária (Madrid, Novembro de 1975), tal como alterado pela ICCAT na sua 16.ª Reunião Extraordinária e constante do anexo VI do presente regulamento, é aplicável na Comunidade.\n\n2. Os Estados-Membros cujos navios de pesca estão autorizados a pescar atum rabilho no Atlântico Este e no Mediterrâneo nomeiam inspectores e realizam inspecções no mar ao abrigo do programa.\n\n3. A Comissão ou um organismo por ela designado pode nomear inspectores comunitários para o programa.\n\n4. A Comissão ou um organismo por ela designado coordena as actividades de vigilância e de inspecção no respeitante à Comunidade. Pode elaborar, em colaboração com os Estados-Membros em causa, programas de inspecção conjunta com esse fim, de modo a garantir o cumprimento das obrigações da Comunidade ao abrigo do programa. Os Estados-Membros cujos navios se dedicam à pesca do atum rabilho adoptam as medidas necessárias para facilitar a execução desses programas, nomeadamente no que respeita aos recursos humanos e materiais necessários e aos períodos e zonas geográficas em que estes recursos devem ser utilizados.\n\n5. Os Estados-Membros comunicam à Comissão, até 1 de Abril de cada ano, os nomes dos inspectores e dos navios de inspecção que pretendem afectar ao programa no ano seguinte. Com base nessa informação, a Comissão estabelece, em cooperação com os Estados-Membros, um plano previsional de participação da Comunidade no programa em cada ano, que comunica ao secretariado da ICCAT e aos Estados-Membros."
+  },
+  "005418f262ddfbcc": {
+   "fragment_id": "Artigo 30.º — Programa nacional de observação",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Programa nacional de observação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Programa nacional de observação\n\n1. Cada Estado-Membro deve, em relação aos seus navios de captura de comprimento superior a 15 m que pescam activamente atum rabilho, garantir a presença de observadores em pelo menos:\n\na) 20 % dos seus navios cercadores com rede de cerco de retenida de comprimento entre 15 m e 24 m;\n\nb) 20 % dos seus arrastões pelágicos activos;\n\nc) 20 % dos seus palangreiros activos;\n\nd) 20 % dos seus navios de pesca com canas (isco) activos;\n\ne) 100 % das operações durante o processo de captura de atum nas armações.\n\n2. Até à implementação efectiva pela ICCAT do programa de observação regional referido no artigo 31.º, os Estados-Membros garantem a presença de observadores nacionais em:\n\na) Todos os navios de captura activos cercadores com rede de cerco com retenida de comprimento superior a 24 m;\n\nb) Todos os navios cercadores com rede de cerco com retenida envolvidos em operações de pesca conjunta, independentemente do seu comprimento. Um observador nacional deve estar presente durante a operação de pesca.\n\n3. As tarefas do observador incluem, nomeadamente:\n\na) A verificação de que o navio de captura cumpre as disposições do presente regulamento;\n\nb) O registo e apresentação de relatórios sobre a actividade de pesca, que deve incluir nomeadamente os seguintes elementos: i) quantidade de capturas (incluindo capturas acessórias), incluindo o destino dado às mesmas, como por exemplo a manutenção do pescado a bordo ou a sua devolução ao mar, vivo ou morto, ii) a latitude e longitude da zona em que foram efectuadas as capturas, iii) uma medida do esforço de pesca (p. ex.: número de lanços, número de anzóis), como definida no Manual de Campo ICCAT para as diferentes artes de pesca, iv) a data das capturas;\n\ni) quantidade de capturas (incluindo capturas acessórias), incluindo o destino dado às mesmas, como por exemplo a manutenção do pescado a bordo ou a sua devolução ao mar, vivo ou morto,\n\nii) a latitude e longitude da zona em que foram efectuadas as capturas,\n\niii) uma medida do esforço de pesca (p. ex.: número de lanços, número de anzóis), como definida no Manual de Campo ICCAT para as diferentes artes de pesca,\n\niv) a data das capturas;\n\nc) A observação e estimativa das capturas e a verificação dos registos lançados no diário de bordo;\n\nd) O avistamento e registo de navios que possam estar a pescar em infracção às medidas de conservação da ICCAT.\n\nO observador efectua ainda trabalho científico solicitado pela ICCAT, como a recolha de dados para a tarefa II, com base nas instruções do Comité Permanente de Investigação e Estatísticas da ICCAT.\n\n4. Em cumprimento desta exigência de observação, os Estados-Membros:\n\na) Garantem uma cobertura representativa em termos temporais e espaciais, de modo a garantir que a Comissão receba dados e informações adequados e apropriados em relação às capturas, ao esforço de pesca e a outros aspectos científicos e de gestão, tendo em conta as características das frotas e das pescarias;\n\nb) Garantem a aplicação de protocolos rigorosos de recolha de dados;\n\nc) Garantem uma formação adequada e a aprovação dos observadores, antes do seu embarque;\n\nd) Garantem, na medida do possível, um mínimo de perturbação das operações dos navios que pescam na área da Convenção.\n\n5. Até à implementação efectiva pela ICCAT do programa de observação regional referido no artigo 31.º, cada Estado-Membro sob cuja jurisdição se encontra uma exploração de engorda ou cultura de atum rabilho garante a presença de um observador durante todas as operações de enjaulamento e todas as operações de captura de peixe nas mesmas."
+  },
+  "3ffe7a767e4c70f9": {
+   "fragment_id": "Artigo 31.º — Programa de observação regional da ICCAT",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Programa de observação regional da ICCAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Programa de observação regional da ICCAT\n\n1. Os Estados-Membros garantem a presença de um observador da ICCAT:\n\na) Em todos os navios cercadores com rede de cerco com retenida de comprimento superior a 24 m, ao longo de toda a campanha de pesca;\n\nb) Em todos os navios cercadores com rede de cerco com retenida envolvidos em operações de pesca conjunta, independentemente do seu comprimento. O observador da ICCAT estará presente durante as operações de pesca.\n\nOs navios cercadores com rede de cerco com retenida referidos nas alíneas a) e b) que não transportem um observador regional da ICCAT não são autorizados a pescar ou operar na pescaria de atum rabilho.\n\n2. Cada Estado-Membro sob cuja jurisdição se encontra uma exploração de engorda ou cultura de atum rabilho garante a presença de um observador da ICAT durante todas as operações de enjaulamento e todas as operações de captura de peixe nas mesmas.\n\nAs tarefas do observador da ICCAT incluem, nomeadamente:\n\na) A observação e controlo do cumprimento das regras nas actividades da exploração, nos termos dos artigos 4.º-A, 4.º-B e 4.º-C do Regulamento (CE) n.º 1936/2001;\n\nb) A validação das declarações de enjaulamento referidas no artigo 24.º;\n\nc) A execução de qualquer trabalho científico solicitado pela ICCAT, como por exemplo a recolha de amostras, com base nas instruções do Comité Permanente de Investigação e Estatísticas da ICCAT;\n\nd) Deve ser permitido aos observadores da ICCAT o contacto com todo o pessoal do navio e da exploração e o acesso às respectivas artes, jaulas e equipamentos;\n\nAlém disso:\n\ne) A seu pedido, os observadores da ICCAT devem também dispor de acesso aos seguintes equipamentos, caso existam no navio a que estão afectados, a fim de facilitar o exercício das suas tarefas, definidas no n.º 4 do anexo VII: i) equipamento de navegação por satélite, ii) ecrãs de visionamento radar que estejam em serviço, iii) meios electrónicos de comunicação;\n\ni) equipamento de navegação por satélite,\n\nii) ecrãs de visionamento radar que estejam em serviço,\n\niii) meios electrónicos de comunicação;\n\nf) Os observadores da ICCAT beneficiarão de condições, incluindo alojamento, alimentação e instalações sanitárias adequadas, idênticas às dos oficiais do navio;\n\ng) Os observadores da ICCAT devem dispor de um espaço adequado na ponte ou na casa do leme para o exercício de tarefas administrativas, assim como de espaço adequado no convés para o exercício das suas tarefas de observação; e\n\nh) Os Estados-Membros de pavilhão velam por que os capitães, a tripulação, os proprietários das explorações e os armadores dos navios não entravem, intimidem, interfiram com, influenciem, subornem ou tentem subornar um observador da ICCAT no exercício das suas funções.\n\n3. Todos os custos resultantes das actividades dos observadores da ICCAT são suportados pelos Estados-Membros. Os Estados-Membros devem imputar esses custos aos operadores das explorações ou aos armadores dos navios cercadores.\n\n4. O Programa de Observação Regional da ICCAT, descrito no anexo VII, é aplicável na Comunidade."
+  },
+  "392e87ca20120bfe": {
+   "fragment_id": "Artigo 32.º — Acesso aos registos vídeo",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Acesso aos registos vídeo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acesso aos registos vídeo\n\nOs Estados-Membros garantem que os registos vídeo dos seus navios de pesca e explorações, nomeadamente os obtidos aquando das operações de transferência ou de enjaulamento, sejam disponibilizados aos inspectores e observadores da ICCAT.\n\nCada Estado-Membro sob cuja jurisdição se encontra uma exploração de atum rabilho garante que os registos vídeo dos seus navios de pesca e explorações, nomeadamente os obtidos aquando das operações de transferência ou de enjaulamento, sejam disponibilizados aos inspectores e observadores comunitários."
+  },
+  "136ef4fd23d26ac4": {
+   "fragment_id": "Artigo 33.º — Execução",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Execução\n\n1. Os Estados-Membros adoptam medidas de execução em relação a um navio de pesca que arvora o seu pavilhão sempre que se estabeleça, nos termos do direito nacional, que esse navio não cumpre o disposto nos artigos 4.º, 7.º, 8.º, 9.º, 17.º, 18.º, 19.º, 20.º, 21.º e 23.º. Essas medidas podem nomeadamente incluir, consoante a gravidade da infracção e em conformidade com o direito nacional:\n\na) Multas;\n\nb) A apreensão das artes de pesca e capturas ilegais;\n\nc) O apresamento do navio;\n\nd) A suspensão ou retirada da autorização de pesca;\n\ne) A redução ou supressão da quota de pesca, se for caso disso.\n\n2. Cada Estado-Membro sob cuja jurisdição se encontra uma exploração de atum rabilho adopta medidas de execução em relação a essa exploração sempre que se estabeleça, nos termos do direito nacional, que a mesma não cumpre o disposto no artigo 24.º e no n.º 2 do artigo 31.º do presente regulamento e nos artigos 4.º-A, 4.º-B e 4.º-C do Regulamento (CE) n.º 1936/2001. Essas medidas podem nomeadamente incluir, consoante a gravidade da infracção e em conformidade com o direito nacional:\n\na) Multas;\n\nb) A suspensão ou anulação da inscrição no registo de explorações de engorda;\n\nc) A proibição de enjaular ou de comercializar determinadas quantidades de atum rabilho."
+  },
+  "3c31164ec149d5d7": {
+   "fragment_id": "Artigo 34.º — Medidas de mercado",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Medidas de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Medidas de mercado\n\n1. São proibidos o comércio comunitário, desembarque, importação, exportação, enjaulamento para engorda ou cultura, reexportação e transbordo de atum rabilho do Atlântico Este e do Mediterrâneo que não esteja acompanhado da documentação exacta, completa e validada exigida pelo presente regulamento e pela Recomendação 08-12 da ICCAT relativa a um programa de documentação das capturas do atum rabilho.\n\n2. São proibidos o comércio comunitário, importação, desembarque, enjaulamento para engorda ou cultura, transformação, exportação, reexportação e transbordo de atum rabilho do Atlântico Este e do Mediterrâneo capturado por navios de pesca cujo Estado de pavilhão não detenha qualquer quota, limite de capturas ou parte atribuída no esforço de pesca para o atum rabilho do Atlântico Este e do Mediterrâneo, nos termos das medidas de gestão e conservação da ICCAT, ou quando as possibilidades de pesca atribuídas ao Estado de pavilhão ou cujas quotas individuais tiverem sido esgotadas. Com base na informação recebida do Secretariado da ICCAT, a Comissão informa todos os Estados-Membros de que a quota de uma PCC se encontra esgotada.\n\n3. São proibidos o comércio comunitário, importação, desembarque, transformação e exportação de atum rabilho a partir de explorações de engorda ou cultura que não cumpram a Recomendação 06-07 da ICCAT relativa à cultura de atum rabilho."
+  },
+  "092bce5be93deae6": {
+   "fragment_id": "Artigo 35.º — Factores de conversão",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Factores de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Factores de conversão\n\nOs factores de conversão adoptados pelo Comité Permanente de Investigação e Estatísticas da ICCAT são aplicáveis para o cálculo do equivalente em peso vivo do atum rabilho transformado."
+  },
+  "d1a769859a0a76c6": {
+   "fragment_id": "Artigo 36.º — Factores de crescimento para o atum engordado ou cultivado",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Factores de crescimento para o atum engordado ou cultivado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Factores de crescimento para o atum engordado ou cultivado\n\nOs Estados-Membros definem factores de crescimento a aplicar ao atum rabilho engordado ou cultivado nas suas jaulas e comunicam à Comissão esses factores, bem como a metodologia utilizada, até 15 de Setembro de 2009. A Comissão transmite essa informação ao Secretariado e ao Comité Permanente de Investigação e Estatísticas da ICCAT."
+  },
+  "cb98b3d273e90125": {
+   "fragment_id": "Artigo 37.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Avaliação\n\nCada Estado-Membro apresenta à Comissão, até 15 de Setembro de cada ano, um relatório pormenorizado sobre a aplicação do presente regulamento. A Comissão transmite ao Secretariado da ICCAT, até 15 de Outubro de cada ano, um relatório pormenorizado sobre a aplicação da Recomendação 08-05 da ICCAT."
+  },
+  "37cb975a626ab4c1": {
+   "fragment_id": "Artigo 38.º — Financiamento",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Financiamento\n\nO plano plurianual de recuperação do atum rabilho no Atlântico Este e no Mediterrâneo é considerado um plano de recuperação na acepção do artigo 5.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "168be2a00120aa45": {
+   "fragment_id": "Artigo 39.º — Revogação do Regulamento (CE) n.º 1559/2007",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Revogação do Regulamento (CE) n.º 1559/2007",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Revogação do Regulamento (CE) n.º 1559/2007\n\n1. É revogado o Regulamento (CE) n.º 1559/2007.\n\n2. As remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e ser lidas de acordo com o quadro de correspondência que consta do anexo IX."
+  },
+  "5f86aec6673979c3": {
+   "fragment_id": "Artigo 40.º — Alterações ao Regulamento (CE) n.º 43/2009 e ao Regulamento (CE) n.º 1936/2001",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Alterações ao Regulamento (CE) n.º 43/2009 e ao Regulamento (CE) n.º 1936/2001",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Alterações ao Regulamento (CE) n.º 43/2009 e ao Regulamento (CE) n.º 1936/2001\n\n1. São suprimidos os artigos 92.º e 93.º do Regulamento (CE) n.º 43/2009.\n\n2. São suprimidos os n.^os^ 5 e 6 do artigo 4.º-A do Regulamento (CE) n.º 1936/2001, com a redacção que lhe foi dada pelo Regulamento (CE) n.º 869/2004 do Conselho [([^10])](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntr10-L_2009096PT.01000101-E0010)."
+  },
+  "e3d612b5c99edd28": {
+   "fragment_id": "Artigo 41.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 6 de Abril de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. POSPÍŠIL**\n\n---"
+  },
+  "522558189291acd2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc1-L_2009096PT.01000101-E0001) Parecer emitido em 12 de Março de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc2-L_2009096PT.01000101-E0002) [JO L 162 de 18.6.1986, p. 33](http://publications.europa.eu/resource/oj/JOL_1986_162_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc3-L_2009096PT.01000101-E0003) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc4-L_2009096PT.01000101-E0004) [JO L 340 de 22.12.2007, p. 8](http://publications.europa.eu/resource/oj/JOL_2007_340_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc5-L_2009096PT.01000101-E0005) [JO L 22 de 26.1.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_022_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc6-L_2009096PT.01000101-E0006) [JO L 5 de 9.1.2004, p. 25](http://publications.europa.eu/resource/oj/JOL_2004_005_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc7-L_2009096PT.01000101-E0007) [JO L 263 de 3.10.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_263_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc8-L_2009096PT.01000101-E0008) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc9-L_2009096PT.01000101-E0009) [JO L 333 de 20.12.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_333_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/5c0f9b3f-6dba-419e-aa33-43596d1be165.0018.02/DOC_1#ntc10-L_2009096PT.01000101-E0010) [JO L 162 de 30.4.2004, p. 8](http://publications.europa.eu/resource/oj/JOL_2004_162_R_TOC)."
+  },
+  "eeedc91697f95146": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2009R0302 — PT — 06.10.2016 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0302) [REGULAMENTO (CE) N.º 302/2009 DO CONSELHO](http://publications.europa.eu/resource/celex/32009R0302) [de 6 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0302) [que estabelece um plano plurianual de recuperação do atum rabilho no Atlântico Este e no Mediterrâneo, que altera o Regulamento (CE) n.º 43/2009 e que revoga o Regulamento (CE) n.º 1559/2007](http://publications.europa.eu/resource/celex/32009R0302) (JO L 096, 15.4.2009, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2016/1627 do Parlamento Europeu e do Conselho de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1627) — L 252 — 1 — 16.9.2016"
+  }
+ }
+}

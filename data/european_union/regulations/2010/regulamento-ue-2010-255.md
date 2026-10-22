@@ -35,6 +35,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-12-11'
+version_history:
+  file: regulamento-ue-2010-255.versoes.json
+  count: 4
+  source_lastmod: '2017-12-11'
+  versions:
+  - date: '2010-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-04'
+    amending: eu:celex:32012R0923:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 923/2012 DA COMISSÃO de 26 de setembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Quadro de gestão do fluxo de tráfego aéreo
+    - Altera Artigo 5.º — Obrigações dos Estados-Membros no que respeita à unidade central ATFM
+    - Altera Artigo 16.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo
+  - date: '2016-06-23'
+    amending: eu:celex:32016R1006:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/1006 DA COMISSÃO de 22 de junho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Notas
+    - Adita Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo
+    - Suprime Lista das regras ICAO para efeitos da gestão do fluxo de tráfego aéreo
+  - date: '2017-12-11'
+    amending: eu:celex:32017R2159:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/2159 DA COMISSÃO de 20 de novembro de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Lista das regras da ICAO para efeitos da gestão do fluxo de tráfego aéreo
+    - Altera Notas
 identifiers:
   celex: 32010R0255
   eli: http://data.europa.eu/eli/reg/2010/255/oj
@@ -49,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7ad51529-b9de-46eb-8ca5-ef7d359ee1c6.0018
   content_url: http://publications.europa.eu/resource/cellar/c2e26240-09be-457e-a83d-b9b05a6fae37.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0255-20171211
-  retrieved_at: '2026-10-22T02:45:34Z'
+  retrieved_at: '2026-10-22T15:47:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T05:04:23.849+02:00'
 integrity:
@@ -58,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:34Z'
-  notes: Texto consolidado 02010R0255-20171211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:56Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2010-255.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,31 +170,19 @@ relationships:
   date: '2020-11-12'
 article_structure:
   article_count: 16
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:34Z'
+  checked_at: '2026-10-22T15:47:56Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 255/2010 da Comissão, de 25 de Março de 2010
-
-> 02010R0255 — PT — 11.12.2017 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0923) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 923/2012 DA COMISSÃO de 26 de setembro de 2012](http://publications.europa.eu/resource/celex/32012R0923) — L 281 — 1 — 13.10.2012
-- [►M2](http://publications.europa.eu/resource/celex/32016R1006) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1006 DA COMISSÃO de 22 de junho de 2016](http://publications.europa.eu/resource/celex/32016R1006) — L 165 — 8 — 23.6.2016
-- [►M3](http://publications.europa.eu/resource/celex/32017R2159) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2159 DA COMISSÃO de 20 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2159) — L 304 — 45 — 21.11.2017
-
-## REGULAMENTO (UE) N.º 255/2010 DA COMISSÃO
 
 de 25 de Março de 2010
 

@@ -36,6 +36,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2009-262.versoes.json
+  count: 3
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2009-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-12-21'
+    amending: eu:celex:32016R2345:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/2345 DA COMISSÃO de 14 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Procedimentos associados para os Estados-Membros
+    - Altera Artigo 13.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto
+      2
+    - Adita ANEXO II
+    - 'Adita Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^
+      1 e 2 do artigo 5.º'
+    - 'Adita Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^
+      3 e 4 do artigo 4.º'
+    - Adita ANEXO III
+    - Adita Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º
+    - Adita ANEXO IV
+    - 'Adita Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas
+      referidos no artigo 10.º'
+    - 'Adita Parte B: Módulo de controlo interno do fabrico'
+    - Adita ANEXO V
+    - Adita Condições referidas no artigo 11.º
+    - Adita ANEXO VI
+    - 'Adita Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º'
+    - 'Adita Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º'
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de interoperabilidade e desempenho
+    - Suprime Artigo 4.º — Procedimentos associados para os operadores de Modo S
+    - Suprime Artigo 5.º — Procedimentos associados para os Estados-Membros
+    - Suprime Artigo 6.º — Procedimentos associados para os prestadores de serviços de tráfego aéreo
+    - Suprime Artigo 7.º — Requisitos para contingências
+    - Suprime Artigo 8.º — Coordenação civil-militar
+    - Suprime Artigo 9.º — Requisitos de segurança
+    - Suprime Artigo 10.º — Avaliação da conformidade
+    - Suprime Artigo 11.º — Verificação dos sistemas
+    - Suprime Artigo 12.º — Requisitos adicionais
+    - Suprime Artigo 13.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto
+      2
+    - Suprime ANEXO II
+    - 'Suprime Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^
+      1 e 2 do artigo 5.º'
+    - 'Suprime Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^
+      3 e 4 do artigo 4.º'
+    - Suprime ANEXO III
+    - Suprime Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º
+    - Suprime ANEXO IV
+    - 'Suprime Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas
+      referidos no artigo 10.º'
+    - 'Suprime Parte B: Módulo de controlo interno do fabrico'
+    - Suprime ANEXO V
+    - Suprime Condições referidas no artigo 11.º
+    - Suprime ANEXO VI
+    - 'Suprime Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º'
+    - 'Suprime Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º'
+    - Suprime Notas
 identifiers:
   celex: 32009R0262
   eli: http://data.europa.eu/eli/reg/2009/262/oj
@@ -50,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018
   content_url: http://publications.europa.eu/resource/cellar/9df1978c-84a5-11ee-99ba-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0262-20231005
-  retrieved_at: '2026-10-22T02:45:29Z'
+  retrieved_at: '2026-10-22T15:41:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:14:18.323+02:00'
 integrity:
@@ -59,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:29Z'
-  notes: Texto consolidado 02009R0262-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2009-262.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,16 +208,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:29Z'
+  checked_at: '2026-10-22T15:41:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0262-20090420: versão indisponível (Sem expressão na língua por para CELEX 02009R0262-20090420.)'
   errors: []
 ---
 

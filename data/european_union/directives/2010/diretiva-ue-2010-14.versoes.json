@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0014:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0014-20100601",
+ "dre_path": null,
+ "source_lastmod": "2010-06-01",
+ "versions": [
+  {
+   "date": "2010-03-04",
+   "future": false,
+   "celex": "32010L0014",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "607465a9732cd9e5",
+    "23ff42845a23918b",
+    "0b1049eea0a82bf9",
+    "745fcc4a790159e1",
+    "c057650cf15e076f",
+    "0122c5390bda26fa",
+    "1bdb4450b011a397"
+   ]
+  }
+ ],
+ "fragments": {
+  "607465a9732cd9e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março de 2010\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa heptamaloxiloglucano\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado [([^1])](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntr1-L_2010053PT.01000701-E0001), e, nomeadamente, o seu artigo 6.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) Em conformidade com artigo 6.º, n.º 2, da Directiva 91/414/CEE, a França recebeu, em 9 de Maio de 2006, um pedido da empresa Elicityl SA com vista à inclusão da substância activa heptamaloxiloglucano no anexo I da Directiva 91/414/CEE. A Decisão 2007/560/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntr2-L_2010053PT.01000701-E0002) reiterou a conformidade do processo, isto é, que se podia considerar que este satisfazia, em princípio, as exigências de dados e informações dos anexos II e III da Directiva 91/414/CEE.\n\n(2) Os efeitos dessa substância activa na saúde humana e no ambiente foram avaliados, em conformidade com o artigo 6.º, n.^os^ 2 e 4, da Directiva 91/414/CEE, no que respeita às utilizações propostas pelo requerente. Em 26 de Julho de 2007, o Estado-Membro designado relator apresentou um projecto de relatório de avaliação.\n\n(3) O relatório de avaliação foi revisto por peritos avaliadores dos Estados-Membros e da AESA e foi apresentado à Comissão em 17 de Julho de 2009, sob a forma de relatório científico da AESA sobre o heptamaloxiloglucano [([^3])](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntr3-L_2010053PT.01000701-E0003). Este relatório foi revisto pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluído em 27 de Novembro de 2009 sob a forma de relatório de revisão da Comissão sobre o heptamaloxiloglucano.\n\n(4) As avaliações efectuadas permitiram concluir poder presumir-se que os produtos fitofarmacêuticos que contêm heptamaloxiloglucano satisfazem, em geral, as exigências definidas no artigo 5.º, n.º 1, alíneas a) e b), e no artigo 5.º, n.º 3, da Directiva 91/414/CEE, designadamente no que respeita às utilizações examinadas em pormenor no relatório de revisão da Comissão. Por conseguinte, é adequado incluir o heptamaloxiloglucano no anexo I da directiva em questão, para assegurar que, em cada Estado-Membro, as autorizações de produtos fitofarmacêuticos que contenham aquela substância activa possam ser concedidas em conformidade com a referida directiva.\n\n(5) Sem prejuízo das obrigações definidas pela Directiva 91/414/CEE em consequência da inclusão de uma substância activa no anexo I, os Estados-Membros devem dispor de um período de seis meses após a inclusão para rever as autorizações provisórias existentes de produtos fitofarmacêuticos que contenham heptamaloxiloglucano, a fim de garantir o respeito das exigências previstas na Directiva 91/414/CEE, nomeadamente no artigo 13.º, e das condições aplicáveis estabelecidas no seu anexo I. Os Estados-Membros devem transformar as autorizações provisórias existentes em autorizações plenas, alterá-las ou retirá-las, em conformidade com o disposto na Directiva 91/414/CEE. Em derrogação ao prazo mencionado *supra*, deve ser previsto um período mais longo para a apresentação e avaliação do processo completo, previsto no anexo III, de cada produto fitofarmacêutico para cada utilização prevista, em conformidade com os princípios uniformes enunciados na Directiva 91/414/CEE.\n\n(6) Por conseguinte, a Directiva 91/414/CEE deve ser alterada em conformidade.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "23ff42845a23918b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "0b1049eea0a82bf9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros adoptarão e publicarão, o mais tardar em 30 de Novembro de 2010, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros aplicam as referidas disposições a partir de 1 de Dezembro de 2010.\n\nSempre que os Estados-Membros adoptarem tais disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência incumbem aos Estados-Membros."
+  },
+  "745fcc4a790159e1": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em conformidade com a Directiva 91/414/CEE, até 30 de Novembro de 2010, os Estados-Membros devem alterar ou retirar, se necessário, as autorizações existentes de produtos fitofarmacêuticos que contenham heptamaloxiloglucano como substância activa. Até essa data, devem verificar, em especial, o cumprimento das condições do anexo I dessa directiva respeitantes ao heptamaloxiloglucano, com excepção das identificadas na parte B da entrada relativa a essa substância activa, e que o titular da autorização detém ou tem acesso a um processo que cumpra as exigências do anexo II da directiva, em conformidade com as condições do artigo 13.º, n.º 2, da mesma.\n\n2. Em derrogação ao n.º 1, os Estados-Membros devem reavaliar cada produto fitofarmacêutico autorizado que contenha heptamaloxiloglucano como única substância activa ou acompanhada de outras substâncias activas, todas elas incluídas no anexo I da Directiva 91/414/CEE, até 31 de Maio de 2010, em conformidade com os princípios uniformes estabelecidos no anexo VI da Directiva 91/414/CEE, com base num processo que cumpra as exigências do anexo III da mesma directiva e tendo em conta a parte B da entrada no seu anexo I respeitante ao heptamaloxiloglucano. Com base nessa avaliação, os Estados-Membros devem determinar se o produto satisfaz as condições estabelecidas no artigo 4.º, n.º 1, alíneas b), c), d) e e), da Directiva 91/414/CEE.\n\nNa sequência dessa determinação, os Estados-Membros devem:\n\na) No caso de um produto que contenha heptamaloxiloglucano como única substância activa, alterar ou retirar a autorização, se necessário, até 30 de Novembro de 2011; ou\n\nb) No caso de um produto que contenha heptamaloxiloglucano acompanhado de outras substâncias activas, alterar ou retirar a autorização, se necessário, até 30 de Novembro de 2011 ou até à data fixada para essa alteração ou retirada na respectiva directiva ou directivas que acrescentaram a substância ou as substâncias em causa ao anexo I da Directiva 91/414/CEE, caso esta última data seja posterior."
+  },
+  "c057650cf15e076f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em 1 de Junho de 2010."
+  },
+  "0122c5390bda26fa": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Março de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "1bdb4450b011a397": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntc1-L_2010053PT.01000701-E0001) [JO L 230 de 19.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_230_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntc2-L_2010053PT.01000701-E0002) [JO L 213 de 15.8.2007, p. 29](http://publications.europa.eu/resource/oj/JOL_2007_213_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a0f1298e-3fd5-419b-b7c2-77274998873d.0018.02/DOC_1#ntc3-L_2010053PT.01000701-E0003) *EFSA Scientific Report* (2009) 334, 1-52, *Conclusion regarding the peer review of the pesticide risk assessment of the active substance trifluralin* (Relatório científico da AESA: Conclusões da revisão dos peritos avaliadores sobre a avaliação dos riscos de pesticidas da substância activa heptamaloxiloglucano) (concluído em 17 de Julho de 2009)."
+  }
+ }
+}

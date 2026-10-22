@@ -36,6 +36,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-21'
+version_history:
+  file: diretiva-ue-2010-65.versoes.json
+  count: 3
+  source_lastmod: '2019-12-21'
+  versions:
+  - date: '2010-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-27'
+    amending: eu:celex:32019L0883:por
+    amending_title: DIRETIVA (UE) 2019/883 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de
+      abril de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Transmissão electrónica de dados
+    - Altera Artigo 17.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita LISTA DAS FORMALIDADES DE DECLARAÇÃO REFERIDAS NA PRESENTE DIRECTIVA
+    - Adita A. Formalidades de declaração resultantes de actos jurídicos da União
+    - Adita B. Formulários FAL e formalidades resultantes de instrumentos jurídicos internacionais
+    - Adita C. Legislação nacional aplicável
+    - Adita Apêndice
+  - date: '2019-12-21'
+    amending: eu:celex:32017L2109:por
+    amending_title: DIRETIVA (UE) 2017/2109 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017
+    changes:
+    - Altera Artigo 5.º — Transmissão electrónica de dados
+    - Altera A. Formalidades de declaração resultantes de actos jurídicos da União
+    - Altera Notas
 identifiers:
   celex: 32010L0065
   eli: http://data.europa.eu/eli/dir/2010/65/oj
@@ -50,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0010a65c-175c-4ab9-9fa0-421a91557807.0010
   content_url: http://publications.europa.eu/resource/cellar/b63a5da8-27df-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0065-20191221
-  retrieved_at: '2026-10-22T02:39:52Z'
+  retrieved_at: '2026-10-22T15:46:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T04:56:23.877+02:00'
 integrity:
@@ -59,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:52Z'
-  notes: Texto consolidado 02010L0065-20191221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:56Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,30 +236,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:52Z'
+  checked_at: '2026-10-22T15:46:56Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de Outubro de 2010
-
-> 02010L0065 — PT — 21.12.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L2109) — [DIRETIVA (UE) 2017/2109 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2109) — L 315 — 52 — 30.11.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019L0883) — [DIRETIVA (UE) 2019/883 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0883) — L 151 — 116 — 7.6.2019
-
-## DIRECTIVA 2010/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Outubro de 2010
 

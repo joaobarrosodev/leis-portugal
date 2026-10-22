@@ -37,6 +37,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-09'
+version_history:
+  file: regulamento-ue-2009-107.versoes.json
+  count: 2
+  source_lastmod: '2017-01-09'
+  versions:
+  - date: '2009-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Entrada em vigor
+    - Adita ANEXO I
+    - Adita Requisitos de concepção ecológica
+    - Adita ANEXO II
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Adita ANEXO III
+    - Adita Padrões de referência
+    - Suprime Notas
 identifiers:
   celex: 32009R0107
   eli: http://data.europa.eu/eli/reg/2009/107/oj
@@ -51,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d65e1c80-1e57-463b-8284-c2ce93a7dbbf.0018
   content_url: http://publications.europa.eu/resource/cellar/e952fb45-f300-4480-a75e-77e5e39cf5f3.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0107-20170109
-  retrieved_at: '2026-10-22T02:48:10Z'
+  retrieved_at: '2026-10-22T15:40:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T22:40:12.223+02:00'
 integrity:
@@ -60,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:10Z'
-  notes: Texto consolidado 02009R0107-20170109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:55Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-107.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,28 +145,19 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:10Z'
-  warnings: []
+  checked_at: '2026-10-22T15:40:55Z'
+  warnings:
+  - '02009R0107-20090225: versão indisponível (Sem expressão na língua por para CELEX 02009R0107-20090225.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 107/2009 da Comissão, de 4 de Fevereiro de 2009
-
-> 02009R0107 — PT — 09.01.2017 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R2282) — [REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016](http://publications.europa.eu/resource/celex/32016R2282) — L 346 — 51 — 20.12.2016
-
-## REGULAMENTO (CE) N.º 107/2009 DA COMISSÃO
 
 de 4 de Fevereiro de 2009
 

@@ -1,0 +1,534 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0642:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0642-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2009-07-23",
+   "future": false,
+   "celex": "32009R0642",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5d33ee8a685bb9e5",
+    "e1d330606b5afa50",
+    "99e214b4db589c34",
+    "398e9c31439aa65a",
+    "3f4a169b3b7f32cb",
+    "e8afb7943da90b59",
+    "953160a9a98482cc",
+    "c5471547cd12e3f7",
+    "5131df3cf97ace13",
+    "d747c3d150a7d8d8"
+   ]
+  },
+  {
+   "date": "2013-09-12",
+   "future": false,
+   "celex": "02009R0642-20130912",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0801:por",
+     "title": "REGULAMENTO (UE) N. o 801/2013 DA COMISSÃO de 22 de agosto de 2013",
+     "published": null,
+     "celex": "32013R0801"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 8.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA",
+    "Adita 1. CONSUMO DE ENERGIA EM ESTADO ACTIVO",
+    "Adita 2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO",
+    "Adita 3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE",
+    "Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO FORNECIDOS COM UM MENU IMPOSTO",
+    "Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO",
+    "Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES",
+    "Adita ANEXO II",
+    "Adita MEDIÇÕES",
+    "Adita 1. Medições de consumo energético em estado activo",
+    "Adita 2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede",
+    "Adita 3. Medições da luminância de pico",
+    "Adita ANEXO III",
+    "Adita PROCEDIMENTO DE VERIFICAÇÃO",
+    "Adita A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5",
+    "Adita B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+    "Adita C. Controlo de conformidade",
+    "Adita ANEXO IV",
+    "Adita Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008"
+   ],
+   "fragments": [
+    "05edd93cf43f2bfc",
+    "e1d330606b5afa50",
+    "b8aa19186293e3ab",
+    "398e9c31439aa65a",
+    "3f4a169b3b7f32cb",
+    "e8afb7943da90b59",
+    "953160a9a98482cc",
+    "c5471547cd12e3f7",
+    "f3d77aaa82e46ada",
+    "d664376e2a8dcecd",
+    "2cf57eb1f6b89bb5",
+    "fa072aa76091a0cd",
+    "40d098b6c6af38f2",
+    "85ee74a57766a0ab",
+    "3169dae94c56d163",
+    "b80c9615f4a87f9e",
+    "a438bc7dd45a2abb",
+    "852174729551523b",
+    "0f2eb30b0189d23d",
+    "f59c5dc6402d7407",
+    "88851f78df0de2c6",
+    "60c11388541f83ef",
+    "720af75c92791b10",
+    "542c1e042af3095d",
+    "c82b17fbc7d3ab67",
+    "fed8cdd5192eff66",
+    "b71fb892e9509ff2",
+    "e03a0eb4d5b2eef3",
+    "6ae6c740b41c6ec7",
+    "a927a761c446e582"
+   ]
+  },
+  {
+   "date": "2017-01-09",
+   "future": false,
+   "celex": "02009R0642-20170109",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2282:por",
+     "title": "REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32016R2282"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera 1. Medições de consumo energético em estado activo",
+    "Altera B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+    "Altera Notas",
+    "Adita VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO",
+    "Adita A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.",
+    "Suprime PROCEDIMENTO DE VERIFICAÇÃO",
+    "Suprime A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5"
+   ],
+   "fragments": [
+    "bd8b85a38a75f6ad",
+    "e1d330606b5afa50",
+    "2fe7939c91109ae8",
+    "398e9c31439aa65a",
+    "3f4a169b3b7f32cb",
+    "e8afb7943da90b59",
+    "953160a9a98482cc",
+    "c5471547cd12e3f7",
+    "f3d77aaa82e46ada",
+    "d664376e2a8dcecd",
+    "2cf57eb1f6b89bb5",
+    "fa072aa76091a0cd",
+    "40d098b6c6af38f2",
+    "85ee74a57766a0ab",
+    "3169dae94c56d163",
+    "b80c9615f4a87f9e",
+    "a438bc7dd45a2abb",
+    "852174729551523b",
+    "0f2eb30b0189d23d",
+    "6b0f695cc415fb74",
+    "88851f78df0de2c6",
+    "60c11388541f83ef",
+    "720af75c92791b10",
+    "8294058d8344677f",
+    "32a9732ad02c96dd",
+    "8c12a946e51e61c6",
+    "b71fb892e9509ff2",
+    "e03a0eb4d5b2eef3",
+    "6ae6c740b41c6ec7",
+    "74c6afd9504bd3c6"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02009R0642-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos de concepção ecológica",
+    "Suprime Artigo 4.º — Avaliação de conformidade",
+    "Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 6.º — Revisão",
+    "Suprime Artigo 7.º — Alterações ao Regulamento (CE) n.º 1275/2008",
+    "Suprime Artigo 8.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime REQUISITOS DE CONCEPÇÃO ECOLÓGICA",
+    "Suprime 1. CONSUMO DE ENERGIA EM ESTADO ACTIVO",
+    "Suprime 2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO",
+    "Suprime 3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE",
+    "Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO FORNECIDOS COM UM MENU IMPOSTO",
+    "Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO",
+    "Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES",
+    "Suprime ANEXO II",
+    "Suprime MEDIÇÕES",
+    "Suprime 1. Medições de consumo energético em estado activo",
+    "Suprime 2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede",
+    "Suprime 3. Medições da luminância de pico",
+    "Suprime ANEXO III",
+    "Suprime VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO",
+    "Suprime A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.",
+    "Suprime B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+    "Suprime C. Controlo de conformidade",
+    "Suprime ANEXO IV",
+    "Suprime Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "0ab16e2141836582"
+   ]
+  }
+ ],
+ "fragments": {
+  "5d33ee8a685bb9e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho relativa aos requisitos de concepção ecológica no que respeita aos televisores\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr1-L_2009191PT.01004201-E0001), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a concepção ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para produtos consumidores de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE prevê que, em conformidade com o procedimento referido no n.º 3 do artigo 19.º e com os critérios estabelecidos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a concepção ecológica, a Comissão introduzirá, se for caso disso, medidas de execução aplicáveis ao equipamento electrónico destinado ao público em geral.\n\n(3) A Comissão realizou um estudo preparatório, que analisou os aspectos técnicos, ambientais e económicos relacionados com os televisores. Esse estudo foi desenvolvido em conjunto com as partes interessadas da Comunidade e de países terceiros e os seus resultados foram divulgados publicamente no sítio *web* EUROPA da Comissão.\n\n(4) Os televisores representam um grupo de entre os produtos electrónicos destinados ao público em geral que é significativo em termos de consumo de electricidade e constituem, por isso, uma prioridade na política de concepção ecológica.\n\n(5) O aspecto ambiental relacionado com os televisores que é considerado significativo para efeitos do presente regulamento é o consumo de electricidade durante a fase de utilização.\n\n(6) O consumo anual de electricidade relacionado com os televisores foi estimado em 60 TWh em 2007 na Comunidade, o que corresponde a 24 Mt de emissões de CO2. Se não forem tomadas medidas para limitar este consumo, prevê-se que o consumo de electricidade aumentará para 132 TWh em 2020. O estudo preparatório mostra que o consumo de electricidade na fase de utilização pode ser significativamente reduzido.\n\n(7) Outros aspectos ambientais relevantes dizem respeito a substâncias perigosas utilizadas na produção de televisores e a resíduos de televisores eliminados no fim de vida útil. Os melhoramentos em matéria de impacto ambiental relacionado com os televisores são tratados na Directiva 2002/95/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos eléctricos e electrónicos [([^2])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr2-L_2009191PT.01004201-E0002), e na Directiva 2002/96/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa aos resíduos de equipamentos eléctricos e electrónicos (REEE) [([^3])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr3-L_2009191PT.01004201-E0003), respectivamente, e não devem ser tratados de novo no presente regulamento.\n\n(8) O estudo preparatório mostra que os requisitos relativos a outros parâmetros de concepção ecológica referidos na parte 1 do anexo I da Directiva 2005/32/CE não são necessários.\n\n(9) A redução do consumo de electricidade dos televisores é possível/viável pela aplicação de tecnologias abertas (e não do fabricante) já existentes e que são vantajosas em termos de custos, o que conduzirá a uma redução das despesas combinadas da aquisição e funcionamento dos televisores.\n\n(10) Os requisitos de concepção ecológica devem harmonizar os requisitos de consumo de electricidade aplicáveis aos televisores na Comunidade, contribuindo assim para o bom funcionamento do mercado interno e o melhoramento do desempenho ambiental destes produtos.\n\n(11) Os requisitos de concepção ecológica não devem ter impacto negativo na funcionalidade do produto, nem afectar negativamente a saúde, a segurança ou o ambiente. Em especial, os benefícios da redução do consumo de electricidade durante a fase de utilização devem compensar amplamente os potenciais impactos ambientais suplementares durante a fase de produção.\n\n(12) A introdução progressiva dos requisitos de concepção ecológica deve facultar um prazo adequado aos fabricantes para a adaptação dos seus produtos. O calendário deve ser estabelecido de molde a evitar os impactos negativos nas funcionalidades do equipamento que já se encontra no mercado, e a ter em conta as repercussões de custos para os fabricantes, nomeadamente as pequenas e médias empresas, assegurando simultaneamente a realização atempada dos objectivos do regulamento.\n\n(13) As medições dos parâmetros relevantes dos produtos devem ser efectuadas por um processo de medição fiável, preciso e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização enumerados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^4])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr4-L_2009191PT.01004201-E0004).\n\n(14) O presente regulamento deve intensificar a penetração no mercado de tecnologias capazes de reduzir o impacto ambiental dos televisores, determinando poupanças anuais de electricidade estimadas em 28 TWh em 2020, a comparar com a situação na ausência de adopção de medidas.\n\n(15) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar os procedimentos de avaliação de conformidade aplicáveis.\n\n(16) A fim de facilitar as verificações da conformidade, os fabricantes deverão fornecer, no quadro da documentação técnica referida nos anexos IV e V da Directiva 2005/32/CE, toda a informação que esteja relacionada com os requisitos definidos no presente regulamento.\n\n(17) Os melhores índices actualmente disponíveis de eficiência energética no estado activo e de menor impacto ambiental relacionado com substâncias perigosas são definidos pela Decisão 2009/300/CE da Comissão, de 12 de Março de 2009, que estabelece os critérios ecológicos revistos para a concessão do rótulo ecológico comunitário a televisores [([^5])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr5-L_2009191PT.01004201-E0005). Essa referência ajudará a assegurar ampla disponibilidade e acessibilidade de informação, sobretudo para as PME e para as microempresas, facilitando mais a integração das melhores tecnologias de concepção destinadas a reduzir o impacto ambiental dos televisores. Os parâmetros de referência para a melhor tecnologia disponível não devem, assim, ser definidos no presente regulamento.\n\n(18) Os requisitos de concepção ecológica aplicáveis a partir de 7 de Janeiro de 2013, nos termos do Regulamento (CE) n.º 1275/2008 da Comissão, de 17 de Dezembro de 2008, que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para o consumo de energia do equipamento eléctrico e electrónico doméstico e de escritório nos estados de vigília e de desactivação [([^6])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr6-L_2009191PT.01004201-E0006), devem ser aplicáveis a televisores num momento anterior ao previsto no referido regulamento, porque as tecnologias que cumprem as suas disposições podem ser aplicadas num período mais curto no que se refere a televisores e é possível realizar poupanças suplementares de energia. O Regulamento (CE) n.º 1275/2008 não deve, pois, ser aplicável a televisores e deve ser alterado em conformidade.\n\n(19) As medidas previstas no presente regulamento estão conformes com o parecer do Comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "e1d330606b5afa50": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece requisitos de concepção ecológica para a colocação de televisores no mercado."
+  },
+  "99e214b4db589c34": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições estabelecidas na Directiva 2005/32/CE, são aplicáveis as seguintes definições:\n\n1. **«televisor»**: um receptor de televisão ou um monitor de televisão;\n\n2. **«receptor de televisão»**: um produto concebido essencialmente para a visualização e recepção de sinais audiovisuais, colocado no mercado com uma denominação de modelo ou sistema, e que consiste em\n\na) um ecrã,\n\nb) um ou mais sintonizador(es)/receptor(es) e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa única unidade combinada com o ecrã, ou numa ou mais unidades separadas;\n\n3. **«monitor de televisão»**: um produto concebido para mostrar num ecrã integrado um sinal de vídeo proveniente de uma série de fontes, incluindo sinais de radiodifusão televisiva, que opcionalmente controla e reproduz sinais sonoros provenientes de um dispositivo externo, ligado por meio de circuitos de sinais de vídeo normalizados, incluindo Cinch (de componentes, compósito), SCART, HDMI e futuras normas sem fios (mas excluindo circuitos de sinais de vídeo não normalizados, como DVI e SDI), mas que não pode receber e processar sinais radiodifundidos;\n\n4. **«estado activo»**: o estado em que o televisor se encontra ligado à rede eléctrica e produz som e imagem;\n\n5. **«estado doméstico»**: a regulação do televisor recomendada pelo fabricante para a utilização doméstica normal;\n\n6. **«estado de vigília»**: o estado em que o equipamento está ligado à rede eléctrica, depende do fornecimento de energia por essa rede a fim de funcionar adequadamente e faculta *apenas* as seguintes funções, que podem persistir por tempo indeterminado:\n\n— função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa, e/ou\n\n— visualização de informações ou de estado;\n\n7. **«estado de desactivação»**: estado em que o equipamento se encontra ligado à rede eléctrica sem executar qualquer função; inclui igualmente:\n\na) condições que fornecem apenas uma indicação de estado de desactivação,\n\nb) condições que fornecem apenas funções destinadas a assegurar a compatibilidade electromagnética na acepção da Directiva 2004/108/CE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntr7-L_2009191PT.01004201-E0007);\n\n8. **«função de reactivação»**: função que permite a activação de outros estados, incluindo o estado activo, por meio de um comutador remoto, que pode ser um telecomando, um sensor interno ou um temporizador que conduza à disponibilidade de funções adicionais, entre as quais o estado activo;\n\n9. **«visualização de informações ou de estado»**: função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios;\n\n10. **«menu imposto»**: um grupo de parâmetros do televisor pré-definidos pelo fabricante, de entre os quais o utilizador do televisor deve seleccionar uma regulação determinada assim que põe em funcionamento o televisor;\n\n11. **«resolução full HD»**: uma resolução de ecrã com contagem física dos pixéis de, no mínimo, 1 920 × 1 080 pixéis."
+  },
+  "398e9c31439aa65a": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica para os televisores constam do anexo I.\n\nO cumprimento dos requisitos de concepção ecológica deve ser medido em conformidade com os métodos previstos no anexo II."
+  },
+  "3f4a169b3b7f32cb": {
+   "fragment_id": "Artigo 4.º — Avaliação de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação de conformidade\n\nO procedimento de avaliação de conformidade referido no artigo 8.º da Directiva 2005/32/CE é o sistema de controlo interno da concepção previsto no seu anexo IV, ou o sistema de gestão para avaliação da conformidade previsto no anexo V da mesma directiva.\n\nA documentação técnica a fornecer no que respeita à avaliação de conformidade é indicada na parte 5, secção 1, do anexo I do presente regulamento."
+  },
+  "e8afb7943da90b59": {
+   "fragment_id": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nSerão efectuados controlos de fiscalização, em conformidade com o procedimento de verificação estabelecido no anexo III."
+  },
+  "953160a9a98482cc": {
+   "fragment_id": "Artigo 6.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revisão\n\nA Comissão reexamina o presente regulamento o mais tardar 3 anos após a sua entrada em vigor, em função do progresso tecnológico e apresenta o resultado dessa revisão ao Fórum de Consulta sobre a Concepção Ecológica."
+  },
+  "c5471547cd12e3f7": {
+   "fragment_id": "Artigo 7.º — Alterações ao Regulamento (CE) n.º 1275/2008",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Alterações ao Regulamento (CE) n.º 1275/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações ao Regulamento (CE) n.º 1275/2008\n\nA secção 3 do anexo I do Regulamento (CE) n.º 1275/2008 é substituída pelo texto do anexo IV do presente regulamento."
+  },
+  "5131df3cf97ace13": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os requisitos de concepção ecológica estabelecidos nas partes 1, 3 e 4, secção 1, e na parte 5, secção 2, do anexo I são aplicáveis a partir de 20 de Agosto de 2010.\n\nOs requisitos de concepção ecológica estabelecidos na parte 1, secção 2, do anexo I são aplicáveis a partir de 1 de Abril de 2012.\n\nOs requisitos de concepção ecológica estabelecidos na parte 2, secção 1, alíneas a) a d), do anexo I são aplicáveis a partir de 7 de Janeiro de 2010.\n\nOs requisitos de concepção ecológica estabelecidos na parte 2, secção 2, alíneas a) a e), do anexo I são aplicáveis a partir de 20 de Agosto de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Julho de 2009.\n\n***Pela Comissão***\n\n**Andris PIEBALGS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "d747c3d150a7d8d8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc1-L_2009191PT.01004201-E0001) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc2-L_2009191PT.01004201-E0002) [JO L 37 de 13.2.2003, p. 19](http://publications.europa.eu/resource/oj/JOL_2003_037_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc3-L_2009191PT.01004201-E0003) [JO L 37 de 13.2.2003, p. 24](http://publications.europa.eu/resource/oj/JOL_2003_037_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc4-L_2009191PT.01004201-E0004) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc5-L_2009191PT.01004201-E0005) [JO L 82 de 28.3.2009, p. 3](http://publications.europa.eu/resource/oj/JOL_2009_082_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc6-L_2009191PT.01004201-E0006) [JO L 339 de 18.12.2008, p. 45](http://publications.europa.eu/resource/oj/JOL_2008_339_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018.04/DOC_1#ntc7-L_2009191PT.01004201-E0007) [JO L 390 de 31.12.2004, p. 24](http://publications.europa.eu/resource/oj/JOL_2004_390_R_TOC)."
+  },
+  "05edd93cf43f2bfc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho relativa aos requisitos de concepção ecológica no que respeita aos televisores\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a concepção ecológica,\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para produtos consumidores de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE prevê que, em conformidade com o procedimento referido no n.º 3 do artigo 19.º e com os critérios estabelecidos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a concepção ecológica, a Comissão introduzirá, se for caso disso, medidas de execução aplicáveis ao equipamento electrónico destinado ao público em geral.\n\n(3) A Comissão realizou um estudo preparatório, que analisou os aspectos técnicos, ambientais e económicos relacionados com os televisores. Esse estudo foi desenvolvido em conjunto com as partes interessadas da Comunidade e de países terceiros e os seus resultados foram divulgados publicamente no sítio *web* EUROPA da Comissão.\n\n(4) Os televisores representam um grupo de entre os produtos electrónicos destinados ao público em geral que é significativo em termos de consumo de electricidade e constituem, por isso, uma prioridade na política de concepção ecológica.\n\n(5) O aspecto ambiental relacionado com os televisores que é considerado significativo para efeitos do presente regulamento é o consumo de electricidade durante a fase de utilização.\n\n(6) O consumo anual de electricidade relacionado com os televisores foi estimado em 60 TWh em 2007 na Comunidade, o que corresponde a 24 Mt de emissões de CO2. Se não forem tomadas medidas para limitar este consumo, prevê-se que o consumo de electricidade aumentará para 132 TWh em 2020. O estudo preparatório mostra que o consumo de electricidade na fase de utilização pode ser significativamente reduzido.\n\n(7) Outros aspectos ambientais relevantes dizem respeito a substâncias perigosas utilizadas na produção de televisores e a resíduos de televisores eliminados no fim de vida útil. Os melhoramentos em matéria de impacto ambiental relacionado com os televisores são tratados na Directiva 2002/95/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos eléctricos e electrónicos ([^2^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0002)), e na Directiva 2002/96/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa aos resíduos de equipamentos eléctricos e electrónicos (REEE) ([^3^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0003)), respectivamente, e não devem ser tratados de novo no presente regulamento.\n\n(8) O estudo preparatório mostra que os requisitos relativos a outros parâmetros de concepção ecológica referidos na parte 1 do anexo I da Directiva 2005/32/CE não são necessários.\n\n(9) A redução do consumo de electricidade dos televisores é possível/viável pela aplicação de tecnologias abertas (e não do fabricante) já existentes e que são vantajosas em termos de custos, o que conduzirá a uma redução das despesas combinadas da aquisição e funcionamento dos televisores.\n\n(10) Os requisitos de concepção ecológica devem harmonizar os requisitos de consumo de electricidade aplicáveis aos televisores na Comunidade, contribuindo assim para o bom funcionamento do mercado interno e o melhoramento do desempenho ambiental destes produtos.\n\n(11) Os requisitos de concepção ecológica não devem ter impacto negativo na funcionalidade do produto, nem afectar negativamente a saúde, a segurança ou o ambiente. Em especial, os benefícios da redução do consumo de electricidade durante a fase de utilização devem compensar amplamente os potenciais impactos ambientais suplementares durante a fase de produção.\n\n(12) A introdução progressiva dos requisitos de concepção ecológica deve facultar um prazo adequado aos fabricantes para a adaptação dos seus produtos. O calendário deve ser estabelecido de molde a evitar os impactos negativos nas funcionalidades do equipamento que já se encontra no mercado, e a ter em conta as repercussões de custos para os fabricantes, nomeadamente as pequenas e médias empresas, assegurando simultaneamente a realização atempada dos objectivos do regulamento.\n\n(13) As medições dos parâmetros relevantes dos produtos devem ser efectuadas por um processo de medição fiável, preciso e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização enumerados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^4^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0004)).\n\n(14) O presente regulamento deve intensificar a penetração no mercado de tecnologias capazes de reduzir o impacto ambiental dos televisores, determinando poupanças anuais de electricidade estimadas em 28 TWh em 2020, a comparar com a situação na ausência de adopção de medidas.\n\n(15) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar os procedimentos de avaliação de conformidade aplicáveis.\n\n(16) A fim de facilitar as verificações da conformidade, os fabricantes deverão fornecer, no quadro da documentação técnica referida nos anexos IV e V da Directiva 2005/32/CE, toda a informação que esteja relacionada com os requisitos definidos no presente regulamento.\n\n(17) Os melhores índices actualmente disponíveis de eficiência energética no estado activo e de menor impacto ambiental relacionado com substâncias perigosas são definidos pela Decisão 2009/300/CE da Comissão, de 12 de Março de 2009, que estabelece os critérios ecológicos revistos para a concessão do rótulo ecológico comunitário a televisores ([^5^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0005)). Essa referência ajudará a assegurar ampla disponibilidade e acessibilidade de informação, sobretudo para as PME e para as microempresas, facilitando mais a integração das melhores tecnologias de concepção destinadas a reduzir o impacto ambiental dos televisores. Os parâmetros de referência para a melhor tecnologia disponível não devem, assim, ser definidos no presente regulamento.\n\n(18) Os requisitos de concepção ecológica aplicáveis a partir de 7 de Janeiro de 2013, nos termos do Regulamento (CE) n.º 1275/2008 da Comissão, de 17 de Dezembro de 2008, que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para o consumo de energia do equipamento eléctrico e electrónico doméstico e de escritório nos estados de vigília e de desactivação ([^6^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0006)), devem ser aplicáveis a televisores num momento anterior ao previsto no referido regulamento, porque as tecnologias que cumprem as suas disposições podem ser aplicadas num período mais curto no que se refere a televisores e é possível realizar poupanças suplementares de energia. O Regulamento (CE) n.º 1275/2008 não deve, pois, ser aplicável a televisores e deve ser alterado em conformidade.\n\n(19) As medidas previstas no presente regulamento estão conformes com o parecer do Comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b8aa19186293e3ab": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições estabelecidas na Directiva 2005/32/CE, são aplicáveis as seguintes definições:\n\n1. «televisor»: um receptor de televisão ou um monitor de televisão;\n\n2. «receptor de televisão»: um produto concebido essencialmente para a visualização e recepção de sinais audiovisuais, colocado no mercado com uma denominação de modelo ou sistema, e que consiste em a) um ecrã, b) um ou mais sintonizador(es)/receptor(es) e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa única unidade combinada com o ecrã, ou numa ou mais unidades separadas;\n\n3. «monitor de televisão»: um produto concebido para mostrar num ecrã integrado um sinal de vídeo proveniente de uma série de fontes, incluindo sinais de radiodifusão televisiva, que opcionalmente controla e reproduz sinais sonoros provenientes de um dispositivo externo, ligado por meio de circuitos de sinais de vídeo normalizados, incluindo Cinch (de componentes, compósito), SCART, HDMI e futuras normas sem fios (mas excluindo circuitos de sinais de vídeo não normalizados, como DVI e SDI), mas que não pode receber e processar sinais radiodifundidos;\n\n4. «estado activo»: o estado em que o televisor se encontra ligado à rede eléctrica e produz som e imagem;\n\n5. «estado doméstico»: a regulação do televisor recomendada pelo fabricante para a utilização doméstica normal;\n\n6. «estado de vigília»: o estado em que o equipamento está ligado à rede eléctrica, depende do fornecimento de energia por essa rede a fim de funcionar adequadamente e faculta *apenas* as seguintes funções, que podem persistir por tempo indeterminado: — função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa, e/ou — visualização de informações ou de estado;\n\n7. «estado de desactivação»: estado em que o equipamento se encontra ligado à rede eléctrica sem executar qualquer função; inclui igualmente: a) condições que fornecem apenas uma indicação de estado de desactivação, b) condições que fornecem apenas funções destinadas a assegurar a compatibilidade electromagnética na acepção da Directiva 2004/108/CE do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0007));\n\n8. «função de reactivação»: função que permite a activação de outros estados, incluindo o estado activo, por meio de um comutador remoto, que pode ser um telecomando, um sensor interno ou um temporizador que conduza à disponibilidade de funções adicionais, entre as quais o estado activo;\n\n9. «visualização de informações ou de estado»: função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios;\n\n10. «menu imposto»: um grupo de parâmetros do televisor pré-definidos pelo fabricante, de entre os quais o utilizador do televisor deve seleccionar uma regulação determinada assim que põe em funcionamento o televisor;\n\n11. «resolução full HD»: uma resolução de ecrã com contagem física dos pixéis de, no mínimo, 1 920 × 1 080 pixéis;\n\n12. «Rede»: infraestrutura de comunicação com uma topologia de ligações, uma arquitetura, incluindo os componentes físicos, princípios organizacionais, procedimentos de comunicação e formatos (protocolos);\n\n13. «Porto de rede»: interface física, com ou sem fios, da ligação a uma rede, localizada no televisor, através da qual este pode ser ativado à distância;\n\n14. «Televisor em rede»: televisor que pode ligar-se a uma rede e tem um ou mais portos de rede;\n\n15. «Disponibilidade de rede»: capacidade do televisor para retomar funções quando um acionamento à distância é detetado por um porto de rede;\n\n16. «Acionamento à distância»: sinal proveniente do exterior do televisor e encaminhado através de uma rede;\n\n17. «Estado de vigília em rede»: estado em que o televisor é capaz de retomar uma função por acionamento à distância mediante ligação a uma rede;\n\n18. «Televisor em rede com a funcionalidade de elevada disponibilidade de rede (televisor com a funcionalidade de HiNA)»: televisor que tem incluída a funcionalidade de roteador, comutador de rede, ponto de acesso sem fios à rede (não sendo um terminal) ou respetivas combinações;\n\n19. «Encaminhador ou roteador»: dispositivo de rede cuja função primária é determinar a rota ótima ao longo da qual o tráfego de rede deve ser encaminhado. Os roteadores encaminham pacotes de uma rede para outra, utilizando informação relativa à camada de rede (L3);\n\n20. «Comutador de rede»: dispositivo de rede cuja função primária é filtrar, encaminhar e distribuir quadros, com base no endereço de destino de cada quadro. Os comutadores operam pelo menos na camada de ligação de dados (L2);\n\n21. «Ponto de acesso sem fios à rede»: dispositivo cuja função primária é proporcionar conectividade IEEE 802.11 (Wi-Fi) a múltiplos clientes."
+  },
+  "f3d77aaa82e46ada": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. Os requisitos de concepção ecológica estabelecidos nas partes 1, 3 e 4, secção 1, e na parte 5, secção 2, do anexo I são aplicáveis a partir de 20 de Agosto de 2010.\n\nOs requisitos de concepção ecológica estabelecidos na parte 1, secção 2, do anexo I são aplicáveis a partir de 1 de Abril de 2012.\n\nOs requisitos de concepção ecológica estabelecidos na parte 2, secção 1, alíneas a) a d), do anexo I são aplicáveis a partir de 7 de Janeiro de 2010.\n\nOs requisitos de concepção ecológica estabelecidos na parte 2, secção 2, alíneas a) a e), do anexo I são aplicáveis a partir de 20 de Agosto de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "2cf57eb1f6b89bb5": {
+   "fragment_id": "REQUISITOS DE CONCEPÇÃO ECOLÓGICA",
+   "type": "divisao",
+   "heading": "REQUISITOS DE CONCEPÇÃO ECOLÓGICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE CONCEPÇÃO ECOLÓGICA"
+  },
+  "fa072aa76091a0cd": {
+   "fragment_id": "1. CONSUMO DE ENERGIA EM ESTADO ACTIVO",
+   "type": "divisao",
+   "heading": "1. CONSUMO DE ENERGIA EM ESTADO ACTIVO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. CONSUMO DE ENERGIA EM ESTADO ACTIVO\n\n1. A partir de 20 de Agosto de 2010:\n\n|  | Resolução *full HD* | Todas as outras resoluções |\n| --- | --- | --- |\n| Receptores de televisão | 20 W + A · 1,12 · 4,3224 W/dm^2^ | 20 W + A · 4,3224 W/dm^2^ |\n| Monitores de televisão | 15 W + A · 1,12 · 4,3224 W/dm^2^ | 15 W + A · 4,3224 W/dm^2^ |\n\n2. A partir de 1 de Abril de 2012:\n\nTodas as resoluções\n\nReceptores de televisão 16 W + A · 3,4579 W/dm^2^\n\nMonitores de televisão 12 W + A · 3,4579 W/dm^2^"
+  },
+  "40d098b6c6af38f2": {
+   "fragment_id": "2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO",
+   "type": "divisao",
+   "heading": "2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO\n\n1. A partir de 7 de Janeiro de 2010:\n\na) Consumo energético em «estado de desactivação»:\n\nb) Consumo energético em «estado(s) de vigília»:\n\nc) Disponibilidade dos estados de desactivação e/ou de vigília\n\nd) Para os aparelhos de televisão que consistem em um ecrã, e um ou mais sintonizadores/receptores e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa ou mais unidades separadas, as alíneas a) a c) são aplicáveis ao ecrã e à(s) unidade(s) separada(s), individualmente.\n\n2. A partir de 20 de Agosto de 2011:\n\na) Consumo energético em «estado de desactivação»:\n\nb) Consumo energético em «estado(s) de vigília»:\n\nc) Disponibilidade dos estados de desactivação e/ou de vigília\n\nd) Desligamento automático\n\ni) Ao cabo de, no máximo, 4 horas em estado activo após a última interacção com o utilizador e/ou mudança de canal, o televisor passará automaticamente do estado activo para:\n\n— o estado de vigília; ou\n\n— o estado de desactivação; ou\n\n— outro estado cujo consumo não exceda o estabelecido nos requisitos de consumo energético aplicáveis ao estado de desactivação e/ou de vigília;\n\nii) Os televisores devem mostrar uma mensagem de alerta antes da passagem automática do estado activo para os estados aplicáveis.\n\ne) Para os aparelhos de televisão que consistem em um ecrã, e um ou mais sintonizadores/receptores e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa unidade separada, as alíneas a) a d) são aplicáveis ao ecrã e à unidade separada, individualmente."
+  },
+  "85ee74a57766a0ab": {
+   "fragment_id": "3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE",
+   "type": "divisao",
+   "heading": "3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE\n\nEm relação aos televisores em rede, aplicam-se os seguintes requisitos:\n\n1. A partir de 1 de janeiro de 2015:\n\na) Possibilidade de desativar as ligações à rede sem fios:\n\nb) Gestão da energia nos televisores em rede:\n\nAo cabo de, no máximo, 4 horas em estado ativo após a última interação com o utilizador e/ou mudança de canal, o televisor passará automaticamente do estado ativo para um estado de vigília em rede ou outro estado cujo consumo não exceda o previsto nos requisitos de consumo energético aplicáveis aos estados que permitem a vigília em rede.\n\nOs televisores devem mostrar uma mensagem de alerta antes da passagem automática do estado ativo para os estados aplicáveis. Essa função deve ser pré-ativada pelo fabricante.\n\nNum estado que permite a vigília em rede, a função de gestão da energia pode comutar automaticamente o televisor para o estado de vigília, o estado de desativação ou outro estado que não exceda os requisitos de consumo energético aplicáveis aos estados de desativação e/ou de vigília.\n\nTodos os portos de rede dos televisores em rede devem dispor da função de gestão da energia (ou função similar).\n\nA função de gestão da energia (ou similar) deve ser ativada, a menos que todos os portos de rede sem fios estejam desativados. Neste caso, a função de gestão da energia (ou similar) deve ser ativada se qualquer um dos portos de rede for ativado.\n\nc) Os televisores em rede que disponham de um ou mais estados de vigília devem cumprir os requisitos aplicáveis a esses estados de vigília quando todos os portos de rede sem fios estão desativados.\n\nd) Consumo de energia num estado que permite a vigília em rede:\n\nO consumo de energia de um televisor com a funcionalidade HiNA, num estado que permite a vigília em rede para o qual o televisor é comutado por meio da função de gestão da energia (ou similar), não pode ser superior a 12,00 W.\n\nO consumo de energia de um televisor sem a funcionalidade HiNA, num estado que permite a vigília em rede para o qual o televisor é comutado por meio da função de gestão da energia (ou similar), não pode ser superior a 6,00 W.\n\n2. A partir de 1 de janeiro de 2017:\n\na) Os televisores em rede que disponham de um ou mais estados de vigília devem cumprir os requisitos aplicáveis a esses estados de vigília quando todos os portos de rede com fios estão desligados e quando todos os portos de rede sem fios estão desativados.\n\nb) Os televisores em rede devem cumprir o disposto no ponto 2.2.d) quando todos os portos de rede com fios estão desligados e quando todos os portos de rede sem fios estão desativados.\n\nc) Consumo de energia num estado que permite a vigília em rede:\n\nO consumo de energia de um televisor com a funcionalidade HiNA, num estado que permite a vigília em rede para o qual o televisor é comutado por meio da função de gestão da energia (ou similar), não pode ser superior a 8,00 W.\n\nO consumo de energia de um televisor sem a funcionalidade HiNA, num estado que permite a vigília em rede para o qual o televisor é comutado por meio da função de gestão da energia (ou similar), não pode ser superior a 3,00 W.\n\n3. A partir de 1 de janeiro de 2019:"
+  },
+  "3169dae94c56d163": {
+   "fragment_id": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO FORNECIDOS COM UM MENU IMPOSTO",
+   "type": "divisao",
+   "heading": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO FORNECIDOS COM UM MENU IMPOSTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO FORNECIDOS COM UM MENU IMPOSTO\n\nA partir de 20 de Agosto de 2010:\n\nOs televisores com menu imposto na activação inicial do televisor fornecerão um «estado doméstico» nesse menu imposto, que é a opção pré-activada da fábrica na activação inicial do televisor. Se o utilizador seleccionar um estado diferente do «estado doméstico» na activação inicial do televisor, será lançado um segundo processo de selecção concebido para confirmar essa opção."
+  },
+  "b80c9615f4a87f9e": {
+   "fragment_id": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO",
+   "type": "divisao",
+   "heading": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO\n\nA partir de 20 de Agosto de 2010:\n\n— Nos televisores sem menu imposto: a luminância de pico do estado activo do televisor como fornecido pelo fabricante não pode ser inferior a 65 % da luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo.\n\n— Nos televisores com menu imposto: a luminância de pico do estado doméstico não deve ser inferior a 65 % da luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo."
+  },
+  "a438bc7dd45a2abb": {
+   "fragment_id": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES",
+   "type": "divisao",
+   "heading": "[►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES\n\n1. Para efeitos de avaliação da conformidade, nos termos do artigo 5.º, a documentação técnica conterá os seguintes elementos:\n\na) Parâmetros de ensaio para as medições:\n\n— Temperatura ambiente,\n\n— Tensão de ensaio em V e frequência em Hz,\n\n— Distorção harmónica total do sistema de alimentação eléctrica,\n\n— Terminal de entrada para os sinais de ensaio áudio e vídeo,\n\n— Informação e documentação sobre os instrumentos, a instalação e os circuitos utilizados nos ensaios eléctricos;\n\nb) Estado activo\n\n— os dados em matéria de consumo energético em watts, arredondados à primeira casa decimal para medições de energia até 100 watts, e ao primeiro inteiro para medições de potência superiores a 100 watts,\n\n— as características do sinal vídeo de conteúdos radiodifundidos dinâmicos, que represente os conteúdos típicos de radiodifusão televisiva,\n\n— a sequência de etapas para obter um estado estável no que respeita ao consumo energético,\n\n— além disso, em relação a televisores com um menu imposto, a razão entre a luminância de pico do estado doméstico e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo, expressa em percentagem,\n\n— além disso, em relação a monitores de televisão, uma descrição das características relevantes do sintonizador utilizado para as medições;\n\nc) Em relação a cada estado de vigília e/ou de desactivação\n\n— valores do consumo energético em watts, arredondados à segunda casa decimal,\n\n— o método de medição utilizado,\n\n— descrição do modo como o estado foi seleccionado ou programado,\n\n— sequência de eventos para chegar ao estado em que o televisor muda automaticamente de estado;\n\nd) Desligamento automático\n\ne) Em relação ao estado de vigília em rede:\n\n— o número e o tipo de portos de rede e, com exceção dos portos sem fios, a sua localização no televisor; deve, nomeadamente, notar-se se um mesmo porto físico acomoda dois ou mais tipos de portos de rede;\n\n— indicação de todos os portos de rede estarem ou não desativados antes da entrega;\n\n— indicação de o televisor poder ou não ser considerado televisor com a funcionalidade HiNA; na ausência de informações, considera-se que o televisor não é equipamento HiNA nem televisor com a funcionalidade HiNA;\n\nf) Em relação a cada tipo de porto de rede:\n\n— o tempo predefinido ao fim do qual a função de gestão da energia (ou similar) comuta o televisor para um estado que permite a vigília em rede,\n\n— o dispositivo de acionamento utilizado para reativar o equipamento,\n\n— as especificações (máximas) de funcionamento,\n\n— o consumo energético (máximo) do televisor num estado que permite a vigília em rede para o qual a função de gestão da energia (ou similar) o comutará, se apenas o porto em causa for utilizado para ativação à distância.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32013R0801) (g)**◄** Substâncias perigosas\n\n2. A partir de 20 de Agosto de 2010:\n\n— os dados em matéria de consumo energético no estado activo em watts, arredondados à primeira casa decimal para medições de potência até 100 watts, e ao primeiro inteiro para medições de potência superiores a 100 watts,\n\n— em relação a cada estado de vigília e/ou de desativação e ao estado que permite a vigília em rede, os dados de consumo energético em watts, arredondados às centésimas,\n\n— nos televisores sem menu imposto: a razão entre a luminância de pico do estado activo do televisor como fornecido pelo fabricante e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo, expressa em percentagem, arredondada à unidade,\n\n— nos televisores com menu imposto: a razão entre a luminância de pico do estado doméstico e a luminância de pico produzida com o nível máximo de brilho pelo televisor no estado activo, expressa em percentagem, arredondada à unidade,\n\n— no caso de o televisor conter mercúrio ou chumbo: o teor de mercúrio em X,X mg e a presença de chumbo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "0f2eb30b0189d23d": {
+   "fragment_id": "MEDIÇÕES",
+   "type": "divisao",
+   "heading": "MEDIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIÇÕES"
+  },
+  "f59c5dc6402d7407": {
+   "fragment_id": "1. Medições de consumo energético em estado activo",
+   "type": "divisao",
+   "heading": "1. Medições de consumo energético em estado activo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Medições de consumo energético em estado activo\n\nAs medições de consumo energético referidas na parte 1 do anexo I devem cumprir a totalidade das seguintes condições.\n\na) As medições serão efectuadas por meio de um processo de medição fiável, preciso e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados;\n\nb) Estados dos televisores para efeitos da medição do consumo energético em estado activo:\n\n— televisores sem menu imposto: o consumo energético referido nas secções 1 e 2 será medido no estado activo do televisor como fornecido pelo fabricante, isto é, os comandos de brilho do monitor de televisão estarão na posição ajustada pelo fabricante para o utilizador final,\n\n— televisores com menu imposto: o consumo energético referido nas secções 1 e 2 será medido no estado doméstico,\n\n— monitores de televisão sem menu imposto: o monitor de televisão será ligado a um sintonizador adequado. O consumo energético referido nas secções 1 e 2 será medido no estado activo do televisor como fornecido pelo fabricante, isto é, os comandos de brilho do monitor de televisão estarão na posição ajustada pelo fabricante para o utilizador final. O consumo energético do sintonizador não é relevante para as medições de consumo energético do monitor de televisão no estado activo,\n\n— Monitores de televisão com menu imposto: o monitor de televisão será ligado a um sintonizador adequado. O consumo energético referido nas secções 1 e 2 será medido no estado doméstico;\n\nc) Condições gerais\n\n— as medições serão efectuadas a uma temperatura ambiente de 23 °C ± 5 °C,\n\n— as medições serão efectuadas por meio de um sinal vídeo de conteúdos radiodifundidos dinâmicos, que represente os conteúdos típicos de radiodifusão televisiva. A medição é a potência média absorvida em 10 minutos consecutivos,\n\n— as medições serão feitas depois de o televisor ter estado em estado de desactivação durante, no mínimo, uma hora, seguida de, no mínimo, uma hora em estado activo e serão completadas antes de ter estado, no máximo, três horas em estado activo. O sinal vídeo pertinente será visualizado em toda a duração do estado activo. Para os televisores que se saiba ficarem estáveis num período inferior a uma hora, os referidos períodos podem ser reduzidos, no caso de se verificar que as medições resultantes não variam mais de 2 % em relação aos resultados a que se chegaria de outra forma, utilizando os períodos descritos acima,\n\n— nas medições efectuadas é admissível um grau de incerteza igual ou inferior a 2 % com um nível de confiança de 95 %,\n\n— as medições serão efectuadas com a função de controlo automático do brilho, caso esta função exista, desactivada. Se a função de controlo automático do brilho existir e não puder ser desactivada, as medições devem ser efectuadas com uma entrada directa de luz no sensor de luz ambiente a um nível igual ou superior a 300 lux."
+  },
+  "88851f78df0de2c6": {
+   "fragment_id": "2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede",
+   "type": "divisao",
+   "heading": "2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede\n\nAs medições de consumo energético referidas nas partes 2 e 3 do anexo I devem cumprir a totalidade das seguintes condições:\n\nO consumo energético referido nos pontos 2.1.a), 2.1.b), 2.2.a), 2.2.b), 3.1.d) e 3.2.c) deve ser determinado por um processo de medição fiável, exato e reprodutível que tenha em conta as tecnologias geralmente reconhecidas como as mais avançadas."
+  },
+  "60c11388541f83ef": {
+   "fragment_id": "3. Medições da luminância de pico",
+   "type": "divisao",
+   "heading": "3. Medições da luminância de pico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Medições da luminância de pico\n\nAs medições da luminância de pico referidas na parte 4 do anexo I devem cumprir a totalidade das seguintes condições:\n\na) As medições serão efectuadas por meio de um processo de medição fiável, preciso e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados;\n\nb) As medições da luminância de pico serão efectuadas com um medidor de luminância orientado para a porção de ecrã que exibe uma imagem inteiramente (100 %) branca, que faz parte de uma imagem-padrão de «teste de ecrã total» que não ultrapasse o ponto do nível médio da imagem, no qual se produz uma limitação da potência no sistema de accionamento da luminância do ecrã;\n\nc) As medições da taxa de luminância serão efectuadas sem perturbar o ponto de detecção do medidor de luminância no ecrã quando se comuta entre os estados referidos na parte 4 do anexo 1."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "542c1e042af3095d": {
+   "fragment_id": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO DE VERIFICAÇÃO"
+  },
+  "c82b17fbc7d3ab67": {
+   "fragment_id": "A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5",
+   "type": "divisao",
+   "heading": "A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5\n\n1. Ao executar as atividades de fiscalização do mercado referidas no artigo 3.º, n.º 2, da Diretiva 2009/125/CE do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#E0008)), as autoridades dos Estados-Membros devem aplicar o seguinte procedimento de verificação dos requisitos previstos no anexo I, pontos 1, 2, 4 e 5:\n\na) O resultado relativo ao consumo energético em estado ativo não exceder em mais de 7 % o valor-limite aplicável previsto no anexo I, pontos 1.1 e 1.2; e\n\nb) Os resultados relativos aos estados de desativação/de vigília, consoante o caso, não excederem em mais de 0,10 W os valores-limite aplicáveis previstos no anexo I, pontos 2.1.a), 2.1.b), 2.2.a) e 2.2.b); e\n\nc) O resultado para a taxa de luminância de pico prevista no anexo I, ponto 5, não for inferior a 60 %.\n\n2. Depois de terem sido ensaiadas três unidades adicionais do mesmo modelo, considera-se que o modelo cumpre os requisitos previstos no anexo I se:\n\na) A média dos resultados relativos ao consumo energético em estado ativo das três unidades supracitadas não exceder em mais de 7 % o valor-limite aplicável previsto no anexo I, pontos 1.1 e 1.2; e\n\nb) A média dos resultados relativos aos estados de desativação/de vigília, consoante o caso, das três unidades supracitadas não exceder em mais de 0,10 watts os valores-limite aplicáveis previstos no anexo I, pontos 2.1.a), 2.1.b), 2.2.a) e 2.2.b); e\n\nc) A média dos resultados relativos às últimas três unidades para a taxa de luminância de pico prevista na parte 5 do anexo I não for inferior a 60 %."
+  },
+  "fed8cdd5192eff66": {
+   "fragment_id": "B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+   "type": "divisao",
+   "heading": "B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3\n\nAo executar as atividades de fiscalização do mercado referidas no artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem aplicar o seguinte procedimento de verificação dos requisitos previstos no anexo I, pontos 3.1.d) ou 3.2.c), consoante o caso. Devem utilizar o procedimento aplicável a seguir indicado, depois de todos os portos de rede do aparelho terem sido desativados e/ou desligados, consoante o caso.\n\nAs autoridades dos Estados-Membros devem submeter a ensaio um único aparelho, do seguinte modo:\n\nSe, conforme indicado na documentação técnica, o televisor tiver um único tipo de porto de rede e se dois ou mais portos desse tipo estiverem disponíveis, um deles é escolhido aleatoriamente e ligado à rede que cumpra a especificação máxima do porto. Na eventualidade de múltiplos portos de rede sem fios, do mesmo tipo, os outros portos sem fios devem ser, se possível, desativados. Na eventualidade de múltiplos portos de rede com fios, do mesmo tipo, para verificar os requisitos estabelecidos no anexo I, ponto 2, os outros portos de rede devem ser, se possível, desativados. Se só um porto de rede estiver disponível, deve ser ligado à rede que cumpra a sua especificação máxima.\n\nO aparelho é colocado no estado ativo. Logo que esteja a funcionar adequadamente, faz-se passar ao estado que permite a vigília em rede e mede-se o consumo de energia. O televisor é então acionado através do porto de rede e verifica-se se está reativado.\n\nSe, conforme indicado na documentação técnica, o televisor tiver mais de um tipo de porto de rede, repete-se o seguinte procedimento para cada tipo: se estiverem disponíveis dois ou mais portos do mesmo tipo, escolhe-se aleatoriamente um porto por cada tipo e liga-se esse porto à rede que cumpra a sua especificação máxima.\n\nSe só estiver disponível um porto de cada tipo, esse porto é ligado à rede que cumpra a sua especificação máxima. Os portos sem fios não utilizados devem ser, se possível, desativados. Caso se verifiquem os requisitos estabelecidos no anexo II, ponto 3, os portos de rede com fios não utilizados devem ser, se possível, desativados.\n\nO aparelho é colocado no estado ativo. Logo que esteja a funcionar adequadamente, faz-se passar ao estado que permite a vigília em rede e mede-se o consumo de energia. O televisor é então acionado através do porto de rede e verifica-se se está reativado.\n\nSe um porto de rede físico for partilhado por dois ou mais tipos de portos de rede (lógicos), repete-se este procedimento para cada tipo de porto de rede lógico, desligando-se (em termos lógicos) os outros portos de rede lógicos.\n\nConsidera-se que o modelo cumpre o presente regulamento se os resultados para cada tipo de porto de rede não excederem o valor-limite em mais de 7 %.\n\nSe não for o caso, devem submeter-se a ensaio mais três aparelhos. Considera-se que o modelo cumpre o presente regulamento se a média dos resultados destes três ensaios para cada tipo de porto de rede não exceder o valor-limite em mais de 7 %.\n\nCaso contrário, considera-se que o modelo em causa não cumpre os requisitos.\n\nAs autoridades do Estado-Membro devem comunicar os resultados dos ensaios e outras informações pertinentes às autoridades dos restantes Estados-Membros e à Comissão, no prazo de um mês após ter sido tomada a decisão sobre a não-conformidade do modelo."
+  },
+  "b71fb892e9509ff2": {
+   "fragment_id": "C. Controlo de conformidade",
+   "type": "divisao",
+   "heading": "C. Controlo de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Controlo de conformidade\n\nPara efeitos da verificação de conformidade com os requisitos, as autoridades dos Estados-Membros devem utilizar o procedimento previsto no anexo II e processos de medição fiáveis, exatos e reprodutíveis que tenham em conta os métodos de medição geralmente reconhecidos como os mais avançados, incluindo os métodos fixados em documentos cujos números de referência tenham sido publicados para esse efeito no *Jornal Oficial da União Europeia*."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "6ae6c740b41c6ec7": {
+   "fragment_id": "Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008",
+   "type": "divisao",
+   "heading": "Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008\n\nReceptores de rádio\n\nCâmaras de vídeo\n\nGravadores de vídeo\n\nGravadores de alta fidelidade\n\nAmplificadores áudio\n\nSistemas de cinema-em-casa\n\nInstrumentos musicais\n\nE outro equipamento para gravar ou reproduzir som ou imagem, incluindo sinais, ou outras tecnologias de distribuição do som e da imagem por outra via que não as telecomunicações, mas excluindo os televisores, como definido no Regulamento (CE) n.º 642/2009 da Comissão.\n\n---"
+  },
+  "a927a761c446e582": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0001)) JO L 191 de 22.7.2005, p. 29.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0002)) JO L 37 de 13.2.2003, p. 19.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0003)) JO L 37 de 13.2.2003, p. 24.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0004)) JO L 204 de 21.7.1998, p. 37.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0005)) JO L 82 de 28.3.2009, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0006)) JO L 339 de 18.12.2008, p. 45.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0007)) JO L 390 de 31.12.2004, p. 24.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/0ece021b-71f4-48ae-a5e6-6e886108ff58.0019.03/DOC_1#src.E0008)) JO L 285 de 31.10.2009, p. 10."
+  },
+  "bd8b85a38a75f6ad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho relativa aos requisitos de concepção ecológica no que respeita aos televisores\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "2fe7939c91109ae8": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições estabelecidas na Directiva 2005/32/CE, são aplicáveis as seguintes definições:\n\n1. «televisor»: um receptor de televisão ou um monitor de televisão;\n\n2. «receptor de televisão»: um produto concebido essencialmente para a visualização e recepção de sinais audiovisuais, colocado no mercado com uma denominação de modelo ou sistema, e que consiste em a) um ecrã, b) um ou mais sintonizador(es)/receptor(es) e funções adicionais opcionais para armazenamento e/ou visualização de dados, tais como disco versátil digital (DVD), disco rígido (HDD) ou magnetoscópio (VCR), numa única unidade combinada com o ecrã, ou numa ou mais unidades separadas;\n\n3. «monitor de televisão»: um produto concebido para mostrar num ecrã integrado um sinal de vídeo proveniente de uma série de fontes, incluindo sinais de radiodifusão televisiva, que opcionalmente controla e reproduz sinais sonoros provenientes de um dispositivo externo, ligado por meio de circuitos de sinais de vídeo normalizados, incluindo Cinch (de componentes, compósito), SCART, HDMI e futuras normas sem fios (mas excluindo circuitos de sinais de vídeo não normalizados, como DVI e SDI), mas que não pode receber e processar sinais radiodifundidos;\n\n4. «estado activo»: o estado em que o televisor se encontra ligado à rede eléctrica e produz som e imagem;\n\n5. «estado doméstico»: a regulação do televisor recomendada pelo fabricante para a utilização doméstica normal;\n\n6. «estado de vigília»: o estado em que o equipamento está ligado à rede eléctrica, depende do fornecimento de energia por essa rede a fim de funcionar adequadamente e faculta *apenas* as seguintes funções, que podem persistir por tempo indeterminado: — função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa, e/ou — visualização de informações ou de estado;\n\n7. «estado de desactivação»: estado em que o equipamento se encontra ligado à rede eléctrica sem executar qualquer função; inclui igualmente: a) condições que fornecem apenas uma indicação de estado de desactivação, b) condições que fornecem apenas funções destinadas a assegurar a compatibilidade electromagnética na acepção da Directiva 2004/108/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/7fee27ca-b033-4274-8282-a29eb30082ad.0015.02/DOC_1#E0001));\n\n8. «função de reactivação»: função que permite a activação de outros estados, incluindo o estado activo, por meio de um comutador remoto, que pode ser um telecomando, um sensor interno ou um temporizador que conduza à disponibilidade de funções adicionais, entre as quais o estado activo;\n\n9. «visualização de informações ou de estado»: função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios;\n\n10. «menu imposto»: um grupo de parâmetros do televisor pré-definidos pelo fabricante, de entre os quais o utilizador do televisor deve seleccionar uma regulação determinada assim que põe em funcionamento o televisor;\n\n11. «resolução full HD»: uma resolução de ecrã com contagem física dos pixéis de, no mínimo, 1 920 × 1 080 pixéis;\n\n12. «Rede»: infraestrutura de comunicação com uma topologia de ligações, uma arquitetura, incluindo os componentes físicos, princípios organizacionais, procedimentos de comunicação e formatos (protocolos);\n\n13. «Porto de rede»: interface física, com ou sem fios, da ligação a uma rede, localizada no televisor, através da qual este pode ser ativado à distância;\n\n14. «Televisor em rede»: televisor que pode ligar-se a uma rede e tem um ou mais portos de rede;\n\n15. «Disponibilidade de rede»: capacidade do televisor para retomar funções quando um acionamento à distância é detetado por um porto de rede;\n\n16. «Acionamento à distância»: sinal proveniente do exterior do televisor e encaminhado através de uma rede;\n\n17. «Estado de vigília em rede»: estado em que o televisor é capaz de retomar uma função por acionamento à distância mediante ligação a uma rede;\n\n18. «Televisor em rede com a funcionalidade de elevada disponibilidade de rede (televisor com a funcionalidade de HiNA)»: televisor que tem incluída a funcionalidade de roteador, comutador de rede, ponto de acesso sem fios à rede (não sendo um terminal) ou respetivas combinações;\n\n19. «Encaminhador ou roteador»: dispositivo de rede cuja função primária é determinar a rota ótima ao longo da qual o tráfego de rede deve ser encaminhado. Os roteadores encaminham pacotes de uma rede para outra, utilizando informação relativa à camada de rede (L3);\n\n20. «Comutador de rede»: dispositivo de rede cuja função primária é filtrar, encaminhar e distribuir quadros, com base no endereço de destino de cada quadro. Os comutadores operam pelo menos na camada de ligação de dados (L2);\n\n21. «Ponto de acesso sem fios à rede»: dispositivo cuja função primária é proporcionar conectividade IEEE 802.11 (Wi-Fi) a múltiplos clientes."
+  },
+  "6b0f695cc415fb74": {
+   "fragment_id": "1. Medições de consumo energético em estado activo",
+   "type": "divisao",
+   "heading": "1. Medições de consumo energético em estado activo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Medições de consumo energético em estado activo\n\nAs medições de consumo energético referidas na parte 1 do anexo I devem cumprir a totalidade das seguintes condições.\n\na) As medições serão efectuadas por meio de um processo de medição fiável, preciso e reprodutível, que tenha em conta os métodos de medição geralmente reconhecidos como os mais avançados;\n\nb) Estados dos televisores para efeitos da medição do consumo energético em estado activo:\n\n— televisores sem menu imposto: o consumo energético referido nas secções 1 e 2 será medido no estado activo do televisor como fornecido pelo fabricante, isto é, os comandos de brilho do monitor de televisão estarão na posição ajustada pelo fabricante para o utilizador final,\n\n— televisores com menu imposto: o consumo energético referido nas secções 1 e 2 será medido no estado doméstico,\n\n— monitores de televisão sem menu imposto: o monitor de televisão será ligado a um sintonizador adequado. O consumo energético referido nas secções 1 e 2 será medido no estado activo do televisor como fornecido pelo fabricante, isto é, os comandos de brilho do monitor de televisão estarão na posição ajustada pelo fabricante para o utilizador final. O consumo energético do sintonizador não é relevante para as medições de consumo energético do monitor de televisão no estado activo,\n\n— Monitores de televisão com menu imposto: o monitor de televisão será ligado a um sintonizador adequado. O consumo energético referido nas secções 1 e 2 será medido no estado doméstico;\n\nc) Condições gerais\n\n— as medições serão efectuadas a uma temperatura ambiente de 23 °C ± 5 °C,\n\n— as medições serão efectuadas por meio de um sinal vídeo de conteúdos radiodifundidos dinâmicos, que represente os conteúdos típicos de radiodifusão televisiva. A medição é a potência média absorvida em 10 minutos consecutivos,\n\n— as medições serão feitas depois de o televisor ter estado em estado de desactivação durante, no mínimo, uma hora, seguida de, no mínimo, uma hora em estado activo e serão completadas antes de ter estado, no máximo, três horas em estado activo. O sinal vídeo pertinente será visualizado em toda a duração do estado activo. Para os televisores que se saiba ficarem estáveis num período inferior a uma hora, os referidos períodos podem ser reduzidos, no caso de se verificar que as medições resultantes não variam mais de 2 % em relação aos resultados a que se chegaria de outra forma, utilizando os períodos descritos acima,\n\n— as medições serão efectuadas com a função de controlo automático do brilho, caso esta função exista, desactivada. Se a função de controlo automático do brilho existir e não puder ser desactivada, as medições devem ser efectuadas com uma entrada directa de luz no sensor de luz ambiente a um nível igual ou superior a 300 lux."
+  },
+  "8294058d8344677f": {
+   "fragment_id": "VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO",
+   "type": "divisao",
+   "heading": "VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO"
+  },
+  "32a9732ad02c96dd": {
+   "fragment_id": "A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.",
+   "type": "divisao",
+   "heading": "A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento, em aplicação do artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o procedimento a seguir indicado. Devem seguir as etapas estabelecidas no ponto 2, alíneas a) e b), e no ponto 3 também durante o procedimento de verificação definido na parte B do presente anexo.\n\n1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do anexo IV, ponto 2, da Diretiva 2009/125/CE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fabricante ou importador do que os resultados das medições correspondentes efetuadas em conformidade com a alínea g) daquela disposição; e\n\nb) Os valores declarados cumprirem os requisitos estabelecidos no presente regulamento, e a informação necessária relativa aos produtos publicada pelo fabricante ou importador não apresentar valores mais favoráveis para o fabricante ou importador do que os valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação constantes do quadro 1.\n\n3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo não está conforme com o presente regulamento.\n\n4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo.\n\n5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias de verificação constantes do quadro 1.\n\n6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo não está conforme com os requisitos do presente regulamento.\n\n7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem utilizar os métodos de cálculo estabelecidos no anexo I e as condições de medição estabelecidas no anexo II.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nParâmetros Tolerâncias de verificação\n\nConsumo de energia em estado ativo, constante do anexo 1, parte 1, pontos 1 e 2 O valor determinado não pode ser superior ao valor declarado em mais de 7 %.\n\nCondições em modo de desativação/de vigília, conforme o caso, indicadas no anexo I, parte 2, ponto 1, alíneas a) e b), e ponto 2, alíneas a) e b) O valor determinado não pode ser superior ao valor declarado em mais de 0,10 W.\n\nTaxa de luminância de pico indicada no anexo I, parte 5 O valor determinado não pode ser inferior a 60 % da luminância de pico produzida pelo televisor, no estado ativo, com o nível máximo de brilho."
+  },
+  "8c12a946e51e61c6": {
+   "fragment_id": "B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+   "type": "divisao",
+   "heading": "B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3\n\nAo executar as atividades de fiscalização do mercado referidas no artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem aplicar o seguinte procedimento de verificação dos requisitos previstos no anexo I, pontos 3.1.d) ou 3.2.c), consoante o caso. Devem utilizar o procedimento aplicável a seguir indicado, depois de todos os portos de rede do aparelho terem sido desativados e/ou desligados, consoante o caso.\n\nAs autoridades dos Estados-Membros devem submeter a ensaio um único aparelho, do seguinte modo:\n\nSe, conforme indicado na documentação técnica, o televisor tiver um único tipo de porto de rede e se dois ou mais portos desse tipo estiverem disponíveis, um deles é escolhido aleatoriamente e ligado à rede que cumpra a especificação máxima do porto. Na eventualidade de múltiplos portos de rede sem fios, do mesmo tipo, os outros portos sem fios devem ser, se possível, desativados. Na eventualidade de múltiplos portos de rede com fios, do mesmo tipo, para verificar os requisitos estabelecidos no anexo I, ponto 2, os outros portos de rede devem ser, se possível, desativados. Se só um porto de rede estiver disponível, deve ser ligado à rede que cumpra a sua especificação máxima.\n\nO aparelho é colocado no estado ativo. Logo que esteja a funcionar adequadamente, faz-se passar ao estado que permite a vigília em rede e mede-se o consumo de energia. O televisor é então acionado através do porto de rede e verifica-se se está reativado.\n\nSe, conforme indicado na documentação técnica, o televisor tiver mais de um tipo de porto de rede, repete-se o seguinte procedimento para cada tipo: se estiverem disponíveis dois ou mais portos do mesmo tipo, escolhe-se aleatoriamente um porto por cada tipo e liga-se esse porto à rede que cumpra a sua especificação máxima.\n\nSe só estiver disponível um porto de cada tipo, esse porto é ligado à rede que cumpra a sua especificação máxima. Os portos sem fios não utilizados devem ser, se possível, desativados. Caso se verifiquem os requisitos estabelecidos no anexo II, ponto 3, os portos de rede com fios não utilizados devem ser, se possível, desativados.\n\nO aparelho é colocado no estado ativo. Logo que esteja a funcionar adequadamente, faz-se passar ao estado que permite a vigília em rede e mede-se o consumo de energia. O televisor é então acionado através do porto de rede e verifica-se se está reativado.\n\nSe um porto de rede físico for partilhado por dois ou mais tipos de portos de rede (lógicos), repete-se este procedimento para cada tipo de porto de rede lógico, desligando-se (em termos lógicos) os outros portos de rede lógicos.\n\nConsidera-se que o modelo cumpre o presente regulamento se os resultados para cada tipo de porto de rede não forem superiores ao valor declarado em mais de 7 %.\n\nSe não for o caso, devem submeter-se a ensaio mais três unidades. Considera-se que o modelo cumpre o presente regulamento se a média aritmética dos valores determinados não for superior ao valor declarado em mais de 7 %.\n\nCaso contrário, considera-se que o modelo em causa não cumpre os requisitos.\n\nAs autoridades dos Estados-Membros devem, sem demora, comunicar os resultados dos ensaios e outras informações relevantes às autoridades dos restantes Estados-Membros e à Comissão após ter sido tomada a decisão de não conformidade do modelo."
+  },
+  "74c6afd9504bd3c6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7fee27ca-b033-4274-8282-a29eb30082ad.0015.02/DOC_1#src.E0001)) JO L 390 de 31.12.2004, p. 24."
+  },
+  "0ab16e2141836582": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0642 — PT — 01.03.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0642) [REGULAMENTO (CE) N.º 642/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0642) [de 22 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0642) [que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho relativa aos requisitos de concepção ecológica no que respeita aos televisores](http://publications.europa.eu/resource/celex/32009R0642) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0642) (JO L 191, 23.7.2009, p.42)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/2021 da Comissão de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2021) — L 315 — 241 — 5.12.2019"
+  }
+ }
+}

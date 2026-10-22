@@ -37,6 +37,100 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-02-21'
+version_history:
+  file: regulamento-ue-2009-1071.versoes.json
+  count: 4
+  source_lastmod: '2022-02-21'
+  versions:
+  - date: '2009-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-07-11'
+    amending: eu:celex:32012R0613:por
+    amending_title: REGULAMENTO (UE) N. o 613/2012 DA COMISSÃO de 9 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Condições relativas ao requisito de idoneidade
+    - Altera Artigo 7.º — Condições relativas ao requisito de capacidade financeira
+    - Altera Artigo 12.º — Controlos
+    - Altera Artigo 25.º — Procedimento de comité
+    - Altera Artigo 26.º — Relatórios
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita I. LISTA DAS MATÉRIAS REFERIDAS NO ARTIGO 8.º
+    - Adita A. Direito civil
+    - Adita B. Direito comercial
+    - Adita C. Direito social
+    - Adita D. Direito fiscal
+    - Adita E. Gestão comercial e financeira da empresa
+    - Adita F. Acesso ao mercado
+    - Adita G. Normas e exploração técnicas
+    - Adita H. Segurança rodoviária
+    - Adita II. ORGANIZAÇÃO DO EXAME
+    - Adita ANEXO II
+    - Adita Elementos de segurança do certificado de capacidade profissional
+    - Adita ANEXO III
+    - Adita Modelo do certificado de capacidade profissional
+    - Adita COMUNIDADE EUROPEIA
+    - Adita (Papel de cor Pantone bege 467, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)
+    - Adita (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)
+    - Adita CERTIFICADO DE CAPACIDADE PROFISSIONAL PARA O TRANSPORTE RODOVIÁRIO DE MERCADORIAS/TRANSPORTE DE PASSAGEIROS ([^18^](http://publications.europa.eu/resource/cellar/782ccd0e-226e-4179-ae81-db050147a5cd.0018.03/DOC_1#E0020))
+    - Adita ANEXO IV
+    - Adita Infracções muito graves na acepção da alínea a) do n.º 2 do artigo 6.º
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Condições relativas ao requisito de capacidade financeira
+    - Altera Artigo 12.º — Controlos
+    - Altera Artigo 25.º — Procedimento de comité
+    - Altera Artigo 26.º — Relatórios
+    - Altera I. LISTA DAS MATÉRIAS REFERIDAS NO ARTIGO 8.º
+    - Altera C. Direito social
+    - Altera G. Normas e exploração técnicas
+    - Altera (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)
+    - Altera Notas
+    - Adita CERTIFICADO DE CAPACIDADE PROFISSIONAL PARA O TRANSPORTE RODOVIÁRIO DE MERCADORIAS/TRANSPORTE DE PASSAGEIROS ([^18^](http://publications.europa.eu/resource/cellar/6482d82c-0e8e-4750-abea-030b2b40daa9.0018.04/DOC_1#E0020))
+    - Suprime CERTIFICADO DE CAPACIDADE PROFISSIONAL PARA O TRANSPORTE RODOVIÁRIO DE MERCADORIAS/TRANSPORTE DE PASSAGEIROS
+      ([^18^](http://publications.europa.eu/resource/cellar/782ccd0e-226e-4179-ae81-db050147a5cd.0018.03/DOC_1#E0020))
+  - date: '2022-02-21'
+    amending: eu:celex:32020R1055:por
+    amending_title: REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Requisitos para exercer a actividade de transportador rodoviário
+    - Altera Artigo 5.º — Condições relativas ao requisito de estabelecimento
+    - Altera Artigo 6.º — Condições relativas ao requisito de idoneidade
+    - Altera Artigo 7.º — Condições relativas ao requisito de capacidade financeira
+    - Altera Artigo 8.º — Condições relativas ao requisito de capacidade profissional
+    - Altera Artigo 9.º — Dispensa de exame
+    - Altera Artigo 11.º — Análise e registo dos pedidos
+    - Altera Artigo 12.º — Controlos
+    - Altera Artigo 13.º — Procedimento de suspensão e de retirada das autorizações
+    - Altera Artigo 14.º — Declaração de inaptidão do gestor de transportes
+    - Altera Artigo 16.º — Registos electrónicos nacionais
+    - Altera Artigo 18.º — Cooperação administrativa entre os Estados-Membros
+    - Altera Artigo 23.º — Disposições transitórias
+    - Altera Artigo 25.º — Procedimento de comité
+    - Altera I. LISTA DAS MATÉRIAS REFERIDAS NO ARTIGO 8.º
+    - Altera C. Direito social
+    - Altera G. Normas e exploração técnicas
+    - Altera (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)
+    - Altera Notas
+    - Adita Artigo 24.º-A — Exercício da delegação
+    - Adita Artigo 26.º
+    - Adita Apresentação de relatórios e revisão
+    - Adita CERTIFICADO DE CAPACIDADE PROFISSIONAL PARA O TRANSPORTE RODOVIÁRIO DE MERCADORIAS/TRANSPORTE DE PASSAGEIROS ([^15^](http://publications.europa.eu/resource/cellar/2ea89e17-83e3-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0017))
+    - Adita Infrações muito graves para efeitos do artigo 6.º, n.º 2
+    - Suprime Artigo 24.º — Assistência mútua
+    - Suprime Artigo 26.º — Relatórios
+    - Suprime CERTIFICADO DE CAPACIDADE PROFISSIONAL PARA O TRANSPORTE RODOVIÁRIO DE MERCADORIAS/TRANSPORTE DE PASSAGEIROS
+      ([^18^](http://publications.europa.eu/resource/cellar/6482d82c-0e8e-4750-abea-030b2b40daa9.0018.04/DOC_1#E0020))
+    - Suprime Infracções muito graves na acepção da alínea a) do n.º 2 do artigo 6.º
 identifiers:
   celex: 32009R1071
   eli: http://data.europa.eu/eli/reg/2009/1071/oj
@@ -51,7 +145,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7be1e9c2-c8f1-421f-acdc-3d7562495a7f.0019
   content_url: http://publications.europa.eu/resource/cellar/2ea89e17-83e3-11ec-8c40-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1071-20220221
-  retrieved_at: '2026-10-22T02:39:51Z'
+  retrieved_at: '2026-10-22T15:44:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T20:44:18.206+02:00'
 integrity:
@@ -60,9 +154,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:51Z'
-  notes: Texto consolidado 02009R1071-20220221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:41Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-1071.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,31 +308,19 @@ relationships:
   date: '1996-05-23'
 article_structure:
   article_count: 30
-  section_count: 33
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:51Z'
+  checked_at: '2026-10-22T15:44:41Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1071/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009R1071 — PT — 21.02.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0613) — [REGULAMENTO (UE) N.º 613/2012 DA COMISSÃO de 9 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0613) — L 178 — 6 — 10.7.2012
-- [►M2](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32020R1055) — [REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1055) — L 249 — 17 — 31.7.2020
-
-## REGULAMENTO (CE) N.º 1071/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

@@ -37,6 +37,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-08-04'
+version_history:
+  file: diretiva-ue-2010-75.versoes.json
+  count: 3
+  source_lastmod: '2024-08-04'
+  versions:
+  - date: '2010-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Acidentes e incidentes
+    - Altera Artigo 14.º — Condições de licenciamento
+    - Altera Artigo 20.º — Alterações introduzidas nas instalações pelos operadores
+    - Altera Artigo 22.º — Encerramento dos locais
+    - Altera Artigo 23.º — Inspecções ambientais
+    - Altera Artigo 36.º — Armazenamento geológico de dióxido de carbono
+    - Altera Artigo 40.º — Instalações de combustão equipadas com fornos mistos
+    - Altera Artigo 42.º — Âmbito
+    - Altera Artigo 46.º — Controlo das emissões
+    - Altera Artigo 50.º — Condições de exploração
+    - Altera Artigo 52.º — Entrega e recepção de resíduos
+    - Altera Artigo 57.º — Definições
+    - Altera Artigo 59.º — Controlo das emissões
+    - Altera Artigo 82.º — Disposições transitórias
+    - Altera Artigo 84.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Categorias de actividades referidas no artigo 10.º
+    - Adita 1. Indústrias do sector da energia
+    - Adita 2. Produção e transformação de metais
+    - Adita 3. Indústria dos minérios
+    - Adita 4. Indústria química
+    - Adita 5. Gestão de resíduos
+    - Adita 6. Outras actividades
+    - Adita ANEXO II
+    - Adita Lista das substâncias poluentes
+    - Adita ATMOSFERA
+    - Adita ÁGUA
+    - Adita ANEXO III
+    - Adita Critérios para a determinação das melhores técnicas disponíveis
+    - Adita ANEXO IV
+    - Adita Participação do público na tomada de decisões
+    - Adita ANEXO V
+    - Adita Disposições técnicas relacionadas com as instalações de combustão
+    - Adita PARTE 1
+    - Adita Valores-limite de emissão para as instalações de combustão a que se refere o n.º 2 do artigo 30.º
+    - Adita PARTE 2
+    - Adita Valores-limite de emissão para as instalações de combustão a que se refere o n.º 3 do artigo 30.º
+  - date: '2024-08-04'
+    amending: eu:celex:32024L1785:por
+    amending_title: DIRETIVA (UE) 2024/1785 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Obrigação de titularidade de uma licença
+    - Altera Artigo 5.º — Concessão das licenças
+    - Altera Artigo 8.º — Incumprimento
+    - Altera Artigo 9.º — Emissões de gases com efeito de estufa
+    - Altera Artigo 11.º — Princípios gerais das obrigações fundamentais do operador
+    - Altera Artigo 12.º — Pedidos de licenciamento
+    - Altera Artigo 13.º — Documentos de referência MTD e intercâmbio de informações
+    - Altera Artigo 14.º — Condições de licenciamento
+    - Altera Artigo 16.º — Requisitos de monitorização
+    - Altera Artigo 18.º — Normas de qualidade ambiental
+    - Altera Artigo 20.º — Alterações introduzidas nas instalações pelos operadores
+    - Altera Artigo 21.º — Reexame e actualização das condições de licenciamento pela autoridade competente
+    - Altera Artigo 22.º — Encerramento dos locais
+    - Altera Artigo 23.º — Inspecções ambientais
+    - Altera Artigo 24.º — Acesso à informação e participação do público no processo de licenciamento
+    - Altera Artigo 25.º — Acesso à justiça
+    - Altera Artigo 26.º — Efeitos transfronteiriços
+    - Altera Artigo 27.º — Técnicas emergentes
+    - Altera Artigo 30.º — Valores-limite de emissão
+    - Altera Artigo 36.º — Armazenamento geológico de dióxido de carbono
+    - Altera Artigo 42.º — Âmbito
+    - Altera Artigo 48.º — Monitorização das emissões
+    - Altera Artigo 50.º — Condições de exploração
+    - Altera Artigo 52.º — Entrega e recepção de resíduos
+    - Altera Artigo 57.º — Definições
+    - Altera Artigo 63.º — Alteração substancial de instalações existentes
+    - Altera Artigo 70.º — Monitorização das emissões
+    - Altera Artigo 72.º — Comunicação de dados pelos Estados-Membros
+    - Altera Artigo 73.º — Revisão
+    - Altera Artigo 75.º — Procedimento de comité
+    - Altera Artigo 76.º — Exercício da delegação
+    - Altera Artigo 79.º — Sanções
+    - Altera 1. Indústrias do sector da energia
+    - Altera 2. Produção e transformação de metais
+    - Altera 3. Indústria dos minérios
+    - Altera 4. Indústria química
 identifiers:
   celex: 32010L0075
   eli: http://data.europa.eu/eli/dir/2010/75/oj
@@ -51,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082.0006
   content_url: http://publications.europa.eu/resource/cellar/d0809a07-543a-11ef-acbc-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0075-20240804
-  retrieved_at: '2026-10-22T02:39:11Z'
+  retrieved_at: '2026-10-22T15:47:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T13:08:19.664+02:00'
 integrity:
@@ -60,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:11Z'
-  notes: Texto consolidado 02010L0075-20240804.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:16Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-75.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -366,34 +463,19 @@ relationships:
   source: null
 article_structure:
   article_count: 100
-  section_count: 111
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 112
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:11Z'
+  checked_at: '2026-10-22T15:47:16Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/75/UE do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
-
-> 02010L0075 — PT — 04.08.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1785) — [DIRETIVA (UE) 2024/1785 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1785) — L 1785 — 1 — 15.7.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010L0075R%2801%29) — [Rectificação, JO L 158, 19.6.2012, p. 25 (2010/75/UE)](http://publications.europa.eu/resource/celex/32010L0075R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32010L0075R%2807%29) — [Rectificação, JO L 029, 5.2.2015, p. 16 (2010/75/UE)](http://publications.europa.eu/resource/celex/32010L0075R%2807%29)
-
-## DIRECTIVA 2010/75/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Novembro de 2010
 

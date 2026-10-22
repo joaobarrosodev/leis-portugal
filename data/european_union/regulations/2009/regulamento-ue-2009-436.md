@@ -37,6 +37,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-03-03'
+version_history:
+  file: regulamento-ue-2009-436.versoes.json
+  count: 2
+  source_lastmod: '2018-03-03'
+  versions:
+  - date: '2009-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-03-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime CADASTRO VITÍCOLA
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Informações contidas no cadastro vitícola
+    - Suprime Artigo 4.º — Conservação e actualizações das informações
+    - Suprime Artigo 5.º — Controlo das informações
+    - Suprime TÍTULO II
+    - Suprime DECLARAÇÕES OBRIGATÓRIAS E ESTABELECIMENTO DAS INFORMAÇÕES PARA O ACOMPANHAMENTO DO MERCADO NO SECTOR VITIVINÍCOLA
+    - Suprime Artigo 6.º — Objecto
+    - Suprime Artigo 7.º — Definições
+    - Suprime CAPÍTULO I
+    - Suprime Declarações obrigatórias
+    - Suprime Artigo 8.º — Declarações de colheita
+    - Suprime Artigo 9.º — Declarações de produção
+    - Suprime Artigo 10.º — Declarações de tratamento e/ou de comercialização
+    - Suprime Artigo 11.º — Declarações de existências
+    - Suprime CAPÍTULO II
+    - Suprime Disposições comuns
+    - Suprime Artigo 12.º — Formulários
+    - Suprime Artigo 13.º — Relação com o cadastro vitícola
+    - Suprime Artigo 14.º — Isenções
+    - Suprime Artigo 15.º — Critérios a respeitar
+    - Suprime Artigo 16.º — Datas de apresentação das declarações
+    - Suprime Artigo 17.º — Controlos
+    - Suprime Artigo 18.º — Sanções
+    - Suprime CAPÍTULO III
+    - Suprime Obrigações dos Estados-Membros em matéria de informação
+    - Suprime Artigo 19.º — Comunicações dos Estados-Membros
+    - Suprime CAPÍTULO IV
+    - Suprime Disposições gerais e finais
+    - Suprime Artigo 20.º — Disposição geral
+    - Suprime TÍTULO III
+    - Suprime DOCUMENTOS DE ACOMPANHAMENTO DO TRANSPORTE DOS PRODUTOS VITIVINÍCOLAS E REGISTOS A MANTER NO SECTOR VITIVINÍCOLA
+    - Suprime Objecto, âmbito de aplicação e definições
+    - Suprime Artigo 21.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 22.º — Definições
+    - Suprime Documentos de acompanhamento do transporte dos produtos vitivinícolas
+    - Suprime Artigo 23.º — Objecto
 identifiers:
   celex: 32009R0436
   eli: http://data.europa.eu/eli/reg/2009/436/oj
@@ -51,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018
   content_url: http://publications.europa.eu/resource/cellar/efb968d9-e536-4184-ae54-56c287d3be56.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0436-20180303
-  retrieved_at: '2026-10-22T02:45:31Z'
+  retrieved_at: '2026-10-22T15:42:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T07:01:24.181+02:00'
 integrity:
@@ -60,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:31Z'
-  notes: Texto consolidado 02009R0436-20180303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:01Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-436.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -244,16 +297,23 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:31Z'
+  checked_at: '2026-10-22T15:42:01Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0436-20090603: versão indisponível (Sem expressão na língua por para CELEX 02009R0436-20090603.)'
+  - '02009R0436-20110301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20120416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20130223: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20131207: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20150930: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0436-20170731: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

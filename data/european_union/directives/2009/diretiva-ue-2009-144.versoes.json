@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0144:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0144-20160101",
+ "dre_path": null,
+ "source_lastmod": "2016-01-01",
+ "versions": [
+  {
+   "date": "2010-01-30",
+   "future": false,
+   "celex": "32009L0144",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "963a858af2652402",
+    "f5e7585a9a46b48f",
+    "cfc6864e8c27b104",
+    "240a512c3754e11f",
+    "9c506b5fe9ccac8e",
+    "76bd705ec3a160cc",
+    "48eef758ef12a455",
+    "4929e0dfc9973783",
+    "7cd027f8fbf52dd2",
+    "37ce47015454910a",
+    "7f99bf54e1079e6c",
+    "b9883015de464182",
+    "b51c6c771cf6d2c8",
+    "edb4d35846aa49a5",
+    "63eb91fb7554d12d"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "celex": "02009L0144-20160101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "3de4053ffaf0c90b"
+   ]
+  }
+ ],
+ "fragments": {
+  "963a858af2652402": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nrelativa a determinados elementos e características dos tractores agrícolas ou florestais de rodas\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr1-L_2010027PT.01003301-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr2-L_2010027PT.01003301-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 89/173/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes a determinados elementos e características dos tractores agrícolas ou florestais de rodas [([^3])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr3-L_2010027PT.01003301-E0003), foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr4-L_2010027PT.01003301-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) A Directiva 89/173/CEE é uma das directivas específicas do sistema de homologação CE previsto na Directiva 74/150/CEE do Conselho, substituída pela Directiva 2003/37/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativa à homologação de tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, e dos sistemas, componentes e unidades técnicas destes veículos [([^5])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr5-L_2010027PT.01003301-E0005), e estabelece as regras técnicas respeitantes à concepção e à construção dos tractores agrícolas ou florestais no que respeita a determinados elementos e características. Estas regras técnicas visam uma aproximação das legislações dos Estados-Membros, tendo em vista a aplicação, para cada tipo de tractor, do processo de homologação CE previsto pela Directiva 2003/37/CE. Por conseguinte, as disposições da Directiva 2003/37/CE relativas aos tractores agrícolas ou florestais, aos seus reboques e máquinas intermutáveis rebocadas e aos sistemas, componentes e unidades técnicas destes veículos aplicam-se à presente directiva.\n\n(3) As prescrições técnicas a satisfazer pelos tractores em conformidade com as legislações nacionais dizem respeito, nomeadamente, às dimensões e massas, ao regulador de velocidade, à protecção dos elementos motores, das partes salientes e das rodas, ao comando de travagem dos veículos rebocados, ao pára-brisas e outras vidraças, às ligações mecânicas entre tractor e veículo rebocado bem como à localização e modo de colocação das placas e inscrições regulamentares no corpo do tractor.\n\n(4) É desejável tomar em consideração as prescrições técnicas adoptadas pela Comissão Económica para a Europa das Nações Unidas (UN/ECE) nas suas regulamentações correspondentes anexadas ao Acordo da Comissão Económica para a Europa da Organização das Nações Unidas, prescrições técnicas uniformes aplicáveis aos veículos de rodas, aos equipamentos e às peças susceptíveis de serem montados ou utilizados num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com essas prescrições [([^6])](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntr6-L_2010027PT.01003301-E0006).\n\n(5) A presente directiva não prejudica as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas, indicados na Parte B do Anexo VII,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "f5e7585a9a46b48f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para os efeitos da presente directiva, entende-se por «tractor» (agrícola ou florestal) qualquer veículo a motor, com rodas ou lagartas e com pelo menos dois eixos, cuja função principal resida no seu poder de tracção, e seja especialmente concebido para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados a utilização agrícola ou florestal. Pode estar equipado para transportar carga e passageiros.\n\n2. A presente directiva aplica-se exclusivamente aos tractores definidos no n.º 1, montados sobre pneumáticos, com uma velocidade máxima, por construção, compreendida entre 6 e 40 km por hora."
+  },
+  "cfc6864e8c27b104": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. No que respeita a tractores que satisfaçam os requisitos da presente directiva, os Estados-Membros não podem, por motivos relacionados com o objecto da presente directiva:\n\na) Indeferir o pedido de homologação CE ou de homologação nacional;\n\nb) Recusar a matrícula ou proibir a venda, a entrada em circulação ou a utilização de tal tractor.\n\nEm derrogação ao disposto no primeiro parágrafo no que se refere à utilização do tractor, por motivos relacionados com a(s) massa(s) rebocável (rebocáveis), os Estados-Membros podem continuar a aplicar as respectivas disposições nacionais, decorrentes, nomeadamente, das exigências de utilização inerentes à morfologia do seu território, dentro dos limites das massas rebocáveis indicadas no ponto 2.2 do Anexo I, desde que tal não implique modificações do tractor nem uma homologação nacional suplementar.\n\n2. No que respeita a tractores que não satisfaçam os requisitos da presente directiva, os Estados-Membros, por motivos relacionados com o objecto da presente directiva:\n\na) Não devem deferir um pedido de homologação CE;\n\nb) Podem indeferir um pedido de homologação nacional.\n\n3. No que respeita a tractores novos que não satisfaçam os requisitos da presente directiva, os Estados-Membros, por motivos relacionados com o objecto da presente directiva:\n\na) Devem considerar que os certificados de conformidade que acompanham os tractores novos, nos termos da Directiva 2003/37/CE, deixaram de ser válidos para efeitos do disposto no n.º 1 do artigo 7.º da referida directiva;\n\nb) Podem recusar o registo, a venda ou a entrada em circulação desses tractores novos."
+  },
+  "240a512c3754e11f": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros concedem a homologação CE para cada tipo de pára-brisas ou outros vidraças e/ou de ligações mecânicas que estejam conformes com as prescrições de produção e ensaio constantes dos Anexos III e/ou IV.\n\n2. O Estado-Membro que tiver concedido a homologação CE toma as providências necessárias — eventualmente em colaboração com as autoridades competentes dos demais Estados-Membros — para, na medida do necessário, controlar a conformidade da produção com o tipo homologado. O controlo é feito unicamente por amostragem."
+  },
+  "9c506b5fe9ccac8e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros atribuem ao fabricante dos tractores, ao fabricante dos pára-brisas ou de outras vidraças e/ou de ligações mecânicas, ou ao respectivo mandatário, para cada tipo de elemento acima referido para o qual, nos termos do artigo 3.º, emitam uma homologação CE, uma marca de homologação CE conforme com os exemplos fixados nos Anexos III e Anexo IV.\n\nOs Estados-Membros tomam todas as medidas adequadas para impedir a utilização de marcas de homologação susceptíveis de originar confusão entre dispositivos de um tipo para o qual, nos termos do artigo 3.º, tiver sido já emitida uma homologação CE e outros dispositivos."
+  },
+  "76bd705ec3a160cc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros não podem proibir a colocação no mercado de pára-brisas e outras vidraças ou de ligações mecânicas com base no respectivo modo de fabrico, desde que esses elementos sejam portadores da marca de homologação CE.\n\nUm Estado-Membro pode, no entanto, proibir a colocação no mercado de pára-brisas e outras vidraças ou de ligações mecânicas portadoras da marca de homologação CE quando estas não estejam conformes com o tipo para o qual tiver sido concedida a homologação.\n\nO Estado-Membro em questão informa sem demora os demais Estados-Membros e a Comissão das medidas tomadas, justificando a sua decisão."
+  },
+  "48eef758ef12a455": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs autoridades competentes de cada Estado-Membro enviam às autoridades competentes dos demais Estados-Membros, no prazo de um mês, uma cópia da documentação de homologação segundo o modelo constante dos Anexos III ou Anexo IV para cada tipo de pára-brisa ou outra vidraça ou de ligação mecânica para o qual tiverem concedido ou recusado a homologação."
+  },
+  "4929e0dfc9973783": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Se o Estado-Membro que tiver concedido a homologação CE de tipo verificar que um certo número de pára-brisas e outras vidraças ou de ligações mecânicas portadoras da mesma marca de homologação CE não estão conformes com o tipo para o qual tiver sido emitida a homologação, toma as medidas necessárias para assegurar a conformidade da produção com o tipo homologado.\n\nAs autoridades competentes desse Estado-Membro informam as autoridades competentes dos demais Estados-Membros das medidas tomadas que, no caso de não conformidade significativa e repetida, podem ir até à revogação da homologação CE.\n\nEstas autoridades tomam as mesmas medidas quando as autoridades competentes de outros Estados-Membros lhes comunicarem casos de não conformidade semelhante.\n\n2. As autoridades competentes dos Estados-Membros informam-se mutuamente, no prazo de um mês, da revogação de qualquer homologação CE já concedida, indicando os respectivos motivos."
+  },
+  "7cd027f8fbf52dd2": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nQualquer decisão baseada nas disposições adoptadas para efeitos da execução da presente directiva, pela qual se recuse ou revogue uma homologação CE, ou se proíba a colocação no mercado e a utilização, deve ser devidamente justificada.\n\nA referida decisão deve ser enviada ao interessado, com a indicação das vias e dos prazos de recurso previstos nos Estados-Membros pelo direito neles vigente."
+  },
+  "37ce47015454910a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs alterações necessárias para adaptar ao progresso técnico as disposições dos anexos I a VI são aprovadas pelo procedimento referido no n.º 3 do artigo 20.º da Directiva 2003/37/CE."
+  },
+  "7f99bf54e1079e6c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "b9883015de464182": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÉ revogada a Directiva 89/173/CEE, com a redacção que lhe foi dada pelos actos referidos na Parte A do Anexo VII, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na Parte B do Anexo VII.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ser ler-se nos termos da tabela de correspondência que consta do Anexo VIII."
+  },
+  "b51c6c771cf6d2c8": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nA presente directiva é aplicável a partir de 1 de Junho de 2010."
+  },
+  "edb4d35846aa49a5": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, 30 de Novembro de 2009\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**B. ASK**\n\n---"
+  },
+  "63eb91fb7554d12d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc1-L_2010027PT.01003301-E0001) [JO C 182 de 4.8.2009, p. 76](http://publications.europa.eu/resource/oj/JOC_2009_182_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc2-L_2010027PT.01003301-E0002) Parecer do Parlamento Europeu de 24 de Março de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 26 de Novembro de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc3-L_2010027PT.01003301-E0003) [JO L 67 de 10.3.1989, p. 1](http://publications.europa.eu/resource/oj/JOL_1989_067_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc4-L_2010027PT.01003301-E0004) Ver parte A do anexo VII.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc5-L_2010027PT.01003301-E0005) [JO L 171 de 9.7.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_171_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/a10bed88-1951-4a58-9026-8a61cf30ef6b.0018.03/DOC_1#ntc6-L_2010027PT.01003301-E0006) Publicado como Anexo I da Decisão 97/836/CE ([JO L 346 de 17.12.1997, p. 78](http://publications.europa.eu/resource/oj/JOL_1997_346_R_TOC))."
+  },
+  "3de4053ffaf0c90b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009L0144 — PT — 01.01.2016 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009L0144) [DIRECTIVA 2009/144/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32009L0144) [de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009L0144) [relativa a determinados elementos e características dos tractores agrícolas ou florestais de rodas](http://publications.europa.eu/resource/celex/32009L0144) [(versão codificada)](http://publications.europa.eu/resource/celex/32009L0144) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009L0144) (JO L 027, 30.1.2010, p.33)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 167/2013 do Parlamento Europeu e do Conselho de 5 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0167) — L 60 — 1 — 2.3.2013"
+  }
+ }
+}

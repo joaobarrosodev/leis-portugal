@@ -36,6 +36,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: regulamento-ue-2009-392.versoes.json
+  count: 2
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2009-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Informação aos passageiros
+    - Altera Artigo 12.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 9.º — Alteração dos anexos
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita DISPOSIÇÕES DA CONVENÇÃO DE ATENAS RELATIVA AO TRANSPORTE DE PASSAGEIROS E BAGAGENS POR MAR RELEVANTES PARA A
+      APLICAÇÃO DO PRESENTE REGULAMENTO
+    - Adita (Texto consolidado da Convenção de Atenas de 1974 relativa ao Transporte de Passageiros e Bagagens por Mar e Protocolo
+      de 2002 à convenção)
+    - Adita Artigo 1.º — Definições
+    - Adita Artigo 1.º A — Anexo
+    - Adita Artigo 2.º — Aplicação
+    - Adita Artigo 3.º — Responsabilidade da transportadora
+    - Adita Artigo 4.º — Transportadora de facto
+    - Adita Artigo 4.º A — Seguro obrigatório
+    - Adita Artigo 5.º — Objectos de valor
+    - Adita Artigo 6.º — Concorrência de culpa
+    - Adita Artigo 7.º — Limite de responsabilidade por morte e lesão corporal
+    - Adita Artigo 8.º — Limite de responsabilidade por perda ou dano da bagagem e dos veículos
+    - Adita Artigo 9.º — Unidade de conta e conversão
+    - Adita Artigo 10.º — Disposições adicionais sobre limites de responsabilidade
+    - Adita Artigo 11.º — Argumentos de defesa e limites de responsabilidade dos trabalhadores da transportadora
+    - Adita Artigo 12.º — Cumulação de indemnizações
+    - Adita Artigo 13.º — Perda do direito de limitar a responsabilidade
+    - Adita Artigo 14.º — Fundamento dos pedidos de indemnizações
+    - Adita Artigo 15.º — Comunicação da perda ou dano da bagagem
+    - Adita Artigo 16.º — Prescrição das acções
+    - Adita Artigo 17.º — Tribunais competentes ([^2^](http://publications.europa.eu/resource/cellar/832c9f4d-f12e-11e9-a32c-01aa75ed71a1.0020.03/DOC_1#E0006))
+    - Adita Artigo 17.º A — Reconhecimento e execução [(2)](http://publications.europa.eu/resource/cellar/832c9f4d-f12e-11e9-a32c-01aa75ed71a1.0020.03/DOC_1#E0006)
+    - Adita Artigo 18.º — Invalidade das disposições contratuais
+    - Adita Artigo 20.º — Danos nucleares
+    - Adita Artigo 21.º — Transporte comercial efectuado por autoridades públicas
+    - Adita Artigo 22.º — Revisão e alteração ([^3^](http://publications.europa.eu/resource/cellar/832c9f4d-f12e-11e9-a32c-01aa75ed71a1.0020.03/DOC_1#E0007))
+    - Adita Artigo 23.º — Alteração dos limites
+    - Adita ANEXO À CONVENÇÃO DE ATENAS
+    - Adita CERTIFICADO DE SEGURO OU DE OUTRA GARANTIA FINANCEIRA RESPEITANTE À RESPONSABILIDADE PELA MORTE E LESÃO CORPORAL
+      DOS PASSAGEIROS
+    - 'Adita Notas explicativas:'
+    - Adita ANEXO II
+    - Adita Excerto da reserva e das directrizes da OMI para a aplicação da Convenção de Atenas, aprovadas pelo comité jurídico
+      da Organização Marítima Internacional em 19 de Outubro de 2006
+    - Adita RESERVA E DIRECTRIZES DA OMI PARA A APLICAÇÃO DA CONVENÇÃO DE ATENAS
 identifiers:
   celex: 32009R0392
   eli: http://data.europa.eu/eli/reg/2009/392/oj
@@ -50,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/498bc8be-ec0b-434f-bf94-8f037dc2642d.0019
   content_url: http://publications.europa.eu/resource/cellar/832c9f4d-f12e-11e9-a32c-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0392-20190726
-  retrieved_at: '2026-10-22T02:39:50Z'
+  retrieved_at: '2026-10-22T15:41:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:23:18.272+02:00'
 integrity:
@@ -59,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:50Z'
-  notes: Texto consolidado 02009R0392-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:35Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-392.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,29 +221,20 @@ relationships:
   date: '2026-06-04'
 article_structure:
   article_count: 37
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:50Z'
-  warnings: []
+  checked_at: '2026-10-22T15:41:35Z'
+  warnings:
+  - '02009R0392-20090529: versão indisponível (Sem expressão na língua por para CELEX 02009R0392-20090529.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 392/2009 do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009R0392 — PT — 26.07.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## REGULAMENTO (CE) N.º 392/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

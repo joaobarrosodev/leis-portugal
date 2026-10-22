@@ -35,6 +35,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2009-128.versoes.json
+  count: 5
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2009-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-11-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Planos de acção nacionais
+    - Altera Artigo 5.º — Formação
+    - Altera Artigo 6.º — Requisitos para a venda de pesticidas
+    - Altera Artigo 7.º — Informação e sensibilização
+    - Altera Artigo 8.º — Inspecção dos equipamentos em utilização
+    - Altera Artigo 14.º — Protecção integrada
+    - Altera Artigo 17.º — Sanções
+    - Altera Artigo 20.º — Normalização
+    - Altera Artigo 21.º — Procedimento de comité
+    - Altera Artigo 23.º — Transposição
+    - Altera Artigo 25.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Temas da formação referida no artigo 5.º
+    - Adita ANEXO II
+    - Adita Requisitos sanitários, de segurança e ambientais para a inspecção do equipamento de aplicação de pesticidas
+    - Adita 1. Elementos de transmissão
+    - Adita 2. Bomba
+    - Adita 3. Agitação
+    - Adita 4. Depósito de calda
+    - Adita 5. Sistemas de medição e sistemas de comando e de regulação
+    - Adita 6. Tubagem
+    - Adita 7. Filtragem
+    - Adita 8. Barra de pulverização (em equipamento de pulverização de pesticidas por meio de uma barra colocada na horizontal,
+      junto às plantas ou materiais a tratar)
+    - Adita 9. Bicos
+    - Adita 10. Distribuição
+    - Adita 11. Ventilador (em equipamento de pulverização de pesticidas assistido por ar)
+    - Adita ANEXO III
+    - Adita Princípios gerais da protecção integrada
+    - Adita ANEXO IV
+    - Adita Indicadores de risco harmonizados
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0652:por
+    amending_title: REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Planos de acção nacionais
+    - Altera Artigo 6.º — Requisitos para a venda de pesticidas
+    - Altera Artigo 14.º — Protecção integrada
+    - Altera Artigo 20.º — Normalização
+    - Altera Artigo 21.º — Procedimento de comité
+    - Altera Notas
+    - Suprime Artigo 22.º — Mapa de despesas
+  - date: '2019-06-05'
+    amending: eu:celex:32019L0782:por
+    amending_title: DIRETIVA (UE) 2019/782 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Planos de acção nacionais
+    - Altera Artigo 6.º — Requisitos para a venda de pesticidas
+    - Altera Artigo 14.º — Protecção integrada
+    - Altera Artigo 20.º — Normalização
+    - Altera Artigo 21.º — Procedimento de comité
+    - Altera Indicadores de risco harmonizados
+    - Altera Notas
+    - Adita SECÇÃO 1
+    - Adita SECÇÃO 2
+    - 'Adita Indicador de risco harmonizado 1: indicador de risco harmonizado com base no perigo, baseado nas quantidades
+      de substâncias ativas colocadas no mercado em produtos fitofarmacêuticos ao abrigo do Regulamento (CE) n.º 1107/2009'
+    - Adita SECÇÃO 3
+    - 'Adita Indicador de risco harmonizado 2: indicador de risco harmonizado baseado no número de autorizações concedidas
+      ao abrigo do artigo 53.º do Regulamento (CE) n.º 1107/2009'
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Planos de acção nacionais
+    - Altera Artigo 5.º — Formação
+    - Altera Artigo 6.º — Requisitos para a venda de pesticidas
+    - Altera Artigo 8.º — Inspecção dos equipamentos em utilização
+    - Altera Artigo 14.º — Protecção integrada
+    - Altera Artigo 15.º — Indicadores
+    - Altera Artigo 20.º — Normalização
+    - Altera Artigo 21.º — Procedimento de comité
+    - 'Altera Indicador de risco harmonizado 1: indicador de risco harmonizado com base no perigo, baseado nas quantidades
+      de substâncias ativas colocadas no mercado em produtos fitofarmacêuticos ao abrigo do Regulamento (CE) n.º 1107/2009'
+    - Altera Notas
+    - Adita Artigo 20.º-A — Exercício da delegação
 identifiers:
   celex: 32009L0128
   eli: http://data.europa.eu/eli/dir/2009/128/oj
@@ -49,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7999c7a0-ec46-4e57-95e0-1d692de9d9a5.0018
   content_url: http://publications.europa.eu/resource/cellar/d67d7c71-e654-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0128-20190726
-  retrieved_at: '2026-10-22T02:37:13Z'
+  retrieved_at: '2026-10-22T15:39:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T21:14:19.022+02:00'
 integrity:
@@ -58,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:13Z'
-  notes: Texto consolidado 02009L0128-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:48Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2009-128.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -268,35 +365,19 @@ relationships:
   source: null
 article_structure:
   article_count: 25
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:13Z'
+  checked_at: '2026-10-22T15:39:48Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/128/CE do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009L0128 — PT — 26.07.2019 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0652) — [REGULAMENTO (UE) N.º 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014
-- [►M2](http://publications.europa.eu/resource/celex/32019L0782) — [DIRETIVA (UE) 2019/782 DA COMISSÃO Texto relevante para efeitos do EEE de 15 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0782) — L 127 — 4 — 16.5.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0128R%2801%29) — [Rectificação, JO L 161, 29.6.2010, p. 11 (2009/128/CE)](http://publications.europa.eu/resource/celex/32009L0128R%2801%29)
-
-## DIRECTIVA 2009/128/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

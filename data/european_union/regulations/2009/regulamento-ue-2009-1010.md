@@ -36,6 +36,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2009-1010.versoes.json
+  count: 2
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2009-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-10'
+    amending: eu:celex:32010R0086:por
+    amending_title: M1; M2; REGULAMENTO (UE) N. o 202/2011 DA COMISSÃO de 1 de Março de 2011; M4; M5; M6; M7; REGULAMENTO
+      DE EXECUÇÃO (UE) 2025/1522 DA COMISSÃO de 28 de julho de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Formulário de notificação prévia
+    - Altera Artigo 7.º — Reconhecimento dos regimes de documentação das capturas das ORGP
+    - Altera Artigo 9.º — Disposições gerais
+    - Altera Artigo 12.º — Gestão dos registos
+    - Altera Artigo 32.º — Obrigações de comunicação e de avaliação
+    - Altera Artigo 40.º — Medidas de seguimento
+    - Altera Artigo 41.º — Comunicação de informações sem pedido prévio
+    - Altera Artigo 43.º — Exigências gerais
+    - Altera Artigo 45.º — Pedidos de informações
+    - Altera Artigo 46.º — Pedidos de medidas executórias
+    - Altera Artigo 49.º — Comunicação entre os Estados-Membros e a Comissão
+    - Altera Artigo 50.º — Coordenação pela Comissão
+    - Altera Artigo 51.º — Intercâmbio de informações com países terceiros
+    - Altera Artigo 54.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 4.º — Indicadores para as inspeções portuárias
+    - Adita Artigo 6.º-A — CAPTURAS
+    - Adita Controlos e verificações
+    - Adita Artigo 31.º — Critérios de verificação da União
+    - Adita Artigo 36.º — Proteção e tratamento dos dados pessoais
+    - Adita Artigo 37.º — Utilização das informações e proteção do sigilo profissional e comercial
+    - Adita ANEXO I
+    - Adita Período de notificação prévia para certos tipos de produtos da pesca, referidos no artigo 1.º
+    - Adita Período de notificação prévia de 4 horas
+    - Adita ANEXO II
+    - Adita Formulário para a notificação prévia pelos navios de pesca de países terceiros, referido no artigo 2.º
+    - 'Adita Identificação do navio:'
+    - 'Adita Porto de escala previsto:'
+    - 'Adita Autorização de pesca:'
+    - 'Adita Datas:'
+    - Adita Quantidades de cada espécie mantidas a bordo (ou, na ausência de capturas, comunicação “zero”)
+    - Adita ANEXO III-A
+    - Adita Formulário para a declaração a apresentar antes do desembarque, referido no artigo 3.º, n.º 1
+    - Adita ANEXO III-B
+    - Adita Formulário para a declaração a apresentar antes do transbordo, referido no artigo 3.º, n.º 2
+    - Adita (exigido ao navio que transborda e ao navio que recebe o pescado)
+    - Adita ANEXO IV
+    - Adita CERTIFICADO DE CAPTURA DA COMUNIDADE EUROPEIA
+    - Adita Formulário simplificado para os produtos da pesca que satisfazem as exigências do artigo 6.º do presente regulamento
 identifiers:
   celex: 32009R1010
   eli: http://data.europa.eu/eli/reg/2009/1010/oj
@@ -50,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d8563a9b-abcc-4b32-9856-4cfed444749c.0018
   content_url: http://publications.europa.eu/resource/cellar/5cd5a3d4-0c5e-11f1-8870-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1010-20260110
-  retrieved_at: '2026-10-22T03:14:51Z'
+  retrieved_at: '2026-10-22T15:44:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T17:02:15.242+02:00'
 integrity:
@@ -59,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:51Z'
-  notes: Texto consolidado 02009R1010-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:37Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1010.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -158,36 +212,25 @@ relationships:
   date: '2017-12-19'
 article_structure:
   article_count: 54
-  section_count: 86
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 87
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:51Z'
-  warnings: []
+  checked_at: '2026-10-22T15:44:37Z'
+  warnings:
+  - '02009R1010-20100101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1010-20110309: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1010-20111206: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1010-20130301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1010-20130917: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1010-20200327: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1010/2009 da Comissão, de 22 de Outubro de 2009
-
-> 02009R1010 — PT — 10.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010R0086) — [REGULAMENTO (UE) N.º 86/2010 DA COMISSÃO de 29 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0086) — L 26 — 1 — 30.1.2010
-- [M2](http://publications.europa.eu/resource/celex/32010R0395) — [REGULAMENTO (UE) N.º 395/2010 DA COMISSÃO de 7 de Maio de 2010](http://publications.europa.eu/resource/celex/32010R0395) — L 115 — 1 — 8.5.2010
-- [►M3](http://publications.europa.eu/resource/celex/32011R0202) — [REGULAMENTO (UE) N.º 202/2011 DA COMISSÃO de 1 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0202) — L 57 — 10 — 2.3.2011
-- [M4](http://publications.europa.eu/resource/celex/32011R1222) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1222/2011 DA COMISSÃO de 28 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1222) — L 314 — 2 — 29.11.2011
-- [M5](http://publications.europa.eu/resource/celex/32013R0336) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 336/2013 DA COMISSÃO de 12 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0336) — L 105 — 4 — 13.4.2013
-- [M6](http://publications.europa.eu/resource/celex/32013R0865) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 865/2013 DA COMISSÃO de 9 de setembro de 2013](http://publications.europa.eu/resource/celex/32013R0865) — L 241 — 1 — 10.9.2013
-- [M7](http://publications.europa.eu/resource/celex/32020R0423) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/423 DA COMISSÃO de 19 de março de 2020](http://publications.europa.eu/resource/celex/32020R0423) — L 84 — 15 — 20.3.2020
-- [►M8](http://publications.europa.eu/resource/celex/32025R1522) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1522 DA COMISSÃO de 28 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1522) — L 1522 — 1 — 29.7.2025
-
-## REGULAMENTO (CE) N.º 1010/2009 DA COMISSÃO
 
 de 22 de Outubro de 2009
 

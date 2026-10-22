@@ -35,6 +35,156 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-10-01'
+version_history:
+  file: regulamento-ue-2009-207.versoes.json
+  count: 4
+  source_lastmod: '2017-10-01'
+  versions:
+  - date: '2009-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2016-03-23'
+    amending: eu:celex:32015R2424:por
+    amending_title: REGULAMENTO (UE) 2015/2424 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 66.º
+    - Altera Artigo 94.º
+    - Altera Artigo 95.º
+    - Altera Notas
+    - Adita Marca da UE
+    - Adita Artigo 2.º — O Instituto
+    - Adita Artigo 3.º — Capacidade jurídica
+    - Adita Definição e aquisição da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Adita Artigo 4.º — Sinais susceptíveis de constituir uma [►M1](http://publications.europa.eu/resource/celex/32015R2424)
+      marca da UE◄
+    - Adita Artigo 5.º — Titulares de [►M1](http://publications.europa.eu/resource/celex/32015R2424) marcas da UE◄
+    - Adita Artigo 6.º — Modo de aquisição da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Adita Artigo 7.º — Motivos absolutos de recusa
+    - Adita Artigo 8.º — Motivos relativos de recusa
+    - Adita Efeitos da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Adita Artigo 9.º — Direitos conferidos pela marca da UE
+    - Adita Artigo 9.º-A — Direito de proibir atos preparatórios relativos à utilização de embalagens ou outros suportes
+    - Adita Artigo 9.º-B — Data a partir da qual os direitos são oponíveis a terceiros
+    - Adita Artigo 10.º — Reprodução da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ em dicionários
+    - Adita Artigo 11.º — Proibição de utilização de uma [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca
+      da UE◄ registada em nome de um agente ou representante
+    - Adita Artigo 12.º — Limitação dos efeitos da marca da UE
+    - Adita Artigo 13.º — Esgotamento do direito conferido pela [►M1](http://publications.europa.eu/resource/celex/32015R2424)
+      marca da UE◄
+    - Adita Artigo 13.º-A — Proteção dos direitos do titular de uma marca registada posterior em processos de infração
+    - Adita Artigo 14.º — Aplicação complementar do direito nacional em matéria de contrafacção
+    - Adita Utilização da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Adita Artigo 15.º — Utilização da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Adita A [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ como objecto de propriedade
+    - Adita Artigo 16.º — Equiparação da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ à marca
+      nacional
+    - Adita Artigo 17.º — Transmissão
+    - Adita Artigo 18.º — Transmissão de uma marca registada em nome de um agente
+    - Adita Artigo 19.º — Direitos reais
+    - Adita Artigo 20.º — Execução forçada
+    - Adita Artigo 21.º — Processos de insolvência
+    - Adita Artigo 22.º — Licença
+    - Adita Artigo 23.º — Oponibilidade a terceiros
+    - Adita Artigo 24.º — O pedido de [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ como objecto
+      de propriedade
+    - Adita PEDIDO DE [►M1](http://publications.europa.eu/resource/celex/32015R2424) MARCA DA UE◄
+    - Adita Artigo 25.º — Depósito do pedido
+    - Adita Artigo 26.º — Condições a preencher pelo pedido
+  - date: '2017-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º
+    - Suprime Marca da UE
+    - Suprime Artigo 2.º — O Instituto
+    - Suprime Artigo 3.º — Capacidade jurídica
+    - Suprime TÍTULO II
+    - Suprime DIREITO DE MARCAS
+    - Suprime SECÇÃO 1
+    - Suprime Definição e aquisição da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Suprime Artigo 4.º — Sinais susceptíveis de constituir uma [►M1](http://publications.europa.eu/resource/celex/32015R2424)
+      marca da UE◄
+    - Suprime Artigo 5.º — Titulares de [►M1](http://publications.europa.eu/resource/celex/32015R2424) marcas da UE◄
+    - Suprime Artigo 6.º — Modo de aquisição da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Suprime Artigo 7.º — Motivos absolutos de recusa
+    - Suprime Artigo 8.º — Motivos relativos de recusa
+    - Suprime SECÇÃO 2
+    - Suprime Efeitos da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Suprime Artigo 9.º — Direitos conferidos pela marca da UE
+    - Suprime Artigo 9.º-A — Direito de proibir atos preparatórios relativos à utilização de embalagens ou outros suportes
+    - Suprime Artigo 9.º-B — Data a partir da qual os direitos são oponíveis a terceiros
+    - Suprime Artigo 10.º — Reprodução da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ em dicionários
+    - Suprime Artigo 11.º — Proibição de utilização de uma [►M1](http://publications.europa.eu/resource/celex/32015R2424)
+      marca da UE◄ registada em nome de um agente ou representante
+    - Suprime Artigo 12.º — Limitação dos efeitos da marca da UE
+    - Suprime Artigo 13.º — Esgotamento do direito conferido pela [►M1](http://publications.europa.eu/resource/celex/32015R2424)
+      marca da UE◄
+    - Suprime Artigo 13.º-A — Proteção dos direitos do titular de uma marca registada posterior em processos de infração
+    - Suprime Artigo 14.º — Aplicação complementar do direito nacional em matéria de contrafacção
+    - Suprime SECÇÃO 3
+    - Suprime Utilização da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Suprime Artigo 15.º — Utilização da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄
+    - Suprime SECÇÃO 4
+    - Suprime A [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ como objecto de propriedade
+    - Suprime Artigo 16.º — Equiparação da [►M1](http://publications.europa.eu/resource/celex/32015R2424) marca da UE◄ à marca
+      nacional
+    - Suprime Artigo 17.º — Transmissão
+    - Suprime Artigo 18.º — Transmissão de uma marca registada em nome de um agente
+    - Suprime Artigo 19.º — Direitos reais
+    - Suprime Artigo 20.º — Execução forçada
+    - Suprime Artigo 21.º — Processos de insolvência
+    - Suprime Artigo 22.º — Licença
+    - Suprime Artigo 23.º — Oponibilidade a terceiros
 identifiers:
   celex: 32009R0207
   eli: http://data.europa.eu/eli/reg/2009/207/oj
@@ -49,7 +199,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/40e46fc3-8742-4a43-94ad-258635a5bcdb.0018
   content_url: http://publications.europa.eu/resource/cellar/b7cebaab-bae5-460f-9ca4-7c645a9ed24b.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0207-20171001
-  retrieved_at: '2026-10-22T02:52:44Z'
+  retrieved_at: '2026-10-22T15:41:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:07:03.105+02:00'
 integrity:
@@ -58,9 +208,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:44Z'
-  notes: Texto consolidado 02009R0207-20171001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:07Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-207.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -342,16 +492,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:44Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:41:07Z'
+  warnings: []
   errors: []
 ---
 

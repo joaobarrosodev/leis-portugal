@@ -1,0 +1,500 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0133:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0133-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2009-11-25",
+   "future": false,
+   "celex": "32009L0133",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c0b8d97ed542eb0",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "c00cbe8047e6b3e5",
+    "30bcb69316beeadd",
+    "6b6cbe55f1341a58",
+    "f0f8c960bfdbce9b",
+    "ce73f090597df618",
+    "0a5f0224b1e639a5",
+    "9c28aa926dc1dc41",
+    "d8be6813df2668f8",
+    "d7b00e3ce21f7e9a",
+    "c35b5604bf01d777",
+    "bd1fd498d31c3780",
+    "1e7a0903d2eed348",
+    "a6841118395823fc",
+    "479ad40944639c93",
+    "1ecfc79da3f1ac7f",
+    "c5c2590cd758eff2",
+    "a163e2041c34db41",
+    "40ed6b62e188ac6f",
+    "cab933972dd33aef",
+    "38323a6623bf8832",
+    "db79a1a82f5b6800",
+    "f5c642755ff71a38",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "01183c521f5c3bdd",
+    "5689013d31696178",
+    "08a296eaa36b809a",
+    "7a89fc7569061f62",
+    "71ff590a385d0667",
+    "3ec52b3498f7c9d2"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02009L0133-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0013:por",
+     "title": "DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0013"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 19.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita PARTE A",
+    "Adita LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º",
+    "Adita PARTE B",
+    "Adita LISTA DOS IMPOSTOS REFERIDA NA ALÍNEA C) DO ARTIGO 3.º",
+    "Adita ANEXO II",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "0c5bd3199f3102d1",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "b965a2466145b2c9",
+    "184cdf6dad6a7b4d",
+    "6b6cbe55f1341a58",
+    "f0f8c960bfdbce9b",
+    "ce73f090597df618",
+    "0a5f0224b1e639a5",
+    "9c28aa926dc1dc41",
+    "d8be6813df2668f8",
+    "d7b00e3ce21f7e9a",
+    "c35b5604bf01d777",
+    "bd1fd498d31c3780",
+    "1e7a0903d2eed348",
+    "a6841118395823fc",
+    "479ad40944639c93",
+    "1ecfc79da3f1ac7f",
+    "c5c2590cd758eff2",
+    "a163e2041c34db41",
+    "40ed6b62e188ac6f",
+    "cab933972dd33aef",
+    "38323a6623bf8832",
+    "db79a1a82f5b6800",
+    "f5c642755ff71a38",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "01183c521f5c3bdd",
+    "5689013d31696178",
+    "08a296eaa36b809a",
+    "7a89fc7569061f62",
+    "419e5f797e015a3f",
+    "d664376e2a8dcecd",
+    "87cee521b2f0bb1e",
+    "452b268af5fdc648",
+    "6041be3baf7dcb43",
+    "0016b4cb4dbd866a",
+    "852174729551523b",
+    "577da5e8d3c1edb0",
+    "647d412d3f26ca4e",
+    "321ada6a1a65d181",
+    "de98fbf990c31408"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c0b8d97ed542eb0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 2009\n\nrelativa ao regime fiscal comum aplicável às fusões, cisões, cisões parciais, entradas de activos e permutas de acções entre sociedades de Estados-Membros diferentes e à transferência da sede de uma SE ou de uma SCE de um Estado-Membro para outro\n\n(versão codificada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 94.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr1-L_2009310PT.01003401-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr2-L_2009310PT.01003401-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 90/434/CEE do Conselho, de 23 de Julho de 1990, relativa ao regime fiscal comum aplicável às fusões, cisões, entradas de activos e permutas de acções entre sociedades de Estados-Membros diferentes [([^3])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr3-L_2009310PT.01003401-E0003), foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr4-L_2009310PT.01003401-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) As fusões, as cisões, as cisões parciais, as entradas de activos e as permutas de acções entre sociedades de Estados-Membros diferentes podem ser necessárias para criar, na Comunidade, condições análogas às de um mercado interno e assegurar deste modo o bom funcionamento daquele mercado interno. Essas operações não deverão ser entravadas por restrições, desvantagens ou distorções resultantes em particular das disposições fiscais dos Estados-Membros. Importa, por conseguinte, prever, para essas operações, regras fiscais neutras relativamente à concorrência, a fim de permitir que as empresas se adaptem às exigências do mercado interno, aumentem a sua produtividade e reforcem a sua posição concorrencial no plano internacional.\n\n(3) Disposições de ordem fiscal penalizam actualmente essas operações em relação às realizadas entre sociedades do mesmo Estado-Membro. É necessário eliminar essa penalização.\n\n(4) Não é possível atingir este objectivo através do alargamento dos regimes internos em vigor nos Estados-Membros ao plano comunitário, uma vez que as diferenças entre esses regimes são susceptíveis de provocar distorções. Apenas um regime fiscal comum poderá constituir uma solução satisfatória a este respeito.\n\n(5) O regime fiscal comum deverá evitar a tributação das fusões, cisões, cisões parciais, entradas de activos e permutas de acções, salvaguardando os interesses financeiros do Estado-Membro da sociedade contribuidora ou adquirida.\n\n(6) O resultado das operações de fusão, cisão e entradas de activos será normalmente quer a transformação da sociedade contribuidora em estabelecimento estável da sociedade beneficiária da entrada quer a afectação dos activos a um estabelecimento estável desta última sociedade.\n\n(7) O regime de adiamento, até à sua realização efectiva, da tributação das mais-valias relativas aos bens transferidos, aplicado aos bens que estejam afectos a esse estabelecimento estável, permite evitar a tributação das mais-valias correspondentes, garantindo ao mesmo tempo a sua tributação posterior pelo Estado-Membro da sociedade contribuidora, no momento da sua realização.\n\n(8) Embora as sociedades constantes da lista da parte A do anexo I sejam sociedades sujeitas a imposto no Estado-Membro de residência fiscal, algumas poderão ser consideradas fiscalmente transparentes por outros Estados-Membros. Para assegurar a eficácia da presente directiva, os Estados-Membros que consideram as sociedades não residentes fiscalmente transparentes deverão conceder-lhes os benefícios da presente directiva. No entanto, os Estados-Membros deverão poder optar por não aplicar as disposições pertinentes da presente directiva ao tributarem um sócio directo ou indirecto dessas sociedades sujeitas a imposto.\n\n(9) É igualmente necessário definir o regime fiscal a aplicar a certas provisões, reservas ou prejuízos da sociedade contribuidora e resolver os problemas fiscais que se colocam quando uma das duas sociedades detém uma participação no capital da outra.\n\n(10) A atribuição, aos sócios da sociedade contribuidora, de títulos da sociedade beneficiária ou adquirente não deverá, por si só, originar qualquer tributação desses sócios.\n\n(11) A decisão de uma SE ou SCE de proceder a uma reorganização das suas actividades transferindo a sua sede não deverá ser indevidamente entravada por normas fiscais discriminatórias ou por outras restrições, desvantagens ou distorções resultantes de legislações fiscais nacionais contrárias ao direito comunitário. A transferência ou um acontecimento conexo poderá dar lugar a tributação no Estado-Membro de onde a sede é transferida. Quando os activos da SE ou da SCE permaneçam efectivamente afectos a um estabelecimento estável situado no Estado-Membro de onde a sede foi transferida, o referido estabelecimento estável deverá poder beneficiar de vantagens similares às previstas nos artigos 4.º, 5.º e 6.º. Além disso, convém excluir a tributação dos sócios aquando da transferência da sede.\n\n(12) A presente directiva não contempla o reconhecimento, no Estado-Membro de residência de uma SE ou SCE, dos prejuízos de um estabelecimento estável situado noutro Estado-Membro. Nomeadamente, quando a sede de uma SE ou SCE é transferida para outro Estado-Membro, esse facto não impede o primeiro Estado-Membro de residência fiscal de oportunamente reintegrar os prejuízos do estabelecimento estável.\n\n(13) É necessário prever a faculdade de os Estados-Membros recusarem o benefício da aplicação da presente directiva sempre que a operação de fusão, de cisão, de cisão parcial, de entrada de activos, de permuta de acções ou de transferência da sede de uma SE ou SCE tenha como objectivo a fraude ou a evasão fiscais ou tenha como resultado que uma sociedade, quer participe ou não na operação, deixe de preencher as condições requeridas para a representação dos trabalhadores nos órgãos sociais.\n\n(14) Um dos objectivos da presente directiva é a eliminação dos obstáculos ao funcionamento do mercado interno, como a dupla tributação. Na medida em que a presente directiva não atinja plenamente esse objectivo, os Estados-Membros deverão tomar as medidas necessárias para o alcançar.\n\n(15) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "c00cbe8047e6b3e5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros aplicam a presente directiva às seguintes operações:\n\na) Operações de fusão, de cisão, de cisão parcial, de entrada de activos e de permuta de acções que digam respeito a sociedades de dois ou mais Estados-Membros;\n\nb) Transferência da sede de um Estado-Membro para outro por uma sociedade europeia (Societas Europaea ou SE), regulada pelo Regulamento (CE) n.º 2157/2001 do Conselho, de 8 de Outubro de 2001, relativo ao estatuto da Sociedade Europeia (SE) [([^5])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr5-L_2009310PT.01003401-E0005), e por uma Sociedade Cooperativa Europeia (SCE), regulada pelo Regulamento (CE) n.º 1435/2003 do Conselho, de 22 de Julho de 2003, relativo ao estatuto da Sociedade Cooperativa Europeia (SCE) [([^6])](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntr6-L_2009310PT.01003401-E0006)."
+  },
+  "30bcb69316beeadd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Fusão», a operação pela qual: i) uma ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para outra sociedade já existente, mediante atribuição aos respectivos sócios de títulos representativos do capital social da outra sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos, ii) duas ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para uma sociedade que constituam, mediante a atribuição aos respectivos sócios de títulos representativos do capital social da sociedade nova e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos, iii) uma sociedade transfere, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para a sociedade detentora da totalidade dos títulos representativos do seu capital social;\n\ni) uma ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para outra sociedade já existente, mediante atribuição aos respectivos sócios de títulos representativos do capital social da outra sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos,\n\nii) duas ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para uma sociedade que constituam, mediante a atribuição aos respectivos sócios de títulos representativos do capital social da sociedade nova e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos,\n\niii) uma sociedade transfere, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para a sociedade detentora da totalidade dos títulos representativos do seu capital social;\n\nb) «Cisão», a operação pela qual uma sociedade transfere, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para duas ou mais sociedades já existentes ou novas, mediante a atribuição aos seus sócios, de acordo com uma regra de proporcionalidade, de títulos representativos do capital social das sociedades beneficiárias da entrada e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos;\n\nc) «Cisão parcial», uma operação pela qual uma sociedade transfere, sem ser dissolvida, um ou mais ramos da sua actividade para uma ou mais sociedades já existentes ou novas, deixando no mínimo um dos ramos de actividade na sociedade contribuidora, mediante a atribuição aos seus sócios, de acordo com uma regra de proporcionalidade, de títulos representativos do capital social das sociedades beneficiárias dos elementos do activo e do passivo e, eventualmente, de um pagamento em numerário não superior a 10 % do valor nominal ou, na ausência de um valor nominal, do valor contabilístico desses títulos;\n\nd) «Entrada de activos», a operação pela qual uma sociedade transfere, sem que seja dissolvida, o conjunto ou um ou mais ramos da sua actividade para outra sociedade, mediante entrega de títulos representativos do capital social da sociedade beneficiária da entrada;\n\ne) «Permuta de acções», a operação pela qual uma sociedade adquire uma participação no capital social de outra sociedade, que tem por efeito conferir-lhe a maioria dos direitos de voto desta sociedade ou pela qual uma sociedade, já detentora de tal participação maioritária, adquire nova participação mediante a atribuição aos sócios da outra sociedade, em troca dos seus títulos, de títulos representativos do capital social da primeira sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência do valor nominal, do valor contabilístico dos títulos entregues em troca;\n\nf) «Sociedade contribuidora», a sociedade que transfere o activo e passivo que integram o seu património ou que entrega o conjunto ou um ou mais ramos da sua actividade;\n\ng) «Sociedade beneficiária», a sociedade que recebe o activo e passivo que integram o património da sociedade contribuidora ou o conjunto ou um ou mais ramos de actividade desta sociedade;\n\nh) «Sociedade adquirida», a sociedade na qual outra sociedade adquire uma participação mediante permuta de títulos;\n\ni) «Sociedade adquirente», a sociedade que adquire uma participação mediante permuta de títulos;\n\nj) «Ramo de actividade», conjunto de elementos do activo e do passivo de um departamento de uma sociedade, que constituem, do ponto de vista organizacional, uma exploração autónoma, ou seja, um conjunto capaz de funcionar pelos seus próprios meios;\n\nk) «Transferência da sede», operação através da qual uma SE ou uma SCE, sem a sua dissolução ou a criação de uma nova pessoa colectiva, transfere a sua sede de um Estado-Membro para outro Estado-Membro."
+  },
+  "6b6cbe55f1341a58": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos de aplicação da presente directiva, a expressão «sociedade de um Estado-Membro» designa qualquer sociedade:\n\na) Que revista uma das formas enumeradas na parte A do anexo I;\n\nb) Que, de acordo com a legislação fiscal de um Estado-Membro, seja considerada como tendo o seu domicílio fiscal nesse Estado-Membro e, nos termos de uma convenção em matéria de dupla tributação celebrada com um país terceiro, não seja considerada como tendo domicílio fiscal fora da Comunidade; e\n\nc) Que esteja sujeita, sem possibilidade de opção e sem deles se encontrar isenta, a um dos impostos enumerados na parte B do anexo I ou a qualquer outro imposto que possa vir a substituir um daqueles impostos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "ce73f090597df618": {
+   "fragment_id": "REGRAS APLICÁVEIS ÀS FUSÕES, CISÕES, CISÕES PARCIAIS, ÀS ENTRADAS DE ACTIVOS E ÀS PERMUTAS DE ACÇÕES",
+   "type": "divisao",
+   "heading": "REGRAS APLICÁVEIS ÀS FUSÕES, CISÕES, CISÕES PARCIAIS, ÀS ENTRADAS DE ACTIVOS E ÀS PERMUTAS DE ACÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS APLICÁVEIS ÀS FUSÕES, CISÕES, CISÕES PARCIAIS, ÀS ENTRADAS DE ACTIVOS E ÀS PERMUTAS DE ACÇÕES"
+  },
+  "0a5f0224b1e639a5": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A fusão, a cisão ou a cisão parcial não implicam qualquer tributação das mais-valias determinadas pela diferença entre o valor real dos elementos do activo e do passivo transferidos e o respectivo valor fiscal.\n\n2. Para efeitos do presente artigo, entende-se por:\n\na) «Valor fiscal», o valor que teria sido fixado para o cálculo de um ganho ou de uma perda a considerar para efeitos de determinação da matéria colectável de um imposto sobre o rendimento, sobre os lucros ou sobre as mais-valias da sociedade contribuidora, se estes elementos do activo e do passivo tivessem sido vendidos no momento da fusão, da cisão ou da cisão parcial, mas independentemente destas operações;\n\nb) «Elementos do activo e do passivo transferidos», os elementos do activo e do passivo da sociedade contribuidora que, em consequência da fusão, da cisão ou da cisão parcial, sejam efectivamente afectos ao estabelecimento estável da sociedade beneficiária situado no Estado-Membro da sociedade contribuidora e concorram para a formação dos resultados a tomar em consideração para a determinação da matéria colectável dos impostos.\n\n3. Sempre que seja aplicável o n.º 1 e que um Estado-Membro considere que uma sociedade contribuidora não residente é fiscalmente transparente, à luz da avaliação, por esse Estado-Membro, das características jurídicas dessa sociedade, resultantes do direito ao abrigo do qual foi constituída, e que, nesse caso, tribute os sócios pela sua parte nos lucros da sociedade contribuidora, à medida e quando estes são obtidos, o referido Estado-Membro não tributa quaisquer rendimentos, lucros ou mais-valias determinados com base na diferença entre o valor real dos elementos do activo e do passivo transferidos e o respectivo valor fiscal.\n\n4. Os n.^os^ 1 e 3 são aplicáveis unicamente se a sociedade beneficiária calcular as novas amortizações e as mais-valias ou menos-valias relativas aos elementos do activo e do passivo transferidos, nas mesmas condições em que teriam podido fazê-lo a ou as sociedades contribuidoras se a fusão, a cisão ou a cisão parcial não tivesse ocorrido.\n\n5. Se, nos termos da legislação do Estado-Membro da sociedade contribuidora, a sociedade beneficiária puder calcular as novas amortizações e as mais-valias ou menos-valias relativas aos elementos do activo e do passivo transferidos, em condições diferentes das previstas no n.º 4, o disposto no n.º 1 não é aplicável aos elementos do activo e do passivo relativamente aos quais a sociedade beneficiária tiver exercido essa faculdade."
+  },
+  "9c28aa926dc1dc41": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros tomam todas as medidas necessárias para que as provisões ou reservas regularmente constituídas com desagravamento parcial ou total de imposto pela sociedade contribuidora, com excepção das provisões ou reservas provenientes de estabelecimentos estáveis situados no estrangeiro, sejam retomadas, nas mesmas condições de isenção de imposto, pelos estabelecimentos estáveis da sociedade beneficiária situados no Estado da sociedade contribuidora, substituindo-se então a sociedade beneficiária aos direitos e obrigações da sociedade contribuidora."
+  },
+  "d8be6813df2668f8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa medida em que os Estados-Membros apliquem, quando as operações mencionadas na alínea a) do artigo 1.º se realizem entre sociedades do Estado-Membro da sociedade contribuidora, disposições que permitam a retoma, pela sociedade beneficiária, dos prejuízos da sociedade contribuidora ainda não deduzidos para fins fiscais, os Estados-Membros tornam extensivo o benefício dessas disposições à retoma, pelos estabelecimentos permanentes da sociedade beneficiária situados no seu território, dos prejuízos da sociedade contribuidora ainda não deduzidos para efeitos fiscais."
+  },
+  "d7b00e3ce21f7e9a": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Sempre que a sociedade beneficiária detenha uma participação no capital da sociedade contribuidora, a mais-valia obtida pela primeira ao anular a sua participação não dá origem a qualquer tributação.\n\n2. Os Estados-Membros gozam da faculdade de derrogar o disposto no n.º 1 sempre que a participação da sociedade beneficiária no capital da sociedade contribuidora seja inferior a 15 %.\n\nA partir de 1 de Janeiro de 2009, a percentagem de capital mínimo é de 10 %."
+  },
+  "c35b5604bf01d777": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Em caso de fusão, cisão ou permuta de acções, a atribuição de títulos representativos do capital social da sociedade beneficiária ou adquirente a um sócio da sociedade contribuidora ou adquirida, em troca de títulos representativos do capital social desta última, não deve, por si mesma, implicar qualquer tributação sobre o rendimento, os lucros ou as mais-valias do referido sócio.\n\n2. Em caso de cisão parcial, a atribuição de títulos representativos do capital social da sociedade beneficiária a um sócio da sociedade contribuidora não deve, por si mesma, implicar qualquer tributação sobre o rendimento, os lucros ou as mais-valias do referido sócio.\n\n3. Se um Estado-Membro considerar que um sócio é fiscalmente transparente, à luz da avaliação, por esse Estado-Membro, das características jurídicas desse sócio, resultantes do direito ao abrigo do qual foi constituído e, nesse caso, tributar as pessoas com interesses nos sócios pela sua parte nos lucros do sócio, à medida e quando estes são obtidos, o referido Estado-Membro não tributa essas pessoas a título dos rendimentos, lucros ou mais-valias resultantes da atribuição a esse sócio de títulos representativos do capital social da sociedade beneficiária ou adquirente.\n\n4. Os n.^os^ 1 e 3 são aplicáveis apenas se o sócio não atribuir aos títulos recebidos por permuta um valor fiscal mais elevado que aquele que os títulos permutados tinham imediatamente antes da fusão, cisão ou permuta de acções.\n\n5. Os n.^os^ 2 e 3 são aplicáveis apenas se o sócio não atribuir à soma dos títulos recebidos e dos que detenha no capital da sociedade contribuidora um valor fiscal superior àquele que estes últimos tinham imediatamente antes da cisão parcial.\n\n6. A aplicação dos n.^os^ 1, 2 e 3 não impede que os Estados-Membros tributem o ganho resultante da posterior alienação dos títulos recebidos do mesmo modo que o ganho resultante da alienação dos títulos existentes antes da aquisição.\n\n7. Para efeitos do presente artigo, por «valor fiscal» entende-se o valor que serviria de base para o eventual cálculo de um ganho ou de uma perda a considerar para efeitos de determinação da matéria colectável de um imposto sobre o rendimento, os lucros ou as mais-valias do sócio da sociedade.\n\n8. Quando, de acordo com a lei do Estado-Membro da sua residência, um sócio seja autorizado a optar por um tratamento fiscal diferente do definido nos n.^os^ 4 e 5, os n.^os^ 1, 2 e 3 não são aplicáveis aos títulos em relação aos quais tenha exercido o seu direito de opção.\n\n9. Os n.^os^ 1, 2 e 3 não obstam a que um Estado-Membro tome em conta, para efeitos da tributação dos sócios, qualquer pagamento em numerário que eventualmente lhes tenha sido efectuado aquando de uma fusão, de uma cisão, de uma cisão parcial ou de uma permuta de acções."
+  },
+  "bd1fd498d31c3780": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs artigos 4.º, 5.º e 6.º são aplicáveis às entradas de activos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "a6841118395823fc": {
+   "fragment_id": "CASO ESPECIAL DA TRANSFERÊNCIA DE UM ESTABELECIMENTO ESTÁVEL",
+   "type": "divisao",
+   "heading": "CASO ESPECIAL DA TRANSFERÊNCIA DE UM ESTABELECIMENTO ESTÁVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CASO ESPECIAL DA TRANSFERÊNCIA DE UM ESTABELECIMENTO ESTÁVEL"
+  },
+  "479ad40944639c93": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Sempre que dos bens transferidos por ocasião de uma fusão, de uma cisão, de uma cisão parcial ou de uma entrada de activos faça parte um estabelecimento estável da sociedade contribuidora situado num Estado-Membro diverso do dessa sociedade, o Estado-Membro da sociedade contribuidora renuncia a qualquer direito de tributar esse estabelecimento estável.\n\nO Estado-Membro da sociedade contribuidora pode reintegrar nos lucros tributáveis desta última os prejuízos anteriores do estabelecimento estável que eventualmente tenham sido deduzidos dos lucros tributáveis da sociedade nesse Estado-Membro e que não tenham sido compensados.\n\nO Estado-Membro em que se situa o estabelecimento estável e o Estado-Membro da sociedade beneficiária aplicam a essa entrada de activos as disposições da presente directiva, como se o Estado-Membro em que o estabelecimento estável está situado fosse o Estado-Membro da sociedade contribuidora.\n\nO presente número é igualmente aplicável quando o estabelecimento estável se situar no Estado-Membro de que a sociedade beneficiária é residente.\n\n2. Em derrogação do n.º 1, sempre que o Estado-Membro da sociedade contribuidora aplique um regime de tributação dos lucros a nível mundial, esse Estado-Membro tem o direito de tributar quaisquer lucros ou mais-valias ligados ao estabelecimento estável resultantes de uma fusão, de uma cisão, de uma cisão parcial ou de uma entrada de activos, na condição de autorizar a dedução dos impostos que, na falta das disposições da presente directiva, teriam sido aplicados a esses lucros ou mais-valias no Estado-Membro em que se situa o referido estabelecimento estável, do mesmo modo e pelo mesmo montante que esse Estado teria aplicado se esse imposto tivesse sido realmente cobrado e pago."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "c5c2590cd758eff2": {
+   "fragment_id": "CASO ESPECIAL DAS ENTIDADES TRANSPARENTES",
+   "type": "divisao",
+   "heading": "CASO ESPECIAL DAS ENTIDADES TRANSPARENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CASO ESPECIAL DAS ENTIDADES TRANSPARENTES"
+  },
+  "a163e2041c34db41": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sempre que um Estado-Membro considere que uma sociedade contribuidora ou adquirida não residente é fiscalmente transparente, à luz da avaliação, por esse Estado-Membro, das características jurídicas dessa sociedade, resultantes do direito ao abrigo do qual foi constituída, tem o direito de não aplicar a presente directiva ao tributar um sócio directo ou indirecto da sociedade em relação ao rendimento, aos lucros ou às mais-valias dessa sociedade.\n\n2. Um Estado-Membro que exerça o direito referido no n.º 1 autoriza a dedução do imposto que, na falta das disposições da presente directiva, teria sido aplicada aos rendimentos, lucros e mais-valias da sociedade fiscalmente transparente, do mesmo modo e pelo mesmo montante que esse Estado-Membro teria aplicado se esse imposto tivesse sido realmente cobrado e pago.\n\n3. Sempre que um Estado-Membro considere que uma sociedade beneficiária ou adquirente não residente é fiscalmente transparente à luz da avaliação, por esse Estado-Membro, das características jurídicas dessa sociedade, resultantes do direito ao abrigo do qual foi constituída, tem o direito de não aplicar os n.^os^ 1, 2 e 3 do artigo 8.º.\n\n4. Sempre que um Estado-Membro considere que uma sociedade beneficiária não residente é fiscalmente transparente à luz da avaliação, por esse Estado-Membro, das características jurídicas dessa sociedade, resultantes do direito ao abrigo do qual foi constituída, esse Estado-Membro pode aplicar a qualquer sócio directo ou indirecto o mesmo tratamento para fins fiscais que aplicaria se a sociedade beneficiária fosse residente nesse Estado-Membro."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "cab933972dd33aef": {
+   "fragment_id": "REGRAS APLICÁVEIS À TRANSFERÊNCIA DA SEDE DE UMA SE OU DE UMA SCE",
+   "type": "divisao",
+   "heading": "REGRAS APLICÁVEIS À TRANSFERÊNCIA DA SEDE DE UMA SE OU DE UMA SCE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS APLICÁVEIS À TRANSFERÊNCIA DA SEDE DE UMA SE OU DE UMA SCE"
+  },
+  "38323a6623bf8832": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Sempre que:\n\na) Uma SE ou uma SCE transfira a sua sede de um Estado-Membro para outro Estado-Membro; ou\n\nb) Em relação com a transferência da sua sede de um Estado-Membro para outro Estado-Membro, uma SE ou uma SCE, residentes no primeiro Estado-Membro, deixem de ser residentes nesse Estado-Membro e passem a ser residentes noutro Estado-Membro,\n\nessa transferência da sede ou a cessação de residência fiscal não dá origem a qualquer tributação das mais-valias, calculadas nos termos do n.º 1 do artigo 4.º, no Estado-Membro donde foi feita a transferência da sede, resultantes dos elementos do activo e do passivo da SE ou da SCE que, em consequência da transferência da sede, continuem efectivamente afectos a um estabelecimento estável da SE ou da SCE no Estado-Membro donde foi feita a transferência da sede e contribuam para os lucros ou prejuízos a tomar em consideração para efeitos fiscais.\n\n2. O n.º 1 apenas se aplica se a SE ou a SCE calcular as novas amortizações e as mais-valias ou menos-valias relativas aos elementos do activo e do passivo que permanecem efectivamente afectos a esse estabelecimento estável, como se a transferência da sede não tivesse ocorrido ou a SE ou a SCE não tivesse deixado de ser residente fiscal.\n\n3. Se, nos termos da legislação do Estado-Membro donde foi feita a transferência da sede, a SE ou a SCE puderem calcular as novas amortizações e as mais-valias ou menos-valias relativas aos elementos do activo e do passivo restantes nesse Estado-Membro, em condições diferentes das previstas no n.º 2, o n.º 1 não é aplicável aos elementos do activo e do passivo relativamente aos quais essa faculdade tiver sido exercida."
+  },
+  "db79a1a82f5b6800": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Sempre que:\n\na) Uma SE ou uma SCE transfira a sua sede de um Estado-Membro para outro Estado-Membro; ou\n\nb) Em relação com a transferência da sua sede de um Estado-Membro para outro Estado-Membro, uma SE ou uma SCE residente no primeiro Estado-Membro, deixem de ser residentes nesse Estado-Membro e passem a ser residentes noutro Estado-Membro,\n\nos Estados-Membros tomam todas as medidas necessárias para assegurar que as provisões ou reservas regularmente constituídas pela SE ou pela SCE, antes da transferência da sede, são parcial ou totalmente isentas de imposto e não são provenientes de estabelecimentos permanentes situados no estrangeiro, essas provisões ou reservas podem ser retomadas, nas mesmas condições de isenção de imposto, por um estabelecimento estável da SE ou SCE situado no território do Estado-Membro de onde foi transferida a sede.\n\n2. Na medida em que uma sociedade que transfere a sua sede situada no território de um Estado-Membro esteja autorizada a imputar a um exercício anterior ou posterior os prejuízos que ainda não tenham sido deduzidos para efeitos fiscais, esse Estado-Membro autoriza o estabelecimento estável, situado no seu território, da SE ou da SCE que transfere a sua sede a considerar os prejuízos da SE ou da SCE que não tenham sido deduzidos para efeitos fiscais, desde que o reporte desses prejuízos pudesse ser efectuado, em circunstâncias análogas, por uma sociedade que continuasse a ter a sua sede ou que continuasse a ser residente para efeitos fiscais nesse Estado-Membro."
+  },
+  "f5c642755ff71a38": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A transferência da sede de uma SE ou de uma SCE não deve, por si mesma, implicar qualquer tributação sobre o rendimento, os lucros ou as mais-valias dos sócios.\n\n2. A aplicação do disposto no n.º 1 não impede os Estados-Membros de tributarem as mais-valias resultantes da posterior alienação dos títulos representativos do capital social da SE ou da SCE que transfere a sua sede."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "01183c521f5c3bdd": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-Membros podem recusar aplicar ou retirar o benefício de todas ou parte das disposições dos artigos 4.º a 14.º se for evidente que uma das operações referidas no artigo 1.º:\n\na) Tem como principal objectivo, ou como um dos principais objectivos, a fraude ou evasão fiscais; o facto da operação não ser executada por razões comerciais válidas como a reestruturação ou racionalização das actividades das sociedades que participam na operação pode constituir uma presunção de que a operação tem como principal objectivo ou como um dos principais objectivos a fraude ou evasão fiscais;\n\nb) Tem por resultado que uma sociedade, quer participe ou não na operação, deixa de preencher as condições necessárias para a representação dos trabalhadores nos órgãos da sociedade de acordo com as disposições que estavam em vigor antes da referida operação.\n\n2. O disposto na alínea b) do n.º 1 aplica-se enquanto e na medida em que nenhuma regulamentação comunitária que inclua disposições equivalentes em matéria de representação dos trabalhadores nos órgãos sociais seja aplicável às sociedades que são objecto da presente directiva."
+  },
+  "5689013d31696178": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-Membros comunicam à Comissão o texto das disposições essenciais de direito interno que aprovarem nas matérias regidas pela presente directiva."
+  },
+  "08a296eaa36b809a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nÉ revogada a Directiva 90/434/CEE, com a redacção que lhe foi dada pelos actos referidos na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional e de aplicação indicados na parte B do anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "7a89fc7569061f62": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "71ff590a385d0667": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 19 de Outubro de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**E. ERLANDSSON**\n\n---"
+  },
+  "3ec52b3498f7c9d2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc1-L_2009310PT.01003401-E0001) Parecer de 13 de Janeiro de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc2-L_2009310PT.01003401-E0002) [JO C 100 de 30.4.2009, p. 153](http://publications.europa.eu/resource/oj/JOC_2009_100_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc3-L_2009310PT.01003401-E0003) [JO L 225 de 20.8.1990, p. 1](http://publications.europa.eu/resource/oj/JOL_1990_225_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc4-L_2009310PT.01003401-E0004) Ver parte A do anexo II.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc5-L_2009310PT.01003401-E0005) [JO L 294 de 10.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_294_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018.02/DOC_1#ntc6-L_2009310PT.01003401-E0006) [JO L 207 de 18.8.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_207_R_TOC)."
+  },
+  "0c5bd3199f3102d1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 2009\n\nrelativa ao regime fiscal comum aplicável às fusões, cisões, cisões parciais, entradas de activos e permutas de acções entre sociedades de Estados-Membros diferentes e à transferência da sede de uma SE ou de uma SCE de um Estado-Membro para outro\n\n(versão codificada)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 94.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0002)),\n\n(1) A Directiva 90/434/CEE do Conselho, de 23 de Julho de 1990, relativa ao regime fiscal comum aplicável às fusões, cisões, entradas de activos e permutas de acções entre sociedades de Estados-Membros diferentes ([^3^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0003)), foi por várias vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) As fusões, as cisões, as cisões parciais, as entradas de activos e as permutas de acções entre sociedades de Estados-Membros diferentes podem ser necessárias para criar, na Comunidade, condições análogas às de um mercado interno e assegurar deste modo o bom funcionamento daquele mercado interno. Essas operações não deverão ser entravadas por restrições, desvantagens ou distorções resultantes em particular das disposições fiscais dos Estados-Membros. Importa, por conseguinte, prever, para essas operações, regras fiscais neutras relativamente à concorrência, a fim de permitir que as empresas se adaptem às exigências do mercado interno, aumentem a sua produtividade e reforcem a sua posição concorrencial no plano internacional.\n\n(3) Disposições de ordem fiscal penalizam actualmente essas operações em relação às realizadas entre sociedades do mesmo Estado-Membro. É necessário eliminar essa penalização.\n\n(4) Não é possível atingir este objectivo através do alargamento dos regimes internos em vigor nos Estados-Membros ao plano comunitário, uma vez que as diferenças entre esses regimes são susceptíveis de provocar distorções. Apenas um regime fiscal comum poderá constituir uma solução satisfatória a este respeito.\n\n(5) O regime fiscal comum deverá evitar a tributação das fusões, cisões, cisões parciais, entradas de activos e permutas de acções, salvaguardando os interesses financeiros do Estado-Membro da sociedade contribuidora ou adquirida.\n\n(6) O resultado das operações de fusão, cisão e entradas de activos será normalmente quer a transformação da sociedade contribuidora em estabelecimento estável da sociedade beneficiária da entrada quer a afectação dos activos a um estabelecimento estável desta última sociedade.\n\n(7) O regime de adiamento, até à sua realização efectiva, da tributação das mais-valias relativas aos bens transferidos, aplicado aos bens que estejam afectos a esse estabelecimento estável, permite evitar a tributação das mais-valias correspondentes, garantindo ao mesmo tempo a sua tributação posterior pelo Estado-Membro da sociedade contribuidora, no momento da sua realização.\n\n(8) Embora as sociedades constantes da lista da parte A do anexo I sejam sociedades sujeitas a imposto no Estado-Membro de residência fiscal, algumas poderão ser consideradas fiscalmente transparentes por outros Estados-Membros. Para assegurar a eficácia da presente directiva, os Estados-Membros que consideram as sociedades não residentes fiscalmente transparentes deverão conceder-lhes os benefícios da presente directiva. No entanto, os Estados-Membros deverão poder optar por não aplicar as disposições pertinentes da presente directiva ao tributarem um sócio directo ou indirecto dessas sociedades sujeitas a imposto.\n\n(9) É igualmente necessário definir o regime fiscal a aplicar a certas provisões, reservas ou prejuízos da sociedade contribuidora e resolver os problemas fiscais que se colocam quando uma das duas sociedades detém uma participação no capital da outra.\n\n(10) A atribuição, aos sócios da sociedade contribuidora, de títulos da sociedade beneficiária ou adquirente não deverá, por si só, originar qualquer tributação desses sócios.\n\n(11) A decisão de uma SE ou SCE de proceder a uma reorganização das suas actividades transferindo a sua sede não deverá ser indevidamente entravada por normas fiscais discriminatórias ou por outras restrições, desvantagens ou distorções resultantes de legislações fiscais nacionais contrárias ao direito comunitário. A transferência ou um acontecimento conexo poderá dar lugar a tributação no Estado-Membro de onde a sede é transferida. Quando os activos da SE ou da SCE permaneçam efectivamente afectos a um estabelecimento estável situado no Estado-Membro de onde a sede foi transferida, o referido estabelecimento estável deverá poder beneficiar de vantagens similares às previstas nos artigos 4.º, 5.º e 6.º. Além disso, convém excluir a tributação dos sócios aquando da transferência da sede.\n\n(12) A presente directiva não contempla o reconhecimento, no Estado-Membro de residência de uma SE ou SCE, dos prejuízos de um estabelecimento estável situado noutro Estado-Membro. Nomeadamente, quando a sede de uma SE ou SCE é transferida para outro Estado-Membro, esse facto não impede o primeiro Estado-Membro de residência fiscal de oportunamente reintegrar os prejuízos do estabelecimento estável.\n\n(13) É necessário prever a faculdade de os Estados-Membros recusarem o benefício da aplicação da presente directiva sempre que a operação de fusão, de cisão, de cisão parcial, de entrada de activos, de permuta de acções ou de transferência da sede de uma SE ou SCE tenha como objectivo a fraude ou a evasão fiscais ou tenha como resultado que uma sociedade, quer participe ou não na operação, deixe de preencher as condições requeridas para a representação dos trabalhadores nos órgãos sociais.\n\n(14) Um dos objectivos da presente directiva é a eliminação dos obstáculos ao funcionamento do mercado interno, como a dupla tributação. Na medida em que a presente directiva não atinja plenamente esse objectivo, os Estados-Membros deverão tomar as medidas necessárias para o alcançar.\n\n(15) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "b965a2466145b2c9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros aplicam a presente directiva às seguintes operações:\n\na) Operações de fusão, de cisão, de cisão parcial, de entrada de activos e de permuta de acções que digam respeito a sociedades de dois ou mais Estados-Membros;\n\nb) Transferência da sede de um Estado-Membro para outro por uma sociedade europeia (Societas Europaea ou SE), regulada pelo Regulamento (CE) n.º 2157/2001 do Conselho, de 8 de Outubro de 2001, relativo ao estatuto da Sociedade Europeia (SE) ([^5^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0005)), e por uma Sociedade Cooperativa Europeia (SCE), regulada pelo Regulamento (CE) n.º 1435/2003 do Conselho, de 22 de Julho de 2003, relativo ao estatuto da Sociedade Cooperativa Europeia (SCE) ([^6^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0006))."
+  },
+  "184cdf6dad6a7b4d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Fusão», a operação pela qual:\n\ni) uma ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para outra sociedade já existente, mediante atribuição aos respectivos sócios de títulos representativos do capital social da outra sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos,\n\nii) duas ou mais sociedades transferem, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para uma sociedade que constituam, mediante a atribuição aos respectivos sócios de títulos representativos do capital social da sociedade nova e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos,\n\niii) uma sociedade transfere, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para a sociedade detentora da totalidade dos títulos representativos do seu capital social;\n\nb) «Cisão», a operação pela qual uma sociedade transfere, na sequência e por ocasião da sua dissolução sem liquidação, o conjunto do activo e do passivo que integra o seu património para duas ou mais sociedades já existentes ou novas, mediante a atribuição aos seus sócios, de acordo com uma regra de proporcionalidade, de títulos representativos do capital social das sociedades beneficiárias da entrada e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência de valor nominal, do valor contabilístico desses títulos;\n\nc) «Cisão parcial», uma operação pela qual uma sociedade transfere, sem ser dissolvida, um ou mais ramos da sua actividade para uma ou mais sociedades já existentes ou novas, deixando no mínimo um dos ramos de actividade na sociedade contribuidora, mediante a atribuição aos seus sócios, de acordo com uma regra de proporcionalidade, de títulos representativos do capital social das sociedades beneficiárias dos elementos do activo e do passivo e, eventualmente, de um pagamento em numerário não superior a 10 % do valor nominal ou, na ausência de um valor nominal, do valor contabilístico desses títulos;\n\nd) «Entrada de activos», a operação pela qual uma sociedade transfere, sem que seja dissolvida, o conjunto ou um ou mais ramos da sua actividade para outra sociedade, mediante entrega de títulos representativos do capital social da sociedade beneficiária da entrada;\n\ne) «Permuta de acções», a operação pela qual uma sociedade adquire uma participação no capital social de outra sociedade, que tem por efeito conferir-lhe a maioria dos direitos de voto desta sociedade ou pela qual uma sociedade, já detentora de tal participação maioritária, adquire nova participação mediante a atribuição aos sócios da outra sociedade, em troca dos seus títulos, de títulos representativos do capital social da primeira sociedade e, eventualmente, de uma quantia em dinheiro não superior a 10 % do valor nominal ou, na ausência do valor nominal, do valor contabilístico dos títulos entregues em troca;\n\nf) «Sociedade contribuidora», a sociedade que transfere o activo e passivo que integram o seu património ou que entrega o conjunto ou um ou mais ramos da sua actividade;\n\ng) «Sociedade beneficiária», a sociedade que recebe o activo e passivo que integram o património da sociedade contribuidora ou o conjunto ou um ou mais ramos de actividade desta sociedade;\n\nh) «Sociedade adquirida», a sociedade na qual outra sociedade adquire uma participação mediante permuta de títulos;\n\ni) «Sociedade adquirente», a sociedade que adquire uma participação mediante permuta de títulos;\n\nj) «Ramo de actividade», conjunto de elementos do activo e do passivo de um departamento de uma sociedade, que constituem, do ponto de vista organizacional, uma exploração autónoma, ou seja, um conjunto capaz de funcionar pelos seus próprios meios;\n\nk) «Transferência da sede», operação através da qual uma SE ou uma SCE, sem a sua dissolução ou a criação de uma nova pessoa colectiva, transfere a sua sede de um Estado-Membro para outro Estado-Membro."
+  },
+  "419e5f797e015a3f": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "452b268af5fdc648": {
+   "fragment_id": "LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º",
+   "type": "divisao",
+   "heading": "LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º\n\na) As sociedades (SE) constituídas em conformidade com o Regulamento (CE) n.º 2157/2001 e a Directiva 2001/86/CE do Conselho, de 8 de Outubro de 2001, que completa o estatuto da sociedade europeia no que respeita ao envolvimento dos trabalhadores ([^7^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0007)), e as sociedades cooperativas (SCE) constituídas em conformidade com o Regulamento (CE) n.º 1435/2003 e a Directiva 2003/72/CE do Conselho, de 22 de Julho de 2003, que completa o estatuto da sociedade cooperativa europeia no que respeita ao envolvimento dos trabalhadores ([^8^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0008));\n\nb) As sociedades de direito belga denominadas «société anonyme»/«naamloze vennootschap», «société en commandite par actions»/«commanditaire vennootschap op aandelen», «société privée à responsabilité limitée»/«besloten vennootschap met beperkte aansprakelijkheid»«société coopérative à responsabilité limitée»/«coöperatieve vennootschap met beperkte aansprakelijkheid», «société coopérative à responsabilité illimitée»/«coöperatieve vennootschap met onbeperkte aansprakelijkheid», «société en nom collectif»/«vennootschap onder firma», «société en commandite simple»/«gewone commanditaire vennootschap», empresas públicas que tenham adoptado uma das formas jurídicas acima referidas, bem como outras sociedades de direito belga sujeitas ao imposto sobre as sociedades belga;\n\nc) As sociedades de direito búlgaro conhecidas por «събирателното дружество», «командитното дружество», «дружеството с ограничена отговорност», «акционерното дружество», «командитното дружество с акции», «кооперации», «кооперативни съюзи» e «държавни предприятия» constituídas no âmbito do direito búlgaro e que exerçam actividades comerciais;\n\nd) As sociedades de direito checo denominadas «akciová společnost» e «společnost s ručením omezeným»;\n\ne) As sociedades de direito dinamarquês denominadas «aktieselskab» e «anpartsselskab» e outras sociedades sujeitas a imposto em conformidade com a lei sobre a tributação das sociedades, na medida em que o seu rendimento tributável seja calculado e tributado de acordo com a legislação fiscal geral aplicável às «aktieselskaber»;\n\nf) As sociedades de direito alemão denominadas «Aktiengesellschaft», «Kommanditgesellschaft auf Aktien», «Gesellschaft mit beschränkter Haftung», «Versicherungsverein auf Gegenseitigkeit», «Erwerbs– und Wirtschaftsgenossenschaft», «Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts», bem como outras sociedades de direito alemão sujeitas ao imposto sobre as sociedades alemão;\n\ng) As sociedades de direito estoniano denominadas «täisühing», «usaldusühing», «osaühing», «aktsiaselts» e «tulundusühistu»;\n\nh) As sociedades, constituídas ou existentes, de direito irlandês, as entidades registadas sob o regime do «Industrial and Provident Societies Act», as «building societies» constituídas ao abrigo dos Building Societies Acts, bem como os «trustee savings banks» na acepção do «Trustee Savings Banks Act» de 1989;\n\ni) As sociedades de direito helénico denominadas «ανώνυμη εταιρεία» e «εταιρεία περιορισμένης ευθύνης (Ε.Π.Ε.)»;\n\nj) As sociedades de direito espanhol denominadas «sociedad anónima», «sociedad comanditaria por acciones», «sociedad de responsabilidad limitada», bem como as entidades de direito público que operam sob o regime do direito privado;\n\nk) As sociedades de direito francês denominadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée», «sociétés par actions simplifiées», «sociétés d’assurances mutuelles», «caisses d’épargne et de prévoyance», «sociétés civiles» que estejam automaticamente sujeitas ao imposto sobre as sociedades, «coopératives», «unions de coopératives», estabelecimentos e empresas públicos de carácter industrial e comercial, e outras sociedades de direito francês sujeitas ao imposto sobre as sociedades francês;\n\nl) As sociedades de direito italiano denominadas «società per azioni», «società in accomandita per azioni», «società a responsabilità limitata», «società cooperative», «società di mutua assicurazione», bem como as entidades públicas e privadas que exercem actividades exclusiva ou principalmente comerciais;\n\nm) As sociedades de direito cipriota «εταιρείες» definidas na legislação relativa ao imposto sobre o rendimento;\n\nn) As sociedades de direito letão denominadas «akciju sabiedrība», «sabiedrība ar ierobežotu atbildību»;\n\no) As sociedades de direito lituano;\n\np) As sociedades de direito luxemburguês denominadas «société anonyme», «société en commandite par actions», «société à responsabilité limitée», «société coopérative», «société coopérative organisée comme une société anonyme», «association d’assurances mutuelles», «association d’épargne-pension», «entreprise de nature commerciale, industrielle ou minière de l’État, des communes, des syndicats de communes, des établissements publics et des autres personnes morales de droit public», bem como outras sociedades de direito luxemburguês sujeitas ao imposto sobre as sociedades luxemburguês;\n\nq) As sociedades de direito húngaro denominadas «közkereseti társaság», «betéti társaság», «közös vállalat», «korlátolt felelősségű társaság», «részvénytársaság», «egyesülés», «közhasznú társaság» e «szövetkezet»;\n\nr) As sociedades de direito maltês denominadas «Kumpaniji ta’ Responsabilita Limitata», «Soċjetajiet en commandite li l-kapital tagħhom maqsum f’azzjonijiet»;\n\ns) As sociedades de direito neerlandês denominadas «naamloze vennootschap», «besloten vennootschap met beperkte aansprakelijkheid», «Open commanditaire vennootschap», «Coöperatie», «onderlinge waarborgmaatschappij», «Fonds voor gemene rekening», «vereniging op coöperatieve grondslag» e «vereniging welke op onderlinge grondslag als verzekeraar of kredietinstelling optreedt», bem como outras sociedades de direito neerlandês sujeitas ao imposto sobre as sociedades neerlandês;\n\nt) As sociedades de direito austríaco denominadas «Aktiengesellschaft», «Gesellschaft mit beschränkter Haftung» e «Erwerbs- und Wirtschaftsgenossenschaften»;\n\nu) As sociedades de direito polaco denominadas «spółka akcyjna» e «spółka z ograniczoną odpowiedzialnością»;\n\nv) As sociedades comerciais ou as sociedades civis sob forma comercial, bem como outras pessoas colectivas que exerçam actividades comerciais ou industriais, constituídas de acordo com a legislação portuguesa;\n\nw) As sociedades de direito romeno conhecidas por: «societăți pe acțiuni», «societăți în comandită pe acțiuni» e «societăți cu răspundere limitată»;\n\nx) As sociedades de direito esloveno denominadas «delniška družba», «komanditna družba» e «družba z omejeno odgovornostjo»;\n\ny) As sociedades de direito eslovaco denominadas «akciová spoločnosť», «spoločnosť s ručením obmedzeným» e «komanditná spoločnosť»;\n\nz) As sociedades de direito finlandês denominadas «osakeyhtiö»/«aktiebolag», «osuuskunta»/«andelslag», «säästöpankki»/«sparbank» e «vakuutusyhtiö»/«försäkringsbolag»;\n\naa) As sociedades de direito sueco denominadas «aktiebolag», «bankaktiebolag», «försäkringsaktiebolag», «ekonomiska föreningar», «sparbanker» e «ömsesidiga försäkringsbolag»;\n\nab) As sociedades constituídas em conformidade com a legislação do Reino Unido;\n\nk–A) As sociedades de direito croata denominadas: «dioničko društvo», «društvo s ograničenom odgovornošću», bem como outras sociedades de direito croata sujeitas ao imposto sobre lucros na Croácia."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "0016b4cb4dbd866a": {
+   "fragment_id": "LISTA DOS IMPOSTOS REFERIDA NA ALÍNEA C) DO ARTIGO 3.º",
+   "type": "divisao",
+   "heading": "LISTA DOS IMPOSTOS REFERIDA NA ALÍNEA C) DO ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS IMPOSTOS REFERIDA NA ALÍNEA C) DO ARTIGO 3.º\n\n— impôt des sociétés/vennootschapsbelasting, na Bélgica,\n\n— корпоративен данък, na Bulgária,\n\n— daň z příjmů právnických osob, na República Checa,\n\n— selskabsskat, na Dinamarca,\n\n— Körperschaftssteuer, na Alemanha,\n\n— tulumaks, na Estónia,\n\n— corporation tax, na Irlanda,\n\n— φόρος εισοδήματος νομικών ποσώπων κερδοσκοπικού χαρακτήρα, na Grécia,\n\n— impuesto sobre sociedades, em Espanha,\n\n— impôt sur les sociétés, em França,\n\n— porez na dobit, na Croácia,\n\n— imposta sul reddito delle società, na Itália,\n\n— φόρος εισοδήματος, em Chipre,\n\n— uzņēmumu ienākuma nodoklis, na Letónia,\n\n— pelno mokestis, na Lituânia,\n\n— impôt sur le revenu des collectivités, no Luxemburgo,\n\n— társasági adó, na Hungria,\n\n— taxxa fuq l-income, em Malta,\n\n— vennootschapsbelasting, nos Países Baixos,\n\n— Körperschaftssteuer, na Áustria,\n\n— podatek dochodowy od osób prawnych, na Polónia,\n\n— imposto sobre o rendimento das pessoas colectivas, em Portugal,\n\n— impozit pe profit, na Roménia,\n\n— davek od dobička pravnih oseb, na Eslovénia,\n\n— daň z príjmov právnických osôb, na Eslóvaquia,\n\n— yhteisöjen tulovero/inkomstskatten för samfund, na Finlândia,\n\n— statlig inkomstskatt, na Suécia,\n\n— corporation tax, no Reino Unido."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "577da5e8d3c1edb0": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 90/434/CEE do Conselho (JO L 225 de 20.8.1990, p. 1)\n\nPonto XI.B.I.2 do anexo I do Acto de Adesão de 1994 (JO C 241 de 29.8.1994, p. 196)\n\nPonto 9.7 do anexo II do Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 559)\n\nDirectiva 2005/19/CE do Conselho (JO L 58 de 4.3.2005, p. 19)\n\nDirectiva 2006/98/CE do Conselho (JO L 363 de 20.12.2006, p. 129) Apenas o n.º 6 do anexo"
+  },
+  "647d412d3f26ca4e": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 90/434/CEE | 1 de Janeiro de 1992 | 1 de Janeiro de 1993 [(^1^)](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0009) |\n| 2005/19/CE | 1 de Janeiro de 2006 [(^2^)](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0010) 1 de Janeiro de 2007 [(^3^)](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#E0011) | — |\n| 2006/98/CE | 1 de Janeiro de 2007 | — |\n| (^1^)Apenas aplicável à República Portuguesa. (^2^)No que respeita às disposições do n.º 1 do artigo 2.º da directiva. (^3^)No que respeita às disposições do n.º 2 do artigo 2.º da directiva. |  |  |"
+  },
+  "321ada6a1a65d181": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 90/434/CEE Presente directiva\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º, alínea a), primeiro travessão Artigo 2.º, alínea a), subalínea i)\n\nArtigo 2.º, alínea a), segundo travessão Artigo 2.º, alínea a), subalínea ii)\n\nArtigo 2.º, alínea a), terceiro travessão Artigo 2.º, alínea a), subalínea iii)\n\nArtigo 2.º, alínea b) Artigo 2.º, alínea b)\n\nArtigo 2.º, alínea b-a) Artigo 2.º, alínea c)\n\nArtigo 2.º, alínea c) Artigo 2.º, alínea d)\n\nArtigo 2.º, alínea d) Artigo 2.º, alínea e)\n\nArtigo 2.º, alínea e) Artigo 2.º, alínea f)\n\nArtigo 2.º, alínea f) Artigo 2.º, alínea g)\n\nArtigo 2.º, alínea g) Artigo 2.º, alínea h)\n\nArtigo 2.º, alínea h) Artigo 2.º, alínea i)\n\nArtigo 2.º, alínea i) Artigo 2.º, alínea j)\n\nArtigo 2.º, alínea j) Artigo 2.º, alínea k)\n\nArtigo 3.º, alínea a) Artigo 3.º, alínea a)\n\nArtigo 3.º, alínea b) Artigo 3.º, alínea b)\n\nArtigo 3.º, alínea c), frase introdutória do primeiro parágrafo e segundo parágrafo Artigo 3.º, alínea c)\n\nArtigo 3.º, alínea c), primeiro parágrafo, primeiro ao vigésimo sétimo travessões Anexo I, parte B\n\nArtigo 4.º, n.º 1, primeiro parágrafo Artigo 4.º, n.º 1\n\nArtigo 4.º, n.º 1, segundo parágrafo Artigo 4.º, n.º 2\n\nArtigo 4.º, n.º 2 Artigo 4.º, n.º 3\n\nArtigo 4.º, n.º 3 Artigo 4.º, n.º 4\n\nArtigo 4.º, n.º 4 Artigo 4.º, n.º 5\n\nArtigos 5.º e 6.º Artigos 5.º e 6.º\n\nArtigo 7.º, n.º 1 Artigo 7.º, n.º 1\n\nArtigo 7.º, n.º 2, primeiro parágrafo Artigo 7.º, n.º 2, primeiro parágrafo\n\nArtigo 7.º, n.º 2, segundo parágrafo, primeira frase —\n\nArtigo 7.º, n.º 2, segundo parágrafo, segunda frase Artigo 7.º, n.º 2, segundo parágrafo\n\nArtigos 8.º, 9.º e 10.º Artigos 8.º, 9.º e 10.º\n\nArtigo 10.ºA Artigo 11.º\n\nArtigo 10.ºB Artigo 12.º\n\nArtigo 10.ºC Artigo 13.º\n\nArtigo 10.ºD Artigo 14.º\n\nArtigo 11.º Artigo 15.º\n\nArtigo 12.º, n.º 1 —\n\nArtigo 12.º, n.º 2 —\n\nArtigo 12.º, n.º 3 Artigo 16.º\n\n— Artigo 17.º\n\n— Artigo 18.º\n\nArtigo 13.º Artigo 19.º\n\nAnexo Anexo I, parte A\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "de98fbf990c31408": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0001)) Parecer de 13 de Janeiro de 2009 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0002)) JO C 100 de 30.4.2009, p. 153.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0003)) JO L 225 de 20.8.1990, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0004)) Ver parte A do anexo II.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0005)) JO L 294 de 10.11.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0006)) JO L 207 de 18.8.2003, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0007)) JO L 294 de 10.11.2001, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1#src.E0008)) JO L 207 de 18.8.2003, p. 25."
+  }
+ }
+}

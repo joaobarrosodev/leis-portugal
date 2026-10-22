@@ -38,6 +38,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-08-01'
+version_history:
+  file: diretiva-ue-2010-78.versoes.json
+  count: 4
+  source_lastmod: '2019-08-01'
+  versions:
+  - date: '2010-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Directiva 98/26/CE
+    - Altera Artigo 2.º — Alterações à Directiva 2002/87/CE
+    - Altera Artigo 3.º — Alterações à Directiva 2003/6/CE
+    - Altera Artigo 4.º — Alterações à Directiva 2003/41/CE
+    - Altera Artigo 5.º — Alterações à Directiva 2003/71/CE
+    - Altera Artigo 6.º — Alterações à Directiva 2004/39/CE
+    - Altera Artigo 7.º — Alterações à Directiva 2004/109/CE
+    - Altera Artigo 8.º — Alterações à Directiva 2005/60/CE
+    - Altera Artigo 9.º — Alterações à Directiva 2006/48/CE
+    - Altera Artigo 10.º — Alterações à Directiva 2006/49/CE
+    - Altera Artigo 11.º — Alterações à Directiva 2009/65/CE
+    - Altera Artigo 15.º — Destinatários
+    - Altera Notas
+  - date: '2019-01-13'
+    amending: eu:celex:32013L0036:por
+    amending_title: DIRETIVA 2013/36/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho
+      de 2013; DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de
+      2014; REGULAMENTO (UE) N. o 596/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014; DIRETIVA (UE) 2016/2341
+      DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Directiva 98/26/CE
+    - Altera Artigo 2.º — Alterações à Directiva 2002/87/CE
+    - Altera Artigo 5.º — Alterações à Directiva 2003/71/CE
+    - Altera Artigo 7.º — Alterações à Directiva 2004/109/CE
+    - Altera Artigo 8.º — Alterações à Directiva 2005/60/CE
+    - Altera Artigo 10.º — Alterações à Directiva 2006/49/CE
+    - Altera Artigo 11.º — Alterações à Directiva 2009/65/CE
+    - Altera Notas
+    - Suprime Artigo 3.º — Alterações à Directiva 2003/6/CE
+    - Suprime Artigo 4.º — Alterações à Directiva 2003/41/CE
+    - Suprime Artigo 6.º — Alterações à Directiva 2004/39/CE
+    - Suprime Artigo 9.º — Alterações à Directiva 2006/48/CE
+  - date: '2019-08-01'
+    amending: eu:celex:32015L0849:por
+    amending_title: DIRETIVA (UE) 2015/849 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de
+      maio de 2015; REGULAMENTO (UE) 2017/1129 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2017
+    changes:
+    - Altera Artigo 1.º — Alterações à Directiva 98/26/CE
+    - Altera Artigo 2.º — Alterações à Directiva 2002/87/CE
+    - Altera Artigo 7.º — Alterações à Directiva 2004/109/CE
+    - Altera Artigo 11.º — Alterações à Directiva 2009/65/CE
+    - Altera Notas
+    - Suprime Artigo 5.º — Alterações à Directiva 2003/71/CE
+    - Suprime Artigo 8.º — Alterações à Directiva 2005/60/CE
+    - Suprime Artigo 10.º — Alterações à Directiva 2006/49/CE
 identifiers:
   celex: 32010L0078
   eli: http://data.europa.eu/eli/dir/2010/78/oj
@@ -52,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/798e3986-28a7-4271-ab95-8bdaa386e5db.0003
   content_url: http://publications.europa.eu/resource/cellar/c9cb10f2-dbb6-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0078-20190801
-  retrieved_at: '2026-10-22T02:48:18Z'
+  retrieved_at: '2026-10-22T15:47:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T03:55:31.563+02:00'
 integrity:
@@ -61,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:18Z'
-  notes: Texto consolidado 02010L0078-20190801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:14Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2010-78.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -235,39 +295,19 @@ relationships:
   date: '2014-06-12'
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:18Z'
+  checked_at: '2026-10-22T15:47:14Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/78/UE do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
-
-> 02010L0078 — PT — 01.08.2019 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0036) — [DIRETIVA 2013/36/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013L0036) — L 176 — 338 — 27.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014L0065) — [DIRETIVA 2014/65/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0065) — L 173 — 349 — 12.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32014R0596) — [REGULAMENTO (UE) N.º 596/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0596) — L 173 — 1 — 12.6.2014
-- [►M4](http://publications.europa.eu/resource/celex/32015L0849) — [DIRETIVA (UE) 2015/849 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015L0849) — L 141 — 73 — 5.6.2015
-- [►M5](http://publications.europa.eu/resource/celex/32016L2341) — [DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2341) — L 354 — 37 — 23.12.2016
-- [►M6](http://publications.europa.eu/resource/celex/32017R1129) — [REGULAMENTO (UE) 2017/1129 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1129) — L 168 — 12 — 30.6.2017
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32010L0078R%2801%29) — [Rectificação, JO L 170, 30.6.2011, p. 43 (2010/78/UE)](http://publications.europa.eu/resource/celex/32010L0078R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32010L0078R%2802%29) — [Rectificação, JO L 054, 22.2.2014, p. 23 (2010/78/UE)](http://publications.europa.eu/resource/celex/32010L0078R%2802%29)
-
-## DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Novembro de 2010
 

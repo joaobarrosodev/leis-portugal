@@ -1,0 +1,803 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0436:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0436-20180303",
+ "dre_path": null,
+ "source_lastmod": "2018-03-03",
+ "versions": [
+  {
+   "date": "2009-05-27",
+   "future": false,
+   "celex": "32009R0436",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3546e3c328d86250",
+    "ffc348f463b781ad",
+    "3f8ab346cad05a54",
+    "5a824ab7c5e33dde",
+    "8d5903cb8c7840df",
+    "d3c1fd829e57fb12",
+    "c3e2776c38d29d14",
+    "7afcf47661745403",
+    "4c8bdeab3d91ec7d",
+    "8fdcaf07fc18b457",
+    "f75adee4e98a8326",
+    "6858956c0d85d1f1",
+    "226c39ffd0a88dad",
+    "1be96f852fbf261d",
+    "2a871e632490fea8",
+    "51322fe600569292",
+    "57ab52d546fd04e8",
+    "494ba9cf448a4239",
+    "f0f8c960bfdbce9b",
+    "e66b8427f7f19165",
+    "ffd8035b8235fce4",
+    "a872fb10a149859d",
+    "95e8e86032f7364c",
+    "cf3e371de8bb9b1a",
+    "d5047e377ece8328",
+    "ca8b0dc68735f171",
+    "1cb93c24364d8e8d",
+    "1e7a0903d2eed348",
+    "e3e1462c17a07952",
+    "7a980bda0ee73f37",
+    "1ecfc79da3f1ac7f",
+    "b3cbc24b70896e10",
+    "d51db640c405184b",
+    "9db704600627e53c",
+    "88b96c3b713f4364",
+    "226c39ffd0a88dad",
+    "2dcc0b887dc4ed4a",
+    "3dfbdcc2949e8574",
+    "8bea7334c9f835c5",
+    "f0f8c960bfdbce9b",
+    "f8c4dd39954952cb",
+    "07eb7420610e56ce",
+    "72233228410003f0",
+    "72c912206d9f2be6",
+    "4138902662ac5ea9",
+    "880269bc068b22c1",
+    "d445809e26be4fd0",
+    "5a94e66bd66eff94",
+    "236cd676d9f2b1fb",
+    "69d5af962169fc61",
+    "27a56a8a18a9abaf",
+    "6bc72617a8312b8d",
+    "d97f9d74ebd0f666",
+    "d4b4c956366ef681",
+    "1e7a0903d2eed348",
+    "fd90c5bcc6273956",
+    "36c8ebe44dd0b0e8",
+    "f0a62d4fd7b1f9b0",
+    "f1c7102266bdea88",
+    "25df4acbd6e16785",
+    "b45ac5cbcb45554e",
+    "9973bebbe5f740ec",
+    "122bf5101c57f46a",
+    "0547d91fb73a84be",
+    "5096f9a47ccb1cef",
+    "eb255909392ef400",
+    "dc5accb272c0a736",
+    "1ecfc79da3f1ac7f",
+    "d2520b14785e86b9",
+    "a6182da3ac7e9d68",
+    "f4a1dbec25adc9c1",
+    "cc61036bf94e5249",
+    "662cf62f00c33127",
+    "966d3b11fd5a17ca",
+    "a9bedbbfe5f7e129",
+    "95298de478d58a24",
+    "309e1156a20203fe",
+    "9f63ee0fe4b118a5",
+    "a7e8417fd24ef1b4",
+    "8f3a17f966154018"
+   ]
+  },
+  {
+   "date": "2018-03-03",
+   "future": false,
+   "celex": "02009R0436-20180303",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I",
+    "Suprime CADASTRO VITÍCOLA",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Informações contidas no cadastro vitícola",
+    "Suprime Artigo 4.º — Conservação e actualizações das informações",
+    "Suprime Artigo 5.º — Controlo das informações",
+    "Suprime TÍTULO II",
+    "Suprime DECLARAÇÕES OBRIGATÓRIAS E ESTABELECIMENTO DAS INFORMAÇÕES PARA O ACOMPANHAMENTO DO MERCADO NO SECTOR VITIVINÍCOLA",
+    "Suprime Artigo 6.º — Objecto",
+    "Suprime Artigo 7.º — Definições",
+    "Suprime CAPÍTULO I",
+    "Suprime Declarações obrigatórias",
+    "Suprime Artigo 8.º — Declarações de colheita",
+    "Suprime Artigo 9.º — Declarações de produção",
+    "Suprime Artigo 10.º — Declarações de tratamento e/ou de comercialização",
+    "Suprime Artigo 11.º — Declarações de existências",
+    "Suprime CAPÍTULO II",
+    "Suprime Disposições comuns",
+    "Suprime Artigo 12.º — Formulários",
+    "Suprime Artigo 13.º — Relação com o cadastro vitícola",
+    "Suprime Artigo 14.º — Isenções",
+    "Suprime Artigo 15.º — Critérios a respeitar",
+    "Suprime Artigo 16.º — Datas de apresentação das declarações",
+    "Suprime Artigo 17.º — Controlos",
+    "Suprime Artigo 18.º — Sanções",
+    "Suprime CAPÍTULO III",
+    "Suprime Obrigações dos Estados-Membros em matéria de informação",
+    "Suprime Artigo 19.º — Comunicações dos Estados-Membros",
+    "Suprime CAPÍTULO IV",
+    "Suprime Disposições gerais e finais",
+    "Suprime Artigo 20.º — Disposição geral",
+    "Suprime TÍTULO III",
+    "Suprime DOCUMENTOS DE ACOMPANHAMENTO DO TRANSPORTE DOS PRODUTOS VITIVINÍCOLAS E REGISTOS A MANTER NO SECTOR VITIVINÍCOLA",
+    "Suprime Objecto, âmbito de aplicação e definições",
+    "Suprime Artigo 21.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 22.º — Definições",
+    "Suprime Documentos de acompanhamento do transporte dos produtos vitivinícolas",
+    "Suprime Artigo 23.º — Objecto",
+    "Suprime Artigo 24.º — Documentos de acompanhamento reconhecidos",
+    "Suprime Artigo 25.º — Isenções",
+    "Suprime Artigo 26.º — Estabelecimento de um documento de acompanhamento",
+    "Suprime Artigo 27.º — Utilização de um documento de acompanhamento para efeitos de exportação",
+    "Suprime Artigo 28.º — Transporte a granel",
+    "Suprime Artigo 29.º — Transporte de uma quantidade superior a 60 litros",
+    "Suprime Artigo 30.º — Transporte de um produto de um país terceiro introduzido em livre circulação",
+    "Suprime Artigo 31.º — Certificado de denominação de origem ou de indicação geográfica protegidas",
+    "Suprime Artigo 32.º — Recusa pelo destinatário",
+    "Suprime Artigo 33.º — Transporte efectuado por um expedidor que cometeu uma infracção grave",
+    "Suprime Artigo 34.º — Transportes irregulares",
+    "Suprime Artigo 35.º — Caso fortuito ou de força maior",
+    "Suprime Registos",
+    "Suprime Artigo 36.º — Objecto",
+    "Suprime Artigo 37.º — Isenções",
+    "Suprime Artigo 38.º — Constituição dos registos",
+    "Suprime Artigo 39.º — Produtos objecto de uma inscrição",
+    "Suprime Artigo 40.º — Menções nos registos",
+    "Suprime Artigo 41.º — Operações a indicar nos registos",
+    "Suprime Artigo 42.º — Registos dos vinhos espumantes e dos vinhos licorosos",
+    "Suprime Artigo 43.º — Registos ou contas especiais",
+    "Suprime Artigo 44.º — Perdas",
+    "Suprime Artigo 45.º — Prazos para as inscrições nos registos",
+    "Suprime Artigo 46.º — Encerramento dos registos",
+    "Suprime Disposições comuns aos capítulos II e III",
+    "Suprime Artigo 47.º — Disposições gerais e transitórias",
+    "Suprime Artigo 48.º — Conservação dos documentos de acompanhamento e dos registos",
+    "Suprime Artigo 49.º — Comunicações",
+    "Suprime TÍTULO IV",
+    "Suprime DISPOSIÇÕES GERAIS E FINAIS",
+    "Suprime Artigo 50.º — Comunicações",
+    "Suprime Artigo 51.º — Erros manifestos",
+    "Suprime Artigo 52.º — Casos de força maior e circunstâncias excepcionais",
+    "Suprime Artigo 53.º — Revogações e remissões",
+    "Suprime Artigo 54.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f4ccde99bb10590f"
+   ]
+  }
+ ],
+ "fragments": {
+  "3546e3c328d86250": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio de 2009\n\nque estabelece regras de execução do Regulamento (CE) n.º 479/2008 do Conselho no que diz respeito ao cadastro vitícola, às declarações obrigatórias e ao estabelecimento das informações para o acompanhamento do mercado, aos documentos de acompanhamento do transporte dos produtos e aos registos a manter no sector vitivinícola\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 479/2008 do Conselho, de 29 de Abril de 2008, que estabelece a organização comum do mercado vitivinícola, que altera os Regulamentos (CE) n.º 1493/1999, (CE) n.º 1782/2003, (CE) n.º 1290/2005 e (CE) n.º 3/2008 e que revoga os Regulamentos (CEE) n.º 2392/86 e (CE) n.º 1493/1999 [([^1])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr1-L_2009128PT.01001501-E0001), nomeadamente o n.º 2 do artigo 115.º e o artigo 121.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 479/2008 alterou o regime anteriormente aplicável ao sector vitivinícola, estabelecido no Regulamento (CE) n.º 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola [([^2])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr2-L_2009128PT.01001501-E0002), e revogou o Regulamento (CEE) n.º 2392/86 do Conselho, de 24 de Julho de 1986, que estabelece o cadastro vitícola comunitário [([^3])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr3-L_2009128PT.01001501-E0003), com efeitos a partir de 1 de Agosto de 2009.\n\n(2) Actualmente, as informações obrigatórias e as normas de actualização e de vigilância do cadastro vitícola são prescritas pelo Regulamento (CEE) n.º 2392/86 e as regras de execução relativas ao estabelecimento do cadastro vitícola comunitário são fixadas pelo Regulamento (CEE) n.º 649/87 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr4-L_2009128PT.01001501-E0004).\n\n(3) O artigo 108.º do Regulamento (CE) n.º 479/2008 prevê que certos Estados-Membros mantenham um cadastro vitícola, que contenha informações actualizadas sobre o potencial de produção.\n\n(4) É, por conseguinte, conveniente revogar o Regulamento (CEE) n.º 649/87 e adoptar as regras de execução relativas ao cadastro vitícola.\n\n(5) Os principais objectivos do cadastro vitícola são o acompanhamento e o controlo do potencial de produção. O artigo 116.º do Regulamento (CE) n.º 479/2008 prevê que os Estados-Membros assegurem que os procedimentos de gestão e de controlo relacionados com as superfícies sejam compatíveis com o sistema integrado de gestão e de controlo (SIGC). Importa, nomeadamente, prever que a identificação do explorador e das parcelas vitícolas exploradas seja compatível com o SIGC.\n\n(6) A fim de evitar uma sobrecarga administrativa, sem prejudicar os objectivos do cadastro vitícola, há que não tornar obrigatória a recolha de informações dos exploradores que tenham uma produção muito limitada.\n\n(7) Com o objectivo de assegurar uma utilização prática do cadastro vitícola, é conveniente que as informações exigidas neste cadastro sejam compatíveis com as informações exigidas no âmbito do título IV, «Potencial de produção», do Regulamento (CE) n.º 555/2008 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr5-L_2009128PT.01001501-E0005) que estabelece regras de execução do Regulamento (CE) n.º 479/2008 do Conselho que estabelece a organização comum do mercado vitivinícola, no que respeita aos programas de apoio, ao comércio com países terceiros, ao potencial de produção e aos controlos no sector vitivinícola.\n\n(8) A bem da coerência dos dados disponíveis no âmbito da viticultura, importa que sejam incluídos no cadastro vitícola certos dados, designadamente os relativos ao ano de plantação da parcela vitícola, recolhidos no âmbito do Regulamento (CEE) n.º 357/79 do Conselho, de 5 de Fevereiro de 1979, relativo aos inquéritos estatísticos sobre as superfícies vitícolas [([^6])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr6-L_2009128PT.01001501-E0006).\n\n(9) Para garantir que as informações contidas no cadastro correspondem constantemente à situação real da viticultura, é conveniente prever a sua actualização permanente, bem como a sua verificação regular.\n\n(10) Nos termos do artigo 111.º do Regulamento (CE) n.º 479/2008, os produtores de uvas para vinificação e os produtores de mosto e de vinho devem declarar, anualmente, as quantidades de produtos da última colheita e os produtores de mosto e de vinho e os comerciantes não retalhistas devem declarar, anualmente, as quantidades de mosto e de vinho na sua posse. Ainda nos termos do mesmo artigo, os Estados-Membros podem igualmente exigir aos comerciantes de uvas que declarem as quantidades comercializadas.\n\n(11) A fim de facilitar o processamento dos dados constantes das declarações, é oportuno considerar cada declaração apresentada na unidade administrativa competente como independente das outras que o mesmo produtor possa ter apresentado em outras unidades administrativas do Estado-Membro.\n\n(12) Não é necessário submeter à obrigação de uma dupla declaração os produtores em relação aos quais possam ser fornecidas todas as informações necessárias no quadro da declaração de produção de vinho. É possível dispensar os muito pequenos produtores, atendendo a que o conjunto da sua produção representa um volume relativamente modesto da produção comunitária.\n\n(13) É conveniente prever igualmente a obrigação de apresentação de declarações pelos operadores que cedam os produtos vitícolas antes das datas previstas para as declarações.\n\n(14) Para facilitar a gestão do mercado, é necessário fixar a data em que as declarações devem ser apresentadas. Ocorrendo as vindimas em épocas diferentes nos Estados-Membros, há que prever o escalonamento das datas em que as declarações devem ser apresentadas pelos produtores.\n\n(15) A fim de agilizar a aplicação do presente regulamento, afigura-se adequado apresentar em formulários os elementos que devem constar das declarações, deixando à discrição dos Estados-Membros a escolha da forma pela qual tais elementos devem ser fornecidos pelos operadores.\n\n(16) O recurso a processos informáticos nos diferentes domínios da actividade administrativa está a substituir progressivamente a introdução manual de dados. Na utilização das declarações obrigatórias devem, portanto, poder utilizar-se igualmente processos informáticos e electrónicos.\n\n(17) Há que permitir aos Estados-Membros que disponham de um cadastro vitícola completo a utilização de certos dados do cadastro, como a superfície. É, por conseguinte, desejável isentar, em certas condições, os produtores de declarar a superfície.\n\n(18) É conveniente que os Estados-Membros cuja superfície vitícola não seja superior a 500 ha ou em que a produção de vinho não exceda 50 000 hectolitros possam excluir certas informações das declarações e isentar os produtores da apresentação de uma ou outra dessas declarações, em condições a determinar.\n\n(19) É conveniente determinar as datas em que as informações recolhidas devem ser centralizadas ao nível nacional.\n\n(20) No estádio actual, um conhecimento adequado da produção e das existências no sector vitivinícola só pode ser adquirido com base nas declarações de colheita e de existências apresentadas pelos diferentes interessados. Consequentemente, há que adoptar as disposições adequadas para assegurar a apresentação das referidas declarações pelos interessados e que as mesmas sejam completas e exactas, prevendo as sanções a aplicar quer no caso de ausência de declaração quer no caso de apresentação de declarações falsas ou incompletas.\n\n(21) Pela mesma razão, é indispensável que sejam determinadas as datas em que devem ser transmitidas à Comissão as informações recolhidas no quadro das declarações obrigatórias, bem como a forma dessa transmissão.\n\n(22) Para assegurar o acompanhamento do mercado vitivinícola é necessário dispor de determinados dados a ele referentes. Além dos dados resultantes das sínteses das diferentes declarações, considera-se indispensável dispor de informações relativas à disponibilidade e utilização do vinho, bem como ao seu preço. É conveniente, pois, prever que os Estados-Membros reúnam essas informações e as comuniquem à Comissão em determinadas datas fixas.\n\n(23) É possível dispensar certos Estados-Membros de comunicar os preços, atendendo a que o conjunto da sua produção representa um volume relativamente modesto da produção comunitária.\n\n(24) Há, pois, que revogar o Regulamento (CE) n.º 1282/2001 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr7-L_2009128PT.01001501-E0007), que estabeleceu normas de execução respeitantes à recolha das informações necessárias ao conhecimento dos produtos e ao acompanhamento do mercado no sector vitivinícola.\n\n(25) Para a realização do mercado único na Comunidade, importa conferir às instâncias encarregadas de vigiar a detenção e a colocação no mercado dos produtos vitivinícolas os instrumentos necessários à realização de um controlo eficaz, segundo regras uniformes, aplicáveis em toda a Comunidade.\n\n(26) O Regulamento (CE) n.º 479/2008 estatui, no n.º 1 do seu artigo 112.º, que os produtos vitivinícolas só podem circular na Comunidade se forem acompanhados de um documento oficialmente aprovado. No n.º 2 do mesmo artigo, estatui que as pessoas singulares ou colectivas que estejam na posse de produtos vitivinícolas têm a obrigação de manter registos que indiquem, em especial, as entradas e as saídas desses produtos.\n\n(27) Foi vencida uma etapa na harmonização fiscal na Comunidade através da Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a impostos especiais de consumo [([^8])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr8-L_2009128PT.01001501-E0008). Com o objectivo de estabelecer regras uniformes aplicáveis na Comunidade e a fim de simplificar as formalidades administrativas para os profissionais e os cidadãos, é nomeadamente indicado que os documentos que acompanham o transporte dos produtos vitivinícolas para efeitos da aplicação da regulamentação fiscal sejam igualmente considerados documentos de acompanhamento reconhecidos.\n\n(28) Para o transporte de produtos vitivinícolas não sujeitos às normas fiscais supracitadas e para o transporte dos produtos vitivinícolas provenientes de pequenos produtores, justifica-se prever um documento que os acompanhe, com o objectivo de proporcionar às instâncias competentes a possibilidade de vigiar a circulação dos mesmos produtos. Para o efeito, pode ser reconhecido qualquer documento comercial que contenha, no mínimo, as indicações necessárias para identificar o produto e seguir o itinerário do transporte.\n\n(29) A fim de não tornar desnecessariamente pesadas as formalidades administrativas dos transportadores, justifica-se prever que não seja exigido qualquer documento para acompanhar o transporte de certos produtos vitivinícolas numa distância limitada ou acondicionados em pequenos recipientes em quantidades limitadas.\n\n(30) O recurso a processos informáticos nas actividades administrativas dos operadores está a substituir progressivamente os documentos em papel. No estabelecimento e na utilização dos documentos de acompanhamento e dos registos devem, portanto, poder utilizar-se igualmente processos informáticos.\n\n(31) Para a exportação dos produtos vitivinícolas são exigidos documentos complementares dos documentos de acompanhamento, nomeadamente a declaração de exportação. É, pois, conveniente definir procedimentos complementares para o estabelecimento e a validação desses documentos.\n\n(32) A vigilância dos transportes de produtos vitivinícolas a granel requer uma atenção especial, dado que esses produtos estão mais expostos a manipulações fraudulentas do que os produtos já contidos em garrafas rotuladas e munidas de um dispositivo de fecho não recuperável. Em tais casos, é conveniente exigir informações complementares e uma prévia validação do documento de acompanhamento.\n\n(33) Para facilitar o controlo pelas autoridades competentes, é necessário exigir a referência ao documento VI 1 nos documentos de acompanhamento do transporte de um produto de um país terceiro introduzido em livre circulação.\n\n(34) As normas relativas ao estabelecimento do documento administrativo de acompanhamento e do documento de acompanhamento simplificado fazem referência a regras de certificação da denominação de origem ou indicação geográfica protegidas de determinadas categorias de vinho. Devem, pois, ser estabelecidas as regras necessárias para essa certificação. O estabelecimento de regras para a certificação da origem de determinados vinhos é também necessário para os transportes não sujeitos a formalidades fiscais, designadamente para a exportação. A fim de simplificar as formalidades administrativas a respeitar pelos cidadãos e libertar as instâncias competentes das tarefas de rotina, é conveniente estatuir regras de acordo com as quais estas últimas possam, sem prejuízo do exercício dos controlos adequados, autorizar os expedidores que satisfaçam determinadas condições a decidirem eles próprios as menções que certificam a origem do vinho no documento de acompanhamento.\n\n(35) É conveniente estabelecer as medidas a tomar pelas autoridades competentes no âmbito de um transporte efectuado por um expedidor que tenha cometido uma infracção grave ou no âmbito de um transporte irregular, tendo o cuidado de evitar que a regularização destes transportes os atrase para além dos prazos estritamente necessários.\n\n(36) A fim de assegurar que a consulta dos registos permita às instâncias competentes uma vigilância eficaz da circulação e da detenção dos produtos vitivinícolas, nomeadamente no que se refere à colaboração destas instâncias ao nível comunitário, devem ser harmonizadas, no plano comunitário, as regras relativas à manutenção dos registos.\n\n(37) As obrigações relativas aos registos podem ocasionar uma carga administrativa desproporcionada para certos operadores. Por conseguinte, os Estados-Membros devem poder dispensar esses operadores de determinadas obrigações.\n\n(38) As substâncias utilizadas em determinadas práticas enológicas, nomeadamente para o enriquecimento, a acidificação e a edulcoração, estão especialmente expostas ao risco de uma utilização fraudulenta. Por conseguinte, importa que a detenção dessas substâncias imponha a manutenção de registos que permitam às instâncias competentes vigiar a sua circulação e utilização.\n\n(39) O controlo dos vinhos espumantes e dos vinhos licorosos exige uma atenção especial, já que são objecto de adição de outros produtos. É, pois, necessário exigir a menção de informações complementares nos registos.\n\n(40) O documento de acompanhamento para o transporte dos produtos vitivinícolas previsto nas normas comunitárias é uma fonte de informação muito útil para as instâncias encarregadas de velar pelo cumprimento das normas comunitárias e nacionais no sector do vinho. É indicado permitir aos Estados-Membros que estabeleçam normas complementares relativas à aplicação do presente regulamento para os transportes que tenham início no seu próprio território.\n\n(41) O Regulamento (CE) n.º 884/2001 da Comissão, de 24 de Abril de 2001, que estabelece regras de execução relativas aos documentos de acompanhamento do transporte de produtos vitivinícolas e aos registos a manter no sector vitivinícola [([^9])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr9-L_2009128PT.01001501-E0009), introduz, no n.º 1 do seu artigo 18.º, a possibilidade de os Estados-Membros adoptarem disposições complementares ou específicas em relação aos produtos em causa que circulem no seu território. Uma dessas disposições prevê que a indicação da massa volúmica dos mostos de uva possa ser substituída pela da densidade expressa em graus Oechsle, até 31 de Julho de 2010. Tal prática tradicional é principalmente utilizada por pequenos produtores agrícolas, que necessitam ainda de alguns anos para poder adoptar as novas regras de indicação da massa volúmica. É, pois, oportuno prorrogar essa derrogação, revogando simultaneamente o Regulamento (CE) n.º 884/2001.\n\n(42) É desejável que os Estados-Membros comuniquem à Comissão o nome e o endereço das instâncias competentes para a aplicação do título relativo aos documentos de acompanhamento e aos registos, para que a Comissão possa transmitir essa informação aos outros Estados-Membros.\n\n(43) É conveniente que os Estados-Membros conservem, para fins de inspecção, as informações necessárias para a verificação e auditoria da execução do presente regulamento, durante um período apropriado.\n\n(44) A fim de garantir um tratamento equitativo dos transportadores, é conveniente adoptar disposições para a resolução de casos pertinentes de erro manifesto e de força maior e para outras circunstâncias excepcionais. É igualmente conveniente estabelecer regras para as situações criadas artificialmente, a fim de evitar que destas possam resultar quaisquer benefícios.\n\n(45) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "3f8ab346cad05a54": {
+   "fragment_id": "CADASTRO VITÍCOLA",
+   "type": "divisao",
+   "heading": "CADASTRO VITÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CADASTRO VITÍCOLA"
+  },
+  "5a824ab7c5e33dde": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente título estabelece as regras de execução do Regulamento (CE) n.º 479/2008 no que respeita ao cadastro vitícola."
+  },
+  "8d5903cb8c7840df": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente título, entende-se por:\n\na) **«Explorador»**: a pessoa singular ou colectiva ou o agrupamento de pessoas singulares ou colectivas, qualquer que seja o estatuto jurídico que o direito nacional confira ao agrupamento e aos seus membros, cuja exploração se situe no território da Comunidade, como definido no artigo 299.º do Tratado, e que explore uma superfície plantada com vinha;\n\nb) **«Parcela vitícola»**: a parcela agrícola, como definida no ponto 1A do artigo 2.º do Regulamento (CE) n.º 796/2004 da Comissão [([^10])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr10-L_2009128PT.01001501-E0010), plantada com vinha;\n\nc) **«Superfície plantada abandonada»**: o conjunto da superfície plantada com vinha, mas que deixou de estar submetida regularmente a operações de cultivo para obtenção de um produto comercializável."
+  },
+  "d3c1fd829e57fb12": {
+   "fragment_id": "Artigo 3.º — Informações contidas no cadastro vitícola",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Informações contidas no cadastro vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informações contidas no cadastro vitícola\n\n1. A fim de estabelecer e manter actualizado um cadastro vitícola, os Estados-Membros recolhem os seguintes elementos:\n\na) Para cada explorador com uma superfície plantada com vinha de pelo menos 0,1 hectares ou sujeito a uma declaração exigida por força da regulamentação comunitária ou nacional, as informações relativas: i) à sua identificação, ii) à localização das parcelas vitícolas, iii) à superfície das parcelas vitícolas, iv) às características das videiras plantadas nas parcelas vitícolas, v) às plantações ilegais, aos direitos de plantação e ao regime de arranque, previstos no título V do Regulamento (CE) n.º 479/2008, vi) às ajudas em matéria de reestruturação, reconversão e colheita em verde, previstas nos artigos 11.º e 12.º do Regulamento (CE) n.º 479/2008;\n\ni) à sua identificação,\n\nii) à localização das parcelas vitícolas,\n\niii) à superfície das parcelas vitícolas,\n\niv) às características das videiras plantadas nas parcelas vitícolas,\n\nv) às plantações ilegais, aos direitos de plantação e ao regime de arranque, previstos no título V do Regulamento (CE) n.º 479/2008,\n\nvi) às ajudas em matéria de reestruturação, reconversão e colheita em verde, previstas nos artigos 11.º e 12.º do Regulamento (CE) n.º 479/2008;\n\nb) As superfícies das parcelas vitícolas não referidas na alínea a);\n\nc) Para qualquer pessoa singular ou colectiva ou agrupamento dessas pessoas que deva fazer uma declaração de produção prevista no artigo 9.º, as informações relativas: i) à sua identificação, ii) às declarações obrigatórias previstas no título II.\n\ni) à sua identificação,\n\nii) às declarações obrigatórias previstas no título II.\n\n2. As informações relativas às características das parcelas vitícolas figuram separadamente no registo do explorador. No entanto, sempre que a homogeneidade entre as parcelas vitícolas o permita, as informações podem incidir num conjunto constituído por várias parcelas contíguas ou por parte(s) de parcela(s) contígua(s), desde que seja garantida a identificação de cada parcela.\n\n3. O cadastro vitícola contém, pelo menos, as informações recolhidas em conformidade com o n.º 1, cujos pormenores e especificações constam do anexo I.\n\n4. No entanto, as seguintes informações não devem ser recolhidas nem incluídas no cadastro vitícola por certos Estados-Membros:\n\na) As informações correspondentes ao n.º 3 do ponto 1.1 e aos n.^os^ 5 a 7 do ponto 1.2 do anexo I, sempre que os Estados-Membros não sejam visados pelo regime transitório dos direitos de plantação nos termos do artigo 95.º do Regulamento (CE) n.º 479/2008;\n\nb) As informações correspondentes aos n.^os^ 9 e 10 do ponto 1.2 do anexo I, sempre que os Estados-Membros não sejam visados pelo regime de arranque nos termos do artigo 105.º do Regulamento (CE) n.º 479/2008;\n\nc) A informação correspondente ao n.º 3, alíneas b) e c), do ponto 1.2 do anexo I, sempre que os Estados-Membros sejam dispensados da obrigação de classificação das castas de uva de vinho nos termos do n.º 2 do artigo 24.º do Regulamento (CE) n.º 479/2008."
+  },
+  "c3e2776c38d29d14": {
+   "fragment_id": "Artigo 4.º — Conservação e actualizações das informações",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Conservação e actualizações das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conservação e actualizações das informações\n\nOs Estados-Membros asseguram a conservação dos dados incluídos no cadastro vitícola durante o tempo necessário para o acompanhamento e o controlo das medidas em causa e, em qualquer caso, no mínimo durante cinco campanhas vitícolas a seguir à campanha a que dizem respeito.\n\nOs Estados-Membros asseguram a actualização regular do cadastro vitícola à medida que forem estando disponíveis as informações recolhidas."
+  },
+  "7afcf47661745403": {
+   "fragment_id": "Artigo 5.º — Controlo das informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlo das informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo das informações\n\nOs Estados-Membros procedem, pelo menos de cinco em cinco anos, para cada explorador e para cada pessoa singular ou colectiva ou agrupamento dessas pessoas que deva fazer uma declaração de produção prevista no artigo 9.º, à verificação da correspondência entre a situação estrutural que resulta dos registos do explorador e de produção e a situação real. Os registos são adaptados com base nessa verificação."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "8fdcaf07fc18b457": {
+   "fragment_id": "DECLARAÇÕES OBRIGATÓRIAS E ESTABELECIMENTO DAS INFORMAÇÕES PARA O ACOMPANHAMENTO DO MERCADO NO SECTOR VITIVINÍCOLA",
+   "type": "divisao",
+   "heading": "DECLARAÇÕES OBRIGATÓRIAS E ESTABELECIMENTO DAS INFORMAÇÕES PARA O ACOMPANHAMENTO DO MERCADO NO SECTOR VITIVINÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÕES OBRIGATÓRIAS E ESTABELECIMENTO DAS INFORMAÇÕES PARA O ACOMPANHAMENTO DO MERCADO NO SECTOR VITIVINÍCOLA"
+  },
+  "f75adee4e98a8326": {
+   "fragment_id": "Artigo 6.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objecto\n\nO presente título estabelece as regras de execução do Regulamento (CE) n.º 479/2008 no que respeita às declarações obrigatórias e ao estabelecimento das informações para o acompanhamento do mercado no sector vitivinícola."
+  },
+  "6858956c0d85d1f1": {
+   "fragment_id": "Artigo 7.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definições\n\nPara efeitos do presente título, entende-se por:\n\na) **«Viticultores»**: as pessoas singulares ou colectivas ou agrupamentos dessas pessoas que produzem uvas;\n\nb) **«Retalhistas»**: as pessoas singulares ou colectivas ou os agrupamentos dessas pessoas que exercem profissionalmente uma actividade comercial que inclua a venda directa ao consumidor em pequenas quantidades, a determinar por cada Estado-Membro tendo em conta as características especiais do comércio e da distribuição, com exclusão dos que utilizem adegas equipadas para a armazenagem e o acondicionamento do vinho em quantidades importantes."
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "1be96f852fbf261d": {
+   "fragment_id": "Declarações obrigatórias",
+   "type": "divisao",
+   "heading": "Declarações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declarações obrigatórias"
+  },
+  "2a871e632490fea8": {
+   "fragment_id": "Artigo 8.º — Declarações de colheita",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Declarações de colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declarações de colheita\n\n1. Os viticultores apresentam anualmente às autoridades competentes dos Estados-Membros uma declaração de colheita, na unidade administrativa prevista, de que constem pelo menos os elementos indicados no anexo II e, se for caso disso, no anexo III.\n\nOs Estados-Membros podem prever a apresentação de uma declaração por exploração.\n\n2. São dispensados da declaração de colheita os viticultores:\n\na) Cuja produção de uvas se destine, na sua totalidade, a ser consumida em natureza, a ser seca ou a ser transformada directamente em sumo de uva;\n\nb) Cujas explorações tenham menos de 0,1 hectares de vinha, desde que nenhuma parte da colheita tenha sido ou venha a ser comercializada sob qualquer forma;\n\nc) Cujas explorações tenham menos de 0,1 hectares de vinha e que entreguem a totalidade da sua colheita a uma adega cooperativa ou a um agrupamento de que sejam sócios ou membros.\n\nNo caso previsto na alínea c) do primeiro parágrafo, os viticultores devem apresentar à adega cooperativa ou ao agrupamento em questão uma declaração que precise:\n\na) O apelido, nome próprio e endereço do viticultor;\n\nb) A quantidade de uvas entregue;\n\nc) A superfície da vinha em causa e a sua localização.\n\nA adega cooperativa ou o agrupamento verifica a exactidão dos dados dessa declaração com base nas informações de que disponha.\n\n3. Em derrogação do n.º 1, e sem prejuízo das obrigações resultantes do artigo 9.º, os Estados-Membros podem isentar das declarações de colheita os viticultores:\n\na) Que transformem eles próprios ou mandem transformar por sua conta a totalidade da sua colheita de uvas em vinho;\n\nb) Que sejam sócios ou membros de uma adega cooperativa ou de um agrupamento e entreguem a totalidade da sua colheita, sob a forma de uvas e/ou de mosto, a essa adega cooperativa ou a esse agrupamento, incluindo os viticultores referidos no n.º 3 do artigo 9.º"
+  },
+  "51322fe600569292": {
+   "fragment_id": "Artigo 9.º — Declarações de produção",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Declarações de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Declarações de produção\n\n1. As pessoas singulares ou colectivas ou os agrupamentos dessas pessoas, incluindo as adegas cooperativas de vinificação, que, a título da colheita da campanha em curso, tenham produzido vinho e/ou mostos apresentam anualmente às autoridades competentes designadas pelos Estados-Membros uma declaração de produção de que constem, pelo menos, os elementos indicados no anexo IV.\n\nOs Estados-Membros podem prever a apresentação de uma declaração por instalação de vinificação.\n\n2. São dispensados da declaração de produção os viticultores referidos no n.º 2 do artigo 8.º, bem como os produtores de vinho que obtenham nas suas instalações, por vinificação de produtos comprados, uma quantidade de vinho inferior a 10 hectolitros que não tenha sido nem venha a ser comercializada sob qualquer forma.\n\n3. São igualmente dispensados da declaração de produção os viticultores sócios ou membros de uma adega cooperativa sujeita à obrigação de apresentação de uma declaração e que entreguem a sua produção de uvas a essa adega, reservando-se a possibilidade de obterem, por vinificação, uma quantidade de vinho inferior a 10 hectolitros para seu consumo familiar.\n\n4. No caso de pessoas singulares ou colectivas ou de agrupamentos dessas pessoas que cedam produtos a montante do vinho, os Estados-Membros tomam as medidas necessárias para que os produtores que devam apresentar as declarações possam dispor das diversas informações que devem indicar nas mesmas."
+  },
+  "57ab52d546fd04e8": {
+   "fragment_id": "Artigo 10.º — Declarações de tratamento e/ou de comercialização",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Declarações de tratamento e/ou de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Declarações de tratamento e/ou de comercialização\n\n1. Os Estados-Membros podem prever que as pessoas singulares ou colectivas ou os agrupamentos dessas pessoas, incluindo as adegas cooperativas, que tenham, antes da data referida no n.º 1 do artigo 16.º, tratado e/ou comercializado produtos a montante do vinho no âmbito da campanha em curso apresentem às autoridades competentes uma declaração de tratamento e/ou de comercialização.\n\n2. São dispensados da declaração de tratamento e/ou de comercialização os viticultores sócios ou membros de uma adega cooperativa sujeita à obrigação de apresentação de uma declaração que entreguem a sua produção de uvas a essa adega, reservando-se a possibilidade de obterem, por vinificação, uma quantidade de vinho inferior a 10 hectolitros para seu consumo familiar."
+  },
+  "494ba9cf448a4239": {
+   "fragment_id": "Artigo 11.º — Declarações de existências",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Declarações de existências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Declarações de existências\n\nAs pessoas singulares ou colectivas ou os agrupamentos dessas pessoas, com excepção dos consumidores privados e dos retalhistas, apresentam anualmente às autoridades competentes dos Estados-Membros uma declaração das existências de mostos de uvas, de mostos de uvas concentrados, de mostos de uvas concentrados rectificados e de vinhos na sua posse em 31 de Julho, de que constem, pelo menos, os elementos indicados no anexo V. No que respeita aos produtos vitícolas comunitários, não constam dessa declaração os provenientes de uvas colhidas na vindima do mesmo ano civil.\n\nTodavia, os Estados-Membros cuja produção de vinho não exceda 50 000 hectolitros por ano podem dispensar das declarações referidas no primeiro parágrafo os comerciantes não retalhistas que detenham existências em quantidade reduzida, desde que as autoridades competentes estejam em condições de fornecer à Comissão uma avaliação estatística das referidas existências no Estado-Membro."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "e66b8427f7f19165": {
+   "fragment_id": "Disposições comuns",
+   "type": "divisao",
+   "heading": "Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns"
+  },
+  "ffd8035b8235fce4": {
+   "fragment_id": "Artigo 12.º — Formulários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formulários\n\n1. Os Estados-Membros elaboram os modelos de formulários das diversas declarações e asseguram que dos mesmos constem, pelo menos, os elementos indicados nos anexos II, III, IV e V.\n\nOs formulários podem ser emitidos e utilizados por meio de sistemas informáticos, segundo as modalidades adoptadas pelas autoridades competentes dos Estados-Membros.\n\n2. Os formulários podem não conter a referência expressa à superfície, desde que o Estado-Membro esteja em condições de determinar com exactidão esse elemento através do conhecimento de outras informações que constem da declaração, nomeadamente a superfície em produção e a colheita total da exploração, ou do cadastro vitícola.\n\n3. Os dados constantes das declarações referidas no n.º 1 são centralizados à escala nacional."
+  },
+  "a872fb10a149859d": {
+   "fragment_id": "Artigo 13.º — Relação com o cadastro vitícola",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relação com o cadastro vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relação com o cadastro vitícola\n\nEm derrogação dos artigos 8.º e 9.º e dos anexos II e IV do presente regulamento, os Estados-Membros que tenham estabelecido, em conformidade com o artigo 108.º do Regulamento (CE) n.º 479/2008, um cadastro vitícola actualizado anualmente ou outro instrumento administrativo de controlo similar podem dispensar as pessoas singulares ou colectivas, os agrupamentos dessas pessoas ou os viticultores, referidos nos citados artigos, de declarar a superfície.\n\nNesse caso, as autoridades competentes dos Estados-Membros completam as declarações com a indicação da superfície em função dos dados constantes do cadastro."
+  },
+  "95e8e86032f7364c": {
+   "fragment_id": "Artigo 14.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Isenções\n\n1. Os Estados-Membros cuja superfície vitícola não exceda 500 ha e que disponham de algumas das informações que devam constar das declarações referidas nos artigos 8.º, 9.º e 10.º, com base noutros actos administrativos, podem excluir essas informações de tais declarações.\n\nOs Estados-Membros cuja superfície vitícola não exceda 500 ha e que disponham de todas as informações que devam constar das declarações referidas nos artigos 8.º, 9.º e 10.º, com base noutros actos administrativos, podem isentar os operadores da apresentação de uma ou outra de tais declarações.\n\n2. Os Estados-Membros cuja produção de vinho não exceda 50 000 hectolitros por campanha vitivinícola e que disponham de algumas das informações que devam constar das declarações referidas no artigo 11.º, com base noutros actos administrativos, podem excluir essas informações de tais declarações.\n\nOs Estados-Membros cuja produção de vinho não exceda 50 000 hectolitros por campanha vitivinícola e que disponham de todas as informações que devam constar das declarações referidas no artigo 11.º, com base noutros actos administrativos, podem isentar os operadores da apresentação de tais declarações.\n\n3. Os Estados-Membros que disponham de um sistema informático que permita estabelecer uma relação entre os declarantes, a produção declarada e as parcelas das vinhas em causa podem excluir a indicação pelos produtores dos códigos de parcela previstos no anexo II, elaborado em conformidade com o artigo 8.º. A relação pode, nomeadamente, ser estabelecida por meio do código da exploração, da referência a um bloco de parcelas ou de uma referência constante do cadastro vitícola."
+  },
+  "cf3e371de8bb9b1a": {
+   "fragment_id": "Artigo 15.º — Critérios a respeitar",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Critérios a respeitar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios a respeitar\n\n1. Para a conversão das quantidades de produtos diferentes do vinho em hectolitros de vinho os Estados-Membros podem fixar coeficientes, que podem ser modulados segundo critérios objectivos que influenciem essa conversão. Os coeficientes são comunicados pelos Estados-Membros à Comissão simultaneamente com a síntese referida no n.º 1 do artigo 19.º.\n\n2. A quantidade de vinho a inscrever na declaração de produção referida no artigo 9.º é a quantidade total obtida no termo da fermentação alcoólica principal, incluindo as borras de vinho."
+  },
+  "d5047e377ece8328": {
+   "fragment_id": "Artigo 16.º — Datas de apresentação das declarações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Datas de apresentação das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Datas de apresentação das declarações\n\n1. As declarações referidas no artigos 8.º e 9.º são apresentadas até 15 de Janeiro. Todavia, os Estados-Membros podem fixar uma ou mais datas anteriores. Podem, além disso, fixar a data em que as quantidades detidas são consideradas para o estabelecimento das declarações.\n\n2. As declarações referidas no artigo 11.º são apresentadas até 10 de Setembro, em relação às quantidades detidas em 31 de Julho. Todavia, os Estados-Membros podem fixar uma ou mais datas anteriores."
+  },
+  "ca8b0dc68735f171": {
+   "fragment_id": "Artigo 17.º — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlos\n\nOs Estados-Membros instauram controlos e medidas úteis para assegurar que essas declarações sejam conformes à realidade."
+  },
+  "1cb93c24364d8e8d": {
+   "fragment_id": "Artigo 18.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1. As entidades sujeitas à obrigação de apresentação de declarações de colheita, de produção ou de existências que não tenham apresentado estas declarações nas datas referidas no artigo 16.º do presente regulamento ficam, salvo caso de força maior, excluídas do benefício das medidas previstas nos artigos 12.º, 15.º, 17.º, 18.º e 19.º do Regulamento (CE) n.º 479/2008 relativamente à campanha em causa e à campanha seguinte.\n\nTodavia, a superação das datas previstas no artigo 16.º do presente regulamento, se não exceder 10 dias úteis, dá apenas origem a uma diminuição proporcional de uma percentagem dos montantes a pagar para a campanha em curso, fixada pela instância competente em função do atraso, sem prejuízo das sanções nacionais.\n\n2. Salvo caso de força maior, sempre que as declarações previstas no n.º 1 sejam reconhecidas incompletas ou inexactas pelas autoridades competentes dos Estados-Membros, e sempre que o conhecimento dos elementos em falta ou inexactos seja essencial para uma aplicação correcta das medidas previstas nos artigos 12.º, 15.º, 17.º, 18.º e 19.º do Regulamento (CE) n.º 479/2008, a ajuda a pagar é diminuída proporcionalmente de um montante fixado pela instância competente em função da gravidade da infracção cometida, sem prejuízo das sanções nacionais."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "e3e1462c17a07952": {
+   "fragment_id": "Obrigações dos Estados-Membros em matéria de informação",
+   "type": "divisao",
+   "heading": "Obrigações dos Estados-Membros em matéria de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações dos Estados-Membros em matéria de informação"
+  },
+  "7a980bda0ee73f37": {
+   "fragment_id": "Artigo 19.º — Comunicações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Comunicações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicações dos Estados-Membros\n\n1. Os Estados-Membros comunicam, por via electrónica, à Comissão:\n\na) Relativamente à campanha em curso: i) até 15 de Setembro, as avaliações do volume previsível dos produtos do sector vitivinícola obtidos no seu território, ii) até 30 de Novembro, as avaliações das disponibilidades e utilizações dos produtos vitivinícolas no seu território, iii) até 15 de Abril, o resultado definitivo das declarações de produção;\n\ni) até 15 de Setembro, as avaliações do volume previsível dos produtos do sector vitivinícola obtidos no seu território,\n\nii) até 30 de Novembro, as avaliações das disponibilidades e utilizações dos produtos vitivinícolas no seu território,\n\niii) até 15 de Abril, o resultado definitivo das declarações de produção;\n\nb) Relativamente às campanhas anteriores: i) até 30 de Novembro, a síntese das declarações de existências no fim da campanha, ii) até 15 de Dezembro, o balanço provisório da campanha anterior, iii) até 15 de Março, o balanço definitivo da penúltima campanha.\n\ni) até 30 de Novembro, a síntese das declarações de existências no fim da campanha,\n\nii) até 15 de Dezembro, o balanço provisório da campanha anterior,\n\niii) até 15 de Março, o balanço definitivo da penúltima campanha.\n\n2. Os balanços são endereçados ao Serviço Estatístico das Comunidades Europeias (EUROSTAT).\n\nOs Estados-Membros informam a Comissão de qualquer facto novo e importante que possa modificar sensivelmente a avaliação das disponibilidades e das utilizações feita com base nos dados definitivos dos anos anteriores.\n\n3. Com vista à constatação da evolução dos preços, os Estados-Membros cuja produção vinificada tenha excedido durante os cinco anos anteriores, em média, 5 % da produção total comunitária de vinho, comunicam à Comissão, relativamente aos vinhos referidos no ponto 1 do anexo IV do Regulamento (CE) n.º 479/2008:\n\na) Até ao dia 15 de cada mês, uma síntese das cotações do mês anterior; ou\n\nb) Até 1 de Agosto de 2009, as fontes de informações públicas que considerem fiáveis para a constatação dos preços.\n\nOs Estados-Membros certificam-se de que a Comissão tem o direito de proceder à publicação dos dados constantes das fontes de informações referidas na alínea b) do primeiro parágrafo.\n\nOs Estados-Membros procedem a uma selecção limitada dos mercados a acompanhar, determinando no total as oito cotações mais representativas dos vinhos brancos e tintos produzidos no seu território.\n\nOs preços referem-se a uma mercadoria a granel, à saída da exploração do produtor, e são expressos em euros por grau-hectolitro ou por hectolitro."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b3cbc24b70896e10": {
+   "fragment_id": "Disposições gerais e finais",
+   "type": "divisao",
+   "heading": "Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais e finais"
+  },
+  "d51db640c405184b": {
+   "fragment_id": "Artigo 20.º — Disposição geral",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Disposição geral\n\nNão são afectadas pelo presente regulamento as disposições dos Estados-Membros que estabeleçam um regime de declarações de colheita, de produção, de tratamento e/ou de comercialização ou de existências que preveja a prestação de informações mais completas, designadamente porque abranja categorias de entidades mais vastas que as referidas nos artigos 8.º, 9.º e 11.º"
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "88b96c3b713f4364": {
+   "fragment_id": "DOCUMENTOS DE ACOMPANHAMENTO DO TRANSPORTE DOS PRODUTOS VITIVINÍCOLAS E REGISTOS A MANTER NO SECTOR VITIVINÍCOLA",
+   "type": "divisao",
+   "heading": "DOCUMENTOS DE ACOMPANHAMENTO DO TRANSPORTE DOS PRODUTOS VITIVINÍCOLAS E REGISTOS A MANTER NO SECTOR VITIVINÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOCUMENTOS DE ACOMPANHAMENTO DO TRANSPORTE DOS PRODUTOS VITIVINÍCOLAS E REGISTOS A MANTER NO SECTOR VITIVINÍCOLA"
+  },
+  "2dcc0b887dc4ed4a": {
+   "fragment_id": "Objecto, âmbito de aplicação e definições",
+   "type": "divisao",
+   "heading": "Objecto, âmbito de aplicação e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objecto, âmbito de aplicação e definições"
+  },
+  "3dfbdcc2949e8574": {
+   "fragment_id": "Artigo 21.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Objecto e âmbito de aplicação\n\n1. O presente título estabelece as regras de execução do artigo 112.º do Regulamento (CE) n.º 479/2008 em matéria de documentos de acompanhamento dos produtos do sector vitivinícola referidos na parte XII do anexo I do Regulamento (CE) n.º 1234/2007 do Conselho [([^11])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr11-L_2009128PT.01001501-E0011), sem prejuízo da aplicação da Directiva 92/12/CEE. Assim, estabelece:\n\na) As regras para o estabelecimento dos documentos de acompanhamento do transporte dos produtos vitivinícolas: i) no interior de um Estado-Membro, desde que o transporte não seja acompanhado de um documento previsto nas normas comunitárias adoptadas ao abrigo da Directiva 92/12/CEE, ii) na exportação para um país terceiro, iii) no comércio intracomunitário, sempre que: — o transporte seja efectuado por um pequeno produtor, dispensado, pelo Estado-Membro onde o transporte se inicia, do estabelecimento de um documento de acompanhamento simplificado, ou — se trate do transporte de um produto vitivinícola não sujeito a imposto especial de consumo;\n\ni) no interior de um Estado-Membro, desde que o transporte não seja acompanhado de um documento previsto nas normas comunitárias adoptadas ao abrigo da Directiva 92/12/CEE,\n\nii) na exportação para um país terceiro,\n\niii) no comércio intracomunitário, sempre que: — o transporte seja efectuado por um pequeno produtor, dispensado, pelo Estado-Membro onde o transporte se inicia, do estabelecimento de um documento de acompanhamento simplificado, ou — se trate do transporte de um produto vitivinícola não sujeito a imposto especial de consumo;\n\n— o transporte seja efectuado por um pequeno produtor, dispensado, pelo Estado-Membro onde o transporte se inicia, do estabelecimento de um documento de acompanhamento simplificado, ou\n\n— se trate do transporte de um produto vitivinícola não sujeito a imposto especial de consumo;\n\nb) Normas complementares para o estabelecimento: i) do documento administrativo de acompanhamento ou do documento comercial utilizado em sua substituição, ii) do documento de acompanhamento simplificado ou do documento comercial utilizado em sua substituição;\n\ni) do documento administrativo de acompanhamento ou do documento comercial utilizado em sua substituição,\n\nii) do documento de acompanhamento simplificado ou do documento comercial utilizado em sua substituição;\n\nc) As regras para a certificação da origem, relativamente aos vinhos com denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP), nos documentos de acompanhamento do transporte destes vinhos.\n\n2. Além disso, o presente título estabelece regras para a manutenção dos registos de entrada e de saída pelas pessoas que detenham produtos vitivinícolas no exercício da sua profissão."
+  },
+  "8bea7334c9f835c5": {
+   "fragment_id": "Artigo 22.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Definições\n\nPara efeitos do presente título, entende-se por:\n\na) **«Produtores»**: as pessoas singulares ou colectivas ou os agrupamentos destas pessoas que disponham ou tenham disposto de uvas frescas, de mosto de uvas ou de vinho novo ainda em fermentação e que os transformem ou mandem transformar em vinho;\n\nb) **«Pequenos produtores»**: os produtores que produzam em média menos de 1 000 hectolitros de vinho por ano;\n\nc) **«Retalhistas»**: as pessoas singulares ou colectivas ou os agrupamentos destas pessoas que exerçam profissionalmente uma actividade comercial que inclua a venda directa ao consumidor em pequenas quantidades a determinar por cada Estado-Membro, tendo em conta as características especiais do comércio e da distribuição, com exclusão dos que utilizem adegas equipadas para a armazenagem e, se for caso disso, instalações para o acondicionamento do vinho em quantidades importantes ou que procedam à venda ambulante de vinho transportado a granel;\n\nd) **«Documento administrativo de acompanhamento»**: um documento em conformidade com o disposto no Regulamento (CEE) n.º 2719/92 da Comissão [([^12])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr12-L_2009128PT.01001501-E0012);\n\ne) **«Documento de acompanhamento simplificado»**: um documento em conformidade com o disposto no Regulamento (CEE) n.º 3649/92 da Comissão [([^13])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr13-L_2009128PT.01001501-E0013);\n\nf) **«Negociante sem estabelecimento»**: a pessoa singular ou colectiva ou o agrupamento destas pessoas que compre ou venda profissionalmente produtos vitivinícolas sem dispor de instalações para a sua armazenagem;\n\ng) **«Dispositivo de fecho»**: um meio de fecho para recipientes com um volume nominal inferior ou igual a cinco litros;\n\nh) **«Engarrafamento»**: a colocação, para fins comerciais, do produto em causa em recipientes de capacidade igual ou inferior a 60 litros;\n\ni) **«Engarrafador»**: a pessoa singular ou colectiva ou o agrupamento destas pessoas que procede ou manda proceder, por sua conta, ao engarrafamento.\n\nPara efeitos de aplicação da alínea b) do primeiro parágrafo, os Estados-Membros referem-se a uma média de produção anual de, pelo menos, três campanhas sucessivas. Os Estados-Membros podem não considerar como pequenos produtores os produtores que comprem uvas frescas ou mosto de uvas a fim de os transformar em vinho."
+  },
+  "f8c4dd39954952cb": {
+   "fragment_id": "Documentos de acompanhamento do transporte dos produtos vitivinícolas",
+   "type": "divisao",
+   "heading": "Documentos de acompanhamento do transporte dos produtos vitivinícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Documentos de acompanhamento do transporte dos produtos vitivinícolas"
+  },
+  "07eb7420610e56ce": {
+   "fragment_id": "Artigo 23.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Objecto\n\nNão obstante a eventual utilização de processos informáticos, qualquer pessoa singular ou colectiva ou agrupamento de pessoas, incluindo os negociantes sem estabelecimento, que tenha o seu domicílio ou a sua sede no território aduaneiro da Comunidade e efectue ou mande efectuar um transporte de um produto vitivinícola deve estabelecer, sob a sua responsabilidade, um documento de acompanhamento desse transporte, a seguir denominado «documento de acompanhamento»."
+  },
+  "72233228410003f0": {
+   "fragment_id": "Artigo 24.º — Documentos de acompanhamento reconhecidos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Documentos de acompanhamento reconhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Documentos de acompanhamento reconhecidos\n\n1. São reconhecidos como documento de acompanhamento:\n\na) Relativamente aos produtos sujeitos às formalidades de circulação previstas na Directiva 92/12/CEE: i) em caso de introdução em circulação em regime de suspensão dos impostos especiais de consumo, um documento administrativo de acompanhamento ou um documento comercial estabelecido em conformidade com o Regulamento (CEE) n.º 2719/92, ii) em caso de circulação intracomunitária e de introdução no consumo no Estado-Membro de partida, um documento de acompanhamento simplificado ou um documento comercial estabelecido em conformidade com o Regulamento (CEE) n.º 3649/92;\n\ni) em caso de introdução em circulação em regime de suspensão dos impostos especiais de consumo, um documento administrativo de acompanhamento ou um documento comercial estabelecido em conformidade com o Regulamento (CEE) n.º 2719/92,\n\nii) em caso de circulação intracomunitária e de introdução no consumo no Estado-Membro de partida, um documento de acompanhamento simplificado ou um documento comercial estabelecido em conformidade com o Regulamento (CEE) n.º 3649/92;\n\nb) Relativamente aos produtos não sujeitos às formalidades de circulação previstas na Directiva 92/12/CEE, incluindo se for caso disso o vinho produzido pelos pequenos produtores, qualquer documento que contenha, pelo menos, as indicações referidas no ponto C do anexo VI, bem como as indicações complementares eventualmente prescritas pelos Estados-Membros, e seja estabelecido em conformidade com o disposto no presente regulamento.\n\n2. Em derrogação da alínea b) do n.º 1:\n\na) Relativamente aos transportes que se iniciem no seu território, os Estados-Membros podem prever que o documento de acompanhamento seja estabelecido em conformidade com o modelo constante do anexo VII;\n\nb) Relativamente aos transportes que se iniciem e terminem no seu território, os Estados-Membros podem prever que o documento de acompanhamento não seja subdividido em casas e que as indicações prescritas não sejam numeradas como previsto no modelo constante do anexo VII."
+  },
+  "72c912206d9f2be6": {
+   "fragment_id": "Artigo 25.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Isenções\n\nEm derrogação do artigo 23.º, não é exigido qualquer documento para acompanhar:\n\na) No que diz respeito aos produtos vitivinícolas contidos em recipientes com um volume nominal superior a 60 litros: i) O transporte de uvas, esmagadas ou não, ou de mostos de uvas, efectuado pelo próprio produtor, por sua conta, a partir da sua própria vinha ou de outra instalação que lhe pertença, sempre que a distância total a percorrer por estrada não exceda 40 quilómetros e o transporte se realize: — no caso de um produtor isolado: para a instalação de vinificação desse produtor, — no caso de um produtor que seja membro de um agrupamento: para as instalações de vinificação desse agrupamento; ii) O transporte de uvas, esmagadas ou não, efectuado pelo próprio produtor, ou por sua conta por um terceiro que não o destinatário, a partir da sua própria vinha, sempre que: — o transporte se realize para a instalação de vinificação do destinatário, situada na mesma zona vitícola, e — a distância total a percorrer não exceda 40 quilómetros; em casos excepcionais, esta distância pode ser aumentada para 70 quilómetros pelas instâncias competentes; iii) O transporte de vinagre de vinho; iv) Desde que a instância competente o tenha autorizado, o transporte dentro da mesma unidade administrativa local ou para uma unidade administrativa local na sua vizinhança imediata ou, caso tenha sido concedida uma autorização individual, o transporte dentro da mesma unidade administrativa regional, sempre que o produto: — seja transportado entre duas instalações de uma mesma empresa, sob reserva da aplicação do n.º 2, alínea a) do segundo parágrafo, do artigo 38.º, ou — não mude de proprietário e o transporte seja efectuado por necessidades de vinificação, de tratamento, de armazenagem ou de engarrafamento; v) O transporte de bagaço de uvas e de borras de vinho: — com destino a uma destilaria, sempre que seja acompanhado da nota de entrega prescrita pelas instâncias competentes do Estado-Membro em que o transporte se inicia, ou — efectuado para retirar, sob supervisão, estes produtos da vinificação, nos termos do artigo 22.º do Regulamento (CE) n.º 555/2008;\n\ni) O transporte de uvas, esmagadas ou não, ou de mostos de uvas, efectuado pelo próprio produtor, por sua conta, a partir da sua própria vinha ou de outra instalação que lhe pertença, sempre que a distância total a percorrer por estrada não exceda 40 quilómetros e o transporte se realize: — no caso de um produtor isolado: para a instalação de vinificação desse produtor, — no caso de um produtor que seja membro de um agrupamento: para as instalações de vinificação desse agrupamento;\n\n— no caso de um produtor isolado: para a instalação de vinificação desse produtor,\n\n— no caso de um produtor que seja membro de um agrupamento: para as instalações de vinificação desse agrupamento;\n\nii) O transporte de uvas, esmagadas ou não, efectuado pelo próprio produtor, ou por sua conta por um terceiro que não o destinatário, a partir da sua própria vinha, sempre que: — o transporte se realize para a instalação de vinificação do destinatário, situada na mesma zona vitícola, e — a distância total a percorrer não exceda 40 quilómetros; em casos excepcionais, esta distância pode ser aumentada para 70 quilómetros pelas instâncias competentes;\n\n— o transporte se realize para a instalação de vinificação do destinatário, situada na mesma zona vitícola, e\n\n— a distância total a percorrer não exceda 40 quilómetros; em casos excepcionais, esta distância pode ser aumentada para 70 quilómetros pelas instâncias competentes;\n\niii) O transporte de vinagre de vinho;\n\niv) Desde que a instância competente o tenha autorizado, o transporte dentro da mesma unidade administrativa local ou para uma unidade administrativa local na sua vizinhança imediata ou, caso tenha sido concedida uma autorização individual, o transporte dentro da mesma unidade administrativa regional, sempre que o produto: — seja transportado entre duas instalações de uma mesma empresa, sob reserva da aplicação do n.º 2, alínea a) do segundo parágrafo, do artigo 38.º, ou — não mude de proprietário e o transporte seja efectuado por necessidades de vinificação, de tratamento, de armazenagem ou de engarrafamento;\n\n— seja transportado entre duas instalações de uma mesma empresa, sob reserva da aplicação do n.º 2, alínea a) do segundo parágrafo, do artigo 38.º, ou\n\n— não mude de proprietário e o transporte seja efectuado por necessidades de vinificação, de tratamento, de armazenagem ou de engarrafamento;\n\nv) O transporte de bagaço de uvas e de borras de vinho: — com destino a uma destilaria, sempre que seja acompanhado da nota de entrega prescrita pelas instâncias competentes do Estado-Membro em que o transporte se inicia, ou — efectuado para retirar, sob supervisão, estes produtos da vinificação, nos termos do artigo 22.º do Regulamento (CE) n.º 555/2008;\n\n— com destino a uma destilaria, sempre que seja acompanhado da nota de entrega prescrita pelas instâncias competentes do Estado-Membro em que o transporte se inicia, ou\n\n— efectuado para retirar, sob supervisão, estes produtos da vinificação, nos termos do artigo 22.º do Regulamento (CE) n.º 555/2008;\n\nb) No que diz respeito aos produtos vitivinícolas contidos em recipientes com um volume nominal inferior ou igual a 60 litros e sob reserva do disposto na Directiva 92/12/CEE: i) O transporte dos produtos contidos em recipientes com volume nominal inferior ou igual a cinco litros, rotulados e munidos de um dispositivo de fecho não recuperável, sempre que a quantidade total transportada não exceda: — cinco litros, no caso do mosto de uvas concentrado, rectificado ou não, — 100 litros, para todos os outros produtos; ii) O transporte de vinho ou de sumo de uvas destinados às representações diplomáticas, postos consulares e organismos equiparados, dentro do limite das franquias que lhes sejam concedidas; iii) O transporte de vinho ou de sumo de uvas: — incluído nos bens que sejam objecto de mudança de residência de particulares, não destinados à venda, — que se encontrem a bordo de navios, aeronaves e comboios para aí serem consumidos; iv) O transporte, efectuado por um particular, de vinho e de mosto de uvas parcialmente fermentado destinados ao consumo familiar do destinatário, com excepção dos transportes referidos na alínea a), sempre que a quantidade total transportada não exceda 30 litros; v) O transporte de um produto destinado a experiências científicas ou técnicas, sempre que a quantidade total transportada não exceda um hectolitro; vi) O transporte de amostras comerciais; vii) O transporte de amostras destinadas a um serviço ou laboratório oficial.\n\ni) O transporte dos produtos contidos em recipientes com volume nominal inferior ou igual a cinco litros, rotulados e munidos de um dispositivo de fecho não recuperável, sempre que a quantidade total transportada não exceda: — cinco litros, no caso do mosto de uvas concentrado, rectificado ou não, — 100 litros, para todos os outros produtos;\n\n— cinco litros, no caso do mosto de uvas concentrado, rectificado ou não,\n\n— 100 litros, para todos os outros produtos;\n\nii) O transporte de vinho ou de sumo de uvas destinados às representações diplomáticas, postos consulares e organismos equiparados, dentro do limite das franquias que lhes sejam concedidas;\n\niii) O transporte de vinho ou de sumo de uvas: — incluído nos bens que sejam objecto de mudança de residência de particulares, não destinados à venda, — que se encontrem a bordo de navios, aeronaves e comboios para aí serem consumidos;\n\n— incluído nos bens que sejam objecto de mudança de residência de particulares, não destinados à venda,\n\n— que se encontrem a bordo de navios, aeronaves e comboios para aí serem consumidos;\n\niv) O transporte, efectuado por um particular, de vinho e de mosto de uvas parcialmente fermentado destinados ao consumo familiar do destinatário, com excepção dos transportes referidos na alínea a), sempre que a quantidade total transportada não exceda 30 litros;\n\nv) O transporte de um produto destinado a experiências científicas ou técnicas, sempre que a quantidade total transportada não exceda um hectolitro;\n\nvi) O transporte de amostras comerciais;\n\nvii) O transporte de amostras destinadas a um serviço ou laboratório oficial.\n\nEm casos excepcionais, as instâncias competentes podem aumentar para 70 quilómetros o limite de 40 quilómetros previsto na alínea a), subalínea i), do primeiro parágrafo.\n\nNos casos de isenção de qualquer dos documentos de acompanhamento referidos na alínea b), subalíneas i) a iv), do primeiro parágrafo, os expedidores, com exclusão dos retalhistas ou de particulares que cedam ocasionalmente o produto a outros particulares, devem, todavia, estar em condições de poder, a qualquer momento, provar a exactidão de todas as anotações prescritas para os registos, referidas no capítulo III, ou de outros registos previstos pelo Estado-Membro em causa."
+  },
+  "4138902662ac5ea9": {
+   "fragment_id": "Artigo 26.º — Estabelecimento de um documento de acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Estabelecimento de um documento de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Estabelecimento de um documento de acompanhamento\n\n1. Considera-se devidamente estabelecido o documento de acompanhamento que contenha as indicações previstas no anexo VI.\n\n2. O documento de acompanhamento só pode ser utilizado num único transporte.\n\n3. Os documentos de acompanhamento referidos no n.º 1, alínea b), e no n.º 2 do artigo 24.º podem ser estabelecidos e emitidos por meio de sistemas informáticos, segundo as modalidades adoptadas pelas autoridades competentes dos Estados-Membros.\n\nO teor dos documentos de acompanhamento estabelecidos em suporte electrónico ou em papel é idêntico."
+  },
+  "880269bc068b22c1": {
+   "fragment_id": "Artigo 27.º — Utilização de um documento de acompanhamento para efeitos de exportação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Utilização de um documento de acompanhamento para efeitos de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Utilização de um documento de acompanhamento para efeitos de exportação\n\n1. Sempre que o destinatário esteja estabelecido fora do território aduaneiro da Comunidade, o original do documento de acompanhamento e uma cópia, ou, se for caso disso, os exemplares n.^os^ 1 e 2, são apresentados juntamente com a declaração de exportação na estância aduaneira competente do Estado-Membro de exportação. Esta estância aduaneira vela por que sejam indicados, por um lado, na declaração de exportação, o tipo de documento, a data e o número do documento apresentado e, por outro, no original do documento de acompanhamento e na sua cópia, ou, se for caso disso, nos dois exemplares do documento de acompanhamento, o tipo de documento, a data e o número da declaração de exportação.\n\nA estância aduaneira de saída do território aduaneiro da Comunidade apõe nos dois exemplares supracitados uma das menções constantes do anexo IX, autenticadas pelo seu carimbo, e entrega estes exemplares do documento de acompanhamento, munidos do carimbo e da menção adequada, ao exportador ou ao seu representante. Este último deve certificar-se de que um exemplar acompanhe o produto exportado.\n\n2. As referências citadas no primeiro parágrafo do n.º 1 contêm, pelo menos, o tipo de documento, a data e o número do documento, bem como, no que diz respeito à declaração de exportação, o nome e a sede da instância competente para a exportação.\n\n3. Sempre que, no âmbito do regime de aperfeiçoamento passivo previsto nos Regulamentos (CEE) n.º 2913/92 do Conselho [([^14])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr14-L_2009128PT.01001501-E0014) e (CEE) n.º 2454/93 da Comissão [([^15])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr15-L_2009128PT.01001501-E0015), um produto vitivinícola seja exportado temporariamente para um país da Associação Europeia de Comércio Livre (EFTA) para ser aí submetido a operações de armazenagem, envelhecimento e/ou acondicionamento, é estabelecida, para além do documento de acompanhamento, uma ficha de informações, conforme previsto na Recomendação do Conselho de Cooperação Aduaneira de 3 de Dezembro de 1963. Esta ficha inclui, nas casas reservadas à designação das mercadorias, a designação, em conformidade com as normas comunitárias e nacionais, e a quantidade dos vinhos transportados.\n\nEstas indicações são retomadas do original do documento de acompanhamento do transporte ao abrigo do qual esses vinhos foram encaminhados até à estância aduaneira em que é emitida a ficha de informações. Além disso, são anotados na ficha a natureza, a data e o número do documento supracitado que acompanhou anteriormente o transporte.\n\nSempre que, em caso de reintrodução no território aduaneiro da Comunidade de produtos referidos no primeiro parágrafo, a ficha de informações seja devidamente preenchida pela estância aduaneira competente da EFTA, este documento vale como documento de acompanhamento para o transporte até à estância aduaneira de destino da Comunidade ou de introdução no consumo, desde que contenha, na casa reservada à designação das mercadorias, os dados previstos no primeiro parágrafo.\n\nA estância aduaneira em causa na Comunidade visa uma cópia ou fotocópia do referido documento, fornecida pelo destinatário ou pelo seu representante, e entrega-lha para efeitos de aplicação do presente regulamento.\n\n4. No que diz respeito aos vinhos com DOP ou IGP que tenham sido exportados para um país terceiro e sido objecto de um documento de acompanhamento do transporte em conformidade com o presente regulamento, tal documento deve ser apresentado, juntamente com qualquer outro documento comprovativo, à instância competente aquando da sua introdução em livre prática na Comunidade, desde que não se trate de produtos que satisfaçam as condições do n.º 3 nem de produtos de retorno referidos nos Regulamentos (CEE) n.º 2913/92 e (CEE) n.º 2454/93. Se os documentos comprovativos forem considerados satisfatórios, a estância aduaneira em questão visa uma cópia ou fotocópia do certificado de denominação de origem protegida ou de indicação geográfica protegida, fornecida pelo destinatário ou pelo seu representante, e entrega-lha para efeitos de aplicação do presente regulamento."
+  },
+  "d445809e26be4fd0": {
+   "fragment_id": "Artigo 28.º — Transporte a granel",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Transporte a granel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transporte a granel\n\n1. Sempre que o documento de acompanhamento seja estabelecido para acompanhar o transporte de um produto vitivinícola em recipientes com um volume nominal superior a 60 litros, o número de referência deste documento deve ser atribuído pela instância competente cujo nome e sede estejam indicados no documento de acompanhamento. Esta instância pode ser uma instância encarregada do controlo fiscal.\n\n2. O número de referência deve:\n\na) Fazer parte de uma série contínua; e\n\nb) Ser pré-impresso.\n\nA condição referida na alínea b) pode ser omitida em caso de utilização de um sistema informático.\n\n3. No caso referido no n.º 1, o original do documento de acompanhamento, devidamente preenchido, e uma cópia são validados previamente e em cada transporte:\n\na) Pelo visto da instância competente do Estado-Membro no território do qual se inicia o transporte; ou\n\nb) Pelo expedidor, através da aposição do selo prescrito ou da marca de uma máquina de selar aprovada pela instância competente referida na alínea a).\n\n4. Em caso de utilização de um documento administrativo de acompanhamento ou um documento comercial conforme ao Regulamento (CEE) n.º 2719/92 ou de um documento de acompanhamento simplificado ou um documento comercial conforme ao Regulamento (CEE) n.º 3649/92, os exemplares n.^os^ 1 e 2 são previamente validados de acordo com o procedimento previsto no n.º 3."
+  },
+  "5a94e66bd66eff94": {
+   "fragment_id": "Artigo 29.º — Transporte de uma quantidade superior a 60 litros",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Transporte de uma quantidade superior a 60 litros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Transporte de uma quantidade superior a 60 litros\n\nAlém do documento prescrito para o transporte, é exigida uma cópia autorizada pela autoridade competente para o transporte de uma quantidade superior a 60 litros de um dos seguintes produtos vitivinícolas não acondicionados:\n\na) Produtos originários da Comunidade: i) vinho destinado a ser transformado em vinho com DOP, ii) mosto de uvas parcialmente fermentado, iii) mosto de uvas concentrado, rectificado ou não, iv) mosto de uvas frescas amuado com álcool, v) sumo de uvas, vi) sumo de uvas concentrado;\n\ni) vinho destinado a ser transformado em vinho com DOP,\n\nii) mosto de uvas parcialmente fermentado,\n\niii) mosto de uvas concentrado, rectificado ou não,\n\niv) mosto de uvas frescas amuado com álcool,\n\nv) sumo de uvas,\n\nvi) sumo de uvas concentrado;\n\nb) Produtos não originários da Comunidade: i) uvas frescas, com exclusão das uvas de mesa, ii) mosto de uvas, iii) mosto de uvas concentrado, iv) mosto de uvas parcialmente fermentado, v) mosto de uvas concentrado, rectificado ou não, vi) mosto de uvas frescas amuado com álcool, vii) sumo de uvas, viii) sumo de uvas concentrado, ix) vinho licoroso destinado à elaboração de produtos que não os do código NC 2204.\n\ni) uvas frescas, com exclusão das uvas de mesa,\n\nii) mosto de uvas,\n\niii) mosto de uvas concentrado,\n\niv) mosto de uvas parcialmente fermentado,\n\nv) mosto de uvas concentrado, rectificado ou não,\n\nvi) mosto de uvas frescas amuado com álcool,\n\nvii) sumo de uvas,\n\nviii) sumo de uvas concentrado,\n\nix) vinho licoroso destinado à elaboração de produtos que não os do código NC 2204.\n\nO primeiro parágrafo é igualmente aplicável aos seguintes produtos, independentemente da sua origem e da quantidade transportada, sem prejuízo das isenções referidas no artigo 25.º:\n\na) Borras de vinho;\n\nb) Bagaço de uvas, destinado a uma destilaria ou a outra transformação industrial;\n\nc) Água-pé;\n\nd) Vinho aguardentado;\n\ne) Vinho obtido a partir de uvas de castas que não constem, enquanto castas de uva de vinho, da classificação estabelecida pelos Estados-Membros em aplicação do artigo 24.º do Regulamento (CE) n.º 479/2008, em relação à unidade administrativa em que essas uvas tenham sido colhidas;\n\nf) Produtos que não podem ser fornecidos para consumo humano directo.\n\nA cópia referida no primeiro parágrafo é transmitida pela via mais rápida, o mais tardar no primeiro dia útil seguinte ao da partida do produto, pelo expedidor à autoridade territorialmente competente em relação ao local de carregamento. Esta autoridade transmite esta cópia pela via mais rápida, o mais tardar no primeiro dia útil seguinte à sua recepção, ou à sua emissão se ela própria a emitir, à autoridade territorialmente competente em relação ao local de descarga."
+  },
+  "236cd676d9f2b1fb": {
+   "fragment_id": "Artigo 30.º — Transporte de um produto de um país terceiro introduzido em livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Transporte de um produto de um país terceiro introduzido em livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Transporte de um produto de um país terceiro introduzido em livre circulação\n\nPara qualquer transporte, no território aduaneiro da Comunidade, dos produtos de um país terceiro introduzidos em livre prática, o documento de acompanhamento contém:\n\na) O número do documento VI 1, estabelecido em conformidade com o artigo 43.º do Regulamento (CE) n.º 555/2008;\n\nb) A data de estabelecimento deste documento;\n\nc) O nome e a sede do organismo do país terceiro que tenha emitido este documento ou autorizado o seu estabelecimento por um produtor."
+  },
+  "69d5af962169fc61": {
+   "fragment_id": "Artigo 31.º — Certificado de denominação de origem ou de indicação geográfica protegidas",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Certificado de denominação de origem ou de indicação geográfica protegidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Certificado de denominação de origem ou de indicação geográfica protegidas\n\n1. O documento de acompanhamento vale como certificado de denominação de origem ou de indicação geográfica protegidas, sempre que seja devidamente estabelecido:\n\na) Por um expedidor que seja o produtor do vinho transportado em causa e não adquira nem venda produtos vitivinícolas obtidos a partir de uvas colhidas em regiões que não aquelas cujos nomes utiliza para designar os vinhos provenientes da sua própria produção;\n\nb) Por um expedidor não referido na alínea a), se a exactidão das indicações tiver sido atestada no documento de acompanhamento pela instância competente, com base nas informações constantes dos documentos que acompanharam os transportes anteriores do produto em causa;\n\nc) Nos termos do disposto no n.º 1 do artigo 33.º, e desde que sejam respeitadas as seguintes condições: i) O documento de acompanhamento é estabelecido de acordo com o modelo previsto para: — o documento administrativo de acompanhamento, ou — o documento de acompanhamento simplificado, ou — o documento de acompanhamento cujo modelo consta do anexo VII, ou — o documento referido no n.º 2, alínea b), do artigo 24.º; ii) As seguintes menções estão inscritas no local previsto no documento de acompanhamento: — relativamente aos vinhos com DOP: «O presente documento vale como certificado de denominação de origem protegida para os vinhos dele constantes», — relativamente aos vinhos com IGP: «O presente documento vale como certificado de indicação geográfica protegida para os vinhos dele constantes»; iii) As menções referidas na subalínea ii) estão autenticadas pela instância competente através do seu carimbo, da indicação da data e da assinatura do responsável, consoante o caso: — nos exemplares n.^os^ 1 e 2, em caso de utilização do modelo referido nos primeiro e segundo travessões da subalínea i), ou — no original do documento de acompanhamento e numa cópia, em caso de utilização do modelo referido nos terceiro e quarto travessões da subalínea i); iv) O número de referência do documento de acompanhamento foi atribuído pela instância competente; v) Em caso de expedição a partir de um Estado-Membro que não o Estado-Membro de produção, o documento de acompanhamento contém: — o número de referência, — a data de estabelecimento, — o nome e a sede da instância competente que constam dos documentos ao abrigo dos quais o produto foi transportado antes de ser reexpedido e nos quais foi certificada a denominação de origem ou a indicação geográfica.\n\ni) O documento de acompanhamento é estabelecido de acordo com o modelo previsto para: — o documento administrativo de acompanhamento, ou — o documento de acompanhamento simplificado, ou — o documento de acompanhamento cujo modelo consta do anexo VII, ou — o documento referido no n.º 2, alínea b), do artigo 24.º;\n\n— o documento administrativo de acompanhamento, ou\n\n— o documento de acompanhamento simplificado, ou\n\n— o documento de acompanhamento cujo modelo consta do anexo VII, ou\n\n— o documento referido no n.º 2, alínea b), do artigo 24.º;\n\nii) As seguintes menções estão inscritas no local previsto no documento de acompanhamento: — relativamente aos vinhos com DOP: «O presente documento vale como certificado de denominação de origem protegida para os vinhos dele constantes», — relativamente aos vinhos com IGP: «O presente documento vale como certificado de indicação geográfica protegida para os vinhos dele constantes»;\n\n— relativamente aos vinhos com DOP: «O presente documento vale como certificado de denominação de origem protegida para os vinhos dele constantes»,\n\n— relativamente aos vinhos com IGP: «O presente documento vale como certificado de indicação geográfica protegida para os vinhos dele constantes»;\n\niii) As menções referidas na subalínea ii) estão autenticadas pela instância competente através do seu carimbo, da indicação da data e da assinatura do responsável, consoante o caso: — nos exemplares n.^os^ 1 e 2, em caso de utilização do modelo referido nos primeiro e segundo travessões da subalínea i), ou — no original do documento de acompanhamento e numa cópia, em caso de utilização do modelo referido nos terceiro e quarto travessões da subalínea i);\n\n— nos exemplares n.^os^ 1 e 2, em caso de utilização do modelo referido nos primeiro e segundo travessões da subalínea i), ou\n\n— no original do documento de acompanhamento e numa cópia, em caso de utilização do modelo referido nos terceiro e quarto travessões da subalínea i);\n\niv) O número de referência do documento de acompanhamento foi atribuído pela instância competente;\n\nv) Em caso de expedição a partir de um Estado-Membro que não o Estado-Membro de produção, o documento de acompanhamento contém: — o número de referência, — a data de estabelecimento, — o nome e a sede da instância competente que constam dos documentos ao abrigo dos quais o produto foi transportado antes de ser reexpedido e nos quais foi certificada a denominação de origem ou a indicação geográfica.\n\n— o número de referência,\n\n— a data de estabelecimento,\n\n— o nome e a sede da instância competente que constam dos documentos ao abrigo dos quais o produto foi transportado antes de ser reexpedido e nos quais foi certificada a denominação de origem ou a indicação geográfica.\n\n2. Um Estado-Membro pode tornar obrigatório o certificado de denominação de origem ou de indicação geográfica protegidas para os vinhos produzidos no seu território.\n\n3. As instâncias competentes de cada Estado-Membro podem permitir aos expedidores que satisfaçam as condições previstas no n.º 4 que inscrevam eles próprios ou mandem pré-imprimir as menções relativas ao certificado de denominação de origem ou de indicação geográfica protegidas nos formulários do documento de acompanhamento, desde que:\n\na) As menções tenham sido previamente autenticadas pela aposição do carimbo da instância competente, da assinatura de um responsável e da data; ou\n\nb) As menções sejam autenticadas pelos próprios expedidores mediante aposição de um carimbo especial aceite pelas instâncias competentes e em conformidade com o modelo constante do anexo VIII; esse carimbo pode ser pré-impresso nos formulários sempre que a impressão for confiada a uma tipografia aprovada para o efeito.\n\n4. A autorização referida no n.º 3 só é concedida aos expedidores que procedam habitualmente a expedições de vinhos com DOP ou IGP e após verificação, consecutiva a um primeiro pedido, de que os registos de entrada e de saída são mantidos em conformidade com o capítulo III e permitem, deste modo, controlar a exactidão das menções que constam dos documentos.\n\nAs instâncias competentes podem recusar a autorização aos expedidores que não ofereçam todas as garantias que julguem úteis. Podem revogar a autorização, nomeadamente sempre que os expedidores deixem de reunir as condições previstas no primeiro parágrafo ou de oferecer as garantias exigidas.\n\n5. Os expedidores aos quais é concedida a autorização referida no n.º 3 devem tomar todas as medidas necessárias para assegurar a guarda do carimbo especial ou dos formulários com a marca do carimbo da instância competente ou com a marca do carimbo especial.\n\n6. No comércio com países terceiros, apenas os documentos de acompanhamento estabelecidos em conformidade com o n.º 1, aquando de uma exportação do Estado-Membro de produção, certificam, para os vinhos com DOP ou IGP, que a denominação de origem protegida ou a indicação geográfica protegida do produto está em conformidade com as normas comunitárias e nacionais aplicáveis. Todavia, em caso de exportação a partir de um Estado-Membro que não o Estado-Membro de produção, o documento de acompanhamento estabelecido em conformidade com o n.º 1, e ao abrigo do qual o produto é exportado, vale como certificado de denominação de origem ou de indicação geográfica protegidas, sempre que contenha:\n\na) O número de referência;\n\nb) A data de estabelecimento;\n\nc) O nome e a sede da instância referida no n.º 1 que constam dos documentos ao abrigo dos quais o produto foi transportado antes de ser exportado e nos quais foi certificada a denominação de origem ou a indicação geográfica.\n\n7. O documento de acompanhamento vale como certificado de denominação de origem ou de indicação geográfica de um país terceiro para um vinho importado, sempre que o referido documento seja estabelecido em conformidade com o presente artigo e utilizando um dos modelos referidos na alínea c), subalínea i), do n.º 1."
+  },
+  "27a56a8a18a9abaf": {
+   "fragment_id": "Artigo 32.º — Recusa pelo destinatário",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Recusa pelo destinatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Recusa pelo destinatário\n\nSempre que uma parte ou a totalidade de um produto transportado ao abrigo de um documento de acompanhamento do transporte seja recusada pelo destinatário, este apõe no verso do documento a menção «Recusado pelo destinatário», bem como a data e a sua assinatura, completando-as, se for caso disso, com a indicação da quantidade recusada em litros ou em quilogramas.\n\nNeste caso, o produto em questão pode ser devolvido ao expedidor ao abrigo do mesmo documento de acompanhamento do transporte ou mantido nas instalações do transportador até ao estabelecimento de novo documento para acompanhar o produto aquando da sua reexpedição."
+  },
+  "6bc72617a8312b8d": {
+   "fragment_id": "Artigo 33.º — Transporte efectuado por um expedidor que cometeu uma infracção grave",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Transporte efectuado por um expedidor que cometeu uma infracção grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transporte efectuado por um expedidor que cometeu uma infracção grave\n\n1. Sempre que a instância competente constate que uma pessoa singular ou colectiva, ou um agrupamento destas pessoas, que efectue ou mande efectuar um transporte de um produto vitivinícola, cometeu uma infracção grave às normas comunitárias no sector vitivinícola, ou às normas nacionais adoptadas em aplicação das mesmas, ou tenha uma suspeita fundamentada de tal infracção, pode determinar que o expedidor estabeleça o documento de acompanhamento e solicite o visto da instância competente.\n\nEste visto, quando concedido, pode ficar subordinado a condições relativas à utilização ulterior do produto. O visto comporta a aposição de um carimbo, a assinatura do responsável da instância competente e a indicação da data.\n\n2. O n.º 1 aplica-se também ao transporte de produtos cujas condições de produção ou cuja composição não estejam em conformidade com as normas comunitárias ou nacionais."
+  },
+  "d97f9d74ebd0f666": {
+   "fragment_id": "Artigo 34.º — Transportes irregulares",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Transportes irregulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Transportes irregulares\n\n1. Sempre que se constate que um transporte, para o qual é prescrito um documento de acompanhamento, é efectuado sem tal documento ou a coberto de um documento que contenha indicações falsas, erradas ou incompletas, a instância competente do Estado-Membro em que tenha sido efectuada a constatação ou qualquer outro serviço incumbido do controlo do respeito das normas comunitárias e nacionais no sector vitivinícola toma as medidas adequadas:\n\na) Para regularizar tal transporte, quer através da rectificação dos erros materiais quer através do estabelecimento de um novo documento;\n\nb) Se for caso disso, para aplicar sanções pelas irregularidades verificadas, proporcionais à gravidade destas, nomeadamente mediante aplicação do disposto no n.º 1 do artigo 33.º\n\nA instância competente ou o serviço referido no primeiro parágrafo carimba os documentos rectificados ou estabelecidos em conformidade com esta disposição. A regularização de irregularidades não deve atrasar o transporte em causa mais do que o tempo estritamente necessário.\n\nNo caso de irregularidades graves ou repetidas, a autoridade territorialmente competente em relação ao local de descarga informa a autoridade territorialmente competente em relação ao local de expedição. Sempre que se trate de um transporte intracomunitário, tal informação é transmitida em conformidade com o Regulamento (CE) n.º 555/2008.\n\n2. Sempre que a regularização de um transporte, nos termos do primeiro parágrafo do n.º 1, se revele impossível, a instância competente ou o serviço que tiver constatado a irregularidade bloqueia o transporte. A mesma instância ou serviço informa o expedidor do bloqueio, bem como das consequências em que incorre. Estas medidas podem prever a proibição de introdução do produto no comércio."
+  },
+  "d4b4c956366ef681": {
+   "fragment_id": "Artigo 35.º — Caso fortuito ou de força maior",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Caso fortuito ou de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Caso fortuito ou de força maior\n\nSempre que, no decurso do transporte, ocorra um caso fortuito ou de força maior que cause o fraccionamento ou a perda de uma parte ou da totalidade do carregamento para o qual é exigido um documento de acompanhamento, o transportador solicita à autoridade competente em relação ao local em que o caso fortuito ou de força maior tenha ocorrido que proceda a uma verificação dos factos.\n\nNa medida das suas possibilidades, o transportador avisa igualmente a instância competente mais próxima do local onde o caso fortuito ou de força maior tenha ocorrido a fim de que esta tome as medidas necessárias para regularizar o transporte em causa."
+  },
+  "fd90c5bcc6273956": {
+   "fragment_id": "Registos",
+   "type": "divisao",
+   "heading": "Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Registos"
+  },
+  "36c8ebe44dd0b0e8": {
+   "fragment_id": "Artigo 36.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Objecto\n\n1. As pessoas singulares e colectivas, bem como os agrupamentos de pessoas, que detenham, seja a que título for, no exercício da sua profissão ou para fins comerciais, um produto vitivinícola são obrigados a manter registos que indiquem, em especial, as entradas e saídas desse produto, a seguir denominados «registos».\n\n2. Os Estados-Membros podem prever que os negociantes sem estabelecimento sejam obrigados a manter registos, de acordo com as regras e modalidades que determinem.\n\n3. As pessoas sujeitas à obrigação de manter registos indicam as entradas e as saídas das suas instalações de cada lote dos produtos referidos no n.º 1, bem como as operações referidas no n.º 1 do artigo 41.º efectuadas. Devem, além disso, estar em condições de apresentar, para cada inscrição nos registos relativos às entradas e saídas, um documento que tenha acompanhado o transporte em causa ou outro documento comprovativo, nomeadamente um documento comercial."
+  },
+  "f0a62d4fd7b1f9b0": {
+   "fragment_id": "Artigo 37.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Isenções\n\n1. Não são obrigados a manter registos:\n\na) Os retalhistas;\n\nb) Os vendedores de bebidas para consumo exclusivo no local de venda.\n\n2. Para o vinagre de vinho não é exigida a inscrição num registo.\n\n3. Os Estados-Membros podem prever que não sejam obrigadas a manter registos as pessoas singulares e colectivas, bem como os agrupamentos de pessoas, que detenham ou ponham à venda exclusivamente produtos vitivinícolas em pequenos recipientes, nas condições de apresentação referidas na alínea b), subalínea i), do artigo 25.º, desde que seja possível proceder a qualquer momento a um controlo das entradas, das saídas e das existências com base em outros documentos comprovativos, nomeadamente os documentos comerciais utilizados para a contabilidade financeira."
+  },
+  "f1c7102266bdea88": {
+   "fragment_id": "Artigo 38.º — Constituição dos registos",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Constituição dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Constituição dos registos\n\n1. Os registos são:\n\na) Quer estabelecidos por um sistema informático segundo as modalidades adoptadas pelas autoridades competentes dos Estados-Membros; o conteúdo dos registos informatizados deve ser idêntico ao dos registos em papel;\n\nb) Quer compostos de folhas fixas numeradas por ordem;\n\nc) Quer constituídos por elementos adequados de uma contabilidade moderna, aprovada pelas instâncias competentes, desde que desses elementos constem as menções que devem figurar nos registos.\n\nTodavia, os Estados-Membros podem prever que:\n\na) Os registos mantidos pelos negociantes que não se dediquem a qualquer das operações referidas no n.º 1 do artigo 41.º, nem a qualquer prática enológica, sejam constituídos pelo conjunto dos documentos de acompanhamento;\n\nb) Os registos mantidos pelos produtores sejam constituídos por anotações no verso ou em anexo das declarações de colheita, de produção ou de existências, previstas no título II.\n\n2. Os registos são mantidos por empresa e nos próprios locais onde os produtos se encontrem armazenados.\n\nTodavia, e desde que seja possível proceder a qualquer momento a um controlo das entradas, das saídas e das existências, nos próprios locais onde os produtos se encontrem armazenados, com base em outros documentos comprovativos, as instâncias competentes podem autorizar, se for caso disso dando instruções:\n\na) Que os registos sejam conservados na sede da empresa, sempre que os produtos estejam armazenados em entrepostos diferentes de uma mesma empresa, situados na mesma unidade administrativa local ou numa unidade na sua vizinhança imediata;\n\nb) Que a manutenção dos registos seja confiada a uma empresa especializada nesta matéria.\n\nSempre que várias lojas de venda a retalho que procedam à venda directa ao consumidor final pertençam a uma mesma empresa e sejam abastecidas por um ou mais armazéns centrais pertencentes a esta empresa, estes armazéns centrais estão, sem prejuízo do n.º 3 do artigo 37.º, sujeitos à obrigação de manter registos; nesses registos, os fornecimentos destinados às supracitadas lojas que actuem como retalhistas são inscritos como saídas."
+  },
+  "25df4acbd6e16785": {
+   "fragment_id": "Artigo 39.º — Produtos objecto de uma inscrição",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Produtos objecto de uma inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Produtos objecto de uma inscrição\n\n1. Em relação aos produtos que são objecto de uma inscrição nos registos, são mantidas contas distintas para:\n\na) Cada uma das categorias enumeradas no anexo IV do Regulamento (CE) n.º 479/2008;\n\nb) Cada vinho com DOP e os produtos destinados a ser transformados num tal vinho;\n\nc) Cada vinho com IGP e os produtos destinados a ser transformados num tal vinho;\n\nd) Cada vinho de casta sem DOP/IGP e os produtos destinados a ser transformados num tal vinho.\n\nOs vinhos com DOP de diferentes origens acondicionados em recipientes com volume igual ou inferior a 60 litros e rotulados em conformidade com as normas comunitárias, adquiridos a um terceiro e detidos com vista à sua venda, podem ser inscritos na mesma conta, desde que a instância competente ou um serviço ou organismo por ela habilitado tenha dado o seu consentimento e que as entradas e saídas de cada vinho com DOP sejam inscritas individualmente na referida conta; o mesmo se aplica aos vinhos com IGP.\n\nA perda da utilização da denominação de origem e da indicação geográfica protegidas deve ser anotada nos registos.\n\n2. Os Estados-Membros determinam o modo como são tidos em conta nos registos:\n\na) O consumo familiar do produtor;\n\nb) As eventuais variações de volume sofridas acidentalmente pelos produtos."
+  },
+  "b45ac5cbcb45554e": {
+   "fragment_id": "Artigo 40.º — Menções nos registos",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Menções nos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Menções nos registos\n\n1. São mencionados nos registos, para cada entrada e cada saída:\n\na) O número de controlo do produto, sempre que previsto pelas normas comunitárias ou nacionais;\n\nb) A data da operação;\n\nc) A quantidade real entrada e saída;\n\nd) O produto em causa, designado em conformidade com as normas comunitárias e nacionais aplicáveis;\n\ne) Uma referência ao documento que acompanha ou acompanhou o transporte em questão.\n\n2. Relativamente aos vinhos referidos nos pontos 1 a 9, 15 e 16 do anexo IV do Regulamento (CE) n.º 479/2008, a designação nos registos mantidos pelos operadores inclui as indicações facultativas referidas no artigo 60.º do mesmo regulamento, desde que constem ou esteja previsto que constem da rotulagem.\n\nAs indicações facultativas referidas no primeiro parágrafo podem ser substituídas nos registos mantidos por pessoas diferentes dos produtores pelo número do documento de acompanhamento e pela data do seu estabelecimento.\n\n3. Os recipientes para a armazenagem dos vinhos referidos no n.º 2 são identificados nos registos e o seu volume nominal é também indicado. Além disso, os recipientes incluem as indicações previstas para esse efeito pelos Estados-Membros, que permitam ao organismo responsável pelo controlo efectuar a identificação do seu conteúdo por meio dos registos ou dos documentos que os substituam.\n\nTodavia, relativamente aos recipientes com um volume igual ou inferior a 600 litros, cheios do mesmo produto e armazenados conjuntamente no mesmo lote, a sua marcação nos registos pode ser substituída pela do lote no seu conjunto, desde que esse lote esteja claramente separado dos outros.\n\n4. Nos casos mencionados no n.º 6 do artigo 31.º, é feita referência, no registo de saída, ao documento ao abrigo do qual o produto foi anteriormente transportado."
+  },
+  "9973bebbe5f740ec": {
+   "fragment_id": "Artigo 41.º — Operações a indicar nos registos",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Operações a indicar nos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Operações a indicar nos registos\n\n1. São indicadas nos registos as seguintes operações:\n\na) Aumento do título alcoométrico;\n\nb) Acidificação;\n\nc) Desacidificação;\n\nd) Edulcoração;\n\ne) Lotação;\n\nf) Engarrafamento;\n\ng) Destilação;\n\nh) Elaboração de vinhos espumantes de todas as categorias, de vinhos frisantes e de vinhos frisantes gaseificados;\n\ni) Elaboração de vinhos licorosos;\n\nj) Elaboração de mosto de uvas concentrado, rectificado ou não;\n\nk) Tratamento por carvões de uso enológico;\n\nl) Tratamento com ferrocianeto de potássio;\n\nm) Elaboração de vinhos aguardentados;\n\nn) Outros casos de adição de álcool;\n\no) Transformação num produto de outra categoria, nomeadamente em vinho aromatizado;\n\np) Tratamento por electrodiálise ou tratamento de permuta catiónica, para estabilização tartárica do vinho;\n\nq) Adição de dicarbonato dimetílico (DMDC) ao vinho;\n\nr) Utilização de pedaços de madeira de carvalho na elaboração de vinhos;\n\ns) Desalcoolização parcial de vinhos;\n\nt) Utilização experimental de novas práticas enológicas, incluindo a referência adequada à autorização dada pelo Estado-Membro em causa;\n\nu) Utilização de dióxido de enxofre, também designado por anidrido sulfuroso, de bissulfito de potássio ou de metabissulfito de potássio.\n\nSempre que uma empresa esteja autorizada a manter registos simplificados, referidos no n.º 1, alínea c), do artigo 38.º do presente regulamento, a instância competente pode permitir que o duplicado das declarações referidas na parte D, ponto 4, do anexo V do Regulamento (CE) n.º 479/2008 seja equivalente às indicações nos registos relativas às operações de aumento do título alcoométrico, de acidificação e de desacidificação.\n\n2. Para cada uma das operações referidas no n.º 1, são mencionados nos registos que não sejam os referidos no artigo 42.º:\n\na) A operação efectuada e a sua data;\n\nb) A natureza e as quantidades dos produtos utilizados;\n\nc) A quantidade de produto obtida por essa operação, incluindo o álcool proveniente da desalcoolização parcial de vinhos;\n\nd) A quantidade de produto utilizada para o aumento do título alcoométrico, a acidificação, a desacidificação, a edulcoração e a aguardentação;\n\ne) A designação dos produtos, antes e após essa operação, em conformidade com as normas comunitárias ou nacionais aplicáveis;\n\nf) A marcação dos recipientes em que os produtos inscritos nos registos estavam contidos antes da operação e em que estão contidos depois desta;\n\ng) Sempre que se trate de um engarrafamento, o número de garrafas enchidas e a sua capacidade;\n\nh) Sempre que se trate de um engarrafamento por encomenda, o nome e o endereço do engarrafador.\n\nSempre que um produto mude de categoria na sequência de uma transformação que não resulte de uma das operações referidas no primeiro parágrafo do n.º 1, nomeadamente em caso de fermentação dos mostos de uvas, são mencionadas nos registos as quantidades e a natureza do produto obtido após essa transformação."
+  },
+  "122bf5101c57f46a": {
+   "fragment_id": "Artigo 42.º — Registos dos vinhos espumantes e dos vinhos licorosos",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Registos dos vinhos espumantes e dos vinhos licorosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Registos dos vinhos espumantes e dos vinhos licorosos\n\n1. No que diz respeito à elaboração dos vinhos espumantes, os registos de vinhos de base devem mencionar, para cada um dos vinhos de base preparados:\n\na) A data de preparação;\n\nb) A data de engarrafamento, para todas as categorias de vinho espumante de qualidade;\n\nc) O volume do vinho de base, bem como a indicação de cada um dos seus componentes, os seus volumes e os seus títulos alcoométricos adquiridos e em potência;\n\nd) O volume do licor de tiragem utilizado;\n\ne) O volume do licor de expedição;\n\nf) O número de garrafas obtidas, especificando, se for caso disso, o tipo de vinho espumante expresso por um termo relativo ao seu teor em açúcar residual, desde que esse termo seja mencionado no rótulo.\n\n2. No que diz respeito à elaboração dos vinhos licorosos, os registos mencionam em relação a cada lote de vinho licoroso em preparação:\n\na) A data da adição de um dos produtos referidos no ponto 3, alíneas e) e f), do anexo IV do Regulamento (CE) n.º 479/2008;\n\nb) A natureza e o volume do produto adicionado."
+  },
+  "0547d91fb73a84be": {
+   "fragment_id": "Artigo 43.º — Registos ou contas especiais",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Registos ou contas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Registos ou contas especiais\n\n1. Os detentores dos registos ficam obrigados a manter registos ou contas especiais de entradas ou de saídas para os seguintes produtos que detenham, seja a que título for, inclusive para efeitos de utilização nas suas próprias instalações:\n\na) Sacarose;\n\nb) Mosto de uvas concentrado;\n\nc) Mosto de uvas concentrado rectificado;\n\nd) Produtos utilizados para a acidificação;\n\ne) Produtos utilizados para a desacidificação;\n\nf) Álcoois e aguardentes de vinho.\n\nA manutenção de registos ou de contas especiais não dispensa as declarações referidas na parte D, ponto 4, do anexo V do Regulamento (CE) n.º 479/2008.\n\n2. Nos registos ou contas especiais referidos no n.º 1 são mencionadas distintamente para cada produto:\n\na) No que diz respeito às entradas: i) o nome ou a firma do fornecedor e o seu endereço, fazendo referência, se for caso disso, ao documento que acompanhou o transporte do produto, ii) a quantidade do produto, iii) a data de entrada;\n\ni) o nome ou a firma do fornecedor e o seu endereço, fazendo referência, se for caso disso, ao documento que acompanhou o transporte do produto,\n\nii) a quantidade do produto,\n\niii) a data de entrada;\n\nb) No que diz respeito às saídas: i) a quantidade do produto, ii) a data de utilização ou de saída, iii) se for caso disso, o nome ou a firma do destinatário e o seu endereço.\n\ni) a quantidade do produto,\n\nii) a data de utilização ou de saída,\n\niii) se for caso disso, o nome ou a firma do destinatário e o seu endereço."
+  },
+  "5096f9a47ccb1cef": {
+   "fragment_id": "Artigo 44.º — Perdas",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Perdas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Perdas\n\nOs Estados-Membros fixam a percentagem máxima de perda resultante da evaporação durante a armazenagem, das diversas operações ou devida a uma alteração de categoria do produto.\n\nO detentor dos registos informa por escrito a instância territorialmente competente, no prazo fixado pelos Estados-Membros, sempre que as perdas reais excedam:\n\na) Durante o transporte, as tolerâncias referidas na parte B, ponto 1.3, do anexo VI; e\n\nb) Nos casos referidos no primeiro parágrafo, as percentagens máximas fixadas pelos Estados-Membros.\n\nA instância competente referida no segundo parágrafo toma as medidas necessárias."
+  },
+  "eb255909392ef400": {
+   "fragment_id": "Artigo 45.º — Prazos para as inscrições nos registos",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Prazos para as inscrições nos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Prazos para as inscrições nos registos\n\n1. As inscrições nos registos ou nas contas especiais:\n\na) Referidas nos artigos 39.º, 40.º e 44.º são feitas, para as entradas, o mais tardar no dia útil seguinte ao da recepção e, para as saídas, o mais tardar no terceiro dia útil seguinte ao da expedição;\n\nb) Referidas no artigo 41.º são feitas, o mais tardar, no primeiro dia útil seguinte ao da operação e, para as inscrições relativas ao enriquecimento, no próprio dia;\n\nc) Referidas no artigo 43.º, são feitas, para as entradas e saídas, o mais tardar, no dia útil seguinte ao da recepção ou da expedição e, para as utilizações, no próprio dia da utilização.\n\nContudo, os Estados-Membros podem autorizar prazos mais longos, que não excedam 30 dias, nomeadamente quando a contabilidade física esteja informatizada, desde que seja possível um controlo das entradas e das saídas, bem como das operações referidas no artigo 41.º, em qualquer momento, com base noutros documentos comprovativos que sejam considerados credíveis pela instância competente, ou por um serviço ou organismo habilitado por esta.\n\n2. Em derrogação do primeiro parágrafo do n.º 1, e sob reserva das normas adoptadas pelos Estados-Membros ao abrigo do n.º 1, alíneas j) e k), do artigo 47.º, as expedições relativas a um mesmo produto podem ser objecto de inscrições mensais no registo de saída sempre que esse produto seja acondicionado unicamente em recipientes referidos na alínea b), subalínea i), do artigo 25.º"
+  },
+  "dc5accb272c0a736": {
+   "fragment_id": "Artigo 46.º — Encerramento dos registos",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Encerramento dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Encerramento dos registos\n\nOs registos das entradas e das saídas devem ser encerrados (balanço anual) uma vez por ano, numa data que pode ser fixada pelos Estados-Membros. No âmbito do balanço anual, é feito o inventário das existências. As existências verificadas devem ser inscritas como «entrada» nos registos em data posterior ao balanço anual. Se o balanço anual apresentar diferenças entre as existências teóricas e as existências efectivas, deve ser feita menção deste facto nos livros encerrados."
+  },
+  "d2520b14785e86b9": {
+   "fragment_id": "Disposições comuns aos capítulos II e III",
+   "type": "divisao",
+   "heading": "Disposições comuns aos capítulos II e III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns aos capítulos II e III"
+  },
+  "a6182da3ac7e9d68": {
+   "fragment_id": "Artigo 47.º — Disposições gerais e transitórias",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposições gerais e transitórias\n\n1. Os Estados-Membros podem:\n\na) Prever uma contabilidade física dos dispositivos de fecho que servem para o acondicionamento dos produtos em recipientes com um volume nominal inferior ou igual a cinco litros, referidos na alínea b), subalínea i), do artigo 25.º e colocados à venda no seu território, bem como a aposição de menções específicas nos mesmos;\n\nb) Exigir indicações complementares nos documentos destinados a acompanhar o transporte de produtos vitivinícolas obtidos no seu território, desde que estas indicações sejam necessárias para o controlo;\n\nc) Prescrever, conquanto a aplicação dos métodos informáticos de uma contabilidade física o justifique, o local para a inscrição de determinadas indicações obrigatórias nos documentos destinados a acompanhar transportes de produtos vitivinícolas que se iniciem no seu próprio território, desde que não seja alterada a apresentação dos modelos referidos no n.º 1, subalínea i) da alínea c), do artigo 31.º;\n\nd) Permitir, no que se refere aos transportes que tenham início e terminem no seu território sem passarem pelo território de um outro Estado-Membro ou de um país terceiro, durante um período de transição que termina em 31 de Julho de 2015, que a indicação da massa volúmica dos mostos de uva seja substituída pela da densidade expressa em graus Oechsle;\n\ne) Prever, para os documentos que acompanham o transporte de produtos vitivinícolas estabelecidos no seu território, que a data na qual se inicia o transporte deva ser completada com a hora de partida do transporte;\n\nf) Prever, em complemento da alínea a), subalínea i), do artigo 25.º, que não seja requerido qualquer documento para acompanhar o transporte de uvas, esmagadas ou não, ou de mostos de uvas efectuado por um produtor que seja membro de um agrupamento de produtores e que os tenha produzido ele próprio, ou por um agrupamento de produtores que disponha de tal produto, ou efectuado por conta de um dos dois, para um posto de recepção ou para as instalações de vinificação desse agrupamento, desde que tal transporte se inicie e termine no interior da mesma zona vitícola ou, quando se trate de um produto destinado a ser transformado em vinho com DOP, no interior da região determinada em questão, incluindo uma área imediatamente vizinha;\n\ng) Prever, determinando nestes casos a utilização das cópias: i) que o expedidor estabeleça uma ou mais cópias do documento que acompanha os transportes que têm início no seu território, ii) que o destinatário estabeleça uma ou mais cópias do documento que acompanha os transportes que se tenham iniciado noutro Estado-Membro ou num país terceiro e terminem no seu território;\n\ni) que o expedidor estabeleça uma ou mais cópias do documento que acompanha os transportes que têm início no seu território,\n\nii) que o destinatário estabeleça uma ou mais cópias do documento que acompanha os transportes que se tenham iniciado noutro Estado-Membro ou num país terceiro e terminem no seu território;\n\nh) Prever que não seja aplicada aos transportes que se iniciem e terminem no seu território a derrogação, referida na alínea a), subalínea ii), do artigo 25.º, relativa à isenção do documento de acompanhamento para determinados transportes de uvas;\n\ni) Prescrever, para os transportes referidos no artigo 29.º que se iniciem no seu território e terminem no território de outro Estado-Membro, que o expedidor comunique o nome e o endereço da instância competente em relação ao local de descarga, com a transmissão das cópias estabelecidas em conformidade com o citado artigo;\n\nj) Autorizar uma adaptação dos registos existentes e estabelecer regras complementares ou exigências mais estritas para a manutenção e o controlo dos registos;\n\nk) Prever, em caso de aplicação do disposto no n.º 1 do artigo 33.º, que a própria instância competente possa assegurar a manutenção dos registos ou confiá-la a um organismo habilitado para o fazer.\n\nNo caso referido na alínea j), os Estados-Membros podem, nomeadamente, prever que sejam mantidas contas distintas nos registos para os produtos que designem ou que sejam mantidos registos separados para determinadas categorias de produtos ou para determinadas operações referidas no n.º 1 do artigo 41.º.\n\n2. Sem prejuízo da Directiva 92/12/CEE, os Estados-Membros não podem, por motivos relacionados com os dispositivos de fecho utilizados, proibir ou colocar entraves à circulação de produtos acondicionados em recipientes com um volume nominal inferior ou igual a cinco litros, referidos na alínea b), subalínea i), do artigo 25.º\n\nTodavia, os Estados-Membros podem, para os produtos acondicionados no seu próprio território, proibir a utilização de determinados dispositivos de fecho ou de tipos de embalagens ou submeter a utilização desses dispositivos de fecho a determinadas condições."
+  },
+  "f4a1dbec25adc9c1": {
+   "fragment_id": "Artigo 48.º — Conservação dos documentos de acompanhamento e dos registos",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Conservação dos documentos de acompanhamento e dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Conservação dos documentos de acompanhamento e dos registos\n\n1. Sem prejuízo de normas mais rigorosas adoptadas pelos Estados-Membros com vista à aplicação da sua legislação ou de procedimentos nacionais que tenham outros objectivos, os documentos de acompanhamento e as cópias previstas devem ser conservados, no mínimo, durante cinco anos a partir do fim do ano civil durante o qual tenham sido estabelecidos.\n\n2. Os registos, bem como a documentação relativa às operações deles constantes, devem ser conservados, no mínimo, durante cinco anos após o fecho das contas que contêm. Sempre que, num registo, subsistam uma ou várias contas não fechadas correspondentes a volumes de vinho pouco importantes, estas contas podem ser objecto de uma transferência para outro registo, sendo a menção desta transferência introduzida no registo inicial. Neste caso, o período de cinco anos referido no primeiro parágrafo tem início no dia da transferência."
+  },
+  "cc61036bf94e5249": {
+   "fragment_id": "Artigo 49.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Comunicações\n\n1. Os Estados-Membros comunicam à Comissão:\n\na) O nome e o endereço da instância ou instâncias competentes para a aplicação do presente regulamento;\n\nb) Se for caso disso, o nome e endereço dos serviços ou organismos habilitados por uma instância competente para a aplicação do presente regulamento.\n\n2. Os Estados-Membros comunicam igualmente à Comissão:\n\na) As alterações posteriores respeitantes às instâncias competentes e serviços ou organismos referidos no n.º 1;\n\nb) As medidas que adoptem para a aplicação do presente título, desde que estas apresentem um interesse específico para a cooperação entre os Estados-Membros referida no Regulamento (CE) n.º 555/2008.\n\n3. A Comissão estabelece e mantém actualizada uma lista que reúne os nomes e os endereços das instâncias competentes ou, se for caso disso, dos serviços ou organismos habilitados, com base nas informações notificadas pelos Estados-Membros. A Comissão publica essa lista na internet."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "a9bedbbfe5f7e129": {
+   "fragment_id": "Artigo 50.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Comunicações\n\n1. Sem prejuízo das disposições específicas do presente regulamento, os Estados-Membros tomam as medidas necessárias para garantir que lhes é possível respeitar os prazos nele estabelecidos para as comunicações.\n\n2. Os Estados-Membros conservam as informações registadas a título do presente regulamento durante, pelo menos, as cinco campanhas vitícolas seguintes à campanha no decurso da qual as mesmas foram registadas.\n\n3. As comunicações previstas no presente regulamento não prejudicam as obrigações dos Estados-Membros estabelecidas no Regulamento (CEE) n.º 357/79 relativo aos inquéritos estatísticos sobre as superfícies vitícolas."
+  },
+  "95298de478d58a24": {
+   "fragment_id": "Artigo 51.º — Erros manifestos",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Erros manifestos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Erros manifestos\n\nQualquer comunicação, reclamação ou pedido apresentado a um Estado-Membro no âmbito do presente regulamento pode ser adaptado após a sua apresentação, em qualquer altura, em caso de erro manifesto reconhecido pela autoridade competente."
+  },
+  "309e1156a20203fe": {
+   "fragment_id": "Artigo 52.º — Casos de força maior e circunstâncias excepcionais",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Casos de força maior e circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Casos de força maior e circunstâncias excepcionais\n\nAs sanções previstas no presente regulamento não são impostas em casos de força maior ou quando se verifiquem circunstâncias excepcionais, na acepção do artigo 31.º do Regulamento (CE) n.º 73/2009 do Conselho [([^16])](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntr16-L_2009128PT.01001501-E0016)."
+  },
+  "9f63ee0fe4b118a5": {
+   "fragment_id": "Artigo 53.º — Revogações e remissões",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Revogações e remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Revogações e remissões\n\nOs regulamentos (CEE) n.º 649/87, (CE) n.º 884/2001 e (CE) n.º 1282/2001 são revogados.\n\nAs remissões para os regulamentos revogados devem entender-se como sendo feitas para o presente regulamento e ser lidas de acordo com os quadros de correspondência constantes do anexo X."
+  },
+  "a7e8417fd24ef1b4": {
+   "fragment_id": "Artigo 54.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em vigor\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de Maio de 2009.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "8f3a17f966154018": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc1-L_2009128PT.01001501-E0001) [JO L 148 de 6.6.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_148_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc2-L_2009128PT.01001501-E0002) [JO L 179 de 14.7.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_179_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc3-L_2009128PT.01001501-E0003) [JO L 208 de 31.7.1986, p. 1](http://publications.europa.eu/resource/oj/JOL_1986_208_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc4-L_2009128PT.01001501-E0004) [JO L 62 de 5.3.1987, p. 10](http://publications.europa.eu/resource/oj/JOL_1987_062_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc5-L_2009128PT.01001501-E0005) [JO L 170 de 30.6.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_170_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc6-L_2009128PT.01001501-E0006) [JO L 54 de 5.3.1979, p. 124](http://publications.europa.eu/resource/oj/JOL_1979_054_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc7-L_2009128PT.01001501-E0007) [JO L 176 de 29.6.2001, p. 14](http://publications.europa.eu/resource/oj/JOL_2001_176_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc8-L_2009128PT.01001501-E0008) [JO L 76 de 23.3.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_076_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc9-L_2009128PT.01001501-E0009) [JO L 128 de 10.5.2001, p. 32](http://publications.europa.eu/resource/oj/JOL_2001_128_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc10-L_2009128PT.01001501-E0010) [JO L 141 de 30.4.2004, p. 18](http://publications.europa.eu/resource/oj/JOL_2004_141_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc11-L_2009128PT.01001501-E0011) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc12-L_2009128PT.01001501-E0012) [JO L 276 de 19.9.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_276_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc13-L_2009128PT.01001501-E0013) [JO L 369 de 18.12.1992, p. 17](http://publications.europa.eu/resource/oj/JOL_1992_369_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc14-L_2009128PT.01001501-E0014) [JO L 302 de 19.10.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_302_R_TOC).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc15-L_2009128PT.01001501-E0015) [JO L 253 de 11.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_253_R_TOC).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/61622c88-80f1-4e00-9a8e-4f5ad44456be.0018.02/DOC_1#ntc16-L_2009128PT.01001501-E0016) [JO L 30 de 19.1.2009, p. 16](http://publications.europa.eu/resource/oj/JOL_2009_030_R_TOC)."
+  },
+  "f4ccde99bb10590f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0436 — PT — 03.03.2018 — 009.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0436) [REGULAMENTO (CE) N.º 436/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0436) [de 26 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0436) [que estabelece regras de execução do Regulamento (CE) n.º 479/2008 do Conselho no que diz respeito ao cadastro vitícola, às declarações obrigatórias e ao estabelecimento das informações para o acompanhamento do mercado, aos documentos de acompanhamento do transporte dos produtos e aos registos a manter no sector vitivinícola](http://publications.europa.eu/resource/celex/32009R0436) (JO L 128, 27.5.2009, p.15)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2018/273 da Comissão de 11 de dezembro de 2017](http://publications.europa.eu/resource/celex/32018R0273) — L 58 — 1 — 28.2.2018"
+  }
+ }
+}

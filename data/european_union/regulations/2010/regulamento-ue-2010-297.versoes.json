@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0297:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0297-20100411",
+ "dre_path": null,
+ "source_lastmod": "2010-04-11",
+ "versions": [
+  {
+   "date": "2010-04-10",
+   "future": false,
+   "celex": "32010R0297",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "324868a42e58b8da",
+    "d0761ac734a294d9",
+    "bcec41bf60a9bf81",
+    "5440d5d99a827de8"
+   ]
+  }
+ ],
+ "fragments": {
+  "324868a42e58b8da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Abril de 2010\n\nrelativo à alteração do Regulamento (CE) n.º 272/2009, que complementa as normas de base comuns para a protecção da aviação civil\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho, de 11 de Março de 2008, relativo ao estabelecimento de regras comuns no domínio da segurança da aviação civil e que revoga o Regulamento (CE) n.º 2320/2002 [([^1])](http://publications.europa.eu/resource/cellar/642bd46f-d6dc-4c05-8672-bfcb3129d100.0018.02/DOC_1#ntr1-L_2010090PT.01000101-E0001), e, nomeadamente, o seu artigo 4.º, n.º 2,\n\nConsiderando o seguinte:\n\n(1) Devem ser adoptadas medidas gerais que complementem as normas de base comuns para a protecção da aviação civil nos domínios do rastreio, do controlo do acesso e outros controlos de segurança, dos artigos proibidos, do reconhecimento da equivalência por países terceiros, do recrutamento e da formação do pessoal, dos procedimentos especiais de segurança e das isenções dos controlos de segurança.\n\n(2) Estas medidas gerais são necessárias para estabelecer na União Europeia um nível comum de segurança da aviação que proteja os passageiros contra actos de interferência ilícita. O principal elemento oferecido pela legislação da UE para facilitar este processo é o ponto de segurança único. Consequentemente, a harmonização dos métodos de rastreio é essencial para manter o ponto de segurança único na UE, incluindo controlos de líquidos, aerossóis e géis, sem impedir os benefícios do mercado único da aviação para os cidadãos da UE.\n\n(3) O anexo ao Regulamento (CE) n.º 272/2009 da Comissão, de 2 de Abril de 2009, que complementa as normas de base comuns para a protecção da aviação civil definidas no anexo ao Regulamento (CE) n.º 300/2008 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/642bd46f-d6dc-4c05-8672-bfcb3129d100.0018.02/DOC_1#ntr2-L_2010090PT.01000101-E0002), indica, na parte A.3, os métodos de rastreio autorizados para a bagagem, a carga e o correio que serão carregados no porão da aeronave. É necessário prever, periodicamente, disposições relativas a métodos adicionais de rastreio, que se tenham revelado eficazes no rastreio da totalidade ou de parte da carga, e uma base jurídica para o desenvolvimento de medidas de execução pormenorizadas. O equipamento de detecção de metais é considerado um método de rastreio eficaz para certos tipos de carga.\n\n(4) O Regulamento (CE) n.º 272/2009 não prevê que os líquidos, aerossóis e géis sejam considerados uma categoria de artigos cuja introdução em zonas restritas de segurança e a bordo de uma aeronave possa ser proibida. Em contrapartida, o Regulamento (CE) n.º 272/2009 exige a instauração nos aeroportos de toda a UE, com a maior brevidade possível e, o mais tardar, até 29 de Abril de 2010, de métodos, incluindo tecnologias, para a detecção de explosivos líquidos.\n\n(5) É chegado o momento de pôr termo às restrições a líquidos, aerossóis e géis, passando, progressivamente, de uma proibição da maioria dos líquidos a um sistema de rastreio dos explosivos líquidos. Para esse efeito, são necessárias disposições transitórias após Abril de 2010 que introduzam progressivamente, nos aeroportos de toda a UE, a instauração de métodos de detecção, incluindo tecnologias, sem comprometer a segurança da aviação. Os interesses dos serviços responsáveis pela aplicação da lei, cujo objectivo é prevenir eventuais ameaças terroristas futuras, exigem a disponibilidade de um mecanismo eficaz até os aeroportos poderem instalar equipamento de detecção fiável. É necessária, por conseguinte, uma nova abordagem. Esta deve ser concluída até 29 de Abril de 2013, data em que todos os aeroportos devem dispor de capacidade para rastrear líquidos, aerossóis e géis.\n\n(6) Tal abordagem não deve, no entanto, impedir os aeroportos de instaurarem e utilizarem equipamentos em data anterior, desde que estes satisfaçam as normas fixadas pela legislação de aplicação adoptada pela Comissão. Os aeroportos poderão, deste modo, facilitar o transporte de líquidos, aerossóis e géis por passageiros que deles partem, instaurando, por exemplo, equipamento de rastreio para explosivos líquidos num posto de controlo da segurança. Além disso, certos aeroportos podem optar por instalar, mais rapidamente, equipamento de ponta.\n\n(7) Atendendo à necessidade de flexibilidade no que respeita às modalidades de operação das medidas de segurança nos aeroportos, as normas de base comuns para a protecção da aviação civil continuam a ser rigorosamente neutras do ponto de vista tecnológico. Os Estados-Membros e os aeroportos podem seleccionar as tecnologias a instaurar e a utilizar de forma mais eficaz e eficiente nos aeroportos a partir das opções disponíveis mencionadas na lista do Regulamento (CE) n.º 272/2009, alterado pelo presente regulamento.\n\n(8) A utilização de equipamento de rastreio capaz de detectar explosivos líquidos exige que os aeroportos ou outras entidades responsáveis pela protecção da aviação adquiram e instaurem equipamentos que estejam comprovadamente em conformidade com as normas técnicas adoptadas nos termos do artigo 4.º, n.º 3, do Regulamento (CE) n.º 300/2008. Os Estados-Membros devem garantir o estabelecimento de todos os requisitos regulamentares que permitam a instauração de tal equipamento em tempo oportuno, de molde a cumprir os prazos previstos no presente regulamento.\n\n(9) Durante o período de transição, os passageiros devem ser claramente informados dos aeroportos da UE que aplicam o rastreio de líquidos. Os aeroportos e as transportadoras aéreas devem cooperar para garantir que a confiscação de líquidos, aerossóis e géis continue a ser um instrumento de último recurso.\n\n(10) As medidas gerais previstas pelo Regulamento (CE) n.º 272/2009 devem ser alteradas, para introduzir regras que autorizem o recurso a equipamento de detecção de metais para o rastreio de bagagem de porão, carga e correio, se for caso disso, e que permitam que as disposições progressivamente introduzidas para líquidos, aerossóis e géis a transportar para a zona restrita de segurança ou a bordo de uma aeronave sejam aplicáveis por um prazo limitado, de modo a não comprometer as normas de segurança.\n\n(11) O Regulamento (CE) n.º 272/2009 deve, por conseguinte, ser alterado em conformidade.\n\n(12) Os progressos de natureza tecnológica ou regulamentar, a nível da UE e internacional, podem afectar as datas previstas no presente regulamento. A Comissão pode, se for caso disso, apresentar propostas de revisão, tendo nomeadamente em conta a operabilidade do equipamento e a comodidade para os passageiros.\n\n(13) O Regulamento (CE) n.º 300/2008 aplica-se, na íntegra, a partir da data especificada nas medidas de execução aprovadas de acordo com os procedimentos previstos no seu artigo 4.º, n.^os^ 2 e 3, mas o mais tardar em 29 de Abril de 2010. O presente regulamento aplica-se, por conseguinte, a partir de 29 de Abril de 2010, conjuntamente com o Regulamento (CE) n.º 300/2008 e os diplomas que o complementam e aplicam.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Segurança da Aviação Civil, instituído nos termos do artigo 19.º, n.º 1, do Regulamento (CE) n.º 300/2008,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d0761ac734a294d9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo do Regulamento (CE) n.º 272/2009 é alterado em conformidade com o anexo do presente regulamento."
+  },
+  "bcec41bf60a9bf81": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 29 de Abril de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 9 de Abril de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "5440d5d99a827de8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/642bd46f-d6dc-4c05-8672-bfcb3129d100.0018.02/DOC_1#ntc1-L_2010090PT.01000101-E0001) [JO L 97 de 9.4.2008, p. 72](http://publications.europa.eu/resource/oj/JOL_2008_097_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/642bd46f-d6dc-4c05-8672-bfcb3129d100.0018.02/DOC_1#ntc2-L_2010090PT.01000101-E0002) [JO L 91 de 3.4.2009, p. 7](http://publications.europa.eu/resource/oj/JOL_2009_091_R_TOC)."
+  }
+ }
+}

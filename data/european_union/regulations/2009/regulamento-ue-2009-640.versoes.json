@@ -1,0 +1,484 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0640:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0640-20210701",
+ "dre_path": null,
+ "source_lastmod": "2021-07-01",
+ "versions": [
+  {
+   "date": "2009-07-23",
+   "future": false,
+   "celex": "32009R0640",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c667a84262667b5",
+    "1759035f17524096",
+    "56ce88184fc7e39b",
+    "67980e197b916e85",
+    "8083fa76058ff6b3",
+    "1c648c09e1303262",
+    "bd1d948000c7a56c",
+    "7a0f2546f8489212",
+    "9accdbd11bb56c39",
+    "4abbc70449fe2c04"
+   ]
+  },
+  {
+   "date": "2009-08-12",
+   "future": false,
+   "celex": "02009R0640-20090812",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objecto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Requisitos de concepção ecológica",
+    "Altera Artigo 8.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES",
+    "Adita 1. REQUISITOS DE EFICIÊNCIA DOS MOTORES",
+    "Adita 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+    "Adita 3. DEFINIÇÕES PARA EFEITOS DO ANEXO I",
+    "Adita ANEXO II",
+    "Adita MEDIÇÕES E CÁLCULOS",
+    "Adita ANEXO III",
+    "Adita PROCEDIMENTO DE VERIFICAÇÃO",
+    "Adita ANEXO IV",
+    "Adita PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º"
+   ],
+   "fragments": [
+    "6ac91a9398e711df",
+    "346fda8d720ed56e",
+    "3f69da9249b96ce0",
+    "9e8b186305fb3757",
+    "8083fa76058ff6b3",
+    "1c648c09e1303262",
+    "bd1d948000c7a56c",
+    "7a0f2546f8489212",
+    "84e113595c005734",
+    "d664376e2a8dcecd",
+    "d42b4a3dfcd94c41",
+    "4acfa6c7915454d0",
+    "773631733c7351d9",
+    "a1d2cdc8cded75d5",
+    "852174729551523b",
+    "2810e0512a91ecbb",
+    "720af75c92791b10",
+    "94bba3718967e697",
+    "e03a0eb4d5b2eef3",
+    "e93168340d383daf",
+    "f0d87b5285dc0bfa"
+   ]
+  },
+  {
+   "date": "2014-07-27",
+   "future": false,
+   "celex": "02009R0640-20140727",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0004:por",
+     "title": "REGULAMENTO (UE) N. o 4/2014 DA COMISSÃO de 6 de janeiro de 2014",
+     "published": null,
+     "celex": "32014R0004"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objeto e âmbito de aplicação",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação"
+   ],
+   "fragments": [
+    "bd5528bb3ac25b98",
+    "1908c4409a43336d",
+    "3f69da9249b96ce0",
+    "9e8b186305fb3757",
+    "8083fa76058ff6b3",
+    "1c648c09e1303262",
+    "bd1d948000c7a56c",
+    "7a0f2546f8489212",
+    "84e113595c005734",
+    "d664376e2a8dcecd",
+    "d42b4a3dfcd94c41",
+    "4acfa6c7915454d0",
+    "65158aab227405b9",
+    "a1d2cdc8cded75d5",
+    "852174729551523b",
+    "2810e0512a91ecbb",
+    "720af75c92791b10",
+    "94bba3718967e697",
+    "e03a0eb4d5b2eef3",
+    "e93168340d383daf",
+    "5433995405745571"
+   ]
+  },
+  {
+   "date": "2017-01-09",
+   "future": false,
+   "celex": "02009R0640-20170109",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2282:por",
+     "title": "REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32016R2282"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objeto e âmbito de aplicação",
+    "Altera Notas",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime PROCEDIMENTO DE VERIFICAÇÃO"
+   ],
+   "fragments": [
+    "a6d6b9ea399c124f",
+    "7df625183f2e5642",
+    "3f69da9249b96ce0",
+    "9e8b186305fb3757",
+    "8083fa76058ff6b3",
+    "1c648c09e1303262",
+    "bd1d948000c7a56c",
+    "7a0f2546f8489212",
+    "84e113595c005734",
+    "d664376e2a8dcecd",
+    "d42b4a3dfcd94c41",
+    "4acfa6c7915454d0",
+    "65158aab227405b9",
+    "a1d2cdc8cded75d5",
+    "852174729551523b",
+    "2810e0512a91ecbb",
+    "720af75c92791b10",
+    "5704a7a27814340a",
+    "e03a0eb4d5b2eef3",
+    "e93168340d383daf",
+    "e641449609dd26cd"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "celex": "02009R0640-20210701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objeto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos de concepção ecológica",
+    "Suprime Artigo 4.º — Avaliação da conformidade",
+    "Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+    "Suprime Artigo 6.º — Parâmetros de referência indicativos",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES",
+    "Suprime 1. REQUISITOS DE EFICIÊNCIA DOS MOTORES",
+    "Suprime 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+    "Suprime 3. DEFINIÇÕES PARA EFEITOS DO ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime MEDIÇÕES E CÁLCULOS",
+    "Suprime ANEXO III",
+    "Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Suprime ANEXO IV",
+    "Suprime PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "4765016f870f955d"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c667a84262667b5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para os motores eléctricos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr1-L_2009191PT.01002601-E0001), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a Concepção Ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para os produtos que consumem energia e que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE determina que, em conformidade com o procedimento a que se refere o n.º 3 do artigo 19.º e com os critérios previstos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a Concepção Ecológica, a Comissão introduzirá, se for caso disso, medidas de execução em relação aos produtos utilizados em sistemas de motor eléctrico.\n\n(3) Os motores eléctricos constituem o factor de carga eléctrica mais importante para as indústrias da Comunidade que utilizam motores nos seus processos de produção. Os sistemas que utilizam estes motores representam cerca de 70 % do consumo de electricidade da indústria. A eficiência energética dos referidos sistemas de motores poderá ser melhorada em 20 % a 30 %, com os custos a serem suplantados pelas vantagens. Um dos principais factores que influenciarão essa melhoria é a utilização de motores eléctricos de alta eficiência energética. Assim, os motores eléctricos integrados em sistemas de motores constituem um produto prioritário, em relação ao qual devem ser definidos requisitos de concepção ecológica.\n\n(4) Os sistemas de motores eléctricos incluem diversos produtos que consomem energia, como os próprios motores e os sistemas de transmissão, bombas e ventoinhas. Os motores e os variadores de velocidade constituem parte importante destes produtos. Por tal razão, o presente regulamento exige que certos tipos de motores sejam equipados com variadores de velocidade.\n\n(5) Em muitos casos, os motores estão integrados noutros produtos, não sendo colocados separadamente no mercado ou em serviço, na acepção do artigo 5.º da Directiva 2005/32/CE e da Directiva 2006/42/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr2-L_2009191PT.01002601-E0002). A fim de realizar integralmente o potencial de poupança, os motores integrados noutros produtos devem também ser abrangidos pelo presente regulamento.\n\n(6) A Comissão realizou um estudo preparatório para analisar os aspectos técnicos, ambientais e económicos relacionados com os motores eléctricos. O estudo foi realizado em conjunto com as partes interessadas da UE e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(7) O estudo preparatório mostra que os motores eléctricos são colocados no mercado comunitário em grandes quantidades, sendo o seu consumo de energia na fase de funcionamento o aspecto ambiental mais significativo de todo o ciclo de vida. O consumo anual total de electricidade da totalidade dos motores eléctricos atingiu 1 067 TWh em 2005, a que correspondem emissões de 427 Mt de CO2. Na ausência de medidas para limitar este consumo, prevê-se que o consumo de energia aumente para 1 252 TWh em 2020, tendo-se concluído que o consumo de energia ao longo do ciclo de vida e o consumo de electricidade quando em funcionamento podem ser melhorados significativamente, em especial se os motores utilizados em aplicações que requerem diferentes velocidades e cargas forem equipados com variadores de velocidade\n\n(8) O estudo preparatório mostrou que o consumo de electricidade quando em funcionamento é, de entre os parâmetros de concepção ecológica dos produtos enumerados no anexo I, parte I, da Directiva 2005/32/CE, o único significativo.\n\n(9) As melhorias no consumo de electricidade dos motores eléctricos devem ser alcançadas através do recurso a tecnologias existentes não proprietárias que ofereçam vantagens económicas e permitam reduzir o custo combinado da aquisição e do funcionamento desses motores.\n\n(10) Os requisitos de concepção ecológica devem harmonizar os requisitos em termos de consumo de energia dos motores em toda a Comunidade, contribuindo assim para o funcionamento do mercado interno e para a melhoria do desempenho ambiental destes produtos.\n\n(11) Deve ser previsto um calendário apropriado, que permita aos fabricantes reformular a concepção dos seus produtos. Esse calendário deve ser estabelecido de modo a que sejam tomados em consideração os impactos negativos nas funcionalidades dos motores e as repercussões em termos de custos para os fabricantes, nomeadamente PME, assegurando simultaneamente a realização atempada dos objectivos do regulamento.\n\n(12) O consumo de energia deve ser determinado através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração as técnicas geralmente reconhecidas como mais avançadas, incluindo, quando existam, as normas harmonizadas adoptadas pelos organismos europeus de normalização listados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^3])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr3-L_2009191PT.01002601-E0003).\n\n(13) O presente regulamento deve aumentar a penetração no mercado de tecnologias que reduzam o impacto ambiental dos motores eléctricos ao longo do seu ciclo de vida, dando origem a economias de energia e de electricidade para a totalidade desse ciclo estimadas em, respectivamente, 5 500 PJ [([^4])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr4-L_2009191PT.01002601-E0004) e 135 TWh até 2020, por comparação com um cenário de manutenção do *statu quo*.\n\n(14) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar os procedimentos aplicáveis de avaliação da conformidade.\n\n(15) A fim de facilitar a verificação da conformidade, deve exigir-se dos fabricantes que forneçam certas informações na documentação técnica referida nos anexos IV e V da Directiva 2005/32/CE.\n\n(16) A fim de limitar ainda mais o impacto ambiental dos motores, os fabricantes devem fornecer a informação pertinente sobre desmontagem, reciclagem ou eliminação no fim da vida.\n\n(17) Devem ser identificados padrões de referência para as tecnologias com maior eficiência energética actualmente disponíveis, o que contribuirá para assegurar uma maior difusão e acessibilidade da informação, em especial para as PME e microempresas, facilitando uma maior integração das melhores tecnologias de concepção para a redução do consumo de energia.\n\n(18) As medidas previstas no presente regulamento estão conformes com o parecer do Comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1759035f17524096": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento define requisitos de concepção ecológica para a colocação no mercado e a entrada em serviço de motores, inclusive quando integrados noutros produtos.\n\n2. O presente regulamento não é aplicável:\n\na) Aos motores concebidos para funcionar inteiramente imersos num líquido;\n\nb) Aos motores totalmente integrados em produtos (como, por exemplo, sistemas de transmissão, bombas, ventoinhas ou compressores), de tal modo que o seu desempenho energético não pode ser testado de forma independente do desempenho energético do produto no seu todo;\n\nc) Aos motores especificamente concebidos para funcionar: i) a altitudes superiores a 1 000 metros acima do nível do mar; ii) em locais onde a temperatura ambiente exceda 40 °C; iii) a temperaturas máximas superiores a 400 °C; iv) em locais onde a temperatura ambiente seja inferior a –15 °C, para qualquer motor, ou a 0 °C, para motores com sistema de arrefecimento a ar; v) em condições tais que a temperatura da água de arrefecimento à entrada no produto seja inferior a 5 °C ou superior a 25 °C. vi) em atmosferas potencialmente explosivas, tal como definidas na Directiva 94/9/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr5-L_2009191PT.01002601-E0005);\n\ni) a altitudes superiores a 1 000 metros acima do nível do mar;\n\nii) em locais onde a temperatura ambiente exceda 40 °C;\n\niii) a temperaturas máximas superiores a 400 °C;\n\niv) em locais onde a temperatura ambiente seja inferior a –15 °C, para qualquer motor, ou a 0 °C, para motores com sistema de arrefecimento a ar;\n\nv) em condições tais que a temperatura da água de arrefecimento à entrada no produto seja inferior a 5 °C ou superior a 25 °C.\n\nvi) em atmosferas potencialmente explosivas, tal como definidas na Directiva 94/9/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntr5-L_2009191PT.01002601-E0005);\n\nd) Aos motores-freio;\n\ncom excepção dos seguintes requisitos de informação constantes dos números 3 a 6 do ponto 2 do anexo 1."
+  },
+  "56ce88184fc7e39b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições que figuram na Directiva 2005/32/CE, entende-se por:\n\n1. «Motor», um motor eléctrico trifásico de velocidade fixa, do tipo «gaiola de esquilo», que funciona a uma frequência de 50 ou 50/60 Hz e que: — tem 2 a 6 pólos, — tem uma voltagem efectiva *UN* inferior ou igual a 1 000 V, — tem uma potência efectiva *PN* entre 0,75 kW e 375 kW, — foi classificado com base nas suas condições reais de funcionamento em contínuo.\n\n— tem 2 a 6 pólos,\n\n— tem uma voltagem efectiva *UN* inferior ou igual a 1 000 V,\n\n— tem uma potência efectiva *PN* entre 0,75 kW e 375 kW,\n\n— foi classificado com base nas suas condições reais de funcionamento em contínuo.\n\n2. «Variador de velocidade», um conversor eléctrico de potência que adapta continuamente a energia eléctrica fornecida ao motor eléctrico, de modo a controlar a potência mecânica desse motor em função das características de torque/velocidade da carga (movida pelo motor), ajustando a alimentação trifásica a 50 Hz à frequência e à voltagem variáveis fornecidas ao motor;\n\n3. «Motor em gaiola de esquilo», um motor eléctrico sem escovas, comutadores, anéis colectores ou ligações eléctricas ao rotor;\n\n4. «Fase», o tipo de configuração da alimentação da rede eléctrica;\n\n5. «Pólo», o número total de pólos magnéticos norte e sul produzidos pelo campo magnético rotativo do motor. O número de pólos determina a velocidade de base do motor;\n\n6. «Funcionamento em contínuo», a capacidade de um motor eléctrico com sistema integrado de arrefecimento para funcionar à carga nominal ininterruptamente sem que a sua temperatura ultrapasse a temperatura máxima de funcionamento;\n\n7. «Motor-freio», um motor equipado com uma unidade electromecânica de travagem que actua directamente sobre o veio de transmissão, sem qualquer ligação adicional."
+  },
+  "67980e197b916e85": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica para os motores constam do anexo I.\n\nCada um desses requisitos é aplicável em conformidade com o seguinte calendário:\n\n1. A partir de 16 de Junho de 2011, o nível de eficiência dos motores não pode ser inferior ao nível IE2, tal como definido no ponto 1 do anexo I;\n\n2. A partir de 1 de Janeiro de 2015: i) A eficiência dos motores com potência efectiva entre 7,5 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\ni) A eficiência dos motores com potência efectiva entre 7,5 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\n3. A partir de 1 de Janeiro de 2017: i) A eficiência dos motores com potência efectiva entre 0,75 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\ni) A eficiência dos motores com potência efectiva entre 0,75 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\nOs requisitos aplicáveis à informação sobre o produto, que deve acompanhar os motores, são definidos no anexo I. A conformidade com os requisitos de concepção ecológica será medida e calculada de acordo com os requisitos definidos no anexo II."
+  },
+  "8083fa76058ff6b3": {
+   "fragment_id": "Artigo 4.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação da conformidade\n\nO procedimento de avaliação de conformidade referido n.º artigo 8.º da Directiva 2005/32/CE é o sistema de controlo interno da concepção previsto no anexo IV ou o sistema de gestão para avaliação da conformidade previsto no anexo V da mesma directiva."
+  },
+  "1c648c09e1303262": {
+   "fragment_id": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nNa realização dos controlos para a vigilância do mercado referidos no n.º 2 do artigo 3.º da Directiva 2005/32/CE, as autoridades dos Estados-Membros devem aplicar o procedimento de verificação definido no anexo III do presente regulamento."
+  },
+  "bd1d948000c7a56c": {
+   "fragment_id": "Artigo 6.º — Parâmetros de referência indicativos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Parâmetros de referência indicativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Parâmetros de referência indicativos\n\nO anexo IV identifica os padrões de referência indicativos dos motores com melhor desempenho actualmente disponíveis no mercado."
+  },
+  "7a0f2546f8489212": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento à luz do progresso tecnológico, tanto em relação aos motores como aos variadores, o mais tardar sete anos após a sua entrada em vigor, e apresenta os resultados dessa revisão ao Fórum de Consulta sobre a Concepção Ecológica. A revisão deve incluir as questões da eficiência energética, da reutilização e da reciclagem, bem como do nível de incerteza das medições."
+  },
+  "9accdbd11bb56c39": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Julho de 2009.\n\n***Pela Comissão***\n\n**Andris PIEBALGS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "4abbc70449fe2c04": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntc1-L_2009191PT.01002601-E0001) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntc2-L_2009191PT.01002601-E0002) [JO L 157 de 9.6.2006, p. 24](http://publications.europa.eu/resource/oj/JOL_2006_157_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntc3-L_2009191PT.01002601-E0003) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntc4-L_2009191PT.01002601-E0004) 1 TWh = 3,6 PJ.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018.03/DOC_1#ntc5-L_2009191PT.01002601-E0005) [JO L 100 de 19.4.1994, p. 1](http://publications.europa.eu/resource/oj/JOL_1994_100_R_TOC)."
+  },
+  "6ac91a9398e711df": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para os motores eléctricos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a Concepção Ecológica,\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para os produtos que consumem energia e que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE determina que, em conformidade com o procedimento a que se refere o n.º 3 do artigo 19.º e com os critérios previstos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a Concepção Ecológica, a Comissão introduzirá, se for caso disso, medidas de execução em relação aos produtos utilizados em sistemas de motor eléctrico.\n\n(3) Os motores eléctricos constituem o factor de carga eléctrica mais importante para as indústrias da Comunidade que utilizam motores nos seus processos de produção. Os sistemas que utilizam estes motores representam cerca de 70 % do consumo de electricidade da indústria. A eficiência energética dos referidos sistemas de motores poderá ser melhorada em 20 % a 30 %, com os custos a serem suplantados pelas vantagens. Um dos principais factores que influenciarão essa melhoria é a utilização de motores eléctricos de alta eficiência energética. Assim, os motores eléctricos integrados em sistemas de motores constituem um produto prioritário, em relação ao qual devem ser definidos requisitos de concepção ecológica.\n\n(4) Os sistemas de motores eléctricos incluem diversos produtos que consomem energia, como os próprios motores e os sistemas de transmissão, bombas e ventoinhas. Os motores e os variadores de velocidade constituem parte importante destes produtos. Por tal razão, o presente regulamento exige que certos tipos de motores sejam equipados com variadores de velocidade.\n\n(5) Em muitos casos, os motores estão integrados noutros produtos, não sendo colocados separadamente no mercado ou em serviço, na acepção do artigo 5.º da Directiva 2005/32/CE e da Directiva 2006/42/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#E0002)). A fim de realizar integralmente o potencial de poupança, os motores integrados noutros produtos devem também ser abrangidos pelo presente regulamento.\n\n(6) A Comissão realizou um estudo preparatório para analisar os aspectos técnicos, ambientais e económicos relacionados com os motores eléctricos. O estudo foi realizado em conjunto com as partes interessadas da UE e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(7) O estudo preparatório mostra que os motores eléctricos são colocados no mercado comunitário em grandes quantidades, sendo o seu consumo de energia na fase de funcionamento o aspecto ambiental mais significativo de todo o ciclo de vida. O consumo anual total de electricidade da totalidade dos motores eléctricos atingiu 1 067 TWh em 2005, a que correspondem emissões de 427 Mt de CO2. Na ausência de medidas para limitar este consumo, prevê-se que o consumo de energia aumente para 1 252 TWh em 2020, tendo-se concluído que o consumo de energia ao longo do ciclo de vida e o consumo de electricidade quando em funcionamento podem ser melhorados significativamente, em especial se os motores utilizados em aplicações que requerem diferentes velocidades e cargas forem equipados com variadores de velocidade\n\n(8) O estudo preparatório mostrou que o consumo de electricidade quando em funcionamento é, de entre os parâmetros de concepção ecológica dos produtos enumerados no anexo I, parte I, da Directiva 2005/32/CE, o único significativo.\n\n(9) As melhorias no consumo de electricidade dos motores eléctricos devem ser alcançadas através do recurso a tecnologias existentes não proprietárias que ofereçam vantagens económicas e permitam reduzir o custo combinado da aquisição e do funcionamento desses motores.\n\n(10) Os requisitos de concepção ecológica devem harmonizar os requisitos em termos de consumo de energia dos motores em toda a Comunidade, contribuindo assim para o funcionamento do mercado interno e para a melhoria do desempenho ambiental destes produtos.\n\n(11) Deve ser previsto um calendário apropriado, que permita aos fabricantes reformular a concepção dos seus produtos. Esse calendário deve ser estabelecido de modo a que sejam tomados em consideração os impactos negativos nas funcionalidades dos motores e as repercussões em termos de custos para os fabricantes, nomeadamente PME, assegurando simultaneamente a realização atempada dos objectivos do regulamento.\n\n(12) O consumo de energia deve ser determinado através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração as técnicas geralmente reconhecidas como mais avançadas, incluindo, quando existam, as normas harmonizadas adoptadas pelos organismos europeus de normalização listados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^3^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#E0003)).\n\n(13) O presente regulamento deve aumentar a penetração no mercado de tecnologias que reduzam o impacto ambiental dos motores eléctricos ao longo do seu ciclo de vida, dando origem a economias de energia e de electricidade para a totalidade desse ciclo estimadas em, respectivamente, 5 500 PJ ([^4^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#E0004)) e 135 TWh até 2020, por comparação com um cenário de manutenção do *statu quo*.\n\n(14) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar os procedimentos aplicáveis de avaliação da conformidade.\n\n(15) A fim de facilitar a verificação da conformidade, deve exigir-se dos fabricantes que forneçam certas informações na documentação técnica referida nos anexos IV e V da Directiva 2005/32/CE.\n\n(16) A fim de limitar ainda mais o impacto ambiental dos motores, os fabricantes devem fornecer a informação pertinente sobre desmontagem, reciclagem ou eliminação no fim da vida.\n\n(17) Devem ser identificados padrões de referência para as tecnologias com maior eficiência energética actualmente disponíveis, o que contribuirá para assegurar uma maior difusão e acessibilidade da informação, em especial para as PME e microempresas, facilitando uma maior integração das melhores tecnologias de concepção para a redução do consumo de energia.\n\n(18) As medidas previstas no presente regulamento estão conformes com o parecer do Comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "346fda8d720ed56e": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento define requisitos de concepção ecológica para a colocação no mercado e a entrada em serviço de motores, inclusive quando integrados noutros produtos.\n\n2. O presente regulamento não é aplicável:\n\na) Aos motores concebidos para funcionar inteiramente imersos num líquido;\n\nb) Aos motores totalmente integrados em produtos (como, por exemplo, sistemas de transmissão, bombas, ventoinhas ou compressores), de tal modo que o seu desempenho energético não pode ser testado de forma independente do desempenho energético do produto no seu todo;\n\nc) Aos motores especificamente concebidos para funcionar:\n\ni) a altitudes superiores a 1 000 metros acima do nível do mar;\n\nii) em locais onde a temperatura ambiente exceda 40 °C;\n\niii) a temperaturas máximas superiores a 400 °C;\n\niv) [**►C1**](http://publications.europa.eu/resource/celex/32009R0640R%2802%29) em locais onde a temperatura ambiente seja inferior a - 15 °C, para qualquer motor, ou a 0 °C, para motores com sistema de arrefecimento a água;**◄**\n\nv) em condições tais que a temperatura da água de arrefecimento à entrada no produto seja inferior a 5 °C ou superior a 25 °C.\n\nvi) em atmosferas potencialmente explosivas, tal como definidas na Directiva 94/9/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#E0005));\n\nd) Aos motores-freio;\n\n2. com excepção dos seguintes requisitos de informação constantes dos números 3 a 6 do ponto 2 do anexo 1."
+  },
+  "3f69da9249b96ce0": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara além das definições que figuram na Directiva 2005/32/CE, entende-se por:\n\n1. «Motor», um motor eléctrico trifásico de velocidade fixa, do tipo «gaiola de esquilo», que funciona a uma frequência de 50 ou 50/60 Hz e que:\n\n— tem 2 a 6 pólos,\n\n— tem uma voltagem efectiva *UN* inferior ou igual a 1 000 V,\n\n— tem uma potência efectiva *PN* entre 0,75 kW e 375 kW,\n\n— foi classificado com base nas suas condições reais de funcionamento em contínuo.\n\n2. «Variador de velocidade», um conversor eléctrico de potência que adapta continuamente a energia eléctrica fornecida ao motor eléctrico, de modo a controlar a potência mecânica desse motor em função das características de torque/velocidade da carga (movida pelo motor), ajustando a alimentação trifásica a 50 Hz à frequência e à voltagem variáveis fornecidas ao motor;\n\n3. «Motor em gaiola de esquilo», um motor eléctrico sem escovas, comutadores, anéis colectores ou ligações eléctricas ao rotor;\n\n4. «Fase», o tipo de configuração da alimentação da rede eléctrica;\n\n5. «Pólo», o número total de pólos magnéticos norte e sul produzidos pelo campo magnético rotativo do motor. O número de pólos determina a velocidade de base do motor;\n\n6. «Funcionamento em contínuo», a capacidade de um motor eléctrico com sistema integrado de arrefecimento para funcionar à carga nominal ininterruptamente sem que a sua temperatura ultrapasse a temperatura máxima de funcionamento;\n\n7. «Motor-freio», um motor equipado com uma unidade electromecânica de travagem que actua directamente sobre o veio de transmissão, sem qualquer ligação adicional."
+  },
+  "9e8b186305fb3757": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica para os motores constam do anexo I.\n\nCada um desses requisitos é aplicável em conformidade com o seguinte calendário:\n\n1. A partir de 16 de Junho de 2011, o nível de eficiência dos motores não pode ser inferior ao nível IE2, tal como definido no ponto 1 do anexo I;\n\n2. A partir de 1 de Janeiro de 2015:\n\ni) A eficiência dos motores com potência efectiva entre 7,5 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\n3. A partir de 1 de Janeiro de 2017:\n\ni) A eficiência dos motores com potência efectiva entre 0,75 e 375 kW não pode ser inferior ao nível IE3, tal como definido no ponto 1 do anexo I, ou IE2, tal como definido no mesmo ponto, desde que equipados com um variador de velocidade.\n\nOs requisitos aplicáveis à informação sobre o produto, que deve acompanhar os motores, são definidos no anexo I. A conformidade com os requisitos de concepção ecológica será medida e calculada de acordo com os requisitos definidos no anexo II."
+  },
+  "84e113595c005734": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d42b4a3dfcd94c41": {
+   "fragment_id": "REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES",
+   "type": "divisao",
+   "heading": "REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES"
+  },
+  "4acfa6c7915454d0": {
+   "fragment_id": "1. REQUISITOS DE EFICIÊNCIA DOS MOTORES",
+   "type": "divisao",
+   "heading": "1. REQUISITOS DE EFICIÊNCIA DOS MOTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. REQUISITOS DE EFICIÊNCIA DOS MOTORES\n\nOs requisitos de eficiência mínima nominal para os motores são definidos nos quadros 1 e 2.\n\n| Potência de saída efectiva (kW) | Número de pólos |  |  |\n| --- | --- | --- | --- |\n| 2 | 4 | 6 |  |\n| 0,75 | 77,4 | 79,6 | 75,9 |\n| 1,1 | 79,6 | 81,4 | 78,1 |\n| 1,5 | 81,3 | 82,8 | 79,8 |\n| 2,2 | 83,2 | 84,3 | 81,8 |\n| 3 | 84,6 | 85,5 | 83,3 |\n| 4 | 85,8 | 86,6 | 84,6 |\n| 5,5 | 87,0 | 87,7 | 86,0 |\n| 7,5 | 88,1 | 88,7 | 87,2 |\n| 11 | 89,4 | 89,8 | 88,7 |\n| 15 | 90,3 | 90,6 | 89,7 |\n| 18,5 | 90,9 | 91,2 | 90,4 |\n| 22 | 91,3 | 91,6 | 90,9 |\n| 30 | 92,0 | 92,3 | 91,7 |\n| 37 | 92,5 | 92,7 | 92,2 |\n| 45 | 92,9 | 93,1 | 92,7 |\n| 55 | 93,2 | 93,5 | 93,1 |\n| 75 | 93,8 | 94,0 | 93,7 |\n| 90 | 94,1 | 94,2 | 94,0 |\n| 110 | 94,3 | 94,5 | 94,3 |\n| 132 | 94,6 | 94,7 | 94,6 |\n| 160 | 94,8 | 94,9 | 94,8 |\n| 200 a 375 | 95,0 | 95,1 | 95,0 |\n\n| Potência de saída efectiva (kW) | Número de pólos |  |  |\n| --- | --- | --- | --- |\n| 2 | 4 | 6 |  |\n| 0,75 | 80,7 | 82,5 | 78,9 |\n| 1,1 | 82,7 | 84,1 | 81,0 |\n| 1,5 | 84,2 | 85,3 | 82,5 |\n| 2,2 | 85,9 | 86,7 | 84,3 |\n| 3 | 87,1 | 87,7 | 85,6 |\n| 4 | 88,1 | 88,6 | 86,8 |\n| 5,5 | 89,2 | 89,6 | 88,0 |\n| 7,5 | 90,1 | 90,4 | 89,1 |\n| 11 | 91,2 | 91,4 | 90,3 |\n| 15 | 91,9 | 92,1 | 91,2 |\n| 18,5 | 92,4 | 92,6 | 91,7 |\n| 22 | 92,7 | 93,0 | 92,2 |\n| 30 | 93,3 | 93,6 | 92,9 |\n| 37 | 93,7 | 93,9 | 93,3 |\n| 45 | 94,0 | 94,2 | 93,7 |\n| 55 | 94,3 | 94,6 | 94,1 |\n| 75 | 94,7 | 95,0 | 94,6 |\n| 90 | 95,0 | 95,2 | 94,9 |\n| 110 | 95,2 | 95,4 | 95,1 |\n| 132 | 95,4 | 95,6 | 95,4 |\n| 160 | 95,6 | 95,8 | 95,6 |\n| 200 a 375 | 95,8 | 96,0 | 95,8 |"
+  },
+  "773631733c7351d9": {
+   "fragment_id": "2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+   "type": "divisao",
+   "heading": "2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES\n\nA partir de 16 de Junho de 2011, a informação sobre os motores descrita nos números 1 a 12 deve ser aposta de forma visível:\n\na) Na documentação técnica dos motores;\n\nb) Na documentação técnica dos produtos que incorporam os motores;\n\nc) Nos sítios *web* de acesso livre dos fabricantes de motores;\n\nd) Nos sítios *web* de acesso livre dos fabricantes de produtos que incorporam os motores.\n\nNo que respeita à documentação técnica, a informação deve ser fornecida pela ordem apresentada nos números 1 a 12. Não é necessário utilizar o texto exacto que consta da lista. Podem ser utilizados gráficos, figuras ou símbolos, em vez de texto.\n\n1. Eficiência nominal (η) à carga e à voltagem efectivas (UN) máximas, a 75 % e a 50 % das mesmas;\n\n2. Nível de eficiência: «IE2» ou «IE3»;\n\n3. Ano de fabrico;\n\n4. Nome do fabricante ou marca, número no registo comercial e local de fabrico;\n\n5. Número de modelo do produto;\n\n6. Número de pólos do motor;\n\n7. Potência(s) ou gama de potências efectiva(s) (kW);\n\n8. Frequência(s) de entrada efectiva(s) do motor (Hz);\n\n9. Voltagem(ns) ou gama de voltagens efectiva(s) (kW);\n\n10. Velocidade(s) ou gama de velocidades efectiva(s) (rpm);\n\n11. Informação pertinente de desmontagem, reciclagem ou eliminação no fim da vida;\n\n12. Informação sobre as condições de funcionamento para que o motor foi especificamente concebido, com incidência nos seguintes factores:\n\ni) altitudes acima do nível do mar,\n\nii) temperatura ambiente, nomeadamente para os motores com arrefecimento a ar,\n\niii) temperatura da água de arrefecimento à entrada no produto,\n\niv) temperatura máxima de funcionamento,\n\nv) atmosferas potencialmente explosivas.\n\nA informação referida nos números 1, 2 e 3 deve ser aposta de forma durável na placa sinalética do motor ou junto da mesma.\n\nA informação constante dos números 1 a 12 não tem de ser publicada no sítio *web* de acesso livre do fabricante de motores que não sejam de série e cuja concepção mecânica e eléctrica especial seja determinada pelas solicitações específicas do cliente. A informação sobre a obrigação de equipar os motores que não cumpram o nível de eficiência IE3 com um variador de velocidade deve constar de forma bem visível na placa sinalética e na documentação técnica do motor:\n\na) A partir de 1 de Janeiro de 2015, para os motores de potência efectiva entre 7,5 e 375 kW;\n\nb) A partir de 1 de Janeiro de 2017, para os motores de potência efectiva entre 0,75 e 375 kW.\n\nOs fabricantes devem fornecer na documentação técnica informações sobre quaisquer precauções específicas que seja necessário adoptar na montagem, instalação, manutenção ou utilização dos variadores de velocidade, incluindo informação sobre a forma de minimizar os seus campos eléctricos e magnéticos."
+  },
+  "a1d2cdc8cded75d5": {
+   "fragment_id": "3. DEFINIÇÕES PARA EFEITOS DO ANEXO I",
+   "type": "divisao",
+   "heading": "3. DEFINIÇÕES PARA EFEITOS DO ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. DEFINIÇÕES PARA EFEITOS DO ANEXO I\n\n1. «Eficiência mínima nominal» (η) é a eficiência à carga e à voltagem efectivas máximas, sem tolerâncias;\n\n2. «Tolerância» é a variação máxima permissível dos resultados dos ensaios de medição de um determinado motor em relação ao valor declarado na placa sinalética ou na documentação técnica."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2810e0512a91ecbb": {
+   "fragment_id": "MEDIÇÕES E CÁLCULOS",
+   "type": "divisao",
+   "heading": "MEDIÇÕES E CÁLCULOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIÇÕES E CÁLCULOS\n\nPara efeitos de conformidade com os requisitos do presente regulamento e da sua verificação, as medições e os cálculos devem ser efectuados utilizando métodos fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos geralmente reconhecidos como mais avançados e cujos resultados sejam considerados como apresentando uma baixa incerteza, nomeadamente os métodos definidos em documentos cujos números de referência tenham sido publicados para esse efeito no *Jornal Oficial da União Europeia*. Tais métodos devem cumprir os seguintes parâmetros:\n\nA eficiência energética é o rácio entre a potência mecânica produzida e a energia eléctrica consumida.\n\nO nível de eficiência, tal como especificado no anexo I, será determinado à potência (PN), à voltagem (UN) e à frequência (fN) efectivas.\n\nA diferença entre a potência mecânica produzida e a energia eléctrica consumida é devida a perdas que ocorrem no motor.\n\nAs perdas totais serão determinadas através de um dos seguintes métodos:\n\n— medição das perdas totais, ou\n\n— determinação do somatório das perdas individuais."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "94bba3718967e697": {
+   "fragment_id": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO DE VERIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO DE VERIFICAÇÃO\n\nAo executar as actividades de vigilância do mercado referidas no n.º 2 do artigo 3.º da Directiva 2005/32/CE, as autoridades dos Estados-Membros devem aplicar o seguinte procedimento para a verificação dos requisitos previstos no anexo I.\n\n1. As autoridades do Estado-Membro ensaiam uma única unidade.\n\n2. Considera-se que o modelo obedece aos requisitos do presente regulamento se os resultados em termos de eficiência nominal (η) e das perdas (1–η) do motor não variarem em relação aos valores definidos no anexo I mais de 15 %, para a gama de potências entre 0,75 e 150 kW, ou 10 %, para a gama de potências superior a 150 e até 375 kW.\n\n3. Se não for obtido o resultado referido no ponto 2, a autoridade de vigilância do mercado ensaiará aleatoriamente três unidades adicionais, excepto nos casos em que sejam produzidas menos de cinco unidades por ano.\n\n4. Considera-se que o mesmo modelo obedece aos requisitos do presente regulamento quando a média das eficiências nominais (η) e das perdas (1–η) das três unidades referidas no ponto 3 não variarem em relação aos valores definidos no anexo I em mais de 15 %, para a gama de potências entre 0,75 e 150 kW, ou 10 %, para a gama de potências entre 150 e 375 kW.\n\n5. Se os resultados referidos no ponto 4 não forem alcançados, considera-se que o modelo não obedece aos requisitos do presente regulamento.\n\nPara efeitos da verificação da conformidade com os requisitos do presente regulamento, os Estados-Membros devem aplicar o procedimento referido no anexo II e procedimentos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos geralmente reconhecidos como mais avançados, nomeadamente métodos definidos em normas cujos números de referência tenham sido publicados para esse efeito no *Jornal Oficial da União Europeia*."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "e93168340d383daf": {
+   "fragment_id": "PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º",
+   "type": "divisao",
+   "heading": "PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º\n\nNo momento da adopção do presente regulamento, a melhor tecnologia disponível no mercado para os motores corresponde ao nível de eficiência IE3 ou ao nível IE3 equipado com variador de velocidade, tal como definido no anexo I.\n\n---"
+  },
+  "f0d87b5285dc0bfa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#src.E0001)) JO L 191 de 22.7.2005, p. 29.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#src.E0002)) JO L 157 de 9.6.2006, p. 24.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#src.E0003)) JO L 204 de 21.7.1998, p. 37.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#src.E0004)) 1 TWh = 3,6 PJ.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/2f6abfe6-6030-42ae-8ce5-90e0e327b8fc.0018.03/DOC_1#src.E0005)) JO L 100 de 19.4.1994, p. 1."
+  },
+  "bd5528bb3ac25b98": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para os motores eléctricos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a Concepção Ecológica,\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para os produtos que consumem energia e que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE determina que, em conformidade com o procedimento a que se refere o n.º 3 do artigo 19.º e com os critérios previstos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a Concepção Ecológica, a Comissão introduzirá, se for caso disso, medidas de execução em relação aos produtos utilizados em sistemas de motor eléctrico.\n\n(3) Os motores eléctricos constituem o factor de carga eléctrica mais importante para as indústrias da Comunidade que utilizam motores nos seus processos de produção. Os sistemas que utilizam estes motores representam cerca de 70 % do consumo de electricidade da indústria. A eficiência energética dos referidos sistemas de motores poderá ser melhorada em 20 % a 30 %, com os custos a serem suplantados pelas vantagens. Um dos principais factores que influenciarão essa melhoria é a utilização de motores eléctricos de alta eficiência energética. Assim, os motores eléctricos integrados em sistemas de motores constituem um produto prioritário, em relação ao qual devem ser definidos requisitos de concepção ecológica.\n\n(4) Os sistemas de motores eléctricos incluem diversos produtos que consomem energia, como os próprios motores e os sistemas de transmissão, bombas e ventoinhas. Os motores e os variadores de velocidade constituem parte importante destes produtos. Por tal razão, o presente regulamento exige que certos tipos de motores sejam equipados com variadores de velocidade.\n\n(5) Em muitos casos, os motores estão integrados noutros produtos, não sendo colocados separadamente no mercado ou em serviço, na acepção do artigo 5.º da Directiva 2005/32/CE e da Directiva 2006/42/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#E0002)). A fim de realizar integralmente o potencial de poupança, os motores integrados noutros produtos devem também ser abrangidos pelo presente regulamento.\n\n(6) A Comissão realizou um estudo preparatório para analisar os aspectos técnicos, ambientais e económicos relacionados com os motores eléctricos. O estudo foi realizado em conjunto com as partes interessadas da UE e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(7) O estudo preparatório mostra que os motores eléctricos são colocados no mercado comunitário em grandes quantidades, sendo o seu consumo de energia na fase de funcionamento o aspecto ambiental mais significativo de todo o ciclo de vida. O consumo anual total de electricidade da totalidade dos motores eléctricos atingiu 1 067 TWh em 2005, a que correspondem emissões de 427 Mt de CO2. Na ausência de medidas para limitar este consumo, prevê-se que o consumo de energia aumente para 1 252 TWh em 2020, tendo-se concluído que o consumo de energia ao longo do ciclo de vida e o consumo de electricidade quando em funcionamento podem ser melhorados significativamente, em especial se os motores utilizados em aplicações que requerem diferentes velocidades e cargas forem equipados com variadores de velocidade\n\n(8) O estudo preparatório mostrou que o consumo de electricidade quando em funcionamento é, de entre os parâmetros de concepção ecológica dos produtos enumerados no anexo I, parte I, da Directiva 2005/32/CE, o único significativo.\n\n(9) As melhorias no consumo de electricidade dos motores eléctricos devem ser alcançadas através do recurso a tecnologias existentes não proprietárias que ofereçam vantagens económicas e permitam reduzir o custo combinado da aquisição e do funcionamento desses motores.\n\n(10) Os requisitos de concepção ecológica devem harmonizar os requisitos em termos de consumo de energia dos motores em toda a Comunidade, contribuindo assim para o funcionamento do mercado interno e para a melhoria do desempenho ambiental destes produtos.\n\n(11) Deve ser previsto um calendário apropriado, que permita aos fabricantes reformular a concepção dos seus produtos. Esse calendário deve ser estabelecido de modo a que sejam tomados em consideração os impactos negativos nas funcionalidades dos motores e as repercussões em termos de custos para os fabricantes, nomeadamente PME, assegurando simultaneamente a realização atempada dos objectivos do regulamento.\n\n(12) O consumo de energia deve ser determinado através de métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração as técnicas geralmente reconhecidas como mais avançadas, incluindo, quando existam, as normas harmonizadas adoptadas pelos organismos europeus de normalização listados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^3^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#E0003)).\n\n(13) O presente regulamento deve aumentar a penetração no mercado de tecnologias que reduzam o impacto ambiental dos motores eléctricos ao longo do seu ciclo de vida, dando origem a economias de energia e de electricidade para a totalidade desse ciclo estimadas em, respectivamente, 5 500 PJ ([^4^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#E0004)) e 135 TWh até 2020, por comparação com um cenário de manutenção do *statu quo*.\n\n(14) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar os procedimentos aplicáveis de avaliação da conformidade.\n\n(15) A fim de facilitar a verificação da conformidade, deve exigir-se dos fabricantes que forneçam certas informações na documentação técnica referida nos anexos IV e V da Directiva 2005/32/CE.\n\n(16) A fim de limitar ainda mais o impacto ambiental dos motores, os fabricantes devem fornecer a informação pertinente sobre desmontagem, reciclagem ou eliminação no fim da vida.\n\n(17) Devem ser identificados padrões de referência para as tecnologias com maior eficiência energética actualmente disponíveis, o que contribuirá para assegurar uma maior difusão e acessibilidade da informação, em especial para as PME e microempresas, facilitando uma maior integração das melhores tecnologias de concepção para a redução do consumo de energia.\n\n(18) As medidas previstas no presente regulamento estão conformes com o parecer do Comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1908c4409a43336d": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento define os requisitos de conceção ecológica para a colocação no mercado e a entrada em serviço de motores, inclusive os integrados noutros produtos.\n\n2. O presente regulamento não é aplicável:\n\na) Aos motores concebidos para funcionar inteiramente imersos num líquido;\n\nb) Aos motores totalmente integrados em produtos (por exemplo, sistemas de transmissão, bombas, ventoinhas ou compressores), de tal modo que o seu desempenho energético não possa ser testado de forma independente do desempenho energético desses produtos;\n\nc) Aos motores concebidos para funcionar exclusivamente:\n\ni) a altitudes superiores a 4 000 metros acima do nível do mar,\n\nii) em locais onde a temperatura ambiente exceda 60 °C,\n\niii) a temperaturas máximas superiores a 400 °C,\n\niv) em locais onde a temperatura ambiente seja inferior a – 30 °C, para qualquer motor, ou a 0 °C, para os motores com sistema de arrefecimento a água,\n\nv) em condições tais que a temperatura da água de arrefecimento à entrada no produto seja inferior a 0 °C ou superior a 32 °C, ou\n\nvi) em atmosferas potencialmente explosivas, tal como definidas na Diretiva 94/9/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#E0005));\n\nd) Aos motores-freio,"
+  },
+  "65158aab227405b9": {
+   "fragment_id": "2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+   "type": "divisao",
+   "heading": "2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES\n\nA partir de 16 de Junho de 2011, a informação sobre os motores descrita nos números 1 a 12 deve ser aposta de forma visível:\n\na) Na documentação técnica dos motores;\n\nb) Na documentação técnica dos produtos que incorporam os motores;\n\nc) Nos sítios *web* de acesso livre dos fabricantes de motores;\n\nd) Nos sítios *web* de acesso livre dos fabricantes de produtos que incorporam os motores.\n\nNo que respeita à documentação técnica, a informação deve ser fornecida pela ordem apresentada nos números 1 a 12. Não é necessário utilizar o texto exacto que consta da lista. Podem ser utilizados gráficos, figuras ou símbolos, em vez de texto.\n\n1. Eficiência nominal (η) à carga e à voltagem efectivas (UN) máximas, a 75 % e a 50 % das mesmas;\n\n2. Nível de eficiência: «IE2» ou «IE3»;\n\n3. Ano de fabrico;\n\n4. Nome do fabricante ou marca, número no registo comercial e local de fabrico;\n\n5. Número de modelo do produto;\n\n6. Número de pólos do motor;\n\n7. Potência(s) ou gama de potências efectiva(s) (kW);\n\n8. Frequência(s) de entrada efectiva(s) do motor (Hz);\n\n9. Voltagem(ns) ou gama de voltagens efectiva(s) (kW);\n\n10. Velocidade(s) ou gama de velocidades efectiva(s) (rpm);\n\n11. Informação pertinente de desmontagem, reciclagem ou eliminação no fim da vida;\n\n12. Informação sobre as condições de funcionamento para que o motor foi especificamente concebido, com incidência nos seguintes factores:\n\ni) altitudes acima do nível do mar,\n\nii) temperatura ambiente, nomeadamente para os motores com arrefecimento a ar,\n\niii) temperatura da água de arrefecimento à entrada no produto,\n\niv) temperatura máxima de funcionamento,\n\nv) atmosferas potencialmente explosivas.\n\nA informação referida nos números 1, 2 e 3 deve ser aposta de forma durável na placa sinalética do motor ou junto da mesma.\n\nSe a dimensão da placa sinalética impedir a aposição de todas as informações previstas no ponto 1, deve inscrever-se apenas a eficiência nominal (η) correspondente à carga e à tensão nominais (UN).\n\nA informação constante dos números 1 a 12 não tem de ser publicada no sítio *web* de acesso livre do fabricante de motores que não sejam de série e cuja concepção mecânica e eléctrica especial seja determinada pelas solicitações específicas do cliente. A informação sobre a obrigação de equipar os motores que não cumpram o nível de eficiência IE3 com um variador de velocidade deve constar de forma bem visível na placa sinalética e na documentação técnica do motor:\n\na) A partir de 1 de Janeiro de 2015, para os motores de potência efectiva entre 7,5 e 375 kW;\n\nb) A partir de 1 de Janeiro de 2017, para os motores de potência efectiva entre 0,75 e 375 kW.\n\nOs fabricantes devem fornecer na documentação técnica informações sobre quaisquer precauções específicas que seja necessário adoptar na montagem, instalação, manutenção ou utilização dos variadores de velocidade, incluindo informação sobre a forma de minimizar os seus campos eléctricos e magnéticos."
+  },
+  "5433995405745571": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#src.E0001)) JO L 191 de 22.7.2005, p. 29.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#src.E0002)) JO L 157 de 9.6.2006, p. 24.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#src.E0003)) JO L 204 de 21.7.1998, p. 37.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#src.E0004)) 1 TWh = 3,6 PJ.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3fa8c1d0-054c-458b-9b3f-14ee387545d0.0015.02/DOC_1#src.E0005)) JO L 100 de 19.4.1994, p. 1."
+  },
+  "a6d6b9ea399c124f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para os motores eléctricos\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "7df625183f2e5642": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento define os requisitos de conceção ecológica para a colocação no mercado e a entrada em serviço de motores, inclusive os integrados noutros produtos.\n\n2. O presente regulamento não é aplicável:\n\na) Aos motores concebidos para funcionar inteiramente imersos num líquido;\n\nb) Aos motores totalmente integrados em produtos (por exemplo, sistemas de transmissão, bombas, ventoinhas ou compressores), de tal modo que o seu desempenho energético não possa ser testado de forma independente do desempenho energético desses produtos;\n\nc) Aos motores concebidos para funcionar exclusivamente:\n\ni) a altitudes superiores a 4 000 metros acima do nível do mar,\n\nii) em locais onde a temperatura ambiente exceda 60 °C,\n\niii) a temperaturas máximas superiores a 400 °C,\n\niv) em locais onde a temperatura ambiente seja inferior a – 30 °C, para qualquer motor, ou a 0 °C, para os motores com sistema de arrefecimento a água,\n\nv) em condições tais que a temperatura da água de arrefecimento à entrada no produto seja inferior a 0 °C ou superior a 32 °C, ou\n\nvi) em atmosferas potencialmente explosivas, tal como definidas na Diretiva 94/9/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b7386786-d1c8-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001));\n\nd) Aos motores-freio,"
+  },
+  "5704a7a27814340a": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento, em aplicação do artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do anexo IV, ponto 2, da Diretiva 2009/125/CE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fabricante ou importador do que os resultados das medições correspondentes efetuadas em conformidade com a alínea g) daquela disposição; e\n\nb) Os valores declarados cumprirem os requisitos estabelecidos no presente regulamento, e a informação necessária relativa aos produtos publicada pelo fabricante ou importador não apresentar valores mais favoráveis para o fabricante ou importador do que os valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições), incluindo as perdas totais (1-η) como um critério decisivo em termos de eficiência, se situarem dentro dos limites das respetivas tolerâncias de verificação constantes do quadro 3.\n\n3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo não está conforme com o presente regulamento.\n\n4) Se não se obtiver o resultado referido no ponto 2, alínea c):\n\na) Para os modelos produzidos em quantidade inferior a cinco por ano, deve considerar-se que o modelo não está conforme com o presente regulamento;\n\nb) Para os modelos produzidos em quantidade igual ou superior a cinco por ano, as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo. O modelo deve ser considerado conforme com os requisitos aplicáveis se, para essas três unidades, a média aritmética dos valores determinados, incluindo as perdas totais (1-η) como um critério decisivo em termos de eficiência, estiver conforme com as respetivas tolerâncias de verificação, constantes do quadro 3.\n\n5) Se não se obtiver o resultado referido no ponto 4, alínea b), deve considerar-se que o modelo não está conforme com o presente regulamento.\n\n6) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não conformidade do modelo de acordo com o disposto nos pontos 3, 4, alínea a), e 5.\n\nAs autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo II.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 3 e utilizar apenas o procedimento descrito nos pontos 1 a 6 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\n| Parâmetros | Motores da gama de potências entre 0,75 e 150 kW | Motores da gama de potências entre 150 e 375 kW |\n| --- | --- | --- |\n| Perdas totais (1-η) | No máximo, 15 % superiores aos valores derivados dos valores declarados de acordo com o anexo I | No máximo, 10 % superiores aos valores derivados dos valores declarados de acordo com o anexo I |"
+  },
+  "e641449609dd26cd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b7386786-d1c8-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO L 100 de 19.4.1994, p. 1."
+  },
+  "4765016f870f955d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0640 — PT — 01.07.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0640) [REGULAMENTO (CE) N.º 640/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0640) [de 22 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0640) [que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para os motores eléctricos](http://publications.europa.eu/resource/celex/32009R0640) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0640) (JO L 191, 23.7.2009, p.26)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/1781 da Comissão de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1781) — L 272 — 74 — 25.10.2019"
+  }
+ }
+}

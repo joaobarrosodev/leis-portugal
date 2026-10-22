@@ -34,6 +34,151 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-01'
+version_history:
+  file: regulamento-ue-2009-1217.versoes.json
+  count: 7
+  source_lastmod: '2024-01-01'
+  versions:
+  - date: '2009-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-01'
+    amending: eu:celex:32011R0737:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 737/2011 DA COMISSÃO de 26 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º
+    - Altera Artigo 21.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista das circunscrições referidas na alínea d) do artigo 2.º
+    - Adita Bélgica
+    - Adita Bulgária
+    - Adita República Checa
+    - Adita Dinamarca
+    - Adita Alemanha (RF)
+    - Adita Estónia
+    - Adita Irlanda
+    - Adita Grécia
+    - Adita Espanha
+    - Adita França
+    - Adita Itália
+    - Adita Chipre
+    - Adita Letónia
+    - Adita Lituânia
+    - Adita Luxemburgo
+    - Adita Hungria
+    - Adita Malta
+    - Adita Países Baixos
+    - Adita Áustria
+    - Adita Polónia
+    - Adita Portugal
+    - Adita Romania
+    - Adita Eslovénia
+    - Adita Eslováquia
+    - Adita Finlândia
+    - Adita Suécia
+    - Adita Reino Unido
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Notas
+    - Adita Croácia
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1318:por
+    amending_title: REGULAMENTO (UE) N. o 1318/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 19.º
+    - Altera Notas
+    - Adita CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO
+    - Adita DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Lista das circunscrições da RICA referidas no artigo 2.º, alínea d)
+    - Suprime CRIAÇÃO DE UMA REDE COMUNITÁRIA DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA
+    - Suprime VERIFICAÇÃO DOS RENDIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime CAPÍTULO III
+    - Suprime RECOLHA DOS DADOS CONTABILÍSTICOS COM VISTA A ANALISAR O FUNCIONAMENTO ECONÓMICO DE EXPLORAÇÕES AGRÍCOLAS
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 18.º
+    - Suprime Lista das circunscrições referidas na alínea d) do artigo 2.º
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2278:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/2278 DA COMISSÃO de 4 de setembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º-B
+    - Altera Notas
+    - Adita Alemanha
+    - Suprime Alemanha (RF)
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2497:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2497 DA COMISSÃO de 12 de outubro de 2022
+    changes:
+    - Altera Artigo 19.º-B
+    - Altera França
+    - Altera Notas
+    - Suprime Reino Unido
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2514:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2514 DA COMISSÃO de 7 de setembro de 2023; REGULAMENTO (UE) 2023/2674 DO
+      PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º-A
+    - Altera Artigo 5.º-B
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 19.º-B
+    - Altera Finlândia
+    - Altera Notas
+    - Adita CRIAÇÃO DE UMA REDE DE INFORMAÇÃO DE SUSTENTABILIDADE AGRÍCOLA
+    - Adita DADOS PARA O PREENCHIMENTO DE FICHAS DE EXPLORAÇÃO E O ESTABELECIMENTO DE LIGAÇÕES ENTRE OS DADOS
+    - Adita Artigo 4.º-A
+    - Adita Artigo 8.º-A
+    - Adita Artigo 16.º-A
+    - Adita Artigo 16.º-B
+    - Adita Artigo 19.º-C
+    - Adita ANEXO -I
+    - Adita Lista de temas
+    - Adita Económicos
+    - Adita Ambientais
+    - Adita Sociais
+    - Suprime CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO
+    - Suprime DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS
 identifiers:
   celex: 32009R1217
   eli: http://data.europa.eu/eli/reg/2009/1217/oj
@@ -48,7 +193,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018
   content_url: http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1217-20240101
-  retrieved_at: '2026-10-22T03:14:51Z'
+  retrieved_at: '2026-10-22T15:45:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T19:16:06.111+02:00'
 integrity:
@@ -57,9 +202,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:51Z'
-  notes: Texto consolidado 02009R1217-20240101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:26Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2009-1217.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -261,39 +406,19 @@ relationships:
   date: '2007-12-18'
 article_structure:
   article_count: 22
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:51Z'
+  checked_at: '2026-10-22T15:45:26Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1217/2009 do Conselho, de 30 de Novembro de 2009
-
-> 02009R1217 — PT — 01.01.2024 — 006.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R0737) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 737/2011 DA COMISSÃO de 26 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0737) — L 195 — 42 — 27.7.2011
-- [►M2](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32013R1318) — [REGULAMENTO (UE) N.º 1318/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1318) — L 340 — 1 — 17.12.2013
-- [►M4](http://publications.europa.eu/resource/celex/32017R2278) — [REGULAMENTO DELEGADO (UE) 2017/2278 DA COMISSÃO de 4 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R2278) — L 328 — 1 — 12.12.2017
-- [►M5](http://publications.europa.eu/resource/celex/32022R2497) — [REGULAMENTO DELEGADO (UE) 2022/2497 DA COMISSÃO de 12 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2497) — L 325 — 13 — 20.12.2022
-- [►M6](http://publications.europa.eu/resource/celex/32023R2514) — [REGULAMENTO DELEGADO (UE) 2023/2514 DA COMISSÃO de 7 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2514) — L 2514 — 1 — 15.11.2023
-- [►M7](http://publications.europa.eu/resource/celex/32023R2674) — [REGULAMENTO (UE) 2023/2674 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2674) — L 2674 — 1 — 29.11.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R2674R%2801%29) — [Rectificação, JO L 90634, 28.7.2026, p. 1 (2023/2674)](http://publications.europa.eu/resource/celex/32023R2674R%2801%29)
-
-## REGULAMENTO (CE) N.º 1217/2009 DO CONSELHO
 
 de 30 de novembro de 2009
 

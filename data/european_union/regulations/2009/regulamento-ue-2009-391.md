@@ -35,6 +35,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2009-391.versoes.json
+  count: 5
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2009-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CRITÉRIOS MÍNIMOS PARA AS ORGANIZAÇÕES OBTEREM OU MANTEREM O RECONHECIMENTO COMUNITÁRIO
+    - Adita (a que se refere o artigo 3.º)
+    - Adita A. CRITÉRIOS MÍNIMOS GERAIS
+    - Adita B. CRITÉRIOS MÍNIMOS ESPECÍFICOS
+    - Adita ANEXO II
+  - date: '2015-01-01'
+    amending: eu:celex:32014R1355:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1355/2014 DA COMISSÃO de 17 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Notas
+    - Adita Artigo 14.º-A
+  - date: '2021-01-01'
+    amending: eu:celex:32019R0492:por
+    amending_title: REGULAMENTO (UE) 2019/492 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Notas
 identifiers:
   celex: 32009R0391
   eli: http://data.europa.eu/eli/reg/2009/391/oj
@@ -49,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b775464-7921-48ce-9809-a94b5043c830.0019
   content_url: http://publications.europa.eu/resource/cellar/b13007f6-2d4e-11f1-906d-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0391-20210101
-  retrieved_at: '2026-10-22T02:37:33Z'
+  retrieved_at: '2026-10-22T15:41:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T21:21:18.251+02:00'
 integrity:
@@ -58,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:33Z'
-  notes: Texto consolidado 02009R0391-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:38Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2009-391.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -202,35 +257,19 @@ relationships:
   date: '2012-05-14'
 article_structure:
   article_count: 20
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:33Z'
+  checked_at: '2026-10-22T15:41:38Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 391/2009 do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009R0391 — PT — 01.01.2021 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R1355) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1355/2014 DA COMISSÃO de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1355) — L 365 — 82 — 19.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32019R0492) — [REGULAMENTO (UE) 2019/492 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019](http://publications.europa.eu/resource/celex/32019R0492) — L 85I — 5 — 27.3.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0391R%2801%29) — [Rectificação, JO L 074, 22.3.2010, p. 1 (391/2009)](http://publications.europa.eu/resource/celex/32009R0391R%2801%29)
-
-## REGULAMENTO (CE) N.º 391/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

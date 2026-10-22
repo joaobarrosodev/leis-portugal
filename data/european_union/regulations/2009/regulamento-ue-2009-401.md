@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2009-401.versoes.json
+  count: 2
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2021-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2457:por
+    amending_title: REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera ANEXO I
+    - Altera Notas
 identifiers:
   celex: 32009R0401
   eli: http://data.europa.eu/eli/reg/2009/401/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/84604a64-eba0-4c37-b5db-a8f2924ba089.0019
   content_url: http://publications.europa.eu/resource/cellar/70cd1409-0c93-11f1-8870-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0401-20260101
-  retrieved_at: '2026-10-22T02:59:22Z'
+  retrieved_at: '2026-10-22T15:41:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:23:19.359+02:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:22Z'
-  notes: Texto consolidado 02009R0401-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:38Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-401.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -137,30 +156,20 @@ relationships:
   date: '2003-10-01'
 article_structure:
   article_count: 22
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:22Z'
-  warnings: []
+  checked_at: '2026-10-22T15:41:38Z'
+  warnings:
+  - '02009R0401-20090521: versão indisponível (Sem expressão na língua por para CELEX 02009R0401-20090521.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 401/2009 do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009R0401 — PT — 01.01.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1119) — [REGULAMENTO (UE) 2021/1119 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1119) — L 243 — 1 — 9.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32025R2457) — [REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2457) — L 2457 — 1 — 12.12.2025
-
-## REGULAMENTO (CE) N.º 401/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

@@ -36,6 +36,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-07-12'
+version_history:
+  file: regulamento-ue-2009-1221.versoes.json
+  count: 2
+  source_lastmod: '2023-07-12'
+  versions:
+  - date: '2009-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-12'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; REGULAMENTO (UE) 2017/1505 DA COMISSÃO
+      de 28 de agosto de 2017; REGULAMENTO (UE) 2018/2026 DA COMISSÃO de 19 de dezembro de 2018; M4
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 18.º — Tarefas dos verificadores ambientais
+    - Altera Artigo 20.º — Requisitos aplicáveis aos verificadores ambientais
+    - Altera Artigo 40.º — Incumprimento
+    - Altera Artigo 51.º — Revogação e disposições transitórias
+    - Altera Artigo 52.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LEVANTAMENTO AMBIENTAL
+    - Adita 1. Determinação do contexto da organização
+    - Adita 2. Determinação das partes interessadas e das suas necessidades e expetativas legítimas
+    - Adita 3. Identificação dos requisitos legais aplicáveis em matéria de ambiente
+    - Adita 4. Identificação de aspetos ambientais diretos e indiretos e determinação daqueles que são significativos
+    - Adita 5. Avaliação do caráter significativo do impacte ambiental
+    - Adita 6. Avaliação da experiência obtida com a investigação de incidentes anteriores
+    - Adita 7. Determinação e documentação de riscos e oportunidades
+    - Adita 8. Exame dos processos, práticas e procedimentos existentes
+    - Adita ANEXO II
+    - Adita REQUISITOS DO SISTEMA DE GESTÃO AMBIENTAL E REQUISITOS ADICIONAIS A CUMPRIR PELAS ORGANIZAÇÕES QUE IMPLEMENTAM
+      O EMAS
+    - Adita ANEXO III
+    - Adita AUDITORIA AMBIENTAL INTERNA
+    - Adita 1. Programa de auditoria e frequência de auditoria
+    - Adita 2. Atividades de auditoria
+    - Adita 3. Comunicação dos resultados e conclusões da auditoria
+    - Adita ANEXO IV
+    - Adita COMUNICAÇÃO AMBIENTAL
+    - Adita A. Introdução
+    - Adita B. Declaração ambiental
+    - Adita C. Comunicação com base em indicadores de desempenho ambiental e informações qualitativas
+    - Adita D. Responsabilidade local
+    - Adita E. Disponibilização ao público
+    - Adita ANEXO V
+    - Adita LOGÓTIPO EMAS
+    - Adita ANEXO VI
+    - Adita REQUISITOS DE INFORMAÇÃO PARA O REGISTO
+    - Adita (informações a fornecer, quando aplicável)
+    - Adita ANEXO VII
+    - Adita DECLARAÇÃO DO VERIFICADOR AMBIENTAL SOBRE AS ACTIVIDADES DE VERIFICAÇÃO E VALIDAÇÃO
+    - Adita ANEXO VIII
 identifiers:
   celex: 32009R1221
   eli: http://data.europa.eu/eli/reg/2009/1221/oj
@@ -50,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/09f9cd75-04ba-4d6b-a917-acebe166aa90.0019
   content_url: http://publications.europa.eu/resource/cellar/87b7925d-2550-11ee-94cb-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1221-20230712
-  retrieved_at: '2026-10-22T02:40:44Z'
+  retrieved_at: '2026-10-22T15:45:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:18:19.361+02:00'
 integrity:
@@ -59,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:44Z'
-  notes: Texto consolidado 02009R1221-20230712.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:27Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1221.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,32 +255,22 @@ relationships:
   date: '2006-03-10'
 article_structure:
   article_count: 52
-  section_count: 51
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 52
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:44Z'
-  warnings: []
+  checked_at: '2026-10-22T15:45:27Z'
+  warnings:
+  - '02009R1221-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1221-20170918: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1221-20190109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1221/2009 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
-
-> 02009R1221 — PT — 12.07.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32017R1505) — [REGULAMENTO (UE) 2017/1505 DA COMISSÃO de 28 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1505) — L 222 — 1 — 29.8.2017
-- [►M3](http://publications.europa.eu/resource/celex/32018R2026) — [REGULAMENTO (UE) 2018/2026 DA COMISSÃO de 19 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R2026) — L 325 — 18 — 20.12.2018
-- [M4](http://publications.europa.eu/resource/celex/32023R1199) — [REGULAMENTO (UE) 2023/1199 DA COMISSÃO de 21 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1199) — L 159 — 1 — 22.6.2023
-
-## REGULAMENTO (CE) N.º 1221/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Novembro de 2009
 

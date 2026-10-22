@@ -36,6 +36,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2009-74.versoes.json
+  count: 2
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2009-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO
+    - Suprime «ANEXO II
+    - Suprime Lista indicativa dos tipos de operações e efeitos potenciais relacionados com as prioridades a que se refere
+      o artigo 16.º-A
+    - Suprime Notas
 identifiers:
   celex: 32009R0074
   eli: http://data.europa.eu/eli/reg/2009/74/oj
@@ -50,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7e4fbef5-0ad2-4fd6-b79a-892a82e3defa.0018
   content_url: http://publications.europa.eu/resource/cellar/1cdac44c-1968-4134-9e6a-8584ebf9bcb5.0004.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0074-20140101
-  retrieved_at: '2026-10-22T03:14:39Z'
+  retrieved_at: '2026-10-22T15:40:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:15:19.892+02:00'
 integrity:
@@ -59,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:39Z'
-  notes: Texto consolidado 02009R0074-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:48Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-74.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,16 +150,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:39Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:40:48Z'
+  warnings: []
   errors: []
 ---
 

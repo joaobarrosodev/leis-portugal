@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0245:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0245-20210901",
+ "dre_path": null,
+ "source_lastmod": "2021-09-01",
+ "versions": [
+  {
+   "date": "2009-03-24",
+   "future": false,
+   "celex": "32009R0245",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6bbf688993640a2e",
+    "3e41343f6ed57f4d",
+    "92896a57c05a22d2",
+    "8aa6fee7119a0bc3",
+    "30f6dbede3fcfb4f",
+    "d860ad371dcd56fd",
+    "a2844e8468e2a026",
+    "d73a840afbe19113",
+    "790fb6a38c909d0e",
+    "3feae75fc9b45a37",
+    "cf318510c29c422b"
+   ]
+  },
+  {
+   "date": "2021-09-01",
+   "future": false,
+   "celex": "02009R0245-20210901",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos de concepção ecológica",
+    "Suprime Artigo 4.º — Avaliação da conformidade",
+    "Suprime Artigo 5.º — Procedimento de verificação para efeitos de vigilância dos mercados",
+    "Suprime Artigo 6.º — Padrões de referência indicativos",
+    "Suprime Artigo 7.º — Revogação",
+    "Suprime Artigo 8.º — Revisão",
+    "Suprime Artigo 9.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "80ad1bca9c82bb4d"
+   ]
+  }
+ ],
+ "fragments": {
+  "6bbf688993640a2e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Março de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica das lâmpadas fluorescentes sem balastro integrado, das lâmpadas de descarga de alta intensidade e dos balastros e luminárias que podem funcionar com essas lâmpadas, e que revoga a Directiva 2000/55/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntr1-L_2009076PT.01001701-E0001), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a Concepção Ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para os produtos que consomem energia e que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria do respectivo impacto ambiental, sem implicar custos excessivos.\n\n(2) O n.º 2, segundo travessão, do artigo 16.º da Directiva 2005/32/CE determina que, em conformidade com o procedimento a que se refere o n.º 3 do artigo 19.º e com os critérios previstos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta sobre a Concepção Ecológica, a Comissão introduzirá, se for caso disso, uma medida de execução em relação à iluminação no sector terciário.\n\n(3) A Comissão efectuou dois estudos preparatórios que analisaram os aspectos técnicos, ambientais e económicos dos produtos de iluminação tipicamente utilizados no sector terciário (iluminação de escritórios e iluminação da via pública). Esses estudos foram desenvolvidos em conjunto com as partes interessadas da Comunidade e de países terceiros, tendo os seus resultados sido divulgados publicamente no sítio *web* EUROPA, da Comissão Europeia.\n\n(4) Os produtos colocados no mercado estão sujeitos a requisitos obrigatórios de concepção ecológica independentemente do local onde sejam instalados, pelo que o cumprimento desses requisitos não pode ser condicionado em função da aplicação a que se destina o produto (nomeadamente a iluminação de escritórios ou a iluminação da via pública). Assim, o presente regulamento deve ser aplicável a determinados produtos, como as lâmpadas fluorescentes sem balastro integrado, as lâmpadas de descarga de alta intensidade e os balastros e luminárias que podem funcionar com essas lâmpadas. A fim de orientar os utilizadores para as melhores tecnologias disponíveis (MTD) para determinadas aplicações (nomeadamente a iluminação de escritórios ou a iluminação da via pública), poderá ser útil recorrer a parâmetros de referência indicativos.\n\n(5) Os produtos abrangidos pelo presente regulamento destinam-se essencialmente a uma utilização para iluminação, em termos gerais, no sentido em que contribuirão para o fornecimento de luz artificial, em substituição da luz natural, para efeitos da visão humana normal. As lâmpadas para fins especiais (como as utilizadas nos monitores vídeo de computador, fotocopiadoras, camas de bronzeamento, iluminação de terrários e outras aplicações semelhantes) não devem ser abrangidas pelo presente regulamento.\n\n(6) Os aspectos ambientais dos produtos que consomem energia (PCE) abrangidos e que são considerados significativos para efeitos do presente regulamento são: a) A energia consumida quando em funcionamento; b) O teor de mercúrio das lâmpadas.\n\na) A energia consumida quando em funcionamento;\n\nb) O teor de mercúrio das lâmpadas.\n\n(7) O consumo anual de electricidade na Comunidade dos produtos abrangidos pelo presente regulamento foi estimado em 200 TWh em 2005, o que corresponde à emissão de 80 Mt de CO2. Se não forem adoptadas medidas específicas, está previsto que esse consumo venha a aumentar para 260 TWh em 2020. Os estudos preparatórios demonstraram que o consumo de electricidade dos produtos abrangidos pelo presente regulamento pode ser reduzido significativamente.\n\n(8) O mercúrio contido no conjunto das lâmpadas em utilização em 2005 foi estimado em 12,6 toneladas. Se não forem adoptadas medidas específicas, está previsto que essa quantidade venha a aumentar para 18,6 toneladas em 2020, embora já tenha sido demonstrado que é possível reduzi-la de forma significativa.\n\n(9) Na ausência de métodos científicos internacionalmente aceites para a medição do seu impacto ambiental, não foi possível avaliar a importância da chamada «poluição luminosa». É geralmente aceite, contudo, que as medidas desenvolvidas com vista ao aumento da eficácia de iluminação dos equipamentos utilizados no sector terciário poderão ter um impacto positivo sobre essa «poluição luminosa».\n\n(10) A diminuição do consumo de electricidade dos produtos abrangidos pelo presente regulamento deverá passar pela aplicação de tecnologias abertas (e não do fabricante) já existentes e que são vantajosas em termos de custos, o que conduzirá a uma redução das despesas combinadas da aquisição e funcionamento dos equipamentos.\n\n(11) Os requisitos de concepção ecológica aplicáveis aos produtos abrangidos pelo presente regulamento deverão ser definidos tendo em vista melhorar o desempenho ambiental dos produtos em causa e contribuir para o funcionamento do mercado interno e para a realização do objectivo comunitário de redução em 20 % do consumo de energia até 2020.\n\n(12) O presente regulamento deverá aumentar a penetração no mercado das tecnologias que permitem melhorar a eficiência energética dos produtos abrangidos, o que conduzirá a poupanças de energia estimadas em 38 TWh em 2020, por comparação com o cenário de manutenção do *status quo*.\n\n(13) A definição de requisitos de eficiência energética para as lâmpadas abrangidas pelo presente regulamento conduzirá a uma diminuição da quantidade global de mercúrio que contêm.\n\n(14) Os requisitos de concepção ecológica não deverão ter um impacto negativo sobre a funcionalidade dos produtos, nem afectar negativamente a saúde, a segurança e o ambiente. Os benefícios da diminuição do consumo de electricidade dos produtos abrangidos pelo presente regulamento quando em funcionamento, em particular, deverão compensar quaisquer impactos ambientais adicionais que possam decorrer da produção desses mesmos produtos.\n\n(15) A entrada em vigor faseada dos requisitos de concepção ecológica deverá permitir um período suficiente para que os fabricantes possam, na medida do necessário, alterar a concepção dos seus produtos em conformidade com o presente regulamento. O calendário das diferentes fases deverá ser definido de modo a evitar impactos negativos na funcionalidade dos equipamentos comercializados e a que sejam tomados em consideração os impactos em termos de custos para o utilizador final e para os fabricantes, nomeadamente pequenas e médias empresas, garantindo simultaneamente o cumprimento dos objectivos do presente regulamento em tempo útil. A revisão nos termos do artigo 8.º deverá nomeadamente verificar se os requisitos de desempenho para os balastros das lâmpadas de descarga de alta intensidade, definidos na parte 2.1.C do anexo III, serão atingíveis no prazo de oito anos a contar da data de entrada em vigor do presente regulamento.\n\n(16) A retirada do mercado das lâmpadas excedentes deverá ser planeada tomando em consideração os impactos para o consumidor final. Os Estados-Membros poderão impor requisitos mais rigorosos para as instalações de iluminação.\n\n(17) As medições dos parâmetros relevantes dos produtos deverão ser efectuadas através dos métodos de medição geralmente reconhecidos como mais avançados; os fabricantes poderão aplicar normas harmonizadas definidas em conformidade com o artigo 10.º da Directiva 2005/32/CE.\n\n(18) Em conformidade com o artigo 8.º da Directiva 2005/32/CE, o presente regulamento deverá especificar que os procedimentos de avaliação da conformidade aplicáveis serão o controlo interno da concepção previsto no anexo IV e o sistema de gestão para avaliação da conformidade previsto no anexo V da mesma directiva.\n\n(19) A fim de facilitar as verificações da conformidade, os fabricantes deverão fornecer, no quadro da documentação técnica referida nos anexos V e VI da Directiva 2005/32/CE, toda a informação que esteja relacionada com os requisitos definidos no presente regulamento.\n\n(20) Para além dos requisitos juridicamente vinculativos, a identificação de parâmetros de referência indicativos em relação às melhores técnicas disponíveis para os produtos abrangidos pelo presente regulamento deverá contribuir para garantir uma grande disponibilidade e facilidade de acesso à informação. Esse elemento será particularmente útil para as pequenas e médias empresas e para as microempresas, na medida em que facilitará ainda mais a integração das melhores tecnologias de concepção destinadas a melhorar o desempenho ambiental ao longo do ciclo de vida dos produtos abrangidos pelo presente regulamento.\n\n(21) Embora o teor de mercúrio das lâmpadas fluorescentes e das lâmpadas de descarga de alta intensidade seja considerado significativo do ponto de vista ambiental, será conveniente regular essa questão ao abrigo da Directiva 2002/95/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntr2-L_2009076PT.01001701-E0002), que também abrange os tipos de lâmpadas excluídos do âmbito de aplicação do presente regulamento.\n\n(22) A Directiva 2000/55/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa às normas de eficiência energética para balastros de fontes de iluminação fluorescente [([^3])](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntr3-L_2009076PT.01001701-E0003) constitui uma medida de execução da Directiva 2005/32/CE e afecta prolongadamente a base instalada de balastros, dada a longa duração de vida das luminárias e dos balastros magnéticos. Continua a existir, porém, potencial para melhoramentos, pelo que seria conveniente definir requisitos mínimos de eficiência energética mais exigentes do que os definidos pela Directiva 2005/32/CE. A Directiva 2000/55/CE deve, por conseguinte, ser substituída pelo presente regulamento.\n\n(23) As medidas previstas no presente regulamento estão em conformidade com o parecer do comité instituído pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3e41343f6ed57f4d": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento define requisitos de concepção ecológica para a colocação no mercado de lâmpadas fluorescentes sem balastro integrado, de lâmpadas de descarga de alta intensidade e de balastros e luminárias que podem funcionar com essas lâmpadas, tal como definidos no artigo 2.º, mesmo nos casos em que esses produtos estejam integrados noutros produtos que consomem energia.\n\nO presente regulamento prevê ainda parâmetros de referência indicativos para os produtos destinados a utilização na iluminação de escritórios e na iluminação da via pública.\n\nOs produtos que constam da lista do anexo I ficam isentos dos requisitos definidos pelo presente regulamento."
+  },
+  "92896a57c05a22d2": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições da Directiva 2005/32/CE. Para além disso, entende-se por:\n\n1. «Iluminação geral», a iluminação substancialmente uniforme de uma determinada área, sem tomar em conta as necessidades especiais de cada local específico.\n\n2. «Iluminação de escritórios», uma instalação fixa de iluminação para os trabalhos de escritório, destinada a permitir que as pessoas possam efectuar tarefas visuais de forma eficiente e precisa.\n\n3. «Iluminação da via pública», uma instalação fixa de iluminação destinada a permitir que os utilizadores de zonas de circulação públicas exteriores possam usufruir de uma boa visibilidade durante as horas de escuridão, em prol da segurança e do fluxo de tráfego e da segurança pública.\n\n4. «Lâmpada de descarga», uma lâmpada em que a luz é directa ou indirectamente produzida por uma descarga eléctrica através de um gás, de um vapor metálico ou de uma mistura de diversos gases e vapores.\n\n5. «Balastro», um dispositivo que serve fundamentalmente, quando ligado entre a fonte de alimentação e uma ou mais lâmpadas de descarga, para limitar a corrente da(s) lâmpada(s) até ao nível necessário. Um balastro pode também incluir equipamentos para transformar a tensão da alimentação, diminuir a intensidade luminosa da lâmpada, corrigir o factor de potência e, por si só ou em combinação com um dispositivo arrancador, criar as condições necessárias para o arranque da(s) lâmpada(s).\n\n6. «Luminária», um aparelho que distribui, filtra ou transforma a luz emitida por uma ou mais fontes luminosas, incluindo todas as peças necessárias para o apoio, fixação e protecção das fontes luminosas e também, quando necessários, os circuitos auxiliares, bem como as peças que permitem a ligação à fonte de alimentação, mas não incluindo as fontes luminosas propriamente ditas.\n\n7. «Lâmpada fluorescente», uma lâmpada de descarga de mercúrio a baixa pressão, na qual a maior parte da luz é emitida por uma ou várias camadas de substâncias fosforescentes que são excitadas pela radiação ultravioleta da descarga.\n\n8. «Lâmpada fluorescente sem balastro integrado», uma lâmpada fluorescente, de casquilho simples ou duplo, sem balastro integrado.\n\n9. «Lâmpada de descarga de alta intensidade», uma lâmpada de descarga eléctrica em que o arco que produz a iluminação é estabilizado pela temperatura da parede da lâmpada e resulta numa carga superior a 3 W/cm^2^ na parede do tubo em que essa descarga tem lugar.\n\nPara efeitos dos anexos I e III a VII, são igualmente aplicáveis as definições que constam do anexo II."
+  },
+  "8aa6fee7119a0bc3": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica relacionados com as lâmpadas fluorescentes sem balastro integrado, com as lâmpadas de descarga de alta intensidade e com os balastros e luminárias que podem funcionar com essas lâmpadas são definidos no anexo III."
+  },
+  "30f6dbede3fcfb4f": {
+   "fragment_id": "Artigo 4.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação da conformidade\n\nO procedimento de avaliação da conformidade referido no artigo 8.º da Directiva 2005/32/CE é o sistema de controlo interno da concepção previsto no anexo IV e o sistema de gestão previsto no anexo V da mesma directiva.\n\nPara efeitos da avaliação da conformidade nos termos do artigo 8.º da Directiva 2005/32/CE, a documentação técnica deve incluir uma cópia da informação relativa aos produtos, em conformidade com as secções 1.3, 2.2 e 3.2 do anexo III."
+  },
+  "d860ad371dcd56fd": {
+   "fragment_id": "Artigo 5.º — Procedimento de verificação para efeitos de vigilância dos mercados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de verificação para efeitos de vigilância dos mercados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de verificação para efeitos de vigilância dos mercados\n\nOs controlos para vigilância do mercado são efectuados em conformidade com o procedimento de verificação definido no anexo IV."
+  },
+  "a2844e8468e2a026": {
+   "fragment_id": "Artigo 6.º — Padrões de referência indicativos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Padrões de referência indicativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Padrões de referência indicativos\n\nOs parâmetros de referência indicativos para os produtos e tecnologias com melhor desempenho actualmente disponíveis no mercado são identificados:\n\na) No anexo V para as lâmpadas fluorescentes sem balastro integrado, as lâmpadas de descarga de alta intensidade e os balastros e luminárias que podem funcionar com essas lâmpadas;\n\nb) Nos anexos VI e VII, para os produtos destinados à iluminação de escritórios e à iluminação da via pública."
+  },
+  "d73a840afbe19113": {
+   "fragment_id": "Artigo 7.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nA Directiva 2000/55/CE é revogada com efeitos a partir de um ano a contar da data de entrada em vigor do presente regulamento."
+  },
+  "790fb6a38c909d0e": {
+   "fragment_id": "Artigo 8.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revisão\n\nO mais tardar 5 anos após a data de entrada em vigor do presente regulamento, a Comissão analisa o mesmo à luz do progresso tecnológico."
+  },
+  "3feae75fc9b45a37": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nOs requisitos definidos no anexo III são aplicáveis em conformidade com o calendário previsto no mesmo anexo.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 18 de Março de 2009.\n\n***Pela Comissão***\n\n**Andris PIEBALGS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "cf318510c29c422b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntc1-L_2009076PT.01001701-E0001) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntc2-L_2009076PT.01001701-E0002) [JO L 37 de 13.2.2003, p. 19](http://publications.europa.eu/resource/oj/JOL_2003_037_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/d086d73d-cf6e-4571-9b94-1e5104253276.0018.02/DOC_1#ntc3-L_2009076PT.01001701-E0003) [JO L 279 de 1.11.2000, p. 33](http://publications.europa.eu/resource/oj/JOL_2000_279_R_TOC)."
+  },
+  "80ad1bca9c82bb4d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0245 — PT — 01.09.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0245) [REGULAMENTO (CE) N.º 245/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0245) [de 18 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0245) [que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica das lâmpadas fluorescentes sem balastro integrado, das lâmpadas de descarga de alta intensidade e dos balastros e luminárias que podem funcionar com essas lâmpadas, e que revoga a Directiva 2000/55/CE do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32009R0245) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0245) (JO L 076, 24.3.2009, p.17)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/2020 da Comissão de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2020) — L 315 — 209 — 5.12.2019"
+  }
+ }
+}

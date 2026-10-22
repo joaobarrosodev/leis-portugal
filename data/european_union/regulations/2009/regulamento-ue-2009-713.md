@@ -36,6 +36,74 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-04'
+version_history:
+  file: regulamento-ue-2009-713.versoes.json
+  count: 3
+  source_lastmod: '2019-07-04'
+  versions:
+  - date: '2009-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-01'
+    amending: eu:celex:32013R0347:por
+    amending_title: REGULAMENTO (UE) N. o 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 4.º — Tipologia dos actos da Agência
+    - Altera Artigo 22.º — Taxas
+    - Altera Artigo 24.º — Execução e controlo orçamental
+    - Altera Artigo 26.º — Medidas antifraude
+    - Altera Artigo 30.º — Acesso aos documentos
+    - Altera Artigo 33.º — Regime linguístico
+    - Altera Artigo 35.º — Entrada em vigor e medidas transitórias
+    - Altera Notas
+  - date: '2019-07-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime CRIAÇÃO E ESTATUTO JURÍDICO
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Estatuto jurídico
+    - Suprime Artigo 3.º — Composição
+    - Suprime Artigo 4.º — Tipologia dos actos da Agência
+    - Suprime CAPÍTULO II
+    - Suprime FUNÇÕES
+    - Suprime Artigo 5.º — Funções de carácter geral
+    - Suprime Artigo 6.º — Funções relativas à cooperação dos operadores de redes de transporte
+    - Suprime Artigo 7.º — Funções relativas às entidades reguladoras nacionais
+    - Suprime Artigo 8.º — Tarefas relacionadas com termos e condições de acesso e de segurança de funcionamento da infra-estrutura
+      de ligação transfronteiriça
+    - Suprime Artigo 9.º — Outras funções
+    - Suprime Artigo 10.º — Consultas e transparência
+    - Suprime Artigo 11.º — Supervisão e informações sobre o sector da electricidade e do gás
+    - Suprime CAPÍTULO III
+    - Suprime ORGANIZAÇÃO
+    - Suprime Artigo 12.º — Conselho de Administração
+    - Suprime Artigo 13.º — Funções do Conselho de Administração
+    - Suprime Artigo 14.º — Conselho de Reguladores
+    - Suprime Artigo 15.º — Funções do Conselho de Reguladores
+    - Suprime Artigo 16.º — Director
+    - Suprime Artigo 17.º — Funções do Director
+    - Suprime Artigo 18.º — Câmara de Recurso
+    - Suprime Artigo 19.º — Recursos
+    - Suprime Artigo 20.º — Recursos para o Tribunal de Primeira Instância e para o Tribunal de Justiça
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES FINANCEIRAS
+    - Suprime Artigo 21.º — Orçamento da Agência
+    - Suprime Artigo 22.º — Taxas
+    - Suprime Artigo 23.º — Elaboração do orçamento
+    - Suprime Artigo 24.º — Execução e controlo orçamental
+    - Suprime Artigo 25.º — Disposições financeiras
+    - Suprime Artigo 26.º — Medidas antifraude
+    - Suprime CAPÍTULO V
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 27.º — Privilégios e imunidades
+    - Suprime Artigo 28.º — Pessoal
+    - Suprime Artigo 29.º — Responsabilidade da Agência
 identifiers:
   celex: 32009R0713
   eli: http://data.europa.eu/eli/reg/2009/713/oj
@@ -50,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c4a70612-f269-4044-a87f-69d11833b877.0019
   content_url: http://publications.europa.eu/resource/cellar/25bdcc01-a266-11e9-9d01-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0713-20190704
-  retrieved_at: '2026-10-22T03:14:46Z'
+  retrieved_at: '2026-10-22T15:43:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T18:17:30.709+02:00'
 integrity:
@@ -59,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:46Z'
-  notes: Texto consolidado 02009R0713-20190704.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:32Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2009-713.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,16 +220,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:46Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:43:32Z'
+  warnings: []
   errors: []
 ---
 

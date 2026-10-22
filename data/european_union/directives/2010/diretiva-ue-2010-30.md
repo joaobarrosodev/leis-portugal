@@ -37,6 +37,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-08-01'
+version_history:
+  file: diretiva-ue-2010-30.versoes.json
+  count: 3
+  source_lastmod: '2017-08-01'
+  versions:
+  - date: '2010-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-05'
+    amending: eu:celex:32012L0027:por
+    amending_title: Diretiva 2012/27/UE do Parlamento Europeu e do Conselho Texto relevante para efeitos do EEE de 25 de outubro
+      de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Responsabilidades dos fornecedores
+    - Altera Artigo 9.º — Contratos públicos e incentivos
+    - Altera Artigo 10.º — Actos delegados
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO II
+  - date: '2017-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Responsabilidades dos Estados-Membros
+    - Suprime Artigo 4.º — Requisitos de informação
+    - Suprime Artigo 5.º — Responsabilidades dos fornecedores
+    - Suprime Artigo 6.º — Responsabilidades dos distribuidores
+    - Suprime Artigo 7.º — Venda à distância e outras formas de venda
+    - Suprime Artigo 8.º — Livre circulação
+    - Suprime Artigo 9.º — Contratos públicos e incentivos
+    - Suprime Artigo 10.º — Actos delegados
+    - Suprime Artigo 11.º — Exercício da delegação
+    - Suprime Artigo 12.º — Revogação da delegação
+    - Suprime Artigo 13.º — Objecções aos actos delegados
+    - Suprime Artigo 14.º — Avaliação
+    - Suprime Artigo 15.º — Sanções
+    - Suprime Artigo 16.º — Transposição
+    - Suprime Artigo 17.º — Revogação
+    - Suprime Artigo 18.º — Entrada em vigor
+    - Suprime Artigo 19.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime PARTE A
+    - Suprime PARTE B
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32010L0030
   eli: http://data.europa.eu/eli/dir/2010/30/oj
@@ -51,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/679fb9fa-c6ea-4366-8a52-eed017a9a227.0018
   content_url: http://publications.europa.eu/resource/cellar/bf37ae45-eff7-4a65-9867-20a19474a9b8.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0030-20170801
-  retrieved_at: '2026-10-22T02:41:39Z'
+  retrieved_at: '2026-10-22T15:46:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T23:53:21.675+02:00'
 integrity:
@@ -60,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:39Z'
-  notes: Texto consolidado 02010L0030-20170801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:23Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2010-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -166,16 +219,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:39Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:46:23Z'
+  warnings: []
   errors: []
 ---
 

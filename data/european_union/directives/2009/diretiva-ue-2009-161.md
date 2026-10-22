@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-08-21'
+version_history:
+  file: diretiva-ue-2009-161.versoes.json
+  count: 2
+  source_lastmod: '2018-08-21'
+  versions:
+  - date: '2009-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-08-21'
+    amending: eu:celex:32017L0164:por
+    amending_title: DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Adita ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32009L0161
   eli: http://data.europa.eu/eli/dir/2009/161/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1943540f-fee8-430c-8b88-683b001e82df.0018
   content_url: http://publications.europa.eu/resource/cellar/1bb3d8e3-e842-4ab1-a472-ee6d1132c643.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0161-20180821
-  retrieved_at: '2026-10-22T02:52:45Z'
+  retrieved_at: '2026-10-22T15:40:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T18:55:33.070+02:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:45Z'
-  notes: Texto consolidado 02009L0161-20180821.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:35Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-161.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,28 +136,18 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:45Z'
+  checked_at: '2026-10-22T15:40:35Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/161/UE da Comissão, de 17 de Dezembro de 2009
-
-> 02009L0161 — PT — 21.08.2018 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L0164) — [DIRETIVA (UE) 2017/164 DA COMISSÃO Texto relevante para efeitos do EEE de 31 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017L0164) — L 27 — 115 — 1.2.2017
-
-## DIRECTIVA 2009/161/UE DA COMISSÃO
 
 de 17 de Dezembro de 2009
 

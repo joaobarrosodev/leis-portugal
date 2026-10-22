@@ -36,6 +36,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-01'
+version_history:
+  file: regulamento-ue-2010-995.versoes.json
+  count: 2
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2010-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Sistemas de diligência devida
+    - Altera Artigo 21.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 20.º
+    - Adita Monitorização da aplicação e acesso às informações
+    - Adita ANEXO
+    - Adita Madeira e produtos da madeira de acordo com a classificação da Nomenclatura Combinada estabelecida no anexo I
+      do Regulamento (CEE) n.º 2658/87 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f3fcb6ca-32eb-11ea-ba6e-01aa75ed71a1.0020.03/DOC_1#E0003)),
+      aos quais se aplica o presente regulamento
+    - Suprime Artigo 20.º — Relatórios
 identifiers:
   celex: 32010R0995
   eli: http://data.europa.eu/eli/reg/2010/995/oj
@@ -50,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1c367fc6-462a-40d8-bada-5e184cff5d4e.0005
   content_url: http://publications.europa.eu/resource/cellar/f3fcb6ca-32eb-11ea-ba6e-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0995-20200101
-  retrieved_at: '2026-10-22T02:48:20Z'
+  retrieved_at: '2026-10-22T15:48:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T21:38:20.811+02:00'
 integrity:
@@ -59,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:20Z'
-  notes: Texto consolidado 02010R0995-20200101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:32Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2010-995.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -186,29 +211,20 @@ relationships:
   date: '2023-06-09'
 article_structure:
   article_count: 21
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:20Z'
-  warnings: []
+  checked_at: '2026-10-22T15:48:32Z'
+  warnings:
+  - '02010R0995-20101202: versão indisponível (Sem expressão na língua por para CELEX 02010R0995-20101202.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 995/2010 do Parlamento Europeu e do Conselho, de 20 de Outubro de 2010
-
-> 02010R0995 — PT — 01.01.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-
-## REGULAMENTO (UE) N.º 995/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Outubro de 2010
 

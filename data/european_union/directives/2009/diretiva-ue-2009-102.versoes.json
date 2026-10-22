@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0102:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0102-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2009-10-01",
+   "future": false,
+   "celex": "32009L0102",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8e2d94072f0d2241",
+    "0fc9cd8b756c0de5",
+    "a27e89b07d33e26e",
+    "82269b0b9c955465",
+    "0879f4222d9ff9c8",
+    "c5b66bd28bf1b8d4",
+    "2c7ab74f19cff745",
+    "f64784dba63e9b74",
+    "b7c6a70cdef6c605",
+    "5e1240f4a218d63c",
+    "8274c0568cfc7157",
+    "f97d00dc722b02b8",
+    "b67ce5b0d2b5fdec"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02009L0102-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0024:por",
+     "title": "Diretiva 2013/24/UE do Conselho de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0024"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Formas de sociedades referidas no artigo 1.º",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "caec4dc0ff62773b",
+    "0fc9cd8b756c0de5",
+    "a27e89b07d33e26e",
+    "82269b0b9c955465",
+    "0879f4222d9ff9c8",
+    "c5b66bd28bf1b8d4",
+    "2c7ab74f19cff745",
+    "f64784dba63e9b74",
+    "b7c6a70cdef6c605",
+    "5e1240f4a218d63c",
+    "8274c0568cfc7157",
+    "ce9fa090e4baa8eb",
+    "d664376e2a8dcecd",
+    "b83134a1e865c31a",
+    "852174729551523b",
+    "f098bdafd7b9a500",
+    "4e8b013a602a13b0",
+    "6899bfd63f3b8aa0",
+    "f73a01633db8f200"
+   ]
+  }
+ ],
+ "fragments": {
+  "8e2d94072f0d2241": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro de 2009\n\nem matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 44.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr1-L_2009258PT.01002001-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr2-L_2009258PT.01002001-E0002),\n\nConsiderando o seguinte:\n\n(1) A Décima Segunda Directiva 89/667/CEE do Conselho, de 21 de Dezembro de 1989, em matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio [([^3])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr3-L_2009258PT.01002001-E0003), foi por diversas vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr4-L_2009258PT.01002001-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) É necessário coordenar, de modo a torná-las equivalentes em toda a Comunidade, determinadas garantias que são exigidas, nos Estados-Membros, às sociedades, na acepção do segundo parágrafo do artigo 48.º do Tratado, a fim de proteger os interesses tanto dos sócios como de terceiros.\n\n(3) Neste domínio, por um lado, a Primeira Directiva 68/151/CEE do Conselho, de 9 de Março de 1968, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade [([^5])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr5-L_2009258PT.01002001-E0005), a Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no artigo 54.º, n.º 3, alínea g), do Tratado e relativa às contas anuais de certas formas de sociedades [([^6])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr6-L_2009258PT.01002001-E0006), e a Sétima Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas consolidadas [([^7])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr7-L_2009258PT.01002001-E0007), relativas à publicidade, validade das obrigações e invalidade da sociedade, bem como às contas anuais e às contas consolidadas, são aplicáveis ao conjunto das sociedades de capitais. Por outro, a Segunda Directiva 77/91/CEE do Conselho, de 13 de Dezembro de 1976, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalentes essas garantias em toda a Comunidade [([^8])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr8-L_2009258PT.01002001-E0008), a Terceira Directiva 78/855/CEE do Conselho, de 9 de Outubro de 1978, fundada na alínea g) do n.º 3, do artigo 54.º, do Tratado e relativa à fusão das sociedades anónimas [([^9])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr9-L_2009258PT.01002001-E0009), e a Sexta Directiva 82/891/CEE do Conselho, de 17 de Dezembro de 1982, fundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas [([^10])](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntr10-L_2009258PT.01002001-E0010), relativas à constituição e ao capital, bem como às fusões e às cisões, só são aplicáveis às sociedades anónimas.\n\n(4) É necessário um instrumento jurídico que permita a limitação da responsabilidade do empresário individual, em toda a Comunidade, sem prejuízo das legislações dos Estados-Membros que, em casos excepcionais, imponham a responsabilidade desse empresário relativamente às obrigações da empresa.\n\n(5) Uma sociedade de responsabilidade limitada pode ter um único sócio no momento da sua constituição, ou então por força da reunião de todas as partes sociais numa só pessoa. Enquanto se aguarda a coordenação das disposições nacionais em matéria de direito dos grupos, os Estados-Membros podem prever certas disposições especiais, ou sanções, aplicáveis no caso de uma pessoa singular ser o único sócio de diversas sociedades ou quando uma sociedade unipessoal ou qualquer outra pessoa colectiva for o único sócio de uma sociedade. O único objectivo desta faculdade é atender às particularidades existentes em determinadas legislações nacionais. Os Estados-Membros podem, para esse efeito, e em relação a casos específicos, prever restrições ao acesso à sociedade unipessoal ou a responsabilidade ilimitada do sócio único. Os Estados-Membros são livres de estabelecer regras para enfrentar os riscos que a sociedade unipessoal pode apresentar devido à existência de um único sócio, designadamente para garantir a liberação do capital subscrito.\n\n(6) A reunião de todas as partes sociais numa única pessoa, bem como a identidade do único sócio, deverão ser objecto de publicidade num registo acessível ao público.\n\n(7) As decisões adoptadas pelo sócio único, na qualidade de assembleia geral de sócios, devem assumir a forma escrita.\n\n(8) A forma escrita deverá ser igualmente exigida para os contratos celebrados entre o sócio único e a sociedade por ele representada, desde que esses contratos não digam respeito a operações correntes celebradas em condições normais.\n\n(9) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "0fc9cd8b756c0de5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs medidas de coordenação prescritas pela presente directiva aplicam-se às disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas às formas de sociedade constantes do anexo I."
+  },
+  "a27e89b07d33e26e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A sociedade pode ter um sócio único no momento da sua constituição, bem como por força da reunião de todas as partes sociais numa única pessoa (sociedade unipessoal).\n\n2. Enquanto se aguarda uma coordenação das disposições nacionais em matéria de direito dos grupos, as legislações dos Estados-Membros podem prever disposições especiais ou sanções aplicáveis:\n\na) Quando uma pessoa singular for o sócio único de várias sociedades; ou\n\nb) Quando uma sociedade unipessoal ou qualquer pessoa colectiva for o sócio único de uma sociedade."
+  },
+  "82269b0b9c955465": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQuando a sociedade se torne unipessoal por força da reunião de todas as partes sociais numa única pessoa, tal facto, bem como a identidade do sócio único, deve ou ser indicado no processo ou transcrito no registo, referidos nos n.^os^ 1 e 2 do artigo 3.º da Directiva 68/151/CEE, ou ser transcrito em registo mantido na sociedade e acessível ao público."
+  },
+  "0879f4222d9ff9c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O sócio único exerce os poderes atribuídos à assembleia geral de sócios.\n\n2. As decisões adoptadas pelo sócio único no domínio a que se refere o n.º 1 devem ser lavradas em acta ou assumir a forma escrita."
+  },
+  "c5b66bd28bf1b8d4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os contratos celebrados entre o sócio único e a sociedade por ele representada devem ser lavrados em acta ou assumir a forma escrita.\n\n2. Os Estados-Membros podem decidir não aplicar o disposto no n.º 1 às operações correntes celebradas em condições normais."
+  },
+  "2c7ab74f19cff745": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs disposições da presente directiva são aplicáveis nos Estados-Membros que permitam a existência de sociedades unipessoais, na acepção do n.º 1 do artigo 2.º, também em relação às sociedades anónimas."
+  },
+  "f64784dba63e9b74": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nUm Estado-Membro pode decidir não permitir a existência de sociedades unipessoais no caso de a sua legislação prever a possibilidade de o empresário individual constituir uma empresa de responsabilidade limitada com um património afecto a uma determinada actividade desde que, no que se refere a essas empresas, se prevejam garantias equivalentes às impostas pela presente directiva bem como pelas outras disposições comunitárias aplicáveis às sociedades referidas no artigo 1.º"
+  },
+  "b7c6a70cdef6c605": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "5e1240f4a218d63c": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ revogada a Directiva 89/667/CEE, com a redacção que lhe foi dada pelos actos referidos na parte A do anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "8274c0568cfc7157": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "f97d00dc722b02b8": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 16 de Setembro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "b67ce5b0d2b5fdec": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc1-L_2009258PT.01002001-E0001) [JO C 77 de 31.3.2009, p. 42](http://publications.europa.eu/resource/oj/JOC_2009_077_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc2-L_2009258PT.01002001-E0002) Parecer do Parlamento Europeu de 18 de Novembro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 13 de Julho de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc3-L_2009258PT.01002001-E0003) [JO L 395 de 30.12.1989, p. 40](http://publications.europa.eu/resource/oj/JOL_1989_395_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc4-L_2009258PT.01002001-E0004) Ver parte A do anexo II.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc5-L_2009258PT.01002001-E0005) [JO L 65 de 14.3.1968, p. 8](http://publications.europa.eu/resource/oj/JOL_1968_065_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc6-L_2009258PT.01002001-E0006) [JO L 222 de 14.8.1978, p. 11](http://publications.europa.eu/resource/oj/JOL_1978_222_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc7-L_2009258PT.01002001-E0007) [JO L 193 de 18.7.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_193_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc8-L_2009258PT.01002001-E0008) [JO L 26 de 31.1.1977, p. 1](http://publications.europa.eu/resource/oj/JOL_1977_026_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc9-L_2009258PT.01002001-E0009) [JO L 295 de 20.10.1978, p. 36](http://publications.europa.eu/resource/oj/JOL_1978_295_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/9d3a9378-f20d-4e03-b097-6f1bd977b417.0018.02/DOC_1#ntc10-L_2009258PT.01002001-E0010) [JO L 378 de 31.12.1982, p. 47](http://publications.europa.eu/resource/oj/JOL_1982_378_R_TOC)."
+  },
+  "caec4dc0ff62773b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro de 2009\n\nem matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 44.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0001)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0002)),\n\n(1) A Décima Segunda Directiva 89/667/CEE do Conselho, de 21 de Dezembro de 1989, em matéria de direito das sociedades relativa às sociedades de responsabilidade limitada com um único sócio ([^3^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0003)), foi por diversas vezes alterada de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) É necessário coordenar, de modo a torná-las equivalentes em toda a Comunidade, determinadas garantias que são exigidas, nos Estados-Membros, às sociedades, na acepção do segundo parágrafo do artigo 48.º do Tratado, a fim de proteger os interesses tanto dos sócios como de terceiros.\n\n(3) Neste domínio, por um lado, a Primeira Directiva 68/151/CEE do Conselho, de 9 de Março de 1968, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, a fim de tornar equivalentes essas garantias em toda a Comunidade ([^5^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0005)), a Quarta Directiva 78/660/CEE do Conselho, de 25 de Julho de 1978, baseada no artigo 54.º, n.º 3, alínea g), do Tratado e relativa às contas anuais de certas formas de sociedades ([^6^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0006)), e a Sétima Directiva 83/349/CEE do Conselho, de 13 de Junho de 1983, baseada no n.º 3, alínea g), do artigo 54.º do Tratado e relativa às contas consolidadas ([^7^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0007)), relativas à publicidade, validade das obrigações e invalidade da sociedade, bem como às contas anuais e às contas consolidadas, são aplicáveis ao conjunto das sociedades de capitais. Por outro, a Segunda Directiva 77/91/CEE do Conselho, de 13 de Dezembro de 1976, tendente a coordenar as garantias que, para protecção dos interesses dos sócios e de terceiros, são exigidas nos Estados-Membros às sociedades, na acepção do segundo parágrafo do artigo 58.º do Tratado, no que respeita à constituição da sociedade anónima, bem como à conservação e às modificações do seu capital social, a fim de tornar equivalentes essas garantias em toda a Comunidade ([^8^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0008)), a Terceira Directiva 78/855/CEE do Conselho, de 9 de Outubro de 1978, fundada na alínea g) do n.º 3, do artigo 54.º, do Tratado e relativa à fusão das sociedades anónimas ([^9^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0009)), e a Sexta Directiva 82/891/CEE do Conselho, de 17 de Dezembro de 1982, fundada no n.º 3, alínea g), do artigo 54.º do Tratado, relativa às cisões de sociedades anónimas ([^10^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#E0010)), relativas à constituição e ao capital, bem como às fusões e às cisões, só são aplicáveis às sociedades anónimas.\n\n(4) É necessário um instrumento jurídico que permita a limitação da responsabilidade do empresário individual, em toda a Comunidade, sem prejuízo das legislações dos Estados-Membros que, em casos excepcionais, imponham a responsabilidade desse empresário relativamente às obrigações da empresa.\n\n(5) Uma sociedade de responsabilidade limitada pode ter um único sócio no momento da sua constituição, ou então por força da reunião de todas as partes sociais numa só pessoa. Enquanto se aguarda a coordenação das disposições nacionais em matéria de direito dos grupos, os Estados-Membros podem prever certas disposições especiais, ou sanções, aplicáveis no caso de uma pessoa singular ser o único sócio de diversas sociedades ou quando uma sociedade unipessoal ou qualquer outra pessoa colectiva for o único sócio de uma sociedade. O único objectivo desta faculdade é atender às particularidades existentes em determinadas legislações nacionais. Os Estados-Membros podem, para esse efeito, e em relação a casos específicos, prever restrições ao acesso à sociedade unipessoal ou a responsabilidade ilimitada do sócio único. Os Estados-Membros são livres de estabelecer regras para enfrentar os riscos que a sociedade unipessoal pode apresentar devido à existência de um único sócio, designadamente para garantir a liberação do capital subscrito.\n\n(6) A reunião de todas as partes sociais numa única pessoa, bem como a identidade do único sócio, deverão ser objecto de publicidade num registo acessível ao público.\n\n(7) As decisões adoptadas pelo sócio único, na qualidade de assembleia geral de sócios, devem assumir a forma escrita.\n\n(8) A forma escrita deverá ser igualmente exigida para os contratos celebrados entre o sócio único e a sociedade por ele representada, desde que esses contratos não digam respeito a operações correntes celebradas em condições normais.\n\n(9) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e de aplicação das directivas, indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "ce9fa090e4baa8eb": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "b83134a1e865c31a": {
+   "fragment_id": "Formas de sociedades referidas no artigo 1.º",
+   "type": "divisao",
+   "heading": "Formas de sociedades referidas no artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formas de sociedades referidas no artigo 1.º\n\n— *no que se refere à Bélgica:*\n\n— société privée à responsabilité limitée/besloten vennootschap met beperkte aansprakelijkheid,\n\n— *no que se refere à Bulgária:*\n\n— дружество с ограничена отговорност, акционерно дружество,\n\n— *no que se refere à República Checa:*\n\n— společnost s ručením omezeným,\n\n— *no que se refere à Dinamarca:*\n\n— anpartsselskaber,\n\n— *no que se refere à Alemanha:*\n\n— Gesellschaft mit beschränkter Haftung,\n\n— *no que se refere à Estónia:*\n\n— aktsiaselts, osaühing,\n\n— *no que se refere à Irlanda:*\n\n— private company limited by shares or by guarantee,\n\n— *no que se refere à Grécia:*\n\n— εταιρεία περιορισμένης ευθύνης,\n\n— *no que se refere a Espanha:*\n\n— sociedad de responsabilidad limitada,\n\n— *no que se refere a França:*\n\n— société à responsabilité limitée,\n\n— *no que se refere à Croácia:*\n\n— društvo s ograničenom odgovornošću, dioničko društvo,\n\n— *no que se refere a Itália:*\n\n— società a responsabilità limitata,\n\n— *no que se refere a Chipre:*\n\n— Ιδιωτική εταιρεία περιορισμένης ευθύνης με μετοχές ή με εγγύηση,\n\n— *no que se refere à Letónia:*\n\n— sabiedrība ar ierobežotu atbildību,\n\n— *no que se refere à Lituânia:*\n\n— uždaroji akcinė bendrovė,\n\n— *no que se refere ao Luxemburgo:*\n\n— société à responsabilité limitée,\n\n— *no que se refere à Hungria:*\n\n— korlátolt felelősségű társaság, részvénytársaság,\n\n— *no que se refere a Malta:*\n\n— kumpannija privata/private limited liability company,\n\n— *no que se refere aos Países Baixos:*\n\n— besloten vennootschap met beperkte aansprakelijkheid,\n\n— *no que se refere à Áustria:*\n\n— Aktiengesellschaft, Gesellschaft mit beschränkter Haftung,\n\n— *no que se refere à Polónia:*\n\n— spółka z ograniczoną odpowiedzialnością,\n\n— *no que se refere a Portugal:*\n\n— sociedade por quotas,\n\n— *no que se refere à Roménia:*\n\n— societate cu răspundere limitată,\n\n— *no que se refere à Eslovénia:*\n\n— družba z omejeno odgovornostjo,\n\n— *no que se refere à Eslováquia:*\n\n— spoločnosť s ručením obmedzeným,\n\n— *no que se refere à Finlândia:*\n\n— osakeyhtiö/aktiebolag,\n\n— *no que se refere à Suécia:*\n\n— aktiebolag,\n\n— *no que se refere ao Reino Unido:*\n\n— private company limited by shares or by guarantee."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f098bdafd7b9a500": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 89/667/CEE do Conselho (JO L 395 de 30.12.1989, p. 40).\n\nAnexo I, ponto XI.A do Acto de Adesão de 1994 (JO C 241 de 29.8.1994, p. 194).\n\nAnexo II, ponto 4.A do Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 338).\n\nDirectiva 2006/99/CE do Conselho (JO L 363 de 20.12.2006, p. 137). apenas o ponto A.4 do anexo"
+  },
+  "4e8b013a602a13b0": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\n| Directiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 89/667/CEE | 31 de Dezembro de 1991 | O mais tardar a 1 de Janeiro de 1993 no que se refere às sociedades já existentes em 1 de Janeiro de 1992 |\n| 2006/99/CE | 1 de Janeiro de 2007 |  |"
+  },
+  "6899bfd63f3b8aa0": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 89/667/CEE Presente directiva\n\nArtigo 1.º, proémio Artigo 1.º\n\nArtigo 1.º, primeiro travessão a vigésimo sétimo travessão Anexo I\n\nArtigos 2.º a 7.º Artigos 2.º a 7.º\n\nArtigo 8.º, n.º 1 —\n\nArtigo 8.º, n.º 2 —\n\nArtigo 8.º, n.º 3 Artigo 8.º\n\n— Artigo 9.º\n\n— Artigo 10.º\n\nArtigo 9.º Artigo 11.º\n\n— Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "f73a01633db8f200": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO C 77 de 31.3.2009, p. 42.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 18 de Novembro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 13 de Julho de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0003)) JO L 395 de 30.12.1989, p. 40.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0004)) Ver parte A do anexo II.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0005)) JO L 65 de 14.3.1968, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0006)) JO L 222 de 14.8.1978, p. 11.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0007)) JO L 193 de 18.7.1983, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0008)) JO L 26 de 31.1.1977, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0009)) JO L 295 de 20.10.1978, p. 36.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/608829df-e1c5-11e3-8cd4-01aa75ed71a1.0015.02/DOC_1#src.E0010)) JO L 378 de 31.12.1982, p. 47."
+  }
+ }
+}

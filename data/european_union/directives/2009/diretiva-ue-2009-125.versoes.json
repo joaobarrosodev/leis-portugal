@@ -1,0 +1,802 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0125:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0125-20121204",
+ "dre_path": null,
+ "source_lastmod": "2012-12-04",
+ "versions": [
+  {
+   "date": "2009-10-31",
+   "future": false,
+   "celex": "32009L0125",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "862fa95dce7358b1",
+    "907a7718165602aa",
+    "2d24384c21ae64dd",
+    "e5d49b9d7aac613b",
+    "3e8597957c8ef7d4",
+    "4b3f42031bb6a4fa",
+    "112e2b641ebc9b6c",
+    "e1b2899059980127",
+    "b41b5eaeea07ae73",
+    "51d33ded56f90ff8",
+    "27ffb5ca99b0ae40",
+    "783ea8307f734ac1",
+    "7a7dbe6f0572d18d",
+    "ceb9446f2d6d1e7c",
+    "7da247e4ca8e0d5b",
+    "a66eb95d48addf03",
+    "f58a40d8b9de4bad",
+    "907d6d4b1216a6ed",
+    "6a138611f2926299",
+    "fda23ac3f7d7f041",
+    "c229a55867c9e3d0",
+    "ecd90a8f91b2ea0e",
+    "be95b38067d8e682",
+    "2b5a9f4d506c4c73",
+    "b0370dbbe13e3297",
+    "bc9df3d40c210283",
+    "308d0876db42a245",
+    "4de903df1532bcbc"
+   ]
+  },
+  {
+   "date": "2012-12-04",
+   "future": false,
+   "celex": "02009L0125-20121204",
+   "acts": [
+    {
+     "id": "eu:celex:32012L0027:por",
+     "title": "DIRETIVA 2012/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012",
+     "published": null,
+     "celex": "32012L0027"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 6.º — Livre circulação",
+    "Altera Artigo 8.º — Avaliação da conformidade",
+    "Altera Artigo 15.º — Medidas de execução",
+    "Altera Artigo 26.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Método de fixação dos requisitos genéricos de concepção ecológica",
+    "Adita (a que se refere o n.º 6 do artigo 15.º)",
+    "Adita Parte 1. Parâmetros de concepção ecológica para os produtos",
+    "Adita Parte 2. Requisitos referentes à prestação de informações",
+    "Adita Parte 3. Requisitos relativos ao fabricante",
+    "Adita ANEXO II",
+    "Adita Método de fixação dos requisitos específicos de concepção ecológica",
+    "Adita ANEXO III",
+    "Adita Marcação CE",
+    "Adita (a que se refere o n.º 2 do artigo 5.º)",
+    "Adita ANEXO IV",
+    "Adita Controlo interno da concepção",
+    "Adita (a que se refere o n.º 2 do artigo 8.º)",
+    "Adita ANEXO V",
+    "Adita Sistema de gestão para avaliação da conformidade",
+    "Adita ANEXO VI",
+    "Adita Declaração CE de conformidade",
+    "Adita (a que se refere o n.º 3 do artigo 5.º)",
+    "Adita ANEXO VII",
+    "Adita Conteúdo das medidas de execução",
+    "Adita (a que se refere o n.º 8 do artigo 15.º)",
+    "Adita ANEXO VIII",
+    "Adita Auto-Regulação",
+    "Adita (a que se refere o artigo 17.º)",
+    "Adita 1. Participação aberta",
+    "Adita 2. Valor acrescentado",
+    "Adita 3. Representatividade",
+    "Adita 4. Objectivos quantificados e faseados",
+    "Adita 5. Participação da sociedade civil",
+    "Adita 6. Vigilância e informação",
+    "Adita 7. Rentabilidade derivada da iniciativa de auto-regulação",
+    "Adita 8. Sustentabilidade",
+    "Adita 9. Compatibilidade dos incentivos",
+    "Adita ANEXO IX",
+    "Adita PARTE A",
+    "Adita PARTE B",
+    "Adita ANEXO X"
+   ],
+   "fragments": [
+    "446ed42fdcb7e7ae",
+    "907a7718165602aa",
+    "b21f2aa457d127c3",
+    "4e7f5e2b99d114b1",
+    "3e8597957c8ef7d4",
+    "4b3f42031bb6a4fa",
+    "adc0dad1a2cce1e4",
+    "bfffbd8cb0f66316",
+    "09f3e7ac2b5b5c95",
+    "51d33ded56f90ff8",
+    "27ffb5ca99b0ae40",
+    "783ea8307f734ac1",
+    "7a7dbe6f0572d18d",
+    "ceb9446f2d6d1e7c",
+    "7da247e4ca8e0d5b",
+    "e391840a6609c395",
+    "faefe90b80712680",
+    "907d6d4b1216a6ed",
+    "6a138611f2926299",
+    "fda23ac3f7d7f041",
+    "c229a55867c9e3d0",
+    "ecd90a8f91b2ea0e",
+    "be95b38067d8e682",
+    "2b5a9f4d506c4c73",
+    "b0370dbbe13e3297",
+    "bc9df3d40c210283",
+    "2ce7e709412f0fd7",
+    "d664376e2a8dcecd",
+    "91f1fd3a3d5ddea8",
+    "f54c42161cf7ec9c",
+    "f79f2eb339de5a5d",
+    "f47f2530b0a72007",
+    "3b25351d49fbb0d9",
+    "852174729551523b",
+    "a13bd5841ae924e4",
+    "9b515afdb76823ac",
+    "720af75c92791b10",
+    "e2d5c93633c3c4fb",
+    "0b7f4d10d948fc0e",
+    "e03a0eb4d5b2eef3",
+    "9b5e362d840697f2",
+    "02b2be00e7ff4042",
+    "64610ae29a6cb67c",
+    "db01ed14ef0de22f",
+    "42d9009d98290b62",
+    "90c7d2baf4d44ee2",
+    "5897d91a1928fb25",
+    "b240331759ee7a09",
+    "d46ca50274582635",
+    "458a28ee1c156b7e",
+    "83552acb330add8a",
+    "1b41b51ec3248d43",
+    "81d5f8d9d6295e36",
+    "9f4d1aecd3741b40",
+    "de9eece6055c554d",
+    "1b022c104798c68e",
+    "d33a6ab92b9954c2",
+    "d964f7f9425f19f7",
+    "b5e2c626c1f16952",
+    "f9f5bb06c9fb9b2c",
+    "6651c7d22ae455aa",
+    "efed7eddea11670e",
+    "4c9e58af8d7cc044",
+    "953641e58475eff6",
+    "2579d25b04378dfa",
+    "e7257aaea3591dae",
+    "f0d16828a20ed53b",
+    "9cb35c40b67f2903"
+   ]
+  }
+ ],
+ "fragments": {
+  "862fa95dce7358b1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nrelativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos relacionados com o consumo de energia\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr1-L_2009285PT.01001001-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr2-L_2009285PT.01001001-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia [([^3])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr3-L_2009285PT.01001001-E0003), foi alterada de modo substancial. Uma vez que são necessárias novas alterações (que se limitam rigorosamente à extensão do âmbito de aplicação da referida directiva, a fim de incluir todos os produtos relacionados com o consumo de energia) deverá proceder-se, por razões de clareza, à reformulação da referida directiva.\n\n(2) As disparidades entre a legislação ou as medidas administrativas adoptadas pelos Estados-Membros no que se refere à concepção ecológica dos produtos relacionados com o consumo de energia podem criar entraves ao comércio e distorcer a concorrência na Comunidade, sendo portanto susceptíveis de impacto directo na realização e no funcionamento do mercado interno. A harmonização das legislações nacionais é o único meio de evitar este tipo de entraves ao comércio e a concorrência desleal. O alargamento do âmbito de aplicação a todos os produtos relacionados com o consumo de energia assegura a harmonização, a nível comunitário, dos requisitos de concepção ecológica para todos os produtos cujo impacto no consumo de energia seja significativo.\n\n(3) Os produtos relacionados com o consumo de energia são responsáveis por uma grande parte do consumo de recursos naturais e de energia na Comunidade. Têm também alguns outros impactos significativos a nível ambiental. Relativamente à grande maioria das categorias de produtos disponíveis no mercado comunitário, podem verificar-se graus de impacto ambiental muito diferentes, ainda que o seu desempenho funcional seja semelhante. A bem do desenvolvimento sustentável, deverá ser incentivada a contínua melhoria do impacto ambiental global destes produtos, nomeadamente mediante a identificação das principais fontes de impactos negativos no ambiente e mediante esforços para evitar toda e qualquer transferência de poluição, desde que essa melhoria não implique custos excessivos.\n\n(4) Muitos dos produtos relacionados com o consumo de energia podem ser significativamente melhorados para reduzir os impactos ambientais e realizar poupanças de energia, através da melhoria da sua concepção, o que leva em simultâneo a uma economia de custos para as empresas e os consumidores finais. Para além dos produtos que utilizam, geram, transferem ou medem energia, certos produtos relacionados com o consumo de energia, incluindo produtos utilizados na construção tais como janelas, materiais de isolamento ou dispositivos de consumo de água tais como os chuveiros ou as torneiras também poderiam contribuir para significativas poupanças de energia durante a utilização.\n\n(5) A concepção ecológica dos produtos constitui um elemento essencial da estratégia comunitária para a política integrada dos produtos. Sendo uma abordagem preventiva, que visa optimizar o desempenho ambiental dos produtos, ao mesmo tempo que conserva as respectivas características funcionais, apresenta novas e efectivas oportunidades para o fabricante, o consumidor e a sociedade em geral.\n\n(6) A melhoria da eficiência energética – de que uma das opções disponíveis consiste na utilização final mais eficiente da electricidade – é considerada um contributo importante para a realização dos objectivos de redução das emissões de gases com efeito de estufa na Comunidade. A procura de electricidade constitui a categoria de utilização final de energia que regista a expansão mais rápida, apontando as projecções para que essa procura aumente dentro dos próximos 20 a 30 anos, na falta de uma acção política destinada a contrariar esta tendência. É possível uma redução significativa do consumo de energia, tal como sugere a Comissão no Programa Europeu para as Alterações Climáticas (PEAC). As alterações climáticas constituem uma das prioridades do Sexto Programa Comunitário de Acção em matéria de Ambiente estabelecido pela Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr4-L_2009285PT.01001001-E0004). A poupança de energia representa o meio mais eficaz, em termos de custos, para melhorar a segurança do abastecimento e reduzir a dependência das importações. Importa, por conseguinte, adoptar medidas substanciais e objectivos ao nível da procura.\n\n(7) Deverá agir-se na fase de concepção do produto, já que é aí que a poluição originada no seu ciclo de vida é determinada e que a maior parte dos custos surgem.\n\n(8) Deverá ser instituído um quadro de aplicação dos requisitos comunitários de concepção ecológica para os produtos relacionados com o consumo de energia, a fim de garantir a livre circulação dos produtos que cumpram esses requisitos e de melhorar o seu impacto ambiental global. Os referidos requisitos comunitários deverão respeitar os princípios da concorrência leal e do comércio internacional.\n\n(9) Os requisitos em matéria de concepção ecológica deverão ser fixados tendo em conta os objectivos e as prioridades do Sexto Programa Comunitário de Acção em matéria de Ambiente, incluindo, conforme adequado, os objectivos aplicáveis das estratégias temáticas relevantes daquele programa.\n\n(10) A presente directiva procura atingir um elevado nível de protecção do ambiente, mediante a redução do potencial impacto ambiental dos produtos relacionados com o consumo de energia, que beneficiará, em última análise, os consumidores e outros utilizadores finais. O desenvolvimento sustentável exige também que se dê a devida atenção ao impacto sobre a saúde e ao impacto social e económico das medidas previstas. A melhoria da eficiência energética dos produtos e da eficiência na utilização dos recursos contribui para a segurança do fornecimento de energia e para a redução da procura de recursos naturais, condições prévias de toda a actividade económica sã e, portanto, do desenvolvimento sustentável.\n\n(11) Os Estados-Membros que entendam necessário manter disposições legais nacionais, justificadas por razões imperativas relacionadas com a protecção do meio ambiente, ou introduzir novas disposições baseadas em novos dados científicos relativos à protecção do meio ambiente e justificados por problemas específicos desses Estados-Membros surgidos posteriormente à adopção da medida de execução aplicável, poderão fazê-lo, desde que o façam nas condições estabelecidas nos n.^os^ 4, 5 e 6 do artigo 95.º do Tratado, que prevêem a notificação prévia e a aprovação da Comissão.\n\n(12) A fim de maximizar os benefícios ambientais de uma concepção melhorada, pode revelar-se necessário informar os consumidores acerca das características e do desempenho ambientais dos produtos relacionados com o consumo de energia e aconselhá-los sobre o modo de os utilizar de forma favorável ao ambiente.\n\n(13) A abordagem consagrada na Comunicação da Comissão de 18 de Junho de 2003, intitulada Política integrada de produtos — Desenvolvimento de uma reflexão ambiental centrada no ciclo de vida, que constitui um elemento inovador fundamental do Sexto Programa Comunitário de Acção em matéria de Ambiente, visa reduzir os impactos ambientais dos produtos ao longo do seu ciclo de vida, incluindo a selecção e utilização da matéria-prima, produção, embalagem, transporte e distribuição, instalação e manutenção, utilização e fim de vida. A avaliação, na fase de concepção, do impacto ambiental de um produto ao longo de todo o seu ciclo de vida poderá facilitar fortemente a melhoria do desempenho ambiental de um modo rentável, incluindo em termos de eficiência de recursos e materiais, e cumprir, por conseguinte, os objectivos da Estratégia Temática sobre o Uso Sustentável de Recursos Naturais. Deverá existir flexibilidade suficiente de maneira a permitir a integração destes factores na concepção dos produtos, atendendo também a considerações técnicas, funcionais e económicas.\n\n(14) Embora seja desejável uma abordagem global do desempenho ambiental, a redução das emissões de gases com efeito de estufa através de uma melhoria da eficiência energética deverá ser considerada o objectivo ambiental prioritário a alcançar enquanto não for adoptado um plano de trabalho.\n\n(15) Pode revelar-se necessário e justificado fixar requisitos específicos quantificados de concepção ecológica relativamente a alguns produtos ou aos seus aspectos ambientais, a fim de garantir a minimização do seu impacto ambiental. Dada a necessidade urgente de contribuir para que se atinjam os compromissos assumidos no âmbito do Protocolo de Quioto da Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas, e sem prejuízo da abordagem integrada promovida na presente directiva, deveria ser dada alguma prioridade às medidas com elevado potencial de redução das emissões de gases com efeito de estufa, a custo reduzido. Essas medidas podem também contribuir para uma utilização sustentável de recursos e constituir um contributo fundamental para os programas-quadro decenais relativos à produção e ao consumo sustentáveis, acordados na Cimeira Mundial sobre Desenvolvimento Sustentável de Joanesburgo, de 26 de Agosto a 4 de Setembro de 2002.\n\n(16) Como princípio geral e sempre que adequado, o consumo de energia dos produtos relacionados com o consumo de energia em estado de vigília ou desactivados deverá ser reduzido ao mínimo necessário para o seu funcionamento normal.\n\n(17) Tomando como referência os produtos ou tecnologias mais eficazes disponíveis no mercado, incluindo nos mercados internacionais, o nível dos requisitos de concepção ecológica deverá ser fixado com base em análises técnicas, económicas e ambientais. A flexibilidade do método de fixação do nível dos requisitos pode facilitar de forma mais célere a melhoria do desempenho ambiental. Os interessados envolvidos deverão ser consultados e cooperar activamente na análise. O estabelecimento de medidas obrigatórias carece da consulta adequada das partes envolvidas. Esta consulta pode revelar a necessidade de uma introdução faseada ou de medidas transitórias. A introdução de objectivos intercalares aumenta a previsibilidade da política, permite integrar o ciclo de desenvolvimento dos produtos e facilita o planeamento de longo prazo dos interessados.\n\n(18) Deverá ser dada prioridade a uma acção alternativa, tal como a auto-regulação do sector, sempre que esta acção permitir que os objectivos sejam cumpridos de forma mais rápida ou mais económica que os requisitos obrigatórios. As medidas legislativas podem ser necessárias nos casos em que as forças do mercado não consigam evoluir na direcção correcta ou a uma velocidade aceitável.\n\n(19) A auto-regulação, incluindo tanto acordos voluntários propostos como compromissos unilaterais assumidos pelo sector, pode permitir progressos acelerados por força de uma aplicação rápida e eficiente em termos de custos, bem como uma adaptação flexível e ajustada às opções tecnológicas e à sensibilidade do mercado.\n\n(20) Para a avaliação dos acordos voluntários ou de outras medidas de auto-regulação apresentadas como alternativas às medidas de execução, deverá dispor-se de informação pelo menos sobre os seguintes aspectos: participação aberta, valor acrescentado, representatividade, objectivos quantificados e faseados, participação da sociedade civil, vigilância e informação, rentabilidade derivada da iniciativa de auto-regulação e sustentabilidade.\n\n(21) A Comunicação da Comissão, de 17 de Fevereiro de 2002, intitulada «Acordos Ambientais a nível comunitário no âmbito do Plano de Acção sobre a Simplificação e Melhoria do Enquadramento Regulamentar» poderá dar orientações úteis na avaliação da auto-regulação da indústria no contexto da presente directiva.\n\n(22) A presente directiva deverá igualmente favorecer a integração do conceito de concepção ecológica ao nível das pequenas e médias empresas (PME) e das microempresas. Essa integração poderá ser facilitada pela ampla disponibilidade e fácil acesso à informação relacionada com a sustentabilidade dos seus produtos.\n\n(23) Os produtos relacionados com o consumo de energia que cumpram os requisitos de concepção ecológica instituídos em medidas de execução da presente directiva deverão ostentar a marcação «CE» e informação associada, de modo a permitir a sua colocação no mercado interno e a sua livre circulação. É necessária a rigorosa aplicação de medidas de execução para garantir a redução do impacto ambiental dos produtos regulamentados, bem como uma concorrência leal.\n\n(24) Ao preparar as medidas de execução e um plano de trabalho, a Comissão deverá consultar os representantes dos Estados-Membros, bem como os interessados relacionadas com o grupo de produtos, como, por exemplo, a indústria, incluindo as PME e o artesanato, os sindicatos, os comerciantes, os retalhistas, os importadores, os grupos de protecção ambiental e as organizações de consumidores.\n\n(25) Ao preparar as medidas de execução, a Comissão também deverá ter na devida conta a legislação nacional em vigor em matéria de protecção ambiental que os Estados-Membros tenham indicado que deverá ser mantida, em especial no que diz respeito às substâncias tóxicas, sem reduzir os actuais e justificados níveis de protecção nos Estados-Membros.\n\n(26) Deverá ser dada atenção aos módulos e às regras a utilizar nas directivas de harmonização técnica previstas na Decisão n.º 768/2008/CE do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, relativa a um quadro comum para a comercialização de produtos [([^5])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr5-L_2009285PT.01001001-E0005).\n\n(27) As autoridades de fiscalização deverão trocar informações quanto às medidas previstas no âmbito de aplicação da presente directiva, a fim de melhorar a fiscalização do mercado, tendo em conta o Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos às condições de comercialização de produtos [([^6])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr6-L_2009285PT.01001001-E0006). Esta cooperação deverá recorrer o mais possível aos meios electrónicos de comunicação e aos programas comunitários relevantes. Deverá facilitar-se o intercâmbio de informações sobre o desempenho ambiental do ciclo de vida e as soluções encontradas em matéria de concepção. A acumulação e a divulgação do conjunto dos conhecimentos decorrentes dos esforços de concepção ecológica desenvolvidos pelos produtores constituem um dos benefícios fundamentais da directiva.\n\n(28) O órgão competente será geralmente um organismo público ou privado, designado pelas autoridades públicas, que ofereça as necessárias garantias de imparcialidade e disponibilidade de conhecimentos técnicos para levar a cabo a avaliação do produto quanto à sua compatibilidade com as medidas de execução aplicáveis.\n\n(29) Tendo em conta a importância de evitar não conformidades, os Estados-Membros assegurarão a disponibilidade dos meios necessários para uma eficaz fiscalização do mercado.\n\n(30) Relativamente à formação e informação em matéria de concepção ecológica para as PME, poderá revelar-se adequado considerar a possibilidade de actividades de acompanhamento.\n\n(31) A existência de normas harmonizadas a nível comunitário é favorável ao funcionamento do mercado interno. Após a publicação de uma referência a uma norma deste tipo no *Jornal Oficial da União Europeia*, a conformidade com a mesma deverá dar origem a uma presunção de conformidade com os requisitos correspondentes fixados na medida de execução adoptada com base na presente directiva, ainda que se admitam outros meios de demonstração da referida conformidade.\n\n(32) Uma das principais funções das normas harmonizadas deverá ser a de ajudar os fabricantes a aplicar as medidas de execução aprovadas ao abrigo da presente directiva. Tais normas poderão ser essenciais para o estabelecimento de métodos de medição e de ensaio. No caso dos requisitos genéricos de concepção ecológica, as normas harmonizadas podem contribuir consideravelmente para orientar os fabricantes no estabelecimento do perfil ecológico do seu produto, de acordo com os requisitos da medida de execução aplicável. Essas normas deverão indicar claramente a relação existente entre as suas cláusulas e os requisitos em causa. O objectivo das normas harmonizadas não deverá ser o de fixar limites para os aspectos ambientais.\n\n(33) Para efeitos das definições usadas na presente directiva, convém fazer referência às normas internacionais relevantes, tais como a ISO 14040.\n\n(34) A presente directiva respeita alguns princípios de aplicação da nova abordagem, consagrados na Resolução do Conselho de 7 de Maio de 1985, relativa a uma nova abordagem em matéria de harmonização e de normalização [([^7])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr7-L_2009285PT.01001001-E0007), e de referência a normas harmonizadas europeias. A Resolução do Conselho de 28 de Outubro de 1999, relativa ao papel da normalização na Europa [([^8])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr8-L_2009285PT.01001001-E0008), recomenda que a Comissão analise se o princípio da nova abordagem pode ser alargado a sectores ainda não abrangidos, como meio de melhorar e simplificar a legislação sempre que possível.\n\n(35) A presente directiva complementa instrumentos comunitários existentes, tais como a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^9])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr9-L_2009285PT.01001001-E0009), o Regulamento (CE) n.º 1980/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, relativo a um sistema comunitário revisto de atribuição de rótulo ecológico [([^10])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr10-L_2009285PT.01001001-E0010), a Directiva 2002/96/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa aos resíduos de equipamentos eléctricos e electrónicos (REEE) [([^11])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr11-L_2009285PT.01001001-E0011), a Directiva 2002/95/CE do Parlamento Europeu e do Conselho, de 27 de Janeiro de 2003, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos eléctricos e electrónicos [([^12])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr12-L_2009285PT.01001001-E0012), e a Directiva 2006/121/CE do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2006, que altera a Directiva 67/548/CEE do Conselho, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas, a fim de a adaptar ao Regulamento (CE) n.º 1907/2006 relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH) e que cria a Agência Europeia das Substâncias Químicas [([^13])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr13-L_2009285PT.01001001-E0013) e o Regulamento (CE) n.º 106/2008 do Parlamento Europeu e do Conselho, de 15 de Janeiro de 2008, relativo a um Programa Comunitário de Rotulagem em Matéria de Eficiência Energética para Equipamento de Escritório [([^14])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr14-L_2009285PT.01001001-E0014). As sinergias entre a presente directiva e os instrumentos comunitários existentes deverão contribuir para reforçar o respectivo impacto individual e para estabelecer requisitos coerentes a aplicar pelos fabricantes.\n\n(36) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^15])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr15-L_2009285PT.01001001-E0015).\n\n(37) Em especial, deverá ser atribuída competência à Comissão para alterar ou revogar a Directiva 92/42/CEE do Conselho [([^16])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr16-L_2009285PT.01001001-E0016), e as Directivas 96/57/CE [([^17])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr17-L_2009285PT.01001001-E0017) e 2000/55/CE [([^18])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr18-L_2009285PT.01001001-E0018) do Parlamento Europeu e do Conselho. A decisão de alteração ou de revogação deve ser aprovada pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(38) Além disso, deverá ser atribuída competência à Comissão para aprovar as medidas de execução que fixem os requisitos de concepção ecológica aplicáveis a determinados produtos relacionados com o consumo de energia, incluindo a introdução de medidas de execução durante o período de transição e, quando apropriado, as disposições sobre o equilíbrio entre os vários aspectos ambientais. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva, completando-a mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(39) Com base na experiência adquirida com a aplicação da presente directiva, da Directiva 2005/32/CE e das medidas de execução, a Comissão deverá rever a aplicação, os métodos e a eficácia da presente directiva e avaliar a adequação de alargar o seu âmbito de aplicação além dos produtos relacionados com o consumo de energia. No quadro dessa revisão, a Comissão deverá consultar os representantes dos Estados-Membros e os interessados.\n\n(40) Os Estados-Membros deverão determinar as sanções a aplicar em caso de violação das disposições nacionais aprovadas em execução da presente directiva. Tais sanções deverão ser efectivas, proporcionadas e dissuasivas.\n\n(41) Atendendo a que o objectivo da presente directiva, a saber garantir o funcionamento do mercado interno, exigindo que os produtos atinjam um nível de desempenho ambiental adequado, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à dimensão e aos efeitos da acção prevista, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade, consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(42) A obrigação de transpor a presente directiva para o direito nacional deverá limitar-se às disposições que tenham sofrido alterações de fundo relativamente à Directiva 2005/32/CE. A obrigação de transpor as disposições que não foram alteradas decorre da Directiva 2005/32/CE.\n\n(43) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo IX.\n\n(44) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar melhor» [([^19])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr19-L_2009285PT.01001001-E0019), os Estados-Membros são incentivados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "907a7718165602aa": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. A presente directiva cria um quadro para a definição dos requisitos comunitários de concepção ecológica dos produtos relacionados com o consumo de energia com o objectivo de garantir a sua livre circulação no mercado interno.\n\n2. A presente directiva prevê a definição de requisitos a observar pelos produtos relacionados com o consumo de energia abrangidos por medidas de execução, com vista à sua colocação no mercado e/ou colocação em serviço. Contribui para o desenvolvimento sustentável, na medida em que aumenta a eficiência energética e o nível de protecção do ambiente, e permite ao mesmo tempo aumentar a segurança do fornecimento de energia.\n\n3. A presente directiva não é aplicável a meios de transporte de pessoas ou mercadorias.\n\n4. A presente directiva e as medidas de execução aprovadas nos termos da mesma não prejudicam a legislação comunitária em matéria de gestão de resíduos nem a legislação comunitária em matéria de produtos químicos, incluindo a legislação comunitária em matéria de gases fluorados com efeito de estufa."
+  },
+  "2d24384c21ae64dd": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Produto relacionado com o consumo de energia» (a seguir designado por «produto»), qualquer bem que tenha um impacto sobre o consumo de energia durante a sua utilização, colocado no mercado e/ou colocado em serviço, incluindo peças a incorporar em produtos relacionados com o consumo de energia abrangidos pela presente directiva e colocadas no mercado e/ou colocadas em serviço como peças individuais para utilizadores finais, cujo desempenho ambiental possa ser avaliado de forma independente;\n\n2. «Componentes e subconjuntos», peças a incorporar em produtos, que não são colocadas no mercado nem colocadas em serviço como peças individuais para utilizadores finais ou cujo desempenho ambiental não possa ser avaliado de forma independente;\n\n3. «Medidas de execução», medidas aprovadas nos termos da presente directiva que estabelecem requisitos de concepção ecológica relativos a determinados produtos ou a aspectos ambientais destes;\n\n4. «Colocação no mercado», a disponibilização pela primeira vez no mercado comunitário de um produto, com vista à sua distribuição ou utilização na Comunidade, a título oneroso ou gratuito e independentemente da técnica de venda;\n\n5. «Colocação em serviço», a primeira utilização de um produto por um utilizador final na Comunidade, para a finalidade prevista;\n\n6. «Fabricante», qualquer pessoa singular ou colectiva que fabrique produtos abrangidos pela presente directiva e seja responsável pela sua conformidade com a presente directiva, com vista à sua colocação no mercado e/ou à sua colocação em serviço com o seu nome ou marca, ou para utilização própria. Na falta de fabricante tal como definido no primeiro período do presente ponto ou de importador tal como definido no ponto 8, é considerada fabricante qualquer pessoa singular ou colectiva que coloque no mercado e/ou coloque em serviço produtos abrangidos pela presente directiva;\n\n7. «Mandatário», qualquer pessoa singular ou colectiva, estabelecida na Comunidade, que tenha recebido um mandato escrito do fabricante para cumprir, em seu nome, a totalidade ou parte das obrigações e formalidades ligadas à presente directiva;\n\n8. «Importador», qualquer pessoa singular ou colectiva estabelecida na Comunidade que, no exercício da sua actividade profissional, coloque no mercado comunitário um produto de um país terceiro;\n\n9. «Materiais», todos os materiais utilizados durante o ciclo de vida de um produto;\n\n10. «Concepção do produto», o conjunto de procedimentos que transformam os requisitos jurídicos, técnicos, de segurança, funcionais, de mercado ou outros a observar por um produto na especificação técnica desse produto;\n\n11. «Aspecto ambiental», um elemento ou função do produto que pode interagir com o ambiente durante o ciclo de vida desse produto;\n\n12. «Impacto ambiental», qualquer alteração do ambiente resultante, no todo ou em parte, de um produto durante o seu ciclo de vida;\n\n13. «Ciclo de vida», fases consecutivas e interligadas de um produto, desde a utilização da matéria-prima até à eliminação final;\n\n14. «Reutilização», qualquer operação através da qual um produto ou os seus componentes, tendo atingido o fim da sua utilização inicial, são utilizados para o mesmo fim para que foram concebidos, incluindo a continuação do uso do produto que tenha sido devolvido a pontos de recolha, distribuidores, recicladores ou fabricantes, assim como a reutilização de um produto após recuperação;\n\n15. «Reciclagem», o tratamento de resíduos num processo de produção com o objectivo inicial ou com outros objectivos, excluindo a valorização energética;\n\n16. «Valorização energética», a utilização de resíduos de combustível como meio de geração de energia através da incineração directa, com ou sem outros resíduos, mas com recuperação de calor;\n\n17. «Valorização», qualquer uma das operações aplicáveis previstas no anexo II B da Directiva 2006/12/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa aos resíduos [([^20])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr20-L_2009285PT.01001001-E0020);\n\n18. «Resíduo», qualquer substância ou objecto abrangido pelas categorias previstas no anexo I da Directiva 2006/12/CE, rejeitado pelo proprietário, ou que este tenciona ou é obrigado a rejeitar;\n\n19. «Resíduos perigosos», todos os resíduos abrangidos pelo n.º 4 do artigo 1.º da Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos [([^21])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr21-L_2009285PT.01001001-E0021);\n\n20. «Perfil ecológico», uma descrição, nos termos da medida de execução aplicável ao produto, dos meios utilizados e rejeitados (por exemplo materiais, emissões e resíduos) associados a um produto ao longo do seu ciclo de vida, que são significativos do ponto de vista do respectivo impacto ambiental e são expressos em grandezas físicas mensuráveis;\n\n21. «Desempenho ambiental» de um produto, o resultado da gestão pelo fabricante dos aspectos ambientais do produto, que se reflectem no seu dossier de documentação técnica;\n\n22. «Melhoramento do desempenho ambiental», o processo de reforço do desempenho ambiental de um produto, ao longo de várias gerações, se bem que não necessariamente quanto a todos os aspectos ambientais do produto em simultâneo;\n\n23. «Concepção ecológica», a integração de aspectos ambientais na concepção de um produto, no intuito de melhorar o seu desempenho ambiental ao longo de todo o seu ciclo de vida;\n\n24. «Requisito de concepção ecológica», qualquer requisito relativo a um produto, ou à sua concepção, cujo fim é melhorar o desempenho ambiental do mesmo ou qualquer requisito referente à prestação de informação relativa aos aspectos ambientais de um produto;\n\n25. «Requisito genérico de concepção ecológica», qualquer requisito de concepção ecológica assente no perfil ecológico global de um produto, sem estabelecer valores-limite quanto a aspectos ambientais específicos;\n\n26. «Requisito específico de concepção ecológica», um requisito de concepção ecológica quantificável e mensurável relativo a um aspecto ambiental específico de um produto, tal como o consumo de energia durante a utilização, calculado para uma determinada unidade em termos de resultados de desempenho;\n\n27. «Norma harmonizada», uma especificação técnica adoptada por um organismo de normalização reconhecido, mandatado pela Comissão nos termos do disposto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas [([^22])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr22-L_2009285PT.01001001-E0022), para estabelecer um requisito europeu, cujo cumprimento não é obrigatório."
+  },
+  "e5d49b9d7aac613b": {
+   "fragment_id": "Artigo 3.º — Colocação no mercado e/ou colocação em serviço",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Colocação no mercado e/ou colocação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Colocação no mercado e/ou colocação em serviço\n\n1. Os Estados-Membros devem tomar as medidas necessárias para garantir que os produtos abrangidos por medidas de execução só possam ser colocados no mercado e/ou colocados em serviço se cumprirem essas medidas e ostentarem a marcação CE nos termos do artigo 5.º\n\n2. Os Estados-Membros designam as autoridades competentes para a fiscalização do mercado. Devem garantir que essas autoridades possuam e exerçam os poderes necessários para tomar as medidas apropriadas que lhes incumbem nos termos da presente directiva. Os Estados-Membros definem as funções, os poderes e as formas de organização das autoridades competentes, que devem ter competência para:\n\na) Organizar verificações apropriadas da conformidade dos produtos, a uma escala suficiente, e obrigar o fabricante ou o seu mandatário a recolher do mercado aqueles que não estejam em conformidade, de acordo com o disposto no artigo 7.º;\n\nb) Pedir todas as informações necessárias aos interessados, segundo as condições determinadas nas medidas de execução;\n\nc) Colher amostras de produtos e submetê-las a verificações de conformidade.\n\n3. Os Estados-Membros devem manter a Comissão informada dos resultados da fiscalização do mercado e, se for caso disso, a Comissão transmite a informação aos outros Estados-Membros.\n\n4. Os Estados-Membros devem assegurar que os consumidores e outros interessados tenham a possibilidade de apresentar observações às autoridades competentes sobre a conformidade dos produtos."
+  },
+  "3e8597957c8ef7d4": {
+   "fragment_id": "Artigo 4.º — Responsabilidades do importador",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades do importador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades do importador\n\nSe o fabricante não estiver estabelecido na Comunidade e não tiver mandatário, o importador está obrigado a:\n\na) Garantir que o produto colocado no mercado ou em serviço cumpre o disposto na presente directiva e na medida de execução aplicável; e\n\nb) Facultar e manter à disposição a declaração de conformidade e a documentação técnica."
+  },
+  "4b3f42031bb6a4fa": {
+   "fragment_id": "Artigo 5.º — Marcação e declaração CE de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Marcação e declaração CE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Marcação e declaração CE de conformidade\n\n1. Antes da colocação no mercado e/ou da colocação em serviço de um produto abrangido por medidas de execução, deve ser-lhe aposta a marcação CE e ser emitida uma declaração de conformidade, na qual o fabricante ou o seu mandatário garante e declara que o produto cumpre todas as disposições relevantes da medida de execução aplicável.\n\n2. A marcação CE consiste nas iniciais «CE», como consta do anexo III.\n\n3. A declaração CE de conformidade deve incluir os elementos enumerados no anexo VI e fazer referência à medida de execução adequada.\n\n4. É proibido apor num produto marcações susceptíveis de induzir os utilizadores em erro quanto ao significado ou ao grafismo da marcação CE.\n\n5. Os Estados-Membros podem exigir que a informação a prestar nos termos da parte 2 do anexo I esteja na ou nas suas línguas oficiais, quando o produto chegar ao utilizador final.\n\nOs Estados-Membros devem autorizar também que a referida informação seja prestada numa ou em várias das outras línguas oficiais das instituições da União Europeia.\n\nNa aplicação do primeiro parágrafo, os Estados-Membros devem verificar, designadamente:\n\na) Se a informação pode ser prestada por intermédio de símbolos harmonizados, códigos reconhecidos ou outras medidas; e\n\nb) O tipo de utilizador esperado do produto e a natureza da informação a prestar."
+  },
+  "112e2b641ebc9b6c": {
+   "fragment_id": "Artigo 6.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Livre circulação\n\n1. Os Estados-Membros não podem proibir, restringir ou impedir a colocação no mercado e/ou colocação em serviço, nos respectivos territórios, de um produto que cumpra todas as disposições relevantes da medida de execução aplicável e que ostente a marcação CE, nos termos do artigo 5.º com base em requisitos de concepção ecológica relacionados com os parâmetros de concepção ecológica referidos na parte 1 do anexo I e abrangidos pela medida de execução aplicável.\n\n2. Os Estados-Membros não podem proibir, restringir ou impedir a colocação no mercado e/ou colocação em serviço, nos respectivos territórios, de um produto que ostente a marcação CE nos termos do artigo 5.º, com base em requisitos de concepção ecológica relacionados com os parâmetros de concepção ecológica referidos na parte 1 do anexo I, e relativamente ao qual a medida de execução aplicável não preveja a necessidade de requisitos de concepção ecológica.\n\n3. Os Estados-Membros não podem proibir a exibição, por exemplo em feiras, exposições e demonstrações, de produtos que não estejam em conformidade com o disposto na medida de execução aplicável, desde que exista uma indicação bem visível de que esses produtos não são colocados no mercado/em serviço antes de serem postos em conformidade."
+  },
+  "e1b2899059980127": {
+   "fragment_id": "Artigo 7.º — Cláusula de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusula de salvaguarda\n\n1. Quando um Estado-Membro verificar que um produto que ostenta a marcação CE referida no artigo 5.º e é utilizado de acordo com o fim para que foi concebido não respeita todas as disposições relevantes da medida de execução aplicável, deve exigir-se ao fabricante, ou ao seu mandatário, a adaptação do produto de forma a assegurar a sua conformidade com as disposições da medida de execução aplicável e/ou da marcação CE e a cessação da infracção nas condições impostas pelo Estado-Membro.\n\nSe houver indícios suficientes de que um produto possa não ser conforme, o Estado-Membro aprova as medidas necessárias, que, em função da gravidade da não conformidade, podem ir até à proibição da colocação do produto no mercado até que seja restabelecida a conformidade.\n\nSe a não conformidade persistir, o Estado-Membro deve decidir restringir ou proibir a colocação no mercado e/ou colocação em serviço do produto em questão ou garantir a sua retirada do mercado.\n\nEm caso de proibição ou retirada do mercado, são informados imediatamente a Comissão e os outros Estados-Membros.\n\n2. Qualquer decisão de um Estado-Membro que, nos termos da presente directiva, proíba ou restrinja a colocação no mercado e/ou a colocação em serviço de um produto deve indicar os fundamentos em que se baseia.\n\nEssa decisão é de imediato notificada ao interessado, que deve ser simultaneamente informado dos meios de recurso disponíveis, nos termos da legislação em vigor no Estado-Membro em causa, e dos respectivos prazos.\n\n3. O Estado-Membro deve informar imediatamente a Comissão e os restantes Estados-Membros de qualquer decisão tomada nos termos do n.º 1, indicando os seus fundamentos e, em especial, se a não conformidade se deve:\n\na) À inobservância dos requisitos da medida de execução aplicável;\n\nb) À aplicação incorrecta de normas harmonizadas nos termos do n.º 2 do artigo 10.º;\n\nc) A deficiências em normas harmonizadas nos termos do n.º 2 do artigo 10.º\n\n4. A Comissão deve consultar sem demora os interessados, podendo recorrer a aconselhamento técnico de peritos externos independentes.\n\nApós essa consulta, a Comissão comunica imediatamente a sua opinião ao Estado-Membro que tiver tomado a decisão e aos restantes Estados-Membros.\n\nSempre que a Comissão considerar que a decisão não se justifica, deve informar imediatamente desse facto os Estados-Membros.\n\n5. Se a decisão referida no n.º 1 do presente artigo se basear numa deficiência das normas harmonizadas, a Comissão deve dar imediatamente início ao procedimento previsto nos n.^os^ 2, 3 e 4 do artigo 10.º. Em simultâneo, a Comissão deve informar o Comité referido no n.º 1 do artigo 19.º\n\n6. Os Estados-Membros e a Comissão devem tomar as medidas necessárias para garantir, quando se justifique, a confidencialidade da informação prestada durante o referido procedimento.\n\n7. As decisões tomadas pelos Estados-Membros nos termos do presente artigo devem ser tornadas públicas de forma transparente.\n\n8. O parecer da Comissão sobre essas decisões é publicado no *Jornal Oficial da União Europeia*."
+  },
+  "b41b5eaeea07ae73": {
+   "fragment_id": "Artigo 8.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação da conformidade\n\n1. Antes de colocar no mercado e/ou de colocar em serviço um produto que se encontre abrangido por medidas de execução, o fabricante ou o seu mandatário deve garantir que se realiza uma avaliação da conformidade do produto com todos os requisitos relevantes da medida de execução aplicável.\n\n2. Os procedimentos de avaliação da conformidade devem ser especificados nas medidas de execução e deixar aos fabricantes a escolha entre o controlo interno da concepção previsto no anexo IV da presente directiva e o sistema de gestão previsto no seu anexo V. Sempre que se justifique e em função do risco, o procedimento de avaliação da conformidade deve ser definido entre os módulos relevantes a que se refere o anexo II da Decisão 768/2008/CE.\n\nSe um Estado-Membro tiver sérios indícios da provável não conformidade de um produto, publica o mais rapidamente possível uma avaliação substancial da conformidade desse produto, que pode ficar a cargo de um órgão competente a fim de que se possam tomar, se for caso disso, atempadamente as medidas correctivas necessárias.\n\nSe um produto que se encontra abrangido por medidas de execução for concebido por um organismo registado nos termos do Regulamento (CE) n.º 761/2001 do Parlamento Europeu e do Conselho, de 19 de Março de 2001, que permite a participação voluntária de organizações num sistema comunitário de ecogestão e auditoria (EMAS) [([^23])](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntr23-L_2009285PT.01001001-E0023), e a função da concepção estiver incluída no âmbito desse registo, presume-se que o sistema de gestão deste organismo está em conformidade com os requisitos do anexo V da presente directiva.\n\nSe um produto que se encontra abrangido por medidas de execução for concebido por um organismo dotado de um sistema de gestão que inclua a função da concepção do produto, aplicado de acordo com normas harmonizadas, cujos números de referência tenham sido publicados no *Jornal Oficial da União Europeia*, presume-se que esse sistema de gestão cumpre os requisitos correspondentes do anexo V.\n\n3. Depois de colocar no mercado e/ou de colocar em serviço um produto que se encontra abrangido por medidas de execução, o fabricante ou o seu mandatário deve conservar à disposição das autoridades de fiscalização dos Estados-Membros a documentação relevante no que se refere à avaliação da conformidade realizada e as declarações de conformidade emitidas, por um período de 10 anos após o fabrico do último produto.\n\nOs documentos relevantes devem ser disponibilizados no prazo de 10 dias após a recepção do pedido enviado pela autoridade competente de um Estado-Membro.\n\n4. Os documentos relativos à avaliação da conformidade e a declaração CE de conformidade referidos no artigo 5.º devem ser redigidos numa das línguas oficiais das instituições da União Europeia."
+  },
+  "51d33ded56f90ff8": {
+   "fragment_id": "Artigo 9.º — Presunção de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Presunção de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Presunção de conformidade\n\n1. Os Estados-Membros devem considerar que os produtos que ostentem a marcação CE referida no artigo 5.º cumprem as disposições relevantes da medida de execução aplicável.\n\n2. Os Estados-Membros devem considerar que os produtos a que se aplicaram normas harmonizadas, cujos números de referência tenham sido publicados no *Jornal Oficial da União Europeia*, cumprem todos os requisitos relevantes da medida de execução aplicável a que essas normas se referem.\n\n3. Presume-se que os produtos a que tenha sido atribuído o rótulo ecológico comunitário nos termos do Regulamento (CE) n.º 1980/2000 cumprem os requisitos de concepção ecológica da medida de execução aplicável, desde que o rótulo ecológico respeite estes requisitos.\n\n4. Para efeitos da presunção de conformidade no contexto da presente directiva, a Comissão, deliberando pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º, pode decidir que outros rótulos ecológicos preenchem condições equivalentes às do rótulo ecológico comunitário, nos termos do Regulamento (CE) n.º 1980/2000. Presume-se que os produtos aos quais tenham sido atribuídos esses outros rótulos ecológicos cumprem os requisitos de concepção ecológica da medida de execução aplicável, desde que o rótulo ecológico respeite estes requisitos."
+  },
+  "27ffb5ca99b0ae40": {
+   "fragment_id": "Artigo 10.º — Normas harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Normas harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Normas harmonizadas\n\n1. Os Estados-Membros devem garantir, na medida do possível, que sejam tomadas as medidas adequadas para permitir a consulta dos interessados a nível nacional no processo de preparação e de acompanhamento das normas harmonizadas.\n\n2. Se um Estado-Membro ou a Comissão considerarem que as normas harmonizadas, cuja aplicação se presume conforme às disposições específicas de uma medida de execução aplicável, não respeitam integralmente essas disposições, o Estado-Membro em causa ou a Comissão devem apresentar fundamentadamente a questão ao Comité Permanente criado pelo artigo 5.º da Directiva 98/34/CE. O Comité emite um parecer com carácter de urgência.\n\n3. Em função desse parecer, a Comissão decide publicar, não publicar, publicar com restrições, manter ou retirar as referências às normas harmonizadas em causa no *Jornal Oficial da União Europeia*.\n\n4. A Comissão informa o organismo europeu de normalização em questão e, se necessário, emite um novo mandato para a revisão das normas harmonizadas em causa."
+  },
+  "783ea8307f734ac1": {
+   "fragment_id": "Artigo 11.º — Requisitos para componentes e subconjuntos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Requisitos para componentes e subconjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos para componentes e subconjuntos\n\nAs medidas de execução podem exigir que o fabricante ou o seu mandatário que coloque no mercado e/ou coloque em serviço componentes e subconjuntos forneça ao fabricante do produto abrangido pelas medidas de execução as informações relevantes acerca da composição material e do consumo de energia, materiais e/ou recursos dos componentes e dos subconjuntos."
+  },
+  "7a7dbe6f0572d18d": {
+   "fragment_id": "Artigo 12.º — Cooperação administrativa e troca de informações",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Cooperação administrativa e troca de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação administrativa e troca de informações\n\n1. Os Estados-Membros devem assegurar que sejam tomadas as medidas necessárias para incentivar as autoridades responsáveis pela aplicação da presente directiva a cooperarem entre si e a trocar informações entre si e com a Comissão para apoiar o funcionamento da presente directiva e, em especial, a aplicação do artigo 7.º\n\nA cooperação administrativa e a troca de informações devem recorrer o mais possível aos meios electrónicos de comunicação, podendo ser apoiadas por programas comunitários relevantes.\n\nOs Estados-Membros informam a Comissão das autoridades responsáveis pela aplicação da presente directiva.\n\n2. O tipo e a estrutura da troca de informações entre a Comissão e os Estados-Membros são decididos pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º\n\n3. A Comissão deve tomar as medidas necessárias para incentivar e contribuir para a cooperação entre Estados-Membros, referida no presente artigo."
+  },
+  "ceb9446f2d6d1e7c": {
+   "fragment_id": "Artigo 13.º — Pequenas e médias empresas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pequenas e médias empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pequenas e médias empresas\n\n1. No contexto dos programas de que as pequenas e médias empresas (PME) e as microempresas podem beneficiar, a Comissão tem em conta as iniciativas que ajudam as PME e as microempresas a integrar aspectos ambientais, incluindo a eficiência energética, aquando da concepção dos seus produtos.\n\n2. As medidas de execução podem ser acompanhadas de orientações que digam respeito às especificidades das PME que operem no sector do produto afectado. Caso seja necessário, e nos termos do n.º 1, a Comissão pode produzir material especializado adicional destinado a facilitar a aplicação da presente directiva pelas PME.\n\n3. Os Estados-Membros devem garantir, em particular mediante o reforço de redes e estruturas de apoio, que incentivam as PME e as microempresas a adoptarem uma abordagem correcta do ponto de vista ambiental desde a fase de concepção do produto e a adaptarem-se à futura legislação europeia."
+  },
+  "7da247e4ca8e0d5b": {
+   "fragment_id": "Artigo 14.º — Informação dos consumidores",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Informação dos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação dos consumidores\n\nNos termos das medidas de execução aplicáveis, os fabricantes devem assegurar, sob a forma que julguem adequada, que os consumidores de produtos disponham da informação necessária no que respeita:\n\na) Ao papel que podem desempenhar na utilização sustentável do produto; e\n\nb) Ao perfil ecológico do produto e às vantagens da concepção ecológica, quando exigido pelas medidas de execução."
+  },
+  "a66eb95d48addf03": {
+   "fragment_id": "Artigo 15.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas de execução\n\n1. Se um produto preencher os critérios referidos no n.º 2 do presente artigo, deve ser abrangido por uma medida de execução ou por uma medida de auto-regulação, nos termos da alínea b) do n.º 3 do presente artigo. Essas medidas de execução, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\n2. Os critérios referidos no n.º 1 são os seguintes:\n\na) Representar um volume de vendas e de comércio significativo na Comunidade, de modo indicativo superior a 200 000 unidades por ano, de acordo com os dados mais recentes que estejam disponíveis;\n\nb) Atendendo às quantidades colocadas no mercado e/ou colocadas em serviço, ter um impacto ambiental significativo na Comunidade, tal como especificado nas prioridades estratégicas da Comunidade definidas na Decisão n.º 1600/2002/CE; e\n\nc) Apresentar um potencial significativo de melhoria em termos de impacto ambiental, sem implicar custos excessivos, tendo especialmente em conta: i) a falta de outra legislação comunitária aplicável ou a incapacidade das forças de mercado para resolver a questão de forma adequada, e ii) a grande disparidade do desempenho ambiental dos produtos disponíveis no mercado com funcionalidade equivalente.\n\ni) a falta de outra legislação comunitária aplicável ou a incapacidade das forças de mercado para resolver a questão de forma adequada, e\n\nii) a grande disparidade do desempenho ambiental dos produtos disponíveis no mercado com funcionalidade equivalente.\n\n3. Ao elaborar um projecto de medida de execução, a Comissão deve ter em conta todos os pareceres expressos pelo Comité referido no n.º 1 do artigo 19.º, e atender:\n\na) Às prioridades ambientais comunitárias fixadas na Decisão n.º 1600/2002/CE ou no Programa Europeu sobre Alterações Climáticas (PEAC); e\n\nb) À legislação comunitária e auto-regulação relevantes, tal como acordos voluntários, que, segundo uma avaliação nos termos do artigo 17.º, devam atingir os objectivos políticos mais rapidamente ou com menores custos do que os requisitos obrigatórios.\n\n4. Ao elaborar um projecto de medida de execução, a Comissão deve:\n\na) Considerar o ciclo de vida do produto e todos os seus aspectos ambientais significativos, entre os quais a eficiência energética. A profundidade da análise dos aspectos ambientais e da exequibilidade da sua melhoria deve ser proporcional à sua importância. A adopção de requisitos de concepção ecológica no que respeita aos aspectos ambientais significativos de um produto não deve ser retardada por incertezas respeitantes a outros aspectos;\n\nb) Efectuar uma avaliação do impacto sobre o ambiente, os consumidores e os fabricantes, incluindo as PME, em termos de competitividade, incluindo sobre mercados não comunitários, de inovação, de acesso ao mercado e de custos e benefícios;\n\nc) Tomar em consideração a legislação nacional em vigor que os Estados-Membros considerem relevante;\n\nd) Efectuar consultas apropriadas com os interessados;\n\ne) Elaborar uma exposição de motivos do projecto de medida de execução, com base na avaliação referida na alínea b); e\n\nf) Fixar datas de execução, quaisquer medidas ou períodos faseados ou transitórios, tendo especialmente em conta o eventual impacto nas PME ou em pequenos grupos específicos de produtos manufacturados essencialmente em PME.\n\n5. As medidas de execução devem preencher todos os critérios seguintes:\n\na) Não ter um impacto negativo significativo sobre a funcionalidade do produto, na perspectiva do utilizador;\n\nb) Não afectar negativamente a saúde, a segurança e o ambiente;\n\nc) Não ter um impacto negativo significativo sobre os consumidores, em particular no que diz respeito ao preço e ao custo do ciclo de vida do produto;\n\nd) Não ter um impacto negativo significativo sobre a competitividade da indústria;\n\ne) Em princípio, o estabelecimento de requisitos de concepção ecológica não deve ter por consequência a imposição de uma tecnologia patenteada aos fabricantes; e\n\nf) Não impor um ónus administrativo excessivo ao fabricante.\n\n6. As medidas de execução devem fixar requisitos de concepção ecológica, nos termos dos anexos I e/ou II.\n\nDevem introduzir-se requisitos específicos de concepção ecológica relativamente a determinados aspectos ambientais que tenham um impacto ambiental significativo.\n\nAs medidas de execução podem também prever que não são necessários requisitos de concepção ecológica relativamente a certos parâmetros específicos de concepção ecológica referidos na parte 1 do anexo I.\n\n7. Os requisitos são formulados de modo a garantir que as autoridades de fiscalização do mercado possam verificar a conformidade do produto com os requisitos da medida de execução. Esta deve especificar se a verificação pode ser realizada directamente no produto ou através da documentação técnica.\n\n8. As medidas de execução devem incluir os elementos enumerados no anexo VII.\n\n9. Os estudos e análises relevantes utilizados pela Comissão na elaboração das medidas de execução devem ser tornados públicos, tendo especialmente em conta a facilidade de acesso e de utilização pelas PME interessadas.\n\n10. Se for caso disso, as medidas de execução que estabeleçam requisitos de concepção ecológica devem incluir disposições sobre o equilíbrio entre os vários aspectos ambientais. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º"
+  },
+  "f58a40d8b9de4bad": {
+   "fragment_id": "Artigo 16.º — Plano de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Plano de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de trabalho\n\n1. Nos termos dos critérios previstos no artigo 15.º e após consulta do Fórum de Consulta referido no artigo 18.º, a Comissão elabora, até 21 de Outubro de 2011, um plano de trabalho que deve ser tornado público.\n\nO plano de trabalho deve estabelecer, para os três anos seguintes, uma lista indicativa de grupos de produtos que são considerados prioritários para a adopção de medidas de execução.\n\nO plano de trabalho é alterado periodicamente pela Comissão, após consulta do Fórum de Consulta.\n\n2. Todavia, durante o período de transição, enquanto se elabora o primeiro plano de trabalho referido no n.º 1 do presente artigo, em conformidade com os critérios estabelecidos no artigo 15.º e após consulta do Fórum de Consulta, a Comissão deve introduzir, se for caso disso, por antecipação:\n\na) Medidas de execução, começando pelos produtos considerados pelo PEAC como oferecendo um elevado potencial de redução eficaz em termos de custos da emissão dos gases com efeito de estufa, tais como os equipamentos de aquecimento e de produção de água quente, os sistemas de motor eléctrico, a iluminação nos sectores residencial e terciário, os aparelhos domésticos, o equipamento de escritório nos sectores residencial e terciário, o equipamento electrónico para o público em geral e os sistemas de AVC (aquecimento, ventilação e climatização); e\n\nb) Uma medida de execução separada para reduzir as perdas em estado de vigília para um grupo de produtos.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º"
+  },
+  "907d6d4b1216a6ed": {
+   "fragment_id": "Artigo 17.º — Auto-regulação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Auto-regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Auto-regulação\n\nOs acordos voluntários ou outras medidas de auto-regulação apresentadas como alternativas às medidas de execução no contexto da presente directiva são objecto de avaliação pelo menos com base no anexo VIII."
+  },
+  "6a138611f2926299": {
+   "fragment_id": "Artigo 18.º — Fórum de Consulta",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Fórum de Consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fórum de Consulta\n\nA Comissão deve assegurar que, no desempenho das suas funções, o Fórum de Consulta respeita, em relação a cada uma das medidas de execução, um participação equilibrada dos representantes dos Estados-Membros e de todas os interessados no produto ou um grupo de produtos em causa como, por exemplo, a indústria, incluindo as PME e o artesanato, os sindicatos, os comerciantes, os retalhistas, os importadores, os grupos de protecção ambiental e as organizações de consumidores. Estes interessados devem contribuir, em especial, para a definição e revisão das medidas de execução, análise da eficácia dos mecanismos de fiscalização do mercado estabelecidos e a avaliação dos acordos voluntários e outras medidas de auto-regulação. Estes interessados reúnem-se num Fórum de Consulta. O regulamento interno do fórum é elaborado pela Comissão."
+  },
+  "fda23ac3f7d7f041": {
+   "fragment_id": "Artigo 19.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de Comité\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "c229a55867c9e3d0": {
+   "fragment_id": "Artigo 20.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções\n\nOs Estados-Membros determinam o regime de sanções aplicáveis à violação das disposições nacionais aprovadas em execução da presente directiva e tomam todas as medidas necessárias para garantir a sua aplicação. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas, tendo em conta o grau de incumprimento e o número de unidades de produtos não conformes colocadas no mercado comunitário. Os Estados-Membros notificam estas disposições à Comissão até 20 de Novembro de 2010, devendo também notificar imediatamente qualquer alteração subsequente das mesmas."
+  },
+  "ecd90a8f91b2ea0e": {
+   "fragment_id": "Artigo 21.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revisão\n\nAté 2012 a Comissão deve rever a eficácia da directiva e das respectivas medidas de execução, incluindo, entre outras:\n\na) A metodologia para a identificação e cobertura de parâmetros ambientais significativos tais como a economia de recursos, tendo em conta a totalidade do ciclo de vida dos produtos; e\n\nb) O limiar das medidas de execução;\n\nc) Os mecanismos de fiscalização do mercado; e\n\nd) Quaisquer mecanismos de auto-regulação estimulados.\n\nNa sequência desta revisão e tendo especialmente em conta a experiência relacionada com o âmbito de aplicação alargado da presente directiva, a Comissão avalia, nomeadamente, a oportunidade do alargamento do âmbito de aplicação da presente directiva aos produtos não relacionados com o consumo de energia, a fim de reduzir significativamente os impactos ambientais ao longo de todo o ciclo de vida desses produtos, após consulta do Fórum de Consulta referido no artigo 18.º e, se for caso disso, apresenta ao Parlamento Europeu e ao Conselho propostas de alteração da presente directiva."
+  },
+  "be95b38067d8e682": {
+   "fragment_id": "Artigo 22.º — Confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Confidencialidade\n\nOs requisitos referentes à prestação de informações pelo fabricante ou pelo seu mandatário, referidos no artigo 11.º e na parte 2 do anexo I, devem ser proporcionados e ter em conta a legítima confidencialidade de informações comercialmente sensíveis."
+  },
+  "2b5a9f4d506c4c73": {
+   "fragment_id": "Artigo 23.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transposição\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos artigos 1.º a 9.º, 11.º, 14.º, 15.º e 20.º bem como aos anexos I a V, VII e VIII até 20 de Novembro de 2010. Os Estados-Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Devem também incluir uma declaração indicando que as remissões nas disposições legislativas, regulamentares e administrativas em vigor à directiva revogada devem entender-se como sendo feitas à presente directiva. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "b0370dbbe13e3297": {
+   "fragment_id": "Artigo 24.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nÉ revogada a Directiva 2005/32/CE, com a redacção que lhe foi dada pela directiva constante da parte A do anexo IX, sem prejuízo das obrigações dos Estados-Membros no que diz respeito aos prazos de transposição para o direito interno das directivas constantes da parte B do mesmo anexo.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e ler-se nos termos da tabela de correspondência constante do anexo X."
+  },
+  "bc9df3d40c210283": {
+   "fragment_id": "Artigo 25.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nA presente directiva entre em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "308d0876db42a245": {
+   "fragment_id": "Artigo 26.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 21 de Outubro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "4de903df1532bcbc": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc1-L_2009285PT.01001001-E0001) [JO C 100 de 30.4.2009, p. 120](http://publications.europa.eu/resource/oj/JOC_2009_100_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc2-L_2009285PT.01001001-E0002) Parecer do Parlamento Europeu de 24 de Abril de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 24 de Setembro de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc3-L_2009285PT.01001001-E0003) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc4-L_2009285PT.01001001-E0004) [JO L 242 de 10.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_242_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc5-L_2009285PT.01001001-E0005) [JO L 218 de 13.8.2008, p. 82](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc6-L_2009285PT.01001001-E0006) [JO L 218 de 13.8.2008, p. 30](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc7-L_2009285PT.01001001-E0007) [JO C 136 de 4.6.1985, p. 1](http://publications.europa.eu/resource/oj/JOC_1985_136_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc8-L_2009285PT.01001001-E0008) [JO C 141 de 19.5.2000, p. 1](http://publications.europa.eu/resource/oj/JOC_2000_141_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc9-L_2009285PT.01001001-E0009) [JO L 297 de 13.10.1992, p. 16](http://publications.europa.eu/resource/oj/JOL_1992_297_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc10-L_2009285PT.01001001-E0010) [JO L 237 de 21.9.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_237_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc11-L_2009285PT.01001001-E0011) [JO L 37 de 13.2.2003, p. 24](http://publications.europa.eu/resource/oj/JOL_2003_037_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc12-L_2009285PT.01001001-E0012) [JO L 37 de 13.2.2003, p. 19](http://publications.europa.eu/resource/oj/JOL_2003_037_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc13-L_2009285PT.01001001-E0013) [JO L 396 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_396_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc14-L_2009285PT.01001001-E0014) [JO L 39 de 13.2.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_039_R_TOC).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc15-L_2009285PT.01001001-E0015) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc16-L_2009285PT.01001001-E0016) [JO L 167 de 22.6.1992, p. 17](http://publications.europa.eu/resource/oj/JOL_1992_167_R_TOC).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc17-L_2009285PT.01001001-E0017) [JO L 236 de 18.9.1996, p. 36](http://publications.europa.eu/resource/oj/JOL_1996_236_R_TOC).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc18-L_2009285PT.01001001-E0018) [JO L 279 de 1.11.2000, p. 33](http://publications.europa.eu/resource/oj/JOL_2000_279_R_TOC).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc19-L_2009285PT.01001001-E0019) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc20-L_2009285PT.01001001-E0020) [JO L 114 de 27.4.2006, p. 9](http://publications.europa.eu/resource/oj/JOL_2006_114_R_TOC).\n\n> [(^21^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc21-L_2009285PT.01001001-E0021) [JO L 377 de 31.12.1991, p. 20](http://publications.europa.eu/resource/oj/JOL_1991_377_R_TOC).\n\n> [(^22^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc22-L_2009285PT.01001001-E0022) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^23^)](http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018.02/DOC_1#ntc23-L_2009285PT.01001001-E0023) [JO L 114 de 24.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_114_R_TOC)."
+  },
+  "446ed42fdcb7e7ae": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nrelativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos relacionados com o consumo de energia\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "b21f2aa457d127c3": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Produto relacionado com o consumo de energia» (a seguir designado por «produto»), qualquer bem que tenha um impacto sobre o consumo de energia durante a sua utilização, colocado no mercado e/ou colocado em serviço, incluindo peças a incorporar em produtos relacionados com o consumo de energia abrangidos pela presente directiva e colocadas no mercado e/ou colocadas em serviço como peças individuais para utilizadores finais, cujo desempenho ambiental possa ser avaliado de forma independente;\n\n2. «Componentes e subconjuntos», peças a incorporar em produtos, que não são colocadas no mercado nem colocadas em serviço como peças individuais para utilizadores finais ou cujo desempenho ambiental não possa ser avaliado de forma independente;\n\n3. «Medidas de execução», medidas aprovadas nos termos da presente directiva que estabelecem requisitos de concepção ecológica relativos a determinados produtos ou a aspectos ambientais destes;\n\n4. «Colocação no mercado», a disponibilização pela primeira vez no mercado comunitário de um produto, com vista à sua distribuição ou utilização na Comunidade, a título oneroso ou gratuito e independentemente da técnica de venda;\n\n5. «Colocação em serviço», a primeira utilização de um produto por um utilizador final na Comunidade, para a finalidade prevista;\n\n6. «Fabricante», qualquer pessoa singular ou colectiva que fabrique produtos abrangidos pela presente directiva e seja responsável pela sua conformidade com a presente directiva, com vista à sua colocação no mercado e/ou à sua colocação em serviço com o seu nome ou marca, ou para utilização própria. Na falta de fabricante tal como definido no primeiro período do presente ponto ou de importador tal como definido no ponto 8, é considerada fabricante qualquer pessoa singular ou colectiva que coloque no mercado e/ou coloque em serviço produtos abrangidos pela presente directiva;\n\n7. «Mandatário», qualquer pessoa singular ou colectiva, estabelecida na Comunidade, que tenha recebido um mandato escrito do fabricante para cumprir, em seu nome, a totalidade ou parte das obrigações e formalidades ligadas à presente directiva;\n\n8. «Importador», qualquer pessoa singular ou colectiva estabelecida na Comunidade que, no exercício da sua actividade profissional, coloque no mercado comunitário um produto de um país terceiro;\n\n9. «Materiais», todos os materiais utilizados durante o ciclo de vida de um produto;\n\n10. «Concepção do produto», o conjunto de procedimentos que transformam os requisitos jurídicos, técnicos, de segurança, funcionais, de mercado ou outros a observar por um produto na especificação técnica desse produto;\n\n11. «Aspecto ambiental», um elemento ou função do produto que pode interagir com o ambiente durante o ciclo de vida desse produto;\n\n12. «Impacto ambiental», qualquer alteração do ambiente resultante, no todo ou em parte, de um produto durante o seu ciclo de vida;\n\n13. «Ciclo de vida», fases consecutivas e interligadas de um produto, desde a utilização da matéria-prima até à eliminação final;\n\n14. «Reutilização», qualquer operação através da qual um produto ou os seus componentes, tendo atingido o fim da sua utilização inicial, são utilizados para o mesmo fim para que foram concebidos, incluindo a continuação do uso do produto que tenha sido devolvido a pontos de recolha, distribuidores, recicladores ou fabricantes, assim como a reutilização de um produto após recuperação;\n\n15. «Reciclagem», o tratamento de resíduos num processo de produção com o objectivo inicial ou com outros objectivos, excluindo a valorização energética;\n\n16. «Valorização energética», a utilização de resíduos de combustível como meio de geração de energia através da incineração directa, com ou sem outros resíduos, mas com recuperação de calor;\n\n17. «Valorização», qualquer uma das operações aplicáveis previstas no anexo II B da Directiva 2006/12/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa aos resíduos ([^21^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0021));\n\n18. «Resíduo», qualquer substância ou objecto abrangido pelas categorias previstas no anexo I da Directiva 2006/12/CE, rejeitado pelo proprietário, ou que este tenciona ou é obrigado a rejeitar;\n\n19. «Resíduos perigosos», todos os resíduos abrangidos pelo n.º 4 do artigo 1.º da Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^22^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0022));\n\n20. «Perfil ecológico», uma descrição, nos termos da medida de execução aplicável ao produto, dos meios utilizados e rejeitados (por exemplo materiais, emissões e resíduos) associados a um produto ao longo do seu ciclo de vida, que são significativos do ponto de vista do respectivo impacto ambiental e são expressos em grandezas físicas mensuráveis;\n\n21. «Desempenho ambiental» de um produto, o resultado da gestão pelo fabricante dos aspectos ambientais do produto, que se reflectem no seu dossier de documentação técnica;\n\n22. «Melhoramento do desempenho ambiental», o processo de reforço do desempenho ambiental de um produto, ao longo de várias gerações, se bem que não necessariamente quanto a todos os aspectos ambientais do produto em simultâneo;\n\n23. «Concepção ecológica», a integração de aspectos ambientais na concepção de um produto, no intuito de melhorar o seu desempenho ambiental ao longo de todo o seu ciclo de vida;\n\n24. «Requisito de concepção ecológica», qualquer requisito relativo a um produto, ou à sua concepção, cujo fim é melhorar o desempenho ambiental do mesmo ou qualquer requisito referente à prestação de informação relativa aos aspectos ambientais de um produto;\n\n25. «Requisito genérico de concepção ecológica», qualquer requisito de concepção ecológica assente no perfil ecológico global de um produto, sem estabelecer valores-limite quanto a aspectos ambientais específicos;\n\n26. «Requisito específico de concepção ecológica», um requisito de concepção ecológica quantificável e mensurável relativo a um aspecto ambiental específico de um produto, tal como o consumo de energia durante a utilização, calculado para uma determinada unidade em termos de resultados de desempenho;\n\n27. «Norma harmonizada», uma especificação técnica adoptada por um organismo de normalização reconhecido, mandatado pela Comissão nos termos do disposto na Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas ([^23^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0023)), para estabelecer um requisito europeu, cujo cumprimento não é obrigatório."
+  },
+  "4e7f5e2b99d114b1": {
+   "fragment_id": "Artigo 3.º — Colocação no mercado e/ou colocação em serviço",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Colocação no mercado e/ou colocação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Colocação no mercado e/ou colocação em serviço\n\n1. Os Estados-Membros devem tomar as medidas necessárias para garantir que os produtos abrangidos por medidas de execução só possam ser colocados no mercado e/ou colocados em serviço se cumprirem essas medidas e ostentarem a marcação CE nos termos do artigo 5.º\n\n2.\n\nOs Estados-Membros designam as autoridades competentes para a fiscalização do mercado. Devem garantir que essas autoridades possuam e exerçam os poderes necessários para tomar as medidas apropriadas que lhes incumbem nos termos da presente directiva. Os Estados-Membros definem as funções, os poderes e as formas de organização das autoridades competentes, que devem ter competência para:\n\na) Organizar verificações apropriadas da conformidade dos produtos, a uma escala suficiente, e obrigar o fabricante ou o seu mandatário a recolher do mercado aqueles que não estejam em conformidade, de acordo com o disposto no artigo 7.º;\n\nb) Pedir todas as informações necessárias aos interessados, segundo as condições determinadas nas medidas de execução;\n\nc) Colher amostras de produtos e submetê-las a verificações de conformidade.\n\n3. Os Estados-Membros devem manter a Comissão informada dos resultados da fiscalização do mercado e, se for caso disso, a Comissão transmite a informação aos outros Estados-Membros.\n\n4. Os Estados-Membros devem assegurar que os consumidores e outros interessados tenham a possibilidade de apresentar observações às autoridades competentes sobre a conformidade dos produtos."
+  },
+  "adc0dad1a2cce1e4": {
+   "fragment_id": "Artigo 6.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Livre circulação\n\n1. Os Estados-Membros não podem proibir, restringir ou impedir a colocação no mercado e/ou colocação em serviço, nos respectivos territórios, de um produto que cumpra todas as disposições relevantes da medida de execução aplicável e que ostente a marcação CE, nos termos do artigo 5.º com base em requisitos de concepção ecológica relacionados com os parâmetros de concepção ecológica referidos na parte 1 do anexo I e abrangidos pela medida de execução aplicável.\n\nE isto sem prejuízo dos requisitos de desempenho energético e dos requisitos para os sistemas estabelecidos pelos Estados-Membros nos termos do artigo 4.º, n.º 1, e do artigo 8.º da Diretiva 2010/31/UE.\n\n2. Os Estados-Membros não podem proibir, restringir ou impedir a colocação no mercado e/ou colocação em serviço, nos respectivos territórios, de um produto que ostente a marcação CE nos termos do artigo 5.º, com base em requisitos de concepção ecológica relacionados com os parâmetros de concepção ecológica referidos na parte 1 do anexo I, e relativamente ao qual a medida de execução aplicável não preveja a necessidade de requisitos de concepção ecológica.\n\n3. Os Estados-Membros não podem proibir a exibição, por exemplo em feiras, exposições e demonstrações, de produtos que não estejam em conformidade com o disposto na medida de execução aplicável, desde que exista uma indicação bem visível de que esses produtos não são colocados no mercado/em serviço antes de serem postos em conformidade."
+  },
+  "bfffbd8cb0f66316": {
+   "fragment_id": "Artigo 7.º — Cláusula de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusula de salvaguarda\n\n1. Quando um Estado-Membro verificar que um produto que ostenta a marcação CE referida no artigo 5.º e é utilizado de acordo com o fim para que foi concebido não respeita todas as disposições relevantes da medida de execução aplicável, deve exigir-se ao fabricante, ou ao seu mandatário, a adaptação do produto de forma a assegurar a sua conformidade com as disposições da medida de execução aplicável e/ou da marcação CE e a cessação da infracção nas condições impostas pelo Estado-Membro.\n\nSe houver indícios suficientes de que um produto possa não ser conforme, o Estado-Membro aprova as medidas necessárias, que, em função da gravidade da não conformidade, podem ir até à proibição da colocação do produto no mercado até que seja restabelecida a conformidade.\n\nSe a não conformidade persistir, o Estado-Membro deve decidir restringir ou proibir a colocação no mercado e/ou colocação em serviço do produto em questão ou garantir a sua retirada do mercado.\n\nEm caso de proibição ou retirada do mercado, são informados imediatamente a Comissão e os outros Estados-Membros.\n\n2. Qualquer decisão de um Estado-Membro que, nos termos da presente directiva, proíba ou restrinja a colocação no mercado e/ou a colocação em serviço de um produto deve indicar os fundamentos em que se baseia.\n\nEssa decisão é de imediato notificada ao interessado, que deve ser simultaneamente informado dos meios de recurso disponíveis, nos termos da legislação em vigor no Estado-Membro em causa, e dos respectivos prazos.\n\n3.\n\nO Estado-Membro deve informar imediatamente a Comissão e os restantes Estados-Membros de qualquer decisão tomada nos termos do n.º 1, indicando os seus fundamentos e, em especial, se a não conformidade se deve:\n\na) À inobservância dos requisitos da medida de execução aplicável;\n\nb) À aplicação incorrecta de normas harmonizadas nos termos do n.º 2 do artigo 10.º;\n\nc) A deficiências em normas harmonizadas nos termos do n.º 2 do artigo 10.º\n\n4. A Comissão deve consultar sem demora os interessados, podendo recorrer a aconselhamento técnico de peritos externos independentes.\n\nApós essa consulta, a Comissão comunica imediatamente a sua opinião ao Estado-Membro que tiver tomado a decisão e aos restantes Estados-Membros.\n\nSempre que a Comissão considerar que a decisão não se justifica, deve informar imediatamente desse facto os Estados-Membros.\n\n5. Se a decisão referida no n.º 1 do presente artigo se basear numa deficiência das normas harmonizadas, a Comissão deve dar imediatamente início ao procedimento previsto nos n.^os^ 2, 3 e 4 do artigo 10.º. Em simultâneo, a Comissão deve informar o Comité referido no n.º 1 do artigo 19.º\n\n6. Os Estados-Membros e a Comissão devem tomar as medidas necessárias para garantir, quando se justifique, a confidencialidade da informação prestada durante o referido procedimento.\n\n7. As decisões tomadas pelos Estados-Membros nos termos do presente artigo devem ser tornadas públicas de forma transparente.\n\n8. O parecer da Comissão sobre essas decisões é publicado no *Jornal Oficial da União Europeia*."
+  },
+  "09f3e7ac2b5b5c95": {
+   "fragment_id": "Artigo 8.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação da conformidade\n\n1. Antes de colocar no mercado e/ou de colocar em serviço um produto que se encontre abrangido por medidas de execução, o fabricante ou o seu mandatário deve garantir que se realiza uma avaliação da conformidade do produto com todos os requisitos relevantes da medida de execução aplicável.\n\n2. Os procedimentos de avaliação da conformidade devem ser especificados nas medidas de execução e deixar aos fabricantes a escolha entre o controlo interno da concepção previsto no anexo IV da presente directiva e o sistema de gestão previsto no seu anexo V. Sempre que se justifique e em função do risco, o procedimento de avaliação da conformidade deve ser definido entre os módulos relevantes a que se refere o anexo II da Decisão 768/2008/CE.\n\nSe um Estado-Membro tiver sérios indícios da provável não conformidade de um produto, publica o mais rapidamente possível uma avaliação substancial da conformidade desse produto, que pode ficar a cargo de um órgão competente a fim de que se possam tomar, se for caso disso, atempadamente as medidas correctivas necessárias.\n\nSe um produto que se encontra abrangido por medidas de execução for concebido por um organismo registado nos termos do Regulamento (CE) n.º 761/2001 do Parlamento Europeu e do Conselho, de 19 de Março de 2001, que permite a participação voluntária de organizações num sistema comunitário de ecogestão e auditoria (EMAS) ([^24^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0024)), e a função da concepção estiver incluída no âmbito desse registo, presume-se que o sistema de gestão deste organismo está em conformidade com os requisitos do anexo V da presente directiva.\n\nSe um produto que se encontra abrangido por medidas de execução for concebido por um organismo dotado de um sistema de gestão que inclua a função da concepção do produto, aplicado de acordo com normas harmonizadas, cujos números de referência tenham sido publicados no *Jornal Oficial da União Europeia*, presume-se que esse sistema de gestão cumpre os requisitos correspondentes do anexo V.\n\n3. Depois de colocar no mercado e/ou de colocar em serviço um produto que se encontra abrangido por medidas de execução, o fabricante ou o seu mandatário deve conservar à disposição das autoridades de fiscalização dos Estados-Membros a documentação relevante no que se refere à avaliação da conformidade realizada e as declarações de conformidade emitidas, por um período de 10 anos após o fabrico do último produto.\n\nOs documentos relevantes devem ser disponibilizados no prazo de 10 dias após a recepção do pedido enviado pela autoridade competente de um Estado-Membro.\n\n4. Os documentos relativos à avaliação da conformidade e a declaração CE de conformidade referidos no artigo 5.º devem ser redigidos numa das línguas oficiais das instituições da União Europeia."
+  },
+  "e391840a6609c395": {
+   "fragment_id": "Artigo 15.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas de execução\n\n1. Se um produto preencher os critérios referidos no n.º 2 do presente artigo, deve ser abrangido por uma medida de execução ou por uma medida de auto-regulação, nos termos da alínea b) do n.º 3 do presente artigo. Essas medidas de execução, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º\n\n2.\n\nOs critérios referidos no n.º 1 são os seguintes:\n\na) Representar um volume de vendas e de comércio significativo na Comunidade, de modo indicativo superior a 200 000 unidades por ano, de acordo com os dados mais recentes que estejam disponíveis;\n\nb) Atendendo às quantidades colocadas no mercado e/ou colocadas em serviço, ter um impacto ambiental significativo na Comunidade, tal como especificado nas prioridades estratégicas da Comunidade definidas na Decisão n.º 1600/2002/CE; e\n\nc) Apresentar um potencial significativo de melhoria em termos de impacto ambiental, sem implicar custos excessivos, tendo especialmente em conta:\n\ni) a falta de outra legislação comunitária aplicável ou a incapacidade das forças de mercado para resolver a questão de forma adequada, e\n\nii) a grande disparidade do desempenho ambiental dos produtos disponíveis no mercado com funcionalidade equivalente.\n\n3.\n\nAo elaborar um projecto de medida de execução, a Comissão deve ter em conta todos os pareceres expressos pelo Comité referido no n.º 1 do artigo 19.º, e atender:\n\na) Às prioridades ambientais comunitárias fixadas na Decisão n.º 1600/2002/CE ou no Programa Europeu sobre Alterações Climáticas (PEAC); e\n\nb) À legislação comunitária e auto-regulação relevantes, tal como acordos voluntários, que, segundo uma avaliação nos termos do artigo 17.º, devam atingir os objectivos políticos mais rapidamente ou com menores custos do que os requisitos obrigatórios.\n\n4.\n\nAo elaborar um projecto de medida de execução, a Comissão deve:\n\na) Considerar o ciclo de vida do produto e todos os seus aspectos ambientais significativos, entre os quais a eficiência energética. A profundidade da análise dos aspectos ambientais e da exequibilidade da sua melhoria deve ser proporcional à sua importância. A adopção de requisitos de concepção ecológica no que respeita aos aspectos ambientais significativos de um produto não deve ser retardada por incertezas respeitantes a outros aspectos;\n\nb) Efectuar uma avaliação do impacto sobre o ambiente, os consumidores e os fabricantes, incluindo as PME, em termos de competitividade, incluindo sobre mercados não comunitários, de inovação, de acesso ao mercado e de custos e benefícios;\n\nc) Tomar em consideração a legislação nacional em vigor que os Estados-Membros considerem relevante;\n\nd) Efectuar consultas apropriadas com os interessados;\n\ne) Elaborar uma exposição de motivos do projecto de medida de execução, com base na avaliação referida na alínea b); e\n\nf) Fixar datas de execução, quaisquer medidas ou períodos faseados ou transitórios, tendo especialmente em conta o eventual impacto nas PME ou em pequenos grupos específicos de produtos manufacturados essencialmente em PME.\n\n5.\n\nAs medidas de execução devem preencher todos os critérios seguintes:\n\na) Não ter um impacto negativo significativo sobre a funcionalidade do produto, na perspectiva do utilizador;\n\nb) Não afectar negativamente a saúde, a segurança e o ambiente;\n\nc) Não ter um impacto negativo significativo sobre os consumidores, em particular no que diz respeito ao preço e ao custo do ciclo de vida do produto;\n\nd) Não ter um impacto negativo significativo sobre a competitividade da indústria;\n\ne) Em princípio, o estabelecimento de requisitos de concepção ecológica não deve ter por consequência a imposição de uma tecnologia patenteada aos fabricantes; e\n\nf) Não impor um ónus administrativo excessivo ao fabricante.\n\n6. As medidas de execução devem fixar requisitos de concepção ecológica, nos termos dos anexos I e/ou II.\n\nDevem introduzir-se requisitos específicos de concepção ecológica relativamente a determinados aspectos ambientais que tenham um impacto ambiental significativo.\n\nAs medidas de execução podem também prever que não são necessários requisitos de concepção ecológica relativamente a certos parâmetros específicos de concepção ecológica referidos na parte 1 do anexo I.\n\n7. Os requisitos são formulados de modo a garantir que as autoridades de fiscalização do mercado possam verificar a conformidade do produto com os requisitos da medida de execução. Esta deve especificar se a verificação pode ser realizada directamente no produto ou através da documentação técnica.\n\n8. As medidas de execução devem incluir os elementos enumerados no anexo VII.\n\n9. Os estudos e análises relevantes utilizados pela Comissão na elaboração das medidas de execução devem ser tornados públicos, tendo especialmente em conta a facilidade de acesso e de utilização pelas PME interessadas.\n\n10. Se for caso disso, as medidas de execução que estabeleçam requisitos de concepção ecológica devem incluir disposições sobre o equilíbrio entre os vários aspectos ambientais. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º"
+  },
+  "faefe90b80712680": {
+   "fragment_id": "Artigo 16.º — Plano de trabalho",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Plano de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de trabalho\n\n1. Nos termos dos critérios previstos no artigo 15.º e após consulta do Fórum de Consulta referido no artigo 18.º, a Comissão elabora, até 21 de Outubro de 2011, um plano de trabalho que deve ser tornado público.\n\nO plano de trabalho deve estabelecer, para os três anos seguintes, uma lista indicativa de grupos de produtos que são considerados prioritários para a adopção de medidas de execução.\n\nO plano de trabalho é alterado periodicamente pela Comissão, após consulta do Fórum de Consulta.\n\n2.\n\nTodavia, durante o período de transição, enquanto se elabora o primeiro plano de trabalho referido no n.º 1 do presente artigo, em conformidade com os critérios estabelecidos no artigo 15.º e após consulta do Fórum de Consulta, a Comissão deve introduzir, se for caso disso, por antecipação:\n\na) Medidas de execução, começando pelos produtos considerados pelo PEAC como oferecendo um elevado potencial de redução eficaz em termos de custos da emissão dos gases com efeito de estufa, tais como os equipamentos de aquecimento e de produção de água quente, os sistemas de motor eléctrico, a iluminação nos sectores residencial e terciário, os aparelhos domésticos, o equipamento de escritório nos sectores residencial e terciário, o equipamento electrónico para o público em geral e os sistemas de AVC (aquecimento, ventilação e climatização); e\n\nb) Uma medida de execução separada para reduzir as perdas em estado de vigília para um grupo de produtos.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 19.º"
+  },
+  "2ce7e709412f0fd7": {
+   "fragment_id": "Artigo 26.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "91f1fd3a3d5ddea8": {
+   "fragment_id": "Método de fixação dos requisitos genéricos de concepção ecológica",
+   "type": "divisao",
+   "heading": "Método de fixação dos requisitos genéricos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de fixação dos requisitos genéricos de concepção ecológica"
+  },
+  "f54c42161cf7ec9c": {
+   "fragment_id": "(a que se refere o n.º 6 do artigo 15.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 6 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 6 do artigo 15.º)\n\nOs requisitos genéricos de concepção ecológica têm por objectivo melhorar o desempenho ambiental do produto focando os seus aspectos ambientais significativos sem impor valores-limite. O método a que se refere o presente anexo será aplicado sempre que a definição de valores-limite para o grupo de produtos em causa não se revelar adequada. Durante a elaboração do projecto de medida a apresentar ao Comité referido no n.º 1 do artigo 19.º, a Comissão identificará os aspectos ambientais significativos, os quais serão especificados na medida de execução.\n\nAo elaborar medidas de execução que estabelecem requisitos genéricos de concepção ecológica nos termos do artigo 15.º, a Comissão identificará, na medida em que se aplique ao produto abrangido pela medida de execução, os parâmetros de concepção ecológica relevantes entre os parâmetros enumerados na parte 1, os requisitos referentes à prestação de informação entre os enumerados na parte 2 e os requisitos relativos ao fabricante enumerados na parte 3."
+  },
+  "f79f2eb339de5a5d": {
+   "fragment_id": "Parte 1. Parâmetros de concepção ecológica para os produtos",
+   "type": "divisao",
+   "heading": "Parte 1. Parâmetros de concepção ecológica para os produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte 1. Parâmetros de concepção ecológica para os produtos\n\n1.1. Os aspectos ambientais significativos são identificados em função das seguintes fases do ciclo de vida do produto, na medida em que se relacionem com a sua concepção:\n\na) Selecção e utilização da matéria-prima;\n\nb) Fabrico;\n\nc) Embalagem, transporte e distribuição;\n\nd) Instalação e manutenção;\n\ne) Utilização; e\n\nf) Fim de vida, por tal se entendendo o estado de um produto que atingiu o fim da sua utilização inicial até à eliminação final.\n\n1.2. Relativamente a cada fase, devem ser avaliados os seguintes aspectos ambientais, caso sejam relevantes:\n\na) Consumo previsto de materiais, de energia e de outros recursos, como água doce;\n\nb) Emissões previstas para o ar, a água ou o solo;\n\nc) Poluição prevista devido a efeitos físicos como o ruído, a vibração, a radiação ou os campos electromagnéticos;\n\nd) Geração prevista de resíduos; e\n\ne) Possibilidades de reutilização, reciclagem e valorização de materiais e/ou valorização energética tendo em conta a Directiva 2002/96/CE.\n\n1.3. Em especial, os parâmetros seguintes deverão ser utilizados, sempre que seja adequado, e se necessário, complementados por outros, para avaliar a possibilidade de melhoria dos aspectos ambientais referidos no ponto 1.2:\n\na) Peso e volume do produto;\n\nb) Utilização de materiais resultantes de actividades de reciclagem;\n\nc) Consumo de energia, água e outros recursos ao longo do ciclo de vida;\n\nd) Utilização de substâncias classificadas como perigosas para a saúde e/ou para o ambiente, nos termos da Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem das substâncias perigosas ([^25^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0025)), tendo em conta a legislação relativa à comercialização e utilização de substâncias específicas, como a Directiva 76/769/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à limitação da colocação no mercado e da utilização de algumas substâncias e preparações perigosas ([^26^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0026)) ou a Directiva 2002/95/CE;\n\ne) Quantidade e natureza dos materiais consumíveis necessários para a utilização e a manutenção correctas;\n\nf) Facilidade de reutilização e de reciclagem, expressa em: número de materiais e componentes utilizados, uso de componentes normalizados, tempo necessário para a desmontagem, complexidade das ferramentas necessárias para a desmontagem, utilização de normas de codificação de componentes e materiais para a identificação dos componentes e materiais que podem ser reutilizados e reciclados (incluindo marcação de partes de plástico de acordo com as normas ISO), utilização de materiais facilmente recicláveis, fácil acesso a componentes e materiais valiosos e outros componentes e materiais recicláveis; fácil acesso a componentes e materiais que contenham substâncias perigosas;\n\ng) Incorporação de componentes usados;\n\nh) Preocupação em evitar a utilização de soluções técnicas em detrimento da reutilização e reciclagem de componentes e de aparelhos;\n\ni) Extensão do tempo de vida, expressa em: tempo de vida mínimo garantido, tempo mínimo para a disponibilização de peças sobressalentes, modularidade, possibilidade de actualização e reparação;\n\nj) Quantidade de resíduos gerados e quantidade de resíduos perigosos gerados;\n\nk) Emissões para o ar (gases com efeito de estufa, agentes acidificantes, compostos orgânicos voláteis, substâncias que empobrecem a camada de ozono, poluentes orgânicos persistentes, metais pesados, partículas finas e partículas em suspensão), sem prejuízo da Directiva 97/68/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1997, relativa à aproximação das legislações dos Estados-Membros respeitantes a medidas contra a emissão de poluentes gasosos e de partículas pelos motores de combustão interna a instalar em máquinas móveis não rodoviárias ([^27^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#E0027));\n\nl) Emissões para a água (metais pesados, substâncias com efeito negativo sobre o balanço de oxigénio e poluentes orgânicos persistentes); e\n\nm) Emissões para o solo (especialmente fugas e derramamentos de substâncias perigosas durante a fase de utilização dos produtos e potencial de lixiviação aquando da eliminação como resíduo)."
+  },
+  "f47f2530b0a72007": {
+   "fragment_id": "Parte 2. Requisitos referentes à prestação de informações",
+   "type": "divisao",
+   "heading": "Parte 2. Requisitos referentes à prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte 2. Requisitos referentes à prestação de informações\n\nAs medidas de execução podem exigir informações a prestar pelo fabricante que possam influenciar a forma como o produto é manuseado, utilizado ou reciclado por outros que não sejam o fabricante. Essas informações podem incluir, quando aplicável:\n\na) Informação do projectista relativa ao processo de fabrico;\n\nb) Informação destinada aos consumidores sobre as características ambientais e de desempenho significativas do produto, que o acompanha aquando da sua colocação no mercado, de modo a que o consumidor possa comparar esses aspectos dos produtos;\n\nc) Informação destinada aos consumidores sobre o modo de instalação, utilização e manutenção do produto, de forma a minimizar o seu impacto sobre o ambiente e a garantir uma esperança de vida óptima, bem como sobre o modo de devolução do produto no fim do seu ciclo de vida e, sempre que oportuno, informações sobre o período de disponibilidade de peças sobressalentes e sobre as possibilidades de actualização de aparelhos; e\n\nd) Informação destinada às estações de tratamento, relativa a desmontagem, reciclagem ou eliminação no fim da vida.\n\nSempre que possível, as informações deverão ser apostas no próprio produto.\n\nEstas informações deverão ter em conta as obrigações decorrentes de outra legislação comunitária, como a Directiva 2002/96/CE."
+  },
+  "3b25351d49fbb0d9": {
+   "fragment_id": "Parte 3. Requisitos relativos ao fabricante",
+   "type": "divisao",
+   "heading": "Parte 3. Requisitos relativos ao fabricante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte 3. Requisitos relativos ao fabricante\n\n1. Ao ocuparem-se dos aspectos ambientais identificados na medida de execução que podem ser influenciados de forma substancial na fase de concepção do produto, os fabricantes de um produto deverão realizar uma avaliação de um modelo de produto ao longo do seu ciclo de vida, pressupondo de forma realista que ele será utilizado em condições normais e para os fins previstos. Poderão igualmente ser analisados de modo voluntário outros aspectos de incidência ambiental.\n\n2. O fabricante deverá recorrer a esta avaliação para considerar soluções alternativas de concepção e apreciar o desempenho ambiental do produto obtido, comparativamente a marcos de referência."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a13bd5841ae924e4": {
+   "fragment_id": "Método de fixação dos requisitos específicos de concepção ecológica",
+   "type": "divisao",
+   "heading": "Método de fixação dos requisitos específicos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de fixação dos requisitos específicos de concepção ecológica"
+  },
+  "9b515afdb76823ac": {
+   "fragment_id": "(a que se refere o n.º 6 do artigo 15.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 6 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 6 do artigo 15.º)\n\nOs requisitos específicos de concepção ecológica têm como objectivo melhorar um determinado aspecto ambiental do produto. Podem consistir em requisitos de consumo reduzido de determinado recurso, tais como limites de utilização desse recurso nas várias fases do ciclo de vida do produto, quando seja adequado (por exemplo, limites de consumo de água na fase de utilização, ou das quantidades de determinado material incorporado no produto, ou ainda nas quantidades mínimas exigidas de material reciclado).\n\nAo elaborar as medidas de execução que fixam os requisitos específicos de concepção ecológica nos termos do artigo 15.º, a Comissão identificará, conforme aplicável ao produto abrangido pela medida de execução, os parâmetros de concepção ecológica relevantes entre os parâmetros referidos no anexo I, parte 1, e, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 19.º, fixará os níveis desses requisitos do seguinte modo:\n\n1. Uma análise técnica, ambiental e económica seleccionará um número de modelos representativos do produto em questão já no mercado e identificará as opções técnicas para melhorar o desempenho ambiental do produto, atendendo à viabilidade económica das opções e evitando qualquer perda significativa de desempenho ou de utilidade para os consumidores.\n\n2. Para desenvolver as análises técnicas, ambientais e económicas, poderá recorrer-se às informações disponíveis no âmbito de outras actividades comunitárias.\n\n3. A data de entrada em vigor deste requisito deverá ter em conta o ciclo de adaptação da concepção do produto."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "e2d5c93633c3c4fb": {
+   "fragment_id": "Marcação CE",
+   "type": "divisao",
+   "heading": "Marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Marcação CE"
+  },
+  "0b7f4d10d948fc0e": {
+   "fragment_id": "(a que se refere o n.º 2 do artigo 5.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 2 do artigo 5.º)\n\nA marcação CE deve ter uma altura de, pelo menos, 5 mm. Se a marcação CE for reduzida ou ampliada, devem ser respeitadas as proporções resultantes do grafismo graduado acima indicado.\n\nA marcação CE deve ser aposta no produto. Se isso não for possível, deve ser aposta na embalagem e nos documentos que acompanham o produto."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9b5e362d840697f2": {
+   "fragment_id": "Controlo interno da concepção",
+   "type": "divisao",
+   "heading": "Controlo interno da concepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlo interno da concepção"
+  },
+  "02b2be00e7ff4042": {
+   "fragment_id": "(a que se refere o n.º 2 do artigo 8.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 2 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 2 do artigo 8.º)\n\n1. O presente anexo descreve o procedimento através do qual o fabricante ou o seu mandatário que cumpre as obrigações previstas no ponto 2 do presente anexo garante e declara que um produto está em conformidade com os requisitos relevantes da medida de execução aplicável. A declaração de conformidade pode abranger um ou mais produtos e deve ser conservada pelo fabricante.\n\n2. O fabricante deverá compilar um dossier de documentação técnica que permita uma avaliação da conformidade do produto com os requisitos da medida de execução aplicável.\n\na) Uma descrição geral do produto e da utilização a que se destina;\n\nb) Os resultados dos estudos de avaliação ambiental relevantes efectuados pelo fabricante e/ou referências à literatura relativa à avaliação ambiental ou a estudos de casos utilizados pelo fabricante para avaliar, documentar e determinar as soluções de concepção do produto;\n\nc) O perfil ecológico, se for exigido pela medida de execução;\n\nd) Elementos da especificação da concepção do produto relativos aos aspectos ambientais da sua concepção;\n\ne) Uma lista das normas adequadas referidas no artigo 10.º, aplicados no todo ou em parte, e uma descrição das soluções adoptadas para cumprir os requisitos da medida de execução aplicável, caso as normas referidas no artigo 10.º não tenham sido aplicadas ou não abranjam inteiramente os requisitos da medida de execução aplicável;\n\nf) Uma cópia da informação relativa aos aspectos ambientais da concepção do produto, prestada nos termos dos requisitos enumerados na parte 2 do anexo I; e\n\ng) Os resultados das medições efectuadas dos requisitos de concepção ecológica, incluindo pormenores da conformidade destas medições, em comparação com os requisitos de concepção ecológica previstos na medida de execução aplicável.\n\n3. O fabricante deve tomar todas as medidas necessárias para garantir que o produto seja fabricado em conformidade com as especificações relativas à concepção referidas no ponto 2 e com os requisitos da medida que lhe seja aplicável."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "db01ed14ef0de22f": {
+   "fragment_id": "Sistema de gestão para avaliação da conformidade",
+   "type": "divisao",
+   "heading": "Sistema de gestão para avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sistema de gestão para avaliação da conformidade"
+  },
+  "42d9009d98290b62": {
+   "fragment_id": "(a que se refere o n.º 2 do artigo 8.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 2 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 2 do artigo 8.º)\n\n1. O presente anexo descreve o procedimento através do qual o fabricante que cumpre as obrigações do ponto 2 garante e declara que o produto respeita os requisitos da medida de execução aplicável. A declaração CE de conformidade pode abranger um ou mais produtos e deve ser conservada pelo fabricante.\n\n2. Poderá ser utilizado um sistema de gestão para avaliação da conformidade de um produto desde que o fabricante aplique os elementos ambientais especificados no ponto 3.\n\n3. Elementos ambientais do sistema de gestãoO presente ponto especifica os elementos de um sistema de gestão e os procedimentos através dos quais o fabricante pode demonstrar que o produto cumpre os requisitos da medida de execução aplicável. 3.1. **Política de desempenho ambiental do produto** O fabricante deve poder demonstrar a conformidade com os requisitos da medida de execução aplicável. O fabricante deve igualmente poder apresentar um quadro para a fixação e a revisão dos objectivos e indicadores do desempenho ambiental do produto, tendo em vista melhorar o desempenho ambiental geral do produto. Todas as medidas adoptadas pelo fabricante para melhorar o desempenho ambiental geral do produto e para estabelecer o seu perfil ecológico, se tal for requerido pela medida de execução, através da concepção e do fabrico devem ser documentadas de modo sistemático e ordenado, sob a forma de instruções e procedimentos escritos. Os referidos procedimentos e instruções devem incluir, nomeadamente, uma descrição adequada: a) Da lista dos documentos a preparar para demonstrar a conformidade do produto e, se necessário, a disponibilizar; b) Dos objectivos e indicadores do desempenho ambiental do produto, bem como da estrutura organizacional, das responsabilidades, das atribuições da gestão e da afectação de recursos em matéria de aplicação e manutenção; c) Das verificações e dos ensaios a realizar após o fabrico para verificar o desempenho do produto em função de indicadores de desempenho ambiental; d) Dos procedimentos de controlo da documentação exigida, garantindo a sua constante actualização; e e) Do método de verificação da aplicação e da eficácia dos elementos ambientais do sistema de gestão. 3.2. **Planeamento** O fabricante deverá instituir e manter: a) Procedimentos para o estabelecimento do perfil ecológico do produto; b) Objectivos e indicadores do desempenho ambiental do produto, atendendo a opções tecnológicas que tenham em conta requisitos técnicos e económicos; e c) Um programa para cumprir estes objectivos. 3.3. **Aplicação e documentação** 3.3.1. A documentação relativa ao sistema de gestão deverá respeitar, nomeadamente, o seguinte: a) As responsabilidades e as competências deverão ser definidas e documentadas de modo a garantir um desempenho ambiental eficaz do produto e a dar conta do seu funcionamento, para revisão e melhoria; b) Os documentos deverão ser estabelecidos com indicação das técnicas de controlo e verificação da concepção aplicadas e das medidas sistemáticas e dos processos utilizados na concepção do produto; e c) O fabricante deverá estabelecer e manter informações para descrever os elementos ambientais essenciais do sistema de gestão e os procedimentos de controlo de toda a documentação exigida. 3.3.2. A documentação relativa ao produto deverá especificar, nomeadamente: a) Uma descrição geral do produto e da utilização a que se destina; b) Os resultados dos estudos de avaliação ambiental relevantes efectuados pelo fabricante e/ou referências à literatura relativa à avaliação ambiental ou a estudos de casos utilizados pelo fabricante para avaliar, documentar e determinar as soluções de concepção do produto; c) O perfil ecológico, se for exigido pela medida de execução; d) Os documentos devem descrever os resultados das medições efectuadas quanto aos requisitos de concepção ecológica, incluindo pormenores da conformidade dessas medições relativamente aos requisitos de concepção ecológica estabelecidos na medida de execução aplicável; e) O fabricante deve estabelecer especificações que indiquem, em especial, as normas que tenham sido aplicadas; se as normas referidas no artigo 10.º não forem aplicadas ou se não abrangerem inteiramente os requisitos da medida de execução relevante, deve indicar os meios utilizados para garantir a conformidade; e f) Uma cópia da informação relativa aos aspectos ambientais da concepção do produto, prestada nos termos dos requisitos enumerados na parte 2 do anexo I. 3.4. **Verificação e acção correctiva** 3.4.1. O fabricante deve: a) Tomar todas as medidas necessárias para garantir que o produto é produzido em conformidade com as especificações de concepção e com os requisitos da medida de execução que lhe é aplicável; b) Instituir e manter procedimentos para investigar e lidar com a não conformidade, e introduzir as alterações resultantes da acção correctiva nos procedimentos documentados; c) Efectuar, pelo menos de três em três anos, uma auditoria interna total ao sistema de gestão ambiental."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "5897d91a1928fb25": {
+   "fragment_id": "Declaração CE de conformidade",
+   "type": "divisao",
+   "heading": "Declaração CE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Declaração CE de conformidade"
+  },
+  "b240331759ee7a09": {
+   "fragment_id": "(a que se refere o n.º 3 do artigo 5.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 3 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 3 do artigo 5.º)\n\nA declaração CE de conformidade deve incluir os seguintes elementos:\n\n1. Nome e endereço do fabricante ou do seu mandatário;\n\n2. Descrição suficiente do modelo para uma identificação inequívoca;\n\n3. Se for o caso, referências das normas harmonizadas aplicadas;\n\n4. Se for o caso, outras normas e especificações técnicas utilizadas;\n\n5. Se for o caso, referência a outra legislação comunitária aplicada no que preveja a aposição da marcação CE; e\n\n6. Identificação e assinatura da pessoa com poderes para vincular o fabricante ou o seu mandatário."
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "458a28ee1c156b7e": {
+   "fragment_id": "Conteúdo das medidas de execução",
+   "type": "divisao",
+   "heading": "Conteúdo das medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Conteúdo das medidas de execução"
+  },
+  "83552acb330add8a": {
+   "fragment_id": "(a que se refere o n.º 8 do artigo 15.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o n.º 8 do artigo 15.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o n.º 8 do artigo 15.º)\n\nAs medidas de execução devem especificar, designadamente:\n\n1. A definição exacta do(s) tipo(s) de produto(s) abrangido(s).\n\n2. O(s) requisito(s) de concepção ecológica para o(s) produto(s) abrangido(s), a(s) data(s) de aplicação e qualquer medida ou período faseado ou transitório:\n\na) No caso de requisito(s) genérico(s) de concepção ecológica, as fases e aspectos relevantes seleccionados de entre os mencionados nos pontos 1.1 e 1.2 do anexo I, acompanhados de exemplos de parâmetros entre os mencionados no ponto 1.3 do anexo I, como orientação, ao avaliar as melhorias relativas aos aspectos ambientais identificados;\n\nb) No caso de requisitos específicos de concepção ecológica, os respectivos níveis.\n\n3. Os parâmetros de concepção ecológica referidos na parte 1 do anexo I, relativamente aos quais não é necessário um requisito de concepção ecológica.\n\n4. Os requisitos relativos à instalação do produto, quando tal especificação tenha pertinência directa para o seu desempenho ambiental considerado.\n\n5. As normas de medição e/ou os métodos de medição a utilizar; se estiverem disponíveis, serão utilizadas normas harmonizadas cujos números de referência tenham sido publicados no *Jornal Oficial da União Europeia*.\n\n6. Os pormenores para a avaliação da conformidade nos termos da Decisão 93/465/CEE:\n\na) Quando o ou os módulos a aplicar forem diferentes do módulo A os factores que conduziram à selecção desse procedimento específico;\n\nb) Quando for adequado, os critérios de aprovação e/ou de certificação de terceiros.\n\n7. Os requisitos relativos às informações a prestar pelos fabricantes, nomeadamente, sobre os elementos da documentação técnica necessários para facilitar a verificação da conformidade do produto com a medida de execução.\n\n8. A duração do período de transição durante o qual os Estados-Membros devem autorizar a colocação no mercado e/ou colocação em serviço de produtos que cumprem com a legislação em vigor nos respectivos territórios à data de adopção da medida de execução.\n\n9. A data de avaliação e possível revisão da medida de execução, tendo em conta o ritmo do progresso tecnológico."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "81d5f8d9d6295e36": {
+   "fragment_id": "Auto-Regulação",
+   "type": "divisao",
+   "heading": "Auto-Regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Auto-Regulação"
+  },
+  "9f4d1aecd3741b40": {
+   "fragment_id": "(a que se refere o artigo 17.º)",
+   "type": "divisao",
+   "heading": "(a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (a que se refere o artigo 17.º)\n\nPara além dos requisitos legais de base nos termos dos quais as iniciativas de auto-regulação devem respeitar todas as disposições do Tratado (em particular, em matéria de mercado interno e de concorrência), bem como os compromissos internacionais assumidos pela Comunidade, incluindo as normas multilaterais em matéria comercial, pode utilizar-se a seguinte lista não exaustiva de critérios indicativos para avaliar a admissibilidade das iniciativas de auto-regulação em alternativa a medidas de execução no contexto da presente directiva:"
+  },
+  "de9eece6055c554d": {
+   "fragment_id": "1. Participação aberta",
+   "type": "divisao",
+   "heading": "1. Participação aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Participação aberta\n\nAs iniciativas de auto-regulação estarão abertas à participação de operadores de países terceiros, tanto na fase preparatória como nas fases de execução."
+  },
+  "1b022c104798c68e": {
+   "fragment_id": "2. Valor acrescentado",
+   "type": "divisao",
+   "heading": "2. Valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Valor acrescentado\n\nAs iniciativas de auto-regulação deverão produzir valor acrescentado (mais do que a manutenção do «status quo») em termos de um melhor desempenho ambiental global dos produtos."
+  },
+  "d33a6ab92b9954c2": {
+   "fragment_id": "3. Representatividade",
+   "type": "divisao",
+   "heading": "3. Representatividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Representatividade\n\nO sector industrial e respectivas associações que sejam partes numa acção de auto-regulação deverão representar uma grande maioria do sector económico relevante, com o menor número possível de excepções. Será, todavia, necessário garantir o respeito pelas regras de concorrência."
+  },
+  "d964f7f9425f19f7": {
+   "fragment_id": "4. Objectivos quantificados e faseados",
+   "type": "divisao",
+   "heading": "4. Objectivos quantificados e faseados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Objectivos quantificados e faseados\n\nOs objectivos definidos pelas partes devem ser enunciados de forma clara e inequívoca, partindo de uma base de referência bem definida. Se a iniciativa de auto-regulação abranger um vasto período de tempo, devem ser incluídos objectivos intercalares. O cumprimento dos objectivos finais e intercalares deve poder ser avaliado de forma acessível e credível através de indicadores claros e fiáveis. A informação relativa à investigação, bem como os dados científicos e tecnológicos de carácter geral, devem facilitar o desenvolvimento desses indicadores."
+  },
+  "b5e2c626c1f16952": {
+   "fragment_id": "5. Participação da sociedade civil",
+   "type": "divisao",
+   "heading": "5. Participação da sociedade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. Participação da sociedade civil\n\nA fim de garantir a transparência, as iniciativas de auto-regulação devem ser publicitadas, nomeadamente através da utilização da internet e de outros meios electrónicos de divulgação da informação.\n\nO mesmo se aplica aos relatórios de vigilância intercalares e finais. As partes, nomeadamente, os Estados-Membros, o sector industrial, as ONG operantes no domínio ambiental e as associações de consumidores, devem ter a possibilidade de apresentar comentários sobre as iniciativas de auto-regulação."
+  },
+  "f9f5bb06c9fb9b2c": {
+   "fragment_id": "6. Vigilância e informação",
+   "type": "divisao",
+   "heading": "6. Vigilância e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 6. Vigilância e informação\n\nAs iniciativas de auto-regulação devem incluir um sistema de vigilância bem concebido, em que as responsabilidades do sector industrial e dos verificadores independentes estejam claramente definidas. Os serviços da Comissão, em parceria com as partes na iniciativa de auto-regulação, são convidados a proceder à vigilância do cumprimento dos objectivos.\n\nO plano de vigilância e informação deve ser pormenorizado, transparente e objectivo. Cabe aos serviços da Comissão, assistidos pelo comité a que se refere o n.º 1 do artigo 19.º, avaliar o cumprimento dos objectivos do acordo voluntário ou de outras medidas de auto-regulação."
+  },
+  "6651c7d22ae455aa": {
+   "fragment_id": "7. Rentabilidade derivada da iniciativa de auto-regulação",
+   "type": "divisao",
+   "heading": "7. Rentabilidade derivada da iniciativa de auto-regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 7. Rentabilidade derivada da iniciativa de auto-regulação\n\nOs custos de gestão das iniciativas de auto-regulação, em particular no que respeita à vigilância, não devem conduzir a encargos administrativos desproporcionados quando comparados com os objectivos e outros instrumentos disponíveis."
+  },
+  "efed7eddea11670e": {
+   "fragment_id": "8. Sustentabilidade",
+   "type": "divisao",
+   "heading": "8. Sustentabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 8. Sustentabilidade\n\nAs iniciativas de auto-regulação devem ser conformes aos objectivos enunciados na presente directiva, incluindo a abordagem integrada, e devem ser coerentes com as dimensões económica e social do desenvolvimento sustentável. A protecção dos interesses dos consumidores, nomeadamente a saúde, a qualidade de vida e os interesses económicos deve ser igualmente integrada."
+  },
+  "4c9e58af8d7cc044": {
+   "fragment_id": "9. Compatibilidade dos incentivos",
+   "type": "divisao",
+   "heading": "9. Compatibilidade dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 9. Compatibilidade dos incentivos\n\nÉ pouco provável que as iniciativas de auto-regulação produzam os resultados previstos se outros factores e incentivos, como pressão do mercado, impostos e legislação a nível nacional, transmitirem indicações contraditórias aos participantes nas iniciativas de auto-regulação. A coerência das políticas é essencial neste contexto e deve ser tida em conta na avaliação da eficácia da iniciativa."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "2579d25b04378dfa": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A\n\nDirectiva 2005/32/CE do Parlamento Europeu e do Conselho (JO L 191 de 22.7.2005, p. 29)\n\nDirectiva 2008/28/CE do Parlamento Europeu e do Conselho (JO L 81 de 20.3.2008, p. 48) Apenas o artigo 1.º"
+  },
+  "e7257aaea3591dae": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B\n\nDirectiva Prazo de transposição\n\n2005/32/CE 11 de Agosto de 2007\n\n2008/28/CE —"
+  },
+  "f0d16828a20ed53b": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X\n\nDirectiva 2005/32/CE Presente directiva\n\nArtigos 1.º a 20.º Artigos 1.º a 20.º\n\nArtigo 21.º —\n\nArtigo 22.º —\n\nArtigo 23.º Artigo 21.º\n\nArtigo 24.º Artigo 22.º\n\nArtigo 25.º —\n\n— Artigo 23.º\n\n— Artigo 24.º\n\nArtigo 26.º Artigo 25.º\n\nArtigo 27.º Artigo 26.º\n\nAnexos I a VIII Anexos I a VIII\n\n— Anexo IX\n\n— Anexo X\n\n---"
+  },
+  "9cb35c40b67f2903": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0001)) JO C 100 de 30.4.2009, p. 120.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 24 de Abril de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 24 de Setembro de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0003)) JO L 191 de 22.7.2005, p. 29.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0004)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0005)) JO L 218 de 13.8.2008, p. 82.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0006)) JO L 218 de 13.8.2008, p. 30.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0007)) JO C 136 de 4.6.1985, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0008)) JO C 141 de 19.5.2000, p. 1.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0009)) JO L 297 de 13.10.1992, p. 16.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0010)) JO L 237 de 21.9.2000, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0011)) JO L 37 de 13.2.2003, p. 24.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0012)) JO L 37 de 13.2.2003, p. 19.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0013)) JO L 396 de 30.12.2006, p. 1.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0014)) JO L 39 de 13.2.2008, p. 1.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0015)) JO L 153 de 18.6.2010, p. 13.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0016)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0017)) JO L 167 de 22.6.1992, p. 17.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0018)) JO L 236 de 18.9.1996, p. 36.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0019)) JO L 279 de 1.11.2000, p. 33.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0020)) JO C 321 de 31.12.2003, p. 1.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0021)) JO L 114 de 27.4.2006, p. 9.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0022)) JO L 377 de 31.12.1991, p. 20.\n\n> ([^23^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0023)) JO L 204 de 21.7.1998, p. 37.\n\n> ([^24^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0024)) JO L 114 de 24.4.2001, p. 1.\n\n> ([^25^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0025)) JO 196 de 16.8.1967, p. 1.\n\n> ([^26^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0026)) JO L 262 de 27.9.1976, p. 201.\n\n> ([^27^](http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1#src.E0027)) JO L 59 de 27.2.1998, p. 1."
+  }
+ }
+}

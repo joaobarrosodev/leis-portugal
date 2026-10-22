@@ -35,6 +35,69 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-26'
+version_history:
+  file: diretiva-ue-2009-147.versoes.json
+  count: 3
+  source_lastmod: '2019-06-26'
+  versions:
+  - date: '2010-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0017:por
+    amending_title: DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º
+    - Altera Artigo 20.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita GAVIIFORMES
+    - Adita Gaviidae
+    - Adita PODICIPEDIFORMES
+    - Adita Podicipedidae
+    - Adita PROCELLARIIFORMES
+    - Adita Procellariidae
+    - Adita Hydrobatidae
+    - Adita PELECANIFORMES
+    - Adita Pelecanidae
+    - Adita Phalacrocoracidae
+    - Adita CICONIIFORMES
+    - Adita Ardeidae
+    - Adita Ciconiidae
+    - Adita Threskiornithidae
+    - Adita PHOENICOPTERIFORMES
+    - Adita Phoenicopteridae
+    - Adita ANSERIFORMES
+    - Adita Anatidae
+    - Adita FALCONIFORMES
+    - Adita Pandionidae
+    - Adita Accipitridae
+    - Adita Falconidae
+    - Adita GALLIFORMES
+    - Adita Tetraonidae
+    - Adita Phasianidae
+    - Adita GRUIFORMES
+    - Adita Turnicidae
+    - Adita Gruidae
+    - Adita Rallidae
+    - Adita Otididae
+    - Adita CHARADRIIFORMES
+    - Adita Recurvirostridae
+    - Adita Burhinidae
+    - Adita Glareolidae
+    - Adita Charadriidae
+  - date: '2019-06-26'
+    amending: eu:celex:32019R1010:por
+    amending_title: REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera ANEXO VII
+    - Altera Notas
+    - Adita Artigo 16.º-A — Procedimento de comité
+    - Adita TABELA DE CORRESPONDÊNCIA
 identifiers:
   celex: 32009L0147
   eli: http://data.europa.eu/eli/dir/2009/147/oj
@@ -49,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a3b1a793-7b18-49f7-a05c-19d10796cdff.0018
   content_url: http://publications.europa.eu/resource/cellar/4a5070d3-ca79-11e9-992f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0147-20190626
-  retrieved_at: '2026-10-22T02:24:04Z'
+  retrieved_at: '2026-10-22T15:40:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T11:05:24.499+02:00'
 integrity:
@@ -58,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:24:04Z'
-  notes: Texto consolidado 02009L0147-20190626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-147.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -684,30 +747,19 @@ relationships:
   source: null
 article_structure:
   article_count: 21
-  section_count: 101
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 102
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:24:04Z'
+  checked_at: '2026-10-22T15:40:28Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de Novembro de 2009
-
-> 02009L0147 — PT — 26.06.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0017) — [DIRETIVA 2013/17/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0017) — L 158 — 193 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32019R1010) — [REGULAMENTO (UE) 2019/1010 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1010) — L 170 — 115 — 25.6.2019
-
-## DIRECTIVA 2009/147/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de Novembro de 2009
 

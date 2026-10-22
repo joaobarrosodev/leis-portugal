@@ -36,6 +36,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-08-19'
+version_history:
+  file: regulamento-ue-2009-924.versoes.json
+  count: 7
+  source_lastmod: '2021-08-19'
+  versions:
+  - date: '2009-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-03-31'
+    amending: eu:celex:32012R0260:por
+    amending_title: REGULAMENTO (UE) N. o 260/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Encargos pelos pagamentos transfronteiriçose pagamentos nacionais equivalentes
+    - Altera Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Altera Artigo 5.º — Obrigações de declaração para efeitos da balança de pagamentos
+    - Altera Artigo 7.º — Taxa de intercâmbio para operações de débito directo nacionais
+    - Altera Artigo 17.º — Entrada em vigor
+    - Altera Notas
+    - Suprime Artigo 8.º — Acessibilidade para operações de débito directo
+  - date: '2019-04-18'
+    amending: eu:celex:32019R0518:por
+    amending_title: REGULAMENTO (UE) 2019/518 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Altera Notas
+    - Adita Artigo 15.º — Reexame
+    - Suprime Artigo 15.º — Revisão
+  - date: '2019-12-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Encargos pelos pagamentos transfronteiriçose pagamentos nacionais equivalentes
+    - Altera Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Altera Artigo 15.º — Reexame
+    - Altera Notas
+  - date: '2020-04-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Altera Artigo 15.º — Reexame
+    - Altera Notas
+    - Adita Artigo 3.º-A — Encargos de conversão cambial relacionados com operações baseadas em cartões
+    - Adita Artigo 3.º-B — Encargos de conversão cambial relacionados com transferências a crédito
+  - date: '2021-04-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º-A — Encargos de conversão cambial relacionados com operações baseadas em cartões
+    - Altera Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Altera Artigo 15.º — Reexame
+    - Altera Notas
+  - date: '2021-08-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Encargos pelos pagamentos transfronteiriçose pagamentos nacionais equivalentes
+    - Suprime Artigo 3.º-A — Encargos de conversão cambial relacionados com operações baseadas em cartões
+    - Suprime Artigo 3.º-B — Encargos de conversão cambial relacionados com transferências a crédito
+    - Suprime Artigo 4.º — Medidas destinadas a facilitar a automatização dos pagamentos
+    - Suprime Artigo 5.º — Obrigações de declaração para efeitos da balança de pagamentos
+    - Suprime Artigo 6.º — Taxa de intercâmbio para operações de débito directo transfronteiriço
+    - Suprime Artigo 7.º — Taxa de intercâmbio para operações de débito directo nacionais
+    - Suprime Artigo 9.º — Autoridades competentes
+    - Suprime Artigo 10.º — Procedimentos de reclamação por alegadas infracçõesao presente regulamento
+    - Suprime Artigo 11.º — Procedimentos de reclamação e de resolução extrajudicial de litígios
+    - Suprime Artigo 12.º — Cooperação transfronteiriça
+    - Suprime Artigo 13.º — Sanções
+    - Suprime Artigo 14.º — Aplicação a outras moedas nacionais além do euro
+    - Suprime Artigo 15.º — Reexame
+    - Suprime Artigo 16.º — Revogação
+    - Suprime Artigo 17.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32009R0924
   eli: http://data.europa.eu/eli/reg/2009/924/oj
@@ -50,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e494d3ed-db24-4aca-bfe3-688b482ed3c2.0019
   content_url: http://publications.europa.eu/resource/cellar/69ff1368-1c6d-11ec-b4fe-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0924-20210819
-  retrieved_at: '2026-10-22T02:45:32Z'
+  retrieved_at: '2026-10-22T15:44:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T22:01:18.073+02:00'
 integrity:
@@ -59,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:32Z'
-  notes: Texto consolidado 02009R0924-20210819.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:02Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2009-924.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,16 +228,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:32Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:44:02Z'
+  warnings: []
   errors: []
 ---
 

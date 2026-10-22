@@ -37,6 +37,375 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-16'
+version_history:
+  file: diretiva-ue-2009-65.versoes.json
+  count: 13
+  source_lastmod: '2026-04-16'
+  versions:
+  - date: '2009-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-04'
+    amending: eu:celex:32010L0078:por
+    amending_title: DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 24 de
+      Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 69.º
+    - Altera Artigo 75.º
+    - Altera Artigo 78.º
+    - Altera Artigo 81.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Altera Artigo 95.º
+    - Altera Artigo 97.º
+    - Altera Artigo 101.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 105.º
+    - Altera Artigo 108.º
+    - Altera Artigo 111.º
+  - date: '2011-07-21'
+    amending: eu:celex:32011L0061:por
+    amending_title: DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 8 de Junho
+      de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 102.º
+    - Altera Artigo 112.º
+    - Altera Artigo 112.ºA — Revogação da delegação
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Artigo 50.º-A
+  - date: '2013-06-20'
+    amending: eu:celex:32013L0014:por
+    amending_title: DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 21 de maio
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 102.º
+    - Altera ESQUEMA A
+    - Altera Notas
+  - date: '2014-09-17'
+    amending: eu:celex:32014L0091:por
+    amending_title: DIRETIVA 2014/91/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 23 de julho
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 30.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 69.º
+    - Altera Artigo 75.º
+    - Altera Artigo 78.º
+    - Altera Artigo 81.º
+    - Altera Artigo 95.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 102.º
+    - Altera Artigo 111.º
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 22.º-A
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 99.º-A
+  - date: '2019-01-01'
+    amending: eu:celex:32017R2402:por
+    amending_title: REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+  - date: '2020-01-07'
+    amending: eu:celex:32019L2162:por
+    amending_title: DIRETIVA (UE) 2019/2162 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 27
+      de novembro de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+  - date: '2021-06-26'
+    amending: eu:celex:32019L2034:por
+    amending_title: DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+  - date: '2021-08-02'
+    amending: eu:celex:32019L1160:por
+    amending_title: DIRETIVA (UE) 2019/1160 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 91.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
+    - Altera Artigo 95.º
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Artigo 93.º-A
+    - Suprime Artigo 77.º
+  - date: '2023-01-01'
+    amending: eu:celex:32021L2261:por
+    amending_title: DIRETIVA (UE) 2021/2261 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 93.º-A
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Artigo 82.º-A
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 82.º-A
+    - Altera Artigo 93.º-A
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Acessibilidade da informação no ponto de acesso único europeu
+    - Adita Artigo 82.º-B
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022; DIRETIVA (UE) 2024/2994
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 82.º-A
+    - Altera Artigo 82.º-B
+    - Altera Artigo 93.º-A
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera ESQUEMA A
+    - Altera Notas
+  - date: '2026-04-16'
+    amending: eu:celex:32024L0927:por
+    amending_title: DIRETIVA (UE) 2024/927 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 14.º-A
+    - Altera Artigo 14.º-B
+    - Altera Artigo 22.º
+    - Altera Artigo 22.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 42.º
+    - Altera Artigo 50.º
+    - Altera Artigo 50.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 57.º
+    - Altera Artigo 69.º
+    - Altera Artigo 79.º
+    - Altera Artigo 82.º-A
+    - Altera Artigo 82.º-B
+    - Altera Artigo 84.º
+    - Altera Artigo 93.º-A
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 99.º-D
+    - Altera Artigo 101.º
+    - Altera Artigo 102.º
+    - Altera Artigo 104.º-A
+    - Altera Artigo 112.º
+    - Altera Artigo 112.º-A
+    - Altera ESQUEMA A
+    - Altera Notas
+    - Adita Artigo 18.º-A
+    - Adita Artigo 20.º-B
+    - Adita Artigo 110.º-A
+    - Adita ANEXO II-A
+    - Adita INSTRUMENTOS DE GESTÃO DA LIQUIDEZ À DISPOSIÇÃO DOS OICVM
 identifiers:
   celex: 32009L0065
   eli: http://data.europa.eu/eli/dir/2009/65/oj
@@ -51,7 +420,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0baaf4bd-450e-4b61-8bfd-6d7bad1f97cf.0018
   content_url: http://publications.europa.eu/resource/cellar/a259068c-0db9-11f1-8870-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0065-20260416
-  retrieved_at: '2026-10-22T02:36:27Z'
+  retrieved_at: '2026-10-22T15:39:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T12:23:29.870+02:00'
 integrity:
@@ -60,9 +429,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:27Z'
-  notes: Texto consolidado 02009L0065-20260416.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:14Z'
+  notes: 13 versão(ões); histórico completo em diretiva-ue-2009-65.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -385,48 +754,19 @@ relationships:
   source: null
 article_structure:
   article_count: 132
-  section_count: 87
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 88
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:27Z'
+  checked_at: '2026-10-22T15:39:14Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/65/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009L0065 — PT — 16.04.2026 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0078) — [DIRECTIVA 2010/78/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0078) — L 331 — 120 — 15.12.2010
-- [M2](http://publications.europa.eu/resource/celex/32011L0061) — [DIRECTIVA 2011/61/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0061) — L 174 — 1 — 1.7.2011
-- [►M3](http://publications.europa.eu/resource/celex/32013L0014) — [DIRETIVA 2013/14/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0014) — L 145 — 1 — 31.5.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014L0091) — [DIRETIVA 2014/91/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de julho de 2014](http://publications.europa.eu/resource/celex/32014L0091) — L 257 — 186 — 28.8.2014
-- [►M5](http://publications.europa.eu/resource/celex/32017R2402) — [REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2402) — L 347 — 35 — 28.12.2017
-- [►M6](http://publications.europa.eu/resource/celex/32019L1160) — [DIRETIVA (UE) 2019/1160 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1160) — L 188 — 106 — 12.7.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019L2162) — [DIRETIVA (UE) 2019/2162 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2162) — L 328 — 29 — 18.12.2019
-- [►M9](http://publications.europa.eu/resource/celex/32021L2261) — [DIRETIVA (UE) 2021/2261 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021L2261) — L 455 — 15 — 20.12.2021
-- [►M10](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M11](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M12](http://publications.europa.eu/resource/celex/32024L0927) — [DIRETIVA (UE) 2024/927 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024L0927) — L 927 — 1 — 26.3.2024
-- [►M13](http://publications.europa.eu/resource/celex/32024L2994) — [DIRETIVA (UE) 2024/2994 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L2994) — L 2994 — 1 — 4.12.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014L0091R%2801%29) — [Rectificação, JO L 052, 27.2.2016, p. 37 (2014/91/UE)](http://publications.europa.eu/resource/celex/32014L0091R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32009L0065R%2808%29) — [Rectificação, JO L 140, 19.5.2022, p. 64 (2009/65/CE)](http://publications.europa.eu/resource/celex/32009L0065R%2808%29)
-- [►C4](http://publications.europa.eu/resource/celex/32023L2864R%2802%29) — [Rectificação, JO L 90411, 15.7.2024, p. 1 (2023/2864)](http://publications.europa.eu/resource/celex/32023L2864R%2802%29)
-
-## DIRECTIVA 2009/65/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

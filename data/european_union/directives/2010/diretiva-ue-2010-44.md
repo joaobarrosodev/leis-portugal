@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-07-10'
+version_history:
+  file: diretiva-ue-2010-44.versoes.json
+  count: 1
+  source_lastmod: '2010-07-10'
+  versions:
+  - date: '2010-07-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010L0044
   eli: http://data.europa.eu/eli/dir/2010/44/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab28ccfa-0484-4c4b-9f81-dcd7bdd20bef.0018
   content_url: http://publications.europa.eu/resource/cellar/da61f8f8-1da3-11ea-95ab-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0044-20100710
-  retrieved_at: '2026-10-22T02:59:32Z'
+  retrieved_at: '2026-10-22T15:46:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T06:36:28.251+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:32Z'
-  notes: Texto consolidado 02010L0044-20100710.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:43Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2010-44.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -112,29 +121,19 @@ relationships:
   date: '2019-10-11'
 article_structure:
   article_count: 36
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:32Z'
+  checked_at: '2026-10-22T15:46:43Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/42/UE da Comissão de 1 de Julho de 2010
-
-> 02010L0044 — PT — 10.07.2010 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010L0044R%2801%29) — [Rectificação, JO L 179, 14.7.2010, p. 16 (2010/42/UE)](http://publications.europa.eu/resource/celex/32010L0044R%2801%29)
-
-## DIRECTIVA 2010/44/UE DA COMISSÃO
 
 de 1 de Julho de 2010
 

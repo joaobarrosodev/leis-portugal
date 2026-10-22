@@ -1,0 +1,242 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0407:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0407-20150808",
+ "dre_path": null,
+ "source_lastmod": "2015-08-08",
+ "versions": [
+  {
+   "date": "2010-05-12",
+   "future": false,
+   "celex": "32010R0407",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cf49b032b25b64c1",
+    "9a87db7fae0c828b",
+    "c81871edecec5696",
+    "2105a6ab404679e7",
+    "41512089a9c94888",
+    "8d21cbadf98db73c",
+    "d0c1ee234efc2a17",
+    "f60f775ebbdba46b",
+    "cd9a6d7d77da821a",
+    "82df9b203e7ec26c",
+    "91f61df7a1fa300a",
+    "ec80452d2e2bbda7"
+   ]
+  },
+  {
+   "date": "2010-05-13",
+   "future": false,
+   "celex": "02010R0407-20100513",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivo e âmbito de aplicação",
+    "Altera Artigo 10.º — Entrada em vigor",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1d615cc548508017",
+    "4fb2d91928744f7f",
+    "c81871edecec5696",
+    "2105a6ab404679e7",
+    "41512089a9c94888",
+    "8d21cbadf98db73c",
+    "d0c1ee234efc2a17",
+    "f60f775ebbdba46b",
+    "cd9a6d7d77da821a",
+    "82df9b203e7ec26c",
+    "32871a1eeb788eb5",
+    "64ba94f0c4308e1d"
+   ]
+  },
+  {
+   "date": "2015-08-08",
+   "future": false,
+   "celex": "02010R0407-20150808",
+   "acts": [
+    {
+     "id": "eu:celex:32015R1360:por",
+     "title": "REGULAMENTO (UE) 2015/1360 DO CONSELHO de 4 de agosto de 2015",
+     "published": null,
+     "celex": "32015R1360"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Procedimento",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "fe5ae7813a2f258a",
+    "4fb2d91928744f7f",
+    "c81871edecec5696",
+    "730ba9d5cdbfe9e8",
+    "41512089a9c94888",
+    "8d21cbadf98db73c",
+    "d0c1ee234efc2a17",
+    "f60f775ebbdba46b",
+    "cd9a6d7d77da821a",
+    "82df9b203e7ec26c",
+    "32871a1eeb788eb5",
+    "6c26daad3658a4d9"
+   ]
+  }
+ ],
+ "fragments": {
+  "cf49b032b25b64c1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio de 2010\n\nque cria um mecanismo europeu de estabilização financeira\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia (TFUE), nomeadamente o n.º 2 do artigo 122.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nConsiderando o seguinte:\n\n(1) O n.º 2 do artigo 122.º do Tratado prevê a possibilidade de ser concedida ajuda financeira da União a um Estado-Membro que se encontre em dificuldades ou sob grave ameaça de dificuldades devidas a ocorrências excepcionais que não possa controlar.\n\n(2) Tais dificuldades podem ser causadas por uma séria deterioração do ambiente económico e financeiro internacional.\n\n(3) A crise financeira mundial sem precedentes e a recessão económica que atingiram o mundo nos últimos dois anos afectaram gravemente o crescimento económico e a estabilidade financeira e originaram uma acentuada deterioração das situações de défice e de dívida dos Estados-Membros.\n\n(4) A agudização da crise financeira conduziu a uma grave deterioração das condições de empréstimo em vários Estados-Membros da área do euro que nem os fundamentos económicos podem explicar. Neste momento, esta situação poderia constituir uma séria ameaça para a estabilidade, unidade e integridade de toda a área do euro se não lhe for posto cobro urgentemente.\n\n(5) A fim de dar resposta a esta situação excepcional que foge ao controlo dos Estados-Membros, afigura-se necessário criar imediatamente um mecanismo de estabilização da União para preservar a estabilidade financeira na Europa. Este mecanismo deverá permitir à União responder de forma coordenada, rápida e eficaz a graves dificuldades registadas num dado Estado-Membro da área do euro. A sua activação será feita no âmbito de um apoio conjunto UE/Fundo Monetário Internacional (FMI).\n\n(6) Tendo em conta as suas implicações financeiras particulares, as decisões de concessão de ajuda financeira da União nos termos do presente regulamento requerem o exercício de poderes de execução, que deverão ser conferidos ao Conselho.\n\n(7) Deverão ser impostas condições estritas em matéria de política económica no caso de activação deste mecanismo com o objectivo de preservar a sustentabilidade das finanças públicas do Estado-Membro em causa e restaurar a sua capacidade de se financiar nos mercados financeiros.\n\n(8) A Comissão deverá examinar regularmente se continuam a persistir circunstâncias excepcionais que ameacem a estabilidade financeira de toda a União Europeia.\n\n(9) O actual mecanismo de apoio financeiro a médio prazo para Estados-Membros que não fizerem parte da área do euro instituído pelo Regulamento (CE) n.º 332/2002 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/193b261a-cee9-4355-a246-9dbaff63357d.0018.02/DOC_1#ntr1-L_2010118PT.01000101-E0001) deverá ser mantido,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9a87db7fae0c828b": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\nTendo em vista a preservação da estabilidade financeira da União Europeia, o presente regulamento estabelece as condições e os procedimentos ao abrigo dos quais um apoio financeiro da União pode ser concedido a um Estado-Membro da área do euro que se encontra afectado ou seriamente ameaçado por perturbações severas de natureza económica ou financeira causadas por ocorrências excepcionais que não possa controlar, tomando em conta o mecanismo existente de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros que não tiverem adoptado o euro, como previsto no Regulamento (CE) n.º 332/2002."
+  },
+  "c81871edecec5696": {
+   "fragment_id": "Artigo 2.º — Forma do apoio financeiro da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Forma do apoio financeiro da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Forma do apoio financeiro da União\n\n1. O apoio financeiro para efeitos do presente regulamento assume a forma de um empréstimo ou de uma linha de crédito concedido ao Estado-Membro em causa.\n\nPara o efeito, em conformidade com uma decisão do Conselho nos termos do artigo 3.º, a Comissão fica habilitada a contrair, em nome da União Europeia, empréstimos nos mercados de capitais ou junto de instituições financeiras.\n\n2. O montante do capital dos empréstimos ou das linhas de créditos que pode ser concedido aos Estados-Membros ao abrigo do presente regulamento deve ser limitado à margem disponível até ao limite máximo dos recursos próprios para dotações de pagamento."
+  },
+  "2105a6ab404679e7": {
+   "fragment_id": "Artigo 3.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1. O Estado-Membro que pretenda obter o apoio financeiro da União deve avaliar com a Comissão, em colaboração com o Banco Central Europeu (BCE), as suas necessidades financeiras e apresentar à Comissão e ao Comité Económico e Financeiro um projecto de programa de ajustamento económico e financeiro.\n\n2. O apoio financeiro da União deve ser concedido mediante uma decisão adoptada pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\n3. A decisão que concede um empréstimo deve conter:\n\na) O montante, a duração média, a fórmula de cálculo do preço, o número máximo de prestações, o período de disponibilidade do apoio financeiro da União e restantes regras necessárias para a execução do apoio;\n\nb) As condições gerais de política económica em que assenta o apoio financeiro da União com o objectivo de restabelecer no Estado-Membro em causa uma situação económica ou financeira sã e restaurar a sua capacidade de se financiar nos mercados financeiros; estas condições são definidas pela Comissão, em processo de consulta com o BCE; e\n\nc) A aprovação do programa de ajustamento elaborado pelo Estado-Membro beneficiário para cumprir as condições económicas em que assenta o apoio financeiro da União.\n\n4. A decisão que concede uma linha de crédito deve conter:\n\na) O montante, a comissão de mobilização da linha de crédito, a fórmula de cálculo do preço aplicável à disponibilização dos fundos e o período de disponibilidade do apoio financeiro da União e restantes regras necessárias para a execução do apoio;\n\nb) As condições gerais de política económica em que assenta o apoio financeiro da União com o objectivo de restabelecer no Estado-Membro em causa uma situação económica ou financeira sã; estas condições são definidas pela Comissão, em processo de consulta com o BCE; e\n\nc) A aprovação do programa de ajustamento elaborado pelo Estado-Membro beneficiário para cumprir as condições económicas em que assenta o apoio financeiro da União.\n\n5. A Comissão e o Estado-Membro em causa devem celebrar um Memorando de Entendimento do qual constam, de forma pormenorizada, as condições gerais de política económica estipuladas pelo Conselho. A Comissão transmite ao Parlamento Europeu e ao Conselho o Memorando de Entendimento.\n\n6. A Comissão reexamina, em processo de consulta com o BCE e pelo menos de seis em seis meses, as condições gerais de política económica a que se referem a alínea b) do n.º 3 e a alínea b) do n.º 4 e debate com o Estado-Membro beneficiário as alterações que podem ter de ser introduzidas no seu programa de ajustamento.\n\n7. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decide de quaisquer ajustamentos a introduzir nas condições gerais iniciais de política económica e aprova o programa de ajustamento revisto elaborado pelo Estado-Membro beneficiário.\n\n8. Se for considerado um recurso a fontes de financiamento exteriores à União, nomeadamente ao FMI, que impliquem sujeição a condições de política económica, o Estado-Membro em causa deve consultar previamente a Comissão. A Comissão examina as possibilidades oferecidas pelo mecanismo de apoio financeiro da União e a compatibilidade das condições previstas de política económica com os compromissos assumidos pelo Estado-Membro em causa relativamente à execução das recomendações do Conselho e das decisões do Conselho adoptadas com base nos artigos 121.º, 126.º e 136.º do TFUE. A Comissão informa do facto o Comité Económico e Financeiro."
+  },
+  "41512089a9c94888": {
+   "fragment_id": "Artigo 4.º — Disponibilização do empréstimo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Disponibilização do empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disponibilização do empréstimo\n\n1. O empréstimo deve, por regra, ser disponibilizado em parcelas.\n\n2. A Comissão verifica, a intervalos regulares, se a política económica do Estado-Membro beneficiário está em sintonia com o respectivo programa de ajustamento e com as condições fixadas pelo Conselho nos termos da alínea b) do n.º 3 do artigo 3.º. Para o efeito, o Estado-Membro faculta à Comissão todas as informações necessárias e coopera plenamente com a mesma.\n\n3. Em função dos resultados da referida verificação, a Comissão decide da liberação sucessiva das parcelas."
+  },
+  "8d21cbadf98db73c": {
+   "fragment_id": "Artigo 5.º — Liberação de fundos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Liberação de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Liberação de fundos\n\n1. O Estado-Membro em causa informa com antecedência a Comissão da sua intenção de proceder ao saque de fundos a partir da linha de crédito. A decisão a que se refere o n.º 4 do artigo 3.º fixa as regras pormenorizadas para o efeito.\n\n2. A Comissão verifica, a intervalos regulares, se a política económica do Estado-Membro beneficiário está em sintonia com o respectivo programa de ajustamento e com as condições fixadas pelo Conselho nos termos da alínea b) do n.º 4 do artigo 3.º. Para o efeito, o Estado-Membro faculta à Comissão todas as informações necessárias e coopera plenamente com a mesma.\n\n3. Em função dos resultados da referida verificação, a Comissão decide da liberação dos fundos."
+  },
+  "d0c1ee234efc2a17": {
+   "fragment_id": "Artigo 6.º — Operações de contracção e de concessão de empréstimos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Operações de contracção e de concessão de empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações de contracção e de concessão de empréstimos\n\n1. As operações relativas à contracção de empréstimos e aos correspondentes empréstimos a conceder referidas no artigo 2.º efectuam-se em euros.\n\n2. As características das parcelas sucessivas disponibilizadas pela União ao abrigo do mecanismo de apoio financeiro da União são negociadas entre o Estado-Membro beneficiário e a Comissão.\n\n3. Assim que o Conselho adopta uma decisão relativamente à concessão de um empréstimo, a Comissão está autorizada a contrair um empréstimo nos mercados de capitais ou junto de instituições financeiras no momento mais apropriado entre as disponibilizações previstas por forma a optimizar as despesas com o financiamento e preservar a sua reputação enquanto emissor da União nos mercados. Os fundos mobilizados mas ainda não disponibilizados devem ser sempre conservados em contas de numerário ou de títulos específicas que são geridas em conformidade com as regras aplicáveis às operações extra orçamentais, não podendo ser utilizados para qualquer outra finalidade que não a de prestar apoio financeiro aos Estados-Membros ao abrigo do presente mecanismo.\n\n4. Quando um Estado-Membro que beneficie de um empréstimo que comporte uma cláusula de reembolso antecipado, decidir accioná-la, a Comissão adopta as medidas necessárias.\n\n5. A pedido do Estado-Membro beneficiário e se as circunstâncias permitirem uma melhoria da taxa de juro do empréstimo, a Comissão pode proceder ao refinanciamento total ou parcial do empréstimo inicial ou redefinir as condições financeiras correspondentes.\n\n6. O Comité Económico e Financeiro é mantido informado da evolução das operações referidas no n.º 5."
+  },
+  "f60f775ebbdba46b": {
+   "fragment_id": "Artigo 7.º — Encargos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Encargos\n\nOs encargos incorridos pela União para a conclusão e execução de cada operação são suportados pelo Estado-Membro beneficiário."
+  },
+  "cd9a6d7d77da821a": {
+   "fragment_id": "Artigo 8.º — Gestão do empréstimo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Gestão do empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gestão do empréstimo\n\n1. A Comissão estabelece com o BCE os acordos necessários para assegurar a gestão dos empréstimos.\n\n2. O Estado-Membro beneficiário abre uma conta especial junto do respectivo Banco Central para a gestão do apoio financeiro da União. Transfere igualmente o capital e os juros em dívida a título do empréstimo para uma conta junto do BCE 14 dias úteis TARGET2 antes da respectiva data de vencimento.\n\n3. Sem prejuízo do artigo 27.º do Estatuto do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, o Tribunal de Contas Europeu tem o direito de efectuar, no Estado-Membro beneficiário, quaisquer controlos financeiros ou auditorias que considera necessários para a gestão desse apoio. A Comissão, incluindo o Organismo Europeu de Luta Antifraude, tem, nomeadamente, o direito de enviar os seus próprios funcionários ou representantes devidamente autorizados para efectuarem, no Estado-Membro beneficiário, quaisquer controlos técnicos ou financeiros ou auditorias que considera necessários relacionados com esse apoio."
+  },
+  "82df9b203e7ec26c": {
+   "fragment_id": "Artigo 9.º — Revisão e adaptação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revisão e adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revisão e adaptação\n\n1. A Comissão envia ao Comité Económico e Financeiro e ao Conselho, no prazo de seis meses a contar da entrada em vigor do presente regulamento e se necessário de seis em seis meses, um relatório sobre a execução do presente regulamento e a persistência de ocorrências excepcionais que justificam a adopção do presente regulamento.\n\n2. Quando adequado, o relatório deve ser acompanhado por uma proposta de alterações do presente regulamento com o objectivo de adaptar a possibilidade de concessão de apoio financeiro sem afectar a validade de decisões já adoptadas."
+  },
+  "91f61df7a1fa300a": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de Maio de 2010.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**Á. GONZÁLEZ-SINDE REIG**\n\n---"
+  },
+  "ec80452d2e2bbda7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/193b261a-cee9-4355-a246-9dbaff63357d.0018.02/DOC_1#ntc1-L_2010118PT.01000101-E0001) Regulamento (CE) n.º 332/2002 do Conselho, de 18 de Fevereiro de 2002, que estabelece um mecanismo de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros ([JO L 53 de 23.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_053_R_TOC))."
+  },
+  "1d615cc548508017": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio de 2010\n\nque cria um mecanismo europeu de estabilização financeira\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia (TFUE), nomeadamente o n.º 2 do artigo 122.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\n(1) O n.º 2 do artigo 122.º do Tratado prevê a possibilidade de ser concedida ajuda financeira da União a um Estado-Membro que se encontre em dificuldades ou sob grave ameaça de dificuldades devidas a ocorrências excepcionais que não possa controlar.\n\n(2) Tais dificuldades podem ser causadas por uma séria deterioração do ambiente económico e financeiro internacional.\n\n(3) A crise financeira mundial sem precedentes e a recessão económica que atingiram o mundo nos últimos dois anos afectaram gravemente o crescimento económico e a estabilidade financeira e originaram uma acentuada deterioração das situações de défice e de dívida dos Estados-Membros.\n\n(4) A agudização da crise financeira conduziu a uma grave deterioração das condições de empréstimo em vários Estados-Membros da área do euro que nem os fundamentos económicos podem explicar. Neste momento, esta situação poderia constituir uma séria ameaça para a estabilidade, unidade e integridade de toda a área do euro se não lhe for posto cobro urgentemente.\n\n(5) A fim de dar resposta a esta situação excepcional que foge ao controlo dos Estados-Membros, afigura-se necessário criar imediatamente um mecanismo de estabilização da União para preservar a estabilidade financeira na Europa. Este mecanismo deverá permitir à União responder de forma coordenada, rápida e eficaz a graves dificuldades registadas num dado Estado-Membro da área do euro. A sua activação será feita no âmbito de um apoio conjunto UE/Fundo Monetário Internacional (FMI).\n\n(6) Tendo em conta as suas implicações financeiras particulares, as decisões de concessão de ajuda financeira da União nos termos do presente regulamento requerem o exercício de poderes de execução, que deverão ser conferidos ao Conselho.\n\n(7) Deverão ser impostas condições estritas em matéria de política económica no caso de activação deste mecanismo com o objectivo de preservar a sustentabilidade das finanças públicas do Estado-Membro em causa e restaurar a sua capacidade de se financiar nos mercados financeiros.\n\n(8) A Comissão deverá examinar regularmente se continuam a persistir circunstâncias excepcionais que ameacem a estabilidade financeira de toda a União Europeia.\n\n(9) O actual mecanismo de apoio financeiro a médio prazo para Estados-Membros que não fizerem parte da área do euro instituído pelo Regulamento (CE) n.º 332/2002 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/77f7a889-a8e5-46d1-ac63-ace11a398bb0.0003.03/DOC_1#E0001)) deverá ser mantido,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4fb2d91928744f7f": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\nTendo em vista a preservação da estabilidade financeira da União Europeia, o presente regulamento estabelece as condições e os procedimentos ao abrigo dos quais um apoio financeiro da União pode ser concedido a um Estado-Membro que se encontra afetado ou seriamente ameaçado por perturbações severas de natureza económica ou financeira causadas por ocorrências excecionais que não possa controlar, tomando em conta o mecanismo existente de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros que não tiverem adotado o euro, como previsto no Regulamento (CE) n.º 332/2002."
+  },
+  "32871a1eeb788eb5": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "64ba94f0c4308e1d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/77f7a889-a8e5-46d1-ac63-ace11a398bb0.0003.03/DOC_1#src.E0001)) Regulamento (CE) n.º 332/2002 do Conselho, de 18 de Fevereiro de 2002, que estabelece um mecanismo de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros (JO L 53 de 23.2.2002, p. 1)."
+  },
+  "fe5ae7813a2f258a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio de 2010\n\nque cria um mecanismo europeu de estabilização financeira\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia (TFUE), nomeadamente o n.º 2 do artigo 122.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\n(1) O n.º 2 do artigo 122.º do Tratado prevê a possibilidade de ser concedida ajuda financeira da União a um Estado-Membro que se encontre em dificuldades ou sob grave ameaça de dificuldades devidas a ocorrências excepcionais que não possa controlar.\n\n(2) Tais dificuldades podem ser causadas por uma séria deterioração do ambiente económico e financeiro internacional.\n\n(3) A crise financeira mundial sem precedentes e a recessão económica que atingiram o mundo nos últimos dois anos afectaram gravemente o crescimento económico e a estabilidade financeira e originaram uma acentuada deterioração das situações de défice e de dívida dos Estados-Membros.\n\n(4) A agudização da crise financeira conduziu a uma grave deterioração das condições de empréstimo em vários Estados-Membros da área do euro que nem os fundamentos económicos podem explicar. Neste momento, esta situação poderia constituir uma séria ameaça para a estabilidade, unidade e integridade de toda a área do euro se não lhe for posto cobro urgentemente.\n\n(5) A fim de dar resposta a esta situação excepcional que foge ao controlo dos Estados-Membros, afigura-se necessário criar imediatamente um mecanismo de estabilização da União para preservar a estabilidade financeira na Europa. Este mecanismo deverá permitir à União responder de forma coordenada, rápida e eficaz a graves dificuldades registadas num dado Estado-Membro da área do euro. A sua activação será feita no âmbito de um apoio conjunto UE/Fundo Monetário Internacional (FMI).\n\n(6) Tendo em conta as suas implicações financeiras particulares, as decisões de concessão de ajuda financeira da União nos termos do presente regulamento requerem o exercício de poderes de execução, que deverão ser conferidos ao Conselho.\n\n(7) Deverão ser impostas condições estritas em matéria de política económica no caso de activação deste mecanismo com o objectivo de preservar a sustentabilidade das finanças públicas do Estado-Membro em causa e restaurar a sua capacidade de se financiar nos mercados financeiros.\n\n(8) A Comissão deverá examinar regularmente se continuam a persistir circunstâncias excepcionais que ameacem a estabilidade financeira de toda a União Europeia.\n\n(9) O actual mecanismo de apoio financeiro a médio prazo para Estados-Membros que não fizerem parte da área do euro instituído pelo Regulamento (CE) n.º 332/2002 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/c2efdf60-9d04-4c20-a7aa-02ed10e28218.0015.02/DOC_1#E0001)) deverá ser mantido,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "730ba9d5cdbfe9e8": {
+   "fragment_id": "Artigo 3.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1. O Estado-Membro que pretenda obter o apoio financeiro da União deve avaliar com a Comissão, em colaboração com o Banco Central Europeu (BCE), as suas necessidades financeiras e apresentar à Comissão e ao Comité Económico e Financeiro um projecto de programa de ajustamento económico e financeiro.\n\n2. O apoio financeiro da União deve ser concedido mediante uma decisão adoptada pelo Conselho, deliberando por maioria qualificada, sob proposta da Comissão.\n\n2-A. Se o Estado-Membro beneficiário for um Estado-Membro cuja moeda seja o euro, a concessão de apoio financeiro da União deve estar subordinada à adoção de disposições juridicamente vinculativas, com uma disposição, anterior ao desembolso, que seja específica para o efeito, que garantam que os Estados-Membros cuja moeda não seja o euro, são imediata e totalmente compensados por qualquer responsabilidade incorrida em resultado de um eventual não reembolso do apoio financeiro por parte do Estado-Membro beneficiário em conformidade com as suas condições.\n\nDevem ser também tomadas medidas apropriadas para assegurar que não terá lugar a sobrecompensação de Estados-Membros cuja moeda não seja o euro, quando se ativam os instrumentos para proteger o orçamento geral da União, nomeadamente a cobrança de créditos, se necessário por compensação dos créditos e dos pagamentos ao longo do tempo.\n\n3. A decisão que concede um empréstimo deve conter:\n\na) O montante, a duração média, a fórmula de cálculo do preço, o número máximo de prestações, o período de disponibilidade do apoio financeiro da União e restantes regras necessárias para a execução do apoio;\n\nb) As condições gerais de política económica em que assenta o apoio financeiro da União com o objectivo de restabelecer no Estado-Membro em causa uma situação económica ou financeira sã e restaurar a sua capacidade de se financiar nos mercados financeiros; estas condições são definidas pela Comissão, em processo de consulta com o BCE; e\n\nc) A aprovação do programa de ajustamento elaborado pelo Estado-Membro beneficiário para cumprir as condições económicas em que assenta o apoio financeiro da União.\n\n4. A decisão que concede uma linha de crédito deve conter:\n\na) O montante, a comissão de mobilização da linha de crédito, a fórmula de cálculo do preço aplicável à disponibilização dos fundos e o período de disponibilidade do apoio financeiro da União e restantes regras necessárias para a execução do apoio;\n\nb) As condições gerais de política económica em que assenta o apoio financeiro da União com o objectivo de restabelecer no Estado-Membro em causa uma situação económica ou financeira sã; estas condições são definidas pela Comissão, em processo de consulta com o BCE; e\n\nc) A aprovação do programa de ajustamento elaborado pelo Estado-Membro beneficiário para cumprir as condições económicas em que assenta o apoio financeiro da União.\n\n5. A Comissão e o Estado-Membro em causa devem celebrar um Memorando de Entendimento do qual constam, de forma pormenorizada, as condições gerais de política económica estipuladas pelo Conselho. A Comissão transmite ao Parlamento Europeu e ao Conselho o Memorando de Entendimento.\n\n6. A Comissão reexamina, em processo de consulta com o BCE e pelo menos de seis em seis meses, as condições gerais de política económica a que se referem a alínea b) do n.º 3 e a alínea b) do n.º 4 e debate com o Estado-Membro beneficiário as alterações que podem ter de ser introduzidas no seu programa de ajustamento.\n\n7. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, decide de quaisquer ajustamentos a introduzir nas condições gerais iniciais de política económica e aprova o programa de ajustamento revisto elaborado pelo Estado-Membro beneficiário.\n\n8. Se for considerado um recurso a fontes de financiamento exteriores à União, nomeadamente ao FMI, que impliquem sujeição a condições de política económica, o Estado-Membro em causa deve consultar previamente a Comissão. A Comissão examina as possibilidades oferecidas pelo mecanismo de apoio financeiro da União e a compatibilidade das condições previstas de política económica com os compromissos assumidos pelo Estado-Membro em causa relativamente à execução das recomendações do Conselho e das decisões do Conselho adoptadas com base nos artigos 121.º, 126.º e 136.º do TFUE. A Comissão informa do facto o Comité Económico e Financeiro."
+  },
+  "6c26daad3658a4d9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c2efdf60-9d04-4c20-a7aa-02ed10e28218.0015.02/DOC_1#src.E0001)) Regulamento (CE) n.º 332/2002 do Conselho, de 18 de Fevereiro de 2002, que estabelece um mecanismo de apoio financeiro a médio prazo às balanças de pagamentos dos Estados-Membros (JO L 53 de 23.2.2002, p. 1)."
+  }
+ }
+}

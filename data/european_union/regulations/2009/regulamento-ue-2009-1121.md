@@ -35,6 +35,203 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-27'
+version_history:
+  file: regulamento-ue-2009-1121.versoes.json
+  count: 10
+  source_lastmod: '2014-06-27'
+  versions:
+  - date: '2009-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-08'
+    amending: eu:celex:32010R0387:por
+    amending_title: REGULAMENTO (UE) N. o 387/2010 DA COMISSÃO de 6 de Maio de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Comunicações relativas aos pedidos apresentados pelos agricultores e aos pagamentos
+    - Altera Artigo 5.º — Disposições específicas relativas às superfícies mínimas, à sementeira e ao cultivo
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 50.º — Pedidos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 78.º — Pedidos
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera Artigo 98.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PAGAMENTO ESPECÍFICO PARA O ARROZ
+    - Adita Cálculo do coeficiente de redução referido no artigo 8.º
+    - Adita ANEXO II
+    - Adita MÉTODO DE DETERMINAÇÃO DE TREMOÇOS AMARGOS REFERIDO NO ARTIGO 13.º
+    - Adita ANEXO III
+    - Adita ZONAS ELEGÍVEIS PARA O PRÉMIO POR CABRA
+    - Adita ANEXO IV
+    - Adita LISTA DAS RAÇAS BOVINAS REFERIDAS NO ARTIGO 59.º
+    - Adita ANEXO V
+    - Adita RENDIMENTO MÉDIO DE LEITE REFERIDO NO ARTIGO 63.º
+    - Adita ANEXO VI
+    - Adita LIMITES MÁXIMOS NACIONAIS RELATIVOS AO PRÉMIO AO ABATE, REFERIDOS NO ARTIGO 81.º, N.º 1
+    - Adita ANEXO VII
+    - Adita SUPERFÍCIE MÍNIMA ELEGÍVEL POR EXPLORAÇÃO AO ABRIGO DO REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE
+    - Adita ANEXO VIII
+    - Adita SUPERFÍCIES AGRÍCOLAS ABRANGIDAS PELO REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE
+    - Adita ANEXO IX
+    - Adita Quadro de correspondência
+  - date: '2010-08-15'
+    amending: eu:celex:32010R0736:por
+    amending_title: M2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1368:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1368/2011 DA COMISSÃO de 21 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 61.º — Período de retenção
+    - Altera Artigo 62.º — Pedidos
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera Notas
+  - date: '2012-06-23'
+    amending: eu:celex:32012R0537:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 537/2012 DA COMISSÃO de 22 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera SUPERFÍCIES AGRÍCOLAS ABRANGIDAS PELO REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE
+    - Altera Notas
+  - date: '2012-08-16'
+    amending: eu:celex:32012R0666:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 666/2012 DA COMISSÃO de 20 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Comunicações relativas aos pedidos apresentados pelos agricultores e aos pagamentos
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera Notas
+    - Adita Artigo 94.º-A
+  - date: '2013-02-16'
+    amending: eu:celex:32013R0129:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 129/2013 DA COMISSÃO de 14 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 91.º — Coeficiente de redução
+    - Altera Artigo 93.º — Controlo
+    - Altera Artigo 94.º — Relatório anual
+    - Altera Artigo 94.º-A
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera Notas
+    - Adita Pagamentos diretos nacionais complementares e ajuda nacional transitória
+    - Suprime Pagamentos directos nacionais complementares
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0426:por
+    amending_title: REGULAMENTO (UE) N. o 426/2013 DA COMISSÃO de 8 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 94.º-A
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera ZONAS ELEGÍVEIS PARA O PRÉMIO POR CABRA
+    - Altera RENDIMENTO MÉDIO DE LEITE REFERIDO NO ARTIGO 63.º
+    - Altera Notas
+  - date: '2013-11-16'
+    amending: eu:celex:32013R1147:por
+    amending_title: Regulamento de Execução (UE) n. o 1147/2013 da Comissão de 14 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Elegibilidade
+    - Altera Artigo 33.º — Aprovação dos primeiros transformadores e dos colectores
+    - Altera Artigo 43.º — Utilização de direitos
+    - Altera Artigo 57.º — Especificidades do regime de concessão
+    - Altera Artigo 87.º — Identificação e registo de animais
+    - Altera Artigo 94.º-A
+    - Altera Artigo 95.º — Auxílios estatais
+    - Altera SUPERFÍCIES AGRÍCOLAS ABRANGIDAS PELO REGIME DE PAGAMENTO ÚNICO POR SUPERFÍCIE
+    - Altera Notas
+  - date: '2014-06-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Acumulação de pagamentos por superfície
+    - Suprime Artigo 4.º — Comunicações relativas aos pedidos apresentados pelos agricultores e aos pagamentos
+    - Suprime TÍTULO II
+    - Suprime NORMAS ESPECÍFICAS RELATIVAS AO TÍTULO IV DO REGULAMENTO (CE) N.º 73/2009
+    - Suprime CAPÍTULO 1
+    - Suprime Disposições gerais
+    - Suprime Artigo 5.º — Disposições específicas relativas às superfícies mínimas, à sementeira e ao cultivo
+    - Suprime Artigo 6.º — Coeficiente de redução
+    - Suprime CAPÍTULO 2
+    - Suprime Pagamento específico para o arroz
+    - Suprime Artigo 7.º — Datas de sementeira
+    - Suprime Artigo 8.º — Coeficiente de redução
+    - Suprime Artigo 9.º — Comunicações
+    - Suprime CAPÍTULO 3
+    - Suprime Ajuda aos agricultores que produzem batata para fécula
+    - Suprime Artigo 10.º — Elegibilidade
+    - Suprime Artigo 11.º — Preço mínimo
+    - Suprime Artigo 12.º — Pagamento
+    - Suprime CAPÍTULO 4
+    - Suprime Prémio às proteaginosas
+    - Suprime Artigo 13.º — Tremoços doces
+    - Suprime Artigo 14.º — Mistura de cereais e proteaginosas
+    - Suprime CAPÍTULO 5
+    - Suprime Pagamentos por superfície para as frutas de casca rija
+    - Suprime Artigo 15.º — Condições de pagamento da ajuda comunitária
+    - Suprime Artigo 16.º — Condições de elegibilidade para a ajuda nacional
+    - Suprime Artigo 17.º — Comunicações
+    - Suprime CAPÍTULO 6
+    - Suprime Ajuda às sementes
+    - Suprime Artigo 18.º — Certificação de sementes
+    - Suprime Artigo 19.º — Produção de sementes
+    - Suprime Artigo 20.º — Elegibilidade territorial
+    - Suprime Artigo 21.º — Comercialização de sementes
+    - Suprime Artigo 22.º — Adiantamentos
+    - Suprime Artigo 23.º — Variedades de cânhamo
 identifiers:
   celex: 32009R1121
   eli: http://data.europa.eu/eli/reg/2009/1121/oj
@@ -49,7 +246,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d77078d2-ca53-4da9-9484-e780f64b81af.0018
   content_url: http://publications.europa.eu/resource/cellar/ca1d5e1f-6a83-466d-976e-3fa9ba505917.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1121-20140627
-  retrieved_at: '2026-10-22T02:59:24Z'
+  retrieved_at: '2026-10-22T15:45:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:20:30.314+02:00'
 integrity:
@@ -58,9 +255,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:24Z'
-  notes: Texto consolidado 02009R1121-20140627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:15Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2009-1121.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -230,16 +427,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:24Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:45:15Z'
+  warnings: []
   errors: []
 ---
 

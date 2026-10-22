@@ -37,6 +37,186 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-27'
+version_history:
+  file: regulamento-ue-2009-1120.versoes.json
+  count: 7
+  source_lastmod: '2014-06-27'
+  versions:
+  - date: '2009-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: eu:celex:32010R0730:por
+    amending_title: Regulamento (UE) n. o 730/2010 da Comissão de 13 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Herança e herança antecipada
+    - Altera Artigo 7.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Altera Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 10.º — Produção de cânhamo
+    - Altera Artigo 12.º — Transferência de direitos ao pagamento
+    - Altera Artigo 13.º — Limitação regional
+    - Altera Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Altera Artigo 15.º — Direitos ao pagamento não utilizados
+    - Altera Artigo 16.º — Retenções na venda de direitos ao pagamento
+    - Altera Artigo 17.º — Estabelecimento de direitos ao pagamento
+    - Altera Artigo 18.º — Aplicação do artigo 41.º, n.º 3, do Regulamento (CE) n.º 73/2009 no caso de um número de hectares
+      inferior ao de direitos ao pagamento
+    - Altera Artigo 19.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 22.º — Arrendamento e compra de terras arrendadas
+    - Altera Artigo 24.º — Reservas regionais
+    - Altera Artigo 25.º — Pedidos
+    - Altera Artigo 29.º — Atribuição inicial de direitos ao pagamento
+    - Altera Artigo 31.º — Normas específicas
+    - Altera Artigo 32.º — Aplicação regional
+    - Altera Artigo 34.º — Normas específicas
+    - Altera Artigo 35.º — Aplicação regional
+    - Altera Artigo 38.º — Coerência e acumulação de ajudas
+    - Altera Artigo 41.º — Melhoria da qualidade dos produtos agrícolas
+    - Altera Artigo 44.º — Actividades agrícolas específicas que resultam em benefícios agro-ambientais suplementares
+    - Altera Artigo 46.º — Zonas sujeitas a programas de reestruturação e/ou de desenvolvimento
+    - Altera Artigo 49.º — Disposições financeiras relativas às medidas de apoio específico
+    - Altera Artigo 50.º — Comunicação de decisões
+    - Altera Artigo 51.º — Dados estatísticos e relatórios
+    - Altera Artigo 53.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de culturas arvenses a que se refere o artigo 2.º, alínea c)
+    - Adita ANEXO II
+    - Adita Datas a que se refere o artigo 11.º, n.º 1
+    - Adita ANEXO III
+    - Adita Montantes referidos no artigo 49.º, n.º 1, calculados em conformidade com o artigo 69.º, n.º 6, alínea a), do
+      Regulamento (CE) n.º 73/2009
+    - Adita ANEXO IV
+    - Adita Teor das informações a apresentar à Comissão em conformidade com o artigo 50.º, n.º 3
+  - date: '2011-04-10'
+    amending: eu:celex:32011R0331:por
+    amending_title: Regulamento (UE) n. o 331/2011 da Comissão de 6 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 10.º — Produção de cânhamo
+    - Altera Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Altera Artigo 41.º — Melhoria da qualidade dos produtos agrícolas
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1126:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1126/2011 DA COMISSÃO de 7 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Herança e herança antecipada
+    - Altera Artigo 7.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Altera Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 10.º — Produção de cânhamo
+    - Altera Artigo 12.º — Transferência de direitos ao pagamento
+    - Altera Artigo 13.º — Limitação regional
+    - Altera Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Altera Artigo 15.º — Direitos ao pagamento não utilizados
+    - Altera Artigo 16.º — Retenções na venda de direitos ao pagamento
+    - Altera Artigo 17.º — Estabelecimento de direitos ao pagamento
+    - Altera Artigo 18.º — Aplicação do artigo 41.º, n.º 3, do Regulamento (CE) n.º 73/2009 no caso de um número de hectares
+      inferior ao de direitos ao pagamento
+    - Altera Artigo 19.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 22.º — Arrendamento e compra de terras arrendadas
+    - Altera Artigo 24.º — Reservas regionais
+    - Altera Artigo 25.º — Pedidos
+    - Altera Artigo 29.º — Atribuição inicial de direitos ao pagamento
+    - Altera Artigo 31.º — Normas específicas
+    - Altera Artigo 32.º — Aplicação regional
+    - Altera Artigo 34.º — Normas específicas
+    - Altera Artigo 35.º — Aplicação regional
+    - Altera Artigo 38.º — Coerência e acumulação de ajudas
+    - Altera Artigo 41.º — Melhoria da qualidade dos produtos agrícolas
+    - Altera Artigo 44.º — Actividades agrícolas específicas que resultam em benefícios agro-ambientais suplementares
+    - Altera Artigo 46.º — Zonas sujeitas a programas de reestruturação e/ou de desenvolvimento
+    - Altera Artigo 49.º — Disposições financeiras relativas às medidas de apoio específico
+    - Altera Artigo 50.º — Comunicação de decisões
+    - Altera Montantes referidos no artigo 49.º, n.º 1, calculados em conformidade com o artigo 69.º, n.º 6, alínea a), do
+      Regulamento (CE) n.º 73/2009
+    - Altera Notas
+  - date: '2012-08-16'
+    amending: eu:celex:32012R0666:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 666/2012 DA COMISSÃO de 20 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 10.º — Produção de cânhamo
+    - Altera Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Altera Artigo 41.º — Melhoria da qualidade dos produtos agrícolas
+    - Altera Notas
+    - Adita Artigo 51.º-A
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0393:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 393/2013 DA COMISSÃO de 29 de abril de 2013; REGULAMENTO (UE) N. o 426/2013
+      DA COMISSÃO de 8 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Altera Artigo 10.º — Produção de cânhamo
+    - Altera Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Altera Artigo 16.º — Retenções na venda de direitos ao pagamento
+    - Altera Artigo 21.º — Investimentos
+    - Altera Artigo 28.º — Disposições gerais
+    - Altera Artigo 41.º — Melhoria da qualidade dos produtos agrícolas
+    - Altera Artigo 51.º-A
+    - Altera Notas
+    - Adita Aplicação do regime de pagamento único nos novos Estados-Membros que tenham aplicado o regime de pagamento único
+      por superfície e na Croácia
+    - Suprime Aplicação do regime de pagamento único nos novos Estados-Membros que tenham aplicado o regime de pagamento único
+      por superfície
+  - date: '2014-06-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime APLICAÇÃO
+    - Suprime CAPÍTULO 1
+    - Suprime Disposições gerais
+    - Suprime Secção 1
+    - Suprime Activação de direitos e elegibilidade de terras
+    - Suprime Artigo 3.º — Herança e herança antecipada
+    - Suprime Artigo 4.º — Alteração de estatuto legal ou de denominação
+    - Suprime Artigo 5.º — Fusões e cisões
+    - Suprime Artigo 6.º — Requisitos mínimos
+    - Suprime Artigo 7.º — Cálculo do valor unitário dos direitos ao pagamento
+    - Suprime Artigo 8.º — Declaração e utilização de direitos ao pagamento
+    - Suprime Artigo 9.º — Utilização principalmente agrícola
+    - Suprime Secção 2
+    - Suprime Critérios de elegibilidade específicos
+    - Suprime Artigo 10.º — Produção de cânhamo
+    - Suprime Artigo 11.º — Integração diferida do sector das frutas e produtos hortícolas no regime de pagamento único
+    - Suprime Secção 3
+    - Suprime Transferência de direitos
+    - Suprime Artigo 12.º — Transferência de direitos ao pagamento
+    - Suprime Artigo 13.º — Limitação regional
+    - Suprime Secção 4
+    - Suprime Direitos especiais
+    - Suprime Artigo 14.º — Cálculo das cabeças normais para os direitos especiais
+    - Suprime CAPÍTULO 2
+    - Suprime Reserva nacional
+    - Suprime Reversão para a reserva nacional
+    - Suprime Artigo 15.º — Direitos ao pagamento não utilizados
+    - Suprime Artigo 16.º — Retenções na venda de direitos ao pagamento
+    - Suprime Atribuição de direitos ao pagamento provenientes da reserva nacional
+    - Suprime Artigo 17.º — Estabelecimento de direitos ao pagamento
+    - Suprime Artigo 18.º — Aplicação do artigo 41.º, n.º 3, do Regulamento (CE) n.º 73/2009 no caso de um número de hectares
+      inferior ao de direitos ao pagamento
+    - Suprime Artigo 19.º — Disposições gerais relativas aos agricultores que se encontrem numa situação especial
+    - Suprime Artigo 20.º — Transferência de terras arrendadas
+    - Suprime Artigo 21.º — Investimentos
 identifiers:
   celex: 32009R1120
   eli: http://data.europa.eu/eli/reg/2009/1120/oj
@@ -51,7 +231,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a82bb7f0-7fef-4e24-9463-3c00fe33b7bb.0018
   content_url: http://publications.europa.eu/resource/cellar/0cdefc23-1a23-4d54-84ee-441766775e5d.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1120-20140627
-  retrieved_at: '2026-10-22T02:39:09Z'
+  retrieved_at: '2026-10-22T15:45:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:49:54.275+02:00'
 integrity:
@@ -60,9 +240,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:09Z'
-  notes: Texto consolidado 02009R1120-20140627.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:03Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2009-1120.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -282,16 +462,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:09Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:45:03Z'
+  warnings: []
   errors: []
 ---
 

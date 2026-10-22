@@ -35,6 +35,75 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-31'
+version_history:
+  file: diretiva-ue-2009-45.versoes.json
+  count: 3
+  source_lastmod: '2022-07-31'
+  versions:
+  - date: '2009-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-09-19'
+    amending: eu:celex:32010L0036:por
+    amending_title: DIRECTIVA 2010/36/UE DA COMISSÃO de 1 de Junho de 2010; M2; DIRETIVA (UE) 2017/2108 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 15 de novembro de 2017; REGULAMENTO DELEGADO (UE) 2020/411 DA COMISSÃO de 19 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 5.º — Aplicação
+    - Altera Artigo 6.º — Prescrições de segurança
+    - Altera Artigo 7.º — Prescrições de estabilidade e retirada de serviço de navios ro-ro de passageiros
+    - Altera Artigo 8.º — Prescrições de segurança em benefício das pessoas com mobilidade reduzida
+    - Altera Artigo 9.º — Prescrições de segurança suplementares, equivalências, isenções e medidas de salvaguarda
+    - Altera Artigo 10.º — Adaptações
+    - Altera Artigo 11.º — Comité
+    - Altera Artigo 12.º — Vistorias
+    - Altera Artigo 13.º — Certificados
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 4.º — Categorização das zonas marítimas e das classes de navios de passageiros
+    - Adita Artigo 10.º-A — Exercício da delegação
+    - Adita Artigo 16.º-A — Reexame
+    - Adita ÍNDICE
+    - Adita ANEXO I
+    - Adita SECÇÃO 1
+    - Adita PRESCRIÇÕES DE SEGURANÇA PARA NAVIOS DE PASSAGEIROS NOVOS E EXISTENTES, CUJA QUILHA ESTIVESSE ASSENTE OU QUE SE
+      ENCONTRASSE EM FASE DE CONSTRUÇÃO EQUIVALENTE ANTES DE 19 DE SETEMBRO DE 2021, QUE EFETUEM VIAGENS DOMÉSTICAS
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES GERAIS
+    - Adita CAPÍTULO II-1
+    - Adita CONSTRUÇÃO — SUBDIVISÃO E ESTABILIDADE, MÁQUINAS E INSTALAÇÕES ELÉTRICAS
+    - Adita CAPÍTULO II-2
+    - Adita PREVENÇÃO, DETEÇÃO E EXTINÇÃO DE INCÊNDIOS
+    - Adita CAPÍTULO III
+    - Adita MEIOS DE SALVAÇÃO
+    - Adita CAPÍTULO IV
+    - Adita RADIOCOMUNICAÇÕES
+    - Adita SECÇÃO 2
+    - Adita Prescrições de segurança para navios de passageiros novos, cuja quilha estivesse assente ou que se encontrasse
+      em fase de construção equivalente em ou após 19 de setembro de 2021, que efetuem viagens domésticas
+    - Adita CONSTRUÇÃO — ESTRUTURA, SUBDIVISÃO E ESTABILIDADE, MÁQUINAS E INSTALAÇÕES ELÉTRICAS
+    - Adita ANEXO II
+    - Adita MODELO DE CERTIFICADO DE SEGURANÇA PARA NAVIO DE PASSAGEIROS
+    - Adita CERTIFICADO DE SEGURANÇA PARA NAVIO DE PASSAGEIROS
+    - Adita RELAÇÃO DO EQUIPAMENTO PARA EFEITOS DO CERTIFICADO DE SEGURANÇA PARA NAVIO DE PASSAGEIROS
+    - Adita RELAÇÃO DO EQUIPAMENTO, EM APLICAÇÃO DO DISPOSTO NA DIRETIVA 2009/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+    - Adita ANEXO III
+  - date: '2022-07-31'
+    amending: eu:celex:32022R1180:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1180 DA COMISSÃO de 11 de janeiro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Aplicação
+    - Altera Artigo 6.º — Prescrições de segurança
+    - Altera Artigo 11.º — Comité
+    - Altera CONSTRUÇÃO — SUBDIVISÃO E ESTABILIDADE, MÁQUINAS E INSTALAÇÕES ELÉTRICAS
+    - Altera MEIOS DE SALVAÇÃO
+    - Altera CONSTRUÇÃO — ESTRUTURA, SUBDIVISÃO E ESTABILIDADE, MÁQUINAS E INSTALAÇÕES ELÉTRICAS
+    - Altera RELAÇÃO DO EQUIPAMENTO, EM APLICAÇÃO DO DISPOSTO NA DIRETIVA 2009/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+    - Altera Notas
 identifiers:
   celex: 32009L0045
   eli: http://data.europa.eu/eli/dir/2009/45/oj
@@ -49,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5559968-a934-48c9-8294-48c69b1c9274.0018
   content_url: http://publications.europa.eu/resource/cellar/0e75a8e3-1257-11ed-8fa0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0045-20220731
-  retrieved_at: '2026-10-22T02:41:37Z'
+  retrieved_at: '2026-10-22T15:38:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:43:27.484+02:00'
 integrity:
@@ -58,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:37Z'
-  notes: Texto consolidado 02009L0045-20220731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:38:36Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-45.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -212,37 +281,22 @@ relationships:
   source: null
 article_structure:
   article_count: 20
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:37Z'
-  warnings: []
+  checked_at: '2026-10-22T15:38:36Z'
+  warnings:
+  - '02009L0045-20100629: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0045-20160617: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0045-20191221: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2009/45/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
-
-> 02009L0045 — PT — 31.07.2022 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0036) — [DIRECTIVA 2010/36/UE DA COMISSÃO de 1 de Junho de 2010](http://publications.europa.eu/resource/celex/32010L0036) — L 162 — 1 — 29.6.2010
-- [M2](http://publications.europa.eu/resource/celex/32016L0844) — [DIRETIVA (UE) 2016/844 DA COMISSÃO de 27 de maio de 2016](http://publications.europa.eu/resource/celex/32016L0844) — L 141 — 51 — 28.5.2016
-- [►M3](http://publications.europa.eu/resource/celex/32017L2108) — [DIRETIVA (UE) 2017/2108 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2108) — L 315 — 40 — 30.11.2017
-- [►M4](http://publications.europa.eu/resource/celex/32020R0411) — [REGULAMENTO DELEGADO (UE) 2020/411 DA COMISSÃO de 19 de novembro de 2019](http://publications.europa.eu/resource/celex/32020R0411) — L 83 — 1 — 19.3.2020
-- [►M5](http://publications.europa.eu/resource/celex/32022R1180) — [REGULAMENTO DELEGADO (UE) 2022/1180 DA COMISSÃO de 11 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R1180) — L 184 — 1 — 11.7.2022
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32016L0844R%2801%29) — [Rectificação, JO L 193, 19.7.2016, p. 117 (2016/864)](http://publications.europa.eu/resource/celex/32016L0844R%2801%29)
-
-## DIRECTIVA 2009/45/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Maio de 2009
 

@@ -35,6 +35,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-03-21'
+version_history:
+  file: regulamento-ue-2009-272.versoes.json
+  count: 5
+  source_lastmod: '2013-03-21'
+  versions:
+  - date: '2009-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-29'
+    amending: eu:celex:32010R0297:por
+    amending_title: REGULAMENTO (UE) N. o 297/2010 DA COMISSÃO de 9 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PARTE A.
+    - Adita Métodos de rastreio permitidos
+    - Adita PARTE B.
+    - Adita Categorias de artigos que podem ser proibidos
+    - Adita PARTE B1.
+    - Adita Líquidos, aerossóis e géis
+    - Adita PARTE C.
+    - 'Adita Controlo do acesso: critérios para a concessão de acesso ao lado ar e às zonas restritas de segurança'
+    - Adita PARTE D.
+    - Adita Métodos autorizados para a inspecção de veículos, para os controlos de segurança das aeronaves e para as verificações
+      de segurança das aeronaves
+    - Adita PARTE E.
+    - Adita Critérios para o reconhecimento da equivalência das normas de segurança de países terceiros
+    - Adita PARTE F.
+    - Adita Carga e correio
+    - 'Adita 1. Carga e correio: condições em que serão rastreados ou submetidos a outros controlos de segurança'
+    - 'Adita 2. Carga e correio: processo de aprovação ou designação dos agentes reconhecidos, dos expedidores conhecidos
+      e dos expedidores avençados'
+    - Adita PARTE G.
+    - 'Adita Correio e materiais da transportadora aérea: condições em que serão rastreados ou submetidos a outros controlos
+      de segurança'
+    - Adita PARTE H.
+    - Adita Provisões de bordo e provisões do aeroporto
+    - 'Adita 1. Provisões de bordo e provisões do aeroporto: condições em que serão rastreados ou submetidos a outros controlos
+      de segurança'
+    - 'Adita 2. Provisões de bordo e provisões do aeroporto: processo de aprovação ou designação dos fornecedores reconhecidos
+      e dos fornecedores conhecidos'
+    - Adita PARTE I.
+    - Adita Critérios para a definição das partes críticas das zonas restritas de segurança
+    - Adita PARTE J.
+    - Adita Recrutamento do pessoal e métodos de formação
+    - Adita 1. Critérios para o recrutamento do pessoal
+    - Adita 2. Métodos de formação
+    - Adita PARTE K.
+    - Adita Condições em que podem ser aplicados procedimentos de segurança especiais ou isenções de controlos de segurança
+  - date: '2011-04-29'
+    amending: eu:celex:32011R0720:por
+    amending_title: Regulamento (UE) n. o 720/2011 da Comissão de 22 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Líquidos, aerossóis e géis
+    - Altera Notas
+  - date: '2011-12-01'
+    amending: eu:celex:32011R1141:por
+    amending_title: REGULAMENTO (UE) N. o 1141/2011 DA COMISSÃO de 10 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Métodos de rastreio permitidos
+    - Altera Notas
+  - date: '2013-03-21'
+    amending: eu:celex:32013R0245:por
+    amending_title: REGULAMENTO (UE) N. o 245/2013 DA COMISSÃO de 19 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Métodos de rastreio permitidos
+    - Altera Líquidos, aerossóis e géis
+    - Altera Notas
 identifiers:
   celex: 32009R0272
   eli: http://data.europa.eu/eli/reg/2009/272/oj
@@ -49,7 +124,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a77186fb-7773-465f-85c4-eebde6d0a00a.0018
   content_url: http://publications.europa.eu/resource/cellar/ce56949f-63a3-4b8b-b427-ae442b28c6e2.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0272-20130321
-  retrieved_at: '2026-10-22T03:14:40Z'
+  retrieved_at: '2026-10-22T15:41:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T22:27:18.469+02:00'
 integrity:
@@ -58,9 +133,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:40Z'
-  notes: Texto consolidado 02009R0272-20130321.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:27Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2009-272.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,32 +193,19 @@ relationships:
   date: '2017-02-09'
 article_structure:
   article_count: 3
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:40Z'
+  checked_at: '2026-10-22T15:41:27Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 272/2009 da Comissão, de 2 de Abril de 2009
-
-> 2009R0272 — PT — 21.03.2013 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0297) — [REGULAMENTO (UE) N.º 297/2010 DA COMISSÃO de 9 de Abril de 2010](http://publications.europa.eu/resource/celex/32010R0297) — L 90 — 1 — 10.4.2010
-- [M2](http://publications.europa.eu/resource/celex/32011R0720) — [REGULAMENTO (UE) N.º 720/2011 DA COMISSÃO de 22 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0720) — L 193 — 19 — 23.7.2011
-- [►M3](http://publications.europa.eu/resource/celex/32011R1141) — [REGULAMENTO (UE) N.º 1141/2011 DA COMISSÃO de 10 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1141) — L 293 — 22 — 11.11.2011
-- [►M4](http://publications.europa.eu/resource/celex/32013R0245) — [REGULAMENTO (UE) N.º 245/2013 DA COMISSÃO de 19 de março de 2013](http://publications.europa.eu/resource/celex/32013R0245) — L 77 — 5 — 20.3.2013
-
-## REGULAMENTO (CE) N.º 272/2009 DA COMISSÃO
 
 de 2 de Abril de 2009
 

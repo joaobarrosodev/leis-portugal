@@ -43,6 +43,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-02-07'
+version_history:
+  file: regulamento-ue-2009-72.versoes.json
+  count: 2
+  source_lastmod: '2009-02-07'
+  versions:
+  - date: '2009-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alteração do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 2.º — Alteração do Regulamento (CE) n.º 320/2006
+    - Altera Artigo 3.º — Alteração do Regulamento (CE) n.º 1405/2006
+    - Altera Artigo 4.º — Alteração do Regulamento (CE) n.º 1234/2007
+    - Altera Artigo 5.º — Alteração do Regulamento (CE) n.º 3/2008
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita «Subsecção II
+    - Adita Abertura das compras
+    - Adita «Subsecção III
+    - Adita Preços de intervenção
+    - Adita «Secção III-A
+    - Adita Quotas de fécula de batata
+    - Adita Fécula de batata
+    - Adita Ajudas no sector do lúpulo
+    - Adita ANEXO I
+    - 'Adita «1. Quotas nacionais: quantidades (toneladas) por período de doze meses por Estado-Membro:'
+    - Adita ANEXO II
+    - Adita «ANEXO X-A
+    - Adita Quotas de fécula de batata por campanha de comercialização, referidas no artigo 84.º-A
+    - Adita ANEXO III
+    - Adita «20-A. Regulamento (CE) n.º 1868/94
 identifiers:
   celex: 32009R0072
   eli: http://data.europa.eu/eli/reg/2009/72/oj
@@ -57,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7fdcbb2a-74df-4f92-b024-173883f76aa4.0018
   content_url: http://publications.europa.eu/resource/cellar/0817d30a-0805-4e28-abe9-bb50a70abfd4.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0072-20090207
-  retrieved_at: '2026-10-22T03:14:39Z'
+  retrieved_at: '2026-10-22T15:40:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:56:39.091+02:00'
 integrity:
@@ -66,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:39Z'
-  notes: Texto consolidado 02009R0072-20090207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-72.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,30 +278,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 8
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:39Z'
+  checked_at: '2026-10-22T15:40:44Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 72/2009 do Conselho, de 19 de Janeiro de 2009
-
-> 2009R0072 — PT — 07.02.2009 — 000.003
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0072R%2803%29) — [Rectificação, JO L 230, 2.9.2009, p. 6 (72/2009)](http://publications.europa.eu/resource/celex/32009R0072R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009R0072R%2804%29) — [Rectificação, JO L 220, 21.8.2010, p. 76 (72/2009)](http://publications.europa.eu/resource/celex/32009R0072R%2804%29)
-
-## REGULAMENTO (CE) N.O 72/2009 DO CONSELHO
 
 de 19 de Janeiro de 2009
 

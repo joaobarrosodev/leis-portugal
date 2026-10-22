@@ -36,6 +36,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-01-20'
+version_history:
+  file: diretiva-ue-2010-84.versoes.json
+  count: 2
+  source_lastmod: '2011-01-20'
+  versions:
+  - date: '2010-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações da Directiva 2001/83/CE
+    - Altera Artigo 2.º — Disposições transitórias
+    - Altera Artigo 5.º — Destinatários
+    - Altera Notas
+    - Adita «TÍTULO IX
+    - Adita FARMACOVIGILÂNCIA
+    - Adita CAPÍTULO 1
+    - Adita Disposições Gerais
+    - Adita CAPÍTULO 2
+    - Adita Transparência e comunicação
+    - Adita CAPÍTULO 3
+    - Adita Registo, comunicação e avaliação de dados de farmacovigilância
+    - Adita Secção 1
+    - Adita Registo e comunicação de suspeitas de reacções adversas
+    - Adita Secção 2
+    - Adita Relatórios periódicos actualizados de segurança
+    - Adita Secção 3
+    - Adita Detecção dos sinais
+    - Adita Secção 4
+    - Adita Procedimento de urgência da União
+    - Adita Secção 5
+    - Adita Publicação de avaliações
+    - Adita CAPÍTULO 4
+    - Adita Supervisão dos estudos de segurança após autorização
+    - Adita CAPÍTULO 5
+    - Adita Execução, delegação e orientações
 identifiers:
   celex: 32010L0084
   eli: http://data.europa.eu/eli/dir/2010/84/oj
@@ -50,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/80b9a78d-aeea-4977-8b4c-b56bcd4b3b0c.0012
   content_url: http://publications.europa.eu/resource/cellar/38408e8a-b7bc-467b-8b54-22309d9710e0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0084-20110120
-  retrieved_at: '2026-10-22T02:52:57Z'
+  retrieved_at: '2026-10-22T15:47:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T03:29:22.027+02:00'
 integrity:
@@ -59,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:57Z'
-  notes: Texto consolidado 02010L0084-20110120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:22Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2010-84.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,30 +185,19 @@ relationships:
   date: '2018-12-13'
 article_structure:
   article_count: 5
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:57Z'
+  checked_at: '2026-10-22T15:47:22Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/84/UE do Parlamento Europeu e do Conselho, de 15 de Dezembro de 2010
-
-> 2010L0084 — PT — 20.01.2011 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010L0084R%2801%29) — [Rectificação, JO L 021, 25.1.2011, p. 8 (2010/84)](http://publications.europa.eu/resource/celex/32010L0084R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32010L0084R%2802%29) — [Rectificação, JO L 276, 21.10.2011, p. 63 (2010/84)](http://publications.europa.eu/resource/celex/32010L0084R%2802%29)
-
-## DIRECTIVA 2010/84/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de Dezembro de 2010
 

@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-02-06'
+version_history:
+  file: regulamento-ue-2009-30.versoes.json
+  count: 2
+  source_lastmod: '2009-02-06'
+  versions:
+  - date: '2009-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - 'Adita «PARTE D: REGRAS APLICÁVEIS AOS PROCESSOS QUE SERVEM DE SUPORTE AOS SERVIÇOS DE LIGAÇÕES DE DADOS'
 identifiers:
   celex: 32009R0030
   eli: http://data.europa.eu/eli/reg/2009/30/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018
   content_url: http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0030-20090206
-  retrieved_at: '2026-10-22T02:48:09Z'
+  retrieved_at: '2026-10-22T15:40:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T06:15:18.411+02:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:09Z'
-  notes: Texto consolidado 02009R0030-20090206.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,29 +140,19 @@ relationships:
   date: '2023-09-15'
 article_structure:
   article_count: 2
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:09Z'
+  checked_at: '2026-10-22T15:40:41Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 30/2009 da Comissão, de 16 de Janeiro de 2009
-
-> 2009R0030 — PT — 06.02.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0030R%2801%29) — [Rectificação, JO L 153, 17.6.2009, p. 29 (30/2009)](http://publications.europa.eu/resource/celex/32009R0030R%2801%29)
-
-## REGULAMENTO (CE) N.º 30/2009 DA COMISSÃO
 
 de 16 de Janeiro de 2009
 

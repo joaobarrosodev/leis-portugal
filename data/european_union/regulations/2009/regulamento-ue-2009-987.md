@@ -36,6 +36,134 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-01-01'
+version_history:
+  file: regulamento-ue-2009-987.versoes.json
+  count: 8
+  source_lastmod: '2018-01-01'
+  versions:
+  - date: '2009-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-11'
+    amending: eu:celex:32010R1244:por
+    amending_title: REGULAMENTO (UE) N. o 1244/2010 DA COMISSÃO de 9 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 11.º — Elementos para a determinação da residência
+    - Altera Artigo 13.º — Regras de conversão dos períodos
+    - Altera Artigo 25.º — Estada num Estado-Membro que não seja o Estado-Membro competente
+    - Altera Artigo 26.º — Cuidados de saúde programados
+    - Altera Artigo 27.º — Prestações pecuniárias relativas a uma incapacidade de trabalho em caso de estada ou de residência
+      num Estado-Membro que não seja o Estado-Membro competente
+    - Altera Artigo 28.º — Prestações pecuniárias para cuidados de longa duração em caso de estada ou de residência num Estado-Membro
+      que não seja o Estado-Membro competente
+    - Altera Artigo 31.º — Aplicação do artigo 34.º do regulamento de base
+    - Altera Artigo 45.º — Pedido de prestações
+    - Altera Artigo 47.º — Instrução dos pedidos pelas instituições em causa
+    - Altera Artigo 96.º — Revogação
+    - Altera Artigo 97.º — Publicação e entrada em vigor
+    - Altera Notas
+    - Adita A) Procedimento e âmbito do direito
+    - Adita B) Procedimento e modalidades de assunção e/ou reembolso dos custos das prestações em espécie
+    - Adita C) Familiares
+    - Adita A) Procedimento de autorização
+    - Adita B) Assunção dos custos das prestações em espécie suportados pela pessoa segurada
+    - Adita C) Assunção das despesas de viagem e de estada no contexto de cuidados de saúde programados
+    - Adita D) Familiares
+    - Adita A) Procedimento a seguir pela pessoa segurada
+    - Adita B) Procedimento a seguir pela instituição do Estado-Membro de residência
+    - Adita C) Procedimento a seguir pela instituição competente
+    - Adita D) Procedimento em caso de estada num Estado-Membro que não seja o Estado-Membro competente
+    - Adita B) Procedimento a seguir pela instituição do lugar de residência
+    - Adita E) Familiares
+    - Adita A) Procedimento a seguir pela instituição competente
+    - Adita B) Procedimento a seguir pela instituição do lugar de residência ou de estada
+    - Adita A) Apresentação do pedido de prestações ao abrigo de uma legislação do tipo A nos termos do n.º 2 do artigo 44.º
+      do regulamento de base
+    - Adita B) Apresentação dos outros pedidos de prestações
+    - Adita A) Instituição de contacto
+    - Adita B) Instrução dos pedidos de prestações ao abrigo de uma legislação de tipo A nos termos do artigo 44.º do regulamento
+      de base
+    - Adita C) Instrução de outros pedidos de prestações
+    - Adita ANEXO 1
+    - Adita Disposições de aplicação de convenções bilaterais mantidas em vigor e de novas convenções bilaterais de aplicação
+    - Adita (a que se referem o n.º 1 do artigo 8.º e o n.º 2 do artigo 9.º do regulamento de aplicação)
+    - Adita BÉLGICA – DINAMARCA
+    - Adita BÉLGICA – ALEMANHA
+    - Adita BÉLGICA – IRLANDA
+  - date: '2012-06-28'
+    amending: eu:celex:32012R0465:por
+    amending_title: REGULAMENTO (UE) N. o 465/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Aplicação provisória de uma legislação e concessão provisória de prestações
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 15.º — Procedimento para a aplicação das alíneas b) e d) do n.º 3 do artigo 11.º, do n.º 4 do artigo 11.º
+      e do artigo 12.º do regulamento de base (relativo à prestação de informações às instituições visadas)
+    - Altera Artigo 54.º — Totalização de períodos e cálculo das prestações
+    - Altera Artigo 55.º — Condições e limites da manutenção do direito às prestações para o desempregado que se desloque
+      para outro Estado-Membro
+    - Altera Artigo 56.º — Desempregados residentes num Estado-Membro que não o Estado-Membro competente
+    - Altera Artigo 96.º — Revogação
+    - Altera Notas
+  - date: '2013-01-08'
+    amending: eu:celex:32012R1224:por
+    amending_title: REGULAMENTO (UE) N. o 1224/2012 DA COMISSÃO de 18 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 96.º — Revogação
+    - Altera ESPANHA – PORTUGAL
+    - Altera (a que se refere o n.º 1 do artigo 63.º do regulamento de aplicação)
+    - Altera (a que se refere o artigo 70.º do regulamento de aplicação)
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1372:por
+    amending_title: REGULAMENTO (UE) N. o 1372/2013 DA COMISSÃO de 19 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 96.º — Revogação
+    - Altera FRANÇA – LUXEMBURGO
+    - Altera FRANÇA – PAÍSES BAIXOS
+    - Altera PAÍSES BAIXOS – REINO UNIDO
+    - Altera (a que se refere o artigo 70.º do regulamento de aplicação)
+    - Altera Notas
+    - Suprime DINAMARCA – FRANÇA
+    - Suprime DINAMARCA – PAÍSES BAIXOS
+    - Suprime GRÉCIA – PAÍSES BAIXOS
+    - Suprime ESPANHA – PAÍSES BAIXOS
+    - Suprime ITÁLIA – PAÍSES BAIXOS
+  - date: '2015-01-01'
+    amending: eu:celex:32014R1368:por
+    amending_title: REGULAMENTO (UE) N. o 1368/2014 DA COMISSÃO de 17 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 96.º — Revogação
+    - Altera FRANÇA – LUXEMBURGO
+    - Altera Notas
+    - Suprime DINAMARCA – ITÁLIA
+  - date: '2017-04-11'
+    amending: eu:celex:32017R0492:por
+    amending_title: REGULAMENTO (UE) 2017/492 DA COMISSÃO de 21 de março de 2017
+    changes:
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 96.º — Revogação
+    - Altera PAÍSES BAIXOS – REINO UNIDO
+    - Altera Notas
+    - Suprime BÉLGICA – IRLANDA
+    - Suprime DINAMARCA – GRÉCIA
+  - date: '2018-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 14.º — Elementos de definição relativos aos artigos 12.º e 13.º do regulamento de base
+    - Altera Artigo 96.º — Revogação
+    - Altera (a que se refere o n.º 1 do artigo 63.º do regulamento de aplicação)
+    - Altera Notas
 identifiers:
   celex: 32009R0987
   eli: http://data.europa.eu/eli/reg/2009/987/oj
@@ -50,7 +178,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/225fb4a7-3453-46f4-b1ed-ffe449c7ad43.0019
   content_url: http://publications.europa.eu/resource/cellar/00185d05-a69f-4055-8a8e-341c14c29d50.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0987-20180101
-  retrieved_at: '2026-10-22T02:45:33Z'
+  retrieved_at: '2026-10-22T15:44:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:47:37.376+02:00'
 integrity:
@@ -59,9 +187,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:33Z'
-  notes: Texto consolidado 02009R0987-20180101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:12Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2009-987.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -363,38 +491,19 @@ relationships:
   date: '1972-03-27'
 article_structure:
   article_count: 97
-  section_count: 138
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 139
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:33Z'
+  checked_at: '2026-10-22T15:44:12Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 987/2009 do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009R0987 — PT — 01.01.2018 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R1244) — [REGULAMENTO (UE) N.º 1244/2010 DA COMISSÃO de 9 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1244) — L 338 — 35 — 22.12.2010
-- [►M2](http://publications.europa.eu/resource/celex/32012R0465) — [REGULAMENTO (UE) N.º 465/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0465) — L 149 — 4 — 8.6.2012
-- [►M3](http://publications.europa.eu/resource/celex/32012R1224) — [REGULAMENTO (UE) N.º 1224/2012 DA COMISSÃO de 18 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1224) — L 349 — 45 — 19.12.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013R1372) — [REGULAMENTO (UE) N.º 1372/2013 DA COMISSÃO de 19 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1372) — L 346 — 27 — 20.12.2013
-- [►M5](http://publications.europa.eu/resource/celex/32014R1368) — [REGULAMENTO (UE) N.º 1368/2014 DA COMISSÃO de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1368) — L 366 — 15 — 20.12.2014
-- [►M6](http://publications.europa.eu/resource/celex/32017R0492) — [REGULAMENTO (UE) 2017/492 DA COMISSÃO de 21 de março de 2017](http://publications.europa.eu/resource/celex/32017R0492) — L 76 — 13 — 22.3.2017
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R1368R%2801%29) — [Rectificação, JO L 288, 22.10.2016, p. 58 (1368/2014)](http://publications.europa.eu/resource/celex/32014R1368R%2801%29)
-
-## REGULAMENTO (CE) n.º 987/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

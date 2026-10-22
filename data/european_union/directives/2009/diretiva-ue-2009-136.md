@@ -38,6 +38,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-21'
+version_history:
+  file: diretiva-ue-2009-136.versoes.json
+  count: 3
+  source_lastmod: '2020-12-21'
+  versions:
+  - date: '2009-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Directiva 2002/22/CE (Directiva «Serviço Universal»)
+    - Altera Artigo 2.º — Alterações à Directiva 2002/58/CE (Directiva «Privacidade e Comunicações Electrónicas»)
+    - Altera Artigo 3.º — Alteração ao Regulamento (CE) n.º 2006/2004
+    - Altera Artigo 6.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita «ANEXO I
+    - Adita DESCRIÇÃO DOS RECURSOS E SERVIÇOS A QUE SE REFEREM OS ARTIGOS 10.º (CONTROLO DAS DESPESAS), 29.º (RECURSOS ADICIONAIS)
+      E 30.º (FACILIDADES NA MUDANÇA DE OPERADOR)
+    - 'Adita Parte A: Recursos e serviços referidos no artigo 10.º'
+    - Adita a) Facturação discriminada
+    - Adita b) Barramento selectivo e gratuito das chamadas de saída ou de SMS ou MMS majorados ou, sempre que viável, de
+      outros tipos de aplicações análogas.
+    - Adita c) Sistemas de pré-pagamento
+    - Adita d) Pagamento escalonado das taxas de ligação
+    - Adita e) Não pagamento de facturas
+    - Adita f) Aconselhamento tarifário
+    - Adita g) Controlo dos custos
+    - 'Adita Parte B: Recursos referidos no artigo 29.º'
+    - Adita a) Marcação tonal ou DTMF (funcionamento bitonal multifrequências)
+    - Adita b) Identificação da linha chamadora
+    - 'Adita Parte C: Aplicação das disposições relativas à portabilidade dos números referidas no artigo 30.º'
+    - Adita ANEXO II
+    - Adita INFORMAÇÕES A PUBLICAR EM CONFORMIDADE COM O ARTIGO 21.º
+    - Adita (TRANSPARÊNCIA E PUBLICAÇÃO DE INFORMAÇÕES)
+    - Adita ANEXO III
+    - Adita PARÂMETROS DE QUALIDADE DO SERVIÇO
+    - Adita Parâmetros de qualidade do serviço, definições e métodos de medição referidos nos artigos 11.º e 22.º
+    - Adita «ANEXO VI
+    - Adita INTEROPERABILIDADE DOS EQUIPAMENTOS DIGITAIS DE CONSUMO REFERIDOS NO ARTIGO 24.º
+    - Adita 1. Algoritmo de cifragem comum e recepção de emissões não cifradas
+    - Adita 2. Interoperabilidade dos televisores analógicos e digitais
+  - date: '2020-12-21'
+    amending: eu:celex:32018L1972:por
+    amending_title: DIRETIVA (UE) 2018/1972 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Suprime Artigo 1.º — Alterações à Directiva 2002/22/CE (Directiva «Serviço Universal»)
+    - Suprime ANEXO I
+    - Suprime «ANEXO I
+    - Suprime DESCRIÇÃO DOS RECURSOS E SERVIÇOS A QUE SE REFEREM OS ARTIGOS 10.º (CONTROLO DAS DESPESAS), 29.º (RECURSOS ADICIONAIS)
+      E 30.º (FACILIDADES NA MUDANÇA DE OPERADOR)
+    - 'Suprime Parte A: Recursos e serviços referidos no artigo 10.º'
+    - Suprime a) Facturação discriminada
+    - Suprime b) Barramento selectivo e gratuito das chamadas de saída ou de SMS ou MMS majorados ou, sempre que viável, de
+      outros tipos de aplicações análogas.
+    - Suprime c) Sistemas de pré-pagamento
+    - Suprime d) Pagamento escalonado das taxas de ligação
+    - Suprime e) Não pagamento de facturas
+    - Suprime f) Aconselhamento tarifário
+    - Suprime g) Controlo dos custos
+    - 'Suprime Parte B: Recursos referidos no artigo 29.º'
+    - Suprime a) Marcação tonal ou DTMF (funcionamento bitonal multifrequências)
+    - Suprime b) Identificação da linha chamadora
+    - 'Suprime Parte C: Aplicação das disposições relativas à portabilidade dos números referidas no artigo 30.º'
+    - Suprime INFORMAÇÕES A PUBLICAR EM CONFORMIDADE COM O ARTIGO 21.º
+    - Suprime (TRANSPARÊNCIA E PUBLICAÇÃO DE INFORMAÇÕES)
+    - Suprime ANEXO III
+    - Suprime PARÂMETROS DE QUALIDADE DO SERVIÇO
+    - Suprime Parâmetros de qualidade do serviço, definições e métodos de medição referidos nos artigos 11.º e 22.º
+    - Suprime Notas
 identifiers:
   celex: 32009L0136
   eli: http://data.europa.eu/eli/dir/2009/136/oj
@@ -52,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/262eb3fa-5832-4990-9e21-a0924e8b1f7f.0018
   content_url: http://publications.europa.eu/resource/cellar/249f8f1c-3952-11eb-b27b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0136-20201221
-  retrieved_at: '2026-10-22T02:38:02Z'
+  retrieved_at: '2026-10-22T15:39:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:54:46.705+02:00'
 integrity:
@@ -61,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:02Z'
-  notes: Texto consolidado 02009L0136-20201221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:56Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-136.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -231,33 +305,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:02Z'
+  checked_at: '2026-10-22T15:39:56Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/136/CE do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
-
-> 02009L0136 — PT — 21.12.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L1972) — [DIRETIVA (UE) 2018/1972 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018L1972) — L 321 — 36 — 17.12.2018
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0136R%2801%29) — [Rectificação, JO L 241, 10.9.2013, p. 9 (2009/136/CE)](http://publications.europa.eu/resource/celex/32009L0136R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009L0136R%2803%29) — [Rectificação, JO L 162, 23.6.2017, p. 56 (2009/136/CE)](http://publications.europa.eu/resource/celex/32009L0136R%2803%29)
-
-## DIRECTIVA 2009/136/CE DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 25 de Novembro de 2009,
 

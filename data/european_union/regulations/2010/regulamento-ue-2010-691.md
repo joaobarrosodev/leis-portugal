@@ -36,6 +36,140 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2010-691.versoes.json
+  count: 5
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2010-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-08-04'
+    amending: eu:celex:32011R0677:por
+    amending_title: REGULAMENTO (UE) N. o 677/2011 DA COMISSÃO de 7 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Órgão de análise do desempenho
+    - Altera Artigo 5.º — Blocos funcionais de espaço aéreo
+    - Altera Artigo 11.º — Regimes de incentivos
+    - Altera Artigo 13.º — Avaliação dos planos de desempenho e revisão dos objectivos
+    - Altera Artigo 14.º — Avaliação dos objectivos de desempenho revistos e adopção das medidas correctivas
+    - Altera Artigo 17.º — Controlo permanente e relatórios
+    - Altera Artigo 21.º — Divulgação da informação
+    - Altera Artigo 25.º — Alterações do Regulamento (CE) n.º 2096/2005
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 5.º-A — Gestor da rede
+    - Adita Artigo 15.º
+    - Adita Planos de desempenho ou medidas correctivas adoptados após o início do período de referência
+    - Adita «2.2. Gestão da organização
+    - Adita «9. RELATÓRIO DE ACTIVIDADES
+    - Adita ANEXO I
+    - Adita INDICADORES DE DESEMPENHO FUNDAMENTAIS (KPI)
+    - 'Adita Secção 1: Para a definição de objectivos a nível da União Europeia:'
+    - Adita 1. INDICADORES DE DESEMPENHO FUNDAMENTAIS EM MATÉRIA DE SEGURANÇA
+    - Adita 2. INDICADOR AMBIENTAL
+    - Adita 3. INDICADOR DE CAPACIDADE
+    - Adita 4. INDICADOR DE CUSTO-EFICÁCIA
+    - 'Adita Secção 2: Para a definição de objectivos a nível nacional ou dos blocos funcionais de espaço aéreo (FAB):'
+    - Adita ANEXO II
+    - Adita MODELO PARA OS PLANOS DE DESEMPENHO
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. OBJECTIVOS DE DESEMPENHO A NÍVEL NACIONAL E/OU DO BLOCO FUNCIONAL DE ESPAÇO AÉREO
+    - Adita 3. CONTRIBUTO DE CADA ENTIDADE RESPONSÁVEL
+    - Adita 4. DIMENSÃO MILITAR DO PLANO
+    - Adita 5. ANÁLISE DA SENSIBILIDADE E COMPARAÇÃO COM O PLANO DE DESEMPENHO ANTERIOR
+    - Adita 6. APLICAÇÃO DO PLANO DE DESEMPENHO
+    - Adita ANEXO III
+    - Adita PRINCÍPIOS PARA AVALIAR A COMPATIBILIDADE ENTRE OS OBJECTIVOS DE DESEMPENHO A NÍVEL DA UNIÃO EUROPEIA E OS OBJECTIVOS
+      DE DESEMPENHO NACIONAIS E DOS BLOCOS FUNCIONAIS DE ESPAÇO AÉREO
+    - Adita 1. Critérios gerais
+    - Adita 2. Segurança
+    - Adita 3. Ambiente
+    - Adita 4. Capacidade
+  - date: '2011-11-07'
+    amending: eu:celex:32011R1034:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1034/2011 DA COMISSÃO de 17 de Outubro de 2011; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1035/2011 DA COMISSÃO de 17 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º-A — Gestor da rede
+    - Altera Artigo 11.º — Regimes de incentivos
+    - Altera Artigo 21.º — Divulgação da informação
+    - Altera 3. INDICADOR DE CAPACIDADE
+    - Altera 1.1. Especificação do conjunto de dados
+    - 'Altera 3.1. Definições:'
+    - Altera 5.2. Especificação do conjunto de dados
+    - Altera Notas
+    - Suprime Artigo 25.º — Alterações do Regulamento (CE) n.º 2096/2005
+    - Suprime «2.2. Gestão da organização
+    - Suprime «9. RELATÓRIO DE ACTIVIDADES
+  - date: '2011-12-15'
+    amending: eu:celex:32011R1216:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1216/2011 DA COMISSÃO de 24 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º-A — Gestor da rede
+    - Altera Artigo 11.º — Regimes de incentivos
+    - Altera Artigo 14.º — Avaliação dos objectivos de desempenho revistos e adopção das medidas correctivas
+    - Altera Artigo 21.º — Divulgação da informação
+    - Altera 3. INDICADOR DE CAPACIDADE
+    - Altera 1.1. Especificação do conjunto de dados
+    - 'Altera 3.1. Definições:'
+    - Altera 5.2. Especificação do conjunto de dados
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Órgão de análise do desempenho
+    - Suprime Artigo 4.º — Autoridades supervisoras nacionais
+    - Suprime Artigo 5.º — Blocos funcionais de espaço aéreo
+    - Suprime Artigo 5.º-A — Gestor da rede
+    - Suprime Artigo 6.º — Coordenação com a Agência Europeia para a Segurança da Aviação (AESA)
+    - Suprime Artigo 7.º — Duração dos períodos de referência
+    - Suprime Artigo 8.º — Domínios e indicadores de desempenho fundamentais
+    - Suprime CAPÍTULO II
+    - Suprime PREPARAÇÃO DOS PLANOS DE DESEMPENHO
+    - Suprime Artigo 9.º — Objectivos de desempenho a nível da União Europeia
+    - Suprime Artigo 10.º — Elaboração dos planos de desempenho
+    - Suprime Artigo 11.º — Regimes de incentivos
+    - Suprime CAPÍTULO III
+    - Suprime ADOPÇÃO DOS PLANOS DE DESEMPENHO
+    - Suprime Artigo 12.º — Adopção inicial dos planos de desempenho
+    - Suprime Artigo 13.º — Avaliação dos planos de desempenho e revisão dos objectivos
+    - Suprime Artigo 14.º — Avaliação dos objectivos de desempenho revistos e adopção das medidas correctivas
+    - Suprime Artigo 15.º
+    - Suprime Planos de desempenho ou medidas correctivas adoptados após o início do período de referência
+    - Suprime Artigo 16.º — Revisão dos objectivos a nível da União Europeia
+    - Suprime CAPÍTULO IV
+    - Suprime CONTROLO DO DESEMPENHO
+    - Suprime Artigo 17.º — Controlo permanente e relatórios
+    - Suprime Artigo 18.º — Mecanismos de alerta
+    - Suprime Artigo 19.º — Facilitação do controlo da conformidade
+    - Suprime CAPÍTULO V
+    - Suprime RECOLHA, VALIDAÇÃO, ANÁLISE, AVALIAÇÃO E DIVULGAÇÃO DE INFORMAÇÕES RELACIONADAS COM O DESEMPENHO DA NAVEGAÇÃO
+      AÉREA PARA FINS DO CÉU ÚNICO EUROPEU
+    - Suprime Artigo 20.º — Recolha e validação de dados para análise do desempenho
+    - Suprime Artigo 21.º — Divulgação da informação
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 22.º — Recurso
+    - Suprime Artigo 23.º — Medidas transitórias
+    - Suprime Artigo 24.º — Análise do sistema
+    - Suprime Artigo 26.º — Entrada em vigor
 identifiers:
   celex: 32010R0691
   eli: http://data.europa.eu/eli/reg/2010/691/oj
@@ -50,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/216082b1-1808-4eb3-a4fd-41787111ebb9.0001
   content_url: http://publications.europa.eu/resource/cellar/59150cd8-a9d6-4c2f-9cbb-798e641dd247.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0691-20150101
-  retrieved_at: '2026-10-22T02:48:19Z'
+  retrieved_at: '2026-10-22T15:48:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T08:20:20.354+02:00'
 integrity:
@@ -59,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:19Z'
-  notes: Texto consolidado 02010R0691-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:11Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2010-691.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,16 +299,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:19Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:48:11Z'
+  warnings: []
   errors: []
 ---
 

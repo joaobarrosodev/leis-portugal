@@ -35,6 +35,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2009-133.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2009-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0013:por
+    amending_title: DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 19.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita LISTA DAS SOCIEDADES REFERIDAS NA ALÍNEA A) DO ARTIGO 3.º
+    - Adita PARTE B
+    - Adita LISTA DOS IMPOSTOS REFERIDA NA ALÍNEA C) DO ARTIGO 3.º
+    - Adita ANEXO II
+    - Adita ANEXO III
 identifiers:
   celex: 32009L0133
   eli: http://data.europa.eu/eli/dir/2009/133/oj
@@ -49,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0cf825a4-d34c-4264-82bf-1f5493677ddd.0018
   content_url: http://publications.europa.eu/resource/cellar/a8a3f464-4c94-4665-9e88-ad6b53f41989.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0133-20130701
-  retrieved_at: '2026-10-22T02:59:17Z'
+  retrieved_at: '2026-10-22T15:39:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T12:23:36.734+02:00'
 integrity:
@@ -58,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:17Z'
-  notes: Texto consolidado 02009L0133-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:51Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-133.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,29 +184,19 @@ relationships:
   date: '2005-03-11'
 article_structure:
   article_count: 19
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:17Z'
+  checked_at: '2026-10-22T15:39:51Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/133/CE do Conselho, de 19 de Outubro de 2009
-
-> 2009L0133 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
-
-## DIRECTIVA 2009/133/CE DO CONSELHO
 
 de 19 de Outubro de 2009
 

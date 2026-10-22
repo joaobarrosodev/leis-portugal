@@ -36,6 +36,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-01'
+version_history:
+  file: diretiva-ue-2010-43.versoes.json
+  count: 2
+  source_lastmod: '2022-08-01'
+  versions:
+  - date: '2010-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-01'
+    amending: eu:celex:32021L1270:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/1270 DA COMISSÃO de 21 de abril de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Requisitos gerais em matéria de procedimentos e de organização
+    - Altera Artigo 5.º — Recursos
+    - Altera Artigo 9.º — Controlo pelos quadros superiores e função de supervisão
+    - Altera Artigo 12.º — Função permanente de gestão dos riscos
+    - Altera Artigo 13.º — Transacções pessoais
+    - Altera Artigo 17.º — Critérios de identificação de conflitos de interesses
+    - Altera Artigo 23.º — Requisitos de diligência devida
+    - Altera Artigo 29.º — Salvaguarda dos interesses dos OICVM
+    - Altera Artigo 38.º — Política de gestão de riscos
+    - Altera Artigo 48.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 5.º-A — Obrigação de as sociedades de investimento integrarem os riscos de sustentabilidade na gestão dos
+      OICVM
 identifiers:
   celex: 32010L0043
   eli: http://data.europa.eu/eli/dir/2010/43/oj
@@ -50,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6798cf7f-22ce-432a-9206-779e3e934866.0018
   content_url: http://publications.europa.eu/resource/cellar/f40877df-07a4-11ed-acce-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0043-20220801
-  retrieved_at: '2026-10-22T02:48:17Z'
+  retrieved_at: '2026-10-22T15:46:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T19:18:19.959+02:00'
 integrity:
@@ -59,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:17Z'
-  notes: Texto consolidado 02010L0043-20220801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:41Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2010-43.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -132,29 +160,19 @@ relationships:
   source: null
 article_structure:
   article_count: 49
-  section_count: 43
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 44
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:17Z'
+  checked_at: '2026-10-22T15:46:41Z'
   warnings: []
   errors: []
 ---
 
 # Directiva n. ° 2010/43/UE da Comissão de 1 de Julho de 2010
-
-> 02010L0043 — PT — 01.08.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1270) — [DIRETIVA DELEGADA (UE) 2021/1270 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021L1270) — L 277 — 141 — 2.8.2021
-
-## DIRECTIVA N.º 2010/43/UE DA COMISSÃO
 
 de 1 de Julho de 2010
 

@@ -38,6 +38,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-06'
+version_history:
+  file: regulamento-ue-2009-78.versoes.json
+  count: 2
+  source_lastmod: '2022-07-06'
+  versions:
+  - date: '2009-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime OBRIGAÇÕES DOS FABRICANTES
+    - Suprime Artigo 4.º — Requisitos técnicos
+    - Suprime Artigo 5.º — Pedido de homologação CE
+    - Suprime CAPÍTULO III
+    - Suprime OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS
+    - Suprime Artigo 6.º — Concessão da homologação CE
+    - Suprime Artigo 7.º — Marca de homologação CE
+    - Suprime Artigo 8.º — Modificações do modelo ou tipo e alteração das homologações
+    - Suprime Artigo 9.º — Calendário para a aplicação aos veículos
+    - Suprime Artigo 10.º — Aplicação a sistemas de protecção frontal
+    - Suprime Artigo 11.º — Sistemas anticolisão
+    - Suprime Artigo 12.º — Controlo
+    - Suprime Artigo 13.º — Sanções
+    - Suprime CAPÍTULO IV
+    - Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Suprime Artigo 14.º — Alterações à Directiva 2007/46/CE
+    - Suprime Artigo 15.º — Revogação
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime Notas
 identifiers:
   celex: 32009R0078
   eli: http://data.europa.eu/eli/reg/2009/78/oj
@@ -52,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019
   content_url: http://publications.europa.eu/resource/cellar/ce3a135b-0ec2-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0078-20220706
-  retrieved_at: '2026-10-22T03:14:39Z'
+  retrieved_at: '2026-10-22T15:40:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:48:22.251+02:00'
 integrity:
@@ -61,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:39Z'
-  notes: Texto consolidado 02009R0078-20220706.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:51Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-78.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,16 +196,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:39Z'
+  checked_at: '2026-10-22T15:40:51Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0078-20090224: versão indisponível (Sem expressão na língua por para CELEX 02009R0078-20090224.)'
+  - '02009R0078-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

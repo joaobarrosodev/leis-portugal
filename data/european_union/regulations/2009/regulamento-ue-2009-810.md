@@ -36,6 +36,88 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-06-28'
+version_history:
+  file: regulamento-ue-2009-810.versoes.json
+  count: 3
+  source_lastmod: '2024-06-28'
+  versions:
+  - date: '2009-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-06-11'
+    amending: eu:celex:32011R0977:por
+    amending_title: M1; M2; REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013; REGULAMENTO
+      (UE) 2016/399 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016; REGULAMENTO (UE) 2019/1155 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 20 de junho de 2019; REGULAMENTO DELEGADO (UE) 2024/1415 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Nacionais de países terceiros sujeitos à obrigação de visto de escala aeroportuária
+    - Altera Artigo 4.º — Autoridades competentes para participar na tramitação dos pedidos
+    - Altera Artigo 5.º — Estado-Membro competente para a análise e decisão sobre os pedidos
+    - Altera Artigo 8.º — Acordos de representação
+    - Altera Artigo 9.º — Regras práticas de apresentação do pedido
+    - Altera Artigo 10.º — Regras gerais para a apresentação do pedido
+    - Altera Artigo 11.º — Formulário de pedido
+    - Altera Artigo 13.º — Identificadores biométricos
+    - Altera Artigo 14.º — Documentos comprovativos
+    - Altera Artigo 15.º — Seguro médico de viagem
+    - Altera Artigo 16.º — Emolumentos cobrados pelo tratamento de um pedido de visto
+    - Altera Artigo 17.º — Taxas de serviço
+    - Altera Artigo 19.º — Admissibilidade
+    - Altera Artigo 21.º — Verificação das condições de entrada e avaliação de risco
+    - Altera Artigo 22.º — Consulta prévia das autoridades centrais dos outros Estados-Membros
+    - Altera Artigo 23.º — Decisão sobre o pedido
+    - Altera Artigo 24.º — Emissão de vistos uniformes
+    - Altera Artigo 25.º — Emissão de vistos com validade territorial limitada
+    - Altera Artigo 27.º — Preenchimento da vinheta de visto
+    - Altera Artigo 29.º — Aposição da vinheta de visto
+    - Altera Artigo 31.º — Informação das autoridades centrais dos outros Estados-Membros
+    - Altera Artigo 32.º — Recusa de visto
+    - Altera Artigo 36.º — Vistos emitidos na fronteira externa para marítimos em trânsito
+    - Altera Artigo 37.º — Organização dos serviços de vistos
+    - Altera Artigo 39.º — Conduta do pessoal
+    - Altera Artigo 43.º — Cooperação com prestadores de serviços externos
+    - Altera Artigo 44.º — Cifragem e transferência securizada dos dados
+    - Altera Artigo 45.º — Cooperação dos Estados-Membros com intermediários comerciais
+    - Altera Artigo 47.º — Informação ao público
+    - Altera Artigo 48.º — Cooperação Schengen local entre consulados dos Estados-Membros
+    - Altera Artigo 52.º — Procedimento de comité
+    - Altera Artigo 54.º — Alterações ao Regulamento (CE) n.º 767/2008
+    - Altera Artigo 56.º — Revogações
+    - Altera Artigo 58.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 25.º-A — Cooperação em matéria de readmissão
+    - Adita Artigo 38.º
+  - date: '2024-06-28'
+    amending: eu:celex:32023R2667:por
+    amending_title: REGULAMENTO (UE) 2023/2667 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Nacionais de países terceiros sujeitos à obrigação de visto de escala aeroportuária
+    - Altera Artigo 13.º — Identificadores biométricos
+    - Altera Artigo 14.º — Documentos comprovativos
+    - Altera Artigo 16.º — Emolumentos cobrados pelo tratamento de um pedido de visto
+    - Altera Artigo 43.º — Cooperação com prestadores de serviços externos
+    - Altera Artigo 48.º — Cooperação Schengen local entre consulados dos Estados-Membros
+    - Altera Artigo 51.º-A — Exercício da delegação
+    - Altera Artigo 52.º — Procedimento de comité
+    - Altera Artigo 54.º — Alterações ao Regulamento (CE) n.º 767/2008
+    - Altera Artigo 56.º — Revogações
+    - Altera PEDIDO DE VISTO SCHENGEN
+    - Altera ANEXO VI
+    - Altera RECUSA/ANULAÇÃO/REVOGAÇÃO DO VISTO
+    - Altera Artigo 4.º — Apresentação do pedido
+    - Altera Artigo 6.º — Forma do visto
+    - Altera Notas
+    - 'Adita REINO UNIDO:'
+    - Suprime Artigo 20.º — Carimbo indicativo da admissibilidade do pedido
+    - Suprime Artigo 42.º — Recurso aos cônsules honorários
+    - Suprime ANEXO III
+    - Suprime MODELO UNIFORME E UTILIZAÇÃO DO CARIMBO INDICATIVO DA ADMISSIBILIDADE DE UM PEDIDO
 identifiers:
   celex: 32009R0810
   eli: http://data.europa.eu/eli/reg/2009/810/oj
@@ -50,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4803ee2-054c-42c3-9576-04ca95ffc5de.0019
   content_url: http://publications.europa.eu/resource/cellar/2356e285-9098-11ef-a130-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0810-20240628
-  retrieved_at: '2026-10-22T02:40:44Z'
+  retrieved_at: '2026-10-22T15:44:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-08-04T18:21:48.121+02:00'
 integrity:
@@ -59,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:44Z'
-  notes: Texto consolidado 02009R0810-20240628.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2009-810.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -473,40 +555,24 @@ relationships:
   date: '2009-06-05'
 article_structure:
   article_count: 64
-  section_count: 56
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 58
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:44Z'
-  warnings: []
+  checked_at: '2026-10-22T15:44:04Z'
+  warnings:
+  - '02009R0810-20111004: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0810-20120320: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0810-20131018: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0810-20160412: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0810-20200202: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 810/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009R0810 — PT — 28.06.2024 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011R0977) — [REGULAMENTO (UE) N.º 977/2011 DA COMISSÃO de 3 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R0977) — L 258 — 9 — 4.10.2011
-- [M2](http://publications.europa.eu/resource/celex/32012R0154) — [REGULAMENTO (UE) N.º 154/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0154) — L 58 — 3 — 29.2.2012
-- [►M3](http://publications.europa.eu/resource/celex/32013R0610) — [REGULAMENTO (UE) N.º 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0610) — L 182 — 1 — 29.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32016R0399) — [REGULAMENTO (UE) 2016/399 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de março de 2016](http://publications.europa.eu/resource/celex/32016R0399) — L 77 — 1 — 23.3.2016
-- [►M5](http://publications.europa.eu/resource/celex/32019R1155) — [REGULAMENTO (UE) 2019/1155 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1155) — L 188 — 25 — 12.7.2019
-- [►M6](http://publications.europa.eu/resource/celex/32023R2667) — [REGULAMENTO (UE) 2023/2667 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2667) — L 2667 — 1 — 7.12.2023
-- [►M7](http://publications.europa.eu/resource/celex/32024R1415) — [REGULAMENTO DELEGADO (UE) 2024/1415 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024R1415) — L 1415 — 1 — 22.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0810R%2804%29) — [Rectificação, JO L 284, 12.11.2018, p. 38 (810/2009)](http://publications.europa.eu/resource/celex/32009R0810R%2804%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R1155R%2801%29) — [Rectificação, JO L 020, 24.1.2020, p. 25 (2019/1155)](http://publications.europa.eu/resource/celex/32019R1155R%2801%29)
-
-## REGULAMENTO (CE) N.º 810/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2010-772.versoes.json
+  count: 1
+  source_lastmod: '2010-09-05'
+  versions:
+  - date: '2010-09-02'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010R0772
   eli: http://data.europa.eu/eli/reg/2010/772/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021
   content_url: http://publications.europa.eu/resource/cellar/21502965-5924-437b-85fd-e37ed25833da.0021.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:22Z'
+  retrieved_at: '2026-10-22T15:48:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T05:25:24.395+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:22Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:19Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-772.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -98,21 +107,20 @@ relationships:
   date: '2010-12-30'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:22Z'
+  checked_at: '2026-10-22T15:48:19Z'
   warnings:
-  - Versão consolidada 02010R0772-20100905 indisponível (Sem expressão na língua por para CELEX 02010R0772-20100905.); usado
-    o texto do JO.
+  - '02010R0772-20100905: versão indisponível (Sem expressão na língua por para CELEX 02010R0772-20100905.)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 772/2010 DA COMISSÃO
+# Regulamento (UE) n. ° 772/2010 da Comissão, de 1 de Setembro de 2010
 
 de 1 de Setembro de 2010
 

@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2010-66.versoes.json
+  count: 1
+  source_lastmod: '2017-11-14'
+  versions:
+  - date: '2010-01-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010R0066
   eli: http://data.europa.eu/eli/reg/2010/66/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9e09c530-b0c7-477c-944f-5bbfd7e42164.0019
   content_url: http://publications.europa.eu/resource/cellar/9e09c530-b0c7-477c-944f-5bbfd7e42164.0019.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:36Z'
+  retrieved_at: '2026-10-22T15:47:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T03:59:19.047+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:36Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:49Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-66.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,21 +161,22 @@ relationships:
   date: '2000-09-27'
 article_structure:
   article_count: 20
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:36Z'
+  checked_at: '2026-10-22T15:47:49Z'
   warnings:
-  - 'Versão consolidada 02010R0066-20171114 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02010R0066-20100219: versão indisponível (Sem expressão na língua por para CELEX 02010R0066-20100219.)'
+  - '02010R0066-20130904: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R0066-20171114: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N º 66/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n o 66/2010 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
 
 de 25 de Novembro de 2009
 

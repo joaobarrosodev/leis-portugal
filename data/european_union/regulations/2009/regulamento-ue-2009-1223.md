@@ -38,6 +38,289 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-18'
+version_history:
+  file: regulamento-ue-2009-1223.versoes.json
+  count: 18
+  source_lastmod: '2026-05-18'
+  versions:
+  - date: '2009-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-03'
+    amending: eu:celex:32013R0344:por
+    amending_title: REGULAMENTO (UE) N. o 344/2013 DA COMISSÃO de 4 de abril de 2013; REGULAMENTO (UE) N. o 483/2013 DA COMISSÃO
+      de 24 de maio de 2013; REGULAMENTO (UE) N. o 658/2013 DA COMISSÃO de 10 de julho de 2013; REGULAMENTO (UE) N. o 1197/2013
+      DA COMISSÃO de 25 de novembro de 2013; REGULAMENTO (UE) N. o 358/2014 DA COMISSÃO de 9 de abril de 2014; REGULAMENTO
+      (UE) N. o 866/2014 DA COMISSÃO de 8 de agosto de 2014; REGULAMENTO (UE) N. o 1003/2014 DA COMISSÃO de 18 de setembro
+      de 2014; REGULAMENTO (UE) N. o 1004/2014 DA COMISSÃO de 18 de setembro de 2014; REGULAMENTO (UE) 2015/1190 DA COMISSÃO
+      de 20 de julho de 2015; REGULAMENTO (UE) 2015/1298 DA COMISSÃO de 28 de julho de 2015; REGULAMENTO (UE) 2016/314 DA
+      COMISSÃO de 4 de março de 2016; REGULAMENTO (UE) 2016/621 DA COMISSÃO de 21 de abril de 2016; REGULAMENTO (UE) 2016/622
+      DA COMISSÃO de 21 de abril de 2016; REGULAMENTO (UE) 2016/1120 DA COMISSÃO de 11 de julho de 2016; REGULAMENTO (UE)
+      2016/1121 DA COMISSÃO de 11 de julho de 2016; REGULAMENTO (UE) 2016/1143 DA COMISSÃO de 13 de julho de 2016; M17; REGULAMENTO
+      (UE) 2017/237 DA COMISSÃO de 10 de fevereiro de 2017; REGULAMENTO (UE) 2017/238 DA COMISSÃO de 10 de fevereiro de 2017;
+      REGULAMENTO (UE) 2017/1224 DA COMISSÃO de 6 de julho de 2017; REGULAMENTO (UE) 2017/1410 DA COMISSÃO de 2 de agosto
+      de 2017; REGULAMENTO (UE) 2017/1413 DA COMISSÃO de 3 de agosto de 2017; REGULAMENTO (UE) 2017/2228 DA COMISSÃO de 4
+      de dezembro de 2017; REGULAMENTO (UE) 2018/885 DA COMISSÃO de 20 de junho de 2018; REGULAMENTO (UE) 2018/978 DA COMISSÃO
+      de 9 de julho de 2018; REGULAMENTO (UE) 2018/1847 DA COMISSÃO de 26 de novembro de 2018; REGULAMENTO (UE) 2019/680 DA
+      COMISSÃO de 30 de abril de 2019; REGULAMENTO (UE) 2019/681 DA COMISSÃO de 30 de abril de 2019; REGULAMENTO (UE) 2019/698
+      DA COMISSÃO de 30 de abril de 2019; REGULAMENTO (UE) 2019/831 DA COMISSÃO de 22 de maio de 2019; M31; REGULAMENTO (UE)
+      2019/1857 DA COMISSÃO de 6 de novembro de 2019; REGULAMENTO (UE) 2019/1858 DA COMISSÃO de 6 de novembro de 2019; REGULAMENTO
+      (UE) 2019/1966 DA COMISSÃO de 27 de novembro de 2019; REGULAMENTO (UE) 2020/1682 DA COMISSÃO de 12 de novembro de 2020;
+      REGULAMENTO (UE) 2020/1683 DA COMISSÃO de 12 de novembro de 2020; REGULAMENTO (UE) 2020/1684 DA COMISSÃO de 12 de novembro
+      de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 13.º — Notificação
+    - Altera Artigo 14.º — Restrições aplicáveis às substâncias enumeradas nos anexos
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 19.º — Rotulagem
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera Artigo 40.º — Entrada em vigor e data de aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita RELATÓRIO DE SEGURANÇA DO PRODUTO COSMÉTICO
+    - Adita PARTE A – Informação sobre a segurança do produto cosmético
+    - Adita 1. Composição qualitativa e quantitativa do produto cosmético
+    - Adita 2. Características físico-químicas e estabilidade do produto cosmético
+    - Adita 3. Qualidade microbiológica
+    - Adita 4. Impurezas, vestígios, informações sobre o material de embalagem
+    - Adita 5. Utilização normal e razoavelmente previsível
+    - Adita 6. Exposição ao produto cosmético
+    - Adita 7. Exposição às substâncias
+    - Adita 8. Perfil toxicológico das substâncias
+    - Adita 9. Efeitos indesejáveis e efeitos indesejáveis graves
+    - Adita 10. Informação sobre o produto cosmético
+    - Adita PARTE B – Avaliação da segurança do produto cosmético
+    - Adita 1. Conclusão da avaliação
+    - Adita 2. Advertências e instruções de utilização a inscrever no rótulo
+    - Adita 3. Fundamentação
+    - Adita 4. Credenciais do avaliador e aprovação da parte B
+    - Adita Preâmbulo aos Anexos II a VI
+    - Adita ANEXO II
+    - Adita LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Adita ANEXO III
+    - Adita LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Adita ΑΝΕΧΟ ΙV
+    - Adita LISTA DOS CORANTES AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Adita Preâmbulo
+    - Adita ANEXO V
+    - Adita LISTA DOS CONSERVANTES AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Adita ANEXO VI
+    - Adita LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+  - date: '2021-05-26'
+    amending: eu:celex:32017R0745:por
+    amending_title: REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017; M21
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2021-06-17'
+    amending: eu:celex:32021R0850:por
+    amending_title: REGULAMENTO (UE) 2021/850 DA COMISSÃO de 26 de maio de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2021-08-23'
+    amending: eu:celex:32021R1099:por
+    amending_title: REGULAMENTO (UE) 2021/1099 DA COMISSÃO de 5 de julho de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2021-10-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2022-03-01'
+    amending: eu:celex:32021R1902:por
+    amending_title: REGULAMENTO (UE) 2021/1902 DA COMISSÃO de 29 de outubro de 2021; REGULAMENTO (UE) 2022/135 DA COMISSÃO
+      de 31 de janeiro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2022-07-31'
+    amending: eu:celex:32022R1176:por
+    amending_title: REGULAMENTO (UE) 2022/1176 DA COMISSÃO de 7 de julho de 2022; REGULAMENTO (UE) 2022/1181 DA COMISSÃO de
+      8 de julho de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2022-10-06'
+    amending: eu:celex:32022R1531:por
+    amending_title: REGULAMENTO (UE) 2022/1531 DA COMISSÃO de 15 de setembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2022-12-17'
+    amending: eu:celex:32022R2195:por
+    amending_title: REGULAMENTO (UE) 2022/2195 DA COMISSÃO de 10 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2023-08-16'
+    amending: eu:celex:32023R1545:por
+    amending_title: REGULAMENTO (UE) 2023/1545 DA COMISSÃO de 26 de julho de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2023-12-01'
+    amending: eu:celex:32023R1490:por
+    amending_title: REGULAMENTO (UE) 2023/1490 DA COMISSÃO de 19 de julho de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2024-04-04'
+    amending: eu:celex:32024R0858:por
+    amending_title: REGULAMENTO (UE) 2024/858 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2024-04-24'
+    amending: eu:celex:32024R0996:por
+    amending_title: REGULAMENTO (UE) 2024/996 DA COMISSÃO de 3 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2025-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2025-09-01'
+    amending: eu:celex:32025R0877:por
+    amending_title: REGULAMENTO (UE) 2025/877 DA COMISSÃO de 12 de maio de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 19.º — Rotulagem
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2026-05-01'
+    amending: eu:celex:32026R0078:por
+    amending_title: REGULAMENTO (UE) 2026/78 DA COMISSÃO de 12 de janeiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
+  - date: '2026-05-18'
+    amending: eu:celex:32026R0909:por
+    amending_title: REGULAMENTO (UE) 2026/909 DA COMISSÃO de 27 de abril de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Substâncias classificadas como substâncias CMR
+    - Altera Artigo 18.º — Ensaios em animais
+    - Altera Artigo 25.º — Incumprimento por parte da pessoa responsável
+    - Altera LISTA DAS SUBSTÂNCIAS PROIBIDAS NOS PRODUTOS COSMÉTICOS
+    - Altera LISTA DAS SUBSTÂNCIAS QUE OS PRODUTOS COSMÉTICOS NÃO PODEM CONTER FORA DAS RESTRIÇÕES PREVISTAS
+    - Altera Preâmbulo
+    - Altera LISTA DOS FILTROS PARA RADIAÇÕES ULTRAVIOLETAS AUTORIZADOS NOS PRODUTOS COSMÉTICOS
+    - Altera Notas
 identifiers:
   celex: 32009R1223
   eli: http://data.europa.eu/eli/reg/2009/1223/oj
@@ -52,7 +335,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4100396c-575c-4150-8d92-e7c23ab1ce97.0019
   content_url: http://publications.europa.eu/resource/cellar/9382f98e-9b27-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1223-20260518
-  retrieved_at: '2026-10-22T02:42:53Z'
+  retrieved_at: '2026-10-22T15:47:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T12:41:32.588+02:00'
 integrity:
@@ -61,9 +344,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:53Z'
-  notes: Texto consolidado 02009R1223-20260518.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:45Z'
+  notes: 18 versão(ões); histórico completo em regulamento-ue-2009-1223.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -596,102 +879,43 @@ relationships:
   date: '1976-09-27'
 article_structure:
   article_count: 40
-  section_count: 65
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 66
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:53Z'
-  warnings: []
+  checked_at: '2026-10-22T15:47:45Z'
+  warnings:
+  - '02009R1223-20100111: versão indisponível (Sem expressão na língua por para CELEX 02009R1223-20100111.)'
+  - '02009R1223-20130711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20130901: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20140401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20140701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20140829: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20150416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20150716: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20150810: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20150818: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20160325: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20160512: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20160810: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20160812: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20170303: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20170727: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20170903: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20171225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20180711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20190617: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20190813: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20191127: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20191218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1223-20200501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1223/2009 do Parlamento Europeu e do Conselho, de 30 de Novembro de 2009
-
-> 02009R1223 — PT — 18.05.2026 — 041.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0344) — [REGULAMENTO (UE) N.º 344/2013 DA COMISSÃO de 4 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0344) — L 114 — 1 — 25.4.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R0483) — [REGULAMENTO (UE) N.º 483/2013 DA COMISSÃO de 24 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0483) — L 139 — 8 — 25.5.2013
-- [►M3](http://publications.europa.eu/resource/celex/32013R0658) — [REGULAMENTO (UE) N.º 658/2013 DA COMISSÃO de 10 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0658) — L 190 — 38 — 11.7.2013
-- [►M4](http://publications.europa.eu/resource/celex/32013R1197) — [REGULAMENTO (UE) N.º 1197/2013 DA COMISSÃO de 25 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1197) — L 315 — 34 — 26.11.2013
-- [►M5](http://publications.europa.eu/resource/celex/32014R0358) — [REGULAMENTO (UE) N.º 358/2014 DA COMISSÃO de 9 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0358) — L 107 — 5 — 10.4.2014
-- [►M6](http://publications.europa.eu/resource/celex/32014R0866) — [REGULAMENTO (UE) N.º 866/2014 DA COMISSÃO de 8 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0866) — L 238 — 3 — 9.8.2014
-- [►M7](http://publications.europa.eu/resource/celex/32014R1003) — [REGULAMENTO (UE) N.º 1003/2014 DA COMISSÃO de 18 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R1003) — L 282 — 1 — 26.9.2014
-- [►M8](http://publications.europa.eu/resource/celex/32014R1004) — [REGULAMENTO (UE) N.º 1004/2014 DA COMISSÃO de 18 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R1004) — L 282 — 5 — 26.9.2014
-- [►M9](http://publications.europa.eu/resource/celex/32015R1190) — [REGULAMENTO (UE) 2015/1190 DA COMISSÃO de 20 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1190) — L 193 — 115 — 21.7.2015
-- [►M10](http://publications.europa.eu/resource/celex/32015R1298) — [REGULAMENTO (UE) 2015/1298 DA COMISSÃO de 28 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1298) — L 199 — 22 — 29.7.2015
-- [►M11](http://publications.europa.eu/resource/celex/32016R0314) — [REGULAMENTO (UE) 2016/314 DA COMISSÃO de 4 de março de 2016](http://publications.europa.eu/resource/celex/32016R0314) — L 60 — 59 — 5.3.2016
-- [►M12](http://publications.europa.eu/resource/celex/32016R0621) — [REGULAMENTO (UE) 2016/621 DA COMISSÃO de 21 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0621) — L 106 — 4 — 22.4.2016
-- [►M13](http://publications.europa.eu/resource/celex/32016R0622) — [REGULAMENTO (UE) 2016/622 DA COMISSÃO de 21 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0622) — L 106 — 7 — 22.4.2016
-- [►M14](http://publications.europa.eu/resource/celex/32016R1120) — [REGULAMENTO (UE) 2016/1120 DA COMISSÃO de 11 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1120) — L 187 — 1 — 12.7.2016
-- [►M15](http://publications.europa.eu/resource/celex/32016R1121) — [REGULAMENTO (UE) 2016/1121 DA COMISSÃO de 11 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1121) — L 187 — 4 — 12.7.2016
-- [►M16](http://publications.europa.eu/resource/celex/32016R1143) — [REGULAMENTO (UE) 2016/1143 DA COMISSÃO de 13 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1143) — L 189 — 40 — 14.7.2016
-- [M17](http://publications.europa.eu/resource/celex/32016R1198) — [REGULAMENTO (UE) 2016/1198 DA COMISSÃO de 22 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1198) — L 198 — 10 — 23.7.2016
-- [►M18](http://publications.europa.eu/resource/celex/32017R0237) — [REGULAMENTO (UE) 2017/237 DA COMISSÃO de 10 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0237) — L 36 — 12 — 11.2.2017
-- [M19](http://publications.europa.eu/resource/celex/32017R0238) — [REGULAMENTO (UE) 2017/238 DA COMISSÃO de 10 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0238) — L 36 — 37 — 11.2.2017
-- [►M20](http://publications.europa.eu/resource/celex/32017R0745) — [REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de abril de 2017](http://publications.europa.eu/resource/celex/32017R0745) — L 117 — 1 — 5.5.2017
-- [M21](http://publications.europa.eu/resource/celex/32020R0561) — Alterado por: [REGULAMENTO (UE) 2020/561 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0561) — L 130 — 18 — 24.4.2020
-- [►M22](http://publications.europa.eu/resource/celex/32017R1224) — [REGULAMENTO (UE) 2017/1224 DA COMISSÃO de 6 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1224) — L 174 — 16 — 7.7.2017
-- [►M23](http://publications.europa.eu/resource/celex/32017R1410) — [REGULAMENTO (UE) 2017/1410 DA COMISSÃO de 2 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1410) — L 202 — 1 — 3.8.2017
-- [►M24](http://publications.europa.eu/resource/celex/32017R1413) — [REGULAMENTO (UE) 2017/1413 DA COMISSÃO de 3 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1413) — L 203 — 1 — 4.8.2017
-- [►M25](http://publications.europa.eu/resource/celex/32017R2228) — [REGULAMENTO (UE) 2017/2228 DA COMISSÃO de 4 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2228) — L 319 — 2 — 5.12.2017
-- [►M26](http://publications.europa.eu/resource/celex/32018R0885) — [REGULAMENTO (UE) 2018/885 DA COMISSÃO de 20 de junho de 2018](http://publications.europa.eu/resource/celex/32018R0885) — L 158 — 1 — 21.6.2018
-- [►M27](http://publications.europa.eu/resource/celex/32018R0978) — [REGULAMENTO (UE) 2018/978 DA COMISSÃO de 9 de julho de 2018](http://publications.europa.eu/resource/celex/32018R0978) — L 176 — 3 — 12.7.2018
-- [►M28](http://publications.europa.eu/resource/celex/32018R1847) — [REGULAMENTO (UE) 2018/1847 DA COMISSÃO de 26 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1847) — L 300 — 1 — 27.11.2018
-- [►M29](http://publications.europa.eu/resource/celex/32019R0680) — [REGULAMENTO (UE) 2019/680 DA COMISSÃO de 30 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0680) — L 115 — 3 — 2.5.2019
-- [►M30](http://publications.europa.eu/resource/celex/32019R0681) — [REGULAMENTO (UE) 2019/681 DA COMISSÃO de 30 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0681) — L 115 — 5 — 2.5.2019
-- [►M31](http://publications.europa.eu/resource/celex/32019R0698) — [REGULAMENTO (UE) 2019/698 DA COMISSÃO de 30 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0698) — L 119 — 66 — 7.5.2019
-- [►M32](http://publications.europa.eu/resource/celex/32019R0831) — [REGULAMENTO (UE) 2019/831 DA COMISSÃO de 22 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0831) — L 137 — 29 — 23.5.2019
-- [M33](http://publications.europa.eu/resource/celex/32019R1257) — [REGULAMENTO (UE) 2019/1257 DA COMISSÃO de 23 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1257) — L 196 — 5 — 24.7.2019
-- [►M34](http://publications.europa.eu/resource/celex/32019R1857) — [REGULAMENTO (UE) 2019/1857 DA COMISSÃO de 6 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1857) — L 286 — 3 — 7.11.2019
-- [►M35](http://publications.europa.eu/resource/celex/32019R1858) — [REGULAMENTO (UE) 2019/1858 DA COMISSÃO de 6 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1858) — L 286 — 7 — 7.11.2019
-- [►M36](http://publications.europa.eu/resource/celex/32019R1966) — [REGULAMENTO (UE) 2019/1966 DA COMISSÃO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1966) — L 307 — 15 — 28.11.2019
-- [►M37](http://publications.europa.eu/resource/celex/32020R1682) — [REGULAMENTO (UE) 2020/1682 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1682) — L 379 — 31 — 13.11.2020
-- [►M38](http://publications.europa.eu/resource/celex/32020R1683) — [REGULAMENTO (UE) 2020/1683 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1683) — L 379 — 34 — 13.11.2020
-- [►M39](http://publications.europa.eu/resource/celex/32020R1684) — [REGULAMENTO (UE) 2020/1684 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1684) — L 379 — 42 — 13.11.2020
-- [►M40](http://publications.europa.eu/resource/celex/32021R0850) — [REGULAMENTO (UE) 2021/850 DA COMISSÃO de 26 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0850) — L 188 — 44 — 28.5.2021
-- [►M41](http://publications.europa.eu/resource/celex/32021R1099) — [REGULAMENTO (UE) 2021/1099 DA COMISSÃO de 5 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1099) — L 238 — 29 — 6.7.2021
-- [►M42](http://publications.europa.eu/resource/celex/32021R1902) — [REGULAMENTO (UE) 2021/1902 DA COMISSÃO de 29 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1902) — L 387 — 120 — 3.11.2021
-- [►M43](http://publications.europa.eu/resource/celex/32022R0135) — [REGULAMENTO (UE) 2022/135 DA COMISSÃO de 31 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0135) — L 22 — 2 — 1.2.2022
-- [►M44](http://publications.europa.eu/resource/celex/32022R1176) — [REGULAMENTO (UE) 2022/1176 DA COMISSÃO de 7 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1176) — L 183 — 51 — 8.7.2022
-- [►M45](http://publications.europa.eu/resource/celex/32022R1181) — [REGULAMENTO (UE) 2022/1181 DA COMISSÃO de 8 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1181) — L 184 — 3 — 11.7.2022
-- [►M46](http://publications.europa.eu/resource/celex/32022R1531) — [REGULAMENTO (UE) 2022/1531 DA COMISSÃO de 15 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1531) — L 240 — 3 — 16.9.2022
-- [►M47](http://publications.europa.eu/resource/celex/32022R2195) — [REGULAMENTO (UE) 2022/2195 DA COMISSÃO de 10 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2195) — L 292 — 32 — 11.11.2022
-- [►M48](http://publications.europa.eu/resource/celex/32023R1490) — [REGULAMENTO (UE) 2023/1490 DA COMISSÃO de 19 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1490) — L 183 — 7 — 20.7.2023
-- [►M49](http://publications.europa.eu/resource/celex/32023R1545) — [REGULAMENTO (UE) 2023/1545 DA COMISSÃO de 26 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1545) — L 188 — 1 — 27.7.2023
-- [►M50](http://publications.europa.eu/resource/celex/32024R0858) — [REGULAMENTO (UE) 2024/858 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024R0858) — L 858 — 1 — 15.3.2024
-- [►M51](http://publications.europa.eu/resource/celex/32024R0996) — [REGULAMENTO (UE) 2024/996 DA COMISSÃO de 3 de abril de 2024](http://publications.europa.eu/resource/celex/32024R0996) — L 996 — 1 — 4.4.2024
-- [►M52](http://publications.europa.eu/resource/celex/32025R0877) — [REGULAMENTO (UE) 2025/877 DA COMISSÃO de 12 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0877) — L 877 — 1 — 13.5.2025
-- [►M53](http://publications.europa.eu/resource/celex/32026R0078) — [REGULAMENTO (UE) 2026/78 DA COMISSÃO de 12 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0078) — L 78 — 1 — 13.1.2026
-- [►M54](http://publications.europa.eu/resource/celex/32026R0909) — [REGULAMENTO (UE) 2026/909 DA COMISSÃO de 27 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0909) — L 909 — 1 — 28.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0344R%2801%29) — [Rectificação, JO L 142, 29.5.2013, p. 10 (344/2013)](http://publications.europa.eu/resource/celex/32013R0344R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R0866R%2801%29) — [Rectificação, JO L 254, 28.8.2014, p. 39 (866/2014)](http://publications.europa.eu/resource/celex/32014R0866R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32016R0314R%2801%29) — [Rectificação, JO L 017, 21.1.2017, p. 52 (2016/314)](http://publications.europa.eu/resource/celex/32016R0314R%2801%29)
-- [►C4](http://publications.europa.eu/resource/celex/32017R2228R%2801%29) — [Rectificação, JO L 326, 9.12.2017, p. 55 (2017/2228)](http://publications.europa.eu/resource/celex/32017R2228R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32018R0978R%2801%29) — [Rectificação, JO L 183, 19.7.2018, p. 27 (2018/978)](http://publications.europa.eu/resource/celex/32018R0978R%2801%29)
-- [►C6](http://publications.europa.eu/resource/celex/32009R1223R%2812%29) — [Rectificação, JO L 133, 21.5.2019, p. 23 (1223/2009)](http://publications.europa.eu/resource/celex/32009R1223R%2812%29)
-- [►C7](http://publications.europa.eu/resource/celex/32019R1966R%2801%29) — [Rectificação, JO L 324, 13.12.2019, p. 80 (2019/1966)](http://publications.europa.eu/resource/celex/32019R1966R%2801%29)
-- [C8](http://publications.europa.eu/resource/celex/32019R1966R%2802%29) — [Rectificação, JO L 076, 12.3.2020, p. 36 (2019/1966)](http://publications.europa.eu/resource/celex/32019R1966R%2802%29)
-- [►C9](http://publications.europa.eu/resource/celex/32020R1683R%2801%29) — [Rectificação, JO L 397, 26.11.2020, p. 30 (2020/1683)](http://publications.europa.eu/resource/celex/32020R1683R%2801%29)
-- [►C10](http://publications.europa.eu/resource/celex/32021R0850R%2801%29) — [Rectificação, JO L 214, 17.6.2021, p. 68 (2021/850)](http://publications.europa.eu/resource/celex/32021R0850R%2801%29)
-- [►C11](http://publications.europa.eu/resource/celex/32021R1099R%2802%29) — [Rectificação, JO L 365, 14.10.2021, p. 46 (2021/1099)](http://publications.europa.eu/resource/celex/32021R1099R%2802%29)
-- [►C12](http://publications.europa.eu/resource/celex/32024R0858R%2801%29) — [Rectificação, JO L 90467, 31.7.2024, p. 1 ((UE) 2024/8582024/858)](http://publications.europa.eu/resource/celex/32024R0858R%2801%29)
-- [►C13](http://publications.europa.eu/resource/celex/32009R1223R%2815%29) — [Rectificação, JO L 90805, 9.10.2025, p. 1 (n.o 1223/2009)](http://publications.europa.eu/resource/celex/32009R1223R%2815%29)
-- [►C14](http://publications.europa.eu/resource/celex/32022R2195R%2802%29) — [Rectificação, JO L 90869, 6.11.2025, p. 1 ((UE) 2022/2195)](http://publications.europa.eu/resource/celex/32022R2195R%2802%29)
-- [►C15](http://publications.europa.eu/resource/celex/32023R1545R%2802%29) — [Rectificação, JO L 90876, 11.11.2025, p. 1 ((UE) 2023/1545)](http://publications.europa.eu/resource/celex/32023R1545R%2802%29)
-- [►C16](http://publications.europa.eu/resource/celex/32026R0909R%2801%29) — [Rectificação, JO L 90354, 5.5.2026, p. 1 ((UE) 2026/9092026/909)](http://publications.europa.eu/resource/celex/32026R0909R%2801%29)
-- [►C17](http://publications.europa.eu/resource/celex/32026R0909R%2802%29) — [Rectificação, JO L 90369, 8.5.2026, p. 1 ((UE) 2026/9092026/909)](http://publications.europa.eu/resource/celex/32026R0909R%2802%29)
-
-## REGULAMENTO (CE) N.º 1223/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de Novembro de 2009
 

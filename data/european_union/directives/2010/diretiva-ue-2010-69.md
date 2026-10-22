@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2010-69.versoes.json
+  count: 1
+  source_lastmod: '2010-11-12'
+  versions:
+  - date: '2010-10-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010L0069
   eli: http://data.europa.eu/eli/dir/2010/69/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006
   content_url: http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:08Z'
+  retrieved_at: '2026-10-22T15:47:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T04:44:19.347+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:08Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:00Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2010-69.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,21 +131,20 @@ relationships:
   date: '2004-04-26'
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:08Z'
+  checked_at: '2026-10-22T15:47:00Z'
   warnings:
-  - Versão consolidada 02010L0069-20101112 indisponível (Sem expressão na língua por para CELEX 02010L0069-20101112.); usado
-    o texto do JO.
+  - '02010L0069-20101112: versão indisponível (Sem expressão na língua por para CELEX 02010L0069-20101112.)'
   errors: []
 ---
 
-# DIRECTIVA 2010/69/UE DA COMISSÃO
+# Directiva 2010/69/UE da Comissão, de 22 de Outubro de 2010
 
 de 22 de Outubro de 2010
 

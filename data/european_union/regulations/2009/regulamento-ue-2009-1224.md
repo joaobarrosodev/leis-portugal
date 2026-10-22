@@ -40,6 +40,244 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2009-1224.versoes.json
+  count: 11
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2009-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1380:por
+    amending_title: Regulamento (UE) n. o 1380/2013 do Parlamento Europeu e do Conselho de 11 de dezembro de 2013; Regulamento
+      (UE) n. o 1385/2013 do Conselho de 17 de dezembro de 2013; Regulamento (UE) n. o 508/2014 do Parlamento Europeu e do
+      Conselho de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 105.º — Dedução de quotas
+    - Altera Artigo 109.º — Princípios gerais relativos à análise dos dados
+    - Altera Artigo 120.º — Alterações ao Regulamento (CE) n.º 768/2005
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Artigo 124.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 2.º-A — Aplicação do sistema de controlo da União a certos segmentos da frota de Maiote enquanto região
+      ultraperiférica
+    - Adita «CAPÍTULO III-A
+    - Adita COMPETÊNCIAS DA AGÊNCIA
+    - Adita ANEXO I
+    - Adita MARCOS DE REFERÊNCIA ESPECÍFICOS DE INSPECÇÃO PARA OS PLANOS PLURIANUAIS
+    - Adita Objectivo
+    - Adita Estratégia
+    - Adita Prioridades
+    - Adita Marcos de referência-alvo
+    - Adita ANEXO II
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Suprime Artigo 103.º — Suspensão e anulação da assistência financeira comunitária
+  - date: '2014-12-13'
+    amending: eu:celex:32013R1379:por
+    amending_title: REGULAMENTO (UE) N. o 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 57.º — Normas comuns de comercialização
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 105.º — Dedução de quotas
+    - Altera Artigo 120.º — Alterações ao Regulamento (CE) n.º 768/2005
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+  - date: '2015-06-01'
+    amending: eu:celex:32015R0812:por
+    amending_title: REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Relação com outras disposições internacionais e nacionais
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 6.º — Licença de pesca
+    - Altera Artigo 7.º — Autorização de pesca
+    - Altera Artigo 9.º — Sistema de monitorização dos navios
+    - Altera Artigo 10.º — Sistema de identificação automática
+    - Altera Artigo 12.º — Transmissão de dados para operações de vigilância
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 15.º — Preenchimento e transmissão electrónicos dos dados do diário de pesca
+    - Altera Artigo 17.º — Notificação prévia
+    - Altera Artigo 18.º — Notificação prévia do desembarque noutro Estado-Membro
+    - Altera Artigo 20.º — Operações de transbordo
+    - Altera Artigo 21.º — Preenchimento e apresentação da declaração de transbordo
+    - Altera Artigo 22.º — Preenchimento e transmissão electrónicos dos dados da declaração de transbordo
+    - Altera Artigo 23.º — Preenchimento e apresentação da declaração de desembarque
+    - Altera Artigo 24.º — Preenchimento e transmissão electrónicos dos dados da declaração de desembarque
+    - Altera Artigo 28.º — Declaração de esforço de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 36.º — Encerramento de pescarias pela Comissão
+    - Altera Artigo 37.º — Medidas correctivas
+    - Altera Artigo 40.º — Certificação da potência do motor
+    - Altera Artigo 43.º — Portos designados
+    - Altera Artigo 44.º — Estiva separada das capturas de espécies demersais sujeitas a planos plurianuais
+    - Altera Artigo 48.º — Recuperação das artes perdidas
+    - Altera Artigo 49.º — Composição das capturas
+    - Altera Artigo 50.º — Controlo das zonas de pesca restringida
+    - Altera Artigo 55.º — Pesca recreativa
+    - Altera Artigo 56.º — Princípios que regem o controlo da comercialização
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 64.º — Conteúdo das notas de venda
+    - Altera Artigo 65.º — Isenções das obrigações relativas às notas de venda
+    - Altera Artigo 66.º — Declaração de tomada a cargo
+    - Altera Artigo 68.º — Preenchimento e apresentação do documento de transporte
+    - Altera Artigo 71.º — Avistamentos no mar e detecção pelos Estados-Membros
+    - Altera Artigo 73.º — Observadores de controlo
+  - date: '2017-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 90.º — Sanções por infracções graves
+    - Altera Artigo 92.º — Sistema de pontos para infracções graves
+    - Altera Artigo 120.º — Alterações ao Regulamento (CE) n.º 768/2005
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+  - date: '2019-04-14'
+    amending: eu:celex:32019R0473:por
+    amending_title: REGULAMENTO (UE) 2019/473 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+    - Suprime Artigo 120.º — Alterações ao Regulamento (CE) n.º 768/2005
+    - Suprime «CAPÍTULO III-A
+    - Suprime COMPETÊNCIAS DA AGÊNCIA
+  - date: '2019-08-14'
+    amending: eu:celex:32019R1241:por
+    amending_title: REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+    - Adita Transformação a bordo e pescarias pelágicas
+    - Adita Artigo 54.º-A — Transformação a bordo
+    - Adita Artigo 54.º-B — Restrições aplicáveis ao tratamento e à descarga das capturas dos navios de pesca pelágica
+    - Adita Artigo 54.º-C — Restrições aplicáveis à utilização de equipamento de calibragem automática
+    - Suprime Encerramento de pescarias em tempo real
+    - Suprime Artigo 51.º — Disposições gerais
+    - Suprime Artigo 52.º — Capturas de desencadeamento em dois lanços de rede
+    - Suprime Artigo 53.º — Encerramento em tempo real pelos Estados-Membros
+    - Suprime Artigo 54.º — Encerramento em tempo real pela Comissão
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2842:por
+    amending_title: REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 9.º — Sistema de monitorização dos navios
+    - Altera Artigo 12.º — Transmissão de dados para operações de vigilância
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 50.º — Controlo das zonas de pesca restringida
+    - Altera Artigo 55.º — Pesca recreativa
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+    - Adita Artigo 9.º-A — Centros de monitorização da pesca
+    - Adita Artigo 10.º — Sistemas de identificação automática
+    - Adita Artigo 15.º-A — Diário de pesca eletrónico e outros sistemas para os navios de comprimento de fora a fora inferior
+      a 12 metros
+    - Suprime Artigo 10.º — Sistema de identificação automática
+    - Suprime Organizações de produtores e regimes de preços e de intervenção
+    - Suprime Artigo 69.º — Controlo das organizações de produtores
+    - Suprime Artigo 70.º — Controlo dos regimes de preços e de intervenção
+  - date: '2024-07-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 14.º — Preenchimento e apresentação do diário de pesca
+    - Altera Artigo 21.º — Preenchimento e apresentação da declaração de transbordo
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+  - date: '2024-10-11'
+    amending: eu:celex:32024R2594:por
+    amending_title: REGULAMENTO (UE) 2024/2594 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2024
+    changes:
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 121.º — Alterações a outros regulamentos
+    - Altera Notas
+    - Suprime Artigo 54.º-B — Restrições aplicáveis ao tratamento e à descarga das capturas dos navios de pesca pelágica
+    - Suprime Artigo 54.º-C — Restrições aplicáveis à utilização de equipamento de calibragem automática
+  - date: '2026-01-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Princípios gerais
+    - Altera Artigo 6.º — Licença de pesca
+    - Altera Artigo 17.º — Notificação prévia
+    - Altera Artigo 19.º — Autorização de acesso ao porto
+    - Altera Artigo 20.º — Operações de transbordo
+    - Altera Artigo 26.º — Monitorização do esforço
+    - Altera Artigo 27.º — Notificação da arte de pesca
+    - Altera Artigo 29.º — Isenções
+    - Altera Artigo 30.º — Esgotamento do esforço de pesca
+    - Altera Artigo 33.º — Registo das capturas e do esforço de pesca
+    - Altera Artigo 34.º — Dados sobre o esgotamento das possibilidades de pesca
+    - Altera Artigo 35.º — Encerramento de pescarias pelos Estados-Membros
+    - Altera Artigo 36.º — Encerramento de pescarias pela Comissão
+    - Altera Artigo 37.º — Medidas correctivas
+    - Altera Artigo 42.º — Transbordo no porto
+    - Altera Artigo 43.º — Portos designados
+    - Altera Artigo 44.º — Estiva separada das capturas de espécies demersais sujeitas a planos plurianuais
+    - Altera Artigo 48.º — Recuperação das artes perdidas
+    - Altera Artigo 49.º — Composição das capturas
+    - Altera Artigo 55.º — Pesca recreativa
+    - Altera Artigo 56.º — Princípios que regem o controlo da comercialização
+    - Altera Artigo 57.º — Normas comuns de comercialização
+    - Altera Artigo 58.º — Rastreabilidade
+    - Altera Artigo 59.º — Primeira venda de produtos da pesca
+    - Altera Artigo 60.º — Pesagem de produtos da pesca
+    - Altera Artigo 62.º — Preenchimento e apresentação das notas de venda
+    - Altera Artigo 64.º — Conteúdo das notas de venda
+    - Altera Artigo 65.º — Isenções das obrigações relativas às notas de venda
+    - Altera Artigo 71.º — Avistamentos no mar e detecção pelos Estados-Membros
+    - Altera Artigo 73.º — Observadores de controlo
+    - Altera Artigo 80.º — Inspecção de navios de pesca fora das águas do Estado-Membro de inspecção
+    - Altera Artigo 85.º — Procedimento
+    - Altera Artigo 86.º — Transferência dos processos
+    - Altera Artigo 95.º — Programas específicos de controlo e inspecção
+    - Altera Artigo 102.º — Seguimento dado aos relatórios de verificação, de inspecção autónoma e de auditoria
+    - Altera Artigo 104.º — Encerramento de pescarias por incumprimento dos objectivos da Política Comum das Pescas
+    - Altera Artigo 105.º — Dedução de quotas
+    - Altera Artigo 106.º — Dedução do esforço de pesca
+    - Altera Artigo 107.º — Dedução de quotas por incumprimento das regras da Política Comum das Pescas
 identifiers:
   celex: 32009R1224
   eli: http://data.europa.eu/eli/reg/2009/1224/oj
@@ -54,7 +292,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d78a7890-06c9-434c-8c6b-e7c865bd2b28.0018
   content_url: http://publications.europa.eu/resource/cellar/1e46807f-0dbe-11f1-8870-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1224-20260110
-  retrieved_at: '2026-10-22T02:35:05Z'
+  retrieved_at: '2026-10-22T15:45:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T19:15:03.133+02:00'
 integrity:
@@ -63,9 +301,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:05Z'
-  notes: Texto consolidado 02009R1224-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:42Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2009-1224.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -536,42 +774,19 @@ relationships:
   date: '2007-02-28'
 article_structure:
   article_count: 128
-  section_count: 88
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 90
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:05Z'
+  checked_at: '2026-10-22T15:45:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1224/2009 do Conselho, de 20 de Novembro de 2009
-
-> 02009R1224 — PT — 10.01.2026 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R1379) — [REGULAMENTO (UE) N.º 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1379) — L 354 — 1 — 28.12.2013
-- [M2](http://publications.europa.eu/resource/celex/32013R1380) — [REGULAMENTO (UE) N.º 1380/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1380) — L 354 — 22 — 28.12.2013
-- [►M3](http://publications.europa.eu/resource/celex/32013R1385) — [REGULAMENTO (UE) N.º 1385/2013 DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1385) — L 354 — 86 — 28.12.2013
-- [►M4](http://publications.europa.eu/resource/celex/32014R0508) — [REGULAMENTO (UE) N.º 508/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0508) — L 149 — 1 — 20.5.2014
-- [►M5](http://publications.europa.eu/resource/celex/32015R0812) — [REGULAMENTO (UE) 2015/812 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2015](http://publications.europa.eu/resource/celex/32015R0812) — L 133 — 1 — 29.5.2015
-- [►M6](http://publications.europa.eu/resource/celex/32019R0473) — [REGULAMENTO (UE) 2019/473 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019R0473) — L 83 — 18 — 25.3.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019R1241) — [REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1241) — L 198 — 105 — 25.7.2019
-- [►M8](http://publications.europa.eu/resource/celex/32023R2842) — [REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2842) — L 2842 — 1 — 20.12.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R2594) — [REGULAMENTO (UE) 2024/2594 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2594) — L 2594 — 1 — 8.10.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32009R1224R%2803%29) — [Rectificação, JO L 149, 16.6.2015, p. 23 (1224/2009)](http://publications.europa.eu/resource/celex/32009R1224R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32015R0812R%2802%29) — [Rectificação, JO L 319, 4.12.2015, p. 21 (2015/812)](http://publications.europa.eu/resource/celex/32015R0812R%2802%29)
-
-## REGULAMENTO (CE) N.º 1224/2009 do Conselho
 
 de 20 de Novembro de 2009
 

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2009-607.versoes.json
+  count: 1
+  source_lastmod: '2018-03-03'
+  versions:
+  - date: '2009-07-24'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009R0607
   eli: http://data.europa.eu/eli/reg/2009/607/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4d9573fb-37b6-433e-bed0-40449af15fbd.0018
   content_url: http://publications.europa.eu/resource/cellar/4d9573fb-37b6-433e-bed0-40449af15fbd.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:45:32Z'
+  retrieved_at: '2026-10-22T15:42:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T19:37:20.151+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:32Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:51Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2009-607.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -327,21 +336,28 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 75
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:32Z'
+  checked_at: '2026-10-22T15:42:51Z'
   warnings:
-  - 'Versão consolidada 02009R0607-20180303 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009R0607-20090731: versão indisponível (Sem expressão na língua por para CELEX 02009R0607-20090731.)'
+  - '02009R0607-20090801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20110609: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20110716: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20120526: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20120703: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20121219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0607-20180303: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 607/2009 DA COMISSÃO
+# Regulamento (CE) N. o 607/2009 da Comissão, de 14 de Julho de 2009
 
 de 14 de Julho de 2009
 

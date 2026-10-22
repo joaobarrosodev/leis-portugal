@@ -38,6 +38,486 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2009-73.versoes.json
+  count: 15
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2009-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-30'
+    amending: eu:celex:32009R0992:por
+    amending_title: REGULAMENTO (CE) N. o 992/2009 DA COMISSÃO de 22 de Outubro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+  - date: '2009-12-22'
+    amending: eu:celex:32009R1250:por
+    amending_title: REGULAMENTO (CE) N. o 1250/2009 DO CONSELHO de 30 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 41.º — Reserva nacional
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 64.º — Integração do apoio associado excluído do regime de pagamento único
+    - Altera Artigo 67.º — Integração adiantada do apoio associado no regime de pagamento único
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 69.º — Disposições financeiras relativas ao apoio específico
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 131.º — Apoio específico
+    - Altera Artigo 132.º — Pagamentos directos nacionais complementares e pagamentos directos
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera Artigo 146.º — Revogações
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Artigo 146.º -A — Pagamentos para os ovinos e caprinos em 2009
+  - date: '2010-05-05'
+    amending: eu:celex:32010R0360:por
+    amending_title: REGULAMENTO (UE) N. o 360/2010 DA COMISSÃO de 27 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Limites máximos nacionais referidos no artigo 40.º
+  - date: '2011-04-06'
+    amending: eu:celex:32011R0307:por
+    amending_title: Regulamento (UE) n. o 307/2011 da Comissão de 29 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Suprime Limites máximos nacionais referidos no artigo 40.º
+  - date: '2011-08-09'
+    amending: eu:celex:32011R0785:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 785/2011 DA COMISSÃO de 5 de Agosto de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 81.º — Superfície
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+  - date: '2012-04-20'
+    amending: eu:celex:32012R0313:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 313/2012 DA COMISSÃO de 12 de abril de 2012; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 524/2012 DA COMISSÃO de 20 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+  - date: '2012-08-07'
+    amending: eu:celex:32012R0671:por
+    amending_title: REGULAMENTO (UE) N. o 671/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 69.º — Disposições financeiras relativas ao apoio específico
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 131.º — Apoio específico
+    - Altera Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Artigo 10.º-B — Ajustamento voluntário dos pagamentos diretos em 2013
+    - Adita Artigo 10.º-C — Montantes resultantes do ajustamento voluntário e da aplicação do artigo 136.º
+    - Adita Artigo 10.º-D — Limite máximo líquido do FEAGA
+    - Adita Artigo 11.º-A — Delegação de poderes
+    - Adita Artigo 133.º-A — Ajuda nacional transitória
+    - Adita Artigo 141.º-A — Exercício da delegação
+    - Adita Artigo 141.º-B — Procedimento de comité
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Limites máximos líquidos
+    - Altera Artigo 10.º-B — Ajustamento voluntário dos pagamentos diretos em 2013
+    - Altera Artigo 10.º-C — Montantes resultantes do ajustamento voluntário e da aplicação do artigo 136.º
+    - Altera Artigo 10.º-D — Limite máximo líquido do FEAGA
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 133.º-A — Ajuda nacional transitória
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Artigo 10.º-A — Ajustamento dos pagamentos diretos em 2013
+    - Adita ANEXO XVII-A
+    - Adita AJUDAS NACIONAIS TRANSITÓRIAS EM CHIPRE
+    - Suprime Artigo 134.º — Transferência financeira para a reestruturação nas regiões produtoras de algodão
+    - Suprime Artigo 135.º — Transferência financeira para a reestruturação nas regiões produtoras de tabaco
+  - date: '2013-04-02'
+    amending: eu:celex:32013R0287:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 287/2013 DA COMISSÃO de 22 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Limites líquidos nacionais máximos referidos no artigo 8.º
+    - Adita Limites máximos nacionais referidos no artigo 40.º
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013; ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Boas condições agrícolas e ambientais
+    - Altera Artigo 10.º-A — Ajustamento dos pagamentos diretos em 2013
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 33.º — Direitos ao pagamento
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 52.º — Pagamentos para a carne de ovino e de caprino
+    - Altera Artigo 53.º — Pagamentos para a carne de bovino
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 57.º — Reserva nacional
+    - Altera Artigo 59.º — Atribuição dos direitos ao pagamento
+    - Altera Artigo 61.º — Prados
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 69.º — Disposições financeiras relativas ao apoio específico
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 104.º — Limites individuais
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 112.º — Limite máximo individual para as vacas em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 132.º — Pagamentos directos nacionais complementares e pagamentos directos
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO VII
+    - Altera Limites máximos nacionais referidos no artigo 40.º
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Aplicação nos novos Estados-Membros que tenham aplicado o regime de pagamento único por superfície e na Croácia
+    - Adita Artigo 55.º
+  - date: '2014-01-01'
+    amending: eu:celex:32013R0929:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 929/2013 DA COMISSÃO de 26 de setembro de 2013; REGULAMENTO (UE) N.
+      o 1310/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Limites máximos líquidos
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 29.º — Pagamentos
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 41.º — Reserva nacional
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 69.º — Disposições financeiras relativas ao apoio específico
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 90.º — Superfícies de base, rendimentos fixos e montantes de referência
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 122.º — Regime de pagamento único por superfície
+    - Altera Artigo 124.º — Superfície ao abrigo do regime de pagamento único por superfície
+    - Altera Artigo 131.º — Apoio específico
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-A — Exercício da delegação
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita CAPÍTULO 5-A
+    - Adita Pagamento redistributivo em 2014
+    - Adita Artigo 72.º-A — Regras gerais
+    - Adita Artigo 72.º-B — Disposições financeiras
+    - Adita CAPÍTULO 2-A
+    - Adita Artigo 125.º-A — Regras gerais
+    - Adita Artigo 125.º-B — Disposições financeiras
+  - date: '2014-04-04'
+    amending: eu:celex:32014R0320:por
+    amending_title: Regulamento de Execução (UE) n. o 320/2014 da Comissão de 27 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 136.º-A — Flexibilidade entre pilares
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+  - date: '2014-09-25'
+    amending: eu:celex:32014R0994:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 994/2014 DA COMISSÃO de 13 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Disciplina financeira
+    - Altera Artigo 22.º — Controlos relativos à condicionalidade
+    - Altera Artigo 34.º — Activação de direitos ao pagamento por hectare elegível
+    - Altera Artigo 40.º — Limites máximos nacionais
+    - Altera Artigo 54.º — Pagamentos transitórios para as frutas e produtos hortícolas
+    - Altera Artigo 68.º — Regras gerais
+    - Altera Artigo 70.º — Seguro de colheitas, de animais e de plantas
+    - Altera Artigo 93.º — Âmbito de aplicação
+    - Altera Artigo 111.º — Prémio por vaca em aleitamento
+    - Altera Artigo 119.º — Substâncias proibidas nos termos da Directiva 96/22/CE
+    - Altera Artigo 132.º — Pagamentos directos nacionais complementares e pagamentos directos
+    - Altera Artigo 136.º-A — Flexibilidade entre pilares
+    - Altera Artigo 139.º — Ajudas estatais
+    - Altera Artigo 141.º-B — Procedimento de comité
+    - Altera Artigo 143.º — Alterações do Regulamento (CE) n.º 1290/2005
+    - Altera Artigo 144.º — Alterações do Regulamento (CE) n.º 247/2006
+    - Altera Artigo 145.º — Alterações do Regulamento (CE) n.º 378/2007
+    - Altera ANEXO I
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO VIII
+    - Altera ANEXO XIII
+    - Altera ANEXO XV
+    - Altera Notas
+    - Adita Anexo VIII-C
+    - Adita Limites máximos nacionais referidos no artigo 72.º-A, n.º 6, e no artigo 125.º-A, n.º 5
+    - Suprime ANEXO VIII-C
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Financiamento dos pagamentos directos
+    - Suprime TÍTULO II
+    - Suprime DISPOSIÇÕES GERAIS SOBRE OS PAGAMENTOS DIRECTOS
+    - Suprime CAPÍTULO 1
+    - Suprime Condicionalidade
+    - Suprime Artigo 4.º — Requisitos principais
+    - Suprime Artigo 5.º — Requisitos legais de gestão
+    - Suprime Artigo 6.º — Boas condições agrícolas e ambientais
+    - Suprime CAPÍTULO 2
+    - Suprime Modulação e disciplina financeira
+    - Suprime Artigo 7.º — Modulação
+    - Suprime Artigo 8.º — Limites máximos líquidos
+    - Suprime Artigo 9.º — Montantes resultantes da modulação
+    - Suprime Artigo 10.º — Regras especiais de modulação nos novos Estados-Membros
+    - Suprime Artigo 10.º-A — Ajustamento dos pagamentos diretos em 2013
+    - Suprime Artigo 10.º-B — Ajustamento voluntário dos pagamentos diretos em 2013
+    - Suprime Artigo 10.º-C — Montantes resultantes do ajustamento voluntário e da aplicação do artigo 136.º
+    - Suprime Artigo 10.º-D — Limite máximo líquido do FEAGA
+    - Suprime Artigo 11.º — Disciplina financeira
+    - Suprime Artigo 11.º-A — Delegação de poderes
+    - Suprime CAPÍTULO 3
+    - Suprime Sistema de aconselhamento agrícola
+    - Suprime Artigo 12.º — Sistema de aconselhamento agrícola
+    - Suprime Artigo 13.º — Obrigações das autoridades designadas e dos organismos privados
+    - Suprime CAPÍTULO 4
+    - Suprime Sistema integrado de gestão e de controlo
+    - Suprime Artigo 14.º — Âmbito de aplicação
+    - Suprime Artigo 15.º — Elementos do sistema integrado
+    - Suprime Artigo 16.º — Base de dados informatizada
+    - Suprime Artigo 17.º — Sistema de identificação das parcelas agrícolas
+    - Suprime Artigo 18.º — Sistema de identificação e registo dos direitos ao pagamento
+    - Suprime Artigo 19.º — Pedidos de ajuda
+    - Suprime Artigo 20.º — Verificação das condições de elegibilidade
+    - Suprime Artigo 21.º — Reduções e exclusões em caso de incumprimento das regras de elegibilidade
+    - Suprime Artigo 22.º — Controlos relativos à condicionalidade
 identifiers:
   celex: 32009R0073
   eli: http://data.europa.eu/eli/reg/2009/73/oj
@@ -52,7 +532,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2fe0aa6d-b483-4354-8136-d104683cbad8.0018
   content_url: http://publications.europa.eu/resource/cellar/0b8bf8bb-e967-4197-b63f-84a0e9c77075.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0073-20150101
-  retrieved_at: '2026-10-22T02:35:15Z'
+  retrieved_at: '2026-10-22T15:41:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:02:33.128+02:00'
 integrity:
@@ -61,9 +541,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:15Z'
-  notes: Texto consolidado 02009R0073-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:20Z'
+  notes: 15 versão(ões); histórico completo em regulamento-ue-2009-73.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -558,16 +1038,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:15Z'
+  checked_at: '2026-10-22T15:41:20Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0073-20090101: versão indisponível (Sem expressão na língua por para CELEX 02009R0073-20090101.)'
   errors: []
 ---
 

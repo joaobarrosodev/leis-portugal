@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-09-07'
+version_history:
+  file: decisao-ue-2010-634.versoes.json
+  count: 2
+  source_lastmod: '2013-09-07'
+  versions:
+  - date: '2010-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-07'
+    amending: eu:celex:32013D0448:por
+    amending_title: DECISÃO DA COMISSÃO de 5 de setembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
 identifiers:
   celex: 32010D0634
   eli: http://data.europa.eu/eli/dec/2010/634/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c424a957-8e5e-47a3-bd9c-3b92bae2b8c4.0004
   content_url: http://publications.europa.eu/resource/cellar/c8c73364-4d33-46c8-a6c7-7ec3b4387fa9.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010D0634-20130907
-  retrieved_at: '2026-10-22T03:14:54Z'
+  retrieved_at: '2026-10-22T15:45:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T20:51:19.793+02:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:54Z'
-  notes: Texto consolidado 02010D0634-20130907.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:43Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2010-634.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -95,29 +112,19 @@ relationships:
   date: '2010-07-13'
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:54Z'
+  checked_at: '2026-10-22T15:45:43Z'
   warnings: []
   errors: []
 ---
 
 # 2010/634/UE: Decisão da Comissão, de 22 de Outubro de 2010
-
-> 2010D0634 — PT — 07.09.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013D0448) — [DECISÃO DA COMISSÃO de 5 de setembro de 2013](http://publications.europa.eu/resource/celex/32013D0448) — L 240 — 27 — 7.9.2013
-
-## DECISÃO DA COMISSÃO
 
 de 22 de Outubro de 2010
 

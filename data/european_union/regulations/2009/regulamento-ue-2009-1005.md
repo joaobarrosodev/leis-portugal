@@ -36,6 +36,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-04-19'
+version_history:
+  file: regulamento-ue-2009-1005.versoes.json
+  count: 4
+  source_lastmod: '2017-04-19'
+  versions:
+  - date: '2009-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-08'
+    amending: eu:celex:32010R0744:por
+    amending_title: REGULAMENTO (UE) N. o 744/2010 DA COMISSÃO de 18 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 18.º — Concessão de licenças de importação e de exportação
+    - Altera Artigo 31.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita SUBSTÂNCIAS REGULAMENTADAS
+    - Adita ANEXO II
+    - 'Adita Parte A: Substâncias sujeitas a restrições por força do n.º 1 do artigo 24.º'
+    - 'Adita Parte B: Substâncias a comunicar por força do artigo 27.º'
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Condições para a colocação no mercado e subsequente distribuição de substâncias regulamentadas para as utilizações
+      laboratoriais e analíticas essenciais referidas no n.º 3 do artigo 10.º
+    - Adita ANEXO VI
+    - Adita UTILIZAÇÕES CRÍTICAS DE HALONS
+    - Adita ANEXO VII
+    - Adita TECNOLOGIAS DE DESTRUIÇÃO REFERIDAS NO N.º 1 DO ARTIGO 22.º
+    - Adita ANEXO VIII
+    - Adita QUADRO DE CORRESPONDÊNCIA
+  - date: '2013-11-25'
+    amending: eu:celex:32013R1087:por
+    amending_title: REGULAMENTO (UE) N. o 1087/2013 DA COMISSÃO de 4 de novembro de 2013; REGULAMENTO (UE) N. o 1088/2013
+      DA COMISSÃO de 4 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Concessão de licenças de importação e de exportação
+    - Altera Artigo 26.º — Comunicação de dados pelos Estados-Membros
+    - Altera SUBSTÂNCIAS REGULAMENTADAS
+    - 'Altera Parte B: Substâncias a comunicar por força do artigo 27.º'
+    - Altera TECNOLOGIAS DE DESTRUIÇÃO REFERIDAS NO N.º 1 DO ARTIGO 22.º
+    - Altera Notas
+  - date: '2017-04-19'
+    amending: eu:celex:32017R0605:por
+    amending_title: REGULAMENTO (UE) 2017/605 DA COMISSÃO de 29 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera SUBSTÂNCIAS REGULAMENTADAS
+    - 'Altera Parte B: Substâncias a comunicar por força do artigo 27.º'
+    - Altera UTILIZAÇÕES CRÍTICAS DE HALONS
+    - Altera TECNOLOGIAS DE DESTRUIÇÃO REFERIDAS NO N.º 1 DO ARTIGO 22.º
+    - Suprime Notas
 identifiers:
   celex: 32009R1005
   eli: http://data.europa.eu/eli/reg/2009/1005/oj
@@ -50,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0de2db7a-5849-46df-b79e-79be60b8c9cb.0019
   content_url: http://publications.europa.eu/resource/cellar/66ab92a5-9067-462b-a774-8b390875ad3c.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1005-20170419
-  retrieved_at: '2026-10-22T02:39:50Z'
+  retrieved_at: '2026-10-22T15:44:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T16:21:18.683+02:00'
 integrity:
@@ -59,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:50Z'
-  notes: Texto consolidado 02009R1005-20170419.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:11Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-1005.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -270,31 +326,18 @@ relationships:
 article_structure:
   article_count: 31
   section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:50Z'
+  checked_at: '2026-10-22T15:44:11Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1005/2009 do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009R1005 — PT — 19.04.2017 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0744) — [REGULAMENTO (UE) N.º 744/2010 DA COMISSÃO de 18 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010R0744) — L 218 — 2 — 19.8.2010
-- [►M2](http://publications.europa.eu/resource/celex/32013R1087) — [REGULAMENTO (UE) N.º 1087/2013 DA COMISSÃO de 4 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1087) — L 293 — 28 — 5.11.2013
-- [►M3](http://publications.europa.eu/resource/celex/32013R1088) — [REGULAMENTO (UE) N.º 1088/2013 DA COMISSÃO de 4 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1088) — L 293 — 29 — 5.11.2013
-- [►M4](http://publications.europa.eu/resource/celex/32017R0605) — [REGULAMENTO (UE) 2017/605 DA COMISSÃO de 29 de março de 2017](http://publications.europa.eu/resource/celex/32017R0605) — L 84 — 3 — 30.3.2017
-
-## REGULAMENTO (CE) N.º 1005/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

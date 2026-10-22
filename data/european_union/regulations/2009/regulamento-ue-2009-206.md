@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2009-206.versoes.json
+  count: 2
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2009-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Regras relativas à introdução na Comunidade de remessas pessoais de produtos de origem animal
+    - Suprime Artigo 3.º — Informações a facultar pelos Estados-Membros aos viajantes e ao público em geral
+    - Suprime Artigo 4.º — Informações a facultar pelos operadores de transporte internacional de passageiros e pelos serviços
+      postais aos seus clientes
+    - Suprime Artigo 5.º — Controlos
+    - Suprime Artigo 6.º — Sanções
+    - Suprime Artigo 7.º — Apresentação de relatórios
+    - Suprime Artigo 8.º — Alteração
+    - Suprime «Artigo 8.º — Regras específicas para produtos que fazem parte da bagagem dos viajantes ou são enviados como
+      remessas para particulares
+    - Suprime Notas
+    - Suprime Artigo 9.º — Revogação
+    - Suprime Artigo 10.º — Disposições transitórias
+    - Suprime Artigo 11.º — Entrada em vigor e aplicação
 identifiers:
   celex: 32009R0206
   eli: http://data.europa.eu/eli/reg/2009/206/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/23df29b9-7717-4fea-95d5-411ee9bd3457.0018
   content_url: http://publications.europa.eu/resource/cellar/426a36a5-36bc-11ea-ba6e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0206-20191214
-  retrieved_at: '2026-10-22T03:14:40Z'
+  retrieved_at: '2026-10-22T15:41:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:30:20.095+02:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:40Z'
-  notes: Texto consolidado 02009R0206-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:02Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-206.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,16 +186,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:40Z'
+  checked_at: '2026-10-22T15:41:02Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0206-20090413: versão indisponível (Sem expressão na língua por para CELEX 02009R0206-20090413.)'
+  - '02009R0206-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

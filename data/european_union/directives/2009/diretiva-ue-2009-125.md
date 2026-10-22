@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-04'
+version_history:
+  file: diretiva-ue-2009-125.versoes.json
+  count: 2
+  source_lastmod: '2012-12-04'
+  versions:
+  - date: '2009-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-04'
+    amending: eu:celex:32012L0027:por
+    amending_title: DIRETIVA 2012/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Livre circulação
+    - Altera Artigo 8.º — Avaliação da conformidade
+    - Altera Artigo 15.º — Medidas de execução
+    - Altera Artigo 26.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Método de fixação dos requisitos genéricos de concepção ecológica
+    - Adita (a que se refere o n.º 6 do artigo 15.º)
+    - Adita Parte 1. Parâmetros de concepção ecológica para os produtos
+    - Adita Parte 2. Requisitos referentes à prestação de informações
+    - Adita Parte 3. Requisitos relativos ao fabricante
+    - Adita ANEXO II
+    - Adita Método de fixação dos requisitos específicos de concepção ecológica
+    - Adita ANEXO III
+    - Adita Marcação CE
+    - Adita (a que se refere o n.º 2 do artigo 5.º)
+    - Adita ANEXO IV
+    - Adita Controlo interno da concepção
+    - Adita (a que se refere o n.º 2 do artigo 8.º)
+    - Adita ANEXO V
+    - Adita Sistema de gestão para avaliação da conformidade
+    - Adita ANEXO VI
+    - Adita Declaração CE de conformidade
+    - Adita (a que se refere o n.º 3 do artigo 5.º)
+    - Adita ANEXO VII
+    - Adita Conteúdo das medidas de execução
+    - Adita (a que se refere o n.º 8 do artigo 15.º)
+    - Adita ANEXO VIII
+    - Adita Auto-Regulação
+    - Adita (a que se refere o artigo 17.º)
+    - Adita 1. Participação aberta
+    - Adita 2. Valor acrescentado
+    - Adita 3. Representatividade
+    - Adita 4. Objectivos quantificados e faseados
+    - Adita 5. Participação da sociedade civil
+    - Adita 6. Vigilância e informação
+    - Adita 7. Rentabilidade derivada da iniciativa de auto-regulação
+    - Adita 8. Sustentabilidade
 identifiers:
   celex: 32009L0125
   eli: http://data.europa.eu/eli/dir/2009/125/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49.0018
   content_url: http://publications.europa.eu/resource/cellar/4ba6e830-9aa5-4369-a646-ec38b14fb9ee.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0125-20121204
-  retrieved_at: '2026-10-22T02:39:49Z'
+  retrieved_at: '2026-10-22T15:39:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:38:57.925+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:49Z'
-  notes: Texto consolidado 02009L0125-20121204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:41Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-125.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -215,29 +268,19 @@ relationships:
   source: null
 article_structure:
   article_count: 26
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:49Z'
+  checked_at: '2026-10-22T15:39:41Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009L0125 — PT — 04.12.2012 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012L0027) — [DIRETIVA 2012/27/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0027) — L 315 — 1 — 14.11.2012
-
-## DIRECTIVA 2009/125/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

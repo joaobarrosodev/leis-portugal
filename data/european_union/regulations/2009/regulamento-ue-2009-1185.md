@@ -35,6 +35,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-12-08'
+version_history:
+  file: regulamento-ue-2009-1185.versoes.json
+  count: 4
+  source_lastmod: '2021-12-08'
+  versions:
+  - date: '2009-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-28'
+    amending: eu:celex:32011R0656:por
+    amending_title: REGULAMENTO (UE) N. o 656/2011 DA COMISSÃO de 7 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ESTATÍSTICAS SOBRE A COLOCAÇÃO DE PESTICIDAS NO MERCADO
+    - Adita Secção 1
+    - Adita Âmbito
+    - Adita Secção 2
+    - Adita Variáveis
+    - Adita Secção 3
+    - Adita Unidades de medida a usar na comunicação
+    - Adita Secção 4
+    - Adita Período de referência
+    - Adita Secção 5
+    - Adita Primeiro período de referência, periodicidade e transmissão dos resultados
+    - Adita Secção 6
+    - Adita Relatório de qualidade
+    - Adita ANEXO II
+    - Adita ESTATÍSTICAS SOBRE A UTILIZAÇÃO AGRÍCOLA DE PESTICIDAS
+    - Adita ANEXO III
+  - date: '2017-03-09'
+    amending: eu:celex:32017R0269:por
+    amending_title: REGULAMENTO (UE) 2017/269 DA COMISSÃO de 16 de fevereiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita CLASSIFICAÇÃO HARMONIZADA DAS SUBSTÂNCIAS
+  - date: '2021-12-08'
+    amending: eu:celex:32021R2010:por
+    amending_title: REGULAMENTO (UE) 2021/2010 DA COMISSÃO de 17 de novembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera CLASSIFICAÇÃO HARMONIZADA DAS SUBSTÂNCIAS
+    - Altera Notas
 identifiers:
   celex: 32009R1185
   eli: http://data.europa.eu/eli/reg/2009/1185/oj
@@ -49,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8c7f0db4-ecc9-422f-9d9d-11bfadb73b96.0019
   content_url: http://publications.europa.eu/resource/cellar/06d8fd31-5ce6-11ec-a2ab-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1185-20211208
-  retrieved_at: '2026-10-22T02:52:51Z'
+  retrieved_at: '2026-10-22T15:45:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:07:00.093+02:00'
 integrity:
@@ -58,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:51Z'
-  notes: Texto consolidado 02009R1185-20211208.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:16Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-1185.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,31 +191,19 @@ relationships:
   date: '2022-12-07'
 article_structure:
   article_count: 8
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:51Z'
+  checked_at: '2026-10-22T15:45:16Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1185/2009 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
-
-> 02009R1185 — PT — 08.12.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011R0656) — [REGULAMENTO (UE) N.º 656/2011 DA COMISSÃO de 7 de Julho de 2011](http://publications.europa.eu/resource/celex/32011R0656) — L 180 — 3 — 8.7.2011
-- [M2](http://publications.europa.eu/resource/celex/32017R0269) — [REGULAMENTO (UE) 2017/269 DA COMISSÃO de 16 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0269) — L 40 — 4 — 17.2.2017
-- [►M3](http://publications.europa.eu/resource/celex/32021R2010) — [REGULAMENTO (UE) 2021/2010 DA COMISSÃO de 17 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2010) — L 410 — 4 — 18.11.2021
-
-## REGULAMENTO (CE) n.º 1185/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Novembro de 2009
 

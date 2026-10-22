@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0030:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0030-20090206",
+ "dre_path": null,
+ "source_lastmod": "2009-02-06",
+ "versions": [
+  {
+   "date": "2009-01-17",
+   "future": false,
+   "celex": "32009R0030",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c1fd505ceda6e8f",
+    "dc6ae5cbe98b8f92",
+    "463f6751e43d1268",
+    "eed1028df1db4c85"
+   ]
+  },
+  {
+   "date": "2009-02-06",
+   "future": false,
+   "celex": "02009R0030-20090206",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita «PARTE D: REGRAS APLICÁVEIS AOS PROCESSOS QUE SERVEM DE SUPORTE AOS SERVIÇOS DE LIGAÇÕES DE DADOS"
+   ],
+   "fragments": [
+    "3ed16161cb735e59",
+    "9f6a918c4fe95d91",
+    "3270ea9af2c9853b",
+    "80efe8342dc2ae97",
+    "2ba7e050561f524f",
+    "8b5b24ef2b08ead2"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c1fd505ceda6e8f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque altera o Regulamento (CE) n.º 1032/2006 no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntr1-L_2009013PT.01002001-E0001), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntr2-L_2009013PT.01002001-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) Para permitir a utilização de aplicações baseadas em ligações de dados ar-terra, os centros de controlo regional que prestam serviços de ligações de dados em conformidade com o Regulamento (CE) n.º 29/2009 da Comissão, de 16 de Janeiro de 2009, que estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu [([^3])](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntr3-L_2009013PT.01002001-E0003), deverão ter acesso, em tempo oportuno, à informação de voo adequada.\n\n(2) De modo a possibilitar o intercâmbio de dados entre a unidade de controlo de tráfego aéreo seguinte e a aeronave, no caso de os centros de controlo regional competentes não disporem de um serviço comum de conectividade das ligações de dados, deverão ser aplicados processos automatizados relacionados com a informação de identificação e a comunicação com a autoridade seguinte.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 Outubro de 2007.\n\n(4) O Regulamento (CE) n.º 1032/2006 da Comissão, de 6 de Julho de 2006, que estabelece regras relativamente aos sistemas automáticos de intercâmbio de dados de voo para efeitos de comunicação, coordenação e transferência de voos entre unidades de controlo do tráfego aéreo [([^4])](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntr4-L_2009013PT.01002001-E0004) deverá, por conseguinte, ser alterado em conformidade.\n\n(5) As medidas previstas no presente regulamento estão de acordo com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "dc6ae5cbe98b8f92": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CE) n.º 1032/2006 é alterado do seguinte modo:\n\n1. No artigo 3.º, é aditado o seguinte n.º 4: «4. Os prestadores de serviços de navegação aérea que fornecem serviços de ligações de dados nos termos do Regulamento (CE) n.º 29/2009 devem garantir que os sistemas referidos no n.º 2, alínea a), do artigo 1.º, que servem os centros de controlo regional, dão cumprimento às regras de interoperabilidade e desempenho previstas no anexo I, partes A e D.».\n\n2. Os anexos I e III são alterados em conformidade com o anexo ao presente regulamento."
+  },
+  "463f6751e43d1268": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Janeiro de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "eed1028df1db4c85": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntc1-L_2009013PT.01002001-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntc2-L_2009013PT.01002001-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntc3-L_2009013PT.01002001-E0003) Ver página 3 do presente Jornal Oficial.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/916c85bc-2437-433b-a5b2-8b07a447dbfe.0018.02/DOC_1#ntc4-L_2009013PT.01002001-E0004) [JO L 186 de 7.7.2006, p. 27](http://publications.europa.eu/resource/oj/JOL_2006_186_R_TOC)."
+  },
+  "3ed16161cb735e59": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro de 2009\n\nque altera o Regulamento (CE) n.º 1032/2006 no que respeita às regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo que servem de suporte aos serviços de ligações de dados\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) Para permitir a utilização de aplicações baseadas em ligações de dados ar-terra, os centros de controlo regional que prestam serviços de ligações de dados em conformidade com o Regulamento (CE) n.º 29/2009 da Comissão, de 16 de Janeiro de 2009, que estabelece os requisitos aplicáveis aos serviços de ligações de dados no céu único europeu ([^3^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#E0003)), deverão ter acesso, em tempo oportuno, à informação de voo adequada.\n\n(2) De modo a possibilitar o intercâmbio de dados entre a unidade de controlo de tráfego aéreo seguinte e a aeronave, no caso de os centros de controlo regional competentes não disporem de um serviço comum de conectividade das ligações de dados, deverão ser aplicados processos automatizados relacionados com a informação de identificação e a comunicação com a autoridade seguinte.\n\n(3) O Eurocontrol foi incumbido, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de definir as regras aplicáveis à introdução coordenada de serviços de ligações de dados. O presente regulamento baseia-se no relatório daí decorrente, de 19 Outubro de 2007.\n\n(4) O Regulamento (CE) n.º 1032/2006 da Comissão, de 6 de Julho de 2006, que estabelece regras relativamente aos sistemas automáticos de intercâmbio de dados de voo para efeitos de comunicação, coordenação e transferência de voos entre unidades de controlo do tráfego aéreo ([^4^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#E0004)) deverá, por conseguinte, ser alterado em conformidade.\n\n(5) As medidas previstas no presente regulamento estão de acordo com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9f6a918c4fe95d91": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CE) n.º 1032/2006 é alterado do seguinte modo:\n\n1. No artigo 3.º, [**►C1**](http://publications.europa.eu/resource/celex/32009R0030R%2801%29) é aditado o seguinte n.º 3-A:\n\n«3-A. Os prestadores de serviços de navegação aérea**◄** que fornecem serviços de ligações de dados nos termos do Regulamento (CE) n.º 29/2009 devem garantir que os sistemas referidos no n.º 2, alínea a), do artigo 1.º, que servem os centros de controlo regional, dão cumprimento às regras de interoperabilidade e desempenho previstas no anexo I, partes A e D.».\n\n2. Os anexos I e III são alterados em conformidade com o anexo ao presente regulamento."
+  },
+  "3270ea9af2c9853b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "80efe8342dc2ae97": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs Anexos I e II do Regulamento (CE) n.º 1032/2006 são alterados do seguinte modo:\n\n1. No Anexo I, é aditada a seguinte parte D:"
+  },
+  "2ba7e050561f524f": {
+   "fragment_id": "«PARTE D: REGRAS APLICÁVEIS AOS PROCESSOS QUE SERVEM DE SUPORTE AOS SERVIÇOS DE LIGAÇÕES DE DADOS",
+   "type": "divisao",
+   "heading": "«PARTE D: REGRAS APLICÁVEIS AOS PROCESSOS QUE SERVEM DE SUPORTE AOS SERVIÇOS DE LIGAÇÕES DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### «PARTE D: REGRAS APLICÁVEIS AOS PROCESSOS QUE SERVEM DE SUPORTE AOS SERVIÇOS DE LIGAÇÕES DE DADOS\n\n1. ENVIO DOS DADOS DE IDENTIFICAÇÃO (*LOGON FORWARD – LOF*) 1.1. Informações de voo pertinentes 1.1.1. As informações relativas ao processo de envio dos dados de identificação devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino, — tipo de identificação, — parâmetros dos dados de identificação. 1.2. Regras de aplicação 1.2.1. O processo de envio dos dados de identificação é executado para cada voo identificado no sistema de ligações de dados cujo planeamento preveja o atravessamento de fronteiras. 1.2.2. O processo de envio dos dados de identificação é iniciado no primeiro dos momentos a seguir determinados, ou assim que possível após a sua ocorrência: — um determinado número de minutos antes da hora estimada de passagem no ponto de coordenação, — o momento em que o voo se encontra a uma determinada distância, acordada bilateralmente, do ponto de coordenação, em conformidade com as cartas de acordo. 1.2.3. Os critérios de elegibilidade relativos ao processo de envio dos dados de identificação devem ser conformes com as cartas de acordo. 1.2.4. As informações relacionadas com o envio dos dados de identificação devem ser incluídas na informação de voo correspondente no órgão receptor. 1.2.5. A indicação de que o voo já está identificado pode ser apresentada na posição de trabalho apropriada do órgão receptor. 1.2.6. A conclusão do processo de envio dos dados de identificação, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor. 1.2.7. A ausência de confirmação da conclusão do processo de envio dos dados de identificação em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o envio de um pedido de contacto à aeronave através de ligações de dados ar-terra.\n\n1.1. Informações de voo pertinentes 1.1.1. As informações relativas ao processo de envio dos dados de identificação devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino, — tipo de identificação, — parâmetros dos dados de identificação.\n\n1.1.1. As informações relativas ao processo de envio dos dados de identificação devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino, — tipo de identificação, — parâmetros dos dados de identificação.\n\n1.2. Regras de aplicação 1.2.1. O processo de envio dos dados de identificação é executado para cada voo identificado no sistema de ligações de dados cujo planeamento preveja o atravessamento de fronteiras. 1.2.2. O processo de envio dos dados de identificação é iniciado no primeiro dos momentos a seguir determinados, ou assim que possível após a sua ocorrência: — um determinado número de minutos antes da hora estimada de passagem no ponto de coordenação, — o momento em que o voo se encontra a uma determinada distância, acordada bilateralmente, do ponto de coordenação, em conformidade com as cartas de acordo. 1.2.3. Os critérios de elegibilidade relativos ao processo de envio dos dados de identificação devem ser conformes com as cartas de acordo. 1.2.4. As informações relacionadas com o envio dos dados de identificação devem ser incluídas na informação de voo correspondente no órgão receptor. 1.2.5. A indicação de que o voo já está identificado pode ser apresentada na posição de trabalho apropriada do órgão receptor. 1.2.6. A conclusão do processo de envio dos dados de identificação, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor. 1.2.7. A ausência de confirmação da conclusão do processo de envio dos dados de identificação em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o envio de um pedido de contacto à aeronave através de ligações de dados ar-terra.\n\n1.2.1. O processo de envio dos dados de identificação é executado para cada voo identificado no sistema de ligações de dados cujo planeamento preveja o atravessamento de fronteiras.\n\n1.2.2. O processo de envio dos dados de identificação é iniciado no primeiro dos momentos a seguir determinados, ou assim que possível após a sua ocorrência: — um determinado número de minutos antes da hora estimada de passagem no ponto de coordenação, — o momento em que o voo se encontra a uma determinada distância, acordada bilateralmente, do ponto de coordenação, em conformidade com as cartas de acordo.\n\n1.2.3. Os critérios de elegibilidade relativos ao processo de envio dos dados de identificação devem ser conformes com as cartas de acordo.\n\n1.2.4. As informações relacionadas com o envio dos dados de identificação devem ser incluídas na informação de voo correspondente no órgão receptor.\n\n1.2.5. A indicação de que o voo já está identificado pode ser apresentada na posição de trabalho apropriada do órgão receptor.\n\n1.2.6. A conclusão do processo de envio dos dados de identificação, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor.\n\n1.2.7. A ausência de confirmação da conclusão do processo de envio dos dados de identificação em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o envio de um pedido de contacto à aeronave através de ligações de dados ar-terra.\n\n2. NOTIFICAÇÃO DA AUTORIDADE SEGUINTE (*NEXT AUTHORITY NOTIFIED - NAN*) 2.1. Informações de voo pertinentes 2.1.1. As informações relativas ao processo de notificação da autoridade seguinte devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino. 2.2. Regras de aplicação 2.2.1. O processo de notificação da autoridade seguinte deve ser executado para todos os voos elegíveis que atravessam fronteiras. 2.2.2. O processo de notificação da autoridade seguinte deve ser iniciado após o sistema de bordo ter confirmado o pedido de dados enviado pela autoridade seguinte à aeronave. 2.2.3. Após a informação de notificação da autoridade seguinte ter sido processada com sucesso, o órgão receptor lança um pedido de início da comunicação controlador-piloto através de ligações de dados (CPDLC) à aeronave. 2.2.4. Caso a informação de notificação da autoridade seguinte não seja recebida num intervalo de tempo acordado bilateralmente, o órgão receptor aplica os procedimentos locais de início da comunicação com a aeronave através de ligações de dados. 2.2.5. A conclusão do processo de notificação da autoridade seguinte, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor. 2.2.6. A ausência de confirmação da conclusão do processo de notificação da autoridade seguinte em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o início dos procedimentos locais no órgão transferidor.».\n\n2.1. Informações de voo pertinentes 2.1.1. As informações relativas ao processo de notificação da autoridade seguinte devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino.\n\n2.1.1. As informações relativas ao processo de notificação da autoridade seguinte devem incluir, no mínimo, os seguintes elementos: — identificação da aeronave, — aeródromo de partida, — aeródromo de destino.\n\n2.2. Regras de aplicação 2.2.1. O processo de notificação da autoridade seguinte deve ser executado para todos os voos elegíveis que atravessam fronteiras. 2.2.2. O processo de notificação da autoridade seguinte deve ser iniciado após o sistema de bordo ter confirmado o pedido de dados enviado pela autoridade seguinte à aeronave. 2.2.3. Após a informação de notificação da autoridade seguinte ter sido processada com sucesso, o órgão receptor lança um pedido de início da comunicação controlador-piloto através de ligações de dados (CPDLC) à aeronave. 2.2.4. Caso a informação de notificação da autoridade seguinte não seja recebida num intervalo de tempo acordado bilateralmente, o órgão receptor aplica os procedimentos locais de início da comunicação com a aeronave através de ligações de dados. 2.2.5. A conclusão do processo de notificação da autoridade seguinte, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor. 2.2.6. A ausência de confirmação da conclusão do processo de notificação da autoridade seguinte em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o início dos procedimentos locais no órgão transferidor.».\n\n2.2.1. O processo de notificação da autoridade seguinte deve ser executado para todos os voos elegíveis que atravessam fronteiras.\n\n2.2.2. O processo de notificação da autoridade seguinte deve ser iniciado após o sistema de bordo ter confirmado o pedido de dados enviado pela autoridade seguinte à aeronave.\n\n2.2.3. Após a informação de notificação da autoridade seguinte ter sido processada com sucesso, o órgão receptor lança um pedido de início da comunicação controlador-piloto através de ligações de dados (CPDLC) à aeronave.\n\n2.2.4. Caso a informação de notificação da autoridade seguinte não seja recebida num intervalo de tempo acordado bilateralmente, o órgão receptor aplica os procedimentos locais de início da comunicação com a aeronave através de ligações de dados.\n\n2.2.5. A conclusão do processo de notificação da autoridade seguinte, incluindo a confirmação do órgão receptor, deve ser comunicada ao órgão transferidor.\n\n2.2.6. A ausência de confirmação da conclusão do processo de notificação da autoridade seguinte em conformidade com as normas de qualidade de serviço aplicáveis deve implicar o início dos procedimentos locais no órgão transferidor.».\n\n2. No Anexo III, os pontos 2 e 3 passam a ter a seguinte redacção:\n\n«2. As regras de interoperabilidade e de desempenho definidas nos pontos 3.2.4, 3.2.5, 4.2.3, 4.2.4, 5.2.3, 5.2.4, 6.2.3 e 6.2.4 do Anexo I, parte B, e 1.2.6, 1.2.7, 2.2.5 e 2.2.6 do Anexo I, parte D, devem também ser consideradas regras de segurança.\n\n3. Para efeitos da revisão dos processos de coordenação, cancelamento da coordenação, dados básicos de voo, alteração dos dados básicos de voo, envio dos dados de identificação e notificação da autoridade seguinte, as regras aplicáveis à qualidade do serviço previstas no Anexo II devem igualmente ser consideradas regras de segurança.».\n\n---"
+  },
+  "8b5b24ef2b08ead2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#src.E0003)) Ver página 3 do presente Jornal Oficial.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cbbdbf6e-29ef-42ab-95e7-6dabb826c8d2.0018.03/DOC_1#src.E0004)) JO L 186 de 7.7.2006, p. 27."
+  }
+ }
+}

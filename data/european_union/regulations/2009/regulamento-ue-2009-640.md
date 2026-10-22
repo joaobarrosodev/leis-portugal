@@ -35,6 +35,79 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-01'
+version_history:
+  file: regulamento-ue-2009-640.versoes.json
+  count: 5
+  source_lastmod: '2021-07-01'
+  versions:
+  - date: '2009-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-12'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de concepção ecológica
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES
+    - Adita 1. REQUISITOS DE EFICIÊNCIA DOS MOTORES
+    - Adita 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES
+    - Adita 3. DEFINIÇÕES PARA EFEITOS DO ANEXO I
+    - Adita ANEXO II
+    - Adita MEDIÇÕES E CÁLCULOS
+    - Adita ANEXO III
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO
+    - Adita ANEXO IV
+    - Adita PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+  - date: '2014-07-27'
+    amending: eu:celex:32014R0004:por
+    amending_title: REGULAMENTO (UE) N. o 4/2014 DA COMISSÃO de 6 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito de aplicação
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Notas
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime PROCEDIMENTO DE VERIFICAÇÃO
+  - date: '2021-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objeto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 4.º — Avaliação da conformidade
+    - Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado
+    - Suprime Artigo 6.º — Parâmetros de referência indicativos
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS DE CONCEPÇÃO ECOLÓGICA PARA OS MOTORES
+    - Suprime 1. REQUISITOS DE EFICIÊNCIA DOS MOTORES
+    - Suprime 2. REQUISITOS DE INFORMAÇÃO APLICÁVEIS AOS MOTORES
+    - Suprime 3. DEFINIÇÕES PARA EFEITOS DO ANEXO I
+    - Suprime ANEXO II
+    - Suprime MEDIÇÕES E CÁLCULOS
+    - Suprime ANEXO III
+    - Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime ANEXO IV
+    - Suprime PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+    - Suprime Notas
 identifiers:
   celex: 32009R0640
   eli: http://data.europa.eu/eli/reg/2009/640/oj
@@ -49,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/abb49fef-1eca-49a2-a097-b035476a36a3.0018
   content_url: http://publications.europa.eu/resource/cellar/1c49c9ef-e589-11eb-a1a5-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0640-20210701
-  retrieved_at: '2026-10-22T02:52:47Z'
+  retrieved_at: '2026-10-22T15:42:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T03:49:19.865+02:00'
 integrity:
@@ -58,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:47Z'
-  notes: Texto consolidado 02009R0640-20210701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:58Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2009-640.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +212,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:47Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:42:58Z'
+  warnings: []
   errors: []
 ---
 

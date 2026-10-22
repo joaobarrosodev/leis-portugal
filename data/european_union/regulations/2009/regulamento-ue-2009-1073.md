@@ -38,6 +38,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2009-1073.versoes.json
+  count: 1
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2009-11-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009R1073
   eli: http://data.europa.eu/eli/reg/2009/1073/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f342d5a0-30bf-4529-b765-db03ecc23ef5.0019
   content_url: http://publications.europa.eu/resource/cellar/f342d5a0-30bf-4529-b765-db03ecc23ef5.0019.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:39:53Z'
+  retrieved_at: '2026-10-22T15:44:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T22:41:54.133+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:53Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:48Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2009-1073.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -218,21 +227,22 @@ relationships:
   date: '1998-01-14'
 article_structure:
   article_count: 31
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:53Z'
+  checked_at: '2026-10-22T15:44:48Z'
   warnings:
-  - 'Versão consolidada 02009R1073-20130701 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009R1073-20091204: versão indisponível (Sem expressão na língua por para CELEX 02009R1073-20091204.)'
+  - '02009R1073-20120711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1073-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1073/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n. o 1073/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
 
 de 21 de Outubro de 2009
 

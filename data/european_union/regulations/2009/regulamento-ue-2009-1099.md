@@ -35,6 +35,94 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-06'
+version_history:
+  file: regulamento-ue-2009-1099.versoes.json
+  count: 4
+  source_lastmod: '2026-08-06'
+  versions:
+  - date: '2009-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-05-18'
+    amending: eu:celex:32018R0723:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2018/723 DA COMISSÃO de 16 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 17.º — Responsável pelo bem-estar dos animais
+    - Altera Artigo 28.º — Revogação
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DE MÉTODOS DE ATORDOAMENTO E RESPECTIVAS ESPECIFICAÇÕES
+    - Adita (a que se refere o artigo 4.º)
+    - Adita Métodos
+    - Adita Requisitos específicos aplicáveis a certos métodos
+    - Adita 1. Dispositivo de êmbolo retráctil não perfurante
+    - Adita 2. Maceração
+    - Adita 3. Deslocação cervical e golpe percussor na cabeça
+    - Adita 4. Atordoamento eléctrico (aplicação da corrente apenas à cabeça)
+    - Adita 5. Atordoamento (aplicação da corrente da cabeça ao corpo)
+    - Adita 6. Atordoamento de aves de capoeira em tanque de imersão
+    - Adita 7. Dióxido de carbono em concentração elevada
+    - Adita 8. Dióxido de carbono, gases inertes ou uma combinação destas misturas gasosas
+    - Adita 9. Monóxido de carbono (de fonte pura ou associado a outros gases)
+    - Adita 10. Atordoamento a baixa pressão atmosférica
+    - Adita ANEXO II
+    - Adita CONFIGURAÇÃO, CONSTRUÇÃO E EQUIPAMENTOS DOS MATADOUROS
+    - Adita (a que se refere o artigo 14.º)
+    - Adita 1. Todas as instalações de estabulação
+    - Adita 2. Instalações de estabulação para animais não transportados em contentores
+    - Adita 3. Equipamento e instalações de imobilização
+    - Adita 4. Equipamento de atordoamento eléctrico (excepto equipamento de atordoamento em tanque de imersão).
+    - Adita 5. Equipamento de atordoamento em tanque de imersão
+    - Adita 6. Equipamento de atordoamento por gás para suínos e aves de capoeira
+    - Adita 7. Atordoamento a baixa pressão atmosférica
+    - Adita ANEXO III
+    - Adita REGRAS OPERACIONAIS PARA OS MATADOUROS
+    - Adita (a que se refere o artigo 15.º)
+    - Adita 1. Chegada, encaminhamento e manipulação dos animais
+    - Adita 2. Regras adicionais para mamíferos estabulados (excepto coelhos e lebres)
+    - Adita 3. Sangria dos animais
+    - Adita ANEXO IV
+    - Adita CORRESPONDÊNCIA ENTRE AS ACTIVIDADESE OS REQUISITOS DO EXAME DE APTIDÃO
+    - Adita (a que se refere o artigo 21.º)
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Métodos de atordoamento
+    - Altera Artigo 10.º — Consumo doméstico privado
+    - Altera Artigo 17.º — Responsável pelo bem-estar dos animais
+    - Altera Métodos
+    - Altera Requisitos específicos aplicáveis a certos métodos
+    - Altera 2. Instalações de estabulação para animais não transportados em contentores
+    - Altera 1. Chegada, encaminhamento e manipulação dos animais
+    - Altera Notas
+    - Adita 6. Equipamento de atordoamento por gás para porcos e aves de capoeira
+    - Suprime Artigo 22.º — Incumprimento
+    - Suprime 1. Dispositivo de êmbolo retráctil não perfurante
+    - Suprime 2. Maceração
+    - Suprime 3. Deslocação cervical e golpe percussor na cabeça
+    - Suprime 4. Atordoamento eléctrico (aplicação da corrente apenas à cabeça)
+    - Suprime 5. Atordoamento (aplicação da corrente da cabeça ao corpo)
+    - Suprime 6. Atordoamento de aves de capoeira em tanque de imersão
+    - Suprime 7. Dióxido de carbono em concentração elevada
+    - Suprime 8. Dióxido de carbono, gases inertes ou uma combinação destas misturas gasosas
+    - Suprime 9. Monóxido de carbono (de fonte pura ou associado a outros gases)
+    - Suprime 10. Atordoamento a baixa pressão atmosférica
+    - Suprime 6. Equipamento de atordoamento por gás para suínos e aves de capoeira
+  - date: '2026-08-06'
+    amending: eu:celex:32026R1734:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1734 DA COMISSÃO de 16 de julho de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 17.º — Responsável pelo bem-estar dos animais
+    - Altera Métodos
+    - Altera Requisitos específicos aplicáveis a certos métodos
+    - Altera Notas
 identifiers:
   celex: 32009R1099
   eli: http://data.europa.eu/eli/reg/2009/1099/oj
@@ -49,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d77bf99e-e4be-4704-b301-91fb04eb18c0.0018
   content_url: http://publications.europa.eu/resource/cellar/1c2d435c-9595-11f1-9262-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1099-20260806
-  retrieved_at: '2026-10-22T02:48:14Z'
+  retrieved_at: '2026-10-22T15:44:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:44:20.237+02:00'
 integrity:
@@ -58,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:14Z'
-  notes: Texto consolidado 02009R1099-20260806.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:51Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-1099.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,36 +302,20 @@ relationships:
   date: '1993-12-31'
 article_structure:
   article_count: 29
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:14Z'
-  warnings: []
+  checked_at: '2026-10-22T15:44:51Z'
+  warnings:
+  - '02009R1099-20091208: versão indisponível (Sem expressão na língua por para CELEX 02009R1099-20091208.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1099/2009 do Conselho, de 24 de Setembro de 2009
-
-> 02009R1099 — PT — 06.08.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M2](http://publications.europa.eu/resource/celex/32018R0723) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/723 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0723) — L 122 — 11 — 17.5.2018
-- [►M3](http://publications.europa.eu/resource/celex/32026R1734) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1734 DA COMISSÃO de 16 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1734) — L 1734 — 1 — 17.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009R1099R%2808%29) — [Rectificação, JO L 90390, 18.5.2026, p. 1 (n.o 1099/2009)](http://publications.europa.eu/resource/celex/32009R1099R%2808%29)
-
-## REGULAMENTO (CE) N.º 1099/2009 DO CONSELHO
 
 de 24 de Setembro de 2009
 

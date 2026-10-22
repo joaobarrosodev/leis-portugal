@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-01'
+version_history:
+  file: diretiva-ue-2009-132.versoes.json
+  count: 2
+  source_lastmod: '2021-07-01'
+  versions:
+  - date: '2009-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-01'
+    amending: eu:celex:32017L2455:por
+    amending_title: DIRETIVA (UE) 2017/2455 DO CONSELHO de 5 de dezembro de 2017; M2
+    changes:
+    - Altera preambulo
+    - Altera Artigo 36.º
+    - Altera Artigo 84.º
+    - Altera Artigo 98.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
+    - Suprime TÍTULO IV
+    - Suprime IMPORTAÇÕES DE VALOR INSIGNIFICANTE
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
 identifiers:
   celex: 32009L0132
   eli: http://data.europa.eu/eli/dir/2009/132/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/55c1a1d7-39c8-437e-aa44-3b336765ed23.0018
   content_url: http://publications.europa.eu/resource/cellar/e107262a-f45d-11eb-aeb9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0132-20210701
-  retrieved_at: '2026-10-22T02:59:17Z'
+  retrieved_at: '2026-10-22T15:39:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:05:18.161+02:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:17Z'
-  notes: Texto consolidado 02009L0132-20210701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-132.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,30 +165,19 @@ relationships:
   date: '1991-12-31'
 article_structure:
   article_count: 96
-  section_count: 83
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 84
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:17Z'
+  checked_at: '2026-10-22T15:39:52Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/132/CE do Conselho, de 19 de Outubro de 2009
-
-> 02009L0132 — PT — 01.07.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017L2455) — [DIRETIVA (UE) 2017/2455 DO CONSELHO de 5 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017L2455) — L 348 — 7 — 29.12.2017
-- [M2](http://publications.europa.eu/resource/celex/32020D1109) — Alterada por: [DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1109) — L 244 — 3 — 29.7.2020
-
-## DIRECTIVA 2009/132/CE DO CONSELHO
 
 de 19 de Outubro de 2009
 

@@ -36,6 +36,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-26'
+version_history:
+  file: regulamento-ue-2009-444.versoes.json
+  count: 2
+  source_lastmod: '2009-06-26'
+  versions:
+  - date: '2009-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
 identifiers:
   celex: 32009R0444
   eli: http://data.europa.eu/eli/reg/2009/444/oj
@@ -50,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b02cf62-62d1-4452-8d3b-0a43223d585e.0019
   content_url: http://publications.europa.eu/resource/cellar/04da452c-cc48-4444-b3f3-d6e9fa7cd0f5.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0444-20090626
-  retrieved_at: '2026-10-22T02:48:12Z'
+  retrieved_at: '2026-10-22T15:42:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:52:18.315+02:00'
 integrity:
@@ -59,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:12Z'
-  notes: Texto consolidado 02009R0444-20090626.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:08Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-444.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,29 +162,19 @@ relationships:
   date: '2009-11-30'
 article_structure:
   article_count: 2
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:12Z'
+  checked_at: '2026-10-22T15:42:08Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 444/2009 do Parlamento Europeu e do Conselho, de 28 de Maio de 2009
-
-> 2009R0444 — PT — 26.06.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0444R%2802%29) — [Rectificação, JO L 188, 18.7.2009, p. 127 (444/2009)](http://publications.europa.eu/resource/celex/32009R0444R%2802%29)
-
-## REGULAMENTO (CE) N.º 444/2009 DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 6 de Maio de 2009,
 

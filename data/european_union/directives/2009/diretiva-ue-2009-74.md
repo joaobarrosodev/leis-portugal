@@ -36,6 +36,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-04'
+version_history:
+  file: diretiva-ue-2009-74.versoes.json
+  count: 2
+  source_lastmod: '2009-07-04'
+  versions:
+  - date: '2009-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-07-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Directiva 66/401/CEE
+    - Altera Artigo 2.º — Alterações à Directiva 66/402/CEE
+    - Altera Artigo 4.º — Alterações à Directiva 2002/57/CE
+    - Altera Artigo 7.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita «ANEXO II
+    - Adita CONDIÇÕES A QUE DEVEM OBEDECER AS SEMENTES
+    - Adita I. SEMENTES CERTIFICADAS
+    - Adita II. SEMENTES DE BASE
+    - Adita III. SEMENTES COMERCIAIS
+    - Adita ANEXO III
+    - Adita PARTE B
+    - Adita «ANEXO I
+    - Adita CONDIÇÕES A QUE DEVE OBEDECER A CULTURA
+    - Adita ANEXO II
+    - Adita PARTE C
+    - Adita PARTE D
+    - Adita I. SEMENTES DE BASE E CERTIFICADAS
+    - Adita II. SEMENTES COMERCIAIS
 identifiers:
   celex: 32009L0074
   eli: http://data.europa.eu/eli/dir/2009/74/oj
@@ -50,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62a29470-95bf-4889-95a4-dcf210539493.0018
   content_url: http://publications.europa.eu/resource/cellar/0ef3aee3-575f-47ac-bc73-8ea06292e9e0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0074-20090704
-  retrieved_at: '2026-10-22T02:52:40Z'
+  retrieved_at: '2026-10-22T15:39:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T19:12:19.986+02:00'
 integrity:
@@ -59,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:40Z'
-  notes: Texto consolidado 02009L0074-20090704.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:03Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-74.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,29 +186,19 @@ relationships:
   date: '2015-12-22'
 article_structure:
   article_count: 7
-  section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 24
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:40Z'
+  checked_at: '2026-10-22T15:39:03Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/74/CE da Comissão, de 26 de Junho de 2009
-
-> 2009L0074 — PT — 04.07.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0074R%2801%29) — [Rectificação, JO L 154, 19.6.2010, p. 31 (09/74)](http://publications.europa.eu/resource/celex/32009L0074R%2801%29)
-
-## DIRECTIVA 2009/74/CE DA COMISSÃO
 
 de 26 de Junho de 2009
 

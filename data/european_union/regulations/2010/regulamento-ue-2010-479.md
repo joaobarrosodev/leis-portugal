@@ -36,6 +36,136 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-11'
+version_history:
+  file: regulamento-ue-2010-479.versoes.json
+  count: 8
+  source_lastmod: '2017-07-11'
+  versions:
+  - date: '2010-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-11-20'
+    amending: eu:celex:32010R1041:por
+    amending_title: REGULAMENTO (UE) N. o 1041/2010 DA COMISSÃO de 16 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita ANEXO I.A
+    - Adita ANEXO I.B
+    - Adita ANEXO II
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em
+      conformidade com o artigo 3.º
+    - Adita ANEXO III
+  - date: '2011-03-01'
+    amending: eu:celex:32011R0173:por
+    amending_title: REGULAMENTO (UE) N. o 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em
+      conformidade com o artigo 3.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^11^](http://publications.europa.eu/resource/cellar/6686489e-d434-4bca-bd86-abf0f77e5dce.0018.03/DOC_1#E0013))em conformidade
+      com o artigo 3.º
+  - date: '2011-12-01'
+    amending: eu:celex:32011R1191:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1191/2011 DA COMISSÃO de 18 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em
+      conformidade com o artigo 3.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^12^](http://publications.europa.eu/resource/cellar/14be52ef-72db-4d8f-821e-3319e8018fd0.0018.03/DOC_1#E0014))em conformidade
+      com o artigo 3.º
+  - date: '2014-04-01'
+    amending: eu:celex:32013R1333:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1333/2013 DA COMISSÃO de 13 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em
+      conformidade com o artigo 3.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^12^](http://publications.europa.eu/resource/cellar/151abb4f-85db-478f-9629-45c9ef1a70e3.0018.03/DOC_1#E0014))em conformidade
+      com o artigo 3.º
+  - date: '2014-11-01'
+    amending: eu:celex:32014R1097:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1097/2014 DA COMISSÃO de 17 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em
+      conformidade com o artigo 3.º
+    - Suprime CAPÍTULO I
+    - Suprime MEDIDAS RELATIVAS À AJUDA PARA O LEITE DESNATADO E O LEITE EM PÓ DESNATADO
+    - Suprime Artigo 1.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^12^](http://publications.europa.eu/resource/cellar/8085ca21-b453-420e-ae20-b74984aeacc3.0018.02/DOC_1#E0015))em conformidade
+      com o artigo 3.º
+  - date: '2015-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita CAPÍTULO I-A
+    - Adita ENTREGAS DE LEITE CRU AOS PRIMEIROS COMPRADORES
+    - Adita Artigo 1.º-A
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em
+      conformidade com o artigo 3.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^12^](http://publications.europa.eu/resource/cellar/86a78374-8988-441a-84f9-637c7e8073f4.0015.02/DOC_1#E0015))em conformidade
+      com o artigo 3.º
+  - date: '2017-07-11'
+    amending: eu:celex:32017R1185:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera ANEXO I.A
+    - Altera ANEXO I.B
+    - Altera Notas
+    - Adita Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão ([^1^](http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1#E0007))em
+      conformidade com o artigo 3.º
+    - Suprime Artigo 1.º-A
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Elementos a incluir no relatório sobre os preços do leite cru e dos produtos lácteos a transmitir à Comissão
+      ([^12^](http://publications.europa.eu/resource/cellar/56312e05-2c2c-4aff-9859-d0d118a7100b.0015.02/DOC_1#E0015))em conformidade
+      com o artigo 3.º
 identifiers:
   celex: 32010R0479
   eli: http://data.europa.eu/eli/reg/2010/479/oj
@@ -50,7 +180,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/716cf897-316f-4f99-a7e8-7f4cd20361b1.0018
   content_url: http://publications.europa.eu/resource/cellar/40e5585c-72ca-49ce-8d0a-db8d37260d54.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0479-20170711
-  retrieved_at: '2026-10-22T03:15:20Z'
+  retrieved_at: '2026-10-22T15:48:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T20:42:45.750+02:00'
 integrity:
@@ -59,9 +189,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:20Z'
-  notes: Texto consolidado 02010R0479-20170711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:06Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2010-479.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,34 +294,20 @@ relationships:
   date: '2005-04-18'
 article_structure:
   article_count: 8
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:20Z'
-  warnings: []
+  checked_at: '2026-10-22T15:48:06Z'
+  warnings:
+  - '02010R0479-20100609: versão indisponível (Sem expressão na língua por para CELEX 02010R0479-20100609.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 479/2010 da Comissão, de 1 de Junho de 2010
-
-> 02010R0479 — PT — 11.07.2017 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R1041) — [REGULAMENTO (UE) N.º 1041/2010 DA COMISSÃO de 16 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010R1041) — L 299 — 4 — 17.11.2010
-- [M2](http://publications.europa.eu/resource/celex/32011R0173) — [REGULAMENTO (UE) N.º 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0173) — L 49 — 16 — 24.2.2011
-- [►M3](http://publications.europa.eu/resource/celex/32011R1191) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1191/2011 DA COMISSÃO de 18 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1191) — L 302 — 30 — 19.11.2011
-- [►M4](http://publications.europa.eu/resource/celex/32013R1333) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1333/2013 DA COMISSÃO de 13 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1333) — L 335 — 8 — 14.12.2013
-- [►M5](http://publications.europa.eu/resource/celex/32014R1097) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1097/2014 DA COMISSÃO de 17 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1097) — L 300 — 39 — 18.10.2014
-- [►M6](http://publications.europa.eu/resource/celex/32017R1185) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO de 20 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1185) — L 171 — 113 — 4.7.2017
-
-## REGULAMENTO (UE) N.º 479/2010 DA COMISSÃO
 
 de 1 de Junho de 2010
 

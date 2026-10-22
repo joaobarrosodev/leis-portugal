@@ -1,0 +1,431 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0262:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0262-20231005",
+ "dre_path": null,
+ "source_lastmod": "2023-10-05",
+ "versions": [
+  {
+   "date": "2009-03-31",
+   "future": false,
+   "celex": "32009R0262",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83576049dd7ee1d8",
+    "9db74052d48530bb",
+    "2259f4f400ac3f3e",
+    "dc246f8b428c04a9",
+    "231f381ac356eb78",
+    "e704b8461be6614d",
+    "d38c8c7fc1de7d4d",
+    "99dea21483295827",
+    "8d2934647adcafce",
+    "f97e484bccd835c2",
+    "c160e09c8b6b853b",
+    "6f5a55187b3a0e13",
+    "75bc3f510d995e80",
+    "35eea3bba88c947d",
+    "ce24c76fbcb76649"
+   ]
+  },
+  {
+   "date": "2016-12-21",
+   "future": false,
+   "celex": "02009R0262-20161221",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2345:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2016/2345 DA COMISSÃO de 14 de dezembro de 2016",
+     "published": null,
+     "celex": "32016R2345"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Procedimentos associados para os Estados-Membros",
+    "Altera Artigo 13.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto 2",
+    "Adita ANEXO II",
+    "Adita Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^ 1 e 2 do artigo 5.º",
+    "Adita Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^ 3 e 4 do artigo 4.º",
+    "Adita ANEXO III",
+    "Adita Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º",
+    "Adita ANEXO IV",
+    "Adita Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas referidos no artigo 10.º",
+    "Adita Parte B: Módulo de controlo interno do fabrico",
+    "Adita ANEXO V",
+    "Adita Condições referidas no artigo 11.º",
+    "Adita ANEXO VI",
+    "Adita Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º",
+    "Adita Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º"
+   ],
+   "fragments": [
+    "4ef19571cbcd25a8",
+    "9db74052d48530bb",
+    "169cf020ad22a09a",
+    "dc246f8b428c04a9",
+    "231f381ac356eb78",
+    "5ce9b627e1393c26",
+    "d38c8c7fc1de7d4d",
+    "99dea21483295827",
+    "8d2934647adcafce",
+    "f97e484bccd835c2",
+    "c160e09c8b6b853b",
+    "6f5a55187b3a0e13",
+    "75bc3f510d995e80",
+    "e9152390f8a2f93f",
+    "d664376e2a8dcecd",
+    "77ca462b7704c952",
+    "852174729551523b",
+    "95fbed543b6933b4",
+    "0080cfa1fe434b1f",
+    "720af75c92791b10",
+    "3e778da9f35777fa",
+    "e03a0eb4d5b2eef3",
+    "35eb31681a8a46ce",
+    "c631b554b6b0f750",
+    "64610ae29a6cb67c",
+    "ca426f7435d525bd",
+    "90c7d2baf4d44ee2",
+    "217f43b5c39bd5ea",
+    "302516fa3ca612f8",
+    "29ab7f04aa304250"
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "future": false,
+   "celex": "02009R0262-20231005",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos de interoperabilidade e desempenho",
+    "Suprime Artigo 4.º — Procedimentos associados para os operadores de Modo S",
+    "Suprime Artigo 5.º — Procedimentos associados para os Estados-Membros",
+    "Suprime Artigo 6.º — Procedimentos associados para os prestadores de serviços de tráfego aéreo",
+    "Suprime Artigo 7.º — Requisitos para contingências",
+    "Suprime Artigo 8.º — Coordenação civil-militar",
+    "Suprime Artigo 9.º — Requisitos de segurança",
+    "Suprime Artigo 10.º — Avaliação da conformidade",
+    "Suprime Artigo 11.º — Verificação dos sistemas",
+    "Suprime Artigo 12.º — Requisitos adicionais",
+    "Suprime Artigo 13.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto 2",
+    "Suprime ANEXO II",
+    "Suprime Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^ 1 e 2 do artigo 5.º",
+    "Suprime Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^ 3 e 4 do artigo 4.º",
+    "Suprime ANEXO III",
+    "Suprime Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º",
+    "Suprime ANEXO IV",
+    "Suprime Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas referidos no artigo 10.º",
+    "Suprime Parte B: Módulo de controlo interno do fabrico",
+    "Suprime ANEXO V",
+    "Suprime Condições referidas no artigo 11.º",
+    "Suprime ANEXO VI",
+    "Suprime Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º",
+    "Suprime Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "b2037b2c9e38c3b2"
+   ]
+  }
+ ],
+ "fragments": {
+  "83576049dd7ee1d8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março de 2009\n\nque estabelece requisitos para a atribuição e a utilização coordenadas dos códigos de interrogador Modo S para o céu único europeu\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («Regulamento Interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntr1-L_2009084PT.01002001-E0001), nomeadamente o n.º 5 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («Regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntr2-L_2009084PT.01002001-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) O Modo S (*Select*) é uma técnica de vigilância cooperativa para o controlo do tráfego aéreo. Permite a interrogação selectiva das aeronaves e a extracção de dados de bordo, através dos quais podem ser desenvolvidas novas funcionalidades de gestão do tráfego aéreo. A configuração dos sistemas que permitem comunicar com uma dada aeronave através do modo S (seguidamente designados «interrogadores Modo S») exige a utilização de códigos para os interrogadores Modo S para a detecção e a vigilância das aeronaves equipadas com um *transponder* (emissor-receptor) Modo S.\n\n(2) Para garantir a segurança do sistema de vigilância do tráfego aéreo, é essencial que as zonas de cobertura por radar de dois interrogadores Modo S que utilizam o mesmo código de interrogador não se sobreponham, excepto se estiverem agrupadas num agregado ou existirem outros mecanismos apropriados de mitigação operacional.\n\n(3) Para apoiar a implantação de um número crescente de interrogadores Modo S e resolver o problema da escassez de códigos de interrogador disponíveis para a interrogação de aeronaves, é necessário coordenar de forma eficiente a atribuição e a utilização desses códigos.\n\n(4) O Eurocontrol foi mandatado, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, para elaborar os requisitos aplicáveis à atribuição e a utilização dos códigos de interrogador Modo S (seguidamente designados «códigos de interrogador»). O presente regulamento tem por base o relatório resultante desse mandato, de 2 Janeiro 2008.\n\n(5) Inicialmente, por razões técnicas, apenas foram definidos e utilizados como códigos de interrogador os códigos identificadores de interrogador (seguidamente «códigos II») de 0 a 15. Devido ao número previsto de interrogadores Modo S, tomaram-se posteriormente medidas para permitir a utilização de códigos identificadores de vigilância (seguidamente «códigos SI») suplementares, de 1 a 63.\n\n(6) Normalmente, a utilização de códigos SI exige que todos os alvos Modo S situados na zona de cobertura dos interrogadores Modo S estejam equipados para o efeito. No entanto, o Eurocontrol elaborou especificações para o funcionamento com códigos II/SI que permitirão a utilização precoce de códigos SI pelos interrogadores Modo S mesmo num ambiente em que nem todos os alvos Modo S estejam equipados para a utilização de códigos SI. Deve, portanto, exigir-se aos operadores de Modo S que se adaptem a este funcionamento com códigos II/SI.\n\n(7) Foi criado, sob a autoridade do Eurocontrol, um serviço centralizado de atribuição de códigos de interrogador, fornecido através do sistema de atribuição de códigos de interrogador. Deve exigir-se aos Estados-Membros que tomem as medidas necessárias para garantir que o sistema de atribuição de códigos de interrogador produza informações compatíveis com a coerência dos elementos essenciais de uma atribuição de código de interrogador. Os elementos essenciais deverão ser claramente identificados.\n\n(8) Para garantir que os elementos essenciais das atribuições de códigos de interrogador sejam correctamente implementados, deverão ser definidos procedimentos comuns. Tais procedimentos deverão ter em conta as disposições pertinentes da Organização da Aviação Civil Internacional (seguidamente designada «ICAO»).\n\n(9) Os operadores de Modo S e os prestadores de serviços de tráfego aéreo deverão tomar medidas adequadas para detectar e atenuar o efeito de possíveis conflitos entre códigos de interrogador.\n\n(10) O presente regulamento não deve abranger as operações e treinos militares, conforme referidos no n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(11) Um número limitado de códigos de interrogador está reservado para utilização e gestão exclusivas por entidades militares, incluindo organizações interestatais, designadamente a Organização do Tratado do Atlântico Norte. Os interrogadores Modo S que utilizem esses códigos não têm, por conseguinte, de estar sujeitos ao processo de atribuição coordenado. Deverá exigir-se, contudo, aos Estados-Membros que tomem as medidas necessárias para garantir que a utilização desses códigos de interrogador não tenha um impacto negativo na segurança do tráfego aéreo em geral.\n\n(12) O código de interrogador 0 foi reservado pela ICAO para o funcionamento sem código atribuído. Os interrogadores Modo S que utilizem o código de interrogador 0 de acordo com as normas e práticas recomendadas da ICAO não têm de estar sujeitos ao processo de atribuição coordenado.\n\n(13) O código II 14 foi reservado para a utilização partilhada por sistemas de ensaio. A detecção de alvos Modo S não pode ser garantida quando vários sistemas de ensaio operam simultaneamente. Os operadores de sistemas de ensaio Modo S que precisem de realizar ensaios temporários que exijam a inexistência de situações de conflito deverão, por conseguinte, garantir a devida coordenação bilateral com outros operadores de sistemas de ensaio Modo S.\n\n(14) O serviço centralizado de atribuição de códigos de interrogador deverá disponibilizar aos Estados-Membros e aos operadores de Modo S, actualizando-o quando necessário, um plano de atribuição de códigos de interrogador que garanta a utilização segura e eficiente desses códigos. O plano de atribuição deverá ser aprovado pelos Estados-Membros por ele afectados.\n\n(15) Deverá ser definido um mecanismo para resolver situações em que a aprovação do plano de atribuição de códigos de interrogador não possa ser obtida em tempo útil.\n\n(16) Para manter ou melhorar os actuais níveis de segurança das operações, deve exigir-se aos Estados-Membros que garantam a realização pelos interessados directos de uma avaliação da segurança que inclua a identificação dos perigos, a avaliação dos riscos e os processos de mitigação. A aplicação harmonizada destes processos aos sistemas abrangidos pelo presente regulamento exige a inclusão de requisitos de segurança específicos em todos os requisitos de interoperabilidade e de desempenho.\n\n(17) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade deverão descrever os procedimentos específicos de avaliação da conformidade a seguir para avaliar quer a conformidade quer a adequação para utilização dos componentes, bem como para a verificação dos sistemas.\n\n(18) Dado o grau de maturidade do mercado dos componentes a que se aplica o presente regulamento, a conformidade ou a adequação destes componentes para utilização podem ser satisfatoriamente avaliadas através do controlo interno do fabrico, recorrendo aos procedimentos baseados no módulo A previsto na Decisão n.º 768/2008/CE do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, relativa a um quadro comum para a comercialização de produtos, e que revoga a Decisão 93/465/CEE [([^3])](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntr3-L_2009084PT.01002001-E0003).\n\n(19) As medidas previstas no presente regulamento são conformes com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9db74052d48530bb": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece requisitos para a atribuição e a utilização coordenadas dos códigos de interrogador Modo S (seguidamente designados «códigos de interrogador») para efeitos de funcionamento seguro e eficaz da vigilância do tráfego aéreo e de coordenação civil-militar.\n\n2. O presente regulamento aplica-se aos interrogadores Modo S elegíveis e aos correspondentes sistemas de vigilância, aos seus componentes e aos procedimentos associados, quando apoiem a atribuição ou a utilização coordenadas de códigos de interrogador elegíveis."
+  },
+  "2259f4f400ac3f3e": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão ainda aplicáveis as seguintes definições:\n\n1. «Interrogador Modo S» — um sistema, composto por antenas e equipamentos electrónicos, que permite comunicar com uma dada aeronave através do modo *Select*, conhecido por Modo S.\n\n2. «Código de interrogador» — um código identificador de interrogador ou um código identificador de vigilância utilizado para protocolos de bloqueio multissítios e eventualmente para protocolos de comunicação.\n\n3. «Código identificador de interrogador» (seguidamente designado «código II») — um código de interrogador Modo S com um valor compreendido entre 0 e 15, que pode ser utilizado tanto para protocolos de bloqueio multissítios como para protocolos de comunicação.\n\n4. «Código identificador de vigilância» (seguidamente designado «código SI») — um código de interrogador Modo S com um valor compreendido entre 1 e 63, que pode ser utilizado para protocolos de bloqueio multissítios, mas não com protocolos de comunicação multissítios.\n\n5. «Bloqueio multissítios» — o protocolo que permite a aquisição e o bloqueio de alvos Modo S por vários interrogadores Modo S cuja cobertura se sobreponha.\n\n6. «Protocolos de comunicação multissítios» — os protocolos utilizados para coordenar, nas zonas de sobreposição da cobertura dos interrogadores Modo S, o controlo das comunicações efectuadas em mais do que uma transacção.\n\n7. «Alvo Modo S» — uma plataforma equipada com um *transponder* Modo S.\n\n8. «Bloqueio» — o protocolo que permite a supressão das respostas às chamadas normais Modo S de alvos Modo S já adquiridos.\n\n9. «Operador de Modo S» — uma pessoa, organização ou empresa que opera ou se propõe operar um interrogador Modo S, incluindo: a) prestadores de serviços de navegação aérea; b) fabricantes de interrogadores Modo S; c) operadores de aeroportos; d) estabelecimentos de investigação; e) qualquer outra entidade com direito a operar um interrogador Modo S.\n\na) prestadores de serviços de navegação aérea;\n\nb) fabricantes de interrogadores Modo S;\n\nc) operadores de aeroportos;\n\nd) estabelecimentos de investigação;\n\ne) qualquer outra entidade com direito a operar um interrogador Modo S.\n\n10. «Atribuição de código de interrogador» — uma definição de valores para, pelo menos, todos os elementos essenciais de uma atribuição de código de interrogador, conforme enumerados na Parte B do anexo II.\n\n11. «Sistema de atribuição de códigos de interrogador» — um sistema integrado na Rede Europeia de Gestão do Tráfego Aéreo, e os procedimentos associados, através do qual é fornecido aos operadores de Modo S dos Estados-Membros um serviço centralizado de atribuição de códigos de interrogador (seguidamente designado «serviço de atribuição de códigos de interrogador»), que trata do processamento dos pedidos de códigos de interrogador e da distribuição de uma proposta de plano de atribuição de códigos de interrogador.\n\n12. «Pedido de código de interrogador» — um pedido de atribuição de um código de interrogador apresentado por um operador de Modo S.\n\n13. «Proposta de plano de atribuição de códigos de interrogador» — proposta de um conjunto completo de atribuições de CI, apresentada pelo serviço de atribuição de códigos de interrogador aos Estados-Membros para aprovação.\n\n14. «Plano de atribuição de códigos de interrogador» — o mais recente conjunto completo de atribuições de códigos de interrogador aprovado.\n\n15. «Interrogador Modo S elegível» — um interrogador Modo S que satisfaz, pelo menos, uma das seguintes condições: a) o interrogador confia, pelos menos em parte, nas interrogações e respostas a chamadas normais Modo S para a aquisição de alvos Modo S; ou b) o interrogador bloqueia, permanente ou intermitentemente, em parte ou na totalidade da sua zona de cobertura, os alvos Modo S adquiridos em resposta a interrogações normais Modo S; ou c) o interrogador utiliza protocolos de comunicação multissítios para aplicações de ligação de dados.\n\na) o interrogador confia, pelos menos em parte, nas interrogações e respostas a chamadas normais Modo S para a aquisição de alvos Modo S; ou\n\nb) o interrogador bloqueia, permanente ou intermitentemente, em parte ou na totalidade da sua zona de cobertura, os alvos Modo S adquiridos em resposta a interrogações normais Modo S; ou\n\nc) o interrogador utiliza protocolos de comunicação multissítios para aplicações de ligação de dados.\n\n16. «Código de interrogador elegível» — qualquer código de entre os códigos II e SI, excepto: a) o código II 0; b) o(s) código(s) de interrogador cuja gestão e atribuição estão reservadas a entidades militares, incluindo organizações interestatais, em particular a Organização do Tratado do Atlântico Norte.\n\na) o código II 0;\n\nb) o(s) código(s) de interrogador cuja gestão e atribuição estão reservadas a entidades militares, incluindo organizações interestatais, em particular a Organização do Tratado do Atlântico Norte.\n\n17. «Interrogações normais Modo S» — as mensagens que são normalmente utilizadas pelos interrogadores Modo S para adquirir alvos Modo S que entram na sua zona de cobertura.\n\n18. «Código de interrogador operacional» — qualquer código de interrogador elegível que não o código II 14.\n\n19. «Estado-Membro competente»: a) no caso de um prestador de serviços de navegação aérea, o Estado-Membro que tiver certificado o prestador em conformidade com o Regulamento (CE) n.º 2096/2005 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntr4-L_2009084PT.01002001-E0004); b) nos restantes casos, o Estado-Membro em cuja zona de responsabilidade o operador de Modo S opera, ou tenciona operar, um interrogador Modo S elegível.\n\na) no caso de um prestador de serviços de navegação aérea, o Estado-Membro que tiver certificado o prestador em conformidade com o Regulamento (CE) n.º 2096/2005 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntr4-L_2009084PT.01002001-E0004);\n\nb) nos restantes casos, o Estado-Membro em cuja zona de responsabilidade o operador de Modo S opera, ou tenciona operar, um interrogador Modo S elegível.\n\n20. «Conflito de códigos de interrogador» — sobreposição não coordenada da cobertura de dois ou mais interrogadores Modo S que operam com o mesmo código de interrogador, cujo efeito potencial é a não detecção de uma aeronave por, pelo menos, um dos interrogadores Modo S.\n\n21. «Monitorização do conflito de códigos de interrogador» — a implementação, por um operador de Modo S, de meios técnicos ou procedimentais para identificar os efeitos dos conflitos de códigos de interrogador com outros interrogadores Modo S nos dados de vigilância fornecidos pelos seus próprios interrogadores Modo S.\n\n22. «Sequência de implementação» — a sequência temporal de implementação das atribuições de códigos de interrogador que os operadores de Modo S têm de cumprir para evitarem conflitos temporários de códigos de interrogador.\n\n23. «Código II correspondente» — o código II descodificado por um *transponder* Modo S não compatível com códigos SI, numa interrogação normal Modo S que contenha um código SI, e que é utilizado por esse *transponder* para codificar a resposta a chamadas normais.\n\n24. «Mapa de bloqueios» — o ficheiro de configuração do interrogador Modo S que define quando e como aplicar o bloqueio aos alvos Modo S."
+  },
+  "dc246f8b428c04a9": {
+   "fragment_id": "Artigo 3.º — Requisitos de interoperabilidade e desempenho",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de interoperabilidade e desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de interoperabilidade e desempenho\n\nOs operadores de Modo S devem garantir que os componentes electrónicos da cabeça de radar dos seus interrogadores Modo S que utilizam um código de interrogador operacional:\n\n1. Podem funcionar com códigos SI e códigos II em conformidade com as disposições da organização da Aviação Civil Internacional especificadas no anexo I, ponto 1.\n\n2. Podem funcionar com códigos II/SI em conformidade com os requisitos especificados no anexo III."
+  },
+  "231f381ac356eb78": {
+   "fragment_id": "Artigo 4.º — Procedimentos associados para os operadores de Modo S",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Procedimentos associados para os operadores de Modo S",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos associados para os operadores de Modo S\n\n1. Os operadores de Modo S apenas podem operar um interrogador Modo S elegível, que utilize um código de interrogador elegível, se tiverem recebido do Estado-Membro competente uma atribuição de código de interrogador para esse efeito.\n\n2. Os operadores de Modo S que tencionam operar, ou que operam, um interrogador Modo S elegível ao qual não tenha sido atribuído um código de interrogador devem apresentar ao Estado-Membro competente um pedido de código de interrogador, de acordo com os requisitos especificados no anexo II, Parte A.\n\n3. Os operadores de Modo S devem cumprir os elementos essenciais das atribuições de códigos de interrogador que recebam, enumerados no anexo II, Parte B.\n\n4. Os operadores de Modo S informam o Estado-Membro competente, pelo menos de 6 em 6 meses, das eventuais alterações ao plano de instalação ou ao estatuto operacional dos interrogadores Modo S elegíveis em relação a qualquer dos elementos essenciais da atribuição de códigos de interrogador enumerados no anexo II, Parte B.\n\n5. Os operadores de Modo S devem garantir que cada um dos seus interrogadores Modo S utilize exclusivamente o código de interrogador que lhe foi atribuído."
+  },
+  "e704b8461be6614d": {
+   "fragment_id": "Artigo 5.º — Procedimentos associados para os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimentos associados para os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos associados para os Estados-Membros\n\n1. Os Estados-Membros verificam a validade dos pedidos de códigos de interrogador recebidos dos operadores de Modo S antes de os disponibilizarem, através do sistema de atribuição de códigos de interrogador, para coordenação. A verificação da validade incide, nomeadamente, nos elementos essenciais enumerados no anexo II, Parte A.\n\n2. Os Estados-Membros tomam as medidas necessárias para garantir que o sistema de atribuição de códigos de interrogador:\n\na) verifique se os pedidos de códigos de interrogador estão conformes com as convenções relativas ao formato e aos dados;\n\nb) verifique se os pedidos de códigos de interrogador estão completos, exactos e dentro do prazo;\n\nc) no prazo máximo de 6 meses após o pedido: i) efectue simulações de actualização do plano de atribuição de códigos de interrogador com base nos pedidos pendentes, ii) prepare uma proposta de actualização do plano de atribuição de códigos de interrogador a apresentar, para aprovação, aos Estados-Membros por ele afectados, iii) garanta que a proposta de actualização do plano de atribuição de códigos de interrogador satisfaça, tanto quanto possível, os requisitos operacionais dos pedidos de códigos de interrogador, conforme descritos pelos elementos essenciais g), h) e i) enumerados no anexo II, Parte A, iv) actualize o plano de atribuição de códigos de interrogador, e o comunique aos Estados-Membros imediatamente após a sua aprovação, sem prejuízo dos procedimentos nacionais para a comunicação de informações sobre os interrogadores Modo S operados pelo sector militar.\n\ni) efectue simulações de actualização do plano de atribuição de códigos de interrogador com base nos pedidos pendentes,\n\nii) prepare uma proposta de actualização do plano de atribuição de códigos de interrogador a apresentar, para aprovação, aos Estados-Membros por ele afectados,\n\niii) garanta que a proposta de actualização do plano de atribuição de códigos de interrogador satisfaça, tanto quanto possível, os requisitos operacionais dos pedidos de códigos de interrogador, conforme descritos pelos elementos essenciais g), h) e i) enumerados no anexo II, Parte A,\n\niv) actualize o plano de atribuição de códigos de interrogador, e o comunique aos Estados-Membros imediatamente após a sua aprovação, sem prejuízo dos procedimentos nacionais para a comunicação de informações sobre os interrogadores Modo S operados pelo sector militar.\n\n3. As alterações ao plano de atribuição de códigos de interrogador devem ser aprovadas por todos os Estados-Membros afectados pela actualização do plano.\n\n4. Em caso de desacordo quanto às alterações referidas no n.º 3, os Estados-Membros em causa apresentam o assunto à Comissão para que ela delibere. A Comissão delibera de acordo com o procedimento previsto no n.º 2 do artigo 5.º do Regulamento (CE) n.º 549/2004.\n\n5. Os Estados-Membros referidos no n.º 3 devem garantir que as suas aprovações do plano de atribuição de códigos de interrogador sejam comunicadas aos outros Estados-Membros através do sistema de atribuição de códigos de interrogador.\n\n6. Os Estados-Membros referidos no n.º 3 devem garantir que as alterações às atribuições de códigos de interrogador resultantes de uma actualização do plano de atribuição de códigos de interrogador sejam comunicadas aos operadores de Modo S pertinentes sob a sua autoridade no prazo de 14 dias após a recepção do plano actualizado.\n\n7. Os Estados-Membros disponibilizam aos outros Estados-Membros, pelo menos de 6 em 6 meses, através do sistema de atribuição de códigos de interrogador, um registo actualizado da atribuição e da utilização dos códigos de interrogador pelos interrogadores Modo S elegíveis da zona sob a sua responsabilidade.\n\n8. Caso exista sobreposição entre a cobertura de um interrogador Modo S localizado na zona de responsabilidade de um Estado-Membro e a cobertura de um interrogador Modo S localizado na zona de responsabilidade de um país terceiro, o Estado-Membro em causa deve:\n\na) garantir que o país terceiro seja informado dos requisitos de segurança relativos à atribuição e utilização dos códigos de interrogador;\n\nb) tomar as medidas necessárias para coordenar a utilização dos códigos de interrogador com o país terceiro."
+  },
+  "d38c8c7fc1de7d4d": {
+   "fragment_id": "Artigo 6.º — Procedimentos associados para os prestadores de serviços de tráfego aéreo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimentos associados para os prestadores de serviços de tráfego aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimentos associados para os prestadores de serviços de tráfego aéreo\n\nOs prestadores de serviços de tráfego aéreo não podem utilizar os dados dos interrogadores Modo S que operam sob a responsabilidade de um país terceiro se a atribuição dos códigos de interrogador não tiver sido coordenada."
+  },
+  "99dea21483295827": {
+   "fragment_id": "Artigo 7.º — Requisitos para contingências",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Requisitos para contingências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos para contingências\n\n1. Os prestadores de serviços de tráfego aéreo avaliam o possível impacto nos serviços de tráfego aéreo dos conflitos de códigos de interrogador e a correspondente perda potencial de dados de vigilância dos alvos Modo S provenientes dos interrogadores Modo S afectados, tendo em conta os seus requisitos operacionais e a redundância existente.\n\n2. A menos que, depois de avaliada, se conclua que a perda potencial de dados de vigilância dos alvos Modo S não foi significativa para a segurança, os operadores de Modo S devem:\n\na) implementar meios de monitorização para detectar conflitos de códigos de interrogador causados por outros interrogadores Modo S que interferem com interrogadores Modo S elegíveis que eles operam mediante um código de interrogador operacional;\n\nb) velar por que a detecção do conflito de códigos de interrogador pelo meios de monitorização implementados seja feita atempadamente e numa zona de cobertura que satisfaça as suas exigências de segurança;\n\nc) definir e implementar, na medida do necessário, um modo de funcionamento de recurso para mitigar os possíveis perigos de conflito de códigos de interrogador com qualquer código operacional, identificados na avaliação referida no n.º 1;\n\nd) velar por que o modo de funcionamento de recurso implementado não crie qualquer conflito de códigos de interrogador com outros interrogadores Modo S mencionados no plano de atribuição de códigos de interrogador.\n\n3. Os operadores de Modo S comunicam ao Estado-Membro competente qualquer conflito de interrogador detectado que envolva um interrogador Modo S elegível por eles operado com qualquer código de interrogador operacional e disponibilizam, através do sistema de atribuição de códigos de interrogador, as informações correspondentes aos outros operadores de Modo S."
+  },
+  "8d2934647adcafce": {
+   "fragment_id": "Artigo 8.º — Coordenação civil-militar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Coordenação civil-militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coordenação civil-militar\n\n1. Os Estados-Membros devem tomar as medidas necessárias para garantir que as unidades militares que operam interrogadores Modo S elegíveis utilizando qualquer outro código de interrogador que não o código II 0 e outros códigos reservados para a gestão militar cumpram o disposto nos artigos 3.º a 7.º e 12.º\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que as unidades militares que operam interrogadores Modo S utilizando o código II 0 ou outros códigos de interrogador reservados para a gestão militar monitorizem a utilização exclusiva destes códigos de interrogador, para evitar a utilização não coordenada de qualquer código de interrogador elegível.\n\n3. Os Estados-Membros devem tomar as medidas necessárias para garantir que a atribuição e a utilização de códigos de interrogador reservados às unidades militares não tenham um impacto negativo na segurança do tráfego aéreo em geral."
+  },
+  "f97e484bccd835c2": {
+   "fragment_id": "Artigo 9.º — Requisitos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Requisitos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos de segurança\n\n1. Os operadores de Modo S devem garantir que os potenciais perigos de conflito de códigos de interrogador que afectem os seus interrogadores Modo S sejam devidamente avaliados e mitigados.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que quaisquer alterações aos sistemas existentes e procedimentos associados referidos no n.º 2 do artigo 1.º ou a introdução de tais novos sistemas e procedimentos sejam precedidas de uma avaliação da segurança, que inclua a identificação dos perigos e a avaliação e mitigação dos riscos, efectuada pelas partes envolvidas.\n\n3. Para efeitos da avaliação da segurança prevista no n.º 2, os requisitos especificados nos artigos 4.º a 8.º e 12.º serão também considerados requisitos mínimos de segurança."
+  },
+  "c160e09c8b6b853b": {
+   "fragment_id": "Artigo 10.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação da conformidade\n\nAntes de emitir a declaração CE de conformidade ou de adequação para utilização, referida no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes de componentes, ou os seus representantes autorizados estabelecidos na Comunidade, dos sistemas mencionados no n.º 2 do artigo 1.º do presente regulamento devem avaliar a conformidade ou adequação para utilização desses componentes em conformidade com os requisitos previstos no anexo IV, Parte A, do presente regulamento."
+  },
+  "6f5a55187b3a0e13": {
+   "fragment_id": "Artigo 11.º — Verificação dos sistemas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Verificação dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Verificação dos sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar ou tenham demonstrado preencher as condições estabelecidas no anexo V devem proceder à verificação dos sistemas referidos no n.º 2 do artigo 1.º em conformidade com os requisitos previstos no anexo VI, Parte A.\n\n2. Os prestadores de serviços de navegação aérea que não demonstrem preencher as condições especificadas no anexo V devem subcontratar a um organismo notificado a verificação dos sistemas mencionados no n.º 2 do artigo 1.º Essa verificação deve ser efectuada em conformidade com os requisitos previstos no anexo VI, parte B."
+  },
+  "75bc3f510d995e80": {
+   "fragment_id": "Artigo 12.º — Requisitos adicionais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Requisitos adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos adicionais\n\n1. Os operadores de Modo S devem assegurar que o seu pessoal encarregado de implementar as atribuições de códigos de interrogador seja devidamente informado das disposições pertinentes do presente regulamento e convenientemente formado para o exercício das suas funções.\n\n2. Os operadores de Modo S devem:\n\na) elaborar e manter manuais das operações Modo S, que incluam as instruções e informações necessárias para que o pessoal encarregado da implementação das atribuições de códigos de interrogador possa aplicar as disposições do presente regulamento;\n\nb) assegurar que os manuais referidos na alínea a) estejam acessíveis e sejam mantidos actualizados e que a sua actualização e distribuição sejam objecto de uma gestão adequada da qualidade e da configuração da documentação;\n\nc) garantir que os métodos de trabalho e os procedimentos necessários para a implementação das atribuições de códigos de interrogador cumpram as disposições pertinentes especificadas no presente regulamento.\n\n3. Os Estados-Membros devem adoptar as medidas necessárias para garantir que o pessoal responsável pelo serviço de atribuição de códigos de interrogador seja devidamente informado das disposições pertinentes do presente regulamento e convenientemente formado para o exercício das suas funções.\n\n4. Os Estados-Membros devem tomar as medidas necessárias para garantir que o serviço centralizado de atribuição de códigos de interrogador:\n\na) elabore e mantenha manuais de operações que contenham as instruções e informações necessárias para que o seu pessoal possa aplicar as disposições do presente regulamento;\n\nb) assegure que os manuais referidos na alínea a) estejam acessíveis e sejam mantidos actualizados e que a sua actualização e distribuição sejam objecto de uma gestão adequada da qualidade e da configuração da documentação;\n\nc) assegure que os métodos de trabalho e os procedimentos operacionais cumpram as disposições pertinentes especificadas no presente regulamento."
+  },
+  "35eea3bba88c947d": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor e aplicação\n\nO presente regulamento entra e vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 3.º é aplicável a partir de 1 de Janeiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Março de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "ce24c76fbcb76649": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntc1-L_2009084PT.01002001-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntc2-L_2009084PT.01002001-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntc3-L_2009084PT.01002001-E0003) [JO L 218 de 13.8.2008, p. 82](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/32e9e31f-8af0-47db-9f70-8597674354c5.0018.02/DOC_1#ntc4-L_2009084PT.01002001-E0004) [JO L 335 de 21.12.2005, p. 13](http://publications.europa.eu/resource/oj/JOL_2005_335_R_TOC)."
+  },
+  "4ef19571cbcd25a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março de 2009\n\nque estabelece requisitos para a atribuição e a utilização coordenadas dos códigos de interrogador Modo S para o céu único europeu\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "169cf020ad22a09a": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, são aplicáveis as definições constantes do artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nSão ainda aplicáveis as seguintes definições:\n\n1. «Interrogador Modo S» — um sistema, composto por antenas e equipamentos electrónicos, que permite comunicar com uma dada aeronave através do modo *Select*, conhecido por Modo S.\n\n2. «Código de interrogador» — um código identificador de interrogador ou um código identificador de vigilância utilizado para protocolos de bloqueio multissítios e eventualmente para protocolos de comunicação.\n\n3. «Código identificador de interrogador» (seguidamente designado «código II») — um código de interrogador Modo S com um valor compreendido entre 0 e 15, que pode ser utilizado tanto para protocolos de bloqueio multissítios como para protocolos de comunicação.\n\n4. «Código identificador de vigilância» (seguidamente designado «código SI») — um código de interrogador Modo S com um valor compreendido entre 1 e 63, que pode ser utilizado para protocolos de bloqueio multissítios, mas não com protocolos de comunicação multissítios.\n\n5. «Bloqueio multissítios» — o protocolo que permite a aquisição e o bloqueio de alvos Modo S por vários interrogadores Modo S cuja cobertura se sobreponha.\n\n6. «Protocolos de comunicação multissítios» — os protocolos utilizados para coordenar, nas zonas de sobreposição da cobertura dos interrogadores Modo S, o controlo das comunicações efectuadas em mais do que uma transacção.\n\n7. «Alvo Modo S» — uma plataforma equipada com um *transponder* Modo S.\n\n8. «Bloqueio» — o protocolo que permite a supressão das respostas às chamadas normais Modo S de alvos Modo S já adquiridos.\n\n9. «Operador de Modo S» — uma pessoa, organização ou empresa que opera ou se propõe operar um interrogador Modo S, incluindo:\n\na) prestadores de serviços de navegação aérea;\n\nb) fabricantes de interrogadores Modo S;\n\nc) operadores de aeroportos;\n\nd) estabelecimentos de investigação;\n\ne) qualquer outra entidade com direito a operar um interrogador Modo S.\n\n10. «Atribuição de código de interrogador» — uma definição de valores para, pelo menos, todos os elementos essenciais de uma atribuição de código de interrogador, conforme enumerados na Parte B do anexo II.\n\n11. «Sistema de atribuição de códigos de interrogador» — um sistema integrado na Rede Europeia de Gestão do Tráfego Aéreo, e os procedimentos associados, através do qual é fornecido aos operadores de Modo S dos Estados-Membros um serviço centralizado de atribuição de códigos de interrogador (seguidamente designado «serviço de atribuição de códigos de interrogador»), que trata do processamento dos pedidos de códigos de interrogador e da distribuição de uma proposta de plano de atribuição de códigos de interrogador.\n\n12. «Pedido de código de interrogador» — um pedido de atribuição de um código de interrogador apresentado por um operador de Modo S.\n\n13. «Proposta de plano de atribuição de códigos de interrogador» — proposta de um conjunto completo de atribuições de CI, apresentada pelo serviço de atribuição de códigos de interrogador aos Estados-Membros para aprovação.\n\n14. «Plano de atribuição de códigos de interrogador» — o mais recente conjunto completo de atribuições de códigos de interrogador aprovado.\n\n15. «Interrogador Modo S elegível» — um interrogador Modo S que satisfaz, pelo menos, uma das seguintes condições:\n\na) o interrogador confia, pelos menos em parte, nas interrogações e respostas a chamadas normais Modo S para a aquisição de alvos Modo S; ou\n\nb) o interrogador bloqueia, permanente ou intermitentemente, em parte ou na totalidade da sua zona de cobertura, os alvos Modo S adquiridos em resposta a interrogações normais Modo S; ou\n\nc) o interrogador utiliza protocolos de comunicação multissítios para aplicações de ligação de dados.\n\n16. «Código de interrogador elegível» — qualquer código de entre os códigos II e SI, excepto:\n\na) o código II 0;\n\nb) o(s) código(s) de interrogador cuja gestão e atribuição estão reservadas a entidades militares, incluindo organizações interestatais, em particular a Organização do Tratado do Atlântico Norte.\n\n17. «Interrogações normais Modo S» — as mensagens que são normalmente utilizadas pelos interrogadores Modo S para adquirir alvos Modo S que entram na sua zona de cobertura.\n\n18. «Código de interrogador operacional» — qualquer código de interrogador elegível que não o código II 14.\n\n19. «Estado-Membro competente»:\n\na) no caso de um prestador de serviços de navegação aérea, o Estado-Membro que tiver certificado o prestador em conformidade com o Regulamento (CE) n.º 2096/2005 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/973bfc3d-d1c2-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#E0001));\n\nb) nos restantes casos, o Estado-Membro em cuja zona de responsabilidade o operador de Modo S opera, ou tenciona operar, um interrogador Modo S elegível.\n\n20. «Conflito de códigos de interrogador» — sobreposição não coordenada da cobertura de dois ou mais interrogadores Modo S que operam com o mesmo código de interrogador, cujo efeito potencial é a não detecção de uma aeronave por, pelo menos, um dos interrogadores Modo S.\n\n21. «Monitorização do conflito de códigos de interrogador» — a implementação, por um operador de Modo S, de meios técnicos ou procedimentais para identificar os efeitos dos conflitos de códigos de interrogador com outros interrogadores Modo S nos dados de vigilância fornecidos pelos seus próprios interrogadores Modo S.\n\n22. «Sequência de implementação» — a sequência temporal de implementação das atribuições de códigos de interrogador que os operadores de Modo S têm de cumprir para evitarem conflitos temporários de códigos de interrogador.\n\n23. «Código II correspondente» — o código II descodificado por um *transponder* Modo S não compatível com códigos SI, numa interrogação normal Modo S que contenha um código SI, e que é utilizado por esse *transponder* para codificar a resposta a chamadas normais.\n\n24. «Mapa de bloqueios» — o ficheiro de configuração do interrogador Modo S que define quando e como aplicar o bloqueio aos alvos Modo S."
+  },
+  "5ce9b627e1393c26": {
+   "fragment_id": "Artigo 5.º — Procedimentos associados para os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimentos associados para os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos associados para os Estados-Membros\n\n1. Os Estados-Membros verificam a validade dos pedidos de códigos de interrogador recebidos dos operadores de Modo S antes de os disponibilizarem, através do sistema de atribuição de códigos de interrogador, para coordenação. A verificação da validade incide, nomeadamente, nos elementos essenciais enumerados no anexo II, Parte A.\n\n2. Os Estados-Membros tomam as medidas necessárias para garantir que o sistema de atribuição de códigos de interrogador:\n\na) verifique se os pedidos de códigos de interrogador estão conformes com as convenções relativas ao formato e aos dados;\n\nb) verifique se os pedidos de códigos de interrogador estão completos, exactos e dentro do prazo;\n\nc) no prazo máximo de 6 meses após o pedido:\n\ni) efectue simulações de actualização do plano de atribuição de códigos de interrogador com base nos pedidos pendentes,\n\nii) prepare uma proposta de actualização do plano de atribuição de códigos de interrogador a apresentar, para aprovação, aos Estados-Membros por ele afectados,\n\niii) garanta que a proposta de actualização do plano de atribuição de códigos de interrogador satisfaça, tanto quanto possível, os requisitos operacionais dos pedidos de códigos de interrogador, conforme descritos pelos elementos essenciais g), h) e i) enumerados no anexo II, Parte A,\n\niv) actualize o plano de atribuição de códigos de interrogador, e o comunique aos Estados-Membros imediatamente após a sua aprovação, sem prejuízo dos procedimentos nacionais para a comunicação de informações sobre os interrogadores Modo S operados pelo sector militar.\n\n3. As alterações ao plano de atribuição de códigos de interrogador devem ser aprovadas por todos os Estados-Membros afectados pela actualização do plano.\n\n4. Em caso de desacordo quanto às alterações referidas no n.º 3, os Estados-Membros em causa apresentam o assunto à Comissão para que ela delibere. A Comissão delibera de acordo com o procedimento previsto no n.º 2 do artigo 5.º do Regulamento (CE) n.º 549/2004.\n\n5. Os Estados-Membros referidos no n.º 3 devem garantir que as suas aprovações do plano de atribuição de códigos de interrogador sejam comunicadas aos outros Estados-Membros através do sistema de atribuição de códigos de interrogador.\n\n6. Os Estados-Membros referidos no n.º 3 devem garantir que as alterações às atribuições de códigos de interrogador resultantes de uma actualização do plano de atribuição de códigos de interrogador sejam comunicadas aos operadores de Modo S pertinentes sob a sua autoridade no prazo de 14 dias após a recepção do plano actualizado.\n\n7. Os Estados-Membros disponibilizam aos outros Estados-Membros, pelo menos de 6 em 6 meses, através do sistema de atribuição de códigos de interrogador, um registo actualizado da atribuição e da utilização dos códigos de interrogador pelos interrogadores Modo S elegíveis da zona sob a sua responsabilidade.\n\n8. Caso exista sobreposição entre a cobertura de um interrogador Modo S localizado na zona de responsabilidade de um Estado-Membro e a cobertura de um interrogador Modo S localizado na zona de responsabilidade de um país terceiro, o Estado-Membro em causa deve:\n\na) garantir que o país terceiro seja informado dos requisitos de segurança relativos à atribuição e utilização dos códigos de interrogador;\n\nb) tomar as medidas necessárias para coordenar a utilização dos códigos de interrogador com o país terceiro."
+  },
+  "e9152390f8a2f93f": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor e aplicação\n\nO presente regulamento entra e vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 3.º é aplicável a partir de 1 de Janeiro de 2011.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "77ca462b7704c952": {
+   "fragment_id": "Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto 2",
+   "type": "divisao",
+   "heading": "Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições da Organização da Aviação Civil Internacional referidas no artigo 3.º, n.º 1, e no Anexo III, ponto 2\n\n1. Capítulo 3 «Sistemas de radar de vigilância», secção 3.1.2.5.2.1.2 «IC: Código de interrogador», anexo 10 «Telecomunicações aeronáuticas», volume IV «Sistema de vigilância e sistema anticolisão», da Convenção da ICAO (quinta edição, julho de 2014, que incorpora a emenda n.º 89).\n\n2. Capítulo 5 «*SSR Mode S Air-Ground Data Link*», secção 5.2.9 «*The data link capability report*» do anexo 10 «Telecomunicações aeronáuticas» da Convenção da ICAO, volume III «Sistemas de comunicação» (segunda edição, julho de 2007, emenda n.º 90)"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "95fbed543b6933b4": {
+   "fragment_id": "Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^ 1 e 2 do artigo 5.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^ 1 e 2 do artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos para os pedidos de códigos de interrogador referidos no n.º 2 do artigo 4.º e nos n.^os^ 1 e 2 do artigo 5.º\n\nUm pedido de código de interrogador (IC) deve incluir, no mínimo, os seguintes elementos essenciais:\n\na) uma referência única do pedido dada pelo Estado-Membro competente;\n\nb) dados completos do representante do Estado-Membro responsável pela coordenação da atribuição do IC Modo S;\n\nc) dados completos do ponto de contacto do operador de Modo S para as questões da atribuição do IC Modo S;\n\nd) nome do interrogador Modo S;\n\ne) utilização (operacional ou experimental) do interrogador Modo S;\n\nf) localização do interrogador Modo S;\n\ng) data prevista da primeira transmissão Modo S do interrogador Modo S;\n\nh) cobertura Modo S requerida;\n\ni) requisitos operacionais específicos;\n\nj) capacidade de utilização de códigos SI;\n\nk) capacidade de «funcionamento com códigos II/SI»;\n\nl) capacidade de utilização de mapas da cobertura."
+  },
+  "0080cfa1fe434b1f": {
+   "fragment_id": "Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^ 3 e 4 do artigo 4.º",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^ 3 e 4 do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos para a atribuição de códigos de interrogador referida no n.º 10 do artigo 2.º e nos n.^os^ 3 e 4 do artigo 4.º\n\nUma atribuição de código de interrogador (IC) deve incluir, no mínimo, os seguintes elementos:\n\na) a referência correspondente do pedido dada pelo Estado-Membro competente;\n\nb) uma referência de atribuição única dada pelo serviço de atribuição do IC;\n\nc) as referências das atribuições que deixam de ser válidas, se for o caso;\n\nd) o IC atribuído;\n\ne) as restrições de cobertura de vigilância e de bloqueio sob a forma de distâncias de cobertura por sector ou de mapa de cobertura do Modo S;\n\nf) o período de implementação durante o qual a atribuição tem de ser registada no interrogador Modo S identificado no pedido;\n\ng) a sequência de implementação a cumprir;\n\nh) a título opcional e associada a outras alternativas: uma recomendação sobre a criação de agregados (*clusters*) de interrogadores;\n\ni) restrições operacionais específicas, se necessário."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "3e778da9f35777fa": {
+   "fragment_id": "Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º",
+   "type": "divisao",
+   "heading": "Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Funcionamento com códigos II/SI mencionado no n.º 2 do artigo 3.º\n\n1. Os interrogadores Modo S, quando funcionem com um código SI e se a isso estiverem habilitados através de um parâmetro operacional apropriado, devem igualmente adquirir alvos através das respostas a chamadas normais que são codificadas utilizando o código II correspondente.\n\n2. Os interrogadores Modo S, quando funcionem com um código SI e se a isso estiverem habilitados através de um parâmetro operacional apropriado, devem considerar que os *transponders* que respondam a chamadas normais codificadas utilizando o código II correspondente são *transponders* sem equipamento SI, independentemente da capacidade SI indicada no relatório de capacidade de ligação de dados definido no documento referido no Anexo I, ponto 2.\n\n3. Os interrogadores Modo S, quando funcionem com um código SI e se a isso estiverem habilitados através de um parâmetro operacional apropriado, devem interrogar os *transponders* que não possuem capacidade de código SI utilizando as mensagens do protocolo de bloqueio multissítios Modo S previstas para o funcionamento com códigos II. O código II a utilizar será o código II correspondente.\n\n4. Os interrogadores Modo S, quando funcionem com um código SI e se a isso estiverem habilitados através de um parâmetro operacional apropriado, devem ser configuráveis pelo operador de modo a que:\n\n— não utilizem o bloqueio para o código II correspondente no caso dos *transponders* que não possuam capacidade de código SI, ou\n\n— não utilizem o bloqueio intermitente sobre o código II correspondente para os *transponders* que não possuam capacidade de código SI.\n\n5. Os interrogadores Modo S, quando funcionem com um código II e se a isso estiverem habilitados através de um parâmetro operacional apropriado, devem ser configuráveis pelo operador de modo a que:\n\n— não utilizem o bloqueio para os *transponders* que indicam não possuir capacidade SI no seu relatório de capacidade de ligação de dados ou que não podem indicar a sua capacidade de ligação de dados, ou\n\n— utilizem o bloqueio intermitente para os *transponders* que indicam não possuir capacidade SI no seu relatório de capacidade de ligação de dados ou que não podem indicar a sua capacidade de ligação de dados.\n\n6. Quando o funcionamento com códigos II/SI estiver activado, não devem ser tidos em conta os mapas de bloqueio para os *transponders* que não possuem capacidade de código SI."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "35eb31681a8a46ce": {
+   "fragment_id": "Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas referidos no artigo 10.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas referidos no artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos de avaliação da conformidade ou da adequação para utilização dos componentes dos sistemas referidos no artigo 10.º\n\n1. As actividades de verificação devem demonstrar a conformidade dos componentes que servem de suporte aos protocolos de bloqueio dos códigos II e códigos SI e o funcionamento com os códigos II/SI com os requisitos de interoperabilidade e desempenho do presente regulamento, ou a adequação para utilização desses componentes enquanto estiverem em funcionamento no ambiente de ensaio.\n\n2. A aplicação, pelo fabricante, ou pelo seu representante autorizado estabelecido na Comunidade, do módulo descrito na parte B será considerada um procedimento de avaliação da conformidade adequado para garantir e declarar a conformidade dos componentes. São igualmente autorizados procedimentos equivalentes ou mais exigentes."
+  },
+  "c631b554b6b0f750": {
+   "fragment_id": "Parte B: Módulo de controlo interno do fabrico",
+   "type": "divisao",
+   "heading": "Parte B: Módulo de controlo interno do fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Módulo de controlo interno do fabrico\n\n1. Este módulo descreve o procedimento pelo qual o fabricante, ou o seu representante autorizado estabelecido na Comunidade, que executa as obrigações previstas no ponto 2, garante e declara que os componentes em causa satisfazem os requisitos do presente regulamento. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve redigir uma declaração de conformidade ou de adequação para utilização, em conformidade com o disposto no ponto 3 do Anexo III do Regulamento (CE) n.º 552/2004.\n\n2. O fabricante deve elaborar a documentação técnica descrita no ponto 4 e ele próprio, ou o seu representante autorizado estabelecido na Comunidade, deve manter essa documentação à disposição das autoridades supervisoras nacionais, para efeitos de inspecção, e à disposição dos prestadores de serviços de navegação aérea que irão integrar os componentes nos seus sistemas durante um período de, pelo menos, dez anos, contados a partir da data de fabrico dos últimos componentes. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve informar os Estados-Membros do local em que a documentação técnica atrás referida pode ser obtida e do modo de a obter.\n\n3. Se não estiver estabelecido na Comunidade, o fabricante designará a(s) pessoa(s) incumbida(s) de colocar os componentes no mercado comunitário. Essa(s) pessoa(s) deve(m) informar os Estados-Membros do local em que a documentação pode ser obtida e do modo de a obter.\n\n4. A documentação técnica deve permitir avaliar a conformidade dos componentes com os requisitos do presente regulamento. Deve abranger, desde que pertinente para essa avaliação, o desenho, o fabrico e o funcionamento dos componentes.\n\n5. O fabricante, ou o seu representante autorizado estabelecido na Comunidade, deve conservar cópia da declaração de conformidade ou de adequação para utilização junto com a documentação técnica."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "ca426f7435d525bd": {
+   "fragment_id": "Condições referidas no artigo 11.º",
+   "type": "divisao",
+   "heading": "Condições referidas no artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições referidas no artigo 11.º\n\n1. O prestador de serviços de navegação aérea deve ter instaurados na sua organização métodos de elaboração de relatórios que garantam e demonstrem a imparcialidade e independência de julgamento nas actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação efectue os controlos com a máxima integridade profissional e a máxima competência técnica possíveis e sem quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar o seu julgamento ou os resultados dos seus controlos, nomeadamente por parte de pessoas ou grupos de pessoas afectados pelos resultados dos controlos.\n\n3. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação tenha acesso ao equipamento que lhe permite efectuar devidamente os controlos necessários.\n\n4. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação possua uma sólida formação técnica e profissional, conhecimentos satisfatórios das exigências inerentes às verificações que deve efectuar, experiência adequada de tais operações e a capacidade necessária para elaborar as declarações, os registos e os relatórios que demonstram a realização das verificações.\n\n5. O prestador de serviços de navegação aérea deve garantir que o pessoal responsável pelos processos de verificação esteja apto a efectuar os controlos com imparcialidade. A remuneração deste pessoal não deve depender do número de verificações realizadas ou dos resultados destas."
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "217f43b5c39bd5ea": {
+   "fragment_id": "Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos para a verificação dos sistemas referidos no n.º 1 do artigo 11.º\n\n1. A verificação dos sistemas deve demonstrar a conformidade destes com os requisitos de interoperabilidade, desempenho, resposta a contingências e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional desses sistemas. Em particular, a verificação dos interrogadores Modo S deve demonstrar:\n\n— o correcto funcionamento com um código SI, incluindo o funcionamento com códigos II/SI,\n\n— que a combinação dos sistemas e/ou procedimentos de monitorização de conflitos de IC e do modo de funcionamento de recurso atenua devidamente os perigos de conflito de códigos de interrogador (IC),\n\n— que o modo de funcionamento de recurso não entra em conflito com o plano de atribuição de IC.\n\n2. A verificação dos sistemas referidos no n.º 2 do artigo 1.º deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas referidos no n.º 2 do artigo 1.º devem ter as funcionalidades adequadas.\n\n4. A verificação dos sistemas referidos no n.º 2 do artigo 1.º do presente Regulamento deve produzir os elementos do processo técnico previstos no ponto 3 do anexo IV do Regulamento (CE) n.º 552/2004, assim como os seguintes elementos:\n\n— uma descrição da implementação,\n\n— o relatório das inspecções e testes realizados antes da entrada em funcionamento do sistema.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação, devendo em particular:\n\n— determinar o ambiente de avaliação operacional e técnica adequado que reflicta o ambiente operacional real,\n\n— verificar se o plano de ensaio descreve a integração dos sistemas referidos no n.º 2 do artigo 1.º no ambiente de avaliação operacional e técnica,\n\n— verificar se o plano de ensaio cobre a totalidade dos requisitos de interoperabilidade, desempenho, resposta a contingências e segurança aplicáveis, previstos no presente regulamento,\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio,\n\n— planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio,\n\n— realizar as inspecções e os ensaios especificados no plano de ensaio,\n\n— redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n6. O prestador de serviços de navegação aérea deve garantir que os sistemas referidos no n.º 2 do artigo 1.º utilizados num ambiente de avaliação operacional satisfaçam os requisitos de interoperabilidade, desempenho, resposta a contingências e segurança previstos no presente regulamento.\n\n7. Uma vez concluída com sucesso a verificação da conformidade, os prestadores de serviços de navegação aérea devem redigir a declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "302516fa3ca612f8": {
+   "fragment_id": "Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos para a verificação dos sistemas referidos no n.º 2 do artigo 11.º\n\n1. A verificação dos sistemas deve demonstrar a conformidade destes com os requisitos de interoperabilidade, desempenho, resposta a contingências e segurança previstos no presente regulamento, num ambiente de avaliação que reflicta o contexto operacional desses sistemas. Em particular, a verificação dos interrogadores Modo S deve demonstrar:\n\n— o correcto funcionamento com um código SI, incluindo o funcionamento com os códigos II/SI,\n\n— que a combinação dos sistemas de monitorização de conflitos de IC e do modo de funcionamento de recurso atenua devidamente os perigos de conflito de códigos de interrogador (IC),\n\n— que o modo de funcionamento de recurso não entra em conflito com o plano de atribuição de IC.\n\n2. A verificação dos sistemas referidos no n.º 2 do artigo 1.º deve ser efectuada de acordo com práticas de ensaio adequadas e reconhecidas.\n\n3. As ferramentas de ensaio utilizadas para a verificação dos sistemas referidos no n.º 2 do artigo 1.º devem ter as funcionalidades adequadas.\n\n4. A verificação dos sistemas referidos no n.º 2 do artigo 1.º do presente Regulamento deve produzir os elementos do processo técnico previstos no ponto 3 do anexo IV do Regulamento (CE) n.º 552/2004, assim como os seguintes elementos:\n\n— uma descrição da implementação,\n\n— o relatório das inspecções e testes realizados antes da entrada em funcionamento do sistema.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente de avaliação operacional e técnica adequado que reflicta o ambiente operacional real e confiar as actividades de verificação a um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação e, nomeadamente:\n\n— determinar o ambiente de avaliação operacional e técnica adequado que reflicta o ambiente operacional real,\n\n— verificar se o plano de ensaio descreve a integração dos sistemas referidos no n.º 2 do artigo 1.º no ambiente de avaliação operacional e técnica,\n\n— verificar se o plano de ensaio cobre a totalidade dos requisitos de interoperabilidade, desempenho, resposta a contingências e segurança aplicáveis, previstos no presente regulamento,\n\n— assegurar a coerência e a qualidade da documentação técnica e do plano de ensaio,\n\n— planear a organização do ensaio, o pessoal, a instalação e a configuração da plataforma de ensaio,\n\n— realizar as inspecções e os ensaios especificados no plano de ensaio,\n\n— redigir o relatório de apresentação dos resultados das inspecções e ensaios.\n\n7. O organismo notificado deve garantir que as trocas de informações realizadas como apoio ao processo de atribuição e utilização de códigos de interrogador Modo S, integradas em sistemas operados num ambiente operacional simulado, cumpram os requisitos de interoperabilidade, desempenho, resposta a contingências e segurança previstos no presente regulamento.\n\n8. Uma vez concluídas com sucesso as tarefas de verificação, o organismo notificado deve redigir um certificado de conformidade em relação às tarefas que realizou.\n\n9. O prestador de serviços de navegação aérea deve, então, redigir uma declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, conforme exigido pelo artigo 6.º do Regulamento (CE) n.º 552/2004.\n\n---"
+  },
+  "29ab7f04aa304250": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/973bfc3d-d1c2-11e6-ad7c-01aa75ed71a1.0015.02/DOC_1#src.E0001)) JO L 335 de 21.12.2005, p. 13."
+  },
+  "b2037b2c9e38c3b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0262 — PT — 05.10.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0262) [REGULAMENTO (CE) N.º 262/2009 DA COMISSÃO](http://publications.europa.eu/resource/celex/32009R0262) [de 30 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0262) [que estabelece requisitos para a atribuição e a utilização coordenadas dos códigos de interrogador Modo S para o céu único europeu](http://publications.europa.eu/resource/celex/32009R0262) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0262) (JO L 084, 31.3.2009, p.20)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2023/1771 da Comissão de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1771) — L 228 — 49 — 15.9.2023"
+  }
+ }
+}

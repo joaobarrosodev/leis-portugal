@@ -31,10 +31,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto original publicado no Jornal Oficial
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2009-469.versoes.json
+  count: 2
+  source_lastmod: '2019-07-01'
+  versions:
+  - date: '2009-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 8.º — Conteúdo do pedido de certificado
+    - Altera Artigo 20.º — Disposições suplementares relativas ao alargamento da Comunidade
+    - Altera Artigo 21.º — Disposições transitórias
+    - Altera Artigo 23.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
 identifiers:
   celex: 32009R0469
   eli: http://data.europa.eu/eli/reg/2009/469/oj
@@ -48,19 +71,19 @@ source:
   official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32009R0469
   metadata_url: http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019
   content_url: http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1
-  consolidated_url: null
-  retrieved_at: '2026-10-22T03:14:44Z'
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0469-20130701
+  retrieved_at: '2026-10-22T15:42:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:15:45.051+02:00'
 integrity:
-  source_sha256: 8c0a70da30932177c2e48b140a440a394f0a634cd67063a39ef3445946d8de28
+  source_sha256: d6a7dab8672baafffdd28412ec112b4f52df55b9a28ebca7f3e2ff8400c6e81a
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:44Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:13Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-469.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -279,21 +302,20 @@ relationships:
   date: '1994-08-29'
 article_structure:
   article_count: 23
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:44Z'
+  checked_at: '2026-10-22T15:42:13Z'
   warnings:
-  - 'Versão consolidada 02009R0469-20190701 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009R0469-20190701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 469/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n. o 469/2009 do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
 
 de 6 de Maio de 2009
 
@@ -309,13 +331,11 @@ Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o arti
 
 Tendo em conta a proposta da Comissão,
 
-Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr1-L_2009152PT.01000101-E0001),
+Tendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0001)),
 
-Deliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr2-L_2009152PT.01000101-E0002),
+Deliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0002)),
 
-Considerando o seguinte:
-
-(1) O Regulamento (CEE) n.º 1768/92 do Conselho, de 18 de Junho de 1992, relativo à criação de um certificado complementar de protecção para os medicamentos [([^3])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr3-L_2009152PT.01000101-E0003), foi por diversas vezes alterado de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr4-L_2009152PT.01000101-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.
+(1) O Regulamento (CEE) n.º 1768/92 do Conselho, de 18 de Junho de 1992, relativo à criação de um certificado complementar de protecção para os medicamentos ([^3^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0003)), foi por diversas vezes alterado de modo substancial ([^4^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0004)). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.
 
 (2) A investigação no domínio farmacêutico contribui de forma decisiva para a melhoria contínua da saúde pública.
 
@@ -351,11 +371,11 @@ c) «Patente de base»: a patente que protege um produto como tal, um processo d
 
 d) «Certificado»: o certificado complementar de protecção;
 
-e) «Pedido de prorrogação da validade»: o pedido de prorrogação da validade de um certificado concedido nos termos do n.º 3 do artigo 13.º do presente regulamento e do artigo 36.º do Regulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativo a medicamentos para uso pediátrico [([^5])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr5-L_2009152PT.01000101-E0005).
+e) «Pedido de prorrogação da validade»: o pedido de prorrogação da validade de um certificado concedido nos termos do n.º 3 do artigo 13.º do presente regulamento e do artigo 36.º do Regulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativo a medicamentos para uso pediátrico ([^5^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0005)).
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-Os produtos protegidos por uma patente no território de um Estado-Membro e sujeitos, enquanto medicamentos, antes da sua introdução no mercado, a um processo de autorização administrativa por força da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano [([^6])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr6-L_2009152PT.01000101-E0006) ou da Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários [([^7])](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntr7-L_2009152PT.01000101-E0007), podem ser objecto de um certificado, nas condições e segundo as regras previstas no presente regulamento.
+Os produtos protegidos por uma patente no território de um Estado-Membro e sujeitos, enquanto medicamentos, antes da sua introdução no mercado, a um processo de autorização administrativa por força da Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^6^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0006)) ou da Directiva 2001/82/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos veterinários ([^7^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#E0007)), podem ser objecto de um certificado, nas condições e segundo as regras previstas no presente regulamento.
 
 ###### Artigo 3.º — Condições de obtenção do certificado
 
@@ -397,7 +417,7 @@ O direito ao certificado pertence ao titular da patente de base ou aos seus suce
 
 1. O pedido de certificado deve incluir:
 
-a) Um requerimento de emissão do certificado mencionando designadamente: i) o nome e o endereço de requerente, ii) o nome e o endereço do mandatário, se existir, iii) o número da patente de base, bem como o título da invenção, iv) o número e a data da primeira autorização de introdução do produto no mercado, de acordo com a alínea b) do artigo 3.º, bem como o número e a data desta última autorização caso esta não seja a primeira autorização de introdução no mercado na Comunidade;
+a) Um requerimento de emissão do certificado mencionando designadamente:
 
 i) o nome e o endereço de requerente,
 
@@ -411,7 +431,7 @@ b) Uma cópia da autorização de introdução no mercado referida na alínea b)
 
 c) Se a autorização prevista na alínea b) não for a primeira autorização de introdução do produto no mercado na Comunidade, como medicamento, a indicação da denominação do produto então autorizado e da disposição legal ao abrigo da qual correu o processo de autorização, bem como uma cópia da publicação dessa autorização no boletim oficial.
 
-d) Se o pedido de certificado incluir um pedido de prorrogação da validade: i) uma cópia da certificação da conformidade com um plano de investigação pediátrica aprovado e completado, conforme referido no n.º 1 do artigo 36.º do Regulamento (CE) n.º 1901/2006, ii) se for o caso, além da cópia da autorização de introdução no mercado referidas na alínea b), prova de que possui autorizações de introdução do medicamento no mercado dos restantes Estados-Membros, nos termos do disposto no n.º 3 do artigo 36.º do Regulamento (CE) n.º 1901/2006.
+d) Se o pedido de certificado incluir um pedido de prorrogação da validade:
 
 i) uma cópia da certificação da conformidade com um plano de investigação pediátrica aprovado e completado, conforme referido no n.º 1 do artigo 36.º do Regulamento (CE) n.º 1901/2006,
 
@@ -545,7 +565,7 @@ Sem prejuízo das outras disposições do presente regulamento, são aplicáveis
 
 a) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Bulgária após 1 de Janeiro de 2000, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data de 1 de Janeiro de 2007;
 
-b) Qualquer medicamento que esteja protegido por uma patente de base em vigor na República Checa e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento, i) na República Checa, após 10 de Novembro de 1999, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização, ii) na Comunidade, durante os seis meses anteriores à data de 1 de Maio de 2004, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização;
+b) Qualquer medicamento que esteja protegido por uma patente de base em vigor na República Checa e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento,
 
 i) na República Checa, após 10 de Novembro de 1999, pode ser objecto de um certificado desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização,
 
@@ -569,7 +589,9 @@ j) Pode ser concedido um certificado para qualquer medicamento que esteja proteg
 
 k) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslovénia antes de 1 de Maio de 2004, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar de 1 de Maio de 2004, inclusive no caso de ter expirado o prazo previsto no n.º 1 do artigo 7.º;
 
-l) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslováquia após 1 de Janeiro de 2000, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou no prazo de seis meses a contar de 1 de Julho de 2002, se a autorização de comercialização tiver sido obtida antes desta data.
+l) Pode ser concedido um certificado para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de introdução no mercado como medicamento na Eslováquia após 1 de Janeiro de 2000, desde que o pedido de certificado tenha sido apresentado no prazo de seis meses a contar da data de obtenção da primeira autorização de comercialização ou no prazo de seis meses a contar de 1 de Julho de 2002, se a autorização de comercialização tiver sido obtida antes desta data;
+
+m) Pode ser concedido um certificado na Croácia para qualquer medicamento que esteja protegido por uma patente de base em vigor e para o qual tenha sido obtida uma primeira autorização de colocação no mercado como medicamento após 1 de Janeiro de 2003, desde que o pedido de certificado seja apresentado no prazo de seis meses a contar da data da adesão.
 
 ###### Artigo 21.º — Disposições transitórias
 
@@ -577,7 +599,7 @@ l) Pode ser concedido um certificado para qualquer medicamento que esteja proteg
 
 No que respeita à Áustria, à Finlândia e à Suécia, o presente regulamento não é aplicável aos certificados concedidos de acordo com a respectiva legislação nacional antes de 1 de Janeiro de 1995.
 
-2. O presente regulamento é aplicável aos certificados complementares de protecção concedidos nos termos da legislação nacional da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, de Malta, da Polónia, da Eslovénia e da Eslováquia antes da data de 1 de Maio de 2004 e nos termos da legislação nacional da Roménia antes da data de 1 de Janeiro de 2007.
+2. O presente regulamento é aplicável aos certificados complementares de protecção concedidos nos termos da legislação nacional da República Checa, da Estónia, da Croácia, de Chipre, da Letónia, da Lituânia, de Malta, da Polónia, da Roménia, da Eslovénia e da Eslováquia antes da respectiva data de adesão.
 
 ###### Artigo 22.º — Revogação
 
@@ -591,34 +613,140 @@ O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua public
 
 O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
 
-Feito em Estrasburgo, em 6 de Maio de 2009.
+## ANEXO I
 
-***Pelo Parlamento Europeu***
+Regulamento (CEE) n.º 1768/92 do Conselho (JO L 182 de 2.7.1992, p. 1)
 
-***O Presidente***
+Anexo I, ponto XI.F.I, do Acto de Adesão de 1994 (JO C 241 de 29.8.1994, p. 233)
 
-**H.-G. PÖTTERING**
+Anexo II, ponto 4.C.II, do Acto de Adesão de 2003 (JO L 236 de 23.9.2003, p. 342)
 
-***Pelo Conselho***
+Anexo III, ponto 1.II, do Acto de Adesão de 2005 (JO L 157 de 21.6.2005, p. 56)
 
-***O Presidente***
+Regulamento (CE) n.º 1901/2006 do Parlamento Europeu e do Conselho (JO L 378 de 27.12.2006, p. 1) Apenas o artigo 52.º
 
-**J. KOHOUT**
+## ANEXO II
+
+Regulamento (CEE) n.º 1768/92 Presente regulamento
+
+— Considerando 1
+
+Considerando 1 Considerando 2
+
+Considerando 2 Considerando 3
+
+Considerando 3 Considerando 4
+
+Considerando 4 Considerando 5
+
+Considerando 5 Considerando 6
+
+Considerando 6 Considerando 7
+
+Considerando 7 Considerando 8
+
+Considerando 8 Considerando 9
+
+Considerando 9 Considerando 10
+
+Considerando 10 —
+
+Considerando 11 —
+
+Considerando 12 —
+
+Considerando 13 Considerando 11
+
+Artigo 1.º Artigo 1.º
+
+Artigo 2.º Artigo 2.º
+
+Artigo 3.º, proémio Artigo 3.º, proémio
+
+Artigo 3.º, alínea a) Artigo 3.º, alínea a)
+
+Artigo 3.º, alínea b), primeira frase Artigo 3.º, alínea b)
+
+Artigo 3.º, alínea b), segunda frase —
+
+Artigo 3.º, alíneas c) e d) Artigo 3.º, alíneas c) e d)
+
+Artigos 4.º a 7.º Artigos 4.º a 7.º
+
+Artigo 8.º, n.º 1 Artigo 8.º, n.º 1
+
+Artigo 8.º, n.º 1-A Artigo 8.º, n.º 2
+
+Artigo 8.º, n.º 1-B Artigo 8.º, n.º 3
+
+Artigo 8.º, n.º 2 Artigo 8.º, n.º 4
+
+Artigos 9.º a 12.º Artigos 9.º a 12.º
+
+Artigo 13.º, n.^os^ 1, 2 e 3 Artigo 13.º, n.^os^ 1, 2 e 3
+
+Artigos 14.º e 15.º Artigos 14.º e 15.º
+
+Artigo 15.º-A Artigo 16.º
+
+Artigos 16.º, 17.º e 18.º Artigos 17.º, 18.º e 19.º
+
+Artigo 19.º —
+
+Artigo 19.º-A, proémio Artigo 20.º, proémio
+
+Artigo 19.º-A, alínea a), subalíneas i) e ii) Artigo 20.º, alínea b), proémio, subalíneas i) e ii)
+
+Artigo 19.º-A, alínea b) Artigo 20.º, alínea c)
+
+Artigo 19.º-A, alínea c) Artigo 20.º, alínea d)
+
+Artigo 19.º-A, alínea d) Artigo 20.º, alínea e)
+
+Artigo 19.º-A, alínea e) Artigo 20.º, alínea f)
+
+Artigo 19.º-A, alínea f) Artigo 20.º, alínea g)
+
+Artigo 19.º-A, alínea g) Artigo 20.º, alínea h)
+
+Artigo 19.º-A, alínea h) Artigo 20.º, alínea i)
+
+Artigo 19.º-A, alínea i) Artigo 20.º, alínea k)
+
+Artigo 19.º-A, alínea j) Artigo 20.º, alínea l)
+
+Artigo 19.º-A, alínea k) Artigo 20.º, alínea a)
+
+Artigo 19.º-A, alínea l) Artigo 20.º, alínea j)
+
+Artigo 20.º —
+
+Artigo 21.º —
+
+Artigo 22.º —
+
+— Artigo 13.º, n.º 4
+
+Artigo 23.º Artigo 22.º
+
+— Artigo 23.º
+
+— Anexo I
 
 ---
 
 ## Notas
 
-> [(^1^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc1-L_2009152PT.01000101-E0001) [JO C 77 de 31.3.2009, p. 42](http://publications.europa.eu/resource/oj/JOC_2009_077_R_TOC).
+> ([^1^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0001)) JO C 77 de 31.3.2009, p. 42.
 
-> [(^2^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc2-L_2009152PT.01000101-E0002) Parecer do Parlamento Europeu de 21 de Outubro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.
+> ([^2^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 21 de Outubro de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 6 de Abril de 2009.
 
-> [(^3^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc3-L_2009152PT.01000101-E0003) [JO L 182 de 2.7.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_182_R_TOC).
+> ([^3^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0003)) JO L 182 de 2.7.1992, p. 1.
 
-> [(^4^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc4-L_2009152PT.01000101-E0004) Ver anexo I.
+> ([^4^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0004)) Ver anexo I.
 
-> [(^5^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc5-L_2009152PT.01000101-E0005) [JO L 378 de 27.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_378_R_TOC).
+> ([^5^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0005)) JO L 378 de 27.12.2006, p. 1.
 
-> [(^6^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc6-L_2009152PT.01000101-E0006) [JO L 311 de 28.11.2001, p. 67](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC).
+> ([^6^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0006)) JO L 311 de 28.11.2001, p. 67.
 
-> [(^7^)](http://publications.europa.eu/resource/cellar/29f72650-3871-46d8-b574-74c4d3e6fb83.0019.02/DOC_1#ntc7-L_2009152PT.01000101-E0007) [JO L 311 de 28.11.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_311_R_TOC).
+> ([^7^](http://publications.europa.eu/resource/cellar/dc0519fc-44d8-4714-ba3f-b3473b8ef5df.0019.03/DOC_1#src.E0007)) JO L 311 de 28.11.2001, p. 1.

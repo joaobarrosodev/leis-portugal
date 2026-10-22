@@ -35,6 +35,98 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-03-01'
+version_history:
+  file: regulamento-ue-2009-642.versoes.json
+  count: 4
+  source_lastmod: '2021-03-01'
+  versions:
+  - date: '2009-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-12'
+    amending: eu:celex:32013R0801:por
+    amending_title: REGULAMENTO (UE) N. o 801/2013 DA COMISSÃO de 22 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA
+    - Adita 1. CONSUMO DE ENERGIA EM ESTADO ACTIVO
+    - Adita 2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO
+    - Adita 3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE
+    - Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO
+      FORNECIDOS COM UM MENU IMPOSTO
+    - Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO
+    - Adita [►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES
+    - Adita ANEXO II
+    - Adita MEDIÇÕES
+    - Adita 1. Medições de consumo energético em estado activo
+    - Adita 2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede
+    - Adita 3. Medições da luminância de pico
+    - Adita ANEXO III
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO
+    - Adita A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5
+    - Adita B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3
+    - Adita C. Controlo de conformidade
+    - Adita ANEXO IV
+    - Adita Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera 1. Medições de consumo energético em estado activo
+    - Altera B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3
+    - Altera Notas
+    - Adita VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO
+    - Adita A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades
+      dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias
+      admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores
+      a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.
+    - Suprime PROCEDIMENTO DE VERIFICAÇÃO
+    - Suprime A. Procedimento de verificação dos requisitos estabelecidos no anexo I, pontos 1, 2, 4 e 5
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 4.º — Avaliação de conformidade
+    - Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado
+    - Suprime Artigo 6.º — Revisão
+    - Suprime Artigo 7.º — Alterações ao Regulamento (CE) n.º 1275/2008
+    - Suprime Artigo 8.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS DE CONCEPÇÃO ECOLÓGICA
+    - Suprime 1. CONSUMO DE ENERGIA EM ESTADO ACTIVO
+    - Suprime 2. CONSUMO DE ENERGIA EM ESTADO DE VIGÍLIA/DE DESACTIVAÇÃO
+    - Suprime 3. CONSUMO DE ENERGIA NO ESTADO DE VIGÍLIA EM REDE
+    - Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 4.◄ «ESTADO DOMÉSTICO» PARA TELEVISORES QUE SÃO
+      FORNECIDOS COM UM MENU IMPOSTO
+    - Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 5.◄ TAXA DE LUMINÂNCIA DE PICO
+    - Suprime [►M1](http://publications.europa.eu/resource/celex/32013R0801) 6.◄ INFORMAÇÕES A FORNECER PELOS FABRICANTES
+    - Suprime ANEXO II
+    - Suprime MEDIÇÕES
+    - Suprime 1. Medições de consumo energético em estado activo
+    - Suprime 2. Medições do consumo energético nos estados de vigília/desativação e de vigília em rede
+    - Suprime 3. Medições da luminância de pico
+    - Suprime ANEXO III
+    - Suprime VERIFICAÇÃO DA CONFORMIDADE DOS PRODUTOS PELAS AUTORIDADES DE FISCALIZAÇÃO DO MERCADO
+    - Suprime A. As tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades
+      dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias
+      admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores
+      a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.
+    - Suprime B. Procedimento de verificação dos requisitos estabelecidos no anexo I, ponto 3
+    - Suprime C. Controlo de conformidade
+    - Suprime ANEXO IV
+    - Suprime Lista de produtos consumidores de energia constante do anexo I, secção 3, do Regulamento (CE) n.º 1275/2008
+    - Suprime Notas
 identifiers:
   celex: 32009R0642
   eli: http://data.europa.eu/eli/reg/2009/642/oj
@@ -49,7 +141,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c63a2516-bfa4-449d-900f-b537b9d15c70.0018
   content_url: http://publications.europa.eu/resource/cellar/fe38b79c-7b72-11eb-9ac9-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0642-20210301
-  retrieved_at: '2026-10-22T02:52:49Z'
+  retrieved_at: '2026-10-22T15:43:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:06:18.487+02:00'
 integrity:
@@ -58,9 +150,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:49Z'
-  notes: Texto consolidado 02009R0642-20210301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:01Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-642.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +231,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:49Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:43:01Z'
+  warnings: []
   errors: []
 ---
 

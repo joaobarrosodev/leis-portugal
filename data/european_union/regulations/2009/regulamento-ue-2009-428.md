@@ -34,6 +34,88 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-10-07'
+version_history:
+  file: regulamento-ue-2009-428.versoes.json
+  count: 4
+  source_lastmod: '2021-10-07'
+  versions:
+  - date: '2009-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-15'
+    amending: eu:celex:32011R1232:por
+    amending_title: REGULAMENTO (UE) N. o 1232/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011; M2; REGULAMENTO
+      (UE) N. o 599/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014; M4; M5; M6; M7; M8; M9; REGULAMENTO DELEGADO
+      (UE) 2020/1749 DA COMISSÃO de 7 de outubro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Notas
+    - Adita Artigo 9.º
+    - Adita Artigo 12.º
+    - Adita Artigo 23.º-A
+    - Adita Artigo 23.º-B
+    - Adita Artigo 25.º-A
+    - Adita ANEXO I
+    - Adita LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO
+    - Adita (referida no artigo 3.º do presente regulamento)
+    - Adita NOTAS GERAIS DO ANEXO I
+    - Adita NOTA SOBRE TECNOLOGIA NUCLEAR (NTN)
+    - Adita NOTA GERAL SOBRE TECNOLOGIA (NGT)
+    - Adita NOTA SOBRE SOFTWARE NUCLEAR (NSN)
+    - Adita NOTA GERAL SOBRE O SOFTWARE (NGS)
+    - Adita NOTA GERAL SOBRE «SEGURANÇA DA INFORMAÇÃO» (NGSI)
+    - Adita PRÁTICAS EDITORIAIS NO JORNAL OFICIAL DA UNIÃO EUROPEIA
+    - Adita SIGLAS E ABREVIATURAS UTILIZADAS NO PRESENTE ANEXO
+    - Adita DEFINIÇÕES DOS TERMOS UTILIZADOS NO PRESENTE ANEXO
+    - 'Adita Notas técnicas:'
+    - 'Adita Notas:'
+    - 'Adita Nota técnica:'
+    - Adita CATEGORIA 0 — MATERIAIS, INSTALAÇÕES E EQUIPAMENTOS NUCLEARES
+    - Adita 0ASistemas, equipamentos e componentes
+    - Adita 0BEquipamentos de ensaio, de inspeção e de produção
+    - Adita 0CMateriais
+    - Adita 0DSoftware
+    - Adita 0ETecnologia
+    - Adita CATEGORIA 1 — MATERIAIS ESPECIAIS E EQUIPAMENTO CONEXO
+    - Adita 1ASistemas, equipamentos e componentes
+    - Adita 1BEquipamentos de ensaio, de inspeção e de produção
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2171:por
+    amending_title: REGULAMENTO (UE) 2020/2171 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera (referida no artigo 3.º do presente regulamento)
+    - Altera Parte 1 — TELECOMUNICAÇÕES
+    - Altera (Lista referida no artigo 22.º, n.º 1, do presente regulamento)
+    - Altera Notas
+    - 'Adita Exportações para: Austrália, Canadá, Japão, Nova Zelândia, Noruega, Suíça, incluindo o Listenstaine, Reino Unido
+      e Estados Unidos da América'
+    - 'Suprime Exportações para: Austrália, Canadá, Japão, Nova Zelândia, Noruega, Suíça, incluindo o Listenstaine, e Estados
+      Unidos da América'
+  - date: '2021-10-07'
+    amending: eu:celex:32021R1528:por
+    amending_title: M12
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera (referida no artigo 3.º do presente regulamento)
+    - 'Altera Exportações para: Austrália, Canadá, Japão, Nova Zelândia, Noruega, Suíça, incluindo o Listenstaine, Reino Unido
+      e Estados Unidos da América'
+    - Altera (Lista referida no artigo 22.º, n.º 1, do presente regulamento)
+    - Altera Notas
 identifiers:
   celex: 32009R0428
   eli: http://data.europa.eu/eli/reg/2009/428/oj
@@ -48,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c3000d78-dd95-42aa-9068-8984cac4464e.0018
   content_url: http://publications.europa.eu/resource/cellar/529c1d48-3d55-11ec-89db-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0428-20211007
-  retrieved_at: '2026-10-22T02:52:48Z'
+  retrieved_at: '2026-10-22T15:42:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:38:19.047+02:00'
 integrity:
@@ -57,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:48Z'
-  notes: Texto consolidado 02009R0428-20211007.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:31Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-428.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -252,51 +334,28 @@ relationships:
   date: '2000-07-05'
 article_structure:
   article_count: 31
-  section_count: 380
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 381
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:42:31Z'
+  warnings:
+  - '02009R0428-20090827: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20120107: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20120615: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20140702: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20141231: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20151225: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20161116: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20181215: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0428-20191231: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 428/2009 do Conselho, de 5 de Maio de 2009
-
-> 02009R0428 — PT — 07.10.2021 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R1232) — [REGULAMENTO (UE) N.º 1232/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1232) — L 326 — 26 — 8.12.2011
-- [M2](http://publications.europa.eu/resource/celex/32012R0388) — [REGULAMENTO (UE) N.º 388/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2012](http://publications.europa.eu/resource/celex/32012R0388) — L 129 — 12 — 16.5.2012
-- [►M3](http://publications.europa.eu/resource/celex/32014R0599) — [REGULAMENTO (UE) N.º 599/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0599) — L 173 — 79 — 12.6.2014
-- [M4](http://publications.europa.eu/resource/celex/32014R1382) — [REGULAMENTO DELEGADO (UE) N.º 1382/2014 DA COMISSÃO de 22 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1382) — L 371 — 1 — 30.12.2014
-- [M5](http://publications.europa.eu/resource/celex/32015R2420) — [REGULAMENTO DELEGADO (UE) 2015/2420 DA COMISSÃO de 12 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R2420) — L 340 — 1 — 24.12.2015
-- [M6](http://publications.europa.eu/resource/celex/32016R1969) — [REGULAMENTO DELEGADO (UE) 2016/1969 DA COMISSÃO de 12 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1969) — L 307 — 1 — 15.11.2016
-- [M7](http://publications.europa.eu/resource/celex/32017R2268) — [REGULAMENTO DELEGADO (UE) 2017/2268 DA COMISSÃO de 26 de setembro de 2017](http://publications.europa.eu/resource/celex/32017R2268) — L 334 — 1 — 15.12.2017
-- [M8](http://publications.europa.eu/resource/celex/32018R1922) — [REGULAMENTO DELEGADO (UE) 2018/1922 DA COMISSÃO de 10 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1922) — L 319 — 1 — 14.12.2018
-- [M9](http://publications.europa.eu/resource/celex/32019R2199) — [REGULAMENTO DELEGADO (UE) 2019/2199 DA COMISSÃO de 17 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2199) — L 338 — 1 — 30.12.2019
-- [►M10](http://publications.europa.eu/resource/celex/32020R1749) — [REGULAMENTO DELEGADO (UE) 2020/1749 DA COMISSÃO de 7 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1749) — L 421 — 1 — 14.12.2020
-- [►M11](http://publications.europa.eu/resource/celex/32020R2171) — [REGULAMENTO (UE) 2020/2171 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2171) — L 432 — 4 — 21.12.2020
-- [M12](http://publications.europa.eu/resource/celex/32021R1528) — [REGULAMENTO DELEGADO (UE) 2021/1528 DA COMISSÃO de 8 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1528) — L 329 — 6 — 17.9.2021
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0428R%2803%29) — [Rectificação, JO L 224, 27.8.2009, p. 21 (428/2009)](http://publications.europa.eu/resource/celex/32009R0428R%2803%29)
-- [C2](http://publications.europa.eu/resource/celex/32015R2420R%2801%29) — [Rectificação, JO L 060, 5.3.2016, p. 93 (2015/2420)](http://publications.europa.eu/resource/celex/32015R2420R%2801%29)
-- [C3](http://publications.europa.eu/resource/celex/32016R1969R%2801%29) — [Rectificação, JO L 025, 31.1.2017, p. 36 (2016/1969)](http://publications.europa.eu/resource/celex/32016R1969R%2801%29)
-- [C4](http://publications.europa.eu/resource/celex/32017R2268R%2801%29) — [Rectificação, JO L 012, 17.1.2018, p. 62 (2017/2268)](http://publications.europa.eu/resource/celex/32017R2268R%2801%29)
-- [C5](http://publications.europa.eu/resource/celex/32018R1922R%2804%29) — [Rectificação, JO L 105, 16.4.2019, p. 67 (2018/1922)](http://publications.europa.eu/resource/celex/32018R1922R%2804%29)
-- [C6](http://publications.europa.eu/resource/celex/32019R2199R%2801%29) — [Rectificação, JO L 051, 25.2.2020, p. 13 (2019/2199)](http://publications.europa.eu/resource/celex/32019R2199R%2801%29)
-- [C7](http://publications.europa.eu/resource/celex/32019R2199R%2802%29) — [Rectificação, JO L 072, 9.3.2020, p. 28 (2019/2199)](http://publications.europa.eu/resource/celex/32019R2199R%2802%29)
-- [►C8](http://publications.europa.eu/resource/celex/32020R1749R%2802%29) — [Rectificação, JO L 094, 18.3.2021, p. 5 (2020/1749)](http://publications.europa.eu/resource/celex/32020R1749R%2802%29)
-
-## REGULAMENTO (CE) N.º 428/2009 DO CONSELHO
 
 de 5 de Maio de 2009
 

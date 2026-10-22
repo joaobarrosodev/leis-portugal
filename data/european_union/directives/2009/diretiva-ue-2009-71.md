@@ -34,6 +34,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-08-14'
+version_history:
+  file: diretiva-ue-2009-71.versoes.json
+  count: 2
+  source_lastmod: '2014-08-14'
+  versions:
+  - date: '2009-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-08-14'
+    amending: eu:celex:32014L0087:por
+    amending_title: Diretiva 2014/87/Euratom do Conselho de 8 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Quadro legislativo, regulamentar e organizacional
+    - Altera Artigo 5.º — Autoridade reguladora competente
+    - Altera Artigo 6.º — Titulares das licenças
+    - Altera Artigo 9.º — Apresentação de relatórios
+    - Altera Artigo 10.º — Transposição
+    - Altera Artigo 12.º — Destinatários
+    - Altera Notas
+    - Adita OBJETIVOS, ÂMBITO E DEFINIÇÕES
+    - Adita SECÇÃO 1
+    - Adita Obrigações gerais
+    - Adita Artigo 7.º — Competências e qualificações em matéria de segurança nuclear
+    - Adita Artigo 8.º — Transparência
+    - Adita SECÇÃO 2
+    - Adita Obrigações específicas
+    - Adita Artigo 8.º-A — Objetivo de segurança nuclear para instalações nucleares
+    - Adita Artigo 8.º-B — Realização do objetivo de segurança nuclear para instalações nucleares
+    - Adita Artigo 8.º-C — Avaliação inicial e revisões periódicas de segurança
+    - Adita Artigo 8.º-D — Preparação e resposta a situações de emergência in situ
+    - Adita CAPÍTULO 2-a
+    - Adita AVALIAÇÃO PELOS PARES E APRESENTAÇÃO DE RELATÓRIOS
+    - Adita Artigo 8.º-E — Avaliação pelos pares
+    - Suprime OBJECTIVOS, DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 7.º — Qualificações e competências em matéria de segurança
+    - Suprime Artigo 8.º — Informação ao público
 identifiers:
   celex: 32009L0071
   eli: http://data.europa.eu/eli/dir/2009/71/oj
@@ -48,7 +88,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/445875e6-b9bf-4d0c-820f-41aee3dd3651.0018
   content_url: http://publications.europa.eu/resource/cellar/d6929f11-27dc-4de8-b565-26ac6b4bff29.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0071-20140814
-  retrieved_at: '2026-10-22T02:42:50Z'
+  retrieved_at: '2026-10-22T15:38:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T02:55:21.226+02:00'
 integrity:
@@ -57,9 +97,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:50Z'
-  notes: Texto consolidado 02009L0071-20140814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:38:47Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-71.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -145,29 +185,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:50Z'
+  checked_at: '2026-10-22T15:38:47Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/71/Euratom do Conselho, de 25 de Junho de 2009
-
-> 2009L0071 — PT — 14.08.2014 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0087) — [Diretiva 2014/87/Euratom do Conselho de 8 de julho de 2014](http://publications.europa.eu/resource/celex/32014L0087) — L 219 — 42 — 25.7.2014
-
-## DIRECTIVA 2009/71/EURATOM DO CONSELHO
 
 de 25 de Junho de 2009
 

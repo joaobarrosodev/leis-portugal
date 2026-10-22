@@ -1,0 +1,810 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0148:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0148-20231220",
+ "dre_path": null,
+ "source_lastmod": "2023-12-20",
+ "versions": [
+  {
+   "date": "2009-12-16",
+   "future": false,
+   "celex": "32009L0148",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e49db1cb7dd174da",
+    "b73a2ce0262d77db",
+    "1c3eb449d950fadc",
+    "f488a93729d9019e",
+    "86df31a0f819ab80",
+    "9105c5afac9be289",
+    "486d738d6fa43ec6",
+    "b9dc519c80eb57c7",
+    "b18ac6e6f691872e",
+    "60e765342fe45ed0",
+    "7c09a67d56f7400a",
+    "7db6bcfb69d7ef7f",
+    "409d0cec9aa79cec",
+    "135185bdadd4ee07",
+    "7f785207924f4a85",
+    "efe7b37cccf86f91",
+    "d8dbf3839e2e040c",
+    "aa8904493ffc8c19",
+    "9453b03b99f2eb20",
+    "a33a48ddbb0944ae",
+    "d14d3ae1083a9706",
+    "aad89fef69242d97",
+    "df34b797cf58d6fe",
+    "8f85cf7dc17214ce",
+    "d0e9a730a07b37fc",
+    "6160ff48fcf4f46c",
+    "8e3fb458d5922cc1",
+    "5593548384ab5f80"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02009L0148-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 26.º",
+    "Altera Notas",
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 18.º-B",
+    "Adita ANEXO I",
+    "Adita Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+    "Adita ANEXO II",
+    "Adita PARTE A",
+    "Adita Directiva revogada com a lista das suas sucessivas alterações",
+    "Adita (referidas no artigo 24.º)",
+    "Adita PARTE B",
+    "Adita Prazos de transposição para o direito nacional",
+    "Adita (referidos no artigo 24.º)",
+    "Adita ANEXO III",
+    "Suprime Artigo 9.º"
+   ],
+   "fragments": [
+    "ffcfaa8a061ceff6",
+    "b73a2ce0262d77db",
+    "cbe887b1bf5d6741",
+    "f488a93729d9019e",
+    "86df31a0f819ab80",
+    "9105c5afac9be289",
+    "62d7556e93ab9e9c",
+    "809c7d4965661c65",
+    "b18ac6e6f691872e",
+    "7c09a67d56f7400a",
+    "7db6bcfb69d7ef7f",
+    "409d0cec9aa79cec",
+    "635f68ddd99a31b4",
+    "7f785207924f4a85",
+    "efe7b37cccf86f91",
+    "b47b0d561c2f772c",
+    "aa8904493ffc8c19",
+    "da6a9bce3242bbc0",
+    "17739600616de12c",
+    "ddb7ae55cc350134",
+    "a33a48ddbb0944ae",
+    "d14d3ae1083a9706",
+    "aad89fef69242d97",
+    "df34b797cf58d6fe",
+    "8f85cf7dc17214ce",
+    "d0e9a730a07b37fc",
+    "6160ff48fcf4f46c",
+    "b204ba0058a54d5b",
+    "d664376e2a8dcecd",
+    "58775c469b42ad28",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "cbeebabfd1551dec",
+    "5326d0ff1c53377a",
+    "6041be3baf7dcb43",
+    "9b6fa0abff421748",
+    "c47794311d8dd021",
+    "ae14548957d6054a",
+    "515c3d27c212578a"
+   ]
+  },
+  {
+   "date": "2023-12-20",
+   "future": false,
+   "celex": "02009L0148-20231220",
+   "acts": [
+    {
+     "id": "eu:celex:32023L2668:por",
+     "title": "DIRETIVA (UE) 2023/2668 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023",
+     "published": null,
+     "celex": "32023L2668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 18.º-A",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+    "Altera (referidos no artigo 24.º)",
+    "Altera Notas",
+    "Adita Artigo 18.º-C",
+    "Adita Artigo 22.º-A",
+    "Adita ANEXO I-A",
+    "Adita Requisitos mínimos para a formação"
+   ],
+   "fragments": [
+    "ffcfaa8a061ceff6",
+    "cb5a88b3c46b5b91",
+    "e9e4efe1b7fa579d",
+    "abdf45cca036d002",
+    "07e33294b11b39c4",
+    "9105c5afac9be289",
+    "9880129581859444",
+    "f1b0ef797df88a1d",
+    "716622c65383b212",
+    "d3cc0e9122b70557",
+    "9ea210f2887f059e",
+    "00193af8b67f6b81",
+    "ccdd54788c2a2bdc",
+    "e7fe2beb1721115e",
+    "cf9d86c0f463269f",
+    "8ccdb40afe579662",
+    "c7cfba5968941671",
+    "4abf8b3a0673094d",
+    "fcb21221111a75c6",
+    "ddb7ae55cc350134",
+    "45ed1fae7fd6d2c0",
+    "b371efb06b5247d7",
+    "d14d3ae1083a9706",
+    "0a2898c671a774da",
+    "df34b797cf58d6fe",
+    "3793c4c23576ccbf",
+    "8f85cf7dc17214ce",
+    "d0e9a730a07b37fc",
+    "6160ff48fcf4f46c",
+    "b204ba0058a54d5b",
+    "d664376e2a8dcecd",
+    "a71ad053f9c10803",
+    "dd4d3250d282e5da",
+    "2276de459af4140c",
+    "852174729551523b",
+    "87cee521b2f0bb1e",
+    "cbeebabfd1551dec",
+    "5326d0ff1c53377a",
+    "6041be3baf7dcb43",
+    "9b6fa0abff421748",
+    "3da9058bf7532b9b",
+    "ae14548957d6054a",
+    "4bd6f153ebed1142"
+   ]
+  }
+ ],
+ "fragments": {
+  "e49db1cb7dd174da": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nrelativa à protecção dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2 do artigo 137.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr1-L_2009330PT.01002801-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr2-L_2009330PT.01002801-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 83/477/CEE do Conselho, de 19 de Setembro de 1983, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros quanto à protecção sanitária dos trabalhadores expostos ao amianto durante o trabalho (segunda directiva especial na acepção do artigo 8.º da Directiva 80/1107/CEE) [([^3])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr3-L_2009330PT.01002801-E0003), foi por várias vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr4-L_2009330PT.01002801-E0004). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida directiva.\n\n(2) O amianto é um agente particularmente perigoso que pode causar doenças graves e que está presente em grande número de situações no local de trabalho e, em consequência, numerosos trabalhadores estão expostos a um risco potencial para a sua saúde. A crocidolite é considerada como um tipo de amianto particularmente perigoso.\n\n(3) Os conhecimentos científicos de que actualmente se dispõe não permitem definir um nível abaixo do qual se possa afirmar que já não existem riscos para a saúde, mas sabe-se que a redução da exposição ao amianto permitirá diminuir o risco de doenças ligadas ao amianto. Por conseguinte, é necessário prever o estabelecimento de medidas específicas harmonizadas respeitantes à protecção dos trabalhadores contra o amianto. A presente directiva estabelece prescrições mínimas que virão a ser revistas com base na experiência adquirida e na evolução da técnica neste domínio.\n\n(4) A microscopia óptica, embora não permita a contagem das fibras mais finas prejudiciais à saúde, é o método mais corrente de medição regular do amianto.\n\n(5) As medidas preventivas de protecção da saúde dos trabalhadores expostos ao amianto assim como os deveres dos Estados-Membros em matéria de vigilância da saúde dos referidos trabalhadores são importantes.\n\n(6) Para assegurar a clareza da definição das fibras, estas devem ser definidas em termos de mineralogia ou pelo seu número de registo do CAS (Chemical Abstract Service).\n\n(7) Sem prejuízo de outras normas comunitárias em matéria de comercialização e de utilização do amianto, a limitação das actividades que envolvem exposição ao amianto deverá ter um papel importante na prevenção das doenças relacionadas com tal exposição.\n\n(8) O sistema de notificação das actividades que envolvem exposição ao amianto deverá ser adaptado às novas situações de trabalho.\n\n(9) A proibição de projecção do amianto por flocagem não é suficiente para impedir a libertação de fibras de amianto na atmosfera. Convém também proibir as actividades que expõem os trabalhadores às fibras de amianto durante a extracção deste último, fabrico e transformação de produtos de amianto ou fabrico e transformação de produtos que contenham fibras de amianto deliberadamente acrescentadas, dado o seu grau de exposição elevado e difícil de evitar.\n\n(10) Tendo em conta os conhecimentos técnicos mais recentes, é conveniente definir a metodologia de colheita das amostras para a medição do teor de amianto no ar, bem como o método de contagem das fibras.\n\n(11) Embora ainda não tenha sido possível determinar o limite de exposição abaixo do qual o amianto não acarreta riscos de cancro, a exposição profissional dos trabalhadores ao amianto deverá ser reduzida ao mínimo.\n\n(12) É conveniente que os empregadores sejam obrigados a identificar, antes da realização de um projecto de remoção de amianto, a presença ou a suspeita da presença de amianto nos edifícios ou instalações e a transmitir essas informações a todas as pessoas susceptíveis de se encontrarem expostas ao amianto no âmbito da sua utilização, de trabalhos de manutenção ou de outras actividades no interior ou no exterior dos edifícios.\n\n(13) É indispensável assegurar que os trabalhos de demolição ou de remoção de amianto sejam efectuados por empresas que estejam informadas de todas as precauções a tomar para proteger os trabalhadores.\n\n(14) Uma formação específica dos trabalhadores expostos ou susceptíveis de serem expostos ao amianto contribuirá significativamente para reduzir os riscos relacionados com esta exposição.\n\n(15) Convém prever recomendações práticas para a vigilância clínica dos trabalhadores expostos, à luz dos conhecimentos médicos mais recentes, tendo em vista o rastreio precoce das patologias relacionadas com o amianto.\n\n(16) Atendendo a que o objectivo da acção encarada, a saber, a melhoria da protecção dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à dimensão e aos efeitos da acção, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(17) As disposições constantes da presente directiva constituem um elemento concreto da realização da dimensão social do mercado interno. Estas disposições são limitadas ao mínimo para não entravar desnecessariamente a criação e o desenvolvimento das pequenas e médias empresas.\n\n(18) A presente directiva não deve prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas indicados na parte B do anexo II,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "b73a2ce0262d77db": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem por objecto a protecção dos trabalhadores contra os riscos para a sua saúde, incluindo a prevenção desses riscos, decorrentes ou podendo decorrer da exposição ao amianto durante o trabalho.\n\nA directiva fixa o valor-limite desta exposição e estabelece outras disposições específicas.\n\n2. A presente directiva não prejudica a possibilidade de os Estados-Membros aplicarem ou adoptarem disposições legislativas, regulamentares ou administrativas que assegurem uma melhor protecção dos trabalhadores, especialmente no que diz respeito à substituição do amianto por produtos menos perigosos."
+  },
+  "1c3eb449d950fadc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, o termo «amianto» designa os seguintes silicatos fibrosos:\n\na) Amianto actinolite, número 77536-66-4 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005);\n\nb) Amianto grunerite (amosite), número 12172-73-5 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005);\n\nc) Amianto antofilite, número 77536-67-5 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005);\n\nd) Crisólito, número 12001-29-5 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005);\n\ne) Crocidolite, número 12001-28-4 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005);\n\nf) Amianto tremolite, número 77536-68-6 do CAS [([^5])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr5-L_2009330PT.01002801-E0005)."
+  },
+  "f488a93729d9019e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A presente directiva aplica-se às actividades no exercício das quais, durante o trabalho, os trabalhadores estão ou podem ficar expostos às poeiras provenientes do amianto ou de materiais que contenham amianto.\n\n2. Relativamente às actividades susceptíveis de apresentar um risco de exposição às poeiras provenientes do amianto ou de materiais contendo amianto, este risco deve ser avaliado de forma a determinar a natureza e o grau de exposição dos trabalhadores às poeiras provenientes do amianto ou dos materiais que contenham amianto.\n\n3. Nos casos em que os trabalhadores estejam sujeitos a exposições esporádicas e de fraca intensidade e sempre que os resultados da avaliação dos riscos a que se refere o n.º 2 demonstrem claramente que o valor-limite de exposição ao amianto não é excedido na atmosfera da zona de trabalho, os artigos 4.º, 18.º e 19.º podem não ser aplicados quando os trabalhos a efectuar implicarem:\n\na) Actividades de manutenção descontínuas e de curta duração, durante as quais o trabalho incide unicamente sobre materiais não friáveis;\n\nb) Remoção, sem deterioração, de materiais não degradados nos quais as fibras de amianto estão firmemente aglomeradas;\n\nc) Encapsulamento e revestimento de materiais que contêm amianto e que se encontram em bom estado;\n\nd) Vigilância e controlo da qualidade do ar e recolha de amostras com o objectivo de detectar a presença de amianto num dado material.\n\n4. Os Estados-Membros estabelecem, após consulta dos representantes dos parceiros sociais e em conformidade com as legislações e práticas nacionais, orientações práticas para a determinação da exposição esporádica e de fraca intensidade, tal como previsto no n.º 3.\n\n5. A avaliação referida no n.º 2 é objecto de consulta aos trabalhadores e/ou aos seus representantes na empresa ou estabelecimento e é revista quando surjam razões que levam a considerá-la incorrecta ou quando se verifique qualquer modificação no sistema de trabalho."
+  },
+  "86df31a0f819ab80": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do disposto no n.º 3 do artigo 3.º, são adoptadas as medidas referidas nos n.^os^ 2 a 5.\n\n2. As actividades referidas no n.º 1 do artigo 3.º são objecto de um sistema de comunicação gerido pela autoridade competente do Estado-Membro.\n\n3. A comunicação referida no n.º 2 é feita pelo empregador à autoridade competente do Estado-Membro, antes do início dos trabalhos, em conformidade com as disposições legislativas, regulamentares e administrativas nacionais.\n\nA referida comunicação inclui, no mínimo, uma descrição sucinta dos seguintes elementos:\n\na) Local do estaleiro;\n\nb) Tipo e quantidades de amianto utilizadas ou manipuladas;\n\nc) Actividades e processos aplicados;\n\nd) Número de trabalhadores envolvidos;\n\ne) Data de início dos trabalhos e sua duração;\n\nf) Medidas tomadas para limitar a exposição dos trabalhadores ao amianto.\n\n4. Os trabalhadores e/ou os seus representantes na empresa ou estabelecimento têm acesso ao documento relativo à comunicação prevista no n.º 2 feita pela sua empresa ou estabelecimento, de acordo com as legislações nacionais.\n\n5. Sempre que se verifique uma modificação nas condições de trabalho que possa implicar um aumento significativo da exposição a poeiras de amianto ou de materiais que contenham amianto, deve ser feita uma nova comunicação."
+  },
+  "9105c5afac9be289": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão proibidas a projecção de amianto por flocagem, bem como as actividades que impliquem a incorporação de materiais isolantes ou insonorizantes de fraca densidade (inferior a 1 g/cm^3^) que contenham amianto.\n\nSem prejuízo da aplicação de outras disposições comunitárias relativas à comercialização e à utilização do amianto, são proibidas as actividades que exponham os trabalhadores às fibras de amianto aquando da extracção de amianto, do fabrico e da transformação de produtos de amianto ou do fabrico e da transformação de produtos que contenham amianto deliberadamente acrescentado, com exclusão da deposição em aterros de produtos resultantes da demolição e da remoção do amianto."
+  },
+  "486d738d6fa43ec6": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nRelativamente a qualquer das actividades previstas no n.º 1 do artigo 3.º, a exposição dos trabalhadores a poeiras de amianto ou de materiais que contenham amianto no local de trabalho deve ser reduzida ao mínimo, devendo imperativamente ser inferior ao valor-limite estabelecido no artigo 8.º, nomeadamente através das seguintes medidas:\n\na) O número de trabalhadores expostos ou susceptíveis de se encontrarem expostos a poeiras de amianto ou de materiais que contenham amianto deve ser reduzido ao mínimo possível;\n\nb) Os processos de trabalho devem ser concebidos de forma a não produzirem poeiras de amianto ou, se tal se revelar impossível, a que não haja libertação de poeiras de amianto na atmosfera;\n\nc) Todas as instalações e equipamentos que sirvam para o tratamento de amianto devem poder ser regularmente submetidos a uma limpeza e uma manutenção eficazes;\n\nd) O amianto ou os materiais que libertem poeiras de amianto ou que contenham amianto devem ser armazenados e transportados em embalagens fechadas apropriadas;\n\ne) Os resíduos devem ser recolhidos e removidos do local de trabalho com a maior brevidade possível, em embalagens fechadas apropriadas, com etiquetas ostentando a menção de que contêm amianto. Esta medida não se aplica às actividades mineiras. Estes resíduos devem ser tratados de acordo com a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos [([^6])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr6-L_2009330PT.01002801-E0006)."
+  },
+  "b9dc519c80eb57c7": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Em função dos resultados da avaliação inicial dos riscos, e a fim de garantir a observância do valor-limite estabelecido no artigo 8.º, procede-se regularmente à medição da concentração em fibras de amianto na atmosfera do local de trabalho.\n\n2. As amostragens devem ser representativas da exposição pessoal do trabalhador às poeiras de amianto, ou de materiais que contenham amianto.\n\n3. As amostragens são efectuadas depois de consultados os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento.\n\n4. A colheita de amostras é feita por pessoal possuindo qualificações adequadas. As amostras são depois analisadas de acordo com o n.º 6 em laboratórios devidamente equipados para a contagem de fibras.\n\n5. A duração da amostragem deve ser de modo a que, por cada medição ou cálculo ponderado no tempo, seja possível determinar uma exposição representativa relativamente a um período de referência de 8 horas (um turno).\n\n6. A contagem das fibras é executada preferencialmente por microscópio de contraste de fase (PCM), em conformidade com o método recomendado pela Organização Mundial de Saúde (OMS) em 1997 [([^7])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr7-L_2009330PT.01002801-E0007), ou por qualquer outro método que dê resultados equivalentes.\n\nPara a medição do amianto na atmosfera, referida no n.º 1, são tidas em conta apenas as fibras que apresentem um comprimento superior a 5 micrómetros e uma largura inferior a 3 micrómetros e cuja relação comprimento/largura seja superior a 3:1."
+  },
+  "b18ac6e6f691872e": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs empregadores asseguram que nenhum trabalhador seja exposto a uma concentração de amianto em suspensão no ar superior a 0,1 fibra por cm^3^, medida relativamente a uma média ponderada no tempo para um período de 8 horas (TWA)."
+  },
+  "60e765342fe45ed0": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs alterações necessárias à adaptação do anexo I da presente directiva ao progresso técnico são aprovadas pelo procedimento referido no artigo 17.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho [([^8])](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntr8-L_2009330PT.01002801-E0008)."
+  },
+  "7c09a67d56f7400a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Sempre que seja ultrapassado o valor-limite estabelecido no artigo 8.º, devem ser identificadas as causas dessa ultrapassagem e devem ser tomadas, o mais rapidamente possível, as medidas necessárias para solucionar a situação.\n\nO trabalho só deve prosseguir na zona afectada após a adopção das medidas adequadas à protecção dos trabalhadores em causa.\n\n2. Para verificação da eficácia das medidas referidas no primeiro parágrafo do n.º 1, procede-se imediatamente à determinação da quantidade de amianto existente na atmosfera.\n\n3. Quando não for possível reduzir a exposição por outros meios, e se o valor-limite impuser o porte de equipamento respiratório de protecção individual, essa situação não pode ser permanente e deve ser limitada ao mínimo estritamente necessário para cada trabalhador. Durante os períodos de trabalho que requerem a utilização de equipamento respiratório de protecção individual, são previstas as pausas necessárias em função da carga física e climática, e, se for caso disso, em concertação com os trabalhadores e/ou os seus representantes, em conformidade com as legislações e práticas nacionais."
+  },
+  "7db6bcfb69d7ef7f": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAntes de iniciarem qualquer trabalho de demolição ou de manutenção, os empregadores devem, se necessário recorrendo a informações prestadas pelos proprietários desses mesmos locais, tomar todas as medidas adequadas para identificarem os materiais que presumivelmente contenham amianto.\n\nSe existirem quaisquer dúvidas quanto à presença de amianto num material ou numa construção, deve observar-se as disposições aplicáveis da presente directiva."
+  },
+  "409d0cec9aa79cec": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara certas actividades, como os trabalhos de demolição, remoção de amianto, reparação e manutenção, relativamente às quais seja previsível a ultrapassagem do valor-limite estabelecido no artigo 8.º apesar do recurso a medidas técnicas preventivas destinadas a limitar o teor de amianto na atmosfera, o empregador determina as medidas destinadas a assegurar a protecção dos trabalhadores durante o exercício dessas actividades, nomeadamente as seguintes:\n\na) Os trabalhadores recebem equipamento respiratório adequado e outros equipamentos de protecção individual, cujo porte é obrigatório;\n\nb) São colocados painéis de sinalização advertindo de que é previsível a ultrapassagem do valor-limite estabelecido no artigo 8.º; e\n\nc) É evitada a dispersão de poeiras de amianto ou de materiais que contenham amianto fora das instalações ou do local de acção.\n\nOs trabalhadores e/ou os seus representantes na empresa ou no estabelecimento são consultados sobre estas medidas antes de serem iniciadas estas actividades."
+  },
+  "135185bdadd4ee07": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É estabelecido um plano antes do início dos trabalhos de demolição ou da remoção do amianto e/ou de materiais que contenham amianto, das construções, estruturas, aparelhos e instalações, bem como dos navios.\n\n2. O plano referido no n.º 1 deve prever as medidas necessárias à segurança e à saúde dos trabalhadores no local de trabalho.\n\nO plano deve prever, em especial, que:\n\na) O amianto e/ou os materiais que contenham amianto sejam removidos antes da aplicação das técnicas de demolição, excepto nos casos em que essa remoção possa representar um risco maior para os trabalhadores do que a manutenção *in situ* do amianto e/ou dos materiais que o contêm;\n\nb) O equipamento de protecção individual referido na alínea a) do primeiro parágrafo do artigo 12.º seja fornecido, sempre que necessário;\n\nc) Quando os trabalhos de demolição ou de remoção do amianto forem dados por concluídos, a ausência de riscos derivados da exposição ao amianto no local de trabalho seja verificada em conformidade com a legislação e/ou práticas nacionais.\n\nA pedido das autoridades competentes, o plano deve incluir informações sobre os seguintes pontos:\n\na) Natureza e duração provável dos trabalhos;\n\nb) Local onde são efectuados os trabalhos;\n\nc) Métodos utilizados sempre que os trabalhos impliquem a manipulação de amianto ou de materiais que contenham amianto;\n\nd) Características dos equipamentos utilizados para fins: i) de protecção e descontaminação do pessoal encarregado dos trabalhos; ii) de protecção das outras pessoas que se encontrem no local dos trabalhos ou na sua proximidade.\n\ni) de protecção e descontaminação do pessoal encarregado dos trabalhos;\n\nii) de protecção das outras pessoas que se encontrem no local dos trabalhos ou na sua proximidade.\n\n3. A pedido das autoridades competentes, o plano a que se refere o n.º 1 deve ser-lhes comunicado antes do início dos trabalhos previstos."
+  },
+  "7f785207924f4a85": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os empregadores devem prever uma formação adequada para todos os trabalhadores expostos ou susceptíveis de estarem expostos a poeiras provenientes do amianto ou de materiais que contenham amianto. Esta formação deve ser dispensada regularmente e sem encargos para os trabalhadores.\n\n2. O conteúdo da formação deve ser facilmente compreensível para os trabalhadores. Deve permitir-lhes a aquisição dos conhecimentos e das competências necessárias em matéria de prevenção e de segurança, nomeadamente no que se refere:\n\na) Às propriedades do amianto e aos seus efeitos sobre a saúde, incluindo o efeito sinérgico do tabagismo;\n\nb) Aos tipos de produtos ou materiais susceptíveis de conterem amianto;\n\nc) Às operações susceptíveis de acarretar uma exposição ao amianto e à importância das medidas de prevenção para minimizar a exposição;\n\nd) Às práticas profissionais seguras, aos controlos e aos equipamentos de protecção;\n\ne) À função adequada, à escolha, à selecção, às limitações e à utilização correcta do equipamento respiratório;\n\nf) Aos procedimentos de emergência;\n\ng) Aos procedimentos de descontaminação;\n\nh) À eliminação dos resíduos;\n\ni) Aos requisitos em matéria de vigilância médica.\n\n3. As orientações práticas para a formação dos trabalhadores afectos à remoção do amianto são definidas a nível comunitário."
+  },
+  "efe7b37cccf86f91": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAntes de realizar trabalhos de demolição ou remoção de amianto, as empresas devem fornecer provas da sua competência neste domínio. Estas provas devem ser estabelecidas nos termos das legislações e/ou das práticas nacionais."
+  },
+  "d8dbf3839e2e040c": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Relativamente a qualquer das actividades referidas no n.º 1 do artigo 3.º, e sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas adequadas para que:\n\na) Os locais em que se executem estas actividades: i) sejam claramente delimitados e assinalados por painéis; ii) só possam ser acessíveis aos trabalhadores que, por razões de trabalho ou em virtude das suas funções aí sejam obrigados a entrar, e não a quaisquer outros; iii) sejam locais onde é proibido fumar;\n\ni) sejam claramente delimitados e assinalados por painéis;\n\nii) só possam ser acessíveis aos trabalhadores que, por razões de trabalho ou em virtude das suas funções aí sejam obrigados a entrar, e não a quaisquer outros;\n\niii) sejam locais onde é proibido fumar;\n\nb) Sejam previstas áreas que permitam aos trabalhadores comer e beber sem correr o risco de contaminação pelas poeiras do amianto;\n\nc) Sejam postas à disposição dos trabalhadores roupas de trabalho ou de protecção adequadas. Tais roupas de trabalho ou protecção permanecem na empresa. Podem, no entanto, ser lavadas em lavandarias equipadas para este género de operações situadas fora da empresa, quando esta não proceda à sua lavagem. Neste caso, o transporte das roupas será efectuado em recipientes fechados;\n\nd) Exista um vestiário separado para as roupas de trabalho ou de protecção e outro para as roupas de uso normal;\n\ne) Sejam postas à disposição dos trabalhadores instalações sanitárias adequadas, incluindo duches no caso de operações que envolvam poeiras;\n\nf) Sejam colocados num local determinado equipamentos de protecção. Estes devem ser verificados e limpos após cada utilização e devem ser tomadas as medidas apropriadas para reparar ou substituir equipamentos defeituosos antes de nova utilização.\n\n2. O custo das medidas tomadas para aplicação das disposições previstas no n.º 1 não é suportado pelos trabalhadores."
+  },
+  "aa8904493ffc8c19": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. São adoptadas, relativamente às actividades previstas no n.º 1 do artigo 3.º, as medidas necessárias para que os trabalhadores, bem como os seus representantes na empresa ou estabelecimento, recebam uma adequada informação sobre:\n\na) Os riscos potenciais para a saúde devidos a uma exposição às poeiras provenientes do amianto ou dos materiais que contenham amianto;\n\nb) A existência de valores-limite regulamentares e a necessidade da vigilância da atmosfera;\n\nc) Prescrições relativas às medidas de higiene, incluindo a necessidade de não fumar;\n\nd) As precauções a tomar no transporte e no uso dos equipamentos e das roupas de protecção;\n\ne) As precauções especiais destinadas a minimizar a exposição ao amianto.\n\n2. Além das medidas referidas no n.º 1, e sem prejuízo do disposto no n.º 3 do artigo 3.º, são tomadas as medidas adequadas para que:\n\na) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento tenham acesso aos resultados das medições sobre a quantidade de amianto existente na atmosfera e possam receber as explicações necessárias à compreensão do significado desses resultados;\n\nb) Se os resultados ultrapassarem o valor-limite estabelecido no artigo 8.º, os trabalhadores em causa, assim como os seus representantes na empresa ou no estabelecimento, sejam informados o mais rapidamente possível dessa ultrapassagem e das suas causas e sejam consultados quanto às medidas a tomar ou, em caso de emergência, informados das medidas tomadas."
+  },
+  "9453b03b99f2eb20": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas previstas nos n.^os^ 2 a 5.\n\n2. Deve ser dada a todos os trabalhadores a possibilidade de obter um relatório sobre o seu estado de saúde anterior à exposição às poeiras do amianto ou dos materiais que contenham amianto.\n\nEsta avaliação inclui um exame específico do tórax. No anexo I, são dadas recomendações práticas às quais os Estados-Membros se podem reportar para a vigilância clínica dos trabalhadores. Estas recomendações são adaptadas em função do progresso técnico pelo procedimento referido no artigo 17.º da Directiva 89/391/CEE.\n\nUma nova avaliação deve ser facultada, pelo menos uma vez de três em três anos, durante todo o tempo que venha a durar a exposição.\n\nÉ organizado, relativamente a cada trabalhador, um processo médico individual, em conformidade com as legislações e/ou as práticas nacionais.\n\n3. Na sequência da vigilância clínica referida no segundo parágrafo do n.º 2, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores devem, em conformidade com as legislações nacionais, pronunciar-se sobre as eventuais medidas individuais de protecção ou de prevenção a adoptar ou determinar essas medidas.\n\nEssas medidas podem incluir, se for caso disso, o afastamento do trabalhador afectado por qualquer exposição às poeiras provenientes do amianto ou dos materiais que contenham amianto.\n\n4. Devem ser facultadas aos trabalhadores informações e conselhos relativamente a qualquer exame de controlo do seu estado de saúde a que se possam submeter, uma vez terminada a exposição.\n\nO médico ou a autoridade responsável pelo exame médico dos trabalhadores podem indicar a necessidade de continuar o controlo médico depois de terminada a exposição, durante o tempo que considerarem necessário para preservar a saúde do interessado.\n\nEsta vigilância prolongada tem lugar de acordo com as legislações e/ou práticas nacionais;\n\n5. O trabalhador em causa ou o empregador pode solicitar a revisão das avaliações referidas no n.º 3, de acordo com as legislações nacionais."
+  },
+  "a33a48ddbb0944ae": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas previstas nos n.^os^ 2, 3 e 4.\n\n2. Os trabalhadores encarregados de exercer as actividades referidas no n.º 1 do artigo 3.º são inscritos pelo empregador num registo que indique a natureza e a duração da respectiva actividade, bem como a exposição a que tenham sido submetidos. O médico e/ou a autoridade responsável pela vigilância médica têm acesso a esse registo. Cada trabalhador atingido tem acesso aos seus resultados contidos no registo. Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento têm acesso às informações colectivas anónimas contidas no mesmo registo;\n\n3. O registo referido no n.º 2 e os processos médicos individuais referidos no quarto parágrafo do n.º 2 do artigo 18.º são conservados, no mínimo, durante 40 anos depois de terminada a exposição, de acordo com as legislações e/ou as práticas nacionais.\n\n4. Caso a empresa cesse a sua actividade, os documentos referidos no n.º 3 são colocados à disposição da autoridade competente, de acordo com as legislações e/ou práticas nacionais."
+  },
+  "d14d3ae1083a9706": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-Membros devem estabelecer sanções adequadas a aplicar em caso de violação das disposições da legislação nacional aprovada nos termos da presente directiva. Tais sanções devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "aad89fef69242d97": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-Membros mantêm um registo dos casos reconhecidos como asbestose e mesotelioma."
+  },
+  "df34b797cf58d6fe": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nDe cinco em cinco anos, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação prática da presente directiva, sob a forma de um capítulo específico do relatório único previsto nos n.^os^ 1, 2 e 3 do artigo 17.º-A da Directiva 89/391/CEE que serve de base à avaliação a efectuar pela Comissão, nos termos do referido n.º 4 do artigo 17.º-A."
+  },
+  "8f85cf7dc17214ce": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs Estados-Membros comunicam à Comissão as disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "d0e9a730a07b37fc": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nÉ revogada a Directiva 83/477/CEE, alterada pelas directivas referidas no anexo II, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional das directivas indicados na parte B do anexo II.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "6160ff48fcf4f46c": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "8e3fb458d5922cc1": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Novembro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**B. ASK**\n\n---"
+  },
+  "5593548384ab5f80": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc1-L_2009330PT.01002801-E0001) Parecer de 10 de Junho de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc2-L_2009330PT.01002801-E0002) Parecer do Parlamento Europeu de 20 de Outubro de 2009 (ainda não publicado no Jornal Oficial) e Decisão do Conselho de 26 de Novembro de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc3-L_2009330PT.01002801-E0003) [JO L 263 de 24.9.1983, p. 25](http://publications.europa.eu/resource/oj/JOL_1983_263_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc4-L_2009330PT.01002801-E0004) Ver parte A do anexo II.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc5-L_2009330PT.01002801-E0005) Número de registo do Chemical Abstract Service (CAS).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc6-L_2009330PT.01002801-E0006) [JO L 377 de 31.12.1991, p. 20](http://publications.europa.eu/resource/oj/JOL_1991_377_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc7-L_2009330PT.01002801-E0007) *Determinação da concentração de fibras em suspensão no ar. Método recomendado: a microscopia de contraste de fase (método de filtro de membrana)*. OMS, Genebra 1997 (ISBN 92 4 154496 1).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0018.02/DOC_1#ntc8-L_2009330PT.01002801-E0008) [JO L 183 de 29.6.1989, p. 1](http://publications.europa.eu/resource/oj/JOL_1989_183_R_TOC)."
+  },
+  "ffcfaa8a061ceff6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nrelativa à protecção dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho\n\n(versão codificada)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "cbe887b1bf5d6741": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, o termo «amianto» designa os seguintes silicatos fibrosos:\n\na) Amianto actinolite, número 77536-66-4 do CAS ([^1^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001));\n\nb) Amianto grunerite (amosite), número 12172-73-5 do CAS [(1)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001);\n\nc) Amianto antofilite, número 77536-67-5 do CAS [(1)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001);\n\nd) Crisólito, número 12001-29-5 do CAS [(1)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001);\n\ne) Crocidolite, número 12001-28-4 do CAS [(1)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001);\n\nf) Amianto tremolite, número 77536-68-6 do CAS [(1)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)."
+  },
+  "62d7556e93ab9e9c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nRelativamente a qualquer das actividades previstas no n.º 1 do artigo 3.º, a exposição dos trabalhadores a poeiras de amianto ou de materiais que contenham amianto no local de trabalho deve ser reduzida ao mínimo, devendo imperativamente ser inferior ao valor-limite estabelecido no artigo 8.º, nomeadamente através das seguintes medidas:\n\na) O número de trabalhadores expostos ou susceptíveis de se encontrarem expostos a poeiras de amianto ou de materiais que contenham amianto deve ser reduzido ao mínimo possível;\n\nb) Os processos de trabalho devem ser concebidos de forma a não produzirem poeiras de amianto ou, se tal se revelar impossível, a que não haja libertação de poeiras de amianto na atmosfera;\n\nc) Todas as instalações e equipamentos que sirvam para o tratamento de amianto devem poder ser regularmente submetidos a uma limpeza e uma manutenção eficazes;\n\nd) O amianto ou os materiais que libertem poeiras de amianto ou que contenham amianto devem ser armazenados e transportados em embalagens fechadas apropriadas;\n\ne) Os resíduos devem ser recolhidos e removidos do local de trabalho com a maior brevidade possível, em embalagens fechadas apropriadas, com etiquetas ostentando a menção de que contêm amianto. Esta medida não se aplica às actividades mineiras. Estes resíduos devem ser tratados de acordo com a Directiva 91/689/CEE do Conselho, de 12 de Dezembro de 1991, relativa aos resíduos perigosos ([^2^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0002))."
+  },
+  "809c7d4965661c65": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Em função dos resultados da avaliação inicial dos riscos, e a fim de garantir a observância do valor-limite estabelecido no artigo 8.º, procede-se regularmente à medição da concentração em fibras de amianto na atmosfera do local de trabalho.\n\n2. As amostragens devem ser representativas da exposição pessoal do trabalhador às poeiras de amianto, ou de materiais que contenham amianto.\n\n3. As amostragens são efectuadas depois de consultados os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento.\n\n4. A colheita de amostras é feita por pessoal possuindo qualificações adequadas. As amostras são depois analisadas de acordo com o n.º 6 em laboratórios devidamente equipados para a contagem de fibras.\n\n5. A duração da amostragem deve ser de modo a que, por cada medição ou cálculo ponderado no tempo, seja possível determinar uma exposição representativa relativamente a um período de referência de 8 horas (um turno).\n\n6. A contagem das fibras é executada preferencialmente por microscópio de contraste de fase (PCM), em conformidade com o método recomendado pela Organização Mundial de Saúde (OMS) em 1997 ([^3^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0003)), ou por qualquer outro método que dê resultados equivalentes.\n\nPara a medição do amianto na atmosfera, referida no n.º 1, são tidas em conta apenas as fibras que apresentem um comprimento superior a 5 micrómetros e uma largura inferior a 3 micrómetros e cuja relação comprimento/largura seja superior a 3:1."
+  },
+  "635f68ddd99a31b4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É estabelecido um plano antes do início dos trabalhos de demolição ou da remoção do amianto e/ou de materiais que contenham amianto, das construções, estruturas, aparelhos e instalações, bem como dos navios.\n\n2. O plano referido no n.º 1 deve prever as medidas necessárias à segurança e à saúde dos trabalhadores no local de trabalho.\n\nO plano deve prever, em especial, que:\n\na) O amianto e/ou os materiais que contenham amianto sejam removidos antes da aplicação das técnicas de demolição, excepto nos casos em que essa remoção possa representar um risco maior para os trabalhadores do que a manutenção *in situ* do amianto e/ou dos materiais que o contêm;\n\nb) O equipamento de protecção individual referido na alínea a) do primeiro parágrafo do artigo 12.º seja fornecido, sempre que necessário;\n\nc) Quando os trabalhos de demolição ou de remoção do amianto forem dados por concluídos, a ausência de riscos derivados da exposição ao amianto no local de trabalho seja verificada em conformidade com a legislação e/ou práticas nacionais.\n\nA pedido das autoridades competentes, o plano deve incluir informações sobre os seguintes pontos:\n\na) Natureza e duração provável dos trabalhos;\n\nb) Local onde são efectuados os trabalhos;\n\nc) Métodos utilizados sempre que os trabalhos impliquem a manipulação de amianto ou de materiais que contenham amianto;\n\nd) Características dos equipamentos utilizados para fins:\n\ni) de protecção e descontaminação do pessoal encarregado dos trabalhos;\n\nii) de protecção das outras pessoas que se encontrem no local dos trabalhos ou na sua proximidade.\n\n3. A pedido das autoridades competentes, o plano a que se refere o n.º 1 deve ser-lhes comunicado antes do início dos trabalhos previstos."
+  },
+  "b47b0d561c2f772c": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Relativamente a qualquer das actividades referidas no n.º 1 do artigo 3.º, e sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas adequadas para que:\n\na) Os locais em que se executem estas actividades:\n\ni) sejam claramente delimitados e assinalados por painéis;\n\nii) só possam ser acessíveis aos trabalhadores que, por razões de trabalho ou em virtude das suas funções aí sejam obrigados a entrar, e não a quaisquer outros;\n\niii) sejam locais onde é proibido fumar;\n\nb) Sejam previstas áreas que permitam aos trabalhadores comer e beber sem correr o risco de contaminação pelas poeiras do amianto;\n\nc) Sejam postas à disposição dos trabalhadores roupas de trabalho ou de protecção adequadas. Tais roupas de trabalho ou protecção permanecem na empresa. Podem, no entanto, ser lavadas em lavandarias equipadas para este género de operações situadas fora da empresa, quando esta não proceda à sua lavagem. Neste caso, o transporte das roupas será efectuado em recipientes fechados;\n\nd) Exista um vestiário separado para as roupas de trabalho ou de protecção e outro para as roupas de uso normal;\n\ne) Sejam postas à disposição dos trabalhadores instalações sanitárias adequadas, incluindo duches no caso de operações que envolvam poeiras;\n\nf) Sejam colocados num local determinado equipamentos de protecção. Estes devem ser verificados e limpos após cada utilização e devem ser tomadas as medidas apropriadas para reparar ou substituir equipamentos defeituosos antes de nova utilização.\n\n2. O custo das medidas tomadas para aplicação das disposições previstas no n.º 1 não é suportado pelos trabalhadores."
+  },
+  "da6a9bce3242bbc0": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas previstas nos n.^os^ 2 a 5.\n\n2. Deve ser dada a todos os trabalhadores a possibilidade de obter um relatório sobre o seu estado de saúde anterior à exposição às poeiras do amianto ou dos materiais que contenham amianto.\n\nEsta avaliação inclui um exame específico do tórax. O anexo I contém recomendações práticas a que os Estados-Membros se podem referir para a vigilância clínica dos trabalhadores. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º-A no que diz respeito a alterar o anexo I, a fim de adaptá-lo ao progresso técnico.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 18.º-B aos atos delegados adotados nos termos do presente artigo.\n\nUma nova avaliação deverá ser facultada, pelo menos uma vez de três em três anos, durante todo o tempo que venha a durar a exposição.\n\nÉ organizado, relativamente a cada trabalhador, um processo médico individual, em conformidade com as legislações e/ou as práticas nacionais a que se refere o primeiro parágrafo.\n\n3. Na sequência da vigilância clínica referida no segundo parágrafo do n.º 2, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores devem, em conformidade com as legislações nacionais, pronunciar-se sobre as eventuais medidas individuais de protecção ou de prevenção a adoptar ou determinar essas medidas.\n\nEssas medidas podem incluir, se for caso disso, o afastamento do trabalhador afectado por qualquer exposição às poeiras provenientes do amianto ou dos materiais que contenham amianto.\n\n4. Devem ser facultadas aos trabalhadores informações e conselhos relativamente a qualquer exame de controlo do seu estado de saúde a que se possam submeter, uma vez terminada a exposição.\n\nO médico ou a autoridade responsável pelo exame médico dos trabalhadores podem indicar a necessidade de continuar o controlo médico depois de terminada a exposição, durante o tempo que considerarem necessário para preservar a saúde do interessado.\n\nEsta vigilância prolongada tem lugar de acordo com as legislações e/ou práticas nacionais;\n\n5. O trabalhador em causa ou o empregador pode solicitar a revisão das avaliações referidas no n.º 3, de acordo com as legislações nacionais."
+  },
+  "17739600616de12c": {
+   "fragment_id": "Artigo 18.º-A",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 18.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 18.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^4^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0005)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 18.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "ddb7ae55cc350134": {
+   "fragment_id": "Artigo 18.º-B",
+   "type": "artigo",
+   "heading": "Artigo 18.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-B\n\n1. Os atos delegados adotados nos termos do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenha sido formulada qualquer objeção nos termos do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 18.º-A, n.º 6. Nesse caso, a Comissão revoga imediatamente o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "b204ba0058a54d5b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "58775c469b42ad28": {
+   "fragment_id": "Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+   "type": "divisao",
+   "heading": "Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º\n\n1. De acordo com os conhecimentos actuais, a exposição às fibras de amianto pode provocar as seguintes afecções:\n\n— asbestose,\n\n— mesotelioma,\n\n— cancro do pulmão,\n\n— cancro gastrintestinal.\n\n2. O médico e/ou a autoridade responsável pela vigilância médica dos trabalhadores expostos ao amianto devem conhecer as condições ou as circunstâncias em que cada trabalhador foi sujeito à exposição.\n\n3. O exame médico dos trabalhadores efectuar-se-á de acordo com os princípios e práticas da medicina do trabalho. Incluirá, no mínimo, as seguintes medidas:\n\n— organização do processo médico e profissional do trabalhador,\n\n— entrevista pessoal com o trabalhador,\n\n— exame clínico geral e nomeadamente do tórax,\n\n— exames da função respiratória (espirometria e curva débito-volume)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "cbeebabfd1551dec": {
+   "fragment_id": "Directiva revogada com a lista das suas sucessivas alterações",
+   "type": "divisao",
+   "heading": "Directiva revogada com a lista das suas sucessivas alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Directiva revogada com a lista das suas sucessivas alterações"
+  },
+  "5326d0ff1c53377a": {
+   "fragment_id": "(referidas no artigo 24.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 24.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 24.º)\n\nDirectiva 83/447/CEE do Conselho (JO L 263 de 24.9.1983, p. 25).\n\nDirectiva 91/382/CEE do Conselho (JO L 206 de 29.7.1991, p. 16).\n\nDirectiva 98/24/CE do Conselho (JO L 131 de 5.5.1998, p. 11). Apenas o n.º 2 do artigo 13.º\n\nDirectiva 2003/18/CE do Parlamento Europeu e do Conselho (JO L 97 de 15.4.2003, p. 48).\n\nDirectiva 2007/30/CE do Parlamento Europeu e do Conselho (JO L 165 de 27.6.2007, p. 21). Apenas o n.º 1 do artigo 2.º"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "9b6fa0abff421748": {
+   "fragment_id": "Prazos de transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "Prazos de transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prazos de transposição para o direito nacional"
+  },
+  "c47794311d8dd021": {
+   "fragment_id": "(referidos no artigo 24.º)",
+   "type": "divisao",
+   "heading": "(referidos no artigo 24.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 24.º)\n\n| Directiva | Prazo de transposição |\n| --- | --- |\n| 83/477/CEE | 31 de Dezembro de 1986 [(^1^)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0006) |\n| 91/382/CEE | 1 de Janeiro de 1993 [(^2^)](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0007) |\n| 98/24/CE | 5 de Maio de 2001 |\n| 2003/18/CE | 14 de Abril de 2006 |\n| 2007/30/CE | 31 de Dezembro de 2012 |\n| (^1^)Esta data é substituída por 31 de Dezembro de 1989 no que toca às actividades extractivas do amianto. (^2^)No que diz respeito à República Helénica, o prazo de transposição da directiva é 1 de Janeiro de 1996. Todavia, o prazo de transposição das disposições no que toca às actividades extractivas de amianto é 1 de Janeiro de 1996 para todos os Estados-Membros e de 1 de Janeiro de 1999 para a República Helénica. |  |"
+  },
+  "ae14548957d6054a": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDirectiva 83/477/CEE Presente directiva\n\nArtigo 1.º, n.º 1 Artigo 1.º, n.º 1\n\nArtigo 1.º, n.º 2 —\n\nArtigo 1.º, n.º 3 Artigo 1.º, n.º 2\n\nArtigo 2.º, primeiro a sexto travessões Artigo 2.º, alíneas a) a f)\n\nArtigo 3.º, n.^os^ 1 a 3 Artigo 3.º, n.^os^ 1 a 3\n\nArtigo 3.º, n.º 3-A Artigo 3.º, n.º 4\n\nArtigo 3.º, n.º 4 Artigo 3.º, n.º 5\n\nArtigo 4.º, proémio Artigo 4.º, n.º 1\n\nArtigo 4.º, ponto 1 Artigo 4.º, n.º 2\n\nArtigo 4.º, ponto 2 Artigo 4.º, n.º 3\n\nArtigo 4.º, ponto 3 Artigo 4.º, n.º 4\n\nArtigo 4.º, ponto 4 Artigo 4.º, n.º 5\n\nArtigo 5.º Artigo 5.º\n\nArtigo 6.º, pontos 1 a 5 Artigo 6.º, alíneas a) a e)\n\nArtigos 7.º e 8.º Artigos 7.º e 8.º\n\nArtigo 9.º, n.º 2 Artigo 9.º\n\nArtigo 10.º Artigo 10.º\n\nArtigo 10.º-A Artigo 11.º\n\nArtigo 11.º, n.^os^ 1 e 2 Artigo 12.º, primeiro e segundo parágrafos\n\nArtigo 12.º, n.º 1 Artigo 13.º, n.º 1\n\nArtigo 12.º, n.º 2, primeiro parágrafo Artigo 13.º, n.º 2, primeiro parágrafo\n\nArtigo 12.º, n.º 2, segundo parágrafo, primeiro travessão Artigo 13.º, n.º 2, segundo parágrafo,alínea a)\n\nArtigo 12.º, n.º 2, segundo parágrafo, segundo travessão Artigo 13.º, n.º 2, segundo parágrafo,alínea b)\n\nArtigo 12.º, n.º 2, segundo parágrafo, terceiro travessão Artigo 13.º, n.º 2, segundo parágrafo,alínea c)\n\nArtigo 12.º, n.º 2, terceiro parágrafo, primeiro travessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea a)\n\nArtigo 12.º, n.º 2, terceiro parágrafo, segundo travessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea b)\n\nArtigo 12.º, n.º 2, terceiro parágrafo,terceiro travessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea c)\n\nArtigo 12.º, n.º 2, terceiro parágrafo,quarto travessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea d)\n\nArtigo 12.º, n.º 2, terceiro parágrafo,quarto travessão, primeiro subtravessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea d), subalínea i)\n\nArtigo 12.º, n.º 2, terceiro parágrafo,quarto travessão, segundo subtravessão Artigo 13.º, n.º 2, terceiro parágrafo,alínea d), subalínea ii)\n\nArtigo 12.º, n.º 3 Artigo 13.º, n.º 3\n\nArtigo 12.º-A Artigo 14.º\n\nArtigo 12.º-B Artigo 15.º\n\nArtigo 13.º, n.º 1, alínea a) Artigo 16.º, n.º 1, alínea a)\n\nArtigo 13.º, n.º 1, alínea b) Artigo 16.º, n.º 1, alínea b)\n\nArtigo 13.º, n.º 1, alínea c), subalíneas i) e ii) Artigo 16.º, n.º 1, alínea c)\n\nArtigo 13.º, n.º 1, alínea c), subalínea iii) Artigo 16.º, n.º 1, alínea d)\n\nArtigo 13.º, n.º 1, alínea c), subalínea iv) Artigo 16.º, n.º 1, alínea e)\n\nArtigo 13.º, n.º 1, alínea c), subalínea v) Artigo 16.º, n.º 1, alínea f)\n\nArtigo 13.º, n.º 2 Artigo 16.º, n.º 2\n\nArtigo 14.º, n.º 1, proémio Artigo 17.º, n.º 1, proémio\n\nArtigo 14.º, n.º 1, primeiro a quinto travessões Artigo 17.º, n.º 1, alíneas a) a e)\n\nArtigo 14.º, n.º 2 Artigo 17.º, n.º 2\n\nArtigo 15.º, proémio Artigo 18.º, n.º 1\n\nArtigo 15.º, pontos 1 a 4 Artigo 18.º, n.^os^ 2 a 5\n\nArtigo 16.º, proémio Artigo 19.º, n.º 1\n\nArtigo 16.º, pontos 1 a 3 Artigo 19.º, n.^os^ 2 a 4\n\nArtigo 16.º-A Artigo 20.º\n\nArtigo 17.º Artigo 21.º\n\nArtigo 17.º-A Artigo 22.º\n\nArtigo 18.º, n.º 1 —\n\nArtigo 18.º, n.º 2 Artigo 23.º\n\n— Artigo 24.º\n\n— Artigo 25.º\n\nArtigo 19.º Artigo 26.º\n\nAnexo II Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "515c3d27c212578a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Número de registo do Chemical Abstract Service (CAS).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 377 de 31.12.1991, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0003)) *Determinação da concentração de fibras em suspensão no ar. Método recomendado: a microscopia de contraste de fase (método de filtro de membrana)*. OMS, Genebra 1997 (ISBN 92 4 154496 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/91b8451a-e62d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0005)) JO L 123 de 12.5.2016, p. 1."
+  },
+  "cb5a88b3c46b5b91": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva tem por objecto a protecção dos trabalhadores contra os riscos para a sua saúde, incluindo a prevenção desses riscos, decorrentes ou podendo decorrer da exposição ao amianto durante o trabalho.\n\nA directiva fixa o valor-limite desta exposição e estabelece outras disposições específicas.\n\nAs disposições da Diretiva 2004/37/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0001)) são aplicáveis sempre que sejam mais favoráveis para a saúde e a segurança dos trabalhadores durante o trabalho.\n\n2. A presente directiva não prejudica a possibilidade de os Estados-Membros aplicarem ou adoptarem disposições legislativas, regulamentares ou administrativas que assegurem uma melhor protecção dos trabalhadores, especialmente no que diz respeito à substituição do amianto por produtos menos perigosos."
+  },
+  "e9e4efe1b7fa579d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente diretiva, entende-se por «amianto» os seguintes silicatos fibrosos, classificados como cancerígenos da categoria 1A nos termos do anexo VI, parte 3, do Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0002)):\n\na) amianto, actinolite, n.º CAS ([^3^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0003)) 77536-66-4;\n\nb) amianto, amosite (grunerite), n.º CAS 12172-73-5;\n\nc) amianto, antofilite, n.º CAS 77536-67-5;\n\nd) amianto, crisótilo, n.º CAS 12001-29-5;\n\ne) amianto, crocidolite, n.º CAS 12001-28-4;\n\nf) amianto, tremolite, n.º CAS 77536-68-6."
+  },
+  "abdf45cca036d002": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A presente directiva aplica-se às actividades no exercício das quais, durante o trabalho, os trabalhadores estão ou podem ficar expostos às poeiras provenientes do amianto ou de materiais que contenham amianto.\n\n2. Relativamente às atividades suscetíveis de apresentar um risco de exposição às poeiras provenientes do amianto ou de materiais que contenham amianto, esse risco deve ser avaliado de forma a determinar a natureza e o grau de exposição dos trabalhadores às poeiras provenientes do amianto ou dos materiais que contenham amianto e a dar prioridade à remoção de amianto ou de materiais que contenham amianto, em detrimento de outras formas de manuseamento do amianto.\n\n3.\n\nNos casos em que os trabalhadores estejam sujeitos a exposições esporádicas e de fraca intensidade e sempre que os resultados da avaliação dos riscos a que se refere o n.º 2 do presente artigo demonstrem claramente que o valor-limite pertinente estabelecido no artigo 8.º não é excedido na atmosfera da zona de trabalho, os Estados-Membros podem derrogar o disposto no artigo 4.º, quando os trabalhos a efetuar implicarem:\n\na) Actividades de manutenção descontínuas e de curta duração, durante as quais o trabalho incide unicamente sobre materiais não friáveis;\n\nb) Remoção, sem deterioração, de materiais não degradados nos quais as fibras de amianto estão firmemente aglomeradas;\n\nc) Encapsulamento e revestimento de materiais que contêm amianto e que se encontram em bom estado;\n\nd) Vigilância e controlo da qualidade do ar e recolha de amostras com o objectivo de detectar a presença de amianto num dado material.\n\n4. Os Estados-Membros estabelecem, após consulta dos representantes dos parceiros sociais e em conformidade com as legislações e práticas nacionais, orientações práticas para a determinação da exposição esporádica e de fraca intensidade, tal como previsto no n.º 3.\n\n5. A avaliação referida no n.º 2 é objecto de consulta aos trabalhadores e/ou aos seus representantes na empresa ou estabelecimento e é revista quando surjam razões que levam a considerá-la incorrecta ou quando se verifique qualquer modificação no sistema de trabalho."
+  },
+  "07e33294b11b39c4": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Sem prejuízo do disposto no n.º 3 do artigo 3.º, são adoptadas as medidas referidas nos n.^os^ 2 a 5.\n\n2. As actividades referidas no n.º 1 do artigo 3.º são objecto de um sistema de comunicação gerido pela autoridade competente do Estado-Membro.\n\n3. A comunicação referida no n.º 2 é feita pelo empregador à autoridade competente do Estado-Membro, antes do início dos trabalhos, em conformidade com as disposições legislativas, regulamentares e administrativas nacionais.\n\nA referida notificação deve incluir, no mínimo, uma descrição sucinta dos seguintes elementos:\n\na) Local do estaleiro e, se for caso disso, áreas específicas em que os trabalhos devem ser realizados;\n\nb) Tipo e quantidade de amianto utilizado ou manipulado;\n\nc) As atividades e processos envolvidos, incluindo no que diz respeito à proteção e descontaminação dos trabalhadores, à eliminação de resíduos e, se for caso disso, à renovação do ar em caso de trabalho em ambiente fechado;\n\nd) Número de trabalhadores envolvidos, uma lista dos trabalhadores suscetíveis de serem afetados ao estaleiro em causa, e os certificados individuais de formação dos trabalhadores e a data da mais recente avaliação da saúde dos trabalhadores, nos termos do artigo 18.º;\n\ne) Data de início dos trabalhos e respetiva duração;\n\nf) As medidas tomadas, inclusive uma síntese do equipamento utilizado, para limitar a exposição dos trabalhadores ao amianto.\n\nOs Estados-Membros asseguram que as autoridades competentes conservem as informações referidas na alínea d) do segundo parágrafo, em conformidade com o direito nacional, apenas durante o período necessário para garantir que os trabalhadores que realizam trabalhos relacionados com o amianto recebam formação adequada, tendo devidamente em conta os efeitos a longo prazo do amianto na saúde dos trabalhadores.\n\n4. Os trabalhadores e/ou os seus representantes na empresa ou estabelecimento têm acesso ao documento relativo à comunicação prevista no n.º 2 feita pela sua empresa ou estabelecimento, de acordo com as legislações nacionais.\n\n5. Sempre que se verifique uma modificação nas condições de trabalho que possa implicar um aumento significativo da exposição a poeiras de amianto ou de materiais que contenham amianto, deve ser feita uma nova comunicação."
+  },
+  "9880129581859444": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nRelativamente a qualquer das atividades previstas no n.º 1 do artigo 3.º, a exposição dos trabalhadores a poeiras de amianto ou de materiais que contenham amianto no local de trabalho deve ser reduzida ao mínimo e, em qualquer caso, ser tão reduzida quanto tecnicamente possível e inferior aos valores-limite pertinentes estabelecidos no artigo 8.º, nomeadamente através das seguintes medidas:\n\na) O número de trabalhadores expostos ou suscetíveis de se encontrarem expostos a poeiras de amianto ou de materiais que contenham amianto deve ser reduzido ao mínimo possível;\n\nb) Os processos de trabalho devem ser concebidos de forma a não produzirem poeiras de amianto ou, se tal se revelar impossível, a que não haja libertação de poeiras de amianto na atmosfera, tomando medidas como, por exemplo:\n\ni) a eliminação das poeiras de amianto,\n\nii) a aspiração das poeiras de amianto na fonte,\n\niii) a sedimentação contínua das fibras de amianto suspensas na atmosfera;\n\nb-A) Os trabalhadores são sujeitos a um procedimento adequado de descontaminação;\n\nb-B) Em caso de trabalhos efetuados em ambiente fechado, é assegurada proteção adequada;\n\nc) Todas as instalações e todos os equipamentos que sirvam para o tratamento de amianto devem estar em condições de poderem ser regularmente submetidos a uma limpeza e uma manutenção eficazes e ser regularmente sujeitos às referidas intervenções;\n\nd) O amianto ou os materiais que libertem poeiras que contenham amianto devem ser armazenados e transportados em embalagens fechadas apropriadas;\n\ne) Os resíduos, que não sejam resíduos provenientes de atividades mineiras, devem ser recolhidos e removidos do local de trabalho com a maior brevidade possível, em embalagens fechadas apropriadas, com etiquetas ostentando a menção de que contêm amianto e devem ser tratados de acordo com a Diretiva 2008/98/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0004))."
+  },
+  "f1b0ef797df88a1d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Em função dos resultados da avaliação inicial dos riscos, e a fim de garantir a observância do valor-limite pertinente estabelecido no artigo 8.º, a medição de fibras de amianto na atmosfera do local de trabalho deve ser realizada a intervalos regulares durante fases operacionais específicas.\n\n2. A amostragem tem de refletir a exposição pessoal do trabalhador às poeiras de amianto, ou a materiais que contenham amianto.\n\n3. As amostragens são efectuadas depois de consultados os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento.\n\n4. A colheita de amostras é feita por pessoal possuindo qualificações adequadas. As amostras são depois analisadas de acordo com o n.º 6 em laboratórios devidamente equipados para a contagem de fibras.\n\n5. A duração da amostragem é feita de modo a que, através de uma medição ou de um cálculo ponderado no tempo, seja possível determinar uma exposição representativa relativamente a um período de referência de 8 horas (um turno).\n\n6. A contagem das fibras é concretizada por microscopia eletrónica ou por qualquer método alternativo que dê resultados equivalentes ou mais precisos.\n\n7. Para efeitos da medição de fibras de amianto na atmosfera, referida no n.º 1, são tidas em conta apenas as fibras que apresentem um comprimento superior a 5 micrómetros, uma largura inferior a 3 micrómetros e cuja relação comprimento/largura seja superior a 3:1.\n\nNão obstante o primeiro parágrafo do presente número, são igualmente tidas em conta as fibras de largura inferior a 0,2 micrómetros para efeitos do artigo 8.º, n.º 2, alínea a), a partir de 21 de dezembro de 2029."
+  },
+  "716622c65383b212": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Até 20 de dezembro de 2029, os empregadores asseguram que nenhum trabalhador seja exposto a uma concentração de amianto em suspensão no ar superior a 0,01 fibras por cm^3^, medida relativamente a uma média ponderada no tempo (TWA) para um período de 8 horas.\n\n2.\n\nA partir de 21 de dezembro de 2029, os empregadores asseguram que nenhum trabalhador seja exposto a uma concentração de amianto em suspensão no ar superior a:\n\na) 0,01 fibras por cm^3^ como TWA para um período de 8 horas, em conformidade com o artigo 7.º, n.º 7, segundo parágrafo; ou\n\nb) 0,002 fibras por cm^3^ TWA para um período de 8 horas.\n\n3. Os Estados-Membros asseguram que os empregadores estejam sujeitos a, pelo menos, um dos valores-limite estabelecidos no n.º 2."
+  },
+  "d3cc0e9122b70557": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Sempre que seja ultrapassado o valor-limite pertinente estabelecido no artigo 8.º ou haja motivo para crer que foram alterados materiais não identificados antes do início dos trabalhos que contenham amianto a ponto de gerar poeiras, o trabalho cessa imediatamente.\n\nO trabalho só prossegue na zona afetada após a adoção das medidas adequadas para proteger os trabalhadores em causa.\n\nSempre que seja ultrapassado o valor-limite pertinente estabelecido no artigo 8.º, devem ser identificadas as causas dessa ultrapassagem e devem ser tomadas, o mais rapidamente possível, as medidas necessárias para resolver a situação.\n\n2. Para verificação da eficácia das medidas referidas no primeiro parágrafo do n.º 1, procede-se imediatamente à determinação da quantidade de amianto existente na atmosfera.\n\n3. Quando não for possível reduzir a exposição por outros meios, e se o valor-limite impuser o porte de equipamento individual de proteção respiratória, essa situação não pode ser permanente e deve ser limitada ao mínimo estritamente necessário para cada trabalhador. Durante os períodos de trabalho que requerem a utilização de equipamento individual de proteção respiratória, são previstas pausas regulares, em função das condições físicas e climáticas, e, se for caso disso, em consulta aos trabalhadores e/ou os seus representantes, em conformidade com o direito e as práticas nacionais."
+  },
+  "9ea210f2887f059e": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAntes de iniciarem os trabalhos de demolição, de manutenção ou de renovação em instalações construídas antes da entrada em vigor da proibição do amianto no Estado-Membro, os empregadores devem tomar todas as medidas adequadas para identificarem os materiais que presumivelmente contenham amianto, nomeadamente recorrendo a informações prestadas pelos proprietários dessas mesmas instalações ou por outros empregadores, e outras fontes de informação, incluindo os registos pertinentes. Se essas informações não estiverem disponíveis, o empregador garante a realização de um exame por um operador qualificado, em conformidade com o direito e as práticas nacionais, da presença de materiais que contenham amianto, obtendo o resultado desse exame antes do início dos trabalhos. O empregador coloca à disposição de outro empregador, mediante pedido e unicamente para efeitos do cumprimento da obrigação prevista no presente parágrafo, todas as informações obtidas no âmbito de tal exame.\n\nSe existirem quaisquer dúvidas quanto à presença de amianto num material ou numa construção, deve observar-se as disposições aplicáveis da presente directiva."
+  },
+  "00193af8b67f6b81": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara certas atividades, como os trabalhos de demolição, remoção de amianto, reparação e manutenção, relativamente às quais seja previsível a ultrapassagem do valor-limite pertinente previsto no artigo 8.º apesar do recurso a todas as medidas técnicas preventivas possíveis destinadas a limitar o teor de amianto na atmosfera, o empregador determina as medidas destinadas a assegurar a proteção dos trabalhadores durante o exercício dessas atividades, nomeadamente as seguintes:\n\na) Os trabalhadores recebem equipamento de proteção individual adequado que deve ser manuseado de forma adequada e, em especial no que diz respeito ao equipamento respiratório, deve ser ajustado individualmente, inclusivamente através de verificações do referido ajuste, em conformidade com a Diretiva 89/656/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0006));\n\nb) São colocados painéis de sinalização advertindo de que é previsível a ultrapassagem do valor-limite estabelecido no artigo 8.º; e\n\nc) É evitada a dispersão de poeiras de amianto ou de materiais que contenham amianto fora das instalações ou do local de ação e, no caso dos trabalhos realizados em ambiente fechado, o recinto com amianto é estanque e ventilado por extração mecânica.\n\nOs trabalhadores e/ou os seus representantes na empresa ou no estabelecimento são consultados sobre estas medidas antes de serem iniciadas estas actividades."
+  },
+  "ccdd54788c2a2bdc": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É estabelecido um plano antes do início dos trabalhos de demolição ou da remoção do amianto e/ou de materiais que contenham amianto, das construções, estruturas, aparelhos e instalações, bem como dos navios.\n\n2. O plano referido no n.º 1 deve prever as medidas necessárias à segurança e à saúde dos trabalhadores no local de trabalho.\n\nO plano deve prever, em especial, que:\n\na) O amianto e/ou os materiais que contenham amianto sejam removidos antes da aplicação das técnicas de demolição, excepto nos casos em que essa remoção possa representar um risco maior para os trabalhadores do que a manutenção *in situ* do amianto e/ou dos materiais que o contêm;\n\nb) O equipamento de protecção individual referido na alínea a) do primeiro parágrafo do artigo 12.º seja fornecido, sempre que necessário;\n\nc) Quando os trabalhos de demolição ou remoção do amianto forem dados por concluídos, a ausência de riscos de exposição ao amianto no local de trabalho é verificada em conformidade com o direito e as práticas nacionais, antes do início de outras atividades.\n\nA pedido das autoridades competentes, o plano deve incluir informações sobre os seguintes pontos:\n\na) Natureza e duração provável dos trabalhos;\n\nb) Local onde são efectuados os trabalhos;\n\nc) Métodos utilizados sempre que os trabalhos impliquem a manipulação de amianto ou de materiais que contenham amianto;\n\nd) Características dos equipamentos utilizados para fins:\n\ni) de protecção e descontaminação do pessoal encarregado dos trabalhos;\n\nii) de protecção das outras pessoas que se encontrem no local dos trabalhos ou na sua proximidade.\n\n3. A pedido das autoridades competentes, o plano a que se refere o n.º 1 deve ser-lhes comunicado antes do início dos trabalhos previstos."
+  },
+  "e7fe2beb1721115e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os empregadores devem prever uma formação adequada para todos os trabalhadores expostos ou susceptíveis de estarem expostos a poeiras provenientes do amianto ou de materiais que contenham amianto. Esta formação deve ser dispensada regularmente e sem encargos para os trabalhadores.\n\n2. O conteúdo da formação deve ser facilmente compreensível para os trabalhadores. Deve permitir-lhes a aquisição dos conhecimentos e das competências necessários em matéria de prevenção e de segurança, em conformidade com o direito e as práticas nacionais aplicáveis no local onde o trabalho é realizado.\n\n3. Os requisitos mínimos em relação ao conteúdo, à duração e à frequência da formação ministrada nos termos do presente artigo e à respetiva documentação são especificados no anexo I-A."
+  },
+  "cf9d86c0f463269f": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. As empresas que pretendam realizar trabalhos de demolição ou remoção de amianto têm de obter uma licença renovável emitida pela autoridade competente antes do início dos trabalhos. Para o efeito, disponibilizam a essa autoridade competente, pelo menos, a prova de conformidade com o artigo 6.º e os certificados que atestam a conclusão da formação, em conformidade com o artigo 14.º e o anexo I-A.\n\n2. Os Estados-Membros disponibilizam ao público a lista das empresas que obtiveram uma licença nos termos do n.º 1, em conformidade com o direito e as práticas nacionais."
+  },
+  "8ccdb40afe579662": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1.\n\nRelativamente a qualquer das actividades referidas no n.º 1 do artigo 3.º, e sem prejuízo do n.º 3 do artigo 3.º, são adoptadas as medidas adequadas para que:\n\na) Os locais em que se executem estas actividades:\n\ni) sejam claramente delimitados e assinalados por painéis;\n\nii) só possam ser acessíveis aos trabalhadores que, por razões de trabalho ou em virtude das suas funções aí sejam obrigados a entrar, e não a quaisquer outros;\n\niii) sejam locais onde é proibido fumar;\n\nb) Sejam previstas áreas que permitam aos trabalhadores comer e beber sem correr o risco de contaminação pelas poeiras do amianto;\n\nc) Sejam postas à disposição dos trabalhadores roupas de trabalho ou de protecção adequadas. Tais roupas de trabalho ou protecção permanecem na empresa. Podem, no entanto, ser lavadas em lavandarias equipadas para este género de operações situadas fora da empresa, quando esta não proceda à sua lavagem. Neste caso, o transporte das roupas será efectuado em recipientes fechados;\n\nd) Exista um vestiário separado para as roupas de trabalho ou de protecção e outro para as roupas de uso normal;\n\ne) Sejam postas à disposição dos trabalhadores instalações sanitárias adequadas, incluindo duches no caso de operações que envolvam poeiras;\n\nf) Sejam colocados num local determinado equipamentos de protecção. Estes devem ser verificados e limpos após cada utilização e devem ser tomadas as medidas apropriadas para reparar ou substituir equipamentos defeituosos antes de nova utilização.\n\n2. O custo das medidas tomadas para aplicação das disposições previstas no n.º 1 não é suportado pelos trabalhadores."
+  },
+  "c7cfba5968941671": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1.\n\nSão adoptadas, relativamente às actividades previstas no n.º 1 do artigo 3.º, as medidas necessárias para que os trabalhadores, bem como os seus representantes na empresa ou estabelecimento, recebam uma adequada informação sobre:\n\na) Os riscos potenciais para a saúde devidos a uma exposição às poeiras provenientes do amianto ou dos materiais que contenham amianto;\n\nb) A existência de valores-limite regulamentares e a necessidade da vigilância da atmosfera;\n\nc) Prescrições relativas às medidas de higiene, incluindo a necessidade de não fumar;\n\nd) As precauções a tomar no transporte e no uso dos equipamentos e das roupas de protecção;\n\ne) As precauções especiais destinadas a minimizar a exposição ao amianto.\n\n2.\n\nAlém das medidas referidas no n.º 1, e sem prejuízo do disposto no n.º 3 do artigo 3.º, são tomadas as medidas adequadas para que:\n\na) Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento tenham acesso aos resultados das medições sobre a quantidade de amianto existente na atmosfera e possam receber as explicações necessárias à compreensão do significado desses resultados;\n\nb) Se os resultados ultrapassarem o valor-limite estabelecido no artigo 8.º, os trabalhadores em causa, assim como os seus representantes na empresa ou no estabelecimento, sejam informados o mais rapidamente possível dessa ultrapassagem e das suas causas e sejam consultados quanto às medidas a tomar ou, em caso de emergência, informados das medidas tomadas."
+  },
+  "4abf8b3a0673094d": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n2. Deve ser dada a todos os trabalhadores a possibilidade de obter um relatório sobre o seu estado de saúde anterior à exposição às poeiras do amianto ou dos materiais que contenham amianto.\n\nEsta avaliação inclui um exame específico do tórax. O anexo I contém recomendações práticas a que os Estados-Membros se podem referir para a vigilância clínica dos trabalhadores. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 18.º-A no que diz respeito a alterar o anexo I, a fim de adaptá-lo ao progresso técnico.\n\nSempre que, em casos excecionais e devidamente justificados que comportam riscos iminentes, diretos e graves para a saúde e a segurança físicas dos trabalhadores e de outras pessoas, existam imperativos de urgência que exijam uma ação num prazo muito curto, aplica-se o procedimento previsto no artigo 18.º-B aos atos delegados adotados nos termos do presente artigo.\n\nUma nova avaliação deverá ser facultada, pelo menos uma vez de três em três anos, durante todo o tempo que venha a durar a exposição.\n\nÉ organizado, relativamente a cada trabalhador, um processo médico individual, em conformidade com as legislações e/ou as práticas nacionais a que se refere o primeiro parágrafo.\n\n3. Na sequência da vigilância clínica referida no segundo parágrafo do n.º 2, o médico ou a autoridade responsável pela vigilância médica dos trabalhadores devem, em conformidade com as legislações nacionais, pronunciar-se sobre as eventuais medidas individuais de protecção ou de prevenção a adoptar ou determinar essas medidas.\n\nEssas medidas podem incluir, se for caso disso, o afastamento do trabalhador afectado por qualquer exposição às poeiras provenientes do amianto ou dos materiais que contenham amianto.\n\n4. Devem ser facultadas aos trabalhadores informações e conselhos relativamente a qualquer exame de controlo do seu estado de saúde a que se possam submeter, uma vez terminada a exposição.\n\nO médico ou a autoridade responsável pelo exame médico dos trabalhadores podem indicar a necessidade de continuar o controlo médico depois de terminada a exposição, durante o tempo que considerarem necessário para preservar a saúde do interessado.\n\nEsta vigilância prolongada tem lugar de acordo com as legislações e/ou práticas nacionais;\n\n5. O trabalhador em causa ou o empregador pode solicitar a revisão das avaliações referidas no n.º 3, de acordo com as legislações nacionais."
+  },
+  "fcb21221111a75c6": {
+   "fragment_id": "Artigo 18.º-A",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 18.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 18.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^6^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 18.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "45ed1fae7fd6d2c0": {
+   "fragment_id": "Artigo 18.º-C",
+   "type": "artigo",
+   "heading": "Artigo 18.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-C\n\n1. A Comissão avalia, no contexto da próxima avaliação nos termos do artigo 22.º, se é necessário atualizar a lista de silicatos fibrosos estabelecida no artigo 2.º à luz dos conhecimentos científicos, bem como se são necessárias medidas adicionais para assegurar a proteção contra a exposição secundária ao amianto durante o trabalho.\n\n2. Na sequência da avaliação a que se refere o n.º 1 do presente artigo e após consulta do CCSST, a Comissão avalia se é adequado e necessário atualizar a lista de silicatos fibrosos estabelecida no artigo 2.º. A Comissão avalia, em especial, se é adequado incluir outros silicatos fibrosos como a erionite, a riebeckite, a winchite, a richterite e a fluoro-edenite no âmbito de aplicação da presente diretiva, bem como se é adequado adotar medidas adicionais para assegurar a proteção contra a exposição secundária ao amianto durante o trabalho. A Comissão apresenta, se for caso disso, propostas legislativas a este respeito."
+  },
+  "b371efb06b5247d7": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n2. O empregador inscreve num registo as informações relativas aos trabalhadores que exercem as atividades referidas no artigo 3.º, n.º 1. Essas informações devem indicar a natureza e a duração da atividade e a exposição a que foram sujeitos. O médico e/ou a autoridade responsável pela vigilância médica têm acesso a esse registo. Os trabalhadores têm acesso aos seus resultados contidos no registo. Os trabalhadores e/ou os seus representantes na empresa ou no estabelecimento têm acesso às informações coletivas anónimas contidas no mesmo registo.\n\n3. O registo referido no n.º 2 e os processos médicos individuais referidos no quarto parágrafo do n.º 2 do artigo 18.º são conservados, no mínimo, durante 40 anos depois de terminada a exposição, de acordo com as legislações e/ou as práticas nacionais.\n\n4. Caso a empresa cesse a sua actividade, os documentos referidos no n.º 3 são colocados à disposição da autoridade competente, de acordo com as legislações e/ou práticas nacionais."
+  },
+  "0a2898c671a774da": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Estados-Membros mantêm um registo de todos os casos de doenças profissionais relacionadas com o amianto diagnosticados por um médico. No anexo I figura uma lista indicativa das doenças que podem ser causadas pela exposição ao amianto."
+  },
+  "3793c4c23576ccbf": {
+   "fragment_id": "Artigo 22.º-A",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A\n\n1. Até 31 de dezembro de 2028, a Comissão avalia a viabilidade de uma nova redução dos valores-limite com base nos relatórios dos Estados-Membros apresentados nos termos do artigo 22.º, na disponibilidade de dados científicos, na evolução técnica e na relação entre os novos métodos analíticos e o valor-limite numérico.\n\n2. A Comissão faculta apoio técnico adequado para ajudar os empregadores a respeitar os requisitos da presente diretiva, assim como informações sobre os fundos relevantes da União, com o objetivo de ajudar os Estados-Membros a utilizar da melhor forma estes fundos e a facilitar o acesso aos mesmos, em especial por parte das pequenas e médias empresas, incluindo as microempresas."
+  },
+  "a71ad053f9c10803": {
+   "fragment_id": "Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+   "type": "divisao",
+   "heading": "Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recomendações práticas para a vigilância clínica dos trabalhadores referidos no segundo parágrafo do n.º 2 do artigo 18.º\n\n1. De acordo com os conhecimentos atuais, a exposição às fibras de amianto pode provocar, pelo menos, as seguintes afeções:\n\n— asbestose,\n\n— mesotelioma,\n\n— cancro do pulmão,\n\n— cancro gastrintestinal,\n\n— cancro da laringe,\n\n— cancro do ovário,\n\n— doenças pleurais não malignas.\n\n2. O médico e/ou a autoridade responsável pela vigilância médica dos trabalhadores expostos ao amianto devem conhecer as condições ou as circunstâncias em que cada trabalhador foi sujeito à exposição.\n\n3. O exame médico dos trabalhadores efectuar-se-á de acordo com os princípios e práticas da medicina do trabalho. Incluirá, no mínimo, as seguintes medidas:\n\n— organização do processo médico e profissional do trabalhador,\n\n— entrevista pessoal com o trabalhador,\n\n— exame clínico geral e nomeadamente do tórax,\n\n— exames da função respiratória (espirometria e curva débito-volume)."
+  },
+  "dd4d3250d282e5da": {
+   "fragment_id": "ANEXO I-A",
+   "type": "divisao",
+   "heading": "ANEXO I-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I-A"
+  },
+  "2276de459af4140c": {
+   "fragment_id": "Requisitos mínimos para a formação",
+   "type": "divisao",
+   "heading": "Requisitos mínimos para a formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos mínimos para a formação\n\nOs trabalhadores expostos ou suscetíveis de ser expostos a poeiras de amianto ou a materiais que contenham amianto recebem formação obrigatória que cumpra, pelo menos, os seguintes requisitos mínimos:\n\n1) A formação é ministrada no início de uma relação de trabalho e sempre que sejam identificadas necessidades de formação adicionais.\n\n2) A duração da formação é adequada às tarefas dos trabalhadores em causa.\n\n3) A formação é ministrada por um formador cuja qualificação seja reconhecida em conformidade com a legislação e a prática nacionais.\n\n4) Todos os trabalhadores que tenham participado numa formação de forma satisfatória recebem um certificado de formação que indique:\n\na) A data da formação;\n\nb) A duração da formação;\n\nc) O conteúdo da formação;\n\nd) A língua da formação;\n\ne) O nome, as qualificações e os dados de contacto do formador ou da instituição que ministrou a formação, ou de ambos.\n\n5) Os trabalhadores expostos ou suscetíveis de ser expostos a poeiras de amianto ou a materiais que contenham amianto recebem formação teórica e prática que cubra, pelo menos, os seguintes aspetos:\n\na) A legislação aplicável do Estado-Membro em que o trabalho é realizado;\n\nb) As propriedades do amianto e os seus efeitos sobre a saúde, incluindo o efeito sinérgico do tabagismo;\n\nc) Os tipos de produtos ou materiais suscetíveis de conter amianto;\n\nd) As operações suscetíveis de acarretar uma exposição ao amianto e a importância das medidas de prevenção para minimizar tal exposição;\n\ne) As práticas profissionais seguras, os controlos e os equipamentos de proteção;\n\nf) A função adequada, a escolha, a seleção, as limitações e a utilização correta dos equipamentos de proteção, em especial do equipamento respiratório;\n\ng) Os procedimentos de emergência;\n\nh) Os procedimentos de descontaminação;\n\ni) A eliminação dos resíduos;\n\nj) Os requisitos em matéria de vigilância médica.\n\n6) Os trabalhadores que efetuem trabalhos de demolição ou remoção de amianto recebem formação, para além da formação prevista no ponto 5, sobre a utilização de equipamentos tecnológicos e máquinas para conter a libertação e a propagação de fibras de amianto durante os processos de trabalho, em conformidade com a presente diretiva."
+  },
+  "3da9058bf7532b9b": {
+   "fragment_id": "(referidos no artigo 24.º)",
+   "type": "divisao",
+   "heading": "(referidos no artigo 24.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 24.º)\n\n| Directiva | Prazo de transposição |\n| --- | --- |\n| 83/477/CEE | 31 de Dezembro de 1986 [(^1^)](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0008) |\n| 91/382/CEE | 1 de Janeiro de 1993 [(^2^)](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0009) |\n| 98/24/CE | 5 de Maio de 2001 |\n| 2003/18/CE | 14 de Abril de 2006 |\n| 2007/30/CE | 31 de Dezembro de 2012 |\n| (^1^) Esta data é substituída por 31 de Dezembro de 1989 no que toca às actividades extractivas do amianto. (^2^) No que diz respeito à República Helénica, o prazo de transposição da directiva é 1 de Janeiro de 1996. Todavia, o prazo de transposição das disposições no que toca às actividades extractivas de amianto é 1 de Janeiro de 1996 para todos os Estados-Membros e de 1 de Janeiro de 1999 para a República Helénica. |  |"
+  },
+  "4bd6f153ebed1142": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho (sexta diretiva especial nos termos do artigo 16.º, n.º 1, da Diretiva 89/391/CEE do Conselho) (JO L 158 de 30.4.2004, p. 50).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Número de registo do Chemical Abstract Service (CAS).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas (JO L 312 de 22.11.2008, p. 3).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Diretiva 89/656/CEE do Conselho, de 30 de novembro de 1989, relativa às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de proteção individual no trabalho (terceira Diretiva especial, na aceção do n.º 1 do artigo 16.º da Diretiva 89/391/CEE) (JO L 393 de 30.12.1989, p. 18).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/def8568c-b47e-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0007)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

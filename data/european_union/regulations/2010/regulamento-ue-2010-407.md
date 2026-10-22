@@ -34,6 +34,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-08-08'
+version_history:
+  file: regulamento-ue-2010-407.versoes.json
+  count: 3
+  source_lastmod: '2015-08-08'
+  versions:
+  - date: '2010-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivo e âmbito de aplicação
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Notas
+  - date: '2015-08-08'
+    amending: eu:celex:32015R1360:por
+    amending_title: REGULAMENTO (UE) 2015/1360 DO CONSELHO de 4 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Procedimento
+    - Altera Notas
 identifiers:
   celex: 32010R0407
   eli: http://data.europa.eu/eli/reg/2010/407/oj
@@ -48,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/193b261a-cee9-4355-a246-9dbaff63357d.0018
   content_url: http://publications.europa.eu/resource/cellar/c2efdf60-9d04-4c20-a7aa-02ed10e28218.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0407-20150808
-  retrieved_at: '2026-10-22T02:59:39Z'
+  retrieved_at: '2026-10-22T15:48:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T14:24:54.085+02:00'
 integrity:
@@ -57,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:39Z'
-  notes: Texto consolidado 02010R0407-20150808.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:00Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-407.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -104,33 +128,19 @@ relationships:
   date: '2012-07-18'
 article_structure:
   article_count: 10
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:39Z'
+  checked_at: '2026-10-22T15:48:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 407/2010 do Conselho, de 11 de Maio de 2010
-
-> 2010R0407 — PT — 08.08.2015 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1360) — [REGULAMENTO (UE) 2015/1360 DO CONSELHO de 4 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1360) — L 210 — 1 — 7.8.2015
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010R0407R%2801%29) — [Rectificação, JO L 188, 18.7.2012, p. 19 (407/2010)](http://publications.europa.eu/resource/celex/32010R0407R%2801%29)
-
-## REGULAMENTO (UE) N.º 407/2010 DO CONSELHO
 
 de 11 de Maio de 2010
 

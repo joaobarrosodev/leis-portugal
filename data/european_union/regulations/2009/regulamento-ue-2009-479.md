@@ -34,6 +34,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-09-01'
+version_history:
+  file: regulamento-ue-2009-479.versoes.json
+  count: 3
+  source_lastmod: '2014-09-01'
+  versions:
+  - date: '2009-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-19'
+    amending: eu:celex:32010R0679:por
+    amending_title: REGULAMENTO (UE) N. o 679/2010 DO CONSELHO de 26 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Notas
+    - Adita Artigo 2.º-A
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2014-09-01'
+    amending: eu:celex:32014R0220:por
+    amending_title: REGULAMENTO (UE) N. o 220/2014 DA COMISSÃO de 7 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Notas
 identifiers:
   celex: 32009R0479
   eli: http://data.europa.eu/eli/reg/2009/479/oj
@@ -48,7 +84,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2c0f7612-1bcf-4aff-b34b-a80517154b0e.0018
   content_url: http://publications.europa.eu/resource/cellar/e3fe5f09-0fe5-4f34-b0dc-d9fb48a70d08.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0479-20140901
-  retrieved_at: '2026-10-22T02:41:37Z'
+  retrieved_at: '2026-10-22T15:42:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:31:19.049+02:00'
 integrity:
@@ -57,9 +93,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:37Z'
-  notes: Texto consolidado 02009R0479-20140901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:17Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2009-479.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -160,30 +196,19 @@ relationships:
   date: '2000-03-08'
 article_structure:
   article_count: 22
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:37Z'
+  checked_at: '2026-10-22T15:42:17Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 479/2009 do Conselho, de 25 de Maio de 2009
-
-> 2009R0479 — PT — 01.09.2014 — 002.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0679) — [REGULAMENTO (UE) N.º 679/2010 DO CONSELHO de 26 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0679) — L 198 — 1 — 30.7.2010
-- [►M2](http://publications.europa.eu/resource/celex/32014R0220) — [REGULAMENTO (UE) N.º 220/2014 DA COMISSÃO de 7 de março de 2014](http://publications.europa.eu/resource/celex/32014R0220) — L 69 — 101 — 8.3.2014
-
-## REGULAMENTO (CE) N.º 479/2009 DO CONSELHO
 
 de 25 de Maio de 2009
 

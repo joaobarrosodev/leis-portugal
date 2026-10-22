@@ -36,6 +36,182 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-17'
+version_history:
+  file: diretiva-ue-2009-138.versoes.json
+  count: 6
+  source_lastmod: '2027-01-30'
+  versions:
+  - date: '2009-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-06-30'
+    amending: eu:celex:32011L0089:por
+    amending_title: DIRECTIVA 2011/89/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 16 de
+      Novembro de 2011; DIRETIVA 2012/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12
+      de setembro de 2012; DIRETIVA 2013/23/UE DO CONSELHO de 13 de maio de 2013; DIRETIVA 2013/58/UE DO PARLAMENTO EUROPEU
+      E DO CONSELHO Texto relevante para efeitos do EEE de 11 de dezembro de 2013; DIRETIVA 2014/51/UE DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 16 de abril de 2014; DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para
+      efeitos do EEE de 14 de dezembro de 2016; REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro
+      de 2017; DIRETIVA (UE) 2018/843 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 30 de maio
+      de 2018; DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 18 de dezembro
+      de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Assistência
+    - Altera Artigo 8.º — Organismos
+    - Altera Artigo 9.º — Operações e actividades
+    - Altera Artigo 13.º — Definições
+    - Altera Artigo 17.º — Forma jurídica das empresas de seguros e resseguros
+    - Altera Artigo 23.º — Programa de actividades
+    - Altera Artigo 24.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 29.º — Princípios gerais da supervisão
+    - Altera Artigo 31.º — Transparência e responsabilidade
+    - Altera Artigo 33.º — Supervisão das sucursais estabelecidas noutros Estados-Membros
+    - Altera Artigo 35.º — Informações a fornecer para efeitos de supervisão
+    - Altera Artigo 37.º — Acréscimo dos requisitos de capital
+    - Altera Artigo 38.º — Supervisão das funções e actividades subcontratadas
+    - Altera Artigo 44.º — Gestão de riscos
+    - Altera Artigo 45.º — Auto-avaliação do risco e da solvência
+    - 'Altera Artigo 51.º — Relatório sobre a solvência e a situação financeira: conteúdo'
+    - Altera Artigo 58.º — Prazo de avaliação
+    - Altera Artigo 59.º — Avaliação
+    - Altera Artigo 68.º — Troca de informações com outras autoridades
+    - Altera Artigo 69.º — Divulgação de informações aos órgãos da administração central responsáveis pela legislação financeira
+    - Altera Artigo 71.º — Convergência no domínio da supervisão
+    - Altera Artigo 72.º — Funções dos auditores
+    - Altera Artigo 73.º — Exercício simultâneo de seguro de vida e não vida
+    - Altera Artigo 75.º — Avaliação dos elementos do activo e do passivo
+    - Altera Artigo 112.º — Disposições gerais relativas à aprovação de modelos internos totais e parciais
+    - Altera Artigo 129.º — Cálculo do requisito de capital mínimo
+    - Altera Artigo 131.º — Disposições transitórias relativas ao cumprimento do requisito de capital mínimo
+    - Altera Artigo 138.º — Incumprimento do requisito de capital de solvência
+    - Altera Artigo 149.º — Alteração da natureza dos riscos ou dos compromissos
+    - Altera Artigo 155.º — Incumprimento de normas legais pelas empresas de seguros
+    - Altera Artigo 158.º — Incumprimento de normas legais pelas empresas de resseguros
+    - Altera Artigo 163.º — Programa de actividades da sucursal
+    - Altera Artigo 177.º — Tratamento dado por países terceiros a empresas de seguros e resseguros comunitárias
+    - Altera Artigo 198.º — Âmbito da presente secção
+    - Altera Artigo 201.º — Liberdade de escolha do advogado
+    - Altera Artigo 210.º — Resseguro finito
+    - Altera Artigo 211.º — Entidades instrumentais
+    - Altera Artigo 212.º — Definições
+  - date: '2021-10-19'
+    amending: null
+    amending_title: Aviso relativo à adaptação, de acordo com a inflação, dos montantes estabelecidos na Diretiva 2009/138/CE
+      do Parlamento Europeu e do Conselho, relativa ao acesso à atividade de seguros e resseguros e ao seu exercício (Solvência
+      II) 2021/C 423/12
+    changes:
+    - Altera Artigo 4.º — Exclusão do âmbito de aplicação devido à dimensão
+    - Altera Artigo 13.º — Definições
+    - Altera Artigo 24.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 25.º-A — Notificação e publicação das autorizações ou retiradas de autorizações
+    - Altera Artigo 58.º — Prazo de avaliação
+    - Altera Artigo 59.º — Avaliação
+    - Altera Artigo 68.º — Troca de informações com outras autoridades
+    - Altera Artigo 70.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às autoridades de supervisão
+      dos sistemas de pagamento e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 72.º — Funções dos auditores
+    - Altera Artigo 129.º — Cálculo do requisito de capital mínimo
+    - Altera Artigo 135.º — Atos delegados e normas técnicas de regulamentação relativas aos requisitos qualitativos
+    - Altera Artigo 201.º — Liberdade de escolha do advogado
+    - Altera Artigo 213.º — Casos de aplicação da supervisão de grupo
+    - Altera Artigo 301.º — Procedimento de comité
+    - 'Altera A. Formas jurídicas das empresas de seguros não vida:'
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 13.º — Definições
+    - Altera Artigo 24.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 25.º-A — Notificação e publicação das autorizações ou retiradas de autorizações
+    - Altera Artigo 58.º — Prazo de avaliação
+    - Altera Artigo 59.º — Avaliação
+    - Altera Artigo 68.º — Troca de informações com outras autoridades
+    - Altera Artigo 70.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às autoridades de supervisão
+      dos sistemas de pagamento e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 72.º — Funções dos auditores
+    - Altera Artigo 135.º — Atos delegados e normas técnicas de regulamentação relativas aos requisitos qualitativos
+    - Altera Artigo 201.º — Liberdade de escolha do advogado
+    - Altera Artigo 213.º — Casos de aplicação da supervisão de grupo
+    - Altera Artigo 301.º — Procedimento de comité
+    - 'Altera A. Formas jurídicas das empresas de seguros não vida:'
+    - Altera Notas
+    - Adita Artigo 304.º-B — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 13.º — Definições
+    - Altera Artigo 24.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 25.º-A — Notificação e publicação das autorizações ou retiradas de autorizações
+    - Altera Artigo 41.º — Requisitos gerais em matéria de governação
+    - Altera Artigo 50.º — Atos delegados e normas técnicas de regulamentação
+    - Altera Artigo 58.º — Prazo de avaliação
+    - Altera Artigo 59.º — Avaliação
+    - Altera Artigo 68.º — Troca de informações com outras autoridades
+    - Altera Artigo 70.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às autoridades de supervisão
+      dos sistemas de pagamento e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 72.º — Funções dos auditores
+    - Altera Artigo 135.º — Atos delegados e normas técnicas de regulamentação relativas aos requisitos qualitativos
+    - Altera Artigo 201.º — Liberdade de escolha do advogado
+    - Altera Artigo 213.º — Casos de aplicação da supervisão de grupo
+    - Altera Artigo 301.º — Procedimento de comité
+    - Altera Artigo 304.º-B — Acessibilidade da informação no ponto de acesso único europeu
+    - 'Altera A. Formas jurídicas das empresas de seguros não vida:'
+    - Altera Notas
+  - date: '2027-01-30'
+    amending: eu:celex:32025L0002:por
+    amending_title: DIRETIVA (UE) 2025/2 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Exclusão do âmbito de aplicação devido à dimensão
+    - Altera Artigo 6.º — Assistência
+    - Altera Artigo 8.º — Organismos
+    - Altera Artigo 13.º — Definições
+    - Altera Artigo 18.º — Condições de autorização
+    - Altera Artigo 23.º — Programa de actividades
+    - Altera Artigo 24.º — Accionistas e sócios com participações qualificadas
+    - Altera Artigo 25.º — Recusa de autorização
+    - Altera Artigo 25.º-A — Notificação e publicação das autorizações ou retiradas de autorizações
+    - Altera Artigo 26.º — Consulta prévia das autoridades de outros Estados-Membros
+    - Altera Artigo 29.º — Princípios gerais da supervisão
+    - Altera Artigo 30.º — Autoridades de supervisão e âmbito da supervisão
+    - Altera Artigo 35.º — Informações a fornecer para efeitos de supervisão
+    - Altera Artigo 36.º — Processo de supervisão
+    - Altera Artigo 37.º — Acréscimo dos requisitos de capital
+    - Altera Artigo 40.º — Responsabilidade do órgão de direcção, administração ou supervisão
+    - Altera Artigo 41.º — Requisitos gerais em matéria de governação
+    - Altera Artigo 42.º — Requisitos de competência e de idoneidade das pessoas que dirigem efectivamente a empresa ou desempenham
+      outras funções essenciais
+    - Altera Artigo 44.º — Gestão de riscos
+    - Altera Artigo 45.º — Auto-avaliação do risco e da solvência
+    - 'Altera Artigo 51.º — Relatório sobre a solvência e a situação financeira: conteúdo'
+    - Altera Artigo 52.º — Informações a prestar à Autoridade Europeia dos Seguros e Pensões Complementares de Reforma e relatórios
+      desta autoridade
+    - 'Altera Artigo 53.º — Relatório sobre a solvência e a situação financeira: princípios aplicáveis'
+    - 'Altera Artigo 56.º — Relatório sobre a solvência e a situação financeira: atos delegados e normas técnicas de execução'
+    - Altera Artigo 58.º — Prazo de avaliação
+    - Altera Artigo 59.º — Avaliação
+    - Altera Artigo 60.º — Aquisição por organismos financeiros regulados
+    - Altera Artigo 62.º — Participações qualificadas – Poderes da autoridade de supervisão
+    - Altera Artigo 63.º — Direitos de voto
+    - Altera Artigo 64.º — Sigilo profissional
+    - Altera Artigo 68.º — Troca de informações com outras autoridades
+    - Altera Artigo 70.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às autoridades de supervisão
+      dos sistemas de pagamento e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 72.º — Funções dos auditores
+    - Altera Artigo 77.º — Cálculo das provisões técnicas
+    - Altera Artigo 77.º-B — Ajustamento compensatório da estrutura pertinente das taxas de juro sem risco para os diferentes
+      prazos
+    - Altera Artigo 77.º-D — Ajustamento à volatilidade da estrutura pertinente das taxas de juro sem risco para os diferentes
+      prazos
+    - Altera Artigo 77.º-E — Informações técnicas produzidas pela Autoridade Europeia dos Seguros e Pensões Complementares
+      de Reforma
+    - Altera Artigo 86.º — Atos delegados e normas técnicas de regulamentação e de execução
 identifiers:
   celex: 32009L0138
   eli: http://data.europa.eu/eli/dir/2009/138/oj
@@ -50,7 +226,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b11ac130-fd92-46f8-a63a-940b0663bd79.0018
   content_url: http://publications.europa.eu/resource/cellar/bece6669-cd06-11ef-be2a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0138-20250117
-  retrieved_at: '2026-10-22T02:36:55Z'
+  retrieved_at: '2026-10-22T15:40:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T19:30:19.734+02:00'
 integrity:
@@ -59,9 +235,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:55Z'
-  notes: Texto consolidado 02009L0138-20250117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:34Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2009-138.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -516,47 +692,28 @@ relationships:
   source: null
 article_structure:
   article_count: 333
-  section_count: 236
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 238
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:55Z'
-  warnings: []
+  checked_at: '2026-10-22T15:40:34Z'
+  warnings:
+  - '02009L0138-20111209: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20120915: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20131219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20140523: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20150331: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20170112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20180709: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0138-20190113: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Directiva 2009/138/CE do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
-
-> 02009L0138 — PT — 17.01.2025 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0089) — [DIRECTIVA 2011/89/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011L0089) — L 326 — 113 — 8.12.2011
-- [►M2](http://publications.europa.eu/resource/celex/32012L0023) — [DIRETIVA 2012/23/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de setembro de 2012](http://publications.europa.eu/resource/celex/32012L0023) — L 249 — 1 — 14.9.2012
-- [►M3](http://publications.europa.eu/resource/celex/32013L0023) — [DIRETIVA 2013/23/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0023) — L 158 — 362 — 10.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32013L0058) — [DIRETIVA 2013/58/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013L0058) — L 341 — 1 — 18.12.2013
-- [►M5](http://publications.europa.eu/resource/celex/32014L0051) — [DIRETIVA 2014/51/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014](http://publications.europa.eu/resource/celex/32014L0051) — L 153 — 1 — 22.5.2014
-- [►M6](http://publications.europa.eu/resource/celex/32016L2341) — [DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2016](http://publications.europa.eu/resource/celex/32016L2341) — L 354 — 37 — 23.12.2016
-- [►M7](http://publications.europa.eu/resource/celex/32017R2402) — [REGULAMENTO (UE) 2017/2402 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2402) — L 347 — 35 — 28.12.2017
-- [►M8](http://publications.europa.eu/resource/celex/32018L0843) — [DIRETIVA (UE) 2018/843 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0843) — L 156 — 43 — 19.6.2018
-- [►M9](http://publications.europa.eu/resource/celex/32019L2177) — [DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019L2177) — L 334 — 155 — 27.12.2019
-- [►M10](http://publications.europa.eu/resource/celex/52021XC1019%2802%29) — [Aviso relativo à adaptação, de acordo com a inflação, dos montantes estabelecidos na Diretiva 2009/138/CE do Parlamento Europeu e do Conselho, relativa ao acesso à atividade de seguros e resseguros e ao seu exercício (Solvência II) 2021/C 423/12](http://publications.europa.eu/resource/celex/52021XC1019%2802%29) — C 423 — 25 — 19.10.2021
-- [►M11](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M12](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0138R%2801%29) — [Rectificação, JO L 219, 25.7.2014, p. 66 (2009/138/CE)](http://publications.europa.eu/resource/celex/32009L0138R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014L0051R%2805%29) — [Rectificação, JO L 316, 6.12.2019, p. 107 (2014/51/UE)](http://publications.europa.eu/resource/celex/32014L0051R%2805%29)
-- [C3](http://publications.europa.eu/resource/celex/32014L0051R%2806%29) — [Rectificação, JO L 059, 28.2.2020, p. 50 (2014/51/UE)](http://publications.europa.eu/resource/celex/32014L0051R%2806%29)
-- [►C4](http://publications.europa.eu/resource/celex/32014L0051R%2807%29) — [Rectificação, JO L 059, 28.2.2020, p. 51 (2014/51/UE)](http://publications.europa.eu/resource/celex/32014L0051R%2807%29)
-
-## DIRECTIVA 2009/138/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Novembro de 2009,
 

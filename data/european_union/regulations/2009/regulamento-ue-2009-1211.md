@@ -35,6 +35,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-07'
+version_history:
+  file: regulamento-ue-2009-1211.versoes.json
+  count: 2
+  source_lastmod: '2010-01-07'
+  versions:
+  - date: '2009-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — O Gabinete
+    - Altera Artigo 7.º — Comité de Gestão
+    - Altera Artigo 10.º — Pessoal
+    - Altera Artigo 11.º — Orçamento do Gabinete
+    - Altera Artigo 12.º — Estabelecimento do orçamento
+    - Altera Artigo 13.º — Execução e controlo do orçamento
+    - Altera Artigo 16.º — Medidas antifraude
+    - Altera Artigo 20.º — Confidencialidade
+    - Altera Artigo 21.º — Declaração de interesses
+    - Altera Artigo 22.º — Acesso a documentos
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 8.º — [►C1](http://publications.europa.eu/resource/celex/32009R1211R%2801%29) Director Administrativo◄
+    - Adita Artigo 9.º — Competências do [►C1](http://publications.europa.eu/resource/celex/32009R1211R%2801%29) Director
+      Administrativo◄
+    - Suprime Artigo 8.º — Director-Geral
+    - Suprime Artigo 9.º — Competências do Director-Geral
 identifiers:
   celex: 32009R1211
   eli: http://data.europa.eu/eli/reg/2009/1211/oj
@@ -49,7 +80,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/05b70fe2-f319-48d3-8875-1b45baab0c42.0019
   content_url: http://publications.europa.eu/resource/cellar/46bdfa92-7211-44b4-99b0-b0ddad8935e8.0001.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1211-20100107
-  retrieved_at: '2026-10-22T02:52:51Z'
+  retrieved_at: '2026-10-22T15:45:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T22:00:12.096+02:00'
 integrity:
@@ -58,9 +89,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:51Z'
-  notes: Texto consolidado 02009R1211-20100107.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:19Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1211.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -175,29 +206,19 @@ relationships:
   date: '2018-12-17'
 article_structure:
   article_count: 26
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:51Z'
+  checked_at: '2026-10-22T15:45:19Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1211/2009 do Parlamento Europeu e do Conselho, de 25 de Novembro de 2009
-
-> 2009R1211 — PT — 07.01.2010 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R1211R%2801%29) — [Rectificação, JO L 086, 1.4.2010, p. 50 (1211/09)](http://publications.europa.eu/resource/celex/32009R1211R%2801%29)
-
-## REGULAMENTO (CE) N.º 1211/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Novembro de 2009
 

@@ -36,6 +36,188 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-11-28'
+version_history:
+  file: regulamento-ue-2010-1031.versoes.json
+  count: 7
+  source_lastmod: '2019-11-28'
+  versions:
+  - date: '2010-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-25'
+    amending: eu:celex:32011R1210:por
+    amending_title: REGULAMENTO (UE) N. o 1210/2011 DA COMISSÃO de 23 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Produtos leiloados
+    - Altera Artigo 6.º — Apresentação e retirada de licitações
+    - Altera Artigo 8.º — Calendário e frequência
+    - Altera Artigo 10.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo III da Directiva 2003/87/CE
+    - Altera Artigo 11.º — Calendário dos leilões individuais de licenças de emissão abrangidas pelo capítulo III da Directiva
+      2003/87/CE realizados pelas plataformas de leilões designadas nos termos do artigo 26.º, n. ^os^ 1ou 2, do presente
+      regulamento
+    - Altera Artigo 14.º — Ajustamentos do calendário de leilões
+    - Altera Artigo 16.º — Meios de acesso
+    - Altera Artigo 18.º — Pessoas elegíveis para a apresentação de candidaturas de admissão a leilões
+    - Altera Artigo 19.º — Requisitos de admissão a leilões
+    - Altera Artigo 20.º — Apresentação e tratamento de candidaturas de admissão a leilões
+    - Altera Artigo 21.º — Recusa, revogação e suspensão da admissão a leilões
+    - Altera Artigo 22.º — Designação do leiloeiro
+    - Altera Artigo 24.º — Supervisor de leilões
+    - Altera Artigo 25.º — Funções do supervisor de leilões
+    - Altera Artigo 26.º — Designação de uma plataforma de leilões através de uma acção conjunta dos Estados-Membros e da
+      Comissão
+    - Altera Artigo 27.º — Funções da plataforma de leilões designada nos termos do artigo 26.º, n.º 1
+    - Altera Artigo 28.º — Funções da plataforma de leilões designada nos termos do artigo 26.º, n.º 2
+    - Altera Artigo 29.º — Serviços prestados à Comissão pelas plataformas de leilões designadas nos termos do artigo 26.º,
+      n. ^os^ 1 ou 2
+    - Altera Artigo 30.º — Designação de plataformas de leilões que não sejam uma plataforma de leilões designada nos termos
+      do artigo 26.º, n.^os^ 1 ou 2
+    - Altera Artigo 32.º — Calendário de leilões para plataformas de leilões que não as plataformas designadas nos termos
+      do artigo 26.º, n.^os^ 1 ou 2
+    - Altera Artigo 34.º — Requisitos aplicáveis à designação do leiloeiro e do supervisor de leilões
+    - Altera Artigo 35.º — Requisitos aplicáveis à designação das plataformas de leilões
+    - Altera Artigo 36.º — Regime relativo a abusos de mercado aplicável a instrumentos financeiros na acepção do artigo 1.º,
+      n.º 3, da Directiva 2003/6/CE
+    - Altera Artigo 37.º — Definições para o regime relativo a abusos de mercado aplicável a produtos leiloados que não sejam
+      instrumentos financeiros na acepção do artigo 1.º, n.º 3, da Directiva 2003/6/CE
+    - Altera Artigo 46.º — Transferência das licenças de emissão leiloadas
+    - Altera Artigo 50.º — Garantias constituídas pelo leiloeiro
+    - Altera Artigo 52.º — Custos do processo de leilão
+    - Altera Artigo 55.º — Notificação de branqueamento de capitais, financiamento do terrorismo ou actividade criminosa
+    - Altera Artigo 56.º — Notificação de abuso de mercado
+    - Altera Artigo 60.º — Publicação
+    - Altera Artigo 62.º — Protecção de informação confidencial
+    - Altera Artigo 64.º — Direito de recurso
+    - Altera Artigo 66.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 17.º — Formação e serviço de assitência
+    - Adita Artigo54.º — Acompanhamento das relações com os licitantes
+    - Adita Artigo58.º — Regras de conduta do mercado ou outras disposições contratuais
+    - Adita ANEXO I
+  - date: '2012-09-01'
+    amending: eu:celex:32012R0784:por
+    amending_title: REGULAMENTO (UE) N. o 784/2012 DA COMISSÃO de 30 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Preço final de leilão e resolução de licitações empatadas
+    - Altera Artigo 8.º — Calendário e frequência
+    - Altera Artigo 25.º — Funções do supervisor de leilões
+    - Altera Artigo 59.º — Regras de conduta para outras pessoas autorizadas a licitar em nome de terceiros nos termos do
+      artigo 18.º, n.º 1. alíneas b) e c), e n.º 2
+    - Altera Plataformas de leilões que não as designadas nos termos do artigo 26.º, n.^os^ 1 ou 2, os Estados-Membros que
+      as designaram e quaisquer outras condições ou obrigações aplicáveis referidas no artigo 30.º, n.º 7
+    - Altera Notas
+  - date: '2012-11-10'
+    amending: eu:celex:32012R1042:por
+    amending_title: REGULAMENTO (UE) N. o 1042/2012 DA COMISSÃO de 7 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 25.º — Funções do supervisor de leilões
+    - Altera Plataformas de leilões que não as designadas nos termos do artigo 26.º, n.^os^ 1 ou 2, os Estados-Membros que
+      as designaram e quaisquer outras condições ou obrigações aplicáveis referidas no artigo 30.º, n.º 7
+    - Altera Notas
+  - date: '2013-11-15'
+    amending: eu:celex:32013R1143:por
+    amending_title: REGULAMENTO (UE) N. o 1143/2013 DA COMISSÃO de 13 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Produtos leiloados
+    - Altera Artigo 7.º — Preço final de leilão e resolução de licitações empatadas
+    - Altera Artigo 8.º — Calendário e frequência
+    - Altera Artigo 9.º — Circunstâncias que impedem a realização de leilões
+    - Altera Artigo 11.º — Calendário dos leilões individuais de licenças de emissão abrangidas pelo capítulo III da Directiva
+      2003/87/CE realizados pelas plataformas de leilões designadas nos termos do artigo 26.º, n. ^os^ 1ou 2, do presente
+      regulamento
+    - Altera Artigo 13.º — Calendário dos leilões individuais de licenças de emissão abrangidas pelo capítulo II da Directiva
+      2003/87/CE realizados pelas plataformas de leilões designadas nos termos do artigo 26.º, n. ^os^ 1 ou 2 do presente
+      regulamento
+    - Altera Artigo 16.º — Meios de acesso
+    - Altera Artigo 18.º — Pessoas elegíveis para a apresentação de candidaturas de admissão a leilões
+    - Altera Artigo 20.º — Apresentação e tratamento de candidaturas de admissão a leilões
+    - Altera Artigo 22.º — Designação do leiloeiro
+    - Altera Artigo 24.º — Supervisor de leilões
+    - Altera Artigo 25.º — Funções do supervisor de leilões
+    - Altera Artigo 27.º — Funções da plataforma de leilões designada nos termos do artigo 26.º, n.º 1
+    - Altera Artigo 30.º — Designação de plataformas de leilões que não sejam uma plataforma de leilões designada nos termos
+      do artigo 26.º, n.^os^ 1 ou 2
+    - Altera Artigo 31.º — Funções das plataformas de leilões que não as plataformas designadas nos termos do artigo 26.º,
+      n.^os^ 1 ou 2
+    - Altera Artigo 32.º — Calendário de leilões para plataformas de leilões que não as plataformas designadas nos termos
+      do artigo 26.º, n.^os^ 1 ou 2
+    - Altera Artigo 33.º — Revisão do presente regulamento
+    - Altera Artigo 35.º — Requisitos aplicáveis à designação das plataformas de leilões
+    - Altera Artigo 44.º — Pagamentos efectuados pelos licitantes vencedores e transferência das receitas para os Estados-Membros
+    - Altera Plataformas de leilões que não as designadas nos termos do artigo 26.º, n.^os^ 1 ou 2, os Estados-Membros que
+      as designaram e quaisquer outras condições ou obrigações aplicáveis referidas no artigo 30.º, n.º 7
+    - Altera Notas
+    - Adita Artigo 12.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo II da Diretiva 2003/87/CE
+    - Suprime Artigo 12.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo II da Directiva 2003/87/CE
+  - date: '2014-02-27'
+    amending: eu:celex:32014R0176:por
+    amending_title: REGULAMENTO (UE) N. o 176/2014 DA COMISSÃO de 25 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 10.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo III da Directiva 2003/87/CE
+    - Altera Artigo 32.º — Calendário de leilões para plataformas de leilões que não as plataformas designadas nos termos
+      do artigo 26.º, n.^os^ 1 ou 2
+    - Altera Notas
+    - Adita ANEXO IV
+  - date: '2019-11-28'
+    amending: eu:celex:32017R1902:por
+    amending_title: REGULAMENTO (UE) 2017/1902 DA COMISSÃO de 18 de outubro de 2017; REGULAMENTO DELEGADO (UE) 2019/7 DA COMISSÃO
+      de 30 de outubro de 2018; REGULAMENTO DELEGADO (UE) 2019/1868 DA COMISSÃO de 28 de agosto de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Apresentação e retirada de licitações
+    - Altera Artigo 7.º — Preço final de leilão e resolução de licitações empatadas
+    - Altera Artigo 8.º — Calendário e frequência
+    - Altera Artigo 9.º — Circunstâncias que impedem a realização de leilões
+    - Altera Artigo 10.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo III da Directiva 2003/87/CE
+    - Altera Artigo 12.º — Volume anual de licenças de emissão leiloadas abrangidas pelo capítulo II da Diretiva 2003/87/CE
+    - Altera Artigo 14.º — Ajustamentos do calendário de leilões
+    - Altera Artigo 16.º — Meios de acesso
+    - Altera Artigo 18.º — Pessoas elegíveis para a apresentação de candidaturas de admissão a leilões
+    - Altera Artigo 19.º — Requisitos de admissão a leilões
+    - Altera Artigo 20.º — Apresentação e tratamento de candidaturas de admissão a leilões
+    - Altera Artigo 21.º — Recusa, revogação e suspensão da admissão a leilões
+    - Altera Artigo 22.º — Designação do leiloeiro
+    - Altera Artigo 23.º — Funções do leiloeiro
+    - Altera Artigo 26.º — Designação de uma plataforma de leilões através de uma acção conjunta dos Estados-Membros e da
+      Comissão
+    - Altera Artigo 27.º — Funções da plataforma de leilões designada nos termos do artigo 26.º, n.º 1
+    - Altera Artigo 35.º — Requisitos aplicáveis à designação das plataformas de leilões
+    - Altera Artigo 44.º — Pagamentos efectuados pelos licitantes vencedores e transferência das receitas para os Estados-Membros
+    - Altera Artigo 46.º — Transferência das licenças de emissão leiloadas
+    - Altera Artigo 51.º — Estrutura e nível de taxas
+    - Altera Artigo 52.º — Custos do processo de leilão
+    - Altera Artigo54.º — Acompanhamento das relações com os licitantes
+    - Altera Artigo 56.º — Notificação de abuso de mercado
+    - Altera Artigo 57.º — Volume máximo das licitações e outras medidas correctivas
+    - Altera Artigo 59.º — Regras de conduta para outras pessoas autorizadas a licitar em nome de terceiros nos termos do
+      artigo 18.º, n.º 1. alíneas b) e c), e n.º 2
+    - Altera Artigo 60.º — Publicação
+    - Altera Artigo 61.º — Anúncio e notificação dos resultados dos leilões
+    - Altera Artigo 62.º — Protecção de informação confidencial
+    - Altera Artigo 63.º — Regime linguístico
+    - Altera Artigo 64.º — Direito de recurso
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 11.º — Calendário dos leilões individuais de licenças de emissão abrangidas pelo capítulo III da Diretiva
+      2003/87/CE realizados pelas plataformas de leilões designadas nos termos do artigo 26.º, n.º 1, do presente regulamento
+    - Adita Artigo 13.º
+    - Adita Calendário dos leilões individuais de licenças de emissão abrangidas pelo capítulo II da Diretiva 2003/87/CE realizados
+      pelas plataformas de leilões designadas nos termos do artigo 26.º, n.º 1, do presente regulamento
+    - Adita Artigo 15.º — Pessoas que podem licitar diretamente num leilão
+    - Adita Artigo 24.º — Venda em leilão de licenças para o fundo de inovação e o fundo de modernização
+    - Adita Artigo 25.º — Procedimento de anulação de licenças de emissão nos termos do artigo 12.º, n.º 4, da Diretiva 2003/87/CE
 identifiers:
   celex: 32010R1031
   eli: http://data.europa.eu/eli/reg/2010/1031/oj
@@ -50,7 +232,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/60677353-faed-442b-90ec-a5a4d9107f03.0004
   content_url: http://publications.europa.eu/resource/cellar/77dbd4f4-53d0-11ea-aece-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1031-20191128
-  retrieved_at: '2026-10-22T02:40:45Z'
+  retrieved_at: '2026-10-22T15:48:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T04:50:21.769+02:00'
 integrity:
@@ -59,9 +241,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:45Z'
-  notes: Texto consolidado 02010R1031-20191128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:49Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2010-1031.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,37 +421,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/327b30d8-9ed9-11ee-b164-01aa75ed71a1
   date: '2023-12-20'
 article_structure:
-  article_count: 57
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 55
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:45Z'
+  checked_at: '2026-10-22T15:48:49Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1031/2010 da Comissão de 12 de Novembro de 2010
-
-> 02010R1031 — PT — 28.11.2019 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R1210) — [REGULAMENTO (UE) N.º 1210/2011 DA COMISSÃO de 23 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1210) — L 308 — 2 — 24.11.2011
-- [►M2](http://publications.europa.eu/resource/celex/32012R0784) — [REGULAMENTO (UE) N.º 784/2012 DA COMISSÃO de 30 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0784) — L 234 — 4 — 31.8.2012
-- [M3](http://publications.europa.eu/resource/celex/32012R1042) — [REGULAMENTO (UE) N.º 1042/2012 DA COMISSÃO de 7 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1042) — L 310 — 19 — 9.11.2012
-- [►M4](http://publications.europa.eu/resource/celex/32013R1143) — [REGULAMENTO (UE) N.º 1143/2013 DA COMISSÃO de 13 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1143) — L 303 — 10 — 14.11.2013
-- [M5](http://publications.europa.eu/resource/celex/32014R0176) — [REGULAMENTO (UE) N.º 176/2014 DA COMISSÃO de 25 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0176) — L 56 — 11 — 26.2.2014
-- [►M6](http://publications.europa.eu/resource/celex/32017R1902) — [REGULAMENTO (UE) 2017/1902 DA COMISSÃO de 18 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1902) — L 269 — 13 — 19.10.2017
-- [►M7](http://publications.europa.eu/resource/celex/32019R0007) — [REGULAMENTO DELEGADO (UE) 2019/7 DA COMISSÃO de 30 de outubro de 2018](http://publications.europa.eu/resource/celex/32019R0007) — L 2 — 1 — 4.1.2019
-- [►M8](http://publications.europa.eu/resource/celex/32019R1868) — [REGULAMENTO DELEGADO (UE) 2019/1868 DA COMISSÃO de 28 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1868) — L 289 — 9 — 8.11.2019
-
-## REGULAMENTO (UE) N.º 1031/2010 DA COMISSÃO
 
 de 12 de novembro de 2010
 

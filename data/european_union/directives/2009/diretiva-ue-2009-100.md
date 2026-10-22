@@ -36,6 +36,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-10-06'
+version_history:
+  file: diretiva-ue-2009-100.versoes.json
+  count: 2
+  source_lastmod: '2016-10-06'
+  versions:
+  - date: '2009-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-10-06'
+    amending: eu:celex:32016L1629:por
+    amending_title: DIRETIVA (UE) 2016/1629 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Adita ANEXO I
+    - Adita INFORMAÇÕES MÍNIMAS A INDICAR NOS CERTIFICADOS
+    - Adita (referidas no n.º 3 do artigo 2.º)
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
+    - Suprime Notas
 identifiers:
   celex: 32009L0100
   eli: http://data.europa.eu/eli/dir/2009/100/oj
@@ -50,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b6f8c7fd-3ac9-4ffa-aa2f-e8568716e9ac.0018
   content_url: http://publications.europa.eu/resource/cellar/be04890f-8496-48ad-9df9-98c44e249d35.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0100-20161006
-  retrieved_at: '2026-10-22T03:14:27Z'
+  retrieved_at: '2026-10-22T15:39:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:41:38.370+02:00'
 integrity:
@@ -59,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:27Z'
-  notes: Texto consolidado 02009L0100-20161006.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:23Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-100.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,28 +135,18 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:27Z'
+  checked_at: '2026-10-22T15:39:23Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/100/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009L0100 — PT — 06.10.2016 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016L1629) — [DIRETIVA (UE) 2016/1629 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016L1629) — L 252 — 118 — 16.9.2016
-
-## DIRECTIVA 2009/100/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

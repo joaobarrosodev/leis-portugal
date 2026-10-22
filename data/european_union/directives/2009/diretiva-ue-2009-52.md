@@ -35,6 +35,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-07-20'
+version_history:
+  file: diretiva-ue-2009-52.versoes.json
+  count: 2
+  source_lastmod: '2009-07-20'
+  versions:
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Obrigações dos empregadores
+    - Altera Artigo 7.º — Outras medidas
+    - Altera Artigo 13.º — Simplificação do procedimento de queixa
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
 identifiers:
   celex: 32009L0052
   eli: http://data.europa.eu/eli/dir/2009/52/oj
@@ -49,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d042222c-6bb5-429e-ab1c-30d77bb2336e.0018
   content_url: http://publications.europa.eu/resource/cellar/d7e5fe4b-9e41-45fe-9956-ec5449687101.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0052-20090720
-  retrieved_at: '2026-10-22T02:48:08Z'
+  retrieved_at: '2026-10-22T15:38:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:22:21.143+02:00'
 integrity:
@@ -58,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:08Z'
-  notes: Texto consolidado 02009L0052-20090720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:38:40Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-52.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,29 +170,19 @@ relationships:
   date: '2014-11-06'
 article_structure:
   article_count: 19
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:08Z'
+  checked_at: '2026-10-22T15:38:40Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/52/CE do Parlamento Europeu e do Conselho, de 18 de Junho de 2009
-
-> 2009L0052 — PT — 20.07.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0052R%2801%29) — [Rectificação, JO L 208, 3.8.2012, p. 22 (2009/52)](http://publications.europa.eu/resource/celex/32009L0052R%2801%29)
-
-## DIRECTIVA 2009/52/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de Junho de 2009
 

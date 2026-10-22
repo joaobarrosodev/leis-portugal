@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-06-24'
+version_history:
+  file: regulamento-ue-2009-491.versoes.json
+  count: 2
+  source_lastmod: '2009-06-24'
+  versions:
+  - date: '2009-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º — Alterações ao Regulamento (CE) n.º 1184/2006
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita «Secção IV-A
+    - Adita Potencial de produção no sector vitivinícola
+    - Adita Subsecção I
+    - Adita Plantações ilegais
+    - Adita Subsecção II
+    - Adita Regime transitório de direitos de plantação
+    - Adita Subsecção III
+    - Adita Regime de arranque
+    - Adita «Secção IV-B
+    - Adita Programas de apoio no sector vitivinícola
+    - Adita Disposições preliminares
+    - Adita Apresentação e conteúdo dos programas de apoio
+    - Adita Medidas de apoio específicas
+    - Adita Subsecção IV
+    - Adita Disposições processuais
+    - Adita «Secção I-A
+    - Adita Denominações de origem, indicações geográficas e menções tradicionais no sector vitivinícola
+    - Adita Denominações de origem e indicações geográficas
+    - Adita Menções tradicionais
+    - Adita Secção I-B
+    - Adita Rotulagem e apresentação no sector vitivinícola
+    - Adita «Secção II-A
+    - Adita Regras de produção no sector vitivinícola
+    - Adita Castas de uva de vinho
+    - Adita Práticas enológicas e restrições
+    - Adita «Secção I-B
+    - Adita Regras relativas às organizações de produtores e organizações interprofissionais no sector vitivinícola
+    - Adita «Subsecção V
+    - Adita Disposições especiais aplicáveis às importações de vinho
+    - Adita ANEXO I
+    - 'Adita «Parte III-A: definições relativas ao sector vitivinícola'
+    - Adita Definições relativas à vinha
+    - Adita Definições relativas aos produtos
+    - Adita Definições relativas ao título alcoométrico
+    - Adita ANEXO II
 identifiers:
   celex: 32009R0491
   eli: http://data.europa.eu/eli/reg/2009/491/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b8e84edb-a7ed-4a63-8f5a-d04f3cd8543a.0018
   content_url: http://publications.europa.eu/resource/cellar/64c18149-c683-4cb2-9aae-599923c88b54.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0491-20090624
-  retrieved_at: '2026-10-22T02:37:34Z'
+  retrieved_at: '2026-10-22T15:42:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T06:58:54.183+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:34Z'
-  notes: Texto consolidado 02009R0491-20090624.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:26Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-491.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -187,29 +240,19 @@ relationships:
   date: '2008-06-06'
 article_structure:
   article_count: 4
-  section_count: 83
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 84
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:34Z'
+  checked_at: '2026-10-22T15:42:26Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 491/2009 do Conselho, de 25 de Maio de 2009
-
-> 2009R0491 — PT — 24.06.2009 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0491R%2802%29) — [Rectificação, JO L 313, 26.11.2011, p. 47 (491/2009)](http://publications.europa.eu/resource/celex/32009R0491R%2802%29)
-
-## REGULAMENTO (CE) N.º 491/2009 DO CONSELHO
 
 de 25 de Maio de 2009
 

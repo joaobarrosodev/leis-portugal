@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2009-1186.versoes.json
+  count: 2
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2009-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-01'
+    amending: eu:celex:32026R0382:por
+    amending_title: REGULAMENTO (UE) 2026/382 DO CONSELHO de 11 de fevereiro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 27.º
+    - Altera Artigo 41.º
+    - Altera Artigo 45.º
+    - Altera Artigo 107.º
+    - Altera Artigo 134.º
+    - Altera Notas
+    - Adita A.
+    - Adita Para a realização de objectivos gerais
+    - Adita B.
+    - Adita Para pessoas deficientes
+    - Adita 1.
+    - Adita Objectos destinados a cegos
+    - Adita 2.
+    - Adita Objectos destinados a outros deficientes
+    - Adita 3.
+    - Adita Disposições comuns
+    - Adita C.
+    - Adita Para as vítimas de catástrofes
+    - Adita Amostras de mercadorias de valor insignificante
+    - Adita Impressos e objectos de carácter publicitário
+    - Adita Produtos utilizados ou consumidos por ocasião de uma exposição ou manifestação semelhante
+    - Adita ANEXO I
+    - Adita A. Livros, publicações e documentos
+    - Adita B. Material visual e auditivo de carácter educativo, científico ou cultural
+    - Adita ANEXO II
+    - Adita A. Material visual e auditivo de carácter educativo, científico ou cultural
+    - Adita B. Objectos de colecção e objectos de arte de carácter educativo, científico ou cultural
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita REGULAMENTO REVOGADO COM A LISTA DAS SUCESSIVAS ALTERAÇÕES
+    - Adita ANEXO VI
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
 identifiers:
   celex: 32009R1186
   eli: http://data.europa.eu/eli/reg/2009/1186/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/20b34435-21a5-4ed5-a430-bf7afb3404ab.0018
   content_url: http://publications.europa.eu/resource/cellar/42f72519-53c2-11f1-b3e2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1186-20260701
-  retrieved_at: '2026-10-22T02:48:15Z'
+  retrieved_at: '2026-10-22T15:45:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-18T00:31:18.503+02:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:15Z'
-  notes: Texto consolidado 02009R1186-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:19Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1186.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -238,33 +287,20 @@ relationships:
   date: '2008-03-28'
 article_structure:
   article_count: 132
-  section_count: 105
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 106
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:15Z'
-  warnings: []
+  checked_at: '2026-10-22T15:45:19Z'
+  warnings:
+  - '02009R1186-20091230: versão indisponível (Sem expressão na língua por para CELEX 02009R1186-20091230.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1186/2009 do Conselho, de 16 de Novembro de 2009
-
-> 02009R1186 — PT — 01.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R0382) — [REGULAMENTO (UE) 2026/382 DO CONSELHO de 11 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0382) — L 382 — 1 — 18.2.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32026R0382R%2801%29) — [Rectificação, JO L 90233, 23.3.2026, p. 1 (2026/382)](http://publications.europa.eu/resource/celex/32026R0382R%2801%29)
-
-## REGULAMENTO (CE) n.º 1186/2009 DO CONSELHO
 
 de 16 de Novembro de 2009
 

@@ -36,6 +36,41 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-30'
+version_history:
+  file: diretiva-ue-2010-35.versoes.json
+  count: 2
+  source_lastmod: '2026-05-30'
+  versions:
+  - date: '2010-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-05-30'
+    amending: eu:celex:32024L2749:por
+    amending_title: DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Livre circulação dos equipamentos sob pressão transportáveis
+    - Altera Artigo 31.º — Procedimento de salvaguarda da União
+    - Altera Artigo 40.º — Reconhecimento de equivalências
+    - Altera Artigo 44.º — Destinatários
+    - Altera Notas
+    - Adita CAPÍTULO 5-A
+    - Adita PROCEDIMENTOS DE EMERGÊNCIA
+    - Adita Artigo 33.º-A — Aplicação de procedimentos de emergência
+    - Adita Artigo 33.º-B — Prioridade da avaliação da conformidade de equipamentos sob pressão transportáveis designados
+      como bens relevantes em situação de crise
+    - Adita Artigo 33.º-C — Derrogação dos procedimentos de avaliação da conformidade que exigem o envolvimento obrigatório
+      de um organismo notificado
+    - Adita Artigo 33.º-D — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades
+    - Adita Artigo 38.º-A — Procedimento de comité
+    - Adita ANEXO I
+    - Adita Lista de mercadorias perigosas não incluídas na classe 2
+    - Adita ANEXO II
+    - Adita DISPOSIÇÕES TRANSITÓRIAS
+    - Adita ANEXO III
+    - Adita PROCEDIMENTO DE REAVALIAÇÃO DA CONFORMIDADE
 identifiers:
   celex: 32010L0035
   eli: http://data.europa.eu/eli/dir/2010/35/oj
@@ -50,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e2a940ba-4b38-4e50-8ea5-526166f61b9a.0018
   content_url: http://publications.europa.eu/resource/cellar/176145a1-2d6a-11f1-906d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0035-20260530
-  retrieved_at: '2026-10-22T02:59:31Z'
+  retrieved_at: '2026-10-22T15:46:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T00:52:26.798+02:00'
 integrity:
@@ -59,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:31Z'
-  notes: Texto consolidado 02010L0035-20260530.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:31Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2010-35.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,33 +198,19 @@ relationships:
   source: null
 article_structure:
   article_count: 49
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:31Z'
+  checked_at: '2026-10-22T15:46:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/35/UE do Parlamento Europeu e do Conselho, de 16 de Junho de 2010
-
-> 02010L0035 — PT — 30.05.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L2749) — [DIRETIVA (UE) 2024/2749 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de outubro de 2024](http://publications.europa.eu/resource/celex/32024L2749) — L 2749 — 1 — 8.11.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024L2749R%2801%29) — [Rectificação, JO L 90340, 22.4.2025, p. 1 (2024/2749)](http://publications.europa.eu/resource/celex/32024L2749R%2801%29)
-
-## DIRECTIVA 2010/35/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Junho de 2010
 

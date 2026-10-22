@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0081:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0081-20101127",
+ "dre_path": null,
+ "source_lastmod": "2010-11-27",
+ "versions": [
+  {
+   "date": "2010-11-26",
+   "future": false,
+   "celex": "32010L0081",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d718163fd6bbd4d5",
+    "22aa1bdcba18078f",
+    "53a25fba684c6db3",
+    "643baba95d6795b8",
+    "f4ca73648819f101",
+    "a9d9264254ee7cda"
+   ]
+  }
+ ],
+ "fragments": {
+  "d718163fd6bbd4d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Novembro de 2010\n\nque altera a Directiva 91/414/CEE do Conselho no que se refere à extensão da utilização da substância activa 2-fenilfenol\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado [([^1])](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntr1-L_2010310PT.01001101-E0001), nomeadamente o artigo 6.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) Pela Directiva 2009/160/UE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntr2-L_2010310PT.01001101-E0002), o 2-fenilfenol foi incluído como substância activa no anexo I da Directiva 91/414/CEE, com a disposição específica de que os Estados-Membros só podem autorizar as utilizações no interior como fungicida pós-colheita em câmaras de aspersão fechadas.\n\n(2) Em 18 de Junho de 2010, o notificador apresentou informações sobre outras técnicas de aplicação, como o tratamento com cera, o tratamento por imersão e o tratamento com cortina de espuma, tendo em vista a supressão da restrição relativa ao tratamento em câmaras de aspersão fechadas.\n\n(3) A Espanha, designada Estado-Membro relator pelo Regulamento (CE) n.º 2229/2004 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntr3-L_2010310PT.01001101-E0003), avaliou as informações adicionais e apresentou à Comissão, em 30 de Julho de 2010, uma adenda ao projecto de relatório de avaliação sobre o 2-fenilfenol, que foi enviada aos demais Estados-Membros e à Autoridade Europeia para a Segurança dos Alimentos (AESA) a fim de que pudessem apresentar as suas observações. As observações recebidas não evidenciaram preocupações de maior e os outros Estados-Membros e a AESA não levantaram qualquer questão que pudesse excluir a extensão da utilização. O projecto de relatório de avaliação, juntamente com a referida adenda, foi analisado pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal e concluído, em 28 de Outubro de 2010, sob a forma de relatório de revisão da Comissão sobre o 2-fenilfenol.\n\n(4) As novas informações sobre as técnicas de aplicação apresentadas pelo notificador e a nova avaliação realizada pelo Estado-Membro relator permitem presumir que os produtos fitofarmacêuticos que contêm 2-fenilfenol satisfazem, em geral, as condições definidas no artigo 5.º, n.º 1, alíneas a) e b), da Directiva 91/414/CEE, designadamente no que respeita às utilizações no interior como fungicida pós-colheita que foram examinadas e detalhadas no relatório de revisão da Comissão. Consequentemente, deixa de ser necessário restringir a utilização do 2-fenilfenol às câmaras de aspersão fechadas, tal como estabelecido na Directiva 91/414/CEE com a redacção que lhe foi dada pela Directiva 2009/160/UE.\n\n(5) Sem prejuízo dessa conclusão, é adequado obter informações complementares relativamente a determinados pontos específicos. O artigo 6.º, n.º 1, da Directiva 91/414/CEE determina que a inclusão de uma substância no anexo I pode estar sujeita a condições. Por conseguinte, deve exigir-se que o notificador apresente informações complementares destinadas a confirmar os níveis de resíduos que ocorrem em resultado de técnicas de aplicação diferentes da aplicação em câmaras de aspersão.\n\n(6) Além disso, é igualmente adequado exigir que os Estados-Membros estejam particularmente atentos à protecção dos operadores e dos trabalhadores e garantam que as condições de utilização prescrevem o uso de equipamento de protecção individual adequado.\n\n(7) Por conseguinte, a Directiva 91/414/CEE deve ser alterada em conformidade.\n\n(8) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "22aa1bdcba18078f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "53a25fba684c6db3": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem adoptar e publicar, até 31 de Dezembro de 2010, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 1 de Janeiro de 2011.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros."
+  },
+  "643baba95d6795b8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "f4ca73648819f101": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 25 de Novembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "a9d9264254ee7cda": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntc1-L_2010310PT.01001101-E0001) [JO L 230 de 19.8.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_230_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntc2-L_2010310PT.01001101-E0002) [JO L 338 de 19.12.2009, p. 83](http://publications.europa.eu/resource/oj/JOL_2009_338_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b5c6410b-8b29-487f-84c3-9039a0781884.0012.02/DOC_1#ntc3-L_2010310PT.01001101-E0003) [JO L 379 de 24.12.2004, p. 13](http://publications.europa.eu/resource/oj/JOL_2004_379_R_TOC)."
+  }
+ }
+}

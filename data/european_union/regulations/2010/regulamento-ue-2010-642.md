@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2010-642.versoes.json
+  count: 1
+  source_lastmod: '2017-09-21'
+  versions:
+  - date: '2010-07-21'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010R0642
   eli: http://data.europa.eu/eli/reg/2010/642/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/221eea95-b49c-4b0b-89ae-ff5ebf80c481.0020
   content_url: http://publications.europa.eu/resource/cellar/221eea95-b49c-4b0b-89ae-ff5ebf80c481.0020.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:23Z'
+  retrieved_at: '2026-10-22T15:48:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T02:39:19.223+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:23Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:17Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-642.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -221,21 +230,24 @@ relationships:
   date: '2010-03-07'
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:23Z'
+  checked_at: '2026-10-22T15:48:17Z'
   warnings:
-  - 'Versão consolidada 02010R0642-20170921 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02010R0642-20110320: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R0642-20110705: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R0642-20140318: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R0642-20170725: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02010R0642-20170921: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 642/2010 DA COMISSÃO
+# Regulamento (UE) n. ° 642/2010 da Comissão, de 20 de Julho de 2010
 
 de 20 de Julho de 2010
 

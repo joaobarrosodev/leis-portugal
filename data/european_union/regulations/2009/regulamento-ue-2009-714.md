@@ -37,6 +37,95 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-01-01'
+version_history:
+  file: regulamento-ue-2009-714.versoes.json
+  count: 4
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2009-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-01'
+    amending: eu:celex:32013R0347:por
+    amending_title: REGULAMENTO (UE) N. o 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Funções da REORT para a Electricidade
+    - Altera Artigo 17.º — Novas interligações
+    - Altera Artigo 18.º — Orientações
+    - Altera Artigo 23.º — Procedimento de comité
+    - Altera Artigo 26.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 11.º — Custos
+    - Adita ANEXO I
+    - Adita ORIENTAÇÕES SOBRE A GESTÃO E A ATRIBUIÇÃO DA CAPACIDADE DE TRANSPORTE DISPONÍVEL NAS LINHAS DE INTERLIGAÇÃO ENTRE
+      REDES NACIONAIS
+    - Adita 1. Disposições gerais
+    - Adita 2. Métodos de gestão dos congestionamentos
+    - Adita 3. Coordenação
+    - Adita 4. Horário das operações do mercado
+    - Adita 5. Transparência
+    - Adita 6. Utilização das receitas provenientes dos procedimentos de gestão de congestionamentos
+    - Adita ANEXO II
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Suprime Artigo 11.º — Despesas
+  - date: '2015-01-05'
+    amending: eu:celex:32013R0543:por
+    amending_title: REGULAMENTO (UE) N. o 543/2013 DA COMISSÃO de 14 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Funções da REORT para a Electricidade
+    - Altera Artigo 17.º — Novas interligações
+    - Altera Artigo 23.º — Procedimento de comité
+    - Altera 1. Disposições gerais
+    - Altera 5. Transparência
+    - Altera Notas
+  - date: '2020-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Certificação dos Operadores das Redes de Transporte
+    - Suprime Artigo 4.º — Rede europeia dos operadores das redes de transporte de electricidade
+    - Suprime Artigo 5.º — Instituição da REORT para a Electricidade
+    - Suprime Artigo 6.º — Estabelecimento de códigos de rede
+    - Suprime Artigo 7.º — Modificação dos códigos de rede
+    - Suprime Artigo 8.º — Funções da REORT para a Electricidade
+    - Suprime Artigo 9.º — Monitorização pela Agência
+    - Suprime Artigo 10.º — Consultas
+    - Suprime Artigo 11.º — Custos
+    - Suprime Artigo 12.º — Cooperação regional dos operadores das redes de transporte
+    - Suprime Artigo 13.º — Mecanismo de compensação entre operadores de redes de transporte
+    - Suprime Artigo 14.º — Tarifas de acesso às redes
+    - Suprime Artigo 15.º — Comercialização de informações
+    - Suprime Artigo 16.º — Princípios gerais de gestão dos congestionamentos
+    - Suprime Artigo 17.º — Novas interligações
+    - Suprime Artigo 18.º — Orientações
+    - Suprime Artigo 19.º — Entidades reguladoras
+    - Suprime Artigo 20.º — Comercialização de informações e confidencialidade
+    - Suprime Artigo 21.º — Direito dos Estados-Membros de preverem medidas mais detalhadas
+    - Suprime Artigo 22.º — Sanções
+    - Suprime Artigo 23.º — Procedimento de comité
+    - Suprime Artigo 24.º — Relatório da Comissão
+    - Suprime Artigo 25.º — Revogações
+    - Suprime Artigo 26.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ORIENTAÇÕES SOBRE A GESTÃO E A ATRIBUIÇÃO DA CAPACIDADE DE TRANSPORTE DISPONÍVEL NAS LINHAS DE INTERLIGAÇÃO
+      ENTRE REDES NACIONAIS
+    - Suprime 1. Disposições gerais
+    - Suprime 2. Métodos de gestão dos congestionamentos
+    - Suprime 3. Coordenação
+    - Suprime 4. Horário das operações do mercado
+    - Suprime 5. Transparência
+    - Suprime 6. Utilização das receitas provenientes dos procedimentos de gestão de congestionamentos
+    - Suprime ANEXO II
+    - Suprime TABELA DE CORRESPONDÊNCIA
+    - Suprime Notas
 identifiers:
   celex: 32009R0714
   eli: http://data.europa.eu/eli/reg/2009/714/oj
@@ -51,7 +140,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/924a1d7c-1961-4421-be9e-3c740524436e.0019
   content_url: http://publications.europa.eu/resource/cellar/771987f5-176c-11ea-8c1f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0714-20200101
-  retrieved_at: '2026-10-22T02:38:20Z'
+  retrieved_at: '2026-10-22T15:43:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T16:37:30.693+02:00'
 integrity:
@@ -60,9 +149,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:20Z'
-  notes: Texto consolidado 02009R0714-20200101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:37Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-714.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,16 +282,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:20Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:43:37Z'
+  warnings: []
   errors: []
 ---
 

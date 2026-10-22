@@ -38,6 +38,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-02-21'
+version_history:
+  file: regulamento-ue-2009-1072.versoes.json
+  count: 2
+  source_lastmod: '2022-02-21'
+  versions:
+  - date: '2009-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-02-21'
+    amending: eu:celex:32012R0612:por
+    amending_title: REGULAMENTO (UE) N. o 612/2012 DA COMISSÃO de 9 de julho de 2012; REGULAMENTO (UE) N. o 517/2013 DO CONSELHO
+      de 13 de maio de 2013; REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.o — Âmbito de aplicação
+    - Altera Artigo 2.o — Definições
+    - Altera Artigo 4.o — Licença comunitária
+    - Altera Artigo 5.o — Certificado de motorista
+    - Altera Artigo 8.o — Princípio geral
+    - Altera Artigo 9.o — Regras aplicáveis às operações de cabotagem
+    - Altera Artigo 10.o — Procedimento de salvaguarda
+    - Altera Artigo 19.o — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 10.º-A — Controlos
+    - Adita Artigo 14.º-A — Responsabilidade
+    - Adita Artigo 14.º-B — Exercício da delegação
+    - Adita Artigo 17.º — Apresentação de relatórios e revisão
+    - Adita ANEXO I
+    - Adita Elementos de segurança da licença comunitária e do certificado de motorista
+    - Adita ANEXO II
+    - Adita Modelo da licença comunitária
+    - Adita COMUNIDADE EUROPEIA
+    - Adita (a)
+    - Adita (Papel de cor Pantone azul clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)
+    - Adita (Primeira página da licença)
+    - Adita (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)
+    - Adita (b)
+    - Adita (Segunda página da licença)
+    - Adita ANEXO III
+    - Adita Modelo do certificado de motorista
+    - Adita (Papel de cor Pantone rosa 182, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)
+    - Adita (Primeira página do certificado)
+    - Adita (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)
+    - Adita (Segunda página do certificado)
+    - Adita ANEXO IV
+    - Adita Tabela de correspondência
+    - Suprime Artigo 15.o — Procedimento de comité
+    - Suprime Artigo 17.o — Apresentação de relatórios
 identifiers:
   celex: 32009R1072
   eli: http://data.europa.eu/eli/reg/2009/1072/oj
@@ -52,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019
   content_url: http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1072-20220221
-  retrieved_at: '2026-10-22T02:39:52Z'
+  retrieved_at: '2026-10-22T15:44:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T22:56:19.813+02:00'
 integrity:
@@ -61,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:52Z'
-  notes: Texto consolidado 02009R1072-20220221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1072.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -227,31 +276,21 @@ relationships:
   date: '2007-01-01'
 article_structure:
   article_count: 21
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:52Z'
-  warnings: []
+  checked_at: '2026-10-22T15:44:44Z'
+  warnings:
+  - '02009R1072-20120711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R1072-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1072/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009R1072 — PT — 21.02.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0612) — [REGULAMENTO (UE) N.º 612/2012 DA COMISSÃO de 9 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0612) — L 178 — 5 — 10.7.2012
-- [►M2](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32020R1055) — [REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1055) — L 249 — 17 — 31.7.2020
-
-## REGULAMENTO (CE) N.º 1072/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

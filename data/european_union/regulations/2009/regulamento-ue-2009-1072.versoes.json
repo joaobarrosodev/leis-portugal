@@ -1,0 +1,744 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R1072:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1072-20220221",
+ "dre_path": null,
+ "source_lastmod": "2022-02-21",
+ "versions": [
+  {
+   "date": "2009-11-14",
+   "future": false,
+   "celex": "32009R1072",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4859b8ee49b690f5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "de5d55b1f2779e9d",
+    "cd65ac17460246ac",
+    "f0f8c960bfdbce9b",
+    "9161032c76962197",
+    "f295e4932d9bf017",
+    "5f03282d87d3969e",
+    "3676556511c0dc62",
+    "7add0bb70d8248c7",
+    "9f86c56b55f392e2",
+    "1e7a0903d2eed348",
+    "0e7f0aa48f83d49e",
+    "f83bf2e1e9ac85e2",
+    "8436fd8b73871ed7",
+    "56ce638063cd8f6e",
+    "1ecfc79da3f1ac7f",
+    "62cb9e8ca5c2218a",
+    "e2888a59c58425d1",
+    "c9ba8d2d9ed19c8b",
+    "a2eed218dd8144ec",
+    "233d3e183c25d090",
+    "40ed6b62e188ac6f",
+    "39ad9011ff417418",
+    "693dcff1d42dd658",
+    "05a9b00b60b2b6ba",
+    "a5f5c64e8844d105",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "d3fc87a710acd8e9",
+    "cb8bb9e8ccf609aa",
+    "00447a68721230be"
+   ]
+  },
+  {
+   "date": "2022-02-21",
+   "future": false,
+   "celex": "02009R1072-20220221",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0612:por",
+     "title": "REGULAMENTO (UE) N. o 612/2012 DA COMISSÃO de 9 de julho de 2012",
+     "published": null,
+     "celex": "32012R0612"
+    },
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    },
+    {
+     "id": "eu:celex:32020R1055:por",
+     "title": "REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020",
+     "published": null,
+     "celex": "32020R1055"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.o — Âmbito de aplicação",
+    "Altera Artigo 2.o — Definições",
+    "Altera Artigo 4.o — Licença comunitária",
+    "Altera Artigo 5.o — Certificado de motorista",
+    "Altera Artigo 8.o — Princípio geral",
+    "Altera Artigo 9.o — Regras aplicáveis às operações de cabotagem",
+    "Altera Artigo 10.o — Procedimento de salvaguarda",
+    "Altera Artigo 19.o — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 10.º-A — Controlos",
+    "Adita Artigo 14.º-A — Responsabilidade",
+    "Adita Artigo 14.º-B — Exercício da delegação",
+    "Adita Artigo 17.º — Apresentação de relatórios e revisão",
+    "Adita ANEXO I",
+    "Adita Elementos de segurança da licença comunitária e do certificado de motorista",
+    "Adita ANEXO II",
+    "Adita Modelo da licença comunitária",
+    "Adita COMUNIDADE EUROPEIA",
+    "Adita (a)",
+    "Adita (Papel de cor Pantone azul clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+    "Adita (Primeira página da licença)",
+    "Adita (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)",
+    "Adita (b)",
+    "Adita (Segunda página da licença)",
+    "Adita ANEXO III",
+    "Adita Modelo do certificado de motorista",
+    "Adita (Papel de cor Pantone rosa 182, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+    "Adita (Primeira página do certificado)",
+    "Adita (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)",
+    "Adita (Segunda página do certificado)",
+    "Adita ANEXO IV",
+    "Adita Tabela de correspondência",
+    "Suprime Artigo 15.o — Procedimento de comité",
+    "Suprime Artigo 17.o — Apresentação de relatórios"
+   ],
+   "fragments": [
+    "b507ff63aad9100b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "647f60da6bee6e25",
+    "ebeaa32bc8caeed1",
+    "f0f8c960bfdbce9b",
+    "9161032c76962197",
+    "f295e4932d9bf017",
+    "884a9bfd2b512b38",
+    "7244e85ea3a3b367",
+    "7add0bb70d8248c7",
+    "91ca80857ee18acb",
+    "1e7a0903d2eed348",
+    "0e7f0aa48f83d49e",
+    "1fde84ac3bf68f3b",
+    "5f749f6ed9613741",
+    "419b36f261ca4f9c",
+    "6f178ce98de45b99",
+    "1ecfc79da3f1ac7f",
+    "62cb9e8ca5c2218a",
+    "e2888a59c58425d1",
+    "7263f3217d91a540",
+    "3b535de20e11b542",
+    "233d3e183c25d090",
+    "bb85a176742cb8b8",
+    "32c7f2124cf04c17",
+    "40ed6b62e188ac6f",
+    "39ad9011ff417418",
+    "05a9b00b60b2b6ba",
+    "08f598f4c558a763",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "d3fc87a710acd8e9",
+    "bafcc5e275a6fc6f",
+    "d664376e2a8dcecd",
+    "ba3d40fe94e695b6",
+    "852174729551523b",
+    "c96b2c27d26b1ed0",
+    "d66228c8c6b0e1e7",
+    "55992bec1ccf7f30",
+    "d1ba69e64bf68c6c",
+    "da37bdaf561217bd",
+    "83f36382bd6503d8",
+    "f4df34dbf078df2a",
+    "0bfe31379b8c28a8",
+    "ef8550d0903648a0",
+    "720af75c92791b10",
+    "52d1b16c2776fa38",
+    "d66228c8c6b0e1e7",
+    "55992bec1ccf7f30",
+    "ddf05b793f8c31dd",
+    "840167c49d0a234f",
+    "b54cee5acf267f79",
+    "f4df34dbf078df2a",
+    "43e0aa7623a0837d",
+    "bc447f33b34133cf",
+    "e03a0eb4d5b2eef3",
+    "d941b432a5159082",
+    "41b180d8ac35ba47"
+   ]
+  }
+ ],
+ "fragments": {
+  "4859b8ee49b690f5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nque estabelece regras comuns para o acesso ao mercado do transporte internacional rodoviário de mercadorias\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 71.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr1-L_2009300PT.01007201-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr2-L_2009300PT.01007201-E0002),\n\nConsiderando o seguinte:\n\n(1) É necessário introduzir alterações de fundo no Regulamento (CEE) n.º 881/92 do Conselho, de 26 de Março de 1992, relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir ou com destino ao território de um Estado-Membro ou que atravessem o território de um ou vários Estados-Membros [([^3])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr3-L_2009300PT.01007201-E0003), no Regulamento (CEE) n.º 3118/93 do Conselho, de 25 de Outubro de 1993, que fixa as condições de admissão de transportadores não residentes aos transportes nacionais rodoviários de mercadorias num Estado-Membro [([^4])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr4-L_2009300PT.01007201-E0004), e na Directiva 2006/94/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa ao estabelecimento de regras comuns para certos transportes rodoviários de mercadorias [([^5])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr5-L_2009300PT.01007201-E0005). Por uma questão de clareza e de simplificação, estes diplomas legais deverão ser reformulados e incorporados num único regulamento.\n\n(2) O estabelecimento de uma política comum dos transportes implica, nomeadamente, a aprovação de regras comuns aplicáveis ao acesso ao mercado dos transportes internacionais rodoviários de mercadorias no território da Comunidade e a aprovação das condições em que os transportadores de mercadorias não residentes podem efectuar serviços de transporte num Estado-Membro. Estas regras devem ser estabelecidas de forma a contribuir para o bom funcionamento do mercado interno dos transportes.\n\n(3) Para assegurar um enquadramento coerente do transporte internacional rodoviário de mercadorias em toda a Comunidade, o presente regulamento deverá aplicar-se a todos os transportes internacionais efectuados no território comunitário. Os transportes de Estados-Membros para países terceiros continuam a ser em larga medida efectuados ao abrigo de acordos bilaterais celebrados entre os Estados-Membros e os países terceiros. Por conseguinte, enquanto não tiverem sido celebrados os acordos necessários entre a Comunidade e os países terceiros em causa, o presente regulamento não deverá aplicar-se ao trajecto efectuado no território do Estado-Membro de carga ou de descarga. Deverá, contudo, aplicar-se no território dos Estados-Membros atravessados em trânsito.\n\n(4) A criação de uma política comum de transportes implica a eliminação de todas as restrições em relação ao prestador de serviços de transporte em razão da nacionalidade ou do facto de se encontrar estabelecido num Estado-Membro distinto daquele em que os serviços devam ser prestados.\n\n(5) Para que isso possa ser alcançado de forma harmoniosa e flexível, deverá prever-se um regime transitório de cabotagem enquanto a harmonização do mercado dos transportes rodoviários de mercadorias não estiver concluída.\n\n(6) A realização gradual do mercado único europeu deverá conduzir à eliminação das restrições ao acesso aos mercados nacionais dos Estados-Membros. Contudo, deverá ser tida em conta a eficácia dos controlos e a evolução das condições de trabalho na profissão, bem como a harmonização das regras, nomeadamente nos domínios da execução e das taxas de utilização das rodovias e da legislação em matéria social e de segurança. A Comissão deverá acompanhar atentamente a situação do mercado, bem como a harmonização acima referida, e propor, se for caso disso, a prossecução da abertura dos mercados dos transportes rodoviários nacionais, incluindo o mercado de cabotagem.\n\n(7) Nos termos da Directiva 2006/94/CE, alguns tipos de transporte estão dispensados de autorização comunitária e qualquer outra autorização de transporte. No âmbito da organização do mercado prevista no presente regulamento, deverá manter-se para alguns daqueles tipos de transporte, devido ao seu carácter específico, um regime de dispensa da licença comunitária e de qualquer outra autorização de transporte.\n\n(8) Nos termos da Directiva 2006/94/CE, o transporte de mercadorias em veículos com peso máximo em carga entre 3,5 e 6 toneladas foi dispensado da licença comunitária. As regras comunitárias no domínio do transporte rodoviário de mercadorias são, contudo, geralmente aplicáveis aos veículos com uma massa máxima em carga de mais de 3,5 toneladas. Assim, as disposições do presente regulamento deverão ser alinhadas pelo âmbito geral de aplicação das regras comunitárias relativas ao transporte rodoviário e prever apenas uma dispensa no caso dos veículos com massa máxima em carga não superior a 3,5 toneladas.\n\n(9) O transporte internacional rodoviário de mercadorias deverá ser subordinado à detenção de uma licença comunitária. Os transportadores deverão conservar uma cópia certificada da licença comunitária a bordo de cada um dos seus veículos, a fim de facilitar um controlo eficaz pelas autoridades responsáveis pela aplicação da lei, especialmente dos controlos efectuados fora do Estado-Membro de estabelecimento do transportador. Para o efeito, é necessário estabelecer especificações mais pormenorizadas no que se refere ao modelo e às demais características da licença comunitária e das cópias certificadas.\n\n(10) As operações de fiscalização na estrada deverão ser levadas a efeito sem discriminação, directa ou indirecta, em razão da nacionalidade do transportador rodoviário ou do país de estabelecimento do transportador rodoviário ou de registo do veículo.\n\n(11) Deverá definir-se as condições de emissão e de retirada das licenças comunitárias, bem como os tipos de transporte para os quais são válidas, o seu período de validade e as regras pormenorizadas da sua utilização.\n\n(12) Deverá igualmente criar-se um certificado de motorista que permita que os Estados-Membros controlem eficazmente a regularidade da contratação de motoristas de países terceiros ou da sua prestação de serviço no transportador responsável por determinada operação de transporte.\n\n(13) Os transportadores titulares da licença comunitária prevista no presente regulamento e os transportadores habilitados a efectuar determinadas categorias de serviços de transporte internacional de mercadorias deverão ser autorizados a efectuar, a título temporário, e de acordo com o presente regulamento, serviços de transporte nacional num Estado-Membro sem aí disporem de uma sede ou de outro estabelecimento. Sempre que forem efectuadas, essas operações de cabotagem deverão ficar sujeitas à legislação comunitária, como o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho, de 15 de Março de 2006, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários [([^6])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr6-L_2009300PT.01007201-E0006), e à legislação nacional em vigor em domínios específicos no Estado-Membro de acolhimento.\n\n(14) É necessário aprovar disposições que permitam intervir em mercados de transportes afectados por perturbações graves. Para esse efeito, deverá criar se um processo de tomada de decisões apropriado e proceder à recolha dos dados estatísticos necessários.\n\n(15) Sem prejuízo das disposições do Tratado relativas ao direito de estabelecimento, as operações de cabotagem são um exemplo de prestação de serviços por transportadores num Estado-Membro em que não se encontram estabelecidos e não deverão ser proibidas se não forem levadas a cabo de uma forma que constitua uma actividade permanente ou contínua no Estado-Membro de acolhimento. A fim de contribuir para a aplicação deste requisito, a frequência das operações de cabotagem e o período em que podem ser realizadas deverão ser mais claramente definidos. No passado, estes serviços de transporte nacional eram autorizados a título temporário. Na prática, tem sido difícil verificar quais os serviços autorizados. É, por conseguinte, necessário definir regras claras e fáceis de fazer cumprir.\n\n(16) O presente regulamento aplica-se sem prejuízo das disposições relativas ao início ou ao fim de um trajecto de transporte rodoviário de mercadorias no âmbito do transporte combinado, nas condições previstas na Directiva 92/106/CEE do Conselho, de 7 de Dezembro de 1992, relativa ao estabelecimento de regras comuns para certos transportes combinados de mercadorias entre Estados-Membros [([^7])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr7-L_2009300PT.01007201-E0007). Os trajectos rodoviários nacionais no interior de um Estado-Membro de acolhimento, que não façam parte de um transporte combinado, tal como definido na Directiva 92/106/CEE, relevam da definição de operações de cabotagem e deverão, consequentemente, estar sujeitos aos requisitos do presente regulamento.\n\n(17) As disposições da Directiva 96/71/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços [([^8])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr8-L_2009300PT.01007201-E0008), aplicam-se às empresas de transporte que efectuem operações de cabotagem.\n\n(18) A fim de realizar controlos eficazes das operações de cabotagem, as autoridades responsáveis pela aplicação da lei do Estado-Membro de acolhimento deverão ter acesso, pelo menos, aos dados constantes das notas de expedição e do equipamento de registo, nos termos do Regulamento (CEE) n.º 3821/85 do Conselho, de 20 de Dezembro de 1985, relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários [([^9])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr9-L_2009300PT.01007201-E0009).\n\n(19) Os Estados-Membros deverão prestar assistência mútua para a boa aplicação do presente regulamento.\n\n(20) As formalidades administrativas deverão ser reduzidas, na medida do possível, sem renunciar aos controlos e sanções necessários para garantir a correcta aplicação e o cumprimento efectivo do presente regulamento. Para o efeito, é necessário aclarar e reforçar as regras aplicáveis à retirada da licença comunitária. As regras em vigor deverão ser adaptadas de modo a permitir que as infracções graves cometidas num Estado-Membro de acolhimento sejam objecto de sanções eficazes. As sanções deverão ser não discriminatórias e proporcionais à gravidade das infracções. Deverá prever-se a possibilidade de recurso relativamente a qualquer aplicação de sanções.\n\n(21) Os Estados-Membros deverão inscrever no registo electrónico nacional das empresas de transporte rodoviário todas as infracções graves cometidas pelos transportadores que tenham conduzido à aplicação de uma sanção.\n\n(22) Para facilitar e reforçar o intercâmbio de informações entre as autoridades nacionais, os Estados-Membros deverão trocar as informações pertinentes através dos pontos de contacto nacionais estabelecidos nos termos do Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, que estabelece regras comuns no que se refere aos requisitos para o exercício da actividade de transportador rodoviário [([^10])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr10-L_2009300PT.01007201-E0010).\n\n(23) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^11])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr11-L_2009300PT.01007201-E0011).\n\n(24) Em especial, deverá ser atribuída competência à Comissão para adaptar os anexos I, II e III do presente regulamento ao progresso técnico. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(25) Os Estados-Membros deverão tomar as medidas necessárias à aplicação do presente regulamento, nomeadamente no respeitante a sanções efectivas, proporcionadas e dissuasivas.\n\n(26) Atendendo a que o objectivo do presente regulamento, a saber, assegurar um enquadramento coerente para os transportes rodoviários internacionais de mercadorias em toda a Comunidade, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à sua dimensão e efeitos, ser mais bem alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "de5d55b1f2779e9d": {
+   "fragment_id": "Artigo 1.o — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.o — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.o — Âmbito de aplicação\n\n1. O presente regulamento aplica-se aos transportes rodoviários internacionais de mercadorias por conta de outrem em trajectos efectuados no território da Comunidade.\n\n2. No caso de transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, o presente regulamento é aplicável ao trajecto efectuado no território dos Estados-Membros atravessados em trânsito. Não é aplicável ao trajecto efectuado no território do Estado-Membro de carga ou de descarga, enquanto não tiver sido celebrado o necessário acordo entre a Comunidade e o país terceiro em causa.\n\n3. Enquanto se aguarda a celebração dos acordos a que se refere o n.º 2, o presente regulamento não afecta:\n\na) As disposições aplicáveis aos transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, abrangidos por acordos bilaterais celebrados entre os Estados-Membros e esses países terceiros;\n\nb) As disposições aplicáveis aos transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, abrangidos por acordos bilaterais celebrados entre Estados-Membros e que, através de autorizações bilaterais ou em regime de liberdade, permitem que os transportadores não estabelecidos num Estado-Membro efectuem cargas e descargas nesse Estado-Membro.\n\n4. O presente regulamento é aplicável aos transportes nacionais rodoviários de mercadorias efectuados a título temporário por transportadores não residentes, conforme previsto no capítulo III.\n\n5. Os seguintes tipos de transportes e de deslocações sem carga relacionadas com esses transportes não necessitam de licença comunitária e estão dispensados de autorização de transporte:\n\na) Transportes postais efectuados em regime de serviço universal;\n\nb) Transportes de veículos danificados ou avariados;\n\nc) Transportes de mercadorias em veículos cujo peso total em carga autorizada, incluindo a dos reboques, não exceda 3,5 toneladas;\n\nd) Transportes de mercadorias em veículos, desde que sejam preenchidas as seguintes condições: i) as mercadorias transportadas pertencerem à empresa ou por ela terem sido vendidas, compradas, dadas ou tomadas de aluguer, produzidas, extraídas, transformadas ou reparadas, ii) o transporte servir para encaminhar as mercadorias da ou para a empresa ou para as deslocar, quer no interior da empresa, quer no seu exterior, para satisfazer necessidades próprias desta, iii) os veículos a motor utilizados nestes transportes serem conduzidos por pessoal próprio da empresa ou por pessoal ao serviço da empresa nos termos de uma obrigação contratual, iv) os veículos que transportem as mercadorias pertencerem à empresa ou terem sido por ela comprados a crédito ou alugados, desde que, neste último caso, preencham as condições previstas na Directiva 2006/1/CE do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias [([^12])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr12-L_2009300PT.01007201-E0012), e v) o transporte constituir meramente uma actividade acessória do conjunto das actividades da empresa;\n\ni) as mercadorias transportadas pertencerem à empresa ou por ela terem sido vendidas, compradas, dadas ou tomadas de aluguer, produzidas, extraídas, transformadas ou reparadas,\n\nii) o transporte servir para encaminhar as mercadorias da ou para a empresa ou para as deslocar, quer no interior da empresa, quer no seu exterior, para satisfazer necessidades próprias desta,\n\niii) os veículos a motor utilizados nestes transportes serem conduzidos por pessoal próprio da empresa ou por pessoal ao serviço da empresa nos termos de uma obrigação contratual,\n\niv) os veículos que transportem as mercadorias pertencerem à empresa ou terem sido por ela comprados a crédito ou alugados, desde que, neste último caso, preencham as condições previstas na Directiva 2006/1/CE do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias [([^12])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr12-L_2009300PT.01007201-E0012), e\n\nv) o transporte constituir meramente uma actividade acessória do conjunto das actividades da empresa;\n\ne) Transportes de medicamentos, aparelhos e equipamento médicos, bem como de outros artigos necessários em caso de socorro urgente, nomeadamente no caso de catástrofes naturais.\n\nA subalínea iv) da alínea d) do primeiro parágrafo não é aplicável no caso de utilização de um veículo de substituição durante uma avaria de curta duração do veículo normalmente utilizado.\n\n6. O disposto no n.º 5 não afecta as condições de que cada Estado-Membro faz depender o acesso dos seus próprios nacionais às actividades referidas no mesmo número."
+  },
+  "cd65ac17460246ac": {
+   "fragment_id": "Artigo 2.o — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.o — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.o — Definições\n\nPara os efeitos do presente regulamento, entende-se por:\n\n1. «Veículo»: um veículo a motor matriculado num Estado-Membro ou um conjunto de veículos acoplados, dos quais pelo menos o veículo a motor está matriculado num Estado-Membro, destinados exclusivamente ao transporte de mercadorias;\n\n2. «Transportes internacionais»: a) As deslocações em carga de um veículo cujos pontos de partida e de chegada se situam em dois Estados-Membros diferentes, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros; b) As deslocações em carga de um veículo com origem num Estado-Membro com destino a um país terceiro, e vice-versa, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros; c) As deslocações em carga de um veículo entre países terceiros, atravessando em trânsito o território de um ou mais Estados-Membros; d) As deslocações sem carga relacionadas com os transportes a que se referem as alíneas a), b) e c);\n\na) As deslocações em carga de um veículo cujos pontos de partida e de chegada se situam em dois Estados-Membros diferentes, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros;\n\nb) As deslocações em carga de um veículo com origem num Estado-Membro com destino a um país terceiro, e vice-versa, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros;\n\nc) As deslocações em carga de um veículo entre países terceiros, atravessando em trânsito o território de um ou mais Estados-Membros;\n\nd) As deslocações sem carga relacionadas com os transportes a que se referem as alíneas a), b) e c);\n\n3. «Estado-Membro de acolhimento»: um Estado-Membro em que opera um transportador, distinto do Estado-Membro de estabelecimento do transportador;\n\n4. «Transportador não residente»: uma empresa de transporte rodoviário de mercadorias que opera num Estado-Membro de acolhimento;\n\n5. «Motorista»: qualquer pessoa que conduza o veículo, mesmo por um curto período, ou que siga num veículo no âmbito das suas funções para assegurar a sua condução, caso seja necessário;\n\n6. «Operações de cabotagem»: transportes nacionais por conta de outrem efectuados a título temporário num Estado-Membro de acolhimento, de acordo com o presente regulamento;\n\n7. «Infracção grave à legislação comunitária no domínio do transporte rodoviário»: uma infracção que pode acarretar a perda da idoneidade, nos termos n.^os^ 1 e 2 do artigo 6.º do Regulamento (CE) n.º 1071/2009, e/ou a retirada temporária ou definitiva de uma licença comunitária."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "9161032c76962197": {
+   "fragment_id": "TRANSPORTES INTERNACIONAIS",
+   "type": "divisao",
+   "heading": "TRANSPORTES INTERNACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TRANSPORTES INTERNACIONAIS"
+  },
+  "f295e4932d9bf017": {
+   "fragment_id": "Artigo 3.o — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 3.o — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.o — Princípio geral\n\nOs transportes internacionais são efectuados a coberto de uma licença comunitária, em conjugação com um certificado de motorista caso o motorista seja nacional de um país terceiro."
+  },
+  "5f03282d87d3969e": {
+   "fragment_id": "Artigo 4.o — Licença comunitária",
+   "type": "artigo",
+   "heading": "Artigo 4.o — Licença comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.o — Licença comunitária\n\n1. A licença comunitária é emitida por um Estado-Membro, nos termos do presente regulamento, aos transportadores rodoviários de mercadorias por conta de outrem que:\n\na) Estejam estabelecidos nesse Estado-Membro nos termos da legislação comunitária e da legislação desse Estado-Membro; e\n\nb) Estejam autorizados a efectuar no Estado-Membro de estabelecimento, nos termos da legislação comunitária e da legislação desse Estado-Membro em matéria de acesso à actividade de transportador, transportes rodoviários internacionais de mercadorias.\n\n2. A licença comunitária é emitida pelas autoridades competentes do Estado-Membro de estabelecimento por períodos renováveis que não podem exceder dez anos.\n\nAs licenças comunitárias e cópias certificadas emitidas antes da data de aplicação do presente regulamento permanecem válidas até ao termo do seu prazo de validade.\n\nA Comissão adapta o prazo de validade da licença comunitária em função do progresso técnico, nomeadamente no que se refere aos registos electrónicos nacionais das empresas de transporte rodoviário previstos no artigo 16.º do Regulamento (CE) n.º 1071/2009. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 15.º.\n\n3. O Estado-Membro de estabelecimento entrega ao titular o original da licença comunitária, que deve ser conservado pelo transportador, e o número de cópias certificadas correspondente ao número de veículos de que o titular da licença comunitária dispõe, quer em propriedade plena quer a outro título, por exemplo em virtude de um contrato de compra a prestações, de aluguer ou de locação financeira.\n\n4. A licença comunitária e as cópias certificadas devem ser conformes com o modelo que consta do anexo II, que fixa igualmente as condições de utilização da licença comunitária. A licença comunitária e as cópias certificadas devem conter pelo menos dois dos elementos de segurança enumerados no anexo I.\n\nA Comissão adapta os anexos I e II ao progresso técnico. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 15.º.\n\n5. A licença comunitária e as suas cópias certificadas devem ostentar o carimbo da autoridade emissora, bem como uma assinatura e um número de série. Os números de série da licença comunitária e os das cópias certificadas devem ser inscritos no registo electrónico nacional das empresas de transporte rodoviário enquanto parte integrante dos dados relativos ao transportador.\n\n6. A licença comunitária é emitida em nome do transportador e não é transmissível. Cada um dos veículos do transportador deve ter a bordo uma cópia certificada da licença comunitária, que deve ser apresentada sempre que for solicitada pelos agentes responsáveis pelo controlo.\n\nNo caso de um conjunto de veículos acoplados, a cópia certificada da licença deve acompanhar o veículo tractor. Esta cópia deve abranger o conjunto dos veículos acoplados, mesmo que o reboque ou semi-reboque não esteja matriculado ou autorizado a circular em nome do titular da licença ou esteja matriculado ou autorizado a circular noutro Estado-Membro."
+  },
+  "3676556511c0dc62": {
+   "fragment_id": "Artigo 5.o — Certificado de motorista",
+   "type": "artigo",
+   "heading": "Artigo 5.o — Certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.o — Certificado de motorista\n\n1. O certificado de motorista é emitido por um Estado-Membro, nos termos do presente regulamento, a qualquer transportador que:\n\na) Seja titular de uma licença comunitária; e\n\nb) No referido Estado-Membro, empregue legalmente um motorista que não seja nacional nem residente de longa duração, na acepção da Directiva 2003/109/CE do Conselho, de 25 de Novembro de 2003, relativa ao estatuto dos nacionais de países terceiros residentes de longa duração [([^13])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr13-L_2009300PT.01007201-E0013), de um Estado-Membro, ou utilize legalmente os serviços de um motorista que não seja nacional nem residente de longa duração, na acepção da mesma directiva, de um Estado-Membro, e que esteja ao serviço desse transportador de acordo com as condições de trabalho e formação profissional de motoristas fixadas nesse mesmo Estado-Membro: i) em disposições legais, regulamentares ou administrativas e, se for caso disso, ii) em convenções colectivas, de acordo com as regras aplicáveis nesse Estado-Membro.\n\ni) em disposições legais, regulamentares ou administrativas e, se for caso disso,\n\nii) em convenções colectivas, de acordo com as regras aplicáveis nesse Estado-Membro.\n\n2. O certificado de motorista é emitido pelas autoridades competentes do Estado-Membro de estabelecimento do transportador, a pedido do titular da licença comunitária, para cada motorista que não seja nacional de um Estado-Membro nem residente de longa duração, na acepção da Directiva 2003/109/CE, que o referido transportador empregue legalmente, ou para cada motorista que não seja nacional de um Estado-Membro nem residente de longa duração, na acepção da Directiva 2003/109/CE, não serviço desse transportador. O certificado de motorista atesta que o motorista cujo nome dele conste está empregado nas condições definidas no n.º 1.\n\n3. O certificado de motorista deve ser conforme com o modelo que consta do anexo III. O certificado de motorista deve conter pelo menos dois dos elementos de segurança enumerados no anexo I.\n\n4. A Comissão adapta o anexo III ao progresso técnico. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 15.º.\n\n5. O certificado de motorista deve ostentar o carimbo da autoridade emissora, bem como uma assinatura e um número de série. O número de série do certificado de motorista pode ser inscrito no registo electrónico nacional das empresas de transporte rodoviário enquanto parte integrante dos dados do transportador que disponibiliza o certificado ao motorista nele identificado.\n\n6. O certificado de motorista é propriedade do transportador, que o deve entregar ao motorista nele identificado quando este tenha de conduzir um veículo a coberto de uma licença comunitária de que o transportador seja titular. O transportador deve conservar nas suas instalações uma cópia certificada do certificado de motorista emitida pelas autoridades competentes do Estado-Membro de estabelecimento do transportador. O certificado de motorista deve ser apresentado sempre que for solicitado pelos agentes responsáveis pelo controlo.\n\n7. O certificado de motorista é emitido por um período a fixar pelo Estado-Membro emissor, não devendo a sua validade exceder cinco anos. Os certificados de motorista emitidos antes da data de aplicação do presente regulamento permanecem válidos até ao termo do seu prazo de validade.\n\nO certificado de motorista é válido apenas enquanto as condições em que foi emitido estiverem preenchidas. Os Estados-Membros tomam as medidas adequadas para assegurar que os certificados sejam devolvidos pelo transportador à autoridade emissora logo que essas condições deixem de estar preenchidas."
+  },
+  "7add0bb70d8248c7": {
+   "fragment_id": "Artigo 6.o — Verificação das condições",
+   "type": "artigo",
+   "heading": "Artigo 6.o — Verificação das condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.o — Verificação das condições\n\n1. Aquando da apresentação de um pedido de emissão ou renovação de uma licença comunitária ao abrigo do n.º 2 do artigo 4.º, as autoridades competentes do Estado-Membro de estabelecimento verificam se o transportador preenche, ou continua a preencher, as condições fixadas no n.º 1 do artigo 4.º.\n\n2. As autoridades competentes do Estado-Membro de estabelecimento verificam regularmente, procedendo todos os anos à inspecção de pelo menos 20 % dos certificados de motorista válidos emitidos nesse Estado-Membro, se continuam a estar preenchidas as condições de emissão de certificados de motorista fixadas no n.º 1 do artigo 5.º."
+  },
+  "9f86c56b55f392e2": {
+   "fragment_id": "Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista",
+   "type": "artigo",
+   "heading": "Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista\n\n1. Caso as condições fixadas no n.º 1 do artigo 4.º ou no n.º 1 do artigo 5.º não estejam preenchidas, as autoridades competentes do Estado-Membro de estabelecimento indeferem, fundamentando tal decisão, a emissão ou renovação, respectivamente, da licença comunitária ou do certificado de motorista.\n\n2. As autoridades competentes retiram a licença comunitária ou o certificado de motorista caso o titular:\n\na) Tenha deixado de preencher as condições fixadas no n.º 1 do artigo 4.º ou as referidas no n.º 1 do artigo 5.º; ou\n\nb) Tenha prestado informações inexactas relativamente ao pedido de emissão da licença comunitária ou do certificado de motorista."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0e7f0aa48f83d49e": {
+   "fragment_id": "CABOTAGEM",
+   "type": "divisao",
+   "heading": "CABOTAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CABOTAGEM"
+  },
+  "f83bf2e1e9ac85e2": {
+   "fragment_id": "Artigo 8.o — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 8.o — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.o — Princípio geral\n\n1. Os transportadores rodoviários de mercadorias por conta de outrem que sejam titulares de uma licença comunitária e cujos motoristas, quando nacionais de país terceiro, sejam titulares de certificados de motorista, ficam autorizados, nas condições fixadas no presente capítulo, a efectuar operações de cabotagem.\n\n2. Uma vez efectuada a entrega das mercadorias transportadas à chegada de um transporte internacional com origem num Estado-Membro ou de um país terceiro e com destino ao Estado-Membro de acolhimento, os transportadores referidos no n.º 1 ficam autorizados a efectuar, com o mesmo veículo ou, tratando-se de um conjunto de veículos acoplados, com o veículo tractor desse mesmo conjunto, o máximo de três operações de cabotagem na sequência do referido transporte internacional. A última operação de descarga no quadro de uma operação de cabotagem, antes da saída do Estado-Membro de acolhimento, deve ter lugar no prazo de sete dias a contar da última operação de descarga realizada no Estado-Membro de acolhimento no quadro do transporte internacional com destino a este último.\n\nNo prazo referido no primeiro parágrafo, os transportadores rodoviários podem efectuar uma parte ou a totalidade das operações de cabotagem autorizadas nos termos do referido parágrafo em qualquer Estado-Membro, na condição de se limitarem a uma operação de cabotagem por Estado-Membro no prazo de três dias a contar da entrada sem carga no território desse Estado-Membro.\n\n3. Os serviços nacionais de transporte rodoviário de mercadorias efectuados no Estado-Membro de acolhimento por um transportador não residente só são considerados conformes com o presente regulamento se o transportador puder apresentar provas claras da realização do transporte internacional com destino a este último e de cada uma das operações consecutivas de cabotagem efectuadas.\n\nAs provas referidas no primeiro parágrafo devem incluir, relativamente a cada operação, os dados seguintes:\n\na) Nome, endereço e assinatura do expedidor;\n\nb) Nome, endereço e assinatura do transportador;\n\nc) Nome e endereço do destinatário, bem como a sua assinatura e a data de entrega efectiva das mercadorias;\n\nd) Local e data da recepção das mercadorias e local previsto para a entrega;\n\ne) Descrição comum da natureza das mercadorias e do método de embalagem e, caso se trate de mercadorias perigosas, a sua descrição geralmente reconhecida, bem como o número de volumes e as suas marcações e números especiais;\n\nf) Peso bruto das mercadorias ou quantidade expressa de outra forma;\n\ng) Matrícula do veículo tractor e do reboque.\n\n4. Não se exigem documentos adicionais para provar que as condições estabelecidas no presente artigo foram respeitadas.\n\n5. Os transportadores autorizados no Estado-Membro de estabelecimento, nos termos da legislação desse Estado-Membro, a efectuar os transportes rodoviários de mercadorias por conta de outrem referidos nas alíneas a), b) e c) do n.º 5 do artigo 1.º ficam autorizados, nas condições fixadas no presente capítulo, a efectuar, consoante o caso, operações de cabotagem da mesma natureza ou operações de cabotagem com veículos da mesma categoria.\n\n6. A admissão à cabotagem no âmbito dos tipos de transporte referidos nas alíneas d) e e) do n.º 5 do artigo 1.º não fica sujeita a qualquer restrição."
+  },
+  "8436fd8b73871ed7": {
+   "fragment_id": "Artigo 9.o — Regras aplicáveis às operações de cabotagem",
+   "type": "artigo",
+   "heading": "Artigo 9.o — Regras aplicáveis às operações de cabotagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.o — Regras aplicáveis às operações de cabotagem\n\n1. A realização de operações de cabotagem está sujeita, salvo disposição em contrário da legislação comunitária, às disposições legislativas, regulamentares e administrativas em vigor no Estado-Membro de acolhimento no que se refere:\n\na) Às condições do contrato de transporte;\n\nb) Aos pesos e dimensões dos veículos rodoviários;\n\nc) Aos requisitos relativos ao transporte de determinadas categorias de mercadorias, nomeadamente mercadorias perigosas, géneros perecíveis e animais vivos;\n\nd) Ao tempo de condução e aos períodos de repouso;\n\ne) Ao imposto sobre o valor acrescentado (IVA) aplicável aos serviços de transporte.\n\nOs pesos e dimensões a que se refere a alínea b) do primeiro parágrafo podem, se for caso disso, ultrapassar os aplicáveis no Estado-Membro de estabelecimento do transportador, mas não podem em caso algum ultrapassar os limites fixados pelo Estado-Membro de acolhimento para o tráfego nacional, nem desrespeitar as características técnicas referidas nas provas a que se refere o n.º 1 do artigo 6.º da Directiva 96/53/CE do Conselho, de 25 de Julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade [([^14])](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntr14-L_2009300PT.01007201-E0014).\n\n2. As disposições legislativas, regulamentares e administrativas referidas no n.º 1 aplicam-se aos transportadores não residentes nas mesmas condições que as impostas aos transportadores estabelecidos no Estado-Membro de acolhimento, a fim de evitar discriminação em razão da nacionalidade ou do local de estabelecimento."
+  },
+  "56ce638063cd8f6e": {
+   "fragment_id": "Artigo 10.o — Procedimento de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 10.o — Procedimento de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.o — Procedimento de salvaguarda\n\n1. Em caso de perturbação grave do mercado de transportes nacionais numa zona geográfica determinada devido à actividade de cabotagem ou por ela agravada, os Estados-Membros podem pedir à Comissão que tome medidas de salvaguarda, fornecendo-lhe as informações necessárias e notificando-a das medidas que tencionam tomar em relação aos transportadores residentes.\n\n2. Para os efeitos do n.º 1, entende-se por:\n\n— «perturbação grave do mercado de transportes nacionais numa zona geográfica determinada»: o surgimento, nesse mercado, de problemas específicos do mesmo, que possam originar um excedente grave, susceptível de persistir, da oferta em relação à procura, implicando uma ameaça para o equilíbrio financeiro e a sobrevivência de um número significativo de transportadores,\n\n— «zona geográfica»: uma zona que englobe uma parte ou a totalidade do território de um Estado-Membro ou se estenda a uma parte ou à totalidade do território de outros Estados-Membros.\n\n3. A Comissão analisa a situação com base, nomeadamente, nos dados pertinentes e, após consulta ao comité a que se refere o n.º 1 do artigo 15.º, decide, no prazo de um mês a contar da recepção do pedido do Estado-Membro, se devem ou não ser tomadas medidas de salvaguarda, procedendo, em caso afirmativo, à sua aprovação.\n\nEssas medidas podem ir até à exclusão temporária da zona geográfica em questão do âmbito de aplicação do presente regulamento.\n\nAs medidas tomadas nos termos do presente artigo mantêm-se em vigor por um período não superior a seis meses, renovável uma vez dentro do mesmo limite de validade.\n\nA Comissão notifica imediatamente os Estados-Membros e o Conselho de qualquer decisão tomada ao abrigo do presente número.\n\n4. Caso a Comissão decida tomar medidas de salvaguarda relativas a um ou vários Estados-Membros, as autoridades competentes dos Estados-Membros em questão devem tomar medidas de alcance equivalente em relação aos transportadores residentes e informar a Comissão desse facto. Estas medidas devem ser aplicadas pelo menos a partir da mesma data que as medidas de salvaguarda tomadas pela Comissão.\n\n5. Os Estados-Membros podem submeter à apreciação do Conselho a decisão tomada pela Comissão nos termos do n.º 3, no prazo de 30 dias a contar da sua notificação. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente, no prazo de 30 dias a contar da data em que a questão lhe tiver sido submetida ou, caso vários Estados-Membros o tenham feito, a contar da data em que a questão lhe tiver sido submetida pela primeira vez.\n\nSão aplicáveis à decisão do Conselho os limites de validade fixados no terceiro parágrafo do n.º 3. As autoridades competentes dos Estados-Membros interessados devem tomar medidas de alcance equivalente em relação aos transportadores residentes e informar a Comissão desse facto. Caso o Conselho não tome uma decisão dentro do prazo fixado no primeiro parágrafo, a decisão da Comissão torna-se definitiva.\n\n6. Caso a Comissão considere que as medidas referidas no n.º 3 devem ser reconduzidas, apresenta uma proposta ao Conselho, que sobre ela delibera por maioria qualificada."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "62cb9e8ca5c2218a": {
+   "fragment_id": "ASSISTÊNCIA MÚTUA E SANÇÕES",
+   "type": "divisao",
+   "heading": "ASSISTÊNCIA MÚTUA E SANÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASSISTÊNCIA MÚTUA E SANÇÕES"
+  },
+  "e2888a59c58425d1": {
+   "fragment_id": "Artigo 11.o — Assistência mútua",
+   "type": "artigo",
+   "heading": "Artigo 11.o — Assistência mútua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.o — Assistência mútua\n\nOs Estados-Membros devem prestar assistência mútua no que respeita à aplicação do presente regulamento e ao respectivo controlo. Devem trocar informações através dos pontos de contacto nacionais estabelecidos nos termos do artigo 18.º do Regulamento (CE) n.º 1071/2009."
+  },
+  "c9ba8d2d9ed19c8b": {
+   "fragment_id": "Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento\n\n1. Em caso de infracção grave à legislação comunitária no domínio do transporte rodoviário cometida ou verificada em qualquer Estado-Membro, as autoridades competentes do Estado-Membro de estabelecimento do transportador que tenha cometido a infracção tomam as medidas adequadas, que podem incluir uma advertência, se tal estiver previsto na legislação nacional, para levar por diante a questão, as quais podem conduzir, nomeadamente, à aplicação das seguintes sanções administrativas:\n\na) Retirada temporária ou definitiva de parte ou da totalidade das cópias certificadas da licença comunitária;\n\nb) Retirada temporária ou definitiva da licença comunitária.\n\nEstas sanções podem ser determinadas depois de tomada a decisão final sobre a questão e devem ter em conta a gravidade da infracção cometida pelo titular da licença comunitária e o número total de cópias certificadas da licença de que o titular disponha para efeitos de transporte internacional.\n\n2. Em caso de infracção grave que se prenda com a utilização indevida de certificados de motorista, as autoridades competentes do Estado-Membro de estabelecimento do transportador que cometeu a infracção aplicam as sanções adequadas, nomeadamente:\n\na) Suspensão da emissão de certificados de motorista;\n\nb) Retirada de certificados de motorista;\n\nc) Subordinação da emissão de certificados de motorista a condições suplementares destinadas a prevenir utilizações abusivas;\n\nd) Retirada temporária ou definitiva de parte ou da totalidade das cópias certificadas da licença comunitária;\n\ne) Retirada temporária ou definitiva da licença comunitária.\n\nEstas sanções podem ser determinadas depois de tomada a decisão final sobre a questão e devem ter em conta a gravidade da infracção cometida pelo titular da licença comunitária.\n\n3. As autoridades competentes do Estado-Membro de estabelecimento comunicam às autoridades competentes do Estado-Membro em cujo território a infracção foi verificada, com a maior brevidade possível e, o mais tardar, no prazo de seis semanas após a decisão final sobre a questão, se foram aplicadas algumas das sanções previstas nos n.^os^ 1 e 2 e, em caso afirmativo, quais as aplicadas.\n\nCaso não sejam aplicadas sanções, as autoridades competentes do Estado-Membro de estabelecimento indicam os motivos da sua decisão.\n\n4. As autoridades competentes asseguram que as sanções aplicadas ao transportador em causa sejam, no seu conjunto, proporcionais à infracção ou infracções que lhes deram origem, tendo em conta as sanções aplicadas pela mesma infracção no Estado-Membro onde a infracção foi verificada.\n\n5. As autoridades competentes do Estado-Membro de estabelecimento do transportador podem igualmente, nos termos da lei nacional, instaurar um processo ao transportador num tribunal nacional competente. Devem informar a autoridade competente do Estado-Membro de acolhimento das decisões tomadas para esse efeito.\n\n6. Os Estados-Membros asseguram que os transportadores tenham o direito de recorrer de quaisquer sanções administrativas que lhes tenham sido aplicadas ao abrigo do presente artigo."
+  },
+  "a2eed218dd8144ec": {
+   "fragment_id": "Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento\n\n1. Caso as autoridades competentes de um Estado-Membro tenham conhecimento de uma infracção grave ao presente regulamento ou à legislação comunitária no domínio do transporte rodoviário imputável a um transportador não residente, o Estado-Membro em cujo território a infracção foi verificada comunica às autoridades competentes do Estado-Membro de estabelecimento do transportador, com a maior brevidade possível e, o mais tardar, no prazo de seis semanas após a sua decisão final sobre a questão, as informações seguintes:\n\na) Uma descrição da infracção, bem como a data e a hora em que foi cometida;\n\nb) A categoria, o tipo e a gravidade da infracção; e\n\nc) As sanções aplicadas e as sanções executadas.\n\nAs autoridades competentes do Estado-Membro de acolhimento podem solicitar às autoridades competentes do Estado-Membro de estabelecimento que apliquem sanções administrativas nos termos do artigo 12.º.\n\n2. Sem prejuízo de serem instauradas acções penais, as autoridades competentes do Estado-Membro de acolhimento podem aplicar sanções a qualquer transportador não residente que tenha cometido infracções ao presente regulamento ou à legislação nacional ou comunitária no domínio do transporte rodoviário no território desse Estado-Membro, durante uma operação de cabotagem. As autoridades competentes do Estado-Membro de acolhimento devem aplicar essas sanções numa base não discriminatória. As sanções podem, nomeadamente, consistir numa advertência ou, em caso de infracção grave, numa proibição temporária de efectuar operações de cabotagem no território do Estado-Membro de acolhimento onde a infracção foi cometida.\n\n3. Os Estados-Membros asseguram que os transportadores tenham o direito de recorrer de quaisquer sanções administrativas que lhes tenham sido aplicadas ao abrigo do presente artigo."
+  },
+  "233d3e183c25d090": {
+   "fragment_id": "Artigo 14.o — Inscrição nos registos electrónicos nacionais",
+   "type": "artigo",
+   "heading": "Artigo 14.o — Inscrição nos registos electrónicos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.o — Inscrição nos registos electrónicos nacionais\n\nOs Estados-Membros asseguram que as infracções graves à legislação comunitária no domínio do transporte rodoviário cometidas por transportadores estabelecidos no respectivo território, que tenham conduzido à aplicação de uma sanção por um Estado-Membro, bem como a eventual retirada temporária ou definitiva da licença comunitária ou de uma cópia certificada desta, sejam inscritas no registo electrónico nacional das empresas de transporte rodoviário. Os dados inscritos no registo relacionados com a retirada temporária ou definitiva de uma licença comunitária devem permanecer na base de dados por um período de dois anos a contar do termo do período de retirada, em caso de retirada temporária, ou da data da retirada, em caso de retirada definitiva."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "39ad9011ff417418": {
+   "fragment_id": "EXECUÇÃO",
+   "type": "divisao",
+   "heading": "EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXECUÇÃO"
+  },
+  "693dcff1d42dd658": {
+   "fragment_id": "Artigo 15.o — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 15.o — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.o — Procedimento de comité\n\n1. A Comissão é assistida pelo comité criado pelo n.º 1 do artigo 18.º do Regulamento (CEE) n.º 3821/85.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "05a9b00b60b2b6ba": {
+   "fragment_id": "Artigo 16.o — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 16.o — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.o — Sanções\n\nOs Estados-Membros estabelecem o regime de sanções aplicáveis em caso de infracção ao presente regulamento e tomam as medidas necessárias para assegurar a sua aplicação. As sanções devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros notificam a Comissão, até 4 de Dezembro de 2011, dessas disposições, bem como, sem demora, de quaisquer alterações posteriores que lhes digam respeito.\n\nOs Estados-Membros asseguram que essas medidas sejam tomadas sem discriminação em razão da nacionalidade ou do local de estabelecimento do transportador."
+  },
+  "a5f5c64e8844d105": {
+   "fragment_id": "Artigo 17.o — Apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 17.o — Apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.o — Apresentação de relatórios\n\n1. De dois em dois anos, os Estados-Membros informam a Comissão do número de transportadores titulares de uma licença comunitária em 31 de Dezembro do ano anterior e do número de cópias certificadas correspondentes aos veículos em circulação na mesma data.\n\n2. Os Estados-Membros devem ainda comunicar à Comissão o número de certificados de motorista emitidos no ano civil anterior e o número de certificados de motorista em circulação em 31 de Dezembro do mesmo ano.\n\n3. A Comissão elabora um relatório sobre a situação dos mercados dos transportes rodoviários na Comunidade até ao final de 2013. Deve constar desse relatório uma análise da situação do mercado, nomeadamente uma avaliação da eficácia dos controlos e da evolução das condições de trabalho na profissão, bem como uma avaliação destinada a determinar se a harmonização das regras nos domínios, nomeadamente, da execução e das taxas de utilização das rodovias e da legislação em matéria social e de segurança progrediu de modo a que se possa encarar a prossecução da abertura dos mercados dos transportes rodoviários nacionais, incluindo o mercado de cabotagem."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "d3fc87a710acd8e9": {
+   "fragment_id": "Artigo 18.o — Revogações",
+   "type": "artigo",
+   "heading": "Artigo 18.o — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.o — Revogações\n\nSão revogados os Regulamentos (CEE) n.º 881/92 e (CEE) n.º 3118/93 e a Directiva 2006/94/CE.\n\nAs remissões para os regulamentos e a directiva revogados devem entender-se como sendo feitas para o presente regulamento e ler-se nos termos da tabela de correspondência que consta do anexo IV."
+  },
+  "cb8bb9e8ccf609aa": {
+   "fragment_id": "Artigo 19.o — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.o — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.o — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 4 de Dezembro de 2011, com excepção dos artigos 8.º e 9.º, que são aplicáveis a partir de 14 de Maio de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 21 de Outubro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "00447a68721230be": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc1-L_2009300PT.01007201-E0001) [JO C 204 de 9.8.2008, p. 31](http://publications.europa.eu/resource/oj/JOC_2008_204_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc2-L_2009300PT.01007201-E0002) Parecer do Parlamento Europeu de 21 de Maio de 2008 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 9 de Janeiro de 2009 ([JO C 62 E de 17.3.2009, p. 46](http://publications.europa.eu/resource/oj/JOC_2009_062_E_TOC)), posição do Parlamento Europeu de 23 de Abril de 2009 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 24 de Setembro de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc3-L_2009300PT.01007201-E0003) [JO L 95 de 9.4.1992, p. 1](http://publications.europa.eu/resource/oj/JOL_1992_095_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc4-L_2009300PT.01007201-E0004) [JO L 279 de 12.11.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_279_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc5-L_2009300PT.01007201-E0005) [JO L 374 de 27.12.2006, p. 5](http://publications.europa.eu/resource/oj/JOL_2006_374_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc6-L_2009300PT.01007201-E0006) [JO L 102 de 11.4.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_102_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc7-L_2009300PT.01007201-E0007) [JO L 368 de 17.12.1992, p. 38](http://publications.europa.eu/resource/oj/JOL_1992_368_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc8-L_2009300PT.01007201-E0008) [JO L 18 de 21.1.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_018_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc9-L_2009300PT.01007201-E0009) [JO L 370 de 31.12.1985, p. 8](http://publications.europa.eu/resource/oj/JOL_1985_370_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc10-L_2009300PT.01007201-E0010) Ver página 51 do presente Jornal Oficial.\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc11-L_2009300PT.01007201-E0011) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc12-L_2009300PT.01007201-E0012) [JO L 33 de 4.2.2006, p. 82](http://publications.europa.eu/resource/oj/JOL_2006_033_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc13-L_2009300PT.01007201-E0013) [JO L 16 de 23.1.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_016_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/f53478aa-c52c-4a5f-be4a-c593b6c96f92.0019.02/DOC_1#ntc14-L_2009300PT.01007201-E0014) [JO L 235 de 17.9.1996, p. 59](http://publications.europa.eu/resource/oj/JOL_1996_235_R_TOC)."
+  },
+  "b507ff63aad9100b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nque estabelece regras comuns para o acesso ao mercado do transporte internacional rodoviário de mercadorias\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "647f60da6bee6e25": {
+   "fragment_id": "Artigo 1.o — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.o — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.o — Âmbito de aplicação\n\n1. O presente regulamento aplica-se aos transportes rodoviários internacionais de mercadorias por conta de outrem em trajectos efectuados no território da Comunidade.\n\n2. No caso de transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, o presente regulamento é aplicável ao trajecto efectuado no território dos Estados-Membros atravessados em trânsito. Não é aplicável ao trajecto efectuado no território do Estado-Membro de carga ou de descarga, enquanto não tiver sido celebrado o necessário acordo entre a Comunidade e o país terceiro em causa.\n\n3.\n\nEnquanto se aguarda a celebração dos acordos a que se refere o n.º 2, o presente regulamento não afecta:\n\na) As disposições aplicáveis aos transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, abrangidos por acordos bilaterais celebrados entre os Estados-Membros e esses países terceiros;\n\nb) As disposições aplicáveis aos transportes com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, abrangidos por acordos bilaterais celebrados entre Estados-Membros e que, através de autorizações bilaterais ou em regime de liberdade, permitem que os transportadores não estabelecidos num Estado-Membro efectuem cargas e descargas nesse Estado-Membro.\n\n4. O presente regulamento é aplicável aos transportes nacionais rodoviários de mercadorias efectuados a título temporário por transportadores não residentes, conforme previsto no capítulo III.\n\n5.\n\nOs seguintes tipos de transportes e de deslocações sem carga relacionadas com esses transportes não necessitam de licença comunitária e estão dispensados de autorização de transporte:\n\na) Transportes postais efectuados em regime de serviço universal;\n\nb) Transportes de veículos danificados ou avariados;\n\nc) Até 20 de maio de 2022: transportes de mercadorias em veículos cujo peso total em carga autorizado não exceda 3,5 toneladas;\n\nc-A) A partir de 21 de maio de 2022: transportes de mercadorias em veículos cujo peso total em carga autorizado não exceda 2,5 toneladas;\n\nd) Transportes de mercadorias em veículos, desde que sejam preenchidas as seguintes condições:\n\ni) as mercadorias transportadas pertencerem à empresa ou por ela terem sido vendidas, compradas, dadas ou tomadas de aluguer, produzidas, extraídas, transformadas ou reparadas,\n\nii) o transporte servir para encaminhar as mercadorias da ou para a empresa ou para as deslocar, quer no interior da empresa, quer no seu exterior, para satisfazer necessidades próprias desta,\n\niii) os veículos a motor utilizados nestes transportes serem conduzidos por pessoal próprio da empresa ou por pessoal ao serviço da empresa nos termos de uma obrigação contratual,\n\niv) os veículos que transportem as mercadorias pertencerem à empresa ou terem sido por ela comprados a crédito ou alugados, desde que, neste último caso, preencham as condições previstas na Directiva 2006/1/CE do Parlamento Europeu e do Conselho, de 18 de Janeiro de 2006, relativa à utilização de veículos de aluguer sem condutor no transporte rodoviário de mercadorias ([^1^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0001)), e\n\nv) o transporte constituir meramente uma actividade acessória do conjunto das actividades da empresa;\n\ne) Transportes de medicamentos, aparelhos e equipamento médicos, bem como de outros artigos necessários em caso de socorro urgente, nomeadamente no caso de catástrofes naturais.\n\nA subalínea iv) da alínea d) do primeiro parágrafo não é aplicável no caso de utilização de um veículo de substituição durante uma avaria de curta duração do veículo normalmente utilizado.\n\n6. O disposto no n.º 5 não afecta as condições de que cada Estado-Membro faz depender o acesso dos seus próprios nacionais às actividades referidas no mesmo número."
+  },
+  "ebeaa32bc8caeed1": {
+   "fragment_id": "Artigo 2.o — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.o — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.o — Definições\n\nPara os efeitos do presente regulamento, entende-se por:\n\n1. «Veículo»: um veículo a motor matriculado num Estado-Membro ou um conjunto de veículos acoplados, dos quais pelo menos o veículo a motor está matriculado num Estado-Membro, destinados exclusivamente ao transporte de mercadorias;\n\n2. «Transportes internacionais»:\n\na) As deslocações em carga de um veículo cujos pontos de partida e de chegada se situam em dois Estados-Membros diferentes, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros;\n\nb) As deslocações em carga de um veículo com origem num Estado-Membro com destino a um país terceiro, e vice-versa, com ou sem trânsito por um ou vários Estados-Membros ou países terceiros;\n\nc) As deslocações em carga de um veículo entre países terceiros, atravessando em trânsito o território de um ou mais Estados-Membros;\n\nd) As deslocações sem carga relacionadas com os transportes a que se referem as alíneas a), b) e c);\n\n3. «Estado-Membro de acolhimento»: um Estado-Membro em que opera um transportador, distinto do Estado-Membro de estabelecimento do transportador;\n\n4. «Transportador não residente»: uma empresa de transporte rodoviário de mercadorias que opera num Estado-Membro de acolhimento;\n\n5. «Motorista»: qualquer pessoa que conduza o veículo, mesmo por um curto período, ou que siga num veículo no âmbito das suas funções para assegurar a sua condução, caso seja necessário;\n\n6. «Operações de cabotagem»: transportes nacionais por conta de outrem efectuados a título temporário num Estado-Membro de acolhimento, de acordo com o presente regulamento;\n\n7. «Infracção grave à legislação comunitária no domínio do transporte rodoviário»: uma infracção que pode acarretar a perda da idoneidade, nos termos n.^os^ 1 e 2 do artigo 6.º do Regulamento (CE) n.º 1071/2009, e/ou a retirada temporária ou definitiva de uma licença comunitária."
+  },
+  "884a9bfd2b512b38": {
+   "fragment_id": "Artigo 4.o — Licença comunitária",
+   "type": "artigo",
+   "heading": "Artigo 4.o — Licença comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.o — Licença comunitária\n\n1.\n\nA licença comunitária é emitida por um Estado-Membro, nos termos do presente regulamento, aos transportadores rodoviários de mercadorias por conta de outrem que:\n\na) Estejam estabelecidos nesse Estado-Membro nos termos da legislação comunitária e da legislação desse Estado-Membro; e\n\nb) Estejam autorizados a efectuar no Estado-Membro de estabelecimento, nos termos da legislação comunitária e da legislação desse Estado-Membro em matéria de acesso à actividade de transportador, transportes rodoviários internacionais de mercadorias.\n\n2.\n\nA licença comunitária é emitida pelas autoridades competentes do Estado-Membro de estabelecimento por períodos renováveis que não podem exceder dez anos.\n\nAs licenças comunitárias e cópias certificadas emitidas antes da data de aplicação do presente regulamento permanecem válidas até ao termo do seu prazo de validade.\n\n3. O Estado-Membro de estabelecimento entrega ao titular o original da licença comunitária, que deve ser conservado pelo transportador, e o número de cópias certificadas correspondente ao número de veículos de que o titular da licença comunitária dispõe, quer em propriedade plena quer a outro título, por exemplo em virtude de um contrato de compra a prestações, de aluguer ou de locação financeira.\n\n4. A licença comunitária e as cópias autenticadas devem estar conformes com o modelo que consta do anexo II, que estabelece igualmente as condições que regem a sua utilização. A licença comunitária e as cópias certificadas devem conter pelo menos dois dos elementos de segurança enumerados no anexo I.\n\nNo caso dos veículos utilizados para o transporte de mercadorias cujo peso total em carga autorizado não exceda 3,5 toneladas e aos quais se apliquem requisitos financeiros mais baixos estabelecidos no artigo 7.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1071/2009, a autoridade emissora inscreve na secção «Observações especiais» da licença comunitária ou da cópia autenticada desta: «≤ 3,5 t».\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º-B, no que diz respeito a alterar os anexos I e II, a fim de os adaptar ao progresso técnico.\n\n5. A licença comunitária e as suas cópias certificadas devem ostentar o carimbo da autoridade emissora, bem como uma assinatura e um número de série. Os números de série da licença comunitária e os das cópias certificadas devem ser inscritos no registo electrónico nacional das empresas de transporte rodoviário enquanto parte integrante dos dados relativos ao transportador.\n\n6.\n\nA licença comunitária é emitida em nome do transportador e não é transmissível. Cada um dos veículos do transportador deve ter a bordo uma cópia certificada da licença comunitária, que deve ser apresentada sempre que for solicitada pelos agentes responsáveis pelo controlo.\n\nNo caso de um conjunto de veículos acoplados, a cópia certificada da licença deve acompanhar o veículo tractor. Esta cópia deve abranger o conjunto dos veículos acoplados, mesmo que o reboque ou semi-reboque não esteja matriculado ou autorizado a circular em nome do titular da licença ou esteja matriculado ou autorizado a circular noutro Estado-Membro."
+  },
+  "7244e85ea3a3b367": {
+   "fragment_id": "Artigo 5.o — Certificado de motorista",
+   "type": "artigo",
+   "heading": "Artigo 5.o — Certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.o — Certificado de motorista\n\n1.\n\nO certificado de motorista é emitido por um Estado-Membro, nos termos do presente regulamento, a qualquer transportador que:\n\na) Seja titular de uma licença comunitária; e\n\nb) No referido Estado-Membro, empregue legalmente um motorista que não seja nacional nem residente de longa duração, na acepção da Directiva 2003/109/CE do Conselho, de 25 de Novembro de 2003, relativa ao estatuto dos nacionais de países terceiros residentes de longa duração ([^2^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0002)), de um Estado-Membro, ou utilize legalmente os serviços de um motorista que não seja nacional nem residente de longa duração, na acepção da mesma directiva, de um Estado-Membro, e que esteja ao serviço desse transportador de acordo com as condições de trabalho e formação profissional de motoristas fixadas nesse mesmo Estado-Membro:\n\ni) em disposições legais, regulamentares ou administrativas e, se for caso disso,\n\nii) em convenções colectivas, de acordo com as regras aplicáveis nesse Estado-Membro.\n\n2. O certificado de motorista é emitido pelas autoridades competentes do Estado-Membro de estabelecimento do transportador, a pedido do titular da licença comunitária, para cada motorista que não seja nacional de um Estado-Membro nem residente de longa duração, na acepção da Directiva 2003/109/CE, que o referido transportador empregue legalmente, ou para cada motorista que não seja nacional de um Estado-Membro nem residente de longa duração, na acepção da Directiva 2003/109/CE, não serviço desse transportador. O certificado de motorista atesta que o motorista cujo nome dele conste está empregado nas condições definidas no n.º 1.\n\n3. O certificado de motorista deve ser conforme com o modelo que consta do anexo III. O certificado de motorista deve conter pelo menos dois dos elementos de segurança enumerados no anexo I.\n\n4. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º-B, no que diz respeito a alterar o anexo III, a fim de o adaptar ao progresso técnico.\n\n5. O certificado de motorista deve ostentar o carimbo da autoridade emissora, bem como uma assinatura e um número de série. O número de série do certificado de motorista pode ser inscrito no registo electrónico nacional das empresas de transporte rodoviário enquanto parte integrante dos dados do transportador que disponibiliza o certificado ao motorista nele identificado.\n\n6. O certificado de motorista é propriedade do transportador, que o deve entregar ao motorista nele identificado quando este tenha de conduzir um veículo a coberto de uma licença comunitária de que o transportador seja titular. O transportador deve conservar nas suas instalações uma cópia certificada do certificado de motorista emitida pelas autoridades competentes do Estado-Membro de estabelecimento do transportador. O certificado de motorista deve ser apresentado sempre que for solicitado pelos agentes responsáveis pelo controlo.\n\n7.\n\nO certificado de motorista é emitido por um período a fixar pelo Estado-Membro emissor, não devendo a sua validade exceder cinco anos. Os certificados de motorista emitidos antes da data de aplicação do presente regulamento permanecem válidos até ao termo do seu prazo de validade.\n\nO certificado de motorista é válido apenas enquanto as condições em que foi emitido estiverem preenchidas. Os Estados-Membros tomam as medidas adequadas para assegurar que os certificados sejam devolvidos pelo transportador à autoridade emissora logo que essas condições deixem de estar preenchidas."
+  },
+  "91ca80857ee18acb": {
+   "fragment_id": "Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista",
+   "type": "artigo",
+   "heading": "Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.o — Indeferimento do pedido de emissão e retirada da licença comunitária e do certificado de motorista\n\n1. Caso as condições fixadas no n.º 1 do artigo 4.º ou no n.º 1 do artigo 5.º não estejam preenchidas, as autoridades competentes do Estado-Membro de estabelecimento indeferem, fundamentando tal decisão, a emissão ou renovação, respectivamente, da licença comunitária ou do certificado de motorista.\n\n2.\n\nAs autoridades competentes retiram a licença comunitária ou o certificado de motorista caso o titular:\n\na) Tenha deixado de preencher as condições fixadas no n.º 1 do artigo 4.º ou as referidas no n.º 1 do artigo 5.º; ou\n\nb) Tenha prestado informações inexactas relativamente ao pedido de emissão da licença comunitária ou do certificado de motorista."
+  },
+  "1fde84ac3bf68f3b": {
+   "fragment_id": "Artigo 8.o — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 8.o — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.o — Princípio geral\n\n1. Os transportadores rodoviários de mercadorias por conta de outrem que sejam titulares de uma licença comunitária e cujos motoristas, quando nacionais de país terceiro, sejam titulares de certificados de motorista, ficam autorizados, nas condições fixadas no presente capítulo, a efectuar operações de cabotagem.\n\n2.\n\nUma vez efectuada a entrega das mercadorias transportadas à chegada de um transporte internacional com origem num Estado-Membro ou de um país terceiro e com destino ao Estado-Membro de acolhimento, os transportadores referidos no n.º 1 ficam autorizados a efectuar, com o mesmo veículo ou, tratando-se de um conjunto de veículos acoplados, com o veículo tractor desse mesmo conjunto, o máximo de três operações de cabotagem na sequência do referido transporte internacional. A última operação de descarga no quadro de uma operação de cabotagem, antes da saída do Estado-Membro de acolhimento, deve ter lugar no prazo de sete dias a contar da última operação de descarga realizada no Estado-Membro de acolhimento no quadro do transporte internacional com destino a este último.\n\nNo prazo referido no primeiro parágrafo, os transportadores rodoviários podem efectuar uma parte ou a totalidade das operações de cabotagem autorizadas nos termos do referido parágrafo em qualquer Estado-Membro, na condição de se limitarem a uma operação de cabotagem por Estado-Membro no prazo de três dias a contar da entrada sem carga no território desse Estado-Membro.\n\n2-A. Os transportadores de mercadorias não podem efetuar operações de cabotagem com o mesmo veículo ou, tratando-se de um conjunto de veículos acoplados, com o respetivo veículo trator desse conjunto, no mesmo Estado-Membro antes de expirar um prazo de quatro dias a contar do fim da última operação de cabotagem efetuada nesse Estado-Membro.\n\n3.\n\nOs serviços nacionais de transporte rodoviário de mercadorias efetuados no Estado-Membro de acolhimento por um transportador não residente só são considerados conformes com o presente regulamento se o transportador puder apresentar provas claras da realização do transporte internacional anterior e de cada uma das operações consecutivas de cabotagem realizadas. No caso de o veículo ter estado no território do Estado-Membro de acolhimento durante o período de quatro dias que antecede o transporte internacional, o transportador apresenta também provas claras de todas as operações realizadas durante esse período.\n\nAs provas referidas no primeiro parágrafo devem incluir, relativamente a cada operação, os dados seguintes:\n\na) Nome, endereço e assinatura do expedidor;\n\nb) Nome, endereço e assinatura do transportador;\n\nc) Nome e endereço do destinatário, bem como a sua assinatura e a data de entrega efectiva das mercadorias;\n\nd) Local e data da recepção das mercadorias e local previsto para a entrega;\n\ne) Descrição comum da natureza das mercadorias e do método de embalagem e, caso se trate de mercadorias perigosas, a sua descrição geralmente reconhecida, bem como o número de volumes e as suas marcações e números especiais;\n\nf) Peso bruto das mercadorias ou quantidade expressa de outra forma;\n\ng) Matrícula do veículo tractor e do reboque.\n\n4. Não se exigem documentos adicionais para provar que as condições estabelecidas no presente artigo foram respeitadas.\n\n4-A. Os elementos de prova referidos no n.º 3 são apresentados ou enviados ao agente responsável pelo controlo do Estado-Membro de acolhimento a seu pedido e durante o controlo na estrada. Os elementos de prova podem ser apresentados ou enviados em suporte eletrónico, utilizando um formato estruturado passível de revisão que possa ser usado diretamente para armazenamento e tratamento informático, como a guia de remessa eletrónica (e-CMR) prevista no Protocolo Adicional de Genebra da Convenção relativa ao Contrato de Transporte Internacional de Mercadorias por Estrada (CMR), sobre a guia de remessa eletrónica, de 20 de fevereiro de 2008. Durante os controlos na estrada, o condutor está autorizado a contactar a sede da empresa, o gestor de transportes ou qualquer outra pessoa ou entidade, a fim de apresentar, antes do fim do controlo na estrada, qualquer dos elementos de prova referidos no n.º 3.\n\n5. Os transportadores autorizados no Estado-Membro de estabelecimento a efetuar os transportes rodoviários de mercadorias por conta de outrem referidos no artigo 1.º, n.º 5, alíneas a) a c-A), nos termos da legislação desse Estado-Membro, ficam autorizados, nas condições fixadas no presente capítulo, a efetuar, consoante o caso, operações de cabotagem da mesma natureza ou operações de cabotagem com veículos da mesma categoria.\n\n6. A admissão à cabotagem no âmbito dos tipos de transporte referidos nas alíneas d) e e) do n.º 5 do artigo 1.º não fica sujeita a qualquer restrição."
+  },
+  "5f749f6ed9613741": {
+   "fragment_id": "Artigo 9.o — Regras aplicáveis às operações de cabotagem",
+   "type": "artigo",
+   "heading": "Artigo 9.o — Regras aplicáveis às operações de cabotagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.o — Regras aplicáveis às operações de cabotagem\n\n1.\n\nA realização de operações de cabotagem está sujeita, salvo disposição em contrário da legislação comunitária, às disposições legislativas, regulamentares e administrativas em vigor no Estado-Membro de acolhimento no que se refere:\n\na) Às condições do contrato de transporte;\n\nb) Aos pesos e dimensões dos veículos rodoviários;\n\nc) Aos requisitos relativos ao transporte de determinadas categorias de mercadorias, nomeadamente mercadorias perigosas, géneros perecíveis e animais vivos;\n\nd) Ao tempo de condução e aos períodos de repouso;\n\ne) Ao imposto sobre o valor acrescentado (IVA) aplicável aos serviços de transporte.\n\nOs pesos e dimensões a que se refere a alínea b) do primeiro parágrafo podem, se for caso disso, ultrapassar os aplicáveis no Estado-Membro de estabelecimento do transportador, mas não podem em caso algum ultrapassar os limites fixados pelo Estado-Membro de acolhimento para o tráfego nacional, nem desrespeitar as características técnicas referidas nas provas a que se refere o n.º 1 do artigo 6.º da Directiva 96/53/CE do Conselho, de 25 de Julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade ([^3^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0003)).\n\n2. As disposições legislativas, regulamentares e administrativas referidas no n.º 1 aplicam-se aos transportadores não residentes nas mesmas condições que as impostas aos transportadores estabelecidos no Estado-Membro de acolhimento, a fim de evitar discriminação em razão da nacionalidade ou do local de estabelecimento."
+  },
+  "419b36f261ca4f9c": {
+   "fragment_id": "Artigo 10.o — Procedimento de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 10.o — Procedimento de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.o — Procedimento de salvaguarda\n\n1. Em caso de perturbação grave do mercado de transportes nacionais numa zona geográfica determinada devido à actividade de cabotagem ou por ela agravada, os Estados-Membros podem pedir à Comissão que tome medidas de salvaguarda, fornecendo-lhe as informações necessárias e notificando-a das medidas que tencionam tomar em relação aos transportadores residentes.\n\n2.\n\nPara os efeitos do n.º 1, entende-se por:\n\n— «perturbação grave do mercado de transportes nacionais numa zona geográfica determinada»: o surgimento, nesse mercado, de problemas específicos do mesmo, que possam originar um excedente grave, susceptível de persistir, da oferta em relação à procura, implicando uma ameaça para o equilíbrio financeiro e a sobrevivência de um número significativo de transportadores,\n\n— «zona geográfica»: uma zona que englobe uma parte ou a totalidade do território de um Estado-Membro ou se estenda a uma parte ou à totalidade do território de outros Estados-Membros.\n\n3.\n\nA Comissão analisa a situação com base, nomeadamente, nos dados pertinentes e, após consulta ao comité criado nos termos do artigo 42.º, n.º 1, do Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0004)), decide, no prazo de um mês a contar da receção do pedido do Estado-Membro, se devem ser tomadas medidas de salvaguarda, procedendo, em caso afirmativo, à sua adoção.\n\nEssas medidas podem ir até à exclusão temporária da zona geográfica em questão do âmbito de aplicação do presente regulamento.\n\nAs medidas tomadas nos termos do presente artigo mantêm-se em vigor por um período não superior a seis meses, renovável uma vez dentro do mesmo limite de validade.\n\nA Comissão notifica imediatamente os Estados-Membros e o Conselho de qualquer decisão tomada ao abrigo do presente número.\n\n4. Caso a Comissão decida tomar medidas de salvaguarda relativas a um ou vários Estados-Membros, as autoridades competentes dos Estados-Membros em questão devem tomar medidas de alcance equivalente em relação aos transportadores residentes e informar a Comissão desse facto. Estas medidas devem ser aplicadas pelo menos a partir da mesma data que as medidas de salvaguarda tomadas pela Comissão.\n\n5.\n\nOs Estados-Membros podem submeter à apreciação do Conselho a decisão tomada pela Comissão nos termos do n.º 3, no prazo de 30 dias a contar da sua notificação. O Conselho, deliberando por maioria qualificada, pode tomar uma decisão diferente, no prazo de 30 dias a contar da data em que a questão lhe tiver sido submetida ou, caso vários Estados-Membros o tenham feito, a contar da data em que a questão lhe tiver sido submetida pela primeira vez.\n\nSão aplicáveis à decisão do Conselho os limites de validade fixados no terceiro parágrafo do n.º 3. As autoridades competentes dos Estados-Membros interessados devem tomar medidas de alcance equivalente em relação aos transportadores residentes e informar a Comissão desse facto. Caso o Conselho não tome uma decisão dentro do prazo fixado no primeiro parágrafo, a decisão da Comissão torna-se definitiva.\n\n6. Caso a Comissão considere que as medidas referidas no n.º 3 devem ser reconduzidas, apresenta uma proposta ao Conselho, que sobre ela delibera por maioria qualificada.\n\n7. Para além do disposto nos n.^os^ 1 a 6 do presente artigo e em derrogação do artigo 4.º da Diretiva 92/106/CEE, se tal for necessário para evitar o recurso abusivo a esta última disposição através da prestação de serviços ilimitados e contínuos compostos por troços rodoviários iniciais ou finais no território de um Estado-Membro de acolhimento que façam parte de operações de transporte combinado entre Estados-Membros, os Estados-Membros podem prever que o artigo 8.º do presente regulamento seja aplicável aos transportadores de mercadorias que efetuem tais trajetos rodoviários iniciais e/ou finais no interior desse Estado-Membro. No que se refere a esses troços rodoviários de transporte de mercadorias, os Estados-Membros podem prever um período superior ao prazo de sete dias previsto no artigo 8.º, n.º 2, do presente regulamento e um prazo inferior ao prazo de quatro dias previsto no artigo 8.º, n.º 2-A, do presente regulamento. A aplicação do artigo 8.º, n.º 4, do presente regulamento a tais operações de transporte não prejudica os requisitos decorrentes da Diretiva 92/106/CEE. Os Estados-Membros que recorram à derrogação prevista no presente número notificam a Comissão desse facto antes de aplicarem as medidas nacionais pertinentes. Procedem à revisão das referidas medidas pelo menos de cinco em cinco anos e notificam a Comissão dos resultados dessa revisão. Publicam de uma forma transparente as regras, incluindo a duração dos respetivos períodos."
+  },
+  "6f178ce98de45b99": {
+   "fragment_id": "Artigo 10.º-A — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Controlos\n\n1. A fim de reforçar o cumprimento das obrigações estabelecidas no presente capítulo, os Estados-Membros asseguram que seja aplicada nos respetivos territórios uma estratégia nacional coerente de execução. Tal estratégia deve incidir principalmente sobre as empresas com classificação de risco elevado, como se refere no artigo 9.º da Diretiva 2006/22/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0005)).\n\n2. Cada Estado-Membro assegura que os controlos previstos no artigo 2.º da Diretiva 2006/22/CE compreendam um controlo das operações de cabotagem, se necessário.\n\n3. Pelo menos duas vezes por ano, os Estados-Membros efetuam ações concertadas de controlo na estrada visando os transportes de cabotagem. Esses controlos são efetuados simultaneamente pelas autoridades nacionais responsáveis pelo controlo do cumprimento da legislação no domínio do transporte rodoviário de dois ou mais Estados-Membros, atuando cada uma no respetivo território. Os Estados-Membros podem combinar esses controlos com os previstos no artigo 5.º da Diretiva 2006/22/CE. Após a realização dos controlos concertados na estrada, os pontos de contacto nacionais designados nos termos do artigo 18.º, n.º 1, do Regulamento (CE) n.º 1071/2009 procedem ao intercâmbio de informações sobre o número e o tipo de infrações detetadas."
+  },
+  "7263f3217d91a540": {
+   "fragment_id": "Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.o — Aplicação de sanções pelo Estado-Membro de acolhimento\n\n1.\n\nEm caso de infracção grave à legislação comunitária no domínio do transporte rodoviário cometida ou verificada em qualquer Estado-Membro, as autoridades competentes do Estado-Membro de estabelecimento do transportador que tenha cometido a infracção tomam as medidas adequadas, que podem incluir uma advertência, se tal estiver previsto na legislação nacional, para levar por diante a questão, as quais podem conduzir, nomeadamente, à aplicação das seguintes sanções administrativas:\n\na) Retirada temporária ou definitiva de parte ou da totalidade das cópias certificadas da licença comunitária;\n\nb) Retirada temporária ou definitiva da licença comunitária.\n\nEstas sanções podem ser determinadas depois de tomada a decisão final sobre a questão e devem ter em conta a gravidade da infracção cometida pelo titular da licença comunitária e o número total de cópias certificadas da licença de que o titular disponha para efeitos de transporte internacional.\n\n2.\n\nEm caso de infracção grave que se prenda com a utilização indevida de certificados de motorista, as autoridades competentes do Estado-Membro de estabelecimento do transportador que cometeu a infracção aplicam as sanções adequadas, nomeadamente:\n\na) Suspensão da emissão de certificados de motorista;\n\nb) Retirada de certificados de motorista;\n\nc) Subordinação da emissão de certificados de motorista a condições suplementares destinadas a prevenir utilizações abusivas;\n\nd) Retirada temporária ou definitiva de parte ou da totalidade das cópias certificadas da licença comunitária;\n\ne) Retirada temporária ou definitiva da licença comunitária.\n\nEstas sanções podem ser determinadas depois de tomada a decisão final sobre a questão e devem ter em conta a gravidade da infracção cometida pelo titular da licença comunitária.\n\n3.\n\nAs autoridades competentes do Estado-Membro de estabelecimento comunicam às autoridades competentes do Estado-Membro em cujo território a infracção foi verificada, com a maior brevidade possível e, o mais tardar, no prazo de seis semanas após a decisão final sobre a questão, se foram aplicadas algumas das sanções previstas nos n.^os^ 1 e 2 e, em caso afirmativo, quais as aplicadas.\n\nCaso não sejam aplicadas sanções, as autoridades competentes do Estado-Membro de estabelecimento indicam os motivos da sua decisão.\n\n4. As autoridades competentes asseguram que as sanções aplicadas ao transportador em causa sejam, no seu conjunto, proporcionais à infracção ou infracções que lhes deram origem, tendo em conta as sanções aplicadas pela mesma infracção no Estado-Membro onde a infracção foi verificada.\n\n5. As autoridades competentes do Estado-Membro de estabelecimento do transportador podem igualmente, nos termos da lei nacional, instaurar um processo ao transportador num tribunal nacional competente. Devem informar a autoridade competente do Estado-Membro de acolhimento das decisões tomadas para esse efeito.\n\n6. Os Estados-Membros asseguram que os transportadores tenham o direito de recorrer de quaisquer sanções administrativas que lhes tenham sido aplicadas ao abrigo do presente artigo."
+  },
+  "3b535de20e11b542": {
+   "fragment_id": "Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.o — Aplicação de sanções pelo Estado-Membro de acolhimento\n\n1.\n\nCaso as autoridades competentes de um Estado-Membro tenham conhecimento de uma infracção grave ao presente regulamento ou à legislação comunitária no domínio do transporte rodoviário imputável a um transportador não residente, o Estado-Membro em cujo território a infracção foi verificada comunica às autoridades competentes do Estado-Membro de estabelecimento do transportador, com a maior brevidade possível e, o mais tardar, no prazo de seis semanas após a sua decisão final sobre a questão, as informações seguintes:\n\na) Uma descrição da infracção, bem como a data e a hora em que foi cometida;\n\nb) A categoria, o tipo e a gravidade da infracção; e\n\nc) As sanções aplicadas e as sanções executadas.\n\nAs autoridades competentes do Estado-Membro de acolhimento podem solicitar às autoridades competentes do Estado-Membro de estabelecimento que apliquem sanções administrativas nos termos do artigo 12.º.\n\n2. Sem prejuízo de serem instauradas acções penais, as autoridades competentes do Estado-Membro de acolhimento podem aplicar sanções a qualquer transportador não residente que tenha cometido infracções ao presente regulamento ou à legislação nacional ou comunitária no domínio do transporte rodoviário no território desse Estado-Membro, durante uma operação de cabotagem. As autoridades competentes do Estado-Membro de acolhimento devem aplicar essas sanções numa base não discriminatória. As sanções podem, nomeadamente, consistir numa advertência ou, em caso de infracção grave, numa proibição temporária de efectuar operações de cabotagem no território do Estado-Membro de acolhimento onde a infracção foi cometida.\n\n3. Os Estados-Membros asseguram que os transportadores tenham o direito de recorrer de quaisquer sanções administrativas que lhes tenham sido aplicadas ao abrigo do presente artigo."
+  },
+  "bb85a176742cb8b8": {
+   "fragment_id": "Artigo 14.º-A — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º-A — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Responsabilidade\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis aos expedidores, transitários, contratantes e subcontratantes, em caso de incumprimento do disposto nos capítulos II e III, quando estes tivessem ou, à luz de todas as circunstâncias pertinentes, devessem ter conhecimento de que os serviços de transporte que contratavam incorriam em violação do disposto no presente regulamento."
+  },
+  "32c7f2124cf04c17": {
+   "fragment_id": "Artigo 14.º-B — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º-B — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-B — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 4.º, n.º 4, e no artigo 5.º, n.º 4, é conferido à Comissão por tempo indeterminado a contar de 20 de agosto de 2020.\n\n3. A delegação de poderes referida no artigo 4.º, n.º 4, e no artigo 5.º, n.º 4, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^6^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0006)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 4.º, n.º 4, e do artigo 5.º, n.º 4, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "08f598f4c558a763": {
+   "fragment_id": "Artigo 17.º — Apresentação de relatórios e revisão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Apresentação de relatórios e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação de relatórios e revisão\n\n1. Até 31 de março de cada biénio, os Estados-Membros comunicam à Comissão o número de transportadores de mercadorias titulares de licença comunitária em 31 de dezembro de cada um dos dois anos anteriores e o número de cópias autenticadas correspondentes aos veículos em circulação na mesma data. Os relatórios referentes ao período posterior a 20 de maio de 2022 incluem também uma repartição destes elementos por transportadores rodoviários de mercadorias que efetuam operações de transporte internacional exclusivamente por meio de veículos a motor cujo peso total em carga autorizado não exceda 3,5 toneladas e pelos restantes transportadores rodoviários de mercadorias.\n\n2. Até 31 de março de cada biénio, os Estados-Membros comunicam à Comissão o número de certificados de motorista emitidos em cada um dos dois anos civis anteriores, bem como o número total de certificados de motorista em circulação em 31 de dezembro de cada um dos dois anos anteriores. Os relatórios referentes ao período posterior a 20 de maio de 2022 incluem também uma repartição destes elementos por transportadores rodoviários de mercadorias que efetuam operações de transporte internacional exclusivamente por meio de veículos a motor cujo peso total em carga autorizado não exceda 3,5 toneladas e pelos restantes transportadores rodoviários de mercadorias.\n\n3. Até 21 de agosto de 2022, os Estados-Membros apresentam à Comissão a sua estratégia nacional de execução adotada nos termos do artigo 10.º-A. Até 31 de março de cada ano, os Estados-Membros informam a Comissão das medidas de execução tomadas no ano civil anterior nos termos do artigo 10.º-A, incluindo, se necessário, o número de controlos efetuados. Deve ser mencionado o número de veículos inspecionados.\n\n4. A Comissão elabora um relatório sobre a situação dos mercados dos transportes rodoviários na União até 21 de agosto de 2024. O relatório deve compreender uma análise da situação do mercado, nomeadamente uma avaliação da eficácia dos controlos e da evolução das condições de emprego na profissão.\n\n5. A Comissão avalia a execução do presente regulamento, nomeadamente quanto ao impacto das alterações inseridas no artigo 8.º introduzidas pelo Regulamento (UE) 2020/1055 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0007)), até 21 de agosto de 2023 e apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a sua execução.\n\n6. Após a apresentação do relatório a que se refere o n.º 5, a Comissão procede regularmente à avaliação do presente regulamento e apresenta os resultados dessa avaliação ao Parlamento Europeu e ao Conselho.\n\n7. Quando se justificar, os relatórios referidos nos n.^os^ 5 e 6 são acompanhados das propostas legislativas pertinentes."
+  },
+  "bafcc5e275a6fc6f": {
+   "fragment_id": "Artigo 19.o — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.o — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.o — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 4 de Dezembro de 2011, com excepção dos artigos 8.º e 9.º, que são aplicáveis a partir de 14 de Maio de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "ba3d40fe94e695b6": {
+   "fragment_id": "Elementos de segurança da licença comunitária e do certificado de motorista",
+   "type": "divisao",
+   "heading": "Elementos de segurança da licença comunitária e do certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Elementos de segurança da licença comunitária e do certificado de motorista\n\nA licença comunitária e o certificado de motorista devem apresentar pelo menos dois dos seguintes elementos de segurança:\n\n— um holograma,\n\n— fibras especiais no papel que se tornam visíveis sob luz UV,\n\n— pelo menos uma linha de micro-impressão (impressão visível apenas com uma lupa e não reproduzida pelas máquinas fotocopiadoras),\n\n— caracteres, símbolos ou motivos sensíveis ao tacto,\n\n— dupla numeração: número de série da licença comunitária, da sua cópia certificada ou do certificado de motorista, bem como, em cada caso, o número de emissão,\n\n— fundo de segurança desenhado com motivos guiloché de linhas finas e impressão irisada."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "c96b2c27d26b1ed0": {
+   "fragment_id": "Modelo da licença comunitária",
+   "type": "divisao",
+   "heading": "Modelo da licença comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo da licença comunitária"
+  },
+  "d66228c8c6b0e1e7": {
+   "fragment_id": "COMUNIDADE EUROPEIA",
+   "type": "divisao",
+   "heading": "COMUNIDADE EUROPEIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMUNIDADE EUROPEIA"
+  },
+  "55992bec1ccf7f30": {
+   "fragment_id": "(a)",
+   "type": "divisao",
+   "heading": "(a)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (a)"
+  },
+  "d1ba69e64bf68c6c": {
+   "fragment_id": "(Papel de cor Pantone azul clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+   "type": "divisao",
+   "heading": "(Papel de cor Pantone azul clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Papel de cor Pantone azul clara 290, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)"
+  },
+  "da37bdaf561217bd": {
+   "fragment_id": "(Primeira página da licença)",
+   "type": "divisao",
+   "heading": "(Primeira página da licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Primeira página da licença)"
+  },
+  "83f36382bd6503d8": {
+   "fragment_id": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)",
+   "type": "divisao",
+   "heading": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)\n\n[**►(^1^) M2**](http://publications.europa.eu/resource/celex/32013R0517)"
+  },
+  "f4df34dbf078df2a": {
+   "fragment_id": "(b)",
+   "type": "divisao",
+   "heading": "(b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (b)"
+  },
+  "0bfe31379b8c28a8": {
+   "fragment_id": "(Segunda página da licença)",
+   "type": "divisao",
+   "heading": "(Segunda página da licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Segunda página da licença)"
+  },
+  "ef8550d0903648a0": {
+   "fragment_id": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)",
+   "type": "divisao",
+   "heading": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite a licença)\n\nA presente licença é emitida ao abrigo do Regulamento (CE) n.º 1072/2009.\n\nA presente licença permite ao titular efectuar, em todas as relações de tráfego, no que se refere ao percurso efectuado no território da Comunidade e, quando aplicável, nas condições nela estabelecidas, transportes rodoviários internacionais de mercadorias por conta de outrem:\n\n— cujo ponto de partida e cujo ponto de chegada se encontrem em dois Estados-Membros diferentes, com ou sem trânsito por um ou mais Estados-Membros ou países terceiros,\n\n— com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, com ou sem trânsito por um ou mais Estados-Membros ou países terceiros,\n\n— entre países terceiros, atravessando em trânsito o território de um ou mais Estados-Membros,\n\nbem como as deslocações sem carga relacionadas com esses transportes.\n\nNo caso de um transporte com origem num Estado-Membro e com destino a um país terceiro, e vice-versa, a presente licença é válida para o trajecto efectuado no território da Comunidade. Só é válida no Estado-Membro de carga ou de descarga após a celebração do acordo necessário entre a Comunidade e o país terceiro em causa, nos termos do Regulamento (CE) n.º 1072/2009.\n\nA licença é pessoal e intransmissível.\n\nA licença pode ser retirada pela autoridade competente do Estado-Membro que a emitiu, designadamente caso o transportador:\n\n— não tenha cumprido todas as condições a que a utilização da licença está sujeita,\n\n— tenha prestado informações inexactas no tocante aos dados necessários para a emissão ou a prorrogação da licença.\n\nO original da licença deve ser conservado pela empresa transportadora.\n\nDeve ser conservada a bordo do veículo uma cópia certificada da licença ([^8^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0008)). No caso de um conjunto de veículos acoplados, a licença deve acompanhar o veículo tractor. A licença abrange o conjunto de veículos acoplados, mesmo que o reboque ou o semi-reboque não estejam matriculado ou autorizados a circular em nome do titular da licença ou se o mesmo estiver matriculado ou autorizado a circular noutro Estado-Membro.\n\nA licença deve ser apresentada sempre que for solicitada pelos agentes responsáveis pelo controlo.\n\nO titular deve respeitar, no território da cada Estado-Membro, as disposições legislativas, regulamentares e administrativas em vigor nesse Estado, nomeadamente em matéria de transporte e circulação."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "52d1b16c2776fa38": {
+   "fragment_id": "Modelo do certificado de motorista",
+   "type": "divisao",
+   "heading": "Modelo do certificado de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo do certificado de motorista"
+  },
+  "ddf05b793f8c31dd": {
+   "fragment_id": "(Papel de cor Pantone rosa 182, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+   "type": "divisao",
+   "heading": "(Papel de cor Pantone rosa 182, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Papel de cor Pantone rosa 182, ou o mais próximo possível desta cor, formato DIN A4 celulósico ≥ 100 g/m^2^)"
+  },
+  "840167c49d0a234f": {
+   "fragment_id": "(Primeira página do certificado)",
+   "type": "divisao",
+   "heading": "(Primeira página do certificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Primeira página do certificado)"
+  },
+  "b54cee5acf267f79": {
+   "fragment_id": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)",
+   "type": "divisao",
+   "heading": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)\n\n[**►(^1^) M2**](http://publications.europa.eu/resource/celex/32013R0517)"
+  },
+  "43e0aa7623a0837d": {
+   "fragment_id": "(Segunda página do certificado)",
+   "type": "divisao",
+   "heading": "(Segunda página do certificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Segunda página do certificado)"
+  },
+  "bc447f33b34133cf": {
+   "fragment_id": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)",
+   "type": "divisao",
+   "heading": "(Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### (Texto redigido na, nas ou numa das línguas oficiais do Estado-Membro que emite o certificado)\n\nO presente certificado é emitido ao abrigo do Regulamento (CE) n.º 1072/2009\n\nO certificado atesta que o motorista cujo nome dele consta está empregado em conformidade com as disposições legislativas, regulamentares ou administrativas, e, quando aplicáveis, com as convenções colectivas, de acordo com as regras aplicáveis no Estado-Membro indicado no certificado, relativas às condições de emprego e formação profissional dos motoristas aplicáveis nesse Estado-Membro, para nele efectuar transportes rodoviários.\n\nO certificado de motorista é propriedade do transportador, que o deve entregar ao motorista nele identificado quando este tenha de conduzir um veículo ([^9^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0009)) num transporte efectuado a coberto de uma licença comunitária de que o transportador é titular. O certificado é intransmissível. O certificado é válido apenas enquanto as condições em que foi emitido estiverem preenchidas e deve ser devolvido pelo transportador à autoridade emissora logo que essas condições deixem de estar preenchidas.\n\nO certificado pode ser retirado pela autoridade competente do Estado-Membro que o emitiu, nomeadamente quando o titular:\n\n— não tenha cumprido todas as condições a que a utilização do certificado está sujeita,\n\n— tenha prestado informações inexactas no tocante aos dados necessários para a emissão ou a prorrogação do certificado.\n\nA empresa de transporte deve conservar uma cópia certificada do certificado de motorista.\n\nUm original do certificado deve ser conservado a bordo do veículo e deve ser apresentado pelo motorista sempre que os agentes responsáveis pelo controlo o solicitarem."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "d941b432a5159082": {
+   "fragment_id": "Tabela de correspondência",
+   "type": "divisao",
+   "heading": "Tabela de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de correspondência\n\n| Regulamento (CEE) n.º 881/92 | Regulamento (CEE) n.º 3118/93 | Directiva 2006/94/CE | Presente regulamento |\n| --- | --- | --- | --- |\n| N.º 1 do artigo 1.º |  |  | N.º 1 do artigo 1.º |\n| N.º 2 do artigo 1.º |  |  | N.º 2 do artigo 1.º |\n| N.º 3 do artigo 1.º |  |  | N.º 3 do artigo 1.º |\n| Anexo II |  | N.^os^ 1 e 2 do artigo 1.º, anexo I; artigo 2.º | N.º 5 do artigo 1.º |\n|  |  | Artigo 2.º | N.º 6 do artigo 1.º |\n| Artigo 2.º |  |  | Artigo 2.º |\n| N.º 1 do artigo 3.º |  |  | Artigo 3.º |\n| N.º 2 do artigo 3.º |  |  | N.º 1 do artigo 4.º |\n| N.º 3 do artigo 3.º |  |  | N.º 1 do artigo 5.º |\n| Artigo 4.º |  |  |  |\n| N.º 1 do artigo 5.º |  |  | N.º 2 do artigo 4.º |\n| N.º 2 do artigo 5.º |  |  | N.º 3 do artigo 4.º |\n| N.º 3 do artigo 5.º |  |  | N.º 4 do artigo 4.º |\n|  |  |  | N.º 5 do artigo 4.º |\n| N.º 4 do artigo 5.º, anexo I |  |  | N.º 6 do artigo 4.º |\n| N.º 5 do artigo 5.º |  |  | N.º 2 do artigo 4.º |\n| N.º 1 do artigo 6.º |  |  | N.º 2 do artigo 5.º |\n| N.º 2 do artigo 6.º |  |  | N.º 2 do artigo 5.º |\n| N.º 3 do artigo 6.º |  |  | N.º 3 do artigo 5.º |\n| N.º 4 do artigo 6.º |  |  | N.º 6 do artigo 5.º |\n| N.º 5 do artigo 6.º |  |  | N.º 7 do artigo 5.º |\n| Artigo 7.º |  |  | Artigo 6.º |\n| N.º 1 do artigo 8.º |  |  | N.º 1 do artigo 7.º |\n| N.º 2 do artigo 8.º |  |  | N.º 2 do artigo 7.º |\n| N.º 3 do artigo 8.º |  |  | N.º 1 do artigo 12.º |\n| N.º 4 do artigo 8.º |  |  | N.º 2 do artigo 12.º |\n| N.^os^ 1 e 2 do artigo 9.º |  |  | N.º 6 do artigo 12.º |\n|  | N.º 1 do artigo 1.º |  | N.º 1 do artigo 8.º |\n|  | N.º 2 do artigo 1.º |  | N.º 5 do artigo 8.º |\n|  | N.^os^ 3 e 4 do artigo 1.º |  | N.º 6 do artigo 8.º |\n|  | Artigo 2.º |  |  |\n|  | Artigo 3.º |  |  |\n|  | Artigo 4.º |  |  |\n|  | Artigo 5.º |  |  |\n|  | N.º 1 do artigo 6.º |  | N.º 1 do artigo 9.º |\n|  | N.º 2 do artigo 6.º |  |  |\n|  | N.º 3 do artigo 6.º |  | N.º 2 do artigo 9.º |\n|  | N.º 4 do artigo 6.º |  |  |\n|  | Artigo 7.º |  | Artigo 10.º |\n| Artigo 10.º |  |  | N.º 1 do artigo 17.º |\n| N.º 1 do artigo 11.º | N.º 1 do artigo 8.º |  | Artigo 11.º |\n| N.º 2 do artigo 11.º |  |  | N.º 1 do artigo 13.º |\n| N.º 3 do artigo 11.º |  |  | N.º 4 do artigo 12.º |\n| Artigo 11.ºA |  |  |  |\n|  | N.^os^ 2 e 3 do artigo 8.º |  | N.º 2 do artigo 13.º |\n|  | N.º 4, primeiro e terceiro parágrafos, do artigo 8.º |  |  |\n|  | N.º 4, segundo parágrafo, do artigo 8.º |  | N.º 4 do artigo 12.º |\n|  | N.º 4, quarto e quinto parágrafos, do artigo 8.º |  | N.º 5 do artigo 12.º |\n|  | Artigo 9.º |  | N.º 3 do artigo 13.º |\n| Artigo 12.º |  |  | Artigo 18.º |\n| Artigo 13.º |  |  |  |\n| Artigo 14.º | Artigo 10.º |  |  |\n|  | Artigo 11.º |  |  |\n| Artigo 15.º | Artigo 12.º | Artigo 4.º | Artigo 19.º |\n|  |  | Artigo 3.º |  |\n|  |  | Artigo 5.º |  |\n|  |  | Anexos II, III |  |\n| Anexo I |  |  | Anexo II |\n| Anexo III |  |  | Anexo III |\n|  | Anexo I |  |  |\n|  | Anexo II |  |  |\n|  | Anexo III |  |  |\n|  | Anexo IV |  |  |\n\n---"
+  },
+  "41b180d8ac35ba47": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0001)) JO L 33 de 4.2.2006, p. 82.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0002)) JO L 16 de 23.1.2004, p. 44.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0003)) JO L 235 de 17.9.1996, p. 59.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (UE) n.º 165/2014 do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014, relativo à utilização de tacógrafos nos transportes rodoviários, que revoga o Regulamento (CEE) n.º 3821/85 do Conselho relativo à introdução de um aparelho de controlo no domínio dos transportes rodoviários e que altera o Regulamento (CE) n.º 561/2006 do Parlamento Europeu e do Conselho relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários (JO L 60 de 28.2.2014, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Diretiva 2006/22/CE do Parlamento Europeu e do Conselho, de 15 de março de 2006, relativa a exigências mínimas no que respeita à execução dos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014 e da Diretiva 2002/15/CE no que diz respeito às disposições sociais no domínio das atividades de transporte rodoviário e que revoga a Diretiva 88/599/CEE do Conselho (JO L 102 de 11.4.2006, p. 35).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0006)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Regulamento (UE) 2020/1055 do Parlamento Europeu e do Conselho, de 15 de julho de 2020, que altera os Regulamentos (CE) n.º 1071/2009, (CE) n.º 1072/2009 e (UE) n.º 1024/2012 com vista à sua adaptação à evolução no setor dos transportes rodoviários (JO L 249 de 31.7.2020, p. 17).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0008)) Por «veículo», entende-se um veículo a motor matriculado num Estado-Membro ou um conjunto de veículos acoplados em que pelo menos o veículo tractor esteja matriculado num Estado-Membro, destinados exclusivamente ao transporte de mercadorias.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/98e91c5c-83d1-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#src.E0009)) Por «veículo», entende-se um veículo a motor matriculado num Estado-Membro ou um conjunto de veículos acoplados em que pelo menos o veículo tractor está matriculado num Estado-Membro, destinados exclusivamente ao transporte de mercadorias."
+  }
+ }
+}

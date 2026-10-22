@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0709:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0709-20100815",
+ "dre_path": null,
+ "source_lastmod": "2010-08-15",
+ "versions": [
+  {
+   "date": "2010-08-12",
+   "future": false,
+   "celex": "32010R0709",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c2aae9313e514878",
+    "5aae83c87a638229",
+    "abb21ec146293789",
+    "f721c11fe95cf0b4"
+   ]
+  }
+ ],
+ "fragments": {
+  "c2aae9313e514878": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho de 2010\n\nque altera o Regulamento (CE) n.º 338/97 do Conselho relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 338/97 do Conselho, de 9 de Dezembro de 1996, relativo à protecção de espécies da fauna e da flora selvagens através do controlo do seu comércio [([^1])](http://publications.europa.eu/resource/cellar/9b95960d-1d5a-40bb-acfc-7f7fbeb27d8b.0018.02/DOC_1#ntr1-L_2010212PT.01000101-E0001), nomeadamente o artigo 19.º, n.º 5,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 338/97 estabelece listas de espécies animais e vegetais cujo comércio é objecto de restrições ou controlo. Essas listas integram as listas constantes dos anexos da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção, a seguir designada por «Convenção». Na décima quinta sessão da Conferência das Partes na Convenção, realizada em Doha (Catar) em Março de 2010, foram introduzidas determinadas alterações nos anexos da Convenção.\n\n(2) A espécie *Anas oustaleti* foi suprimida do anexo I.\n\n(3) As espécies *Euphorbia misera, Orothamnus zeyheri* e *Protea odorata* foram suprimidas do anexo II.\n\n(4) A população de *Crocodylus niloticus* do Egipto foi transferida do anexo I para o anexo II com uma quota zero para os espécimes selvagens.\n\n(5) As populações de *Crocodylus moreletii* do México e do Belize foram transferidas do anexo I para o anexo II com uma quota zero para os espécimes selvagens.\n\n(6) A espécie *Neurergus kaiseri* foi incluída no anexo I.\n\n(7) As espécies *Ctenosaura bakeri*, *C. oedirhina*, *C. melanosterna*, *C. palearis*, *Agalychnis* spp., *Dynastes satanas*, *Operculicarya hyphaenoides*, *O. pachypus*, *Zygosicyos pubescens*, *Z. tripartitus*, *Aniba rosaeodora* (com anotação), *Adenia olaboensis*, *Cyphostemma elephantopus*, *C. montagnacii* e *Bulnesia sarmientoi* (com anotação) foram incluídas no anexo II.\n\n(8) No anexo II, a lista respeitante a *Beccariophoenix madagascariensis* e *Neodypsis decaryi* foi alargada para incluir as sementes de Madagáscar.\n\n(9) As espécies *Arborophila campbelli, Arborophila charltonii, Caloperdix oculeus, Lophura erythrophthalma, Lophura ignita, Melanoperdix niger, Polyplectron inopinatum, Rhizothera dulitensis, Rhizothera longirostris e Rollulus rouloul* foram suprimidas do anexo III da Convenção a pedido da Malásia e a espécie *Haliotis midae* foi suprimida do anexo III da Convenção a pedido da África do Sul.\n\n(10) Nas listas dos anexos I e II da Convenção, as anotações respeitantes à espécie *Canis lupus* foram alteradas.\n\n(11) Nas listas do anexo I da Convenção, as anotações respeitantes às Orchidaceae spp. foram alteradas.\n\n(12) Nas listas do anexo II da Convenção, as anotações respeitantes às Cactaceae spp. e a todos os táxones vegetais com anotação #1 foram alteradas.\n\n(13) Nenhum dos Estados-Membros manifestou reservas relativamente a qualquer destas alterações.\n\n(14) As alterações introduzidas nos anexos I, II e III da Convenção implicam, assim, a introdução de alterações nos anexos A, B e C do anexo do Regulamento (CE) n.º 338/97.\n\n(15) As espécies *Physignathus cocincinus, Abronia graminea* e *Ctenosaura quinquecarinata* – actualmente não incluídas na lista do anexo do Regulamento (CE) n.º 338/97 – estão a ser importadas para a União em quantidades que justificam o seu controlo. Por conseguinte, essas espécies devem ser incluídas no anexo D do anexo do Regulamento (CE) n.º 338/97.\n\n(16) A décima quinta sessão da Conferência das Partes na Convenção adoptou novas referências de nomenclatura para determinados animais.\n\n(17) O Regulamento (CE) n.º 338/97 deve ser alterado em conformidade. Atendendo à importância das alterações, é adequado, por motivos de clareza, substituir integralmente o anexo do Regulamento (CE) n.º 338/97.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Comércio da Fauna e da Flora Selvagens instituído nos termos do artigo 18.º do Regulamento (CE) n.º 338/97,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5aae83c87a638229": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo do Regulamento (CE) n.º 338/97 é substituído pelo texto do anexo do presente regulamento."
+  },
+  "abb21ec146293789": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 22 de Julho de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "f721c11fe95cf0b4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9b95960d-1d5a-40bb-acfc-7f7fbeb27d8b.0018.02/DOC_1#ntc1-L_2010212PT.01000101-E0001) [JO L 61 de 3.3.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_061_R_TOC)."
+  }
+ }
+}

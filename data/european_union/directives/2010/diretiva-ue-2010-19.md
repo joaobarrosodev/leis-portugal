@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2010-19.versoes.json
+  count: 1
+  source_lastmod: '2011-07-16'
+  versions:
+  - date: '2010-03-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010L0019
   eli: http://data.europa.eu/eli/dir/2010/19/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c11eb06f-300a-4db9-80db-e1542b798963.0018
   content_url: http://publications.europa.eu/resource/cellar/c11eb06f-300a-4db9-80db-e1542b798963.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:01Z'
+  retrieved_at: '2026-10-22T15:46:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-01-19T10:45:24.375+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:01Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:10Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2010-19.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,21 +117,20 @@ relationships:
   date: '2018-06-14'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:01Z'
+  checked_at: '2026-10-22T15:46:10Z'
   warnings:
-  - 'Versão consolidada 02010L0019-20110716 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02010L0019-20110716: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DIRECTIVA 2010/19/UE DA COMISSÃO
+# Directiva 2010/19/UE da Comissão, de 9 de Março de 2010
 
 de 9 de Março de 2010
 

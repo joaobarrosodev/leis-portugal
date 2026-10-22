@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-23'
+version_history:
+  file: diretiva-ue-2009-103.versoes.json
+  count: 2
+  source_lastmod: '2023-12-23'
+  versions:
+  - date: '2009-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-23'
+    amending: eu:celex:32021L2118:por
+    amending_title: DIRETIVA (UE) 2021/2118 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 3.º — Obrigação de segurar veículos
+    - Altera Artigo 4.º — Fiscalização do seguro
+    - Altera Artigo 5.º — Derrogação à obrigação de segurar veículos
+    - Altera Artigo 9.º — Montantes mínimos
+    - Altera Artigo 10.º — Organismo responsável pela indemnização
+    - Altera Artigo 11.º — Litígio
+    - Altera Artigo 13.º — Cláusulas de exclusão
+    - Altera Artigo 15.º — Veículos enviados de um Estado-Membro para outro
+    - Altera Artigo 16.º — Declaração relativa aos sinistros que envolvam responsabilidade civil
+    - Altera Artigo 23.º — Centros de informação
+    - Altera Artigo 26.º — Organismo central
+    - Altera Artigo 28.º — Disposições nacionais
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Artigo 31.º — Destinatários
+    - Altera Notas
+    - Adita INDEMNIZAÇÃO POR DANOS CAUSADOS POR UM VEÍCULO NÃO IDENTIFICADO OU POR UM VEÍCULO RELATIVAMENTE AO QUAL NÃO TENHA
+      SIDO CUMPRIDA A OBRIGAÇÃO DE SEGURO REFERIDA NO ARTIGO 3.º-E INDEMNIZAÇÃO EM CASO DE INSOLVÊNCIA
+    - Adita Artigo 10.º-A — Proteção das pessoas lesadas relativamente a danos resultantes de acidentes que ocorreram no seu
+      Estado-Membro de residência em caso de insolvência de uma empresa de seguros
+    - Adita CATEGORIAS ESPECÍFICAS DE PESSOAS LESADAS, CLÁUSULAS DE EXCLUSÃO, PRÉMIO ÚNICO, VEÍCULOS ENVIADOS DE UM ESTADO-MEMBRO
+      PARA OUTRO
+    - Adita Artigo 12.º
+    - Adita Categorias especiais de pessoas lesadas
+    - Adita Artigo 15.º-A — Proteção de pessoas lesadas em acidentes que envolvam um reboque rebocado por um veículo
+    - Adita Artigo 16.º-A — Ferramentas de comparação de preços do seguro automóvel
+    - Adita Artigo 25.º-A — Proteção das pessoas lesadas relativamente a danos resultantes de acidentes que ocorreram num
+      Estado-Membro que não o seu Estado-Membro de residência, em caso de insolvência de uma empresa de seguros
+    - Adita Artigo 26.º-A — Informação das pessoas lesadas
+    - Adita Artigo 28.º-A — Procedimento de comité
+    - Adita Artigo 28.º-B — Exercício de poderes delegados
+    - Adita Artigo 28.º-C — Avaliação e revisão
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Suprime INDEMNIZAÇÃO DOS DANOS CAUSADOS POR UM VEÍCULO NÃO IDENTIFICADO OU RELATIVAMENTE AO QUAL NÃO TIVER SIDO SATISFEITA
+      A OBRIGAÇÃO DE SEGURO REFERIDA NO ARTIGO 3.º
+    - Suprime CATEGORIAS ESPECÍFICAS DE VÍTIMAS, CLÁUSULAS DE EXCLUSÃO, PRÉMIO ÚNICO, VEÍCULOS ENVIADOS DE UM ESTADO-MEMBRO
+      PARA OUTRO
+    - Suprime Artigo 12.º — Categorias específicas de vítimas
 identifiers:
   celex: 32009L0103
   eli: http://data.europa.eu/eli/dir/2009/103/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/510d4015-9752-4295-8a7f-774575a1396d.0018
   content_url: http://publications.europa.eu/resource/cellar/3336dbac-9e66-11ee-b164-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0103-20231223
-  retrieved_at: '2026-10-22T02:45:29Z'
+  retrieved_at: '2026-10-22T15:39:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T10:57:30.670+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:29Z'
-  notes: Texto consolidado 02009L0103-20231223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:28Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-103.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -265,33 +318,19 @@ relationships:
   source: null
 article_structure:
   article_count: 39
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:29Z'
+  checked_at: '2026-10-22T15:39:28Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/103/CE do Parlamento Europeu e do Conselho, de 16 de Setembro de 2009
-
-> 02009L0103 — PT — 23.12.2023 — 001.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L2118) — [DIRETIVA (UE) 2021/2118 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021](http://publications.europa.eu/resource/celex/32021L2118) — L 430 — 1 — 2.12.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021L2118R%2801%29) — [Rectificação, JO L 90292, 31.3.2025, p. 1 (2021/2118)](http://publications.europa.eu/resource/celex/32021L2118R%2801%29)
-
-## DIRECTIVA 2009/103/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Setembro de 2009
 

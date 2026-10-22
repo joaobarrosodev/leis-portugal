@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2009-641.versoes.json
+  count: 1
+  source_lastmod: '2019-11-14'
+  versions:
+  - date: '2009-07-23'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009R0641
   eli: http://data.europa.eu/eli/reg/2009/641/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3224342-5c2b-4346-a56c-b75cb2cfaa52.0018
   content_url: http://publications.europa.eu/resource/cellar/b3224342-5c2b-4346-a56c-b75cb2cfaa52.0018.04/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:48Z'
+  retrieved_at: '2026-10-22T15:42:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T22:18:20.498+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:48Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:59Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2009-641.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -124,21 +133,23 @@ relationships:
   date: '2012-04-25'
 article_structure:
   article_count: 8
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:48Z'
+  checked_at: '2026-10-22T15:42:59Z'
   warnings:
-  - 'Versão consolidada 02009R0641-20191114 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009R0641-20090812: versão indisponível (Sem expressão na língua por para CELEX 02009R0641-20090812.)'
+  - '02009R0641-20120801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0641-20170109: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009R0641-20191114: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 641/2009 DA COMISSÃO
+# Regulamento (CE) n. o 641/2009 da Comissão, de 22 de Julho de 2009
 
 de 22 de Julho de 2009
 

@@ -36,6 +36,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-06-23'
+version_history:
+  file: diretiva-ue-2009-73.versoes.json
+  count: 3
+  source_lastmod: '2022-06-23'
+  versions:
+  - date: '2009-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-05-23'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018; DIRETIVA (UE)
+      2019/692 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de abril de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Solidariedade regional
+    - Altera Artigo 8.º — Normas técnicas
+    - Altera Artigo 9.º — Separação entre as redes de transporte e os operadores das redes de transporte
+    - Altera Artigo 11.º — Certificação relativamente a países terceiros
+    - Altera Artigo 14.º — Operadores de rede independentes
+    - Altera Artigo 17.º — Activos, equipamento, pessoal e identidade
+    - Altera Artigo 31.º — Separação contabilística
+    - Altera Artigo 34.º — Acesso às redes de gasodutos a montante
+    - Altera Artigo 36.º — Novas infra-estruturas
+    - Altera Artigo 37.º — Abertura dos mercados e reciprocidade
+    - Altera Artigo 39.º — Designação e independência das entidades reguladoras
+    - Altera Artigo 41.º — Obrigações e competências das entidades reguladoras
+    - Altera Artigo 42.º — Regime regulamentar para questões transfronteiriças
+    - Altera Artigo 52.º — Relatórios
+    - Altera Artigo 56.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 48.º-A — Acordos técnicos relativos à exploração das condutas de transporte
+    - Adita Artigo 49.º-A — Derrogações às disposições relativas às condutas de transporte com início e término em países
+      terceiros
+    - Adita Artigo 49.º-B — Procedimento de habilitação
+    - Adita ANEXO I
+    - Adita MEDIDAS DE PROTECÇÃO DOS CONSUMIDORES
+    - Adita ANEXO II
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Suprime Artigo 5.º — Monitorização da segurança do abastecimento
+  - date: '2022-06-23'
+    amending: eu:celex:32022R0869:por
+    amending_title: REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Solidariedade regional
+    - Altera Artigo 8.º — Normas técnicas
+    - Altera Artigo 9.º — Separação entre as redes de transporte e os operadores das redes de transporte
+    - Altera Artigo 17.º — Activos, equipamento, pessoal e identidade
+    - Altera Artigo 31.º — Separação contabilística
+    - Altera Artigo 37.º — Abertura dos mercados e reciprocidade
+    - Altera Artigo 41.º — Obrigações e competências das entidades reguladoras
+    - Altera Artigo 49.º-B — Procedimento de habilitação
+    - Altera Artigo 52.º — Relatórios
+    - Altera MEDIDAS DE PROTECÇÃO DOS CONSUMIDORES
+    - Altera Notas
 identifiers:
   celex: 32009L0073
   eli: http://data.europa.eu/eli/dir/2009/73/oj
@@ -50,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0b2dee3-1ab4-4204-92e7-cb494cce6130.0018
   content_url: http://publications.europa.eu/resource/cellar/189e7587-f19d-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0073-20220623
-  retrieved_at: '2026-10-22T02:36:02Z'
+  retrieved_at: '2026-10-22T15:38:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T16:48:36.190+02:00'
 integrity:
@@ -59,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:02Z'
-  notes: Texto consolidado 02009L0073-20220623.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:38:57Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-73.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -355,31 +412,20 @@ relationships:
   source: null
 article_structure:
   article_count: 58
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:02Z'
-  warnings: []
+  checked_at: '2026-10-22T15:38:57Z'
+  warnings:
+  - '02009L0073-20090903: versão indisponível (Sem expressão na língua por para CELEX 02009L0073-20090903.)'
   errors: []
 ---
 
 # Directiva 2009/73/CE do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009L0073 — PT — 23.06.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019L0692) — [DIRETIVA (UE) 2019/692 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019L0692) — L 117 — 1 — 3.5.2019
-- [►M3](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-
-## DIRECTIVA 2009/73/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

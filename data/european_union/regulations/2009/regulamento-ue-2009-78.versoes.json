@@ -1,0 +1,299 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0078:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0078-20220706",
+ "dre_path": null,
+ "source_lastmod": "2022-07-06",
+ "versions": [
+  {
+   "date": "2009-02-04",
+   "future": false,
+   "celex": "32009R0078",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6eab761cf82bcf9d",
+    "226c39ffd0a88dad",
+    "d2b5912d6b5e8e4e",
+    "3a2390f442e5d182",
+    "05ce1546794bd668",
+    "e222a10016004315",
+    "f0f8c960bfdbce9b",
+    "ebeb2e8358cf8255",
+    "ba39ac77094f11c6",
+    "a852865e0be01968",
+    "1e7a0903d2eed348",
+    "ca3ade85d97c3569",
+    "107a3235b41284a0",
+    "d0330a10de3f7fc6",
+    "60b2458fc5289cd6",
+    "1dd940ed2419b698",
+    "8a4b4824eb2caa8d",
+    "c72912d5f6b0001c",
+    "9db70c28fe7dde66",
+    "ab1721db16786d51",
+    "1ecfc79da3f1ac7f",
+    "fee7c0f6661bbf52",
+    "01b4aefc61c7471e",
+    "4619590841c5afa8",
+    "afbca3f729034317",
+    "b195c88819b00255"
+   ]
+  },
+  {
+   "date": "2022-07-06",
+   "future": false,
+   "celex": "02009R0078-20220706",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime OBRIGAÇÕES DOS FABRICANTES",
+    "Suprime Artigo 4.º — Requisitos técnicos",
+    "Suprime Artigo 5.º — Pedido de homologação CE",
+    "Suprime CAPÍTULO III",
+    "Suprime OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS",
+    "Suprime Artigo 6.º — Concessão da homologação CE",
+    "Suprime Artigo 7.º — Marca de homologação CE",
+    "Suprime Artigo 8.º — Modificações do modelo ou tipo e alteração das homologações",
+    "Suprime Artigo 9.º — Calendário para a aplicação aos veículos",
+    "Suprime Artigo 10.º — Aplicação a sistemas de protecção frontal",
+    "Suprime Artigo 11.º — Sistemas anticolisão",
+    "Suprime Artigo 12.º — Controlo",
+    "Suprime Artigo 13.º — Sanções",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 14.º — Alterações à Directiva 2007/46/CE",
+    "Suprime Artigo 15.º — Revogação",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8fb7c63f607ef982"
+   ]
+  }
+ ],
+ "fragments": {
+  "6eab761cf82bcf9d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Janeiro de 2009\n\nrelativo à homologação de veículos a motor no que diz respeito à protecção dos peões e outros utilizadores vulneráveis da estrada, que altera a Directiva 2007/46/CE e revoga as Directivas 2003/102/CE e 2005/66/CE\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr1-L_2009035PT.01000101-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr2-L_2009035PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O mercado interno compreende um espaço sem fronteiras internas no qual deve ser assegurada a livre circulação de mercadorias, pessoas, serviços e capitais. Para o efeito, existe um sistema comunitário de homologação de veículos a motor. Há que harmonizar os requisitos técnicos para a homologação de veículos a motor no que se refere à protecção dos peões, a fim de evitar a aprovação de requisitos diferentes consoante os Estados-Membros e de garantir o correcto funcionamento do mercado interno.\n\n(2) O presente regulamento é um dos actos regulamentares específicos, no contexto do procedimento de homologação CE, nos termos da Directiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de Setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos (Directiva-quadro) [([^3])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr3-L_2009035PT.01000101-E0003). A fim de cumprir os objectivos estabelecidos no considerando 1 do presente regulamento, os anexos I, III, IV, VI e XI da Directiva 2007/46/CE deverão ser alterados.\n\n(3) A experiência adquirida confirma que a legislação em matéria de veículos automóveis é frequentemente de teor técnico muito pormenorizado. É pois adequado aprovar um regulamento, e não uma directiva, a fim de evitar discrepâncias entre medidas de transposição e um nível desnecessário de legislação nos Estados-Membros, na medida em que não será necessária a transposição para a legislação nacional. Por conseguinte, a Directiva 2003/102/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à protecção dos peões e outros utentes vulneráveis da estrada antes e em caso de colisão com um veículo a motor [([^4])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr4-L_2009035PT.01000101-E0004) e a Directiva 2005/66/CE do Parlamento Europeu e do Conselho, de 26 de Outubro de 2005, relativa à utilização de sistemas de protecção frontal em veículos a motor [([^5])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr5-L_2009035PT.01000101-E0005), que prevê requisitos para a instalação e a utilização de sistemas de protecção frontal em veículos e, consequentemente, um nível de protecção dos peões, deverão ser substituídas pelo presente regulamento, a fim de assegurar a coerência nesta área. Isto implica que os Estados-Membros revoguem os diplomas de transposição das directivas revogadas.\n\n(4) Comprovou-se que os requisitos da segunda fase de aplicação da Directiva 2003/102/CE não se têm revelado exequíveis. A este respeito, nos termos do artigo 5.º dessa directiva, a Comissão deverá apresentar as propostas necessárias para superar os problemas de exequibilidade dos referidos requisitos e utilizar sistemas de segurança activa, garantindo simultaneamente que os níveis de segurança proporcionados aos utilizadores vulneráveis da estrada não sejam reduzidos.\n\n(5) Um estudo encomendado pela Comissão revela que os requisitos de protecção dos peões podem ser significativamente melhorados mediante um a combinação de medidas activas e passivas que oferecem um nível de protecção superior ao das disposições previamente vigentes. Esse estudo destacou, em particular, a medida de segurança activa constituída pelo sistema de assistência à travagem de emergência, a qual, em combinação com modificações dos requisitos de segurança passiva, aumentaria significativamente o nível de protecção dos peões. É pois adequado prever a obrigatoriedade de instalar sistemas de assistência à travagem de emergência em veículos a motor novos. Todavia, essa medida não deverá substituir sistemas de segurança passiva de alto nível, mas antes complementá-los.\n\n(6) Os veículos equipados com sistemas anticolisão podem ser isentos de determinados requisitos enunciados no presente regulamento na medida em que possam evitar colisões com peões, e não apenas atenuar os efeitos de tais colisões. Após avaliar se a utilização desses sistemas pode efectivamente evitar colisões com peões e outros utilizadores vulneráveis da estrada, a Comissão pode apresentar propostas de alteração do presente regulamento a fim de permitir a utilização de sistemas anticolisão.\n\n(7) Dado o número crescente de veículos cada vez mais pesados a circular em vias urbanas, é adequado que as disposições sobre a protecção dos peões sejam aplicáveis não só a veículos até 2 500 kg de massa máxima, mas também, após um período de transição limitado, aos veículos das categorias M1 e N1 que excedam esse limite.\n\n(8) Tendo em vista aumentar quanto antes a protecção dos peões, os fabricantes que pretendam requerer uma homologação em conformidade com os novos requisitos antes de estes serem obrigatórios devem poder fazê-lo, na condição de as medidas de execução necessárias já estarem em vigor.\n\n(9) As medidas necessárias à aplicação do presente regulamento deverão ser aprovadas em conformidade com a Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^6])](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntr6-L_2009035PT.01000101-E0006).\n\n(10) Em especial, deverá ser atribuída competência à Comissão para aprovar disposições técnicas para a aplicação dos requisitos de ensaio e medidas de execução com base nos resultados do controlo. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, nomeadamente completando-o com novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(11) A fim de garantir uma transição harmoniosa das disposições das Directivas 2003/102/CE e 2005/66/CE para o presente regulamento, a aplicação deste último deverá ser adiada por um determinado período após a sua entrada em vigor.\n\n(12) Atendendo a que o objectivo do presente regulamento, a saber, a realização do mercado interno através da introdução de requisitos técnicos comuns referentes à protecção dos peões, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à escala da acção necessária, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objectivo,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "d2b5912d6b5e8e4e": {
+   "fragment_id": "OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "3a2390f442e5d182": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece requisitos para a construção e o funcionamento de veículos e sistemas de protecção frontal a fim de reduzir o número e a gravidade das lesões em peões e outros utilizadores vulneráveis da estrada em caso de colisão com as superfícies frontais dos veículos e de evitar tais colisões."
+  },
+  "05ce1546794bd668": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se:\n\na) Aos veículos a motor da categoria M1, definidos no n.º 11 do artigo 3.º da Directiva 2007/46/CE e no ponto 1 da parte A do seu anexo II, sem prejuízo do n.º 2 do presente artigo;\n\nb) Aos veículos a motor da categoria N1, definidos no n.º 11 do artigo 3.º da Directiva 2007/46/CE e no ponto 2 da parte A do seu anexo II, sem prejuízo do n.º 2 do presente artigo;\n\nc) Aos sistemas de protecção frontal montados como equipamento de origem nos veículos referidos nas alíneas a) e b) ou fornecidos como unidades técnicas autónomas para instalação nesses veículos.\n\n2. Os pontos 2 e 3 do anexo I do presente regulamento não se aplicam:\n\na) A veículos da categoria N1, e\n\nb) A veículos da categoria M1 derivados da categoria N1 de massa máxima superior a 2 500 kg,\n\nem que a posição do «ponto R» do condutor se situe à frente do eixo dianteiro ou longitudinalmente 1 100 mm, no máximo, para trás da linha de centro transversal do eixo dianteiro."
+  },
+  "e222a10016004315": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Montante A», o suporte mais dianteiro e mais exterior do tejadilho, que se estende do quadro até ao tejadilho do veículo;\n\n2. «Sistema de assistência à travagem», uma função do sistema de travagem que, com base numa característica da solicitação do travão pelo condutor, conclui que este se encontra numa situação de travagem de emergência e, nestas condições: a) Ajuda o condutor a obter uma força de travagem tão elevada quanto possível, ou b) É suficiente para desencadear um ciclo completo do sistema de travagem antibloqueio;\n\na) Ajuda o condutor a obter uma força de travagem tão elevada quanto possível, ou\n\nb) É suficiente para desencadear um ciclo completo do sistema de travagem antibloqueio;\n\n3. «Pára-choques», quaisquer estruturas exteriores situadas na parte inferior dianteira de um veículo, incluindo os respectivos apêndices, destinadas a proteger o veículo na eventualidade de uma colisão frontal a baixa velocidade com outro veículo; não inclui os sistemas de protecção frontal;\n\n4. «Sistema de protecção frontal», uma ou mais estruturas autónomas, tais como barras de protecção frontal rígidas, ou pára-choques adicionais, para além do pára-choques de origem, destinadas a proteger a superfície exterior do veículo de eventuais danos em caso de colisão com um objecto, exceptuando as estruturas com uma massa inferior a 0,5 kg destinadas à protecção exclusiva das luzes do veículo;\n\n5. «Massa máxima», a massa máxima em carga tecnicamente admissível, declarada pelo fabricante nos termos do ponto 2.8 do anexo I da Directiva 2007/46/CE;\n\n6. «Veículos da categoria N1 derivados da categoria M1», os veículos da categoria N1 que, para a frente dos pilares A, têm a mesma estrutura e a mesma forma gerais que os veículos da categoria M1 dos quais são derivados;\n\n7. «Veículos da categoria M1 derivados da categoria N1», os veículos da categoria M1 que, para a frente dos pilares A, têm a mesma estrutura e a mesma forma gerais que os veículos da categoria N1 dos quais são derivados."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "ebeb2e8358cf8255": {
+   "fragment_id": "OBRIGAÇÕES DOS FABRICANTES",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DOS FABRICANTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DOS FABRICANTES"
+  },
+  "ba39ac77094f11c6": {
+   "fragment_id": "Artigo 4.º — Requisitos técnicos",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos técnicos\n\n1. Em conformidade com o artigo 9.º, os fabricantes devem garantir que os veículos colocados no mercado estejam equipados com um sistema de assistência à travagem homologado em conformidade com os requisitos do ponto 4 do anexo I e cumpram os requisitos dos pontos 2 ou 3 do anexo I.\n\n2. Em conformidade com o artigo 10.º, os fabricantes devem garantir que os sistemas de protecção frontal montados como equipamento de origem em veículos colocados no mercado ou fornecidos como unidades técnicas autónomas cumpram os requisitos dos pontos 5 e 6 do anexo I.\n\n3. Os fabricantes devem apresentar às entidades homologadoras dados adequados relativos às especificações e às condições de ensaio do veículo e do sistema de protecção frontal. Os dados devem incluir a informação necessária para efeitos da verificação do funcionamento de qualquer dispositivo de segurança activa instalado no veículo.\n\n4. No caso dos sistemas de protecção frontal a fornecer como unidades técnicas autónomas, os fabricantes devem apresentar às entidades homologadoras dados adequados relativos às especificações e às condições de ensaio dos sistemas.\n\n5. Os sistemas de protecção frontal só podem ser distribuídos, postos à venda ou vendidos como unidades técnicas autónomas se incluírem uma lista dos modelos de veículos para os quais o sistema de protecção frontal foi homologado e instruções de montagem claras. As instruções de montagem devem conter prescrições de instalação específicas, incluindo modos de fixação nos veículos para os quais a unidade técnica foi homologada, que permitam montar os componentes homologados nesses veículos em conformidade com as disposições aplicáveis constantes do ponto 6 do anexo I.\n\n6. A Comissão aprova medidas de execução que estabelecem as disposições técnicas para a aplicação dos requisitos previstos no anexo I. Estas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 40.º da Directiva 2007/46/CE."
+  },
+  "a852865e0be01968": {
+   "fragment_id": "Artigo 5.º — Pedido de homologação CE",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de homologação CE\n\n1. Ao pedir a homologação CE de um modelo de veículo no que diz respeito à protecção dos peões, o fabricante apresenta à entidade homologadora a ficha de informações, estabelecida em conformidade com o modelo constante da parte 1 do anexo II.\n\nO fabricante deve apresentar ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo a homologar.\n\n2. Ao pedir a homologação CE de um modelo de veículo no que diz respeito ao seu equipamento com um sistema de protecção frontal, o fabricante apresenta à entidade homologadora a ficha de informações, estabelecida em conformidade com o modelo constante da parte 2 do anexo II.\n\nO fabricante deve apresentar ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo a homologar equipado com um sistema de protecção frontal. A pedido do serviço técnico, o fabricante deve apresentar igualmente componentes específicos ou amostras dos materiais utilizados.\n\n3. Ao pedir a homologação CE de um tipo de sistema de protecção frontal como unidade técnica autónoma, o fabricante apresenta à entidade homologadora a ficha de informações, estabelecida em conformidade com o modelo constante da parte 3 do anexo II.\n\nO fabricante deve apresentar ao serviço técnico responsável pela realização dos ensaios de homologação uma amostra do tipo de sistema de protecção frontal a homologar. Se o serviço técnico considerar necessário, poderá solicitar mais amostras. As amostras devem ostentar, de forma clara e indelével, a marca ou firma do requerente e a designação do tipo em questão. O fabricante deve adoptar disposições para a posterior afixação obrigatória da marca de homologação CE."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ca3ade85d97c3569": {
+   "fragment_id": "OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DAS AUTORIDADES DOS ESTADOS-MEMBROS"
+  },
+  "107a3235b41284a0": {
+   "fragment_id": "Artigo 6.º — Concessão da homologação CE",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Concessão da homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concessão da homologação CE\n\n1. Uma vez cumpridos os requisitos pertinentes, a entidade homologadora concede a homologação CE e emite um número de homologação em conformidade com o sistema de numeração estabelecido no anexo VII da Directiva 2007/46/CE.\n\n2. Para o ponto 3 desse número de homologação, é utilizada uma das seguintes letras:\n\na) Para a homologação de veículos no que diz respeito à protecção dos peões: — «A», se o veículo cumprir as disposições do ponto 2 do anexo I; — «B», se o veículo cumprir as disposições do ponto 3 do anexo I;\n\n— «A», se o veículo cumprir as disposições do ponto 2 do anexo I;\n\n— «B», se o veículo cumprir as disposições do ponto 3 do anexo I;\n\nb) Para a homologação de um veículo atendendo ao facto de estar equipado com um sistema de protecção frontal ou para a homologação de um sistema de protecção frontal a fornecer como unidade técnica autónoma: — «A», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.1, 5.1.2.1, 5.2 e 5.3; — «B», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.2, 5.1.2.1, 5.2 e 5.3; — «X», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.3, 5.1.2.2, 5.2 e 5.3.\n\n— «A», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.1, 5.1.2.1, 5.2 e 5.3;\n\n— «B», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.2, 5.1.2.1, 5.2 e 5.3;\n\n— «X», se o sistema de protecção frontal cumprir as disposições do ponto 5 do anexo I no que se refere à aplicação dos pontos 5.1.1.3, 5.1.2.2, 5.2 e 5.3.\n\n3. Uma entidade homologadora não pode atribuir o mesmo número a outro modelo de veículo ou tipo de sistema de protecção frontal.\n\n4. Para efeitos do n.º 1, a entidade homologadora emite o certificado de homologação CE estabelecido de acordo com o seguinte:\n\na) Modelo constante da parte 1 do anexo III para um modelo de veículo no que se refere à protecção dos peões;\n\nb) Modelo constante da parte 2 do anexo III para um modelo de veículo no que se refere ao seu equipamento com um sistema de protecção frontal;\n\nc) Modelo constante da parte 3 do anexo III para um tipo de sistema de protecção frontal a fornecer como unidade técnica autónoma."
+  },
+  "d0330a10de3f7fc6": {
+   "fragment_id": "Artigo 7.º — Marca de homologação CE",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Marca de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Marca de homologação CE\n\nOs sistemas de protecção frontal homologados em conformidade com o presente regulamento em virtude da homologação de um veículo no que diz respeito ao seu equipamento com um sistema de protecção frontal, ou da homologação de um sistema de protecção frontal a fornecer como unidade técnica autónoma, satisfazem os requisitos do presente regulamento, sendo-lhes consequentemente atribuída uma marca de homologação CE, que devem ostentar, emitida nos termos do disposto no anexo IV."
+  },
+  "60b2458fc5289cd6": {
+   "fragment_id": "Artigo 8.º — Modificações do modelo ou tipo e alteração das homologações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Modificações do modelo ou tipo e alteração das homologações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modificações do modelo ou tipo e alteração das homologações\n\nQualquer modificação de um veículo para a frente dos pilares A ou do sistema de protecção frontal que afecte a estrutura, as dimensões principais, os materiais da superfície externa do veículo, os métodos de fixação ou a disposição dos componentes externos ou internos, e que possa exercer uma influência significativa nos resultados dos ensaios, é considerada uma alteração nos termos do artigo 13.º da Directiva 2007/46/CE e, consequentemente, exige um novo pedido de homologação."
+  },
+  "1dd940ed2419b698": {
+   "fragment_id": "Artigo 9.º — Calendário para a aplicação aos veículos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Calendário para a aplicação aos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Calendário para a aplicação aos veículos\n\n1. Com efeitos a partir da data prevista no segundo parágrafo do artigo 16.º, as autoridades nacionais devem recusar, por motivos relacionados com a protecção dos peões, a homologação CE ou a homologação nacional no que respeita aos seguintes novos modelos de veículos:\n\na) Da categoria M1 que não cumpram as disposições técnicas estabelecidas no ponto 4 do anexo I;\n\nb) Da categoria M1 com uma massa máxima não superior a 2 500 kg que não cumpram as disposições técnicas estabelecidas nos pontos 2 ou 3 do anexo I;\n\nc) Da categoria N1 derivados da categoria M1 de massa máxima não superior a 2 500 kg que não cumpram as disposições técnicas estabelecidas nos pontos 2 e 4 ou nos pontos 3 e 4 do anexo I.\n\n2. Com efeitos a partir de 24 de Fevereiro de 2011, as autoridades nacionais devem, por motivos relacionados com a protecção dos peões, deixar de considerar os certificados de conformidade válidos para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço dos seguintes novos veículos que não cumpram as disposições técnicas estabelecidas no ponto 4 do anexo I do presente regulamento:\n\na) Veículos da categoria M1;\n\nb) Veículos da categoria N1 derivados da categoria M1 de massa máxima não superior a 2 500 kg.\n\n3. Com efeitos a partir de 24 de Fevereiro de 2013, as autoridades nacionais devem recusar, por motivos relacionados com a protecção dos peões, a homologação CE ou a homologação nacional no que respeita aos seguintes novos modelos de veículos:\n\na) Da categoria M1 com uma massa máxima não superior a 2 500 kg que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I;\n\nb) Da categoria N1 derivados da categoria M1 de massa máxima não superior a 2 500 kg que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I.\n\n4. Com efeitos a partir de 31 de Dezembro de 2012, as autoridades nacionais devem, por motivos relacionados com a protecção dos peões, deixar de considerar os certificados de conformidade válidos para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço dos seguintes novos veículos que não cumpram as disposições técnicas estabelecidas nos pontos 2 ou 3 do anexo I do presente regulamento:\n\na) Veículos da categoria M1 de massa máxima não superior a 2 500 kg,\n\nb) Veículos da categoria N1 derivados da categoria M1 de massa máxima não superior a 2 500 kg.\n\n5. Com efeitos a partir de 24 de Fevereiro de 2015, as autoridades nacionais devem recusar, por motivos relacionados com a protecção dos peões, a concessão da homologação CE ou homologação nacional no que respeita aos seguintes novos modelos de veículos:\n\na) Da categoria M1, de massa máxima superior a 2 500 kg, que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I;\n\nb) Da categoria N1 que não cumpram as disposições técnicas estabelecidas nos pontos 3 e 4 do anexo I.\n\n6. Com efeitos a partir de 24 de Agosto de 2015, as autoridades nacionais devem, por motivos relacionados com a protecção dos peões, deixar de considerar válidos os certificados de conformidade para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço dos novos veículos da categoria N1 que não cumpram as disposições técnicas estabelecidas no ponto 4 do anexo I do presente regulamento.\n\n7. Com efeitos a partir de 24 de Fevereiro de 2018, as autoridades nacionais devem, por motivos relacionados com a protecção dos peões, deixar de considerar válidos os certificados de conformidade para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço de quaisquer dos seguintes novos veículos:\n\na) Da categoria M1, de massa máxima não superior a 2 500 kg, que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I do presente regulamento;\n\nb) Da categoria N1 derivados da categoria M1, de massa máxima não superior a 2 500 kg, que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I do presente regulamento.\n\n8. Com efeitos a partir de 24 de Agosto de 2019, as autoridades nacionais devem, por motivos relacionados com a protecção dos peões, deixar de considerar os certificados de conformidade válidos para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço dos seguintes novos veículos:\n\na) Da categoria M1, de massa máxima superior a 2 500 kg, que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I do presente regulamento;\n\nb) Da categoria N1 que não cumpram as disposições técnicas estabelecidas no ponto 3 do anexo I do presente regulamento.\n\n9. Sem prejuízo dos n.^os^ 1 a 8 do presente artigo e sob reserva da entrada em vigor das medidas aprovadas ao abrigo do n.º 6 do artigo 4.º, se um fabricante o requerer, as autoridades nacionais não podem recusar, por motivos relacionados com a protecção dos peões, a concessão da homologação CE ou da homologação nacional a um novo modelo de veículo ou proibir o registo, a venda ou a entrada em serviço de um veículo novo, se o veículo em causa cumprir as disposições técnicas estabelecidas nos pontos 3 ou 4 do anexo I."
+  },
+  "8a4b4824eb2caa8d": {
+   "fragment_id": "Artigo 10.º — Aplicação a sistemas de protecção frontal",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aplicação a sistemas de protecção frontal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação a sistemas de protecção frontal\n\n1. As autoridades nacionais devem recusar a concessão da homologação CE ou da homologação de âmbito nacional a novos modelos de veículos equipados com sistemas de protecção frontal, ou da homologação CE como unidade técnica autónoma a novos tipos de sistemas de protecção frontal, que não cumpram os requisitos estabelecidos nos pontos 5 e 6 do anexo I.\n\n2. As autoridades nacionais devem, por motivos relacionados com os sistemas de protecção frontal, deixar de considerar válidos os certificados de conformidade para efeitos do artigo 26.º da Directiva 2007/46/CE e proibir o registo, a venda e a entrada em serviço de novos veículos que não cumpram os requisitos estabelecidos nos pontos 5 e 6 do anexo I do presente regulamento.\n\n3. Os requisitos constantes dos pontos 5 e 6 do anexo I do presente regulamento são aplicáveis aos sistemas de protecção frontal fornecidos como unidades técnicas autónomas para efeitos do artigo 28.º da Directiva 2007/46/CE."
+  },
+  "c72912d5f6b0001c": {
+   "fragment_id": "Artigo 11.º — Sistemas anticolisão",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sistemas anticolisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sistemas anticolisão\n\n1. Com base numa avaliação da Comissão, os veículos equipados com sistemas anticolisão podem ser isentos de cumprir os requisitos de ensaio enunciados nos pontos 2 e 3 do anexo I para lhes ser concedida uma homologação CE ou uma homologação nacional para um modelo de veículo no que diz respeito à protecção dos peões, ou para serem vendidos, registados ou entrarem em serviço.\n\n2. A Comissão apresenta a avaliação ao Parlamento Europeu e ao Conselho, acompanhada, se for caso disso, de propostas de alteração do presente regulamento.\n\nAs medidas propostas devem garantir níveis de protecção pelo menos equivalentes, em termos de eficácia real, aos previstos nos pontos 2 e 3 do anexo I."
+  },
+  "9db70c28fe7dde66": {
+   "fragment_id": "Artigo 12.º — Controlo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo\n\n1. As autoridades nacionais apresentam anualmente à Comissão os resultados do controlo referido nos pontos 2.2, 2.4 e 3.2 do anexo I até 28 de Fevereiro do ano seguinte ao da sua obtenção.\n\nA exigência de apresentação desses resultados cessa a partir de 24 de Fevereiro de 2014.\n\n2. Com base nos resultados do controlo realizado nos termos dos pontos 2.2, 2.4 e 3.2 do anexo I, a Comissão pode aprovar as medidas de execução necessárias.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 40.º da Directiva 2007/46/CE.\n\n3. Com base nas informações pertinentes transmitidas pelas entidades homologadoras e pelas partes interessadas, e também em estudos independentes, a Comissão controla a evolução técnica no domínio do reforço dos requisitos dos sistemas de segurança passiva, da assistência à travagem e de outras tecnologias de segurança activa que possam oferecer uma melhor protecção aos utilizadores vulneráveis da estrada.\n\n4. Até 24 de Fevereiro de 2014, a Comissão reexamina a exequibilidade e a aplicação desses requisitos reforçados dos sistemas de segurança passiva. A Comissão reexamina o funcionamento do presente regulamento em relação à utilização e à eficácia dos sistemas de assistência à travagem e de outras tecnologias de segurança activa.\n\n5. A Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho, acompanhado, se for caso disso, de propostas na matéria."
+  },
+  "ab1721db16786d51": {
+   "fragment_id": "Artigo 13.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções\n\n1. Os Estados-Membros estabelecem disposições relativas às sanções aplicáveis em caso de infracção dos fabricantes ao disposto no presente regulamento e tomam todas as medidas necessárias para garantir a sua execução. As sanções previstas devem ser eficazes, proporcionadas e dissuasivas. Os Estados-Membros notificam essas disposições à Comissão até 24 de Agosto de 2010 e notificam-na imediatamente de qualquer alteração posterior das mesmas.\n\n2. Entre os tipos de infracções sujeitos a sanção, incluem-se pelo menos os seguintes:\n\na) Prestação de declarações falsas durante os procedimentos de homologação ou durante os procedimentos que conduzam a uma convocação de veículos;\n\nb) Falsificação de resultados de ensaios para a homologação;\n\nc) Retenção de dados ou de especificações técnicas susceptíveis de conduzir a uma convocação de veículos ou à revogação da homologação;\n\nd) Recusa de facultar acesso a informação."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "01b4aefc61c7471e": {
+   "fragment_id": "Artigo 14.º — Alterações à Directiva 2007/46/CE",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Alterações à Directiva 2007/46/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações à Directiva 2007/46/CE\n\nA Directiva 2007/46/CE é alterada em conformidade com o anexo V do presente regulamento."
+  },
+  "4619590841c5afa8": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nAs Directivas 2003/102/CE e 2005/66/CE são revogadas com efeitos a partir da data indicada no segundo parágrafo do artigo 16.º do presente regulamento.\n\nAs referências feitas às directivas revogadas devem ser entendidas como sendo referências ao presente regulamento."
+  },
+  "afbca3f729034317": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 24 de Novembro de 2009, com excepção do n.º 6 do artigo 4.º e do n.º 9 do artigo 9.º, que são aplicáveis a partir do dia de entrada em vigor e dos n.^os^ 2 a 8 do artigo 9.º, que são aplicáveis a partir das datas neles previstas.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 14 de Janeiro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**A. VONDRA**\n\n---"
+  },
+  "b195c88819b00255": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc1-L_2009035PT.01000101-E0001) [JO C 211 de 19.8.2008, p. 9](http://publications.europa.eu/resource/oj/JOC_2008_211_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc2-L_2009035PT.01000101-E0002) Parecer do Parlamento Europeu de 18 de Junho de 2008 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 16 de Dezembro de 2008.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc3-L_2009035PT.01000101-E0003) [JO L 263 de 9.10.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_263_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc4-L_2009035PT.01000101-E0004) [JO L 321 de 6.12.2003, p. 15](http://publications.europa.eu/resource/oj/JOL_2003_321_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc5-L_2009035PT.01000101-E0005) [JO L 309 de 25.11.2005, p. 37](http://publications.europa.eu/resource/oj/JOL_2005_309_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/94ff03fe-2a9f-48e8-9854-f4321b9b39f4.0019.02/DOC_1#ntc6-L_2009035PT.01000101-E0006) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "8fb7c63f607ef982": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R0078 — PT — 06.07.2022 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R0078) [REGULAMENTO (CE) N.º 78/2009 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32009R0078) [de 14 de Janeiro de 2009](http://publications.europa.eu/resource/celex/32009R0078) [relativo à homologação de veículos a motor no que diz respeito à protecção dos peões e outros utilizadores vulneráveis da estrada, que altera a Directiva 2007/46/CE e revoga as Directivas 2003/102/CE e 2005/66/CE](http://publications.europa.eu/resource/celex/32009R0078) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R0078) (JO L 035, 4.2.2009, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/2144 do Parlamento Europeu e do Conselho de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2144) — L 325 — 1 — 16.12.2019"
+  }
+ }
+}

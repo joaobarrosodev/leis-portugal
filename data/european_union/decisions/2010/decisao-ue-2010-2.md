@@ -35,6 +35,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: decisao-ue-2010-2.versoes.json
+  count: 5
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2010-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-17'
+    amending: eu:celex:32011D0745:por
+    amending_title: DECISÃO DA COMISSÃO de 11 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Sectores e subsectores que, nos termos do artigo 10.º-A, n.º 13, da Directiva 2003/87/CE, são considerados expostos
+      a um risco significativo de fuga de carbono
+    - Adita 1. AO NÍVEL NACE-4
+    - Adita 1.1. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 E 16, DA DIRECTIVA 2003/87/CE
+    - Adita 1.2. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 15, DA DIRECTIVA 2003/87/CE
+    - Adita 1.3. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 16, ALÍNEA A), DA DIRECTIVA 2003/87/CE
+    - Adita 1.4. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 16, ALÍNEA B), DA DIRECTIVA 2003/87/CE
+    - Adita 2. [►M1](http://publications.europa.eu/resource/celex/32011D0745) LISTA A UM NÍVEL QUE SUPERA O NACE-4 BASEADA
+      NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 OU 16, DA DIRECTIVA 2003/87/CE◄
+    - Adita 3. LISTA AO NÍVEL NACE-4 BASEADA NOS CRITÉRIOS QUALITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 17, DA DIRECTIVA 2003/87/CE
+  - date: '2012-09-07'
+    amending: eu:celex:32012D0498:por
+    amending_title: DECISÃO DA COMISSÃO de 17 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera 1.2. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 15, DA DIRECTIVA 2003/87/CE
+    - Altera 2. [►M1](http://publications.europa.eu/resource/celex/32011D0745) LISTA A UM NÍVEL QUE SUPERA O NACE-4 BASEADA
+      NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 OU 16, DA DIRECTIVA 2003/87/CE◄
+    - Altera Notas
+  - date: '2014-01-14'
+    amending: eu:celex:32014D0009:por
+    amending_title: DECISÃO DA COMISSÃO de 18 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera 2. [►M1](http://publications.europa.eu/resource/celex/32011D0745) LISTA A UM NÍVEL QUE SUPERA O NACE-4 BASEADA
+      NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 OU 16, DA DIRECTIVA 2003/87/CE◄
+    - Altera 3. LISTA AO NÍVEL NACE-4 BASEADA NOS CRITÉRIOS QUALITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 17, DA DIRECTIVA
+      2003/87/CE
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime ANEXO
+    - Suprime Sectores e subsectores que, nos termos do artigo 10.º-A, n.º 13, da Directiva 2003/87/CE, são considerados expostos
+      a um risco significativo de fuga de carbono
+    - Suprime 1. AO NÍVEL NACE-4
+    - Suprime 1.1. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 E 16, DA DIRECTIVA 2003/87/CE
+    - Suprime 1.2. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 15, DA DIRECTIVA 2003/87/CE
+    - Suprime 1.3. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 16, ALÍNEA A), DA DIRECTIVA 2003/87/CE
+    - Suprime 1.4. LISTA BASEADA NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 16, ALÍNEA B), DA DIRECTIVA 2003/87/CE
+    - Suprime 2. [►M1](http://publications.europa.eu/resource/celex/32011D0745) LISTA A UM NÍVEL QUE SUPERA O NACE-4 BASEADA
+      NOS CRITÉRIOS QUANTITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.^os^ 15 OU 16, DA DIRECTIVA 2003/87/CE◄
+    - Suprime 3. LISTA AO NÍVEL NACE-4 BASEADA NOS CRITÉRIOS QUALITATIVOS PREVISTOS NO ARTIGO 10.º-A, N.º 17, DA DIRECTIVA
+      2003/87/CE
+    - Suprime Notas
 identifiers:
   celex: 32010D0002
   eli: http://data.europa.eu/eli/dec/2010/2(1)/oj
@@ -49,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/40a06394-191b-487f-a41d-28b45b19eb05.0018
   content_url: http://publications.europa.eu/resource/cellar/5163b627-d1ca-42fa-9afd-a42cb8fb6289.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010D0002-20150101
-  retrieved_at: '2026-10-22T03:14:52Z'
+  retrieved_at: '2026-10-22T15:45:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T09:45:04.149+02:00'
 integrity:
@@ -58,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:52Z'
-  notes: Texto consolidado 02010D0002-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:35Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2010-2.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,16 +177,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:52Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:45:35Z'
+  warnings: []
   errors: []
 ---
 

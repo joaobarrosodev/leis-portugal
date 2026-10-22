@@ -38,6 +38,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-09-01'
+version_history:
+  file: regulamento-ue-2009-595.versoes.json
+  count: 5
+  source_lastmod: '2020-09-01'
+  versions:
+  - date: '2009-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-15'
+    amending: eu:celex:32011R0582:por
+    amending_title: REGULAMENTO (UE) N. o 582/2011 DA COMISSÃO de 25 Maio de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 15.º — Alterações ao Regulamento (CE) n.º 715/2007
+    - Altera Artigo 18.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Alterações à Directiva 2007/46/CE
+  - date: '2014-01-01'
+    amending: eu:celex:32014R0133:por
+    amending_title: REGULAMENTO (UE) N. o 133/2014 DA COMISSÃO de 31 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2019-08-14'
+    amending: eu:celex:32019R1242:por
+    amending_title: REGULAMENTO (UE) 2019/1242 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 5.º-A — Requisitos específicos aplicáveis aos fabricantes no que respeita ao desempenho ambiental dos veículos
+      das categorias M2, M3, N2, N3, O3 e O4
+    - Adita Artigo 5.º-B — Requisitos específicos aplicáveis aos Estados-Membros no que respeita ao desempenho ambiental dos
+      veículos das categorias M2, M3, N2, N3, O3 e O4
+    - Adita Artigo 5.º-C — Medidas para determinar certos aspetos do desempenho ambiental dos veículos das categorias M2,
+      M3, N2, N3, O3 e O4
+    - Adita Artigo 13.º-A — Procedimento de comité
+  - date: '2020-09-01'
+    amending: eu:celex:32018R0858:por
+    amending_title: REGULAMENTO (UE) 2018/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º-C — Medidas para determinar certos aspetos do desempenho ambiental dos veículos das categorias M2,
+      M3, N2, N3, O3 e O4
+    - Altera Artigo 11.º — Sanções
+    - Altera Artigo 13.º-A — Procedimento de comité
+    - Altera ANEXO I
+    - Altera Notas
+    - Suprime Artigo 6.º — Acesso à informação
 identifiers:
   celex: 32009R0595
   eli: http://data.europa.eu/eli/reg/2009/595/oj
@@ -52,7 +109,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c59784d8-bacd-4a23-8491-9682e6696ce9.0019
   content_url: http://publications.europa.eu/resource/cellar/d7527fca-69fa-11ea-b735-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0595-20200901
-  retrieved_at: '2026-10-22T02:45:31Z'
+  retrieved_at: '2026-10-22T15:42:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:20:18.843+02:00'
 integrity:
@@ -61,9 +118,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:31Z'
-  notes: Texto consolidado 02009R0595-20200901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:35Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2009-595.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -230,36 +287,19 @@ relationships:
   date: '2005-12-02'
 article_structure:
   article_count: 21
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:31Z'
+  checked_at: '2026-10-22T15:42:35Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 595/2009 do Parlamento Europeu e do Conselho, de 18 de Junho de 2009
-
-> 02009R0595 — PT — 01.09.2020 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32011R0582) — [REGULAMENTO (UE) N.º 582/2011 DA COMISSÃO de 25 Maio de 2011](http://publications.europa.eu/resource/celex/32011R0582) — L 167 — 1 — 25.6.2011
-- [►M2](http://publications.europa.eu/resource/celex/32014R0133) — [REGULAMENTO (UE) N.º 133/2014 DA COMISSÃO de 31 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0133) — L 47 — 1 — 18.2.2014
-- [►M3](http://publications.europa.eu/resource/celex/32018R0858) — [REGULAMENTO (UE) 2018/858 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0858) — L 151 — 1 — 14.6.2018
-- [►M4](http://publications.europa.eu/resource/celex/32019R1242) — [REGULAMENTO (UE) 2019/1242 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1242) — L 198 — 202 — 25.7.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0595R%2802%29) — [Rectificação, JO L 200, 31.7.2009, p. 52 (595/2009)](http://publications.europa.eu/resource/celex/32009R0595R%2802%29)
-
-## REGULAMENTO (CE) N.º 595/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de junho de 2009
 

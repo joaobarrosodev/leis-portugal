@@ -37,6 +37,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-04-01'
+version_history:
+  file: regulamento-ue-2009-278.versoes.json
+  count: 4
+  source_lastmod: '2020-04-01'
+  versions:
+  - date: '2009-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-17'
+    amending: eu:celex:32013R0617:por
+    amending_title: REGULAMENTO (UE) N. o 617/2013 DA COMISSÃO de 26 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Alteração do Regulamento (CE) n.º 1275/2008
+    - Altera Artigo 9.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REQUISITOS DE CONCEPÇÃO ECOLÓGICA
+    - Adita 1. CONSUMO ENERGÉTICO EM VAZIO E EFICIÊNCIA MÉDIA NO ESTADO ACTIVO
+    - Adita 2. MEDIÇÕES
+    - Adita 3. INFORMAÇÕES A FORNECER PELOS FABRICANTES
+    - Adita ANEXO II
+    - Adita PROCEDIMENTO DE VERIFICAÇÃO
+    - Adita ANEXO III
+    - Adita PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+    - Adita a) Em vazio
+    - Adita b) Eficiência média no estado activo
+  - date: '2017-01-09'
+    amending: eu:celex:32016R2282:por
+    amending_title: REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera 2. MEDIÇÕES
+    - Altera Notas
+    - Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime PROCEDIMENTO DE VERIFICAÇÃO
+  - date: '2020-04-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Requisitos de concepção ecológica
+    - Suprime Artigo 4.º — Avaliação da conformidade
+    - Suprime Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado
+    - Suprime Artigo 6.º — Parâmetros de referência indicativos
+    - Suprime Artigo 7.º — Revisão
+    - Suprime Artigo 8.º — Alteração do Regulamento (CE) n.º 1275/2008
+    - Suprime Artigo 9.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime REQUISITOS DE CONCEPÇÃO ECOLÓGICA
+    - Suprime 1. CONSUMO ENERGÉTICO EM VAZIO E EFICIÊNCIA MÉDIA NO ESTADO ACTIVO
+    - Suprime 2. MEDIÇÕES
+    - Suprime 3. INFORMAÇÕES A FORNECER PELOS FABRICANTES
+    - Suprime ANEXO II
+    - Suprime Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado
+    - Suprime ANEXO III
+    - Suprime PARÂMETROS DE REFERÊNCIA INDICATIVOS A QUE SE REFERE O ARTIGO 6.º
+    - Suprime a) Em vazio
+    - Suprime b) Eficiência média no estado activo
+    - Suprime Notas
 identifiers:
   celex: 32009R0278
   eli: http://data.europa.eu/eli/reg/2009/278/oj
@@ -51,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d17ce55d-809f-44a7-9416-66effbf62af6.0018
   content_url: http://publications.europa.eu/resource/cellar/c01b45d1-74ef-11ea-a07e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0278-20200401
-  retrieved_at: '2026-10-22T02:52:45Z'
+  retrieved_at: '2026-10-22T15:41:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T19:57:19.693+02:00'
 integrity:
@@ -60,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:45Z'
-  notes: Texto consolidado 02009R0278-20200401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:41:27Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-278.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,16 +204,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:45Z'
+  checked_at: '2026-10-22T15:41:27Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009R0278-20090427: versão indisponível (Sem expressão na língua por para CELEX 02009R0278-20090427.)'
   errors: []
 ---
 

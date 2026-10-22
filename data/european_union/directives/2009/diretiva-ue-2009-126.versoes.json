@@ -1,0 +1,290 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0126:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0126-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2009-10-31",
+   "future": false,
+   "celex": "32009L0126",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06359066f2df3a24",
+    "d6361c96b41b432f",
+    "fd0d4ef361b9731e",
+    "894d6ca6e447b474",
+    "3b1cfb67481d5dd7",
+    "27d74466bf601f06",
+    "14e3f240a2875a03",
+    "32cc600352a68883",
+    "117820d574ee119b",
+    "2b48cac4b64c2b2b",
+    "18fb79860fc77ecd",
+    "20a7dc2078ac3b40",
+    "a46822cde9fed47e",
+    "9a3d2edbd27d1b85"
+   ]
+  },
+  {
+   "date": "2014-11-12",
+   "future": false,
+   "celex": "02009L0126-20141112",
+   "acts": [
+    {
+     "id": "eu:celex:32014L0099:por",
+     "title": "DIRETIVA 2014/99/UE DA COMISSÃO de 21 de outubro de 2014",
+     "published": null,
+     "celex": "32014L0099"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina",
+    "Altera Artigo 5.º — Verificações periódicas e informação aos consumidores",
+    "Altera Artigo 12.º — Destinatários",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "ce1a26e7b4405b53",
+    "d6361c96b41b432f",
+    "fd0d4ef361b9731e",
+    "894d6ca6e447b474",
+    "03e4d4297885565d",
+    "0c99901e00c47154",
+    "14e3f240a2875a03",
+    "32cc600352a68883",
+    "117820d574ee119b",
+    "2b48cac4b64c2b2b",
+    "18fb79860fc77ecd",
+    "20a7dc2078ac3b40",
+    "0a0d965ccf5f0c1a",
+    "4971921dc8518945"
+   ]
+  },
+  {
+   "date": "2019-07-26",
+   "future": false,
+   "celex": "02009L0126-20190726",
+   "acts": [
+    {
+     "id": "eu:celex:32019R1243:por",
+     "title": "REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019",
+     "published": null,
+     "celex": "32019R1243"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º — Adaptações técnicas",
+    "Altera Notas",
+    "Adita Artigo 8.º-A — Exercício da delegação",
+    "Suprime Artigo 9.º — Procedimento de comité"
+   ],
+   "fragments": [
+    "4cefa02fcd17b8ef",
+    "d6361c96b41b432f",
+    "fd0d4ef361b9731e",
+    "894d6ca6e447b474",
+    "03e4d4297885565d",
+    "0c99901e00c47154",
+    "14e3f240a2875a03",
+    "32cc600352a68883",
+    "4bc9b42fa8a0781b",
+    "7ead33edfaac6f9c",
+    "18fb79860fc77ecd",
+    "20a7dc2078ac3b40",
+    "0a0d965ccf5f0c1a",
+    "eebff880c2750bf9"
+   ]
+  }
+ ],
+ "fragments": {
+  "06359066f2df3a24": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nrelativa à fase II da recuperação de vapores de gasolina durante o reabastecimento de veículos a motor nas estações de serviço\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr1-L_2009285PT.01003601-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr2-L_2009285PT.01003601-E0002),\n\nConsiderando o seguinte:\n\n(1) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o Sexto Programa Comunitário de Acção em matéria de Ambiente [([^3])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr3-L_2009285PT.01003601-E0003), considerou necessário reduzir a poluição atmosférica de modo a minimizar os seus efeitos nocivos na saúde humana e no ambiente.\n\n(2) O Protocolo de Genebra relativo ao Controlo das Emissões de Compostos Orgânicos Voláteis ou dos Seus Fluxos Transfronteiriços estabelece objectivos de redução das emissões de compostos orgânicos voláteis (COV), e o Protocolo de Gotemburgo relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico [([^4])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr4-L_2009285PT.01003601-E0004) estabelece valores-limite para as emissões de quatro poluentes (dióxido de enxofre, óxidos de azoto, COV e amoníaco) e requer a aplicação das melhores técnicas disponíveis para reduzir as emissões.\n\n(3) A Directiva 2008/50/CE do Parlamento Europeu e do Conselho, de 21 de Maio de 2008, relativa à qualidade do ar ambiente e a um ar mais limpo na Europa [([^5])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr5-L_2009285PT.01003601-E0005), estabelece objectivos de qualidade do ar para o ozono da baixa troposfera e para o benzeno, enquanto a Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos [([^6])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr6-L_2009285PT.01003601-E0006), estabelece valores-limite nacionais de emissão para os COV que contribuem para a formação do ozono da baixa troposfera. As emissões de COV, incluindo vapores de gasolina, num Estado-Membro podem contribuir para criar problemas de qualidade do ar noutros Estados-Membros.\n\n(4) O ozono também é um gás com efeito de estufa e contribui para o aquecimento atmosférico e para as alterações climáticas.\n\n(5) A Directiva 94/63/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa ao controlo das emissões de compostos orgânicos voláteis (COV) resultantes do armazenamento de gasolinas e da sua distribuição dos terminais para as estações de serviço [([^7])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr7-L_2009285PT.01003601-E0007) (fase I da recuperação de vapores de gasolina), visa a recuperação dos vapores de gasolina emitidos aquando do armazenamento da gasolina e da sua distribuição dos terminais de produtos petrolíferos para as estações de serviço.\n\n(6) Durante o reabastecimento de veículos a motor nas estações de serviço também são emitidos vapores de gasolina, que deverão ser recuperados de um modo coerente com o disposto na Directiva 94/63/CE.\n\n(7) Têm sido criados e aplicados vários instrumentos comunitários para limitar as emissões de COV. Todavia, é necessário tomar novas medidas para alcançar os objectivos de saúde e ambiente constantes do Sexto Programa Comunitário de Acção em matéria de Ambiente e da Directiva 2001/81/CE.\n\n(8) Para reduzir o ciclo de vida das emissões de gases com efeito de estufa provenientes de combustíveis de transporte rodoviário, a Directiva 98/70/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 1998, relativa à qualidade da gasolina e do combustível para motores diesel [([^8])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr8-L_2009285PT.01003601-E0008), permitirá, a partir de 1 de Janeiro de 2011, a colocação no mercado de gasolina com uma proporção de componentes de biocombustíveis superior à anteriormente autorizada. Tal pode conduzir a um aumento das emissões de COV, devido à possibilidade de os Estados-Membros aplicarem isenções limitadas aos requisitos da tensão de vapor previstos naquela directiva.\n\n(9) As estações de serviço existentes podem ter de adaptar as infra-estruturas actuais, sendo preferível instalar os equipamentos de recuperação de vapores aquando de renovações substanciais do seu sistema de abastecimento de combustível (ou seja, em caso de alteração ou de renovação importantes da infra-estrutura da estação de serviço, nomeadamente dos seus reservatórios e tubagens), uma vez que tal reduz significativamente o custo das adaptações necessárias. Todavia, as grandes estações de serviço existentes têm mais facilidade em adaptar-se e, dado que o seu contributo para as emissões é maior, deverão instalar mais cedo os equipamentos de recuperação de vapores de gasolina. Nas estações de serviço novas, os equipamentos de recuperação de vapores de gasolina podem ser integrados durante as fases de projecto e construção, pelo que podem ser instalados desde já.\n\n(10) Os depósitos de combustível dos veículos a motor recém-fabricados não contêm vapores de gasolina. Afigura-se, por conseguinte, adequada uma isenção para o primeiro abastecimento de tais veículos.\n\n(11) Embora vários Estados-Membros tenham em vigor requisitos nacionais relativos aos sistemas de fase II de recuperação de vapores de gasolina, não existe legislação comunitária sobre o assunto. Por conseguinte, para se obterem maiores benefícios ambientais e para facilitar o comércio de equipamentos de recuperação de vapores de gasolina, é conveniente estabelecer um nível mínimo uniforme para a recuperação de vapores de gasolina.\n\n(12) Os equipamentos de fase II de recuperação de vapores de gasolina instalados deverão ser objecto de inspecções periódicas a fim de garantir que reduzem de facto as emissões. Os Estados-Membros podem decidir que as inspecções sejam realizadas por uma ou mais das seguintes entidades: serviços de inspecção oficiais, o próprio operador ou terceiros. No caso das inspecções oficiais, os Estados-Membros deverão ter em conta a Recomendação 2001/331/CE do Parlamento Europeu e do Conselho, de 4 de Abril de 2001, relativa aos critérios mínimos aplicáveis às inspecções ambientais nos Estados-Membros [([^9])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr9-L_2009285PT.01003601-E0009).\n\n(13) Os equipamentos de fase II de recuperação de vapores de gasolina deverão ser verificados regularmente. O Comité Europeu de Normalização (CEN) deverá ser encorajado a conceber uma metodologia harmonizada para essas verificações.\n\n(14) Os Estados-Membros deverão estabelecer o regime de sanções aplicável em caso de infracção às disposições nacionais aprovadas em execução da presente directiva e garantir a respectiva aplicação. As sanções deverão ser efectivas, proporcionadas e dissuasivas, dado que o incumprimento pode acarretar danos para a saúde humana e para o ambiente.\n\n(15) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar Melhor» [([^10])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr10-L_2009285PT.01003601-E0010), os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a correspondência entre a presente directiva e as medidas de transposição, e a publicá-los.\n\n(16) Uma vez que é aprovada nos termos do artigo 175.º do Tratado, a presente directiva não impede os Estados-Membros de manterem ou introduzirem medidas de protecção mais rigorosas compatíveis com o Tratado. Nos termos do artigo 176.º do Tratado, os Estados-Membros devem notificar essas medidas à Comissão.\n\n(17) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^11])](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntr11-L_2009285PT.01003601-E0011).\n\n(18) Em especial, deverá ser atribuída competência à Comissão para aprovar medidas de execução relativas a normas e métodos harmonizados. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva, nomeadamente completando-a mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(19) Atendendo a que o objectivo da presente directiva, a saber, a redução das emissões de vapores de gasolina para a atmosfera, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, dada a natureza transfronteiriça da poluição atmosférica, ser mais bem alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "d6361c96b41b432f": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece medidas destinadas a reduzir a quantidade de vapores de gasolina emitidos para a atmosfera durante o reabastecimento de veículos a motor nas estações de serviço."
+  },
+  "fd0d4ef361b9731e": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente directiva, entende-se por:\n\n1. «Gasolina», o definido na alínea a) do artigo 2.º da Directiva 94/63/CE;\n\n2. «Vapores de gasolina», qualquer composto gasoso que se evapore da gasolina;\n\n3. «Estação de serviço», o definido na alínea f) do artigo 2.º da Directiva 94/63/CE;\n\n4. «Estação de serviço existente», uma estação de serviço que tenha sido construída ou que tenha sido objecto de uma autorização específica de planeamento ou de uma licença de construção ou de utilização antes de 1 de Janeiro de 2012;\n\n5. «Estação de serviço nova», uma estação de serviço construída ou que tenha sido objecto de uma autorização específica de planeamento ou de uma licença de construção ou de utilização em 1 de Janeiro de 2012 ou posteriormente;\n\n6. «Sistema de fase II de recuperação de vapores de gasolina», equipamentos destinados a recuperar os vapores de gasolina provenientes do depósito de combustível dos veículos a motor durante o reabastecimento na estação de serviço e a transferir esses vapores para um reservatório da estação de serviço ou para a bomba de gasolina, para revenda;\n\n7. «Eficiência da captura de vapores de gasolina», a quantidade de vapores de gasolina capturada pelo sistema de fase II de recuperação de vapores de gasolina, expressa em percentagem da quantidade de vapores de gasolina que seria emitida para a atmosfera na falta desse sistema;\n\n8. «Razão vapor/gasolina», a razão entre o volume de vapores de gasolina, à pressão atmosférica, que passa pelo sistema de fase II de recuperação de vapores de gasolina e o volume de gasolina fornecido;\n\n9. «Caudal», a quantidade total de gasolina descarregada de reservatórios móveis numa estação de serviço durante um ano."
+  },
+  "894d6ca6e447b474": {
+   "fragment_id": "Artigo 3.º — Estações de serviço",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estações de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estações de serviço\n\n1. Os Estados-Membros asseguram que todas as estações de serviço novas sejam equipadas com um sistema de fase II de recuperação de vapores de gasolina caso:\n\na) O seu caudal efectivo ou previsto exceda 500 m^3^/ano; ou\n\nb) O seu caudal efectivo ou previsto exceda 100 m^3^/ano e estejam integradas em edifícios utilizados como locais permanentes de habitação ou de trabalho.\n\n2. Os Estados-Membros asseguram que todas as estações de serviço existentes que sejam objecto de uma renovação substancial sejam equipadas com um sistema de fase II de recuperação de vapores de gasolina aquando dessa renovação caso:\n\na) O seu caudal efectivo ou previsto exceda 500 m^3^/ano; ou\n\nb) O seu caudal efectivo ou previsto exceda 100 m^3^/ano e estejam integradas em edifícios utilizados como locais permanentes de habitação ou de trabalho.\n\n3. Os Estados-Membros asseguram que todas as estações de serviço existentes cujo caudal exceda 3 000 m^3^/ano sejam equipadas com um sistema de fase II de recuperação de vapores de gasolina até 31 de Dezembro de 2018.\n\n4. Os n.^os^ 1, 2 e 3 não se aplicam às estações de serviço utilizadas exclusivamente no quadro do fabrico e fornecimento de veículos a motor novos."
+  },
+  "3b1cfb67481d5dd7": {
+   "fragment_id": "Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina\n\n1. Os Estados-Membros asseguram, com efeitos a partir da data em que os sistemas de fase II de recuperação de vapores de gasolina passem a ser obrigatórios por força do artigo 3.º, que a eficiência da captura de vapores de gasolina de tais sistemas seja igual ou superior a 85 %, certificada pelo fabricante de acordo com as normas técnicas ou os procedimentos de homologação europeus relevantes a que se refere o artigo 8.º ou, caso tais normas ou procedimentos não existam, com qualquer uma das normas nacionais aplicáveis.\n\n2. Com efeitos a partir da data em que os sistemas de fase II de recuperação de vapores de gasolina passem a ser obrigatórios por força do artigo 3.º, a razão vapor/gasolina dos vapores de gasolina recuperados que sejam transferidos para um reservatório na estação de serviço não pode ser inferior a 0,95 nem superior a 1,05."
+  },
+  "27d74466bf601f06": {
+   "fragment_id": "Artigo 5.º — Verificações periódicas e informação aos consumidores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Verificações periódicas e informação aos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificações periódicas e informação aos consumidores\n\n1. Os Estados-Membros asseguram que a eficiência da captura de vapores de gasolina dos sistemas de fase II de recuperação de vapores de gasolina em serviço seja comprovada pelo menos anualmente, quer verificando que a razão vapor/gasolina em condições simuladas de fluxo de gasolina é conforme com o disposto no n.º 2 do artigo 4.º, quer através de qualquer outro método adequado.\n\n2. Caso esteja instalado um sistema automático de monitorização, os Estados-Membros asseguram que a eficiência da captura de vapores de gasolina seja comprovada pelo menos trienalmente. O sistema automático de monitorização detecta automaticamente as falhas de funcionamento do sistema de fase II de recuperação de vapores de gasolina, bem como as suas próprias falhas, assinala-as ao operador da estação de serviço e, se a falha não for reparada no prazo de sete dias, interrompe automaticamente o fluxo de gasolina proveniente da bomba de reabastecimento avariada.\n\n3. Os Estados-Membros asseguram que as estações de serviço que tenham instalado um sistema de fase II de recuperação de vapores de gasolina ostentem um símbolo, um dístico ou outro tipo de informação na própria bomba de gasolina ou na sua proximidade para informar desse facto os consumidores."
+  },
+  "14e3f240a2875a03": {
+   "fragment_id": "Artigo 6.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sanções\n\nOs Estados-Membros estabelecem o regime de sanções aplicável em caso de infracção às disposições nacionais aprovadas em execução da presente directiva e tomam as medidas necessárias para garantir a respectiva aplicação. As sanções previstas devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros comunicam essas disposições à Comissão até 1 de Janeiro de 2012, devendo comunicar-lhe de imediato qualquer alteração ulterior que as afecte."
+  },
+  "32cc600352a68883": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão procede, até 31 de Dezembro de 2014, à revisão da aplicação da presente directiva e, em especial:\n\na) Do limiar de 100 m^3^/ano referido na alínea b) do n.º 1 e na alínea b) do n.º 2 do artigo 3.º da presente directiva e no n.º 3 do artigo 6.º da Directiva 94/63/CE;\n\nb) Do registo da conformidade dos sistemas de fase II de recuperação de vapores de gasolina em serviço; e\n\nc) Da necessidade de dispositivos de monitorização automática.\n\nA Comissão comunica os resultados dessa revisão ao Parlamento Europeu e ao Conselho, acompanhados, se for caso disso, de uma proposta legislativa."
+  },
+  "117820d574ee119b": {
+   "fragment_id": "Artigo 8.º — Adaptações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Adaptações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Adaptações técnicas\n\nPodem ser aprovadas normas e métodos harmonizados para os efeitos dos artigos 4.º e 5.º. Caso tal seja necessário para assegurar a coerência com qualquer norma aplicável elaborada pelo Comité Europeu de Normalização (CEN), aqueles artigos podem ser adaptados ao progresso técnico, com excepção da eficiência da captura de vapores de gasolina e da razão vapor/gasolina especificadas no artigo 4.º e dos prazos fixados no artigo 5.º\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 9.º"
+  },
+  "2b48cac4b64c2b2b": {
+   "fragment_id": "Artigo 9.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º"
+  },
+  "18fb79860fc77ecd": {
+   "fragment_id": "Artigo 10.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 1 de Janeiro de 2012 e comunicar imediatamente à Comissão o texto das referidas disposições.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que aprovarem na matéria abrangida pela presente directiva."
+  },
+  "20a7dc2078ac3b40": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "a46822cde9fed47e": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 21 de Outubro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "9a3d2edbd27d1b85": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc1-L_2009285PT.01003601-E0001) Parecer de 13 de Maio de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc2-L_2009285PT.01003601-E0002) Parecer do Parlamento Europeu de 5 de Maio de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 24 de Setembro de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc3-L_2009285PT.01003601-E0003) [JO L 242 de 10.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_242_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc4-L_2009285PT.01003601-E0004) [JO L 179 de 17.7.2003, p. 3](http://publications.europa.eu/resource/oj/JOL_2003_179_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc5-L_2009285PT.01003601-E0005) [JO L 152 de 11.6.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_152_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc6-L_2009285PT.01003601-E0006) [JO L 309 de 27.11.2001, p. 22](http://publications.europa.eu/resource/oj/JOL_2001_309_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc7-L_2009285PT.01003601-E0007) [JO L 365 de 31.12.1994, p. 24](http://publications.europa.eu/resource/oj/JOL_1994_365_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc8-L_2009285PT.01003601-E0008) [JO L 350 de 28.12.1998, p. 58](http://publications.europa.eu/resource/oj/JOL_1998_350_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc9-L_2009285PT.01003601-E0009) [JO L 118 de 27.4.2001, p. 41](http://publications.europa.eu/resource/oj/JOL_2001_118_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc10-L_2009285PT.01003601-E0010) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018.02/DOC_1#ntc11-L_2009285PT.01003601-E0011) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "ce1a26e7b4405b53": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nrelativa à fase II da recuperação de vapores de gasolina durante o reabastecimento de veículos a motor nas estações de serviço\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^2^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0002)),\n\n(1) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o Sexto Programa Comunitário de Acção em matéria de Ambiente ([^3^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0003)), considerou necessário reduzir a poluição atmosférica de modo a minimizar os seus efeitos nocivos na saúde humana e no ambiente.\n\n(2) O Protocolo de Genebra relativo ao Controlo das Emissões de Compostos Orgânicos Voláteis ou dos Seus Fluxos Transfronteiriços estabelece objectivos de redução das emissões de compostos orgânicos voláteis (COV), e o Protocolo de Gotemburgo relativo à Redução da Acidificação, da Eutrofização e do Ozono Troposférico ([^4^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0004)) estabelece valores-limite para as emissões de quatro poluentes (dióxido de enxofre, óxidos de azoto, COV e amoníaco) e requer a aplicação das melhores técnicas disponíveis para reduzir as emissões.\n\n(3) A Directiva 2008/50/CE do Parlamento Europeu e do Conselho, de 21 de Maio de 2008, relativa à qualidade do ar ambiente e a um ar mais limpo na Europa ([^5^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0005)), estabelece objectivos de qualidade do ar para o ozono da baixa troposfera e para o benzeno, enquanto a Directiva 2001/81/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2001, relativa ao estabelecimento de valores-limite nacionais de emissão de determinados poluentes atmosféricos ([^6^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0006)), estabelece valores-limite nacionais de emissão para os COV que contribuem para a formação do ozono da baixa troposfera. As emissões de COV, incluindo vapores de gasolina, num Estado-Membro podem contribuir para criar problemas de qualidade do ar noutros Estados-Membros.\n\n(4) O ozono também é um gás com efeito de estufa e contribui para o aquecimento atmosférico e para as alterações climáticas.\n\n(5) A Directiva 94/63/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa ao controlo das emissões de compostos orgânicos voláteis (COV) resultantes do armazenamento de gasolinas e da sua distribuição dos terminais para as estações de serviço ([^7^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0007)) (fase I da recuperação de vapores de gasolina), visa a recuperação dos vapores de gasolina emitidos aquando do armazenamento da gasolina e da sua distribuição dos terminais de produtos petrolíferos para as estações de serviço.\n\n(6) Durante o reabastecimento de veículos a motor nas estações de serviço também são emitidos vapores de gasolina, que deverão ser recuperados de um modo coerente com o disposto na Directiva 94/63/CE.\n\n(7) Têm sido criados e aplicados vários instrumentos comunitários para limitar as emissões de COV. Todavia, é necessário tomar novas medidas para alcançar os objectivos de saúde e ambiente constantes do Sexto Programa Comunitário de Acção em matéria de Ambiente e da Directiva 2001/81/CE.\n\n(8) Para reduzir o ciclo de vida das emissões de gases com efeito de estufa provenientes de combustíveis de transporte rodoviário, a Directiva 98/70/CE do Parlamento Europeu e do Conselho, de 13 de Outubro de 1998, relativa à qualidade da gasolina e do combustível para motores diesel ([^8^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0008)), permitirá, a partir de 1 de Janeiro de 2011, a colocação no mercado de gasolina com uma proporção de componentes de biocombustíveis superior à anteriormente autorizada. Tal pode conduzir a um aumento das emissões de COV, devido à possibilidade de os Estados-Membros aplicarem isenções limitadas aos requisitos da tensão de vapor previstos naquela directiva.\n\n(9) As estações de serviço existentes podem ter de adaptar as infra-estruturas actuais, sendo preferível instalar os equipamentos de recuperação de vapores aquando de renovações substanciais do seu sistema de abastecimento de combustível (ou seja, em caso de alteração ou de renovação importantes da infra-estrutura da estação de serviço, nomeadamente dos seus reservatórios e tubagens), uma vez que tal reduz significativamente o custo das adaptações necessárias. Todavia, as grandes estações de serviço existentes têm mais facilidade em adaptar-se e, dado que o seu contributo para as emissões é maior, deverão instalar mais cedo os equipamentos de recuperação de vapores de gasolina. Nas estações de serviço novas, os equipamentos de recuperação de vapores de gasolina podem ser integrados durante as fases de projecto e construção, pelo que podem ser instalados desde já.\n\n(10) Os depósitos de combustível dos veículos a motor recém-fabricados não contêm vapores de gasolina. Afigura-se, por conseguinte, adequada uma isenção para o primeiro abastecimento de tais veículos.\n\n(11) Embora vários Estados-Membros tenham em vigor requisitos nacionais relativos aos sistemas de fase II de recuperação de vapores de gasolina, não existe legislação comunitária sobre o assunto. Por conseguinte, para se obterem maiores benefícios ambientais e para facilitar o comércio de equipamentos de recuperação de vapores de gasolina, é conveniente estabelecer um nível mínimo uniforme para a recuperação de vapores de gasolina.\n\n(12) Os equipamentos de fase II de recuperação de vapores de gasolina instalados deverão ser objecto de inspecções periódicas a fim de garantir que reduzem de facto as emissões. Os Estados-Membros podem decidir que as inspecções sejam realizadas por uma ou mais das seguintes entidades: serviços de inspecção oficiais, o próprio operador ou terceiros. No caso das inspecções oficiais, os Estados-Membros deverão ter em conta a Recomendação 2001/331/CE do Parlamento Europeu e do Conselho, de 4 de Abril de 2001, relativa aos critérios mínimos aplicáveis às inspecções ambientais nos Estados-Membros ([^9^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0009)).\n\n(13) Os equipamentos de fase II de recuperação de vapores de gasolina deverão ser verificados regularmente. O Comité Europeu de Normalização (CEN) deverá ser encorajado a conceber uma metodologia harmonizada para essas verificações.\n\n(14) Os Estados-Membros deverão estabelecer o regime de sanções aplicável em caso de infracção às disposições nacionais aprovadas em execução da presente directiva e garantir a respectiva aplicação. As sanções deverão ser efectivas, proporcionadas e dissuasivas, dado que o incumprimento pode acarretar danos para a saúde humana e para o ambiente.\n\n(15) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar Melhor» ([^10^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0010)), os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a correspondência entre a presente directiva e as medidas de transposição, e a publicá-los.\n\n(16) Uma vez que é aprovada nos termos do artigo 175.º do Tratado, a presente directiva não impede os Estados-Membros de manterem ou introduzirem medidas de protecção mais rigorosas compatíveis com o Tratado. Nos termos do artigo 176.º do Tratado, os Estados-Membros devem notificar essas medidas à Comissão.\n\n(17) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^11^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#E0011)).\n\n(18) Em especial, deverá ser atribuída competência à Comissão para aprovar medidas de execução relativas a normas e métodos harmonizados. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva, nomeadamente completando-a mediante o aditamento de novos elementos não essenciais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(19) Atendendo a que o objectivo da presente directiva, a saber, a redução das emissões de vapores de gasolina para a atmosfera, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, dada a natureza transfronteiriça da poluição atmosférica, ser mais bem alcançado ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "03e4d4297885565d": {
+   "fragment_id": "Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina\n\n1. Os Estados-Membros asseguram, com efeitos a partir da data em que os sistemas de fase II de recuperação de vapores de gasolina passem a ser obrigatórios por força do artigo 3.º, que a eficiência da captura de vapores de gasolina de tais sistemas é igual ou superior a 85 %, certificada pelo fabricante de acordo com a norma EN 16321-1:2013.\n\n2. Com efeitos a partir da data em que os sistemas de fase II de recuperação de vapores de gasolina passem a ser obrigatórios por força do artigo 3.º, a razão vapor/gasolina dos vapores de gasolina recuperados que sejam transferidos para um reservatório na estação de serviço não pode ser inferior a 0,95 nem superior a 1,05."
+  },
+  "0c99901e00c47154": {
+   "fragment_id": "Artigo 5.º — Verificações periódicas e informação aos consumidores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Verificações periódicas e informação aos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificações periódicas e informação aos consumidores\n\n1. Os Estados-Membros asseguram que a eficiência da captura de vapores de gasolina dos sistemas de fase II de recuperação de vapores de gasolina em serviço é comprovada pelo menos anualmente de acordo com a norma EN 16321-2:2013.\n\n2. Caso esteja instalado um sistema automático de monitorização, os Estados-Membros asseguram que a eficiência da captura de vapores de gasolina seja comprovada pelo menos trienalmente. O sistema automático de monitorização detecta automaticamente as falhas de funcionamento do sistema de fase II de recuperação de vapores de gasolina, bem como as suas próprias falhas, assinala-as ao operador da estação de serviço e, se a falha não for reparada no prazo de sete dias, interrompe automaticamente o fluxo de gasolina proveniente da bomba de reabastecimento avariada.\n\n3. Os Estados-Membros asseguram que as estações de serviço que tenham instalado um sistema de fase II de recuperação de vapores de gasolina ostentem um símbolo, um dístico ou outro tipo de informação na própria bomba de gasolina ou na sua proximidade para informar desse facto os consumidores."
+  },
+  "0a0d965ccf5f0c1a": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "4971921dc8518945": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0001)) Parecer de 13 de Maio de 2009 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0002)) Parecer do Parlamento Europeu de 5 de Maio de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 24 de Setembro de 2009.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0003)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0004)) JO L 179 de 17.7.2003, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0005)) JO L 152 de 11.6.2008, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0006)) JO L 309 de 27.11.2001, p. 22.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0007)) JO L 365 de 31.12.1994, p. 24.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0008)) JO L 350 de 28.12.1998, p. 58.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0009)) JO L 118 de 27.4.2001, p. 41.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0010)) JO C 321 de 31.12.2003, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/d5728aa7-e85d-4c6a-b601-14d32d94b40d.0015.02/DOC_1#src.E0011)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "4cefa02fcd17b8ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Outubro de 2009\n\nrelativa à fase II da recuperação de vapores de gasolina durante o reabastecimento de veículos a motor nas estações de serviço"
+  },
+  "4bc9b42fa8a0781b": {
+   "fragment_id": "Artigo 8.º — Adaptações técnicas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Adaptações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Adaptações técnicas\n\nA Comissão fica habilitada a adotar atos delegados nos termos do artigo 8.º-A no que diz respeito a alterar os artigos 4.º e 5.° a fim de adaptá-los ao progresso técnico tal seja necessário para assegurar a coerência com qualquer norma aplicável elaborada pelo Comité Europeu de Normalização (CEN).\n\nA delegação de poderes mencionada no primeiro parágrafo não śe aplica à eficiência da captura de vapores de gasolina nem à razão vapor/gasolina referidas no artigo 4.º nem aos prazos fixados no artigo 5.º."
+  },
+  "7ead33edfaac6f9c": {
+   "fragment_id": "Artigo 8.º-A — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 8.º é conferido à Comissão por um prazo de cinco anos a contar de 26 de julho de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 8.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor ([^1^](http://publications.europa.eu/resource/cellar/2a936b3e-e605-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#E0001)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 8.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "eebff880c2750bf9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2a936b3e-e605-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1#src.E0001)) JO L 123 de 12.5.2016, p. 1."
+  }
+ }
+}

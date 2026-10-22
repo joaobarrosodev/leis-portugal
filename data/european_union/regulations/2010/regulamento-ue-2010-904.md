@@ -37,6 +37,146 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-14'
+version_history:
+  file: regulamento-ue-2010-904.versoes.json
+  count: 7
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2010-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 21.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 62.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2020-01-01'
+    amending: eu:celex:32018R1541:por
+    amending_title: REGULAMENTO (UE) 2018/1541 DO CONSELHO de 2 de outubro de 2018; REGULAMENTO (UE) 2018/1909 DO CONSELHO
+      de 4 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 55.º
+    - Altera Artigo 58.º
+    - Altera Notas
+    - Adita Artigo 21.º-A
+    - Adita PRESENÇA NOS SERVIÇOS ADMINISTRATIVOS E DURANTE OS INQUÉRITOS ADMINISTRATIVOS E OS INQUÉRITOS ADMINISTRATIVOS
+      CONJUNTOS
+    - Adita RELAÇÕES COM A COMISSÃO E DEMAIS INSTITUIÇÕES, ÓRGÃOS, ORGANISMOS E AGÊNCIAS DA UNIÃO
+    - Suprime PRESENÇA NOS SERVIÇOS ADMINISTRATIVOS E PARTICIPAÇÃO NOS INQUÉRITOS ADMINISTRATIVOS
+    - Suprime RELAÇÕES COM A COMISSÃO
+    - Suprime ANEXO I
+  - date: '2021-07-01'
+    amending: eu:celex:32017R2454:por
+    amending_title: REGULAMENTO (UE) 2017/2454 DO CONSELHO de 5 de dezembro de 2017; REGULAMENTO (UE) 2020/1108 DO CONSELHO
+      de 20 de julho de 2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 31.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 58.º
+    - Altera Notas
+    - Adita Disposições aplicáveis de 1 de janeiro de 2015 a 30 de junho de 2021
+    - Adita SECÇÃO 3
+    - Adita Disposições aplicáveis a partir de 1 de julho de 2021
+    - Adita Subsecção 1
+    - Adita Disposições gerais
+    - Adita Artigo 47.º-A
+    - Adita Subsecção 2
+    - Adita Troca de informações
+    - Adita Artigo 47.º-B
+    - Adita Artigo 47.º-C
+    - Adita Artigo 47.º-D
+    - Adita Artigo 47.º-E
+    - Adita Artigo 47.º-F
+    - Adita Artigo 47.º-G
+    - Adita Subsecção 3
+    - Adita Controlo das operações e dos sujeitos passivos
+    - Adita Artigo 47.º-H
+    - Adita Artigo 47.º-I
+    - Adita Artigo 47.º-J
+    - Adita Subsecção 4
+    - Adita Informações estatísticas
+    - Adita Artigo 47.º-K
+    - Adita Subsecção 5
+    - Adita Atribuição de competências de execução
+    - Adita Artigo 47.º-L
+    - Suprime Disposições aplicáveis a partir de 1 de Janeiro de 2015
+  - date: '2024-01-01'
+    amending: eu:celex:32020R0283:por
+    amending_title: REGULAMENTO (UE) 2020/283 DO CONSELHO de 18 de fevereiro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 37.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 58.º
+    - Altera Notas
+    - Adita RECOLHA, ARMAZENAGEM E TROCA DE INFORMAÇÕES ESPECÍFICAS
+    - Adita Acesso automatizado a informações específicas armazenadas nos sistemas eletrónicos nacionais
+    - Adita Sistema eletrónico central de informações sobre pagamentos
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Adita Artigo 24.º-C
+    - Adita Artigo 24.º-D
+    - Adita Artigo 24.º-E
+    - Adita Artigo 24.º-F
+    - Suprime ARMAZENAGEM E TROCA DE INFORMAÇÕES ESPECÍFICAS
+  - date: '2025-01-01'
+    amending: eu:celex:32020L0285:por
+    amending_title: DIRETIVA (UE) 2020/285 DO CONSELHO de 18 de fevereiro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º-E
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 58.º
+    - Altera Notas
+    - Adita CAPÍTULO X‐A
+    - Adita DISPOSIÇÕES RELATIVAS AO REGIME ESPECIAL PREVISTO NO CAPÍTULO 1 DO TÍTULO XII DA DIRETIVA 2006/112/CE
+    - Adita Artigo 37. ‐A
+    - Adita Artigo 37. ‐B
+  - date: '2025-04-14'
+    amending: eu:celex:32025R0517:por
+    amending_title: REGULAMENTO (UE) 2025/517 DO CONSELHO de 11 de março de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 24.º-E
+    - Altera Artigo 48.º
+    - Altera Artigo 55.º
+    - Altera Artigo 58.º
+    - Altera Notas
 identifiers:
   celex: 32010R0904
   eli: http://data.europa.eu/eli/reg/2010/904/oj
@@ -51,7 +191,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa43e4f2-2557-4db6-b774-9e732f091a43.0006
   content_url: http://publications.europa.eu/resource/cellar/5c9e0d6d-4b89-11f0-85ba-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0904-20250414
-  retrieved_at: '2026-10-22T02:45:35Z'
+  retrieved_at: '2026-10-22T15:48:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T07:17:19.370+02:00'
 integrity:
@@ -60,9 +200,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:35Z'
-  notes: Texto consolidado 02010R0904-20250414.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:29Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2010-904.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -214,42 +354,20 @@ relationships:
   date: '2003-10-16'
 article_structure:
   article_count: 83
-  section_count: 60
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 61
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:35Z'
-  warnings: []
+  checked_at: '2026-10-22T15:48:29Z'
+  warnings:
+  - '02010R0904-20101101: versão indisponível (Sem expressão na língua por para CELEX 02010R0904-20101101.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 904/2010 do Conselho, de 7 de Outubro de 2010
-
-> 02010R0904 — PT — 14.04.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32017R2454) — [REGULAMENTO (UE) 2017/2454 DO CONSELHO de 5 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2454) — L 348 — 1 — 29.12.2017
-- [►M3](http://publications.europa.eu/resource/celex/32018R1541) — Alterado por: [REGULAMENTO (UE) 2018/1541 DO CONSELHO de 2 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1541) — L 259 — 1 — 16.10.2018
-- [►M4](http://publications.europa.eu/resource/celex/32020R1108) — Alterado por: [REGULAMENTO (UE) 2020/1108 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1108) — L 244 — 1 — 29.7.2020
-- [►M5](http://publications.europa.eu/resource/celex/32018R1541) — [REGULAMENTO (UE) 2018/1541 DO CONSELHO de 2 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1541) — L 259 — 1 — 16.10.2018
-- [►M6](http://publications.europa.eu/resource/celex/32018R1909) — [REGULAMENTO (UE) 2018/1909 DO CONSELHO de 4 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1909) — L 311 — 1 — 7.12.2018
-- [►M7](http://publications.europa.eu/resource/celex/32020L0285) — [DIRETIVA (UE) 2020/285 DO CONSELHO de 18 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020L0285) — L 62 — 13 — 2.3.2020
-- [►M8](http://publications.europa.eu/resource/celex/32020R0283) — [REGULAMENTO (UE) 2020/283 DO CONSELHO de 18 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0283) — L 62 — 1 — 2.3.2020
-- [►M9](http://publications.europa.eu/resource/celex/32025R0517) — [REGULAMENTO (UE) 2025/517 DO CONSELHO de 11 de março de 2025](http://publications.europa.eu/resource/celex/32025R0517) — L 517 — 1 — 25.3.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R2454R%2801%29) — [Rectificação, JO L 125, 22.5.2018, p. 15 (2017/2454)](http://publications.europa.eu/resource/celex/32017R2454R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R2454R%2802%29) — [Rectificação, JO L 196, 24.7.2019, p. 17 (2017/2454)](http://publications.europa.eu/resource/celex/32017R2454R%2802%29)
-
-## REGULAMENTO (UE) N.º 904/2010 DO CONSELHO
 
 de 7 de Outubro de 2010
 

@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-05-01'
+version_history:
+  file: diretiva-ue-2010-17.versoes.json
+  count: 2
+  source_lastmod: '2010-05-01'
+  versions:
+  - date: '2010-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32010L0017
   eli: http://data.europa.eu/eli/dir/2010/17/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c95b9c15-4c54-42bb-9527-7255ee41cc0f.0018
   content_url: http://publications.europa.eu/resource/cellar/e34157d2-8e22-4ae0-8a70-76921e96e5dc.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0017-20100501
-  retrieved_at: '2026-10-22T03:14:59Z'
+  retrieved_at: '2026-10-22T15:46:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T05:44:24.986+02:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:59Z'
-  notes: Texto consolidado 02010L0017-20100501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:03Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2010-17.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -113,29 +130,19 @@ relationships:
   date: '2009-11-30'
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:59Z'
+  checked_at: '2026-10-22T15:46:03Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2010/17/UE da Comissão, de 9 de Março de 2010
-
-> 2010L0017 — PT — 01.05.2010 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010L0017R%2801%29) — [Rectificação, JO L 113, 6.5.2010, p. 58 (10/17)](http://publications.europa.eu/resource/celex/32010L0017R%2801%29)
-
-## DIRECTIVA 2010/17/UE DA COMISSÃO
 
 de 9 de Março de 2010
 

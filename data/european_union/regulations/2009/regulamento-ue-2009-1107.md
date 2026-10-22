@@ -36,6 +36,187 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-16'
+version_history:
+  file: regulamento-ue-2009-1107.versoes.json
+  count: 10
+  source_lastmod: '2026-06-16'
+  versions:
+  - date: '2009-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0518:por
+    amending_title: REGULAMENTO (UE) N. o 518/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Critérios de aprovação de substâncias activas
+    - Altera Artigo 29.º — Requisitos para autorização de colocação no mercado
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera Artigo 84.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Zona A – Norte
+    - Adita Zona B – Centro
+    - Adita Zona C – Sul
+    - Adita ANEXO II
+    - Adita Procedimento e critérios para a aprovação de substâncias activas, de protectores de fitotoxicidade e de agentes
+      sinérgicos em conformidade com o capítulo II
+    - Adita 1. Avaliação
+    - Adita 2. Critérios gerais de tomada de decisões
+    - Adita 3. Critérios para a aprovação de uma substância activa
+    - Adita 3.1. Processo
+    - Adita 3.2. Eficácia
+    - Adita 3.3. Metabolitos relevantes
+    - Adita 3.4. Composição da substância activa, do protector de fitotoxicidade ou do agente sinérgico
+    - Adita 3.5. Métodos de análise
+    - Adita 3.6. Impacto na saúde humana
+    - Adita 3.7. Destino e comportamento no ambiente
+    - Adita 3.8. Ecotoxicologia
+    - Adita 3.9. Definição dos resíduos
+    - Adita 3.10. Destino e comportamento no que se refere às águas subterrâneas
+    - Adita 4. Candidato para substituição
+    - Adita 5. Substâncias activas de baixo risco
+    - Adita ANEXO III
+    - Adita Lista de coformulantes não aceites para inclusão em produtos fitofarmacêuticos previstos no artigo 27.º
+    - Adita ANEXO IV
+    - Adita Avaliação comparativa nos termos do artigo 50.º
+    - Adita 1. Condições aplicáveis à avaliação comparativa
+    - Adita 2. Diferença de risco significativa
+    - Adita 3. Desvantagens práticas ou económicas significativas
+    - Adita ANEXO V
+    - Adita Directivas revogadas e suas sucessivas alterações previstas no artigo 83.º
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0652:por
+    amending_title: REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera Notas
+    - Suprime Artigo 76.º — Despesas efectuadas pela Comissão
+  - date: '2017-08-28'
+    amending: eu:celex:32017R1432:por
+    amending_title: REGULAMENTO (UE) 2017/1432 DA COMISSÃO de 7 de agosto de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera Notas
+    - Adita 5. Substâncias ativas de baixo risco
+    - Adita 5.1. Substâncias ativas que não sejam microrganismos
+    - Adita 5.2. Microrganismos
+    - Suprime 5. Substâncias activas de baixo risco
+  - date: '2018-11-10'
+    amending: eu:celex:32018R0605:por
+    amending_title: REGULAMENTO (UE) 2018/605 DA COMISSÃO de 19 de abril de 2018
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera 3. Critérios para a aprovação de uma substância activa
+    - Altera 5. Substâncias ativas de baixo risco
+    - Altera Notas
+    - Suprime 3.1. Processo
+    - Suprime 3.2. Eficácia
+    - Suprime 3.3. Metabolitos relevantes
+    - Suprime 3.4. Composição da substância activa, do protector de fitotoxicidade ou do agente sinérgico
+    - Suprime 3.5. Métodos de análise
+    - Suprime 3.6. Impacto na saúde humana
+    - Suprime 3.7. Destino e comportamento no ambiente
+    - Suprime 3.8. Ecotoxicologia
+    - Suprime 3.9. Definição dos resíduos
+    - Suprime 3.10. Destino e comportamento no que se refere às águas subterrâneas
+    - Suprime 5.1. Substâncias ativas que não sejam microrganismos
+    - Suprime 5.2. Microrganismos
+  - date: '2019-07-15'
+    amending: eu:celex:32019R1009:por
+    amending_title: REGULAMENTO (UE) 2019/1009 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera 3. Critérios para a aprovação de uma substância activa
+    - Altera 5. Substâncias ativas de baixo risco
+    - Altera Notas
+    - Adita 3.1. Processo
+    - Adita 3.2. Eficácia
+    - Adita 3.3. Metabolitos relevantes
+    - Adita 3.4. Composição da substância activa, do protector de fitotoxicidade ou do agente sinérgico
+    - Adita 3.5. Métodos de análise
+    - Adita 3.6. Impacto na saúde humana
+    - Adita 3.7. Destino e comportamento no ambiente
+    - Adita 3.8. Ecotoxicologia
+    - Adita 3.9. Definição dos resíduos
+    - Adita 3.10. Destino e comportamento no que se refere às águas subterrâneas
+    - Adita 5.1. Substâncias ativas que não sejam microrganismos
+    - Adita 5.2. Microrganismos
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 68.º — Monitorização e controlos
+    - Altera Artigo 78.º — Alterações e medidas de execução
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera Notas
+  - date: '2021-03-27'
+    amending: eu:celex:32019R1381:por
+    amending_title: REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019; REGULAMENTO (UE)
+      2021/383 DA COMISSÃO de 3 de março de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Pedido
+    - Altera Artigo 15.º — Pedido de renovação
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera 3. Critérios para a aprovação de uma substância activa
+    - Altera 5. Substâncias ativas de baixo risco
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Artigo 10.º — Acesso do público aos processos
+    - Adita Artigo 16.º — Acesso do público às informações para renovação
+    - Suprime Artigo 10.º — Acesso ao processo resumo
+    - Suprime Artigo 16.º — Acesso às informações para renovação
+    - Suprime 3.1. Processo
+    - Suprime 3.2. Eficácia
+    - Suprime 3.3. Metabolitos relevantes
+    - Suprime 3.4. Composição da substância activa, do protector de fitotoxicidade ou do agente sinérgico
+    - Suprime 3.5. Métodos de análise
+    - Suprime 3.6. Impacto na saúde humana
+    - Suprime 3.7. Destino e comportamento no ambiente
+    - Suprime 3.8. Ecotoxicologia
+    - Suprime 3.9. Definição dos resíduos
+    - Suprime 3.10. Destino e comportamento no que se refere às águas subterrâneas
+    - Suprime 5.1. Substâncias ativas que não sejam microrganismos
+    - Suprime 5.2. Microrganismos
+    - Suprime Lista de coformulantes não aceites para inclusão em produtos fitofarmacêuticos previstos no artigo 27.º
+  - date: '2022-11-21'
+    amending: eu:celex:32022R1438:por
+    amending_title: REGULAMENTO (UE) 2022/1438 DA COMISSÃO de 31 de agosto de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera 3. Critérios para a aprovação de uma substância activa
+    - Altera 5. Substâncias ativas de baixo risco
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2026-06-16'
+    amending: eu:celex:32026R1120:por
+    amending_title: REGULAMENTO (UE) 2026/1120 DA COMISSÃO de 26 de maio de 2026
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 63.º — Confidencialidade
+    - Altera Artigo 80.º — Medidas transitórias
+    - Altera ANEXO III
+    - Altera Notas
 identifiers:
   celex: 32009R1107
   eli: http://data.europa.eu/eli/reg/2009/1107/oj
@@ -50,7 +231,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ad90f5a-4dfe-4ad2-adda-e290d0e23c8b.0019
   content_url: http://publications.europa.eu/resource/cellar/fec7cc33-9031-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1107-20260616
-  retrieved_at: '2026-10-22T02:35:54Z'
+  retrieved_at: '2026-10-22T15:45:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:15:18.443+02:00'
 integrity:
@@ -59,9 +240,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:54Z'
-  notes: Texto consolidado 02009R1107-20260616.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:06Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2009-1107.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -763,42 +944,20 @@ relationships:
   date: '1991-08-19'
 article_structure:
   article_count: 83
-  section_count: 71
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 72
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:54Z'
-  warnings: []
+  checked_at: '2026-10-22T15:45:06Z'
+  warnings:
+  - '02009R1107-20091214: versão indisponível (Sem expressão na língua por para CELEX 02009R1107-20091214.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1107/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009R1107 — PT — 16.06.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0518) — [REGULAMENTO (UE) N.º 518/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0518) — L 158 — 72 — 10.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014R0652) — [REGULAMENTO (UE) N.º 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M4](http://publications.europa.eu/resource/celex/32017R1432) — [REGULAMENTO (UE) 2017/1432 DA COMISSÃO de 7 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R1432) — L 205 — 59 — 8.8.2017
-- [►M5](http://publications.europa.eu/resource/celex/32018R0605) — [REGULAMENTO (UE) 2018/605 DA COMISSÃO de 19 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0605) — L 101 — 33 — 20.4.2018
-- [►M6](http://publications.europa.eu/resource/celex/32019R1009) — [REGULAMENTO (UE) 2019/1009 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1009) — L 170 — 1 — 25.6.2019
-- [►M7](http://publications.europa.eu/resource/celex/32019R1381) — [REGULAMENTO (UE) 2019/1381 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1381) — L 231 — 1 — 6.9.2019
-- [►M8](http://publications.europa.eu/resource/celex/32021R0383) — [REGULAMENTO (UE) 2021/383 DA COMISSÃO de 3 de março de 2021](http://publications.europa.eu/resource/celex/32021R0383) — L 74 — 7 — 4.3.2021
-- [►M9](http://publications.europa.eu/resource/celex/32022R1438) — [REGULAMENTO (UE) 2022/1438 DA COMISSÃO de 31 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1438) — L 227 — 2 — 1.9.2022
-- [►M10](http://publications.europa.eu/resource/celex/32026R1120) — [REGULAMENTO (UE) 2026/1120 DA COMISSÃO de 26 de maio de 2026](http://publications.europa.eu/resource/celex/32026R1120) — L 1120 — 1 — 27.5.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R0605R%2801%29) — [Rectificação, JO L 111, 2.5.2018, p. 10 (2018/605)](http://publications.europa.eu/resource/celex/32018R0605R%2801%29)
-
-## REGULAMENTO (CE) N.º 1107/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

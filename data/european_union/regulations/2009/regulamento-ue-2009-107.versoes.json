@@ -1,0 +1,234 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R0107:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0107-20170109",
+ "dre_path": null,
+ "source_lastmod": "2017-01-09",
+ "versions": [
+  {
+   "date": "2009-02-05",
+   "future": false,
+   "celex": "32009R0107",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b634df77d10d2d2d",
+    "901e38ee92f73f75",
+    "bf61c44f9fcf04ea",
+    "a4ddeb71a45fe3b7",
+    "40f4e5b9540b153b",
+    "7a54f6a435afc0f6",
+    "9cbb4b7a87a945e4",
+    "a79c8c23fdf6a002",
+    "e3daea768daf2e87",
+    "9fda9962ba7898e6",
+    "c213d5dcba654843"
+   ]
+  },
+  {
+   "date": "2017-01-09",
+   "future": false,
+   "celex": "02009R0107-20170109",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2282:por",
+     "title": "REGULAMENTO (UE) 2016/2282 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32016R2282"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 9.º — Entrada em vigor",
+    "Adita ANEXO I",
+    "Adita Requisitos de concepção ecológica",
+    "Adita ANEXO II",
+    "Adita Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+    "Adita ANEXO III",
+    "Adita Padrões de referência",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5f1bde03598a6094",
+    "901e38ee92f73f75",
+    "835fd262f0b26666",
+    "a4ddeb71a45fe3b7",
+    "40f4e5b9540b153b",
+    "7a54f6a435afc0f6",
+    "9cbb4b7a87a945e4",
+    "a79c8c23fdf6a002",
+    "e3daea768daf2e87",
+    "5aa3ad53a2854659",
+    "d664376e2a8dcecd",
+    "f54ea4126e82b8bb",
+    "852174729551523b",
+    "d19ef1864cae90d3",
+    "720af75c92791b10",
+    "14726ce0850c1458"
+   ]
+  }
+ ],
+ "fragments": {
+  "b634df77d10d2d2d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Fevereiro de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica dos descodificadores simples de televisão\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2005/32/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos que consomem energia e que altera as Directivas 92/42/CEE do Conselho e 96/57/CE e 2000/55/CE do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/d65e1c80-1e57-463b-8284-c2ce93a7dbbf.0018.02/DOC_1#ntr1-L_2009036PT.01000801-E0001), nomeadamente o n.º 1 do artigo 15.º,\n\nApós consulta do Fórum de Consulta sobre a concepção ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2005/32/CE, a Comissão deve definir requisitos de concepção ecológica para produtos consumidores de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O n.º 2, primeiro travessão, do artigo 16.º da Directiva 2005/32/CE prevê que, em conformidade com o procedimento referido no n.º 3 do artigo 19.º e com os critérios estabelecidos no n.º 2 do artigo 15.º e após consulta do Fórum de Consulta, a Comissão introduzirá, se for caso disso, medidas de execução incidentes no equipamento electrónico destinado ao público em geral.\n\n(3) A Comissão realizou um estudo preparatório que analisou os aspectos técnicos, ambientais e económicos dos descodificadores simples de televisão (a seguir designados também por «descodificadores simples»). O estudo foi realizado em conjunto com as partes interessadas da UE e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(4) O estudo preparatório refere que o número de descodificadores simples colocados no mercado comunitário crescerá de 28 milhões em 2008 para 56 milhões em 2014 e que o consumo anual de electricidade destes aparelhos crescerá de 6 TWh em 2010 para 14 TWh em 2014, mas que o consumo de electricidade dos descodificadores simples pode ser significativamente reduzido de um modo rentável em termos de custos.\n\n(5) O consumo de electricidade dos descodificadores simples pode ser reduzido mediante a aplicação de soluções conceptuais existentes de uso comum, as quais, apesar de economicamente rentáveis, não são introduzidas no mercado de modo satisfatório porque os utilizadores finais ignoram os custos de funcionamento dos descodificadores, o que não incentiva os fabricantes a integrarem tais soluções para reduzir o consumo de energia durante a utilização.\n\n(6) Devem ser estabelecidos requisitos de concepção ecológica para o consumo de energia dos descodificadores simples, com vista a harmonizar os requisitos de concepção ecológica destes aparelhos em toda a Comunidade e contribuir para a melhoria do seu desempenho ambiental e para o funcionamento do mercado interno.\n\n(7) O presente regulamento deve intensificar a penetração no mercado de tecnologias capazes de melhorar a eficiência energética dos descodificadores simples, conduzindo a poupanças anuais de energia estimadas em 9 TWh em 2014, a comparar com o cenário de manutenção da situação actual.\n\n(8) Os requisitos de concepção ecológica não devem ter impacto negativo na funcionalidade do produto nem afectar negativamente a saúde, a segurança ou o ambiente.\n\n(9) Uma entrada em vigor dos requisitos de concepção ecológica de forma faseada deve proporcionar aos fabricantes um calendário adequado para remodelarem os produtos. O calendário do faseamento deve ser definido de modo a evitar incidências negativas relacionadas com as características funcionais de produtos colocados no mercado e a ter em conta os impactos em matéria de custos para os fabricantes, designadamente PME, assegurando simultaneamente a consecução, em tempo útil, dos objectivos políticos.\n\n(10) As medições do consumo energético devem ser efectuadas tendo em conta as tecnologias de ponta geralmente reconhecidas; os fabricantes podem aplicar normas harmonizadas estabelecidas em conformidade com o artigo 9.º da Directiva 2005/32/CE.\n\n(11) Os requisitos estabelecidos neste regulamento específico devem prevalecer sobre os estabelecidos no Regulamento (CE) n.º 1275/2008 da Comissão, de 17 de Dezembro de 2008, que dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para o consumo de energia do equipamento eléctrico e electrónico doméstico e de escritório nos estados de vigília e de desactivação [([^2])](http://publications.europa.eu/resource/cellar/d65e1c80-1e57-463b-8284-c2ce93a7dbbf.0018.02/DOC_1#ntr2-L_2009036PT.01000801-E0002).\n\n(12) Em conformidade com o n.º 2 do artigo 8.º da Directiva 2005/32/CE, o presente regulamento deve especificar que os procedimentos de avaliação da conformidade aplicáveis são o controlo interno da concepção previsto no Anexo IV da mesma directiva e o sistema de gestão previsto no seu Anexo V.\n\n(13) A fim de facilitar as verificações do cumprimento, deve ser imposta aos fabricantes a obrigação de incluírem informações na documentação técnica referida nos Anexos IV e V da Directiva 2005/32/CE, na medida em que essa documentação tenha a ver com os requisitos estabelecidos pela presente medida de execução.\n\n(14) Devem ser identificados padrões de referência com base nos descodificadores actuais de baixo consumo energético. A disponibilidade de um «estado 0 watts» nos aparelhos poderá estimular o comportamento e a decisão dos consumidores no sentido de reduzirem perdas de energia desnecessárias. Os padrões de referência ajudam a assegurar informação amplamente disponível e de fácil acesso, sobretudo para as PME e as micro-empresas, facilitando ainda mais a integração das melhores tecnologias de concepção para reduzir o consumo energético dos descodificadores simples.\n\n(15) As medidas previstas no presente regulamento estão conformes com o parecer do comité criado pelo n.º 1 do artigo 19.º da Directiva 2005/32/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "901e38ee92f73f75": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece requisitos de concepção ecológica para os descodificadores simples de televisão."
+  },
+  "bf61c44f9fcf04ea": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes da Directiva 2005/32/CE. Aplicam-se igualmente as seguintes definições:\n\n1. «Descodificador simples de televisão (descodificador simples)»: aparelho autónomo que, independentemente das interfaces utilizadas: a) Tem como função principal converter em sinais de radiodifusão analógicos, adequados a receptores televisivos ou radiofónicos analógicos, os sinais de radiodifusão digitais de emissão aberta em definição normal (SD) ou em alta definição (HD); b) Não dispõe da função de «acesso condicionado» (CA); c) Não oferece função de gravação baseada em meios amovíveis num formato-padrão. Os descodificadores simples podem ser equipados com as seguintes funções e/ou componentes adicionais, que não constituem especificação mínima de descodificador simples: a) Funções de mudança da hora e de gravação com recurso a disco rígido integrado; b) Conversão de sinais de radiodifusão em HD na entrada em sinais vídeo em HD ou SD na saída; c) Segundo sintonizador.\n\na) Tem como função principal converter em sinais de radiodifusão analógicos, adequados a receptores televisivos ou radiofónicos analógicos, os sinais de radiodifusão digitais de emissão aberta em definição normal (SD) ou em alta definição (HD);\n\nb) Não dispõe da função de «acesso condicionado» (CA);\n\nc) Não oferece função de gravação baseada em meios amovíveis num formato-padrão.\n\na) Funções de mudança da hora e de gravação com recurso a disco rígido integrado;\n\nb) Conversão de sinais de radiodifusão em HD na entrada em sinais vídeo em HD ou SD na saída;\n\nc) Segundo sintonizador.\n\n2. «Estado de vigília»: estado em que o equipamento se encontra ligado à rede eléctrica, depende do fornecimento de energia por essa rede para funcionar conforme se pretende e executa *apenas* as seguintes funções, que podem persistir por tempo indeterminado: a) Função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa e/ou; b) Visualização de informações ou de estado.\n\na) Função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa e/ou;\n\nb) Visualização de informações ou de estado.\n\n3. «Função de reactivação»: função que permite a activação de outros estados, incluindo o de funcionamento activo, por meio de um comutador à distância, que pode ser um telecomando, um sensor interno ou um temporizador conducente a uma situação em que estejam disponíveis funções adicionais, entre as quais a função principal.\n\n4. «Visualização de informações ou de estado»: função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios.\n\n5. «Estado activo»: estado em que o equipamento se encontra ligado à rede eléctrica e em que foi activada pelo menos uma das funções principais que prestam o serviço pretendido com o equipamento.\n\n6. «Desligamento automático»: função que muda o estado de um descodificador simples de activo para vigília, ao cabo de um determinado período em estado activo após a última interacção do utilizador e/ou mudança de canal.\n\n7. «Segundo sintonizador»: parte do descodificador simples que permite uma gravação independente em simultâneo com a visualização de um programa diferente;\n\n8. «Acesso condicionado» (CA): serviço de radiodifusão controlado pelo fornecedor e que requer a assinatura comercial de um serviço de televisão."
+  },
+  "a4ddeb71a45fe3b7": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica para os descodificadores simples constam do Anexo I."
+  },
+  "40f4e5b9540b153b": {
+   "fragment_id": "Artigo 4.º — Relação com o Regulamento (CE) n.º 1275/2008",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Relação com o Regulamento (CE) n.º 1275/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Relação com o Regulamento (CE) n.º 1275/2008\n\nOs requisitos estabelecidos no presente regulamento prevalecerão sobre os estabelecidos no Regulamento (CE) n.º 1275/2008."
+  },
+  "7a54f6a435afc0f6": {
+   "fragment_id": "Artigo 5.º — Avaliação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação da conformidade\n\nO procedimento de avaliação da conformidade, a que se refere o n.º 2 do artigo 8.º da Directiva 2005/32/CE, será o sistema de controlo interno da concepção previsto no Anexo IV da mesma directiva ou o sistema de gestão previsto no seu Anexo V."
+  },
+  "9cbb4b7a87a945e4": {
+   "fragment_id": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de verificação para efeitos de fiscalização do mercado\n\nSerão efectuados controlos de fiscalização, em conformidade com o procedimento de verificação estabelecido no Anexo II."
+  },
+  "a79c8c23fdf6a002": {
+   "fragment_id": "Artigo 7.º — Padrões de referência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Padrões de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Padrões de referência\n\nO Anexo III identifica os padrões de referência indicativos, relativos aos produtos e tecnologias de melhor desempenho actualmente disponíveis no mercado."
+  },
+  "e3daea768daf2e87": {
+   "fragment_id": "Artigo 8.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revisão\n\nNo prazo máximo de 5 anos após a entrada em vigor do presente regulamento, a Comissão revê-lo-á à luz do progresso tecnológico e apresentará o resultado dessa revisão ao Fórum de Consulta."
+  },
+  "9fda9962ba7898e6": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO ponto 1 do Anexo I é aplicável um ano após a data referida no primeiro parágrafo.\n\nO ponto 2 do Anexo I é aplicável três anos após a data referida no primeiro parágrafo.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 4 de Fevereiro de 2009.\n\n***Pela Comissão***\n\n**Andris PIEBALGS**\n\n***Membro da Comissão***\n\n---"
+  },
+  "c213d5dcba654843": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/d65e1c80-1e57-463b-8284-c2ce93a7dbbf.0018.02/DOC_1#ntc1-L_2009036PT.01000801-E0001) [JO L 191 de 22.7.2005, p. 29](http://publications.europa.eu/resource/oj/JOL_2005_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/d65e1c80-1e57-463b-8284-c2ce93a7dbbf.0018.02/DOC_1#ntc2-L_2009036PT.01000801-E0002) [JO L 339 de 18.12.2008, p. 45](http://publications.europa.eu/resource/oj/JOL_2008_339_R_TOC)."
+  },
+  "5f1bde03598a6094": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Fevereiro de 2009\n\nque dá execução à Directiva 2005/32/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica dos descodificadores simples de televisão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "835fd262f0b26666": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições constantes da Directiva 2005/32/CE. Aplicam-se igualmente as seguintes definições:\n\n1. «Descodificador simples de televisão (descodificador simples)»: aparelho autónomo que, independentemente das interfaces utilizadas:\n\na) Tem como função principal converter em sinais de radiodifusão analógicos, adequados a receptores televisivos ou radiofónicos analógicos, os sinais de radiodifusão digitais de emissão aberta em definição normal (SD) ou em alta definição (HD);\n\nb) Não dispõe da função de «acesso condicionado» (CA);\n\nc) Não oferece função de gravação baseada em meios amovíveis num formato-padrão.\n\na) Funções de mudança da hora e de gravação com recurso a disco rígido integrado;\n\nb) Conversão de sinais de radiodifusão em HD na entrada em sinais vídeo em HD ou SD na saída;\n\nc) Segundo sintonizador.\n\n2. «Estado de vigília»: estado em que o equipamento se encontra ligado à rede eléctrica, depende do fornecimento de energia por essa rede para funcionar conforme se pretende e executa *apenas* as seguintes funções, que podem persistir por tempo indeterminado:\n\na) Função de reactivação ou, alternativamente, função de reactivação acrescida da simples indicação de que a função de reactivação está activa e/ou;\n\nb) Visualização de informações ou de estado.\n\n3. «Função de reactivação»: função que permite a activação de outros estados, incluindo o de funcionamento activo, por meio de um comutador à distância, que pode ser um telecomando, um sensor interno ou um temporizador conducente a uma situação em que estejam disponíveis funções adicionais, entre as quais a função principal.\n\n4. «Visualização de informações ou de estado»: função contínua que fornece informações ou indica o estado do equipamento num visor, incluindo relógios.\n\n5. «Estado activo»: estado em que o equipamento se encontra ligado à rede eléctrica e em que foi activada pelo menos uma das funções principais que prestam o serviço pretendido com o equipamento.\n\n6. «Desligamento automático»: função que muda o estado de um descodificador simples de activo para vigília, ao cabo de um determinado período em estado activo após a última interacção do utilizador e/ou mudança de canal.\n\n7. «Segundo sintonizador»: parte do descodificador simples que permite uma gravação independente em simultâneo com a visualização de um programa diferente;\n\n8. «Acesso condicionado» (CA): serviço de radiodifusão controlado pelo fornecedor e que requer a assinatura comercial de um serviço de televisão."
+  },
+  "5aa3ad53a2854659": {
+   "fragment_id": "Artigo 9.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO ponto 1 do Anexo I é aplicável um ano após a data referida no primeiro parágrafo.\n\nO ponto 2 do Anexo I é aplicável três anos após a data referida no primeiro parágrafo.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f54ea4126e82b8bb": {
+   "fragment_id": "Requisitos de concepção ecológica",
+   "type": "divisao",
+   "heading": "Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de concepção ecológica\n\n| 1. | Um ano após a entrada em vigor do presente regulamento, os descodificadores simples colocados no mercado não excederão os limites de consumo energético a seguir indicados (os descodificadores com disco rígido integrado e/ou segundo sintonizador estão isentos destes requisitos): Estado de vigília Estado activo Descodificador simples 1,00 W 5,00 W Consumo máximo para a visualização em vigília 1,00 W — Consumo máximo para a descodificação de sinais HD — 3,00 W |  |\n| --- | --- | --- |\n|  | Estado de vigília | Estado activo |\n| Descodificador simples | 1,00 W | 5,00 W |\n| Consumo máximo para a visualização em vigília | 1,00 W | — |\n| Consumo máximo para a descodificação de sinais HD | — | 3,00 W |\n\n| 2. | Três anos após a entrada em vigor do presente regulamento, os descodificadores simples colocados no mercado não excederão os limites de consumo energético a seguir indicados: Estado de vigília Estado activo Descodificador simples 0,50 W 5,00 W Consumo máximo para a visualização em vigília 0,50 W — Consumo máximo para o disco rígido — 6,00 W Consumo máximo para o segundo sintonizador — 1,00 W Consumo máximo para a descodificação de sinais HD — 1,00 W |  |\n| --- | --- | --- |\n|  | Estado de vigília | Estado activo |\n| Descodificador simples | 0,50 W | 5,00 W |\n| Consumo máximo para a visualização em vigília | 0,50 W | — |\n| Consumo máximo para o disco rígido | — | 6,00 W |\n| Consumo máximo para o segundo sintonizador | — | 1,00 W |\n| Consumo máximo para a descodificação de sinais HD | — | 1,00 W |\n\n3. Disponibilidade do estado de vigíliaUm ano após a entrada em vigor do presente regulamento, os descodificadores simples disporão da função «estado de vigília».\n\n4. Desligamento automáticoUm ano após a entrada em vigor da presente medida de execução, os descodificadores simples serão equipados com uma função de «desligamento automático» ou similar, com as seguintes características: — o descodificador passará automaticamente do estado activo para o estado de vigília ao cabo de menos de 3 horas em estado activo após a última interacção do utilizador e/ou mudança de canal, com uma mensagem de alerta 2 minutos antes de entrar em estado de vigília, — a função de «desligamento automático» é pré-activada pelo fabricante.\n\n5. MediçõesO consumo de energia referido nos pontos 1 e 2 será determinado por um processo de medição exacto, fiável e reprodutível que tenha em conta as tecnologias de ponta geralmente reconhecidas. [▼M1](http://publications.europa.eu/resource/celex/32016R2282) ————— [▼B](http://publications.europa.eu/resource/celex/32009R0107)\n\n6. Informações a fornecer pelos fabricantes para efeitos de avaliação da conformidadePara efeitos de avaliação da conformidade nos termos do artigo 5.º, a documentação técnica conterá os seguintes elementos: a) *Em relação aos estados de vigília e activo* — valores do consumo energético em watts, arredondados à segunda casa decimal, incluindo os dados de consumo das diversas funções e/ou componentes adicionais, — método de medição utilizado, — período de medição, — descrição do modo como o estado do aparelho foi seleccionado ou programado, — sequência de eventos para chegar ao estado em que o equipamento muda automaticamente de estado, — eventuais notas relativas ao funcionamento do equipamento; b) *Parâmetros de ensaio para as medições* — temperatura ambiente; — tensão de ensaio em V e frequência em Hz; — distorção harmónica total do sistema de alimentação eléctrica; — flutuação da tensão de alimentação durante os ensaios; — informação e documentação sobre os instrumentos, a instalação e os circuitos utilizados nos ensaios eléctricos; — sinais de entrada RF (para radiodifusão digital terrestre) ou IF (para radiodifusão por satélite); — sinais de ensaio áudio/vídeo como descrito para o fluxo de transporte MPEG-2; — ajustamento dos comandos. Os requisitos em matéria de energia aplicáveis aos aparelhos periféricos alimentados pelo descodificador para recepção de emissões, tais como antenas terrestres activas, LNB de satélite ou modems de cabo ou de telecomunicações, não têm de ser incluídos na documentação técnica.\n\n7. Informações a fornecer pelos fabricantes para efeitos de informação aos consumidoresOs fabricantes assegurarão que os consumidores sejam informados do consumo energético dos descodificadores simples em watts, com arredondamento à primeira casa decimal, nos estados de vigília e activo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "d19ef1864cae90d3": {
+   "fragment_id": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "type": "divisao",
+   "heading": "Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Verificação da conformidade dos produtos pelas autoridades de fiscalização do mercado\n\nAs tolerâncias de verificação definidas no presente anexo dizem apenas respeito à verificação, pelas autoridades dos Estados-Membros, dos parâmetros medidos e não podem ser utilizadas pelos fabricantes ou importadores como tolerâncias admitidas para o estabelecimento dos valores constantes da documentação técnica ou para a interpretação desses valores a fim de obter a conformidade ou de comunicar, por quaisquer meios, um melhor nível de desempenho.\n\nQuando da verificação da conformidade do modelo de um produto com os requisitos estabelecidos no presente regulamento, em aplicação do artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem, relativamente aos requisitos referidos no presente anexo, aplicar o seguinte procedimento:\n\n1) As autoridades dos Estados-Membros devem verificar uma só unidade do modelo.\n\n2) Deve considerar-se que o modelo cumpre os requisitos aplicáveis se:\n\na) Os valores indicados na documentação técnica, nos termos do anexo IV, ponto 2, da Diretiva 2009/125/CE (valores declarados), e, quando for caso disso, os valores utilizados para calcular esses valores não forem mais favoráveis para o fabricante ou importador do que os resultados das medições correspondentes efetuadas em conformidade com a alínea g) daquela disposição; e\n\nb) Os valores declarados cumprirem os requisitos estabelecidos no presente regulamento, e a informação necessária relativa aos produtos publicada pelo fabricante ou importador não apresentar valores mais favoráveis para o fabricante ou importador do que os valores declarados; e\n\nc) Quando as autoridades do Estado-Membro procederem ao ensaio da unidade do modelo, os valores determinados (os valores dos parâmetros relevantes medidos no ensaio e os valores calculados a partir dessas medições) se situarem dentro dos limites das respetivas tolerâncias de verificação constantes do quadro 1.\n\n3) Se não se obtiverem os resultados referidos no ponto 2, alíneas a) ou b), deve considerar-se que o modelo não está conforme com o presente regulamento.\n\n4) Se não se obtiver o resultado referido no ponto 2, alínea c), as autoridades dos Estados-Membros devem selecionar para ensaio três unidades adicionais do mesmo modelo.\n\n5) O modelo deve ser considerado conforme com os requisitos aplicáveis se, relativamente a essas três unidades, a média aritmética dos valores determinados estiver conforme com as respetivas tolerâncias de verificação constantes do quadro 1.\n\n6) Se não se obtiver o resultado referido no ponto 5, deve considerar-se que o modelo não está conforme com os requisitos do presente regulamento.\n\n7) As autoridades dos Estados-Membros devem facultar, sem demora, todas as informações relevantes às autoridades dos outros Estados-Membros e à Comissão após ter sido tomada uma decisão de não conformidade do modelo de acordo com o disposto nos pontos 3 e 6.\n\nAs autoridades dos Estados-Membros devem aplicar os métodos de medição e de cálculo estabelecidos no anexo I.\n\nAs autoridades dos Estados-Membros devem aplicar apenas as tolerâncias de verificação que constam do quadro 1 e utilizar apenas o procedimento descrito nos pontos 1 a 7 no que diz respeito aos requisitos referidos no presente anexo. Não podem ser aplicadas outras tolerâncias, como as estabelecidas em normas harmonizadas ou em qualquer outro método de medição.\n\nAs disposições no anexo I, pontos 1 e 2, conforme o caso Tolerâncias de verificação\n\nPara consumos de energia superiores a 1,00 W O valor determinado não pode ser superior ao valor declarado em mais de 10 %.\n\nPara consumos de energia iguais ou inferiores a 1,00 W O valor determinado não pode ser superior ao valor declarado em mais de 0,10 W."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "14726ce0850c1458": {
+   "fragment_id": "Padrões de referência",
+   "type": "divisao",
+   "heading": "Padrões de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Padrões de referência\n\nPara efeitos do Anexo I, parte 3, ponto 2, da Directiva 2005/32/CE, são identificados os seguintes padrões de referência com carácter indicativo, que se referem às melhores tecnologias disponíveis à data de adopção do presente regulamento:\n\n*Descodificador simples sem características suplementares:*\n\n— Estado activo: 4,00 W\n\n— Estado de vigília, excluindo a função de visualização: 0,25 W\n\n— Estado de desactivação: 0 W\n\n*Descodificador simples com disco rígido integrado*\n\n— Estado activo: 10,00 W\n\n— Estado de vigília, excluindo a função de visualização: 0,25 W\n\n— Estado de desactivação: 0 W\n\nEstes padrões foram estabelecidos com base num descodificador simples de configuração básica e provido da função de «desligamento automático» e de um interruptor físico."
+  }
+ }
+}

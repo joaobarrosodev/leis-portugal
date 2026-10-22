@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-20'
+version_history:
+  file: diretiva-ue-2010-40.versoes.json
+  count: 2
+  source_lastmod: '2023-12-20'
+  versions:
+  - date: '2018-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-20'
+    amending: eu:celex:32023L2661:por
+    amending_title: DIRETIVA (UE) 2023/2661 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Domínios prioritários
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Especificações
+    - Altera Artigo 11.º — Regras relativas à responsabilidade
+    - Altera Artigo 12.º — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 4.º-A — Programa de trabalho
+    - Adita Artigo 5. — Aplicação das especificações à implantação dos STI
+    - Adita Artigo 6.º-A — Disponibilidade de dados e implantação de serviços STI
+    - Adita Artigo 7. — Alteração do anexo III
+    - Adita Artigo 7.º-A — Medidas provisórias
+    - Adita Artigo 8. — Normas
+    - Adita Artigo 10. — Regras em matéria de proteção de dados e privacidade
+    - Adita Artigo 10.º-A — Sistema de gestão de credenciais de segurança dos STI-C da UE
+    - Adita Artigo 15. — Procedimento de comité
+    - Adita Artigo 17. — Apresentação de relatórios
+    - Adita Artigo 18.º-A — Reexame
+    - Adita DOMÍNIOS PRIORITÁRIOS
+    - Adita (a que se refere o artigo 2.º)
+    - 'Adita 1. Domínio prioritário I: Serviços STI de informação e mobilidade'
+    - 'Adita 2. Domínio prioritário II: Serviços STI de viagens, transportes e gestão do tráfego'
+    - 'Adita 3. Domínio prioritário III: Serviços STI de segurança rodoviária'
+    - 'Adita 4. Domínio prioritário IV: serviços STI para uma mobilidade cooperativa, conectada e automatizada'
+    - Adita (a que se referem os artigos 5.º, 6.°, 7.° e 8.°)
+    - Adita ANEXO III
+    - Adita Lista dos tipos de dados
+    - Adita ANEXO IV
+    - Adita Lista de serviços STI
+    - Suprime Artigo 5.º — Implantação dos STI
+    - Suprime Artigo 7.º — Actos delegados
+    - Suprime Artigo 8.º — Normas
+    - Suprime Artigo 10.º — Regras relativas à privacidade, à segurança e à reutilização das informações
+    - Suprime Artigo 15.º — Procedimento de comité
+    - Suprime Artigo 17.º — Apresentação de relatórios
+    - Suprime DOMÍNIOS E ACÇÕES PRIORITÁRIOS
+    - Suprime (a que se referem os artigos 2.º e 3.º)
+    - 'Suprime — Domínio prioritário I: Utilização óptima dos dados relativos às vias, ao tráfego e às viagens'
+    - Suprime 1. Especificações para a acção prioritária a)
+    - Suprime 2. Especificações para a acção prioritária b)
 identifiers:
   celex: 32010L0040
   eli: http://data.europa.eu/eli/dir/2010/40/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c2d58141-334a-4cd8-be0f-b9b9840d2efd.0011
   content_url: http://publications.europa.eu/resource/cellar/1fc5c911-c0ea-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0040-20231220
-  retrieved_at: '2026-10-22T02:48:16Z'
+  retrieved_at: '2026-10-22T15:46:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-05T08:26:03.805+02:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:16Z'
-  notes: Texto consolidado 02010L0040-20231220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:46:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2010-40.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -191,30 +244,20 @@ relationships:
   source: null
 article_structure:
   article_count: 23
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:16Z'
-  warnings: []
+  checked_at: '2026-10-22T15:46:38Z'
+  warnings:
+  - '02010L0040-20100806: versão indisponível (Sem expressão na língua por para CELEX 02010L0040-20100806.)'
   errors: []
 ---
 
 # Directiva 2010/40/UE do Parlamento Europeu e do Conselho, de 7 de Julho de 2010
-
-> 02010L0040 — PT — 20.12.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017D2380) — [DECISÃO (UE) 2017/2380 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017D2380) — L 340 — 1 — 20.12.2017
-- [►M2](http://publications.europa.eu/resource/celex/32023L2661) — [DIRETIVA (UE) 2023/2661 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023L2661) — L — 1 — 30.11.2023
-
-## DIRECTIVA 2010/40/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 7 de Julho de 2010
 

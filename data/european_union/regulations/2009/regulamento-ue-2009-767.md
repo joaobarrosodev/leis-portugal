@@ -38,6 +38,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-12-26'
+version_history:
+  file: regulamento-ue-2009-767.versoes.json
+  count: 4
+  source_lastmod: '2018-12-26'
+  versions:
+  - date: '2009-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-01'
+    amending: eu:celex:32010R0568:por
+    amending_title: REGULAMENTO (UE) N. o 568/2010 DA COMISSÃO de 29 de Junho de 2010; REGULAMENTO (UE) N. o 939/2010 DA COMISSÃO
+      de 20 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 11.º — Princípios de rotulagem e apresentação
+    - Altera Artigo 15.º — Requisitos de rotulagem obrigatória gerais
+    - Altera Artigo 17.º — Requisitos de rotulagem obrigatória específicos dos alimentos compostos para animais
+    - Altera Artigo 29.º — Alteração ao Regulamento (CE) n.º 1831/2003
+    - Altera Artigo 33.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Disposições técnicas relativas a impurezas, alimentos substitutos do leite, matérias-primas aglomerantes ou desnaturantes
+      e teores de cinzas e de humidade a que se refere o artigo 4.º
+    - Adita ANEXO II
+    - Adita Disposições gerais de rotulagem a que se refere o n.º 4 do artigo 11.º
+    - Adita ANEXO III
+    - Adita Lista de substâncias cujas colocação no mercado ou utilização na alimentação animal são restritas ou proibidas,
+      nos termos do artigo 6.º
+    - Adita ANEXO IV
+    - Adita Tolerâncias autorizadas aplicáveis à rotulagem da composição de matérias-primas para alimentação animal ou de
+      alimentos compostos para animais nos termos do artigo 11.º, n.º 5
+    - 'Adita Parte A: Tolerâncias para os constituintes analíticos referidos nos anexos I, V, VI e VII'
+    - 'Adita Parte B: Tolerâncias aplicáveis aos aditivos para a alimentação animal rotulados de acordo com os anexos I, V,
+      VI e VII'
+    - Adita ANEXO V
+    - Adita ANEXO VI
+    - Adita Elementos de rotulagem aplicáveis às matérias-primas dos alimentos para animais e alimentos compostos para animais
+      utilizados na alimentação humana
+    - 'Adita Capítulo I: rotulagem de aditivos para alimentação animal a que se refere a alínea f) artigo 15.º e do n.º 1
+      do artigo 22.º'
+    - 'Adita Capítulo II: rotulagem dos constituintes analíticos a que se refere a alínea f) do n.º 1 do artigo 17.º e do
+      n.º 1 do artigo 22.º'
+    - Adita ANEXO VII
+    - Adita Elementos de rotulagem aplicáveis às matérias-primas dos alimentos para animais e alimentos compostos para animais
+      não utilizados na alimentação humana
+    - 'Adita Capítulo I: rotulagem de aditivos para alimentação animal a que se refere a alínea f) do artigo 15.º e do n.º
+      1 do artigo 22.º'
+    - Adita ANEXO VIII
+    - Adita Disposições específicas em matéria de rotulagem de alimentos para animais que não satisfaçam os requisitos do
+      direito comunitário a que se refere o n.º 1 do artigo 20.º
+    - Adita ANEXO IX
+  - date: '2018-01-01'
+    amending: eu:celex:32017R2279:por
+    amending_title: REGULAMENTO (UE) 2017/2279 DA COMISSÃO de 11 de dezembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 11.º — Princípios de rotulagem e apresentação
+    - Altera Artigo 29.º — Alteração ao Regulamento (CE) n.º 1831/2003
+    - Altera Disposições gerais de rotulagem a que se refere o n.º 4 do artigo 11.º
+    - Altera Lista de substâncias cujas colocação no mercado ou utilização na alimentação animal são restritas ou proibidas,
+      nos termos do artigo 6.º
+    - 'Altera Parte A: Tolerâncias para os constituintes analíticos referidos nos anexos I, V, VI e VII'
+    - Altera Disposições específicas em matéria de rotulagem de alimentos para animais que não satisfaçam os requisitos do
+      direito comunitário a que se refere o n.º 1 do artigo 20.º
+    - Altera Notas
+    - Adita Elementos de rotulagem aplicáveis às matérias-primas para alimentação animal e aos alimentos compostos para animais
+      destinados a animais utilizados na alimentação humana
+    - 'Adita Capítulo I: rotulagem obrigatória ou voluntária de aditivos para alimentação animal a que se refere o artigo
+      15.º, alínea f), e o artigo 22.º, n.º 1'
+    - 'Adita Capítulo II: rotulagem dos constituintes analíticos a que se refere o artigo 17.º, n.º 1, alínea f), e o artigo
+      22.º, n.º 1'
+    - Adita Elementos de rotulagem aplicáveis às matérias-primas para alimentação animal e aos alimentos compostos para animais
+      destinados a animais não utilizados na alimentação humana
+    - Suprime Elementos de rotulagem aplicáveis às matérias-primas dos alimentos para animais e alimentos compostos para animais
+      utilizados na alimentação humana
+    - 'Suprime Capítulo I: rotulagem de aditivos para alimentação animal a que se refere a alínea f) artigo 15.º e do n.º
+      1 do artigo 22.º'
+    - 'Suprime Capítulo II: rotulagem dos constituintes analíticos a que se refere a alínea f) do n.º 1 do artigo 17.º e do
+      n.º 1 do artigo 22.º'
+    - Suprime Elementos de rotulagem aplicáveis às matérias-primas dos alimentos para animais e alimentos compostos para animais
+      não utilizados na alimentação humana
+    - 'Suprime Capítulo I: rotulagem de aditivos para alimentação animal a que se refere a alínea f) do artigo 15.º e do n.º
+      1 do artigo 22.º'
+  - date: '2018-12-26'
+    amending: eu:celex:32018R1903:por
+    amending_title: REGULAMENTO (UE) 2018/1903 DA COMISSÃO de 5 de dezembro de 2018
+    changes:
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 11.º — Princípios de rotulagem e apresentação
+    - Altera Artigo 29.º — Alteração ao Regulamento (CE) n.º 1831/2003
+    - Altera Lista de substâncias cujas colocação no mercado ou utilização na alimentação animal são restritas ou proibidas,
+      nos termos do artigo 6.º
+    - 'Altera Parte A: Tolerâncias para os constituintes analíticos referidos nos anexos I, V, VI e VII'
+    - 'Altera Capítulo I: rotulagem obrigatória ou voluntária de aditivos para alimentação animal a que se refere o artigo
+      15.º, alínea f), e o artigo 22.º, n.º 1'
+    - 'Altera Capítulo II: rotulagem dos constituintes analíticos a que se refere o artigo 17.º, n.º 1, alínea f), e o artigo
+      22.º, n.º 1'
+    - Altera Notas
 identifiers:
   celex: 32009R0767
   eli: http://data.europa.eu/eli/reg/2009/767/oj
@@ -52,7 +153,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8ae984e4-562c-48b5-a551-ca6bbd8a5636.0019
   content_url: http://publications.europa.eu/resource/cellar/fc8262cb-2926-11e9-8d04-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0767-20181226
-  retrieved_at: '2026-10-22T03:14:47Z'
+  retrieved_at: '2026-10-22T15:43:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:57:03.186+02:00'
 integrity:
@@ -61,9 +162,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:47Z'
-  notes: Texto consolidado 02009R0767-20181226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:51Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-767.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -410,32 +511,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 33
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:47Z'
+  checked_at: '2026-10-22T15:43:51Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 767/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009R0767 — PT — 26.12.2018 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0568) — [REGULAMENTO (UE) N.º 568/2010 DA COMISSÃO de 29 de Junho de 2010](http://publications.europa.eu/resource/celex/32010R0568) — L 163 — 30 — 30.6.2010
-- [►M2](http://publications.europa.eu/resource/celex/32010R0939) — [REGULAMENTO (UE) N.º 939/2010 DA COMISSÃO de 20 de Outubro de 2010](http://publications.europa.eu/resource/celex/32010R0939) — L 277 — 4 — 21.10.2010
-- [►M3](http://publications.europa.eu/resource/celex/32017R2279) — [REGULAMENTO (UE) 2017/2279 DA COMISSÃO de 11 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2279) — L 328 — 3 — 12.12.2017
-- [►M4](http://publications.europa.eu/resource/celex/32018R1903) — [REGULAMENTO (UE) 2018/1903 DA COMISSÃO de 5 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1903) — L 310 — 22 — 6.12.2018
-
-## REGULAMENTO (CE) N.º 767/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

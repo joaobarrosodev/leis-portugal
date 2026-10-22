@@ -39,6 +39,114 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-06'
+version_history:
+  file: regulamento-ue-2009-661.versoes.json
+  count: 6
+  source_lastmod: '2022-07-06'
+  versions:
+  - date: '2009-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-05-01'
+    amending: eu:celex:32011R0407:por
+    amending_title: REGULAMENTO (UE) N. o 407/2011 DA COMISSÃO de 27 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Requisitos para pneus no que se refere à aderência em pavimento molhado, à resistência ao rolamento e ao ruído
+      de rolamento
+    - Adita PARTE A REQUISITOS DE ADERÊNCIA EM PAVIMENTO MOLHADO
+    - Adita PARTE B REQUISITOS DE RESISTÊNCIA AO ROLAMENTO
+    - Adita PARTE C REQUISITOS DE RUÍDO DE ROLAMENTO
+    - Adita ANEXO III
+    - Adita Alterações à Directiva 2007/46/CE
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Datas de aplicação dos requisitos relativos aos sistemas electrónicos de controlo da estabilidade para os veículos
+      das categorias M2, M3, N2, N3, O3 e O4
+  - date: '2012-07-11'
+    amending: eu:celex:32012R0523:por
+    amending_title: REGULAMENTO (UE) N. o 523/2012 DA COMISSÃO de 20 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera ANEXO IV
+    - Altera Notas
+  - date: '2015-02-24'
+    amending: eu:celex:32015R0166:por
+    amending_title: REGULAMENTO (UE) 2015/166 DA COMISSÃO de 3 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Alterações à Directiva 2007/46/CE
+    - Altera ANEXO IV
+    - Altera Notas
+    - Adita Lista dos regulamentos da UNECE aplicáveis a título obrigatório
+    - 'Adita Notas sobre o quadro:'
+    - Adita Apêndice
+    - Adita Validade e extensão de homologações concedidas ao abrigo das diretivas revogadas pelo presente regulamento
+  - date: '2019-04-24'
+    amending: eu:celex:32016R1004:por
+    amending_title: REGULAMENTO (UE) 2016/1004 DA COMISSÃO de 22 de junho de 2016; REGULAMENTO (UE) 2019/543 DA COMISSÃO de
+      3 de abril de 2019
+    changes:
+    - Altera preambulo
+    - Altera ANEXO I
+    - Altera Lista dos regulamentos da UNECE aplicáveis a título obrigatório
+    - 'Altera Notas sobre o quadro:'
+    - Altera Validade e extensão de homologações concedidas ao abrigo das diretivas revogadas pelo presente regulamento
+    - Adita Âmbito de aplicação dos requisitos referidos nos n.^os^ 1 e 2 do artigo 5.º
+    - Suprime Notas
+  - date: '2022-07-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime OBRIGAÇÕES DOS FABRICANTES
+    - Suprime Artigo 4.º — Obrigações gerais
+    - Suprime Artigo 5.º — Requisitos e ensaios
+    - Suprime Artigo 6.º — Requisitos específicos relativos a determinados veículos das categorias N e O
+    - Suprime Artigo 7.º — Requisitos específicos relativos a determinados veículos das categorias M2 e M3
+    - Suprime Artigo 8.º — Classificação dos pneus
+    - Suprime Artigo 9.º — Disposições específicas relativas aos pneus dos veículos, à montagem dos pneus e aos sistemas de
+      controlo da pressão dos pneus
+    - Suprime Artigo 10.º — Sistemas avançados para veículos
+    - Suprime Artigo 11.º — Indicadores de mudança de velocidades
+    - Suprime Artigo 12.º — Sistemas electrónicos de controlo da estabilidade
+    - Suprime CAPÍTULO III
+    - Suprime OBRIGAÇÕES DOS ESTADOS-MEMBROS
+    - Suprime Artigo 13.º — Homologação de veículos, componentes e unidades técnicas
+    - Suprime CAPÍTULO IV
+    - Suprime EXECUÇÃO
+    - Suprime Artigo 14.º — Medidas de execução
+    - Suprime Artigo 15.º — Procedimento de comité
+    - Suprime CAPÍTULO V
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 16.º — Sanções
+    - Suprime Artigo 17.º — Comunicação de informações
+    - Suprime Artigo 18.º — Alterações à Directiva 2007/46/CE
+    - Suprime Artigo 19.º — Revogação
+    - Suprime Artigo 20.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Âmbito de aplicação dos requisitos referidos nos n.^os^ 1 e 2 do artigo 5.º
+    - Suprime ANEXO II
+    - Suprime Requisitos para pneus no que se refere à aderência em pavimento molhado, à resistência ao rolamento e ao ruído
+      de rolamento
+    - Suprime PARTE A REQUISITOS DE ADERÊNCIA EM PAVIMENTO MOLHADO
+    - Suprime PARTE B REQUISITOS DE RESISTÊNCIA AO ROLAMENTO
+    - Suprime PARTE C REQUISITOS DE RUÍDO DE ROLAMENTO
+    - Suprime ANEXO III
+    - Suprime Alterações à Directiva 2007/46/CE
 identifiers:
   celex: 32009R0661
   eli: http://data.europa.eu/eli/reg/2009/661/oj
@@ -53,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/01173bb1-02fe-4fd5-bb9e-2d45dedcee8a.0019
   content_url: http://publications.europa.eu/resource/cellar/49036eb7-0ebe-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0661-20220706
-  retrieved_at: '2026-10-22T02:59:23Z'
+  retrieved_at: '2026-10-22T15:43:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T16:56:19.404+02:00'
 integrity:
@@ -62,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:23Z'
-  notes: Texto consolidado 02009R0661-20220706.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:11Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2009-661.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -857,16 +965,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:23Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:43:11Z'
+  warnings: []
   errors: []
 ---
 

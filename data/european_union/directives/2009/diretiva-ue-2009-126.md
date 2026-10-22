@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2009-126.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2009-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-12'
+    amending: eu:celex:32014L0099:por
+    amending_title: DIRETIVA 2014/99/UE DA COMISSÃO de 21 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina
+    - Altera Artigo 5.º — Verificações periódicas e informação aos consumidores
+    - Altera Artigo 12.º — Destinatários
+    - Altera Notas
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Adaptações técnicas
+    - Altera Notas
+    - Adita Artigo 8.º-A — Exercício da delegação
+    - Suprime Artigo 9.º — Procedimento de comité
 identifiers:
   celex: 32009L0126
   eli: http://data.europa.eu/eli/dir/2009/126/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4b141db-b0ad-4bf3-942d-e446675bc536.0018
   content_url: http://publications.europa.eu/resource/cellar/2a936b3e-e605-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0126-20190726
-  retrieved_at: '2026-10-22T02:52:42Z'
+  retrieved_at: '2026-10-22T15:39:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T17:47:36.243+02:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:42Z'
-  notes: Texto consolidado 02009L0126-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:39:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-126.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,30 +157,19 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:42Z'
+  checked_at: '2026-10-22T15:39:41Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/126/CE do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009L0126 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0099) — [DIRETIVA 2014/99/UE DA COMISSÃO de 21 de outubro de 2014](http://publications.europa.eu/resource/celex/32014L0099) — L 304 — 89 — 23.10.2014
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2009/126/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

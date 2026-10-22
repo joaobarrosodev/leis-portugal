@@ -1,0 +1,827 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0912:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0912-20210101",
+ "dre_path": null,
+ "source_lastmod": "2021-01-01",
+ "versions": [
+  {
+   "date": "2010-10-20",
+   "future": false,
+   "celex": "32010R0912",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "495cf682ad7615e8",
+    "226c39ffd0a88dad",
+    "585a9ea0e17c4e62",
+    "e8e8d8d6f45fd229",
+    "3c8ab599386c019d",
+    "5d37aad1c42340c0",
+    "861e9f80ac741b54",
+    "ed6ba0b5087e9953",
+    "ddd552e98c453bf2",
+    "8efc4b14c7c31eaf",
+    "cc3d524fd8ccb831",
+    "f0f8c960bfdbce9b",
+    "9e96598d961f9aa6",
+    "5c14c1190f681c90",
+    "1e7a0903d2eed348",
+    "147566c136ff9e70",
+    "bb7d68cce77272ab",
+    "2ceca9a5de024379",
+    "8df0be6c0cc839e1",
+    "1ecfc79da3f1ac7f",
+    "1dfc6d4a419e981d",
+    "1c740320268ee84d",
+    "4fa67e153e5ec485",
+    "c87c939fed5efab3",
+    "40ed6b62e188ac6f",
+    "4f0027fbf9863594",
+    "2f07155fb92c738d",
+    "b789b96e80cf68da",
+    "109ccba20923a21d",
+    "b7702f53badbd11a",
+    "465485ca43276be0",
+    "bc401cae2e4b56b0",
+    "d971d5cb21bd2658",
+    "8865f4d1809f50b0",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "1043e8148d36fca2",
+    "3d17000b787d2c44",
+    "7610bcc5c2660b27",
+    "eb4d7a379386ba26",
+    "68f929768727934b"
+   ]
+  },
+  {
+   "date": "2014-05-23",
+   "future": false,
+   "celex": "02010R0912-20140523",
+   "acts": [
+    {
+     "id": "eu:celex:32014R0512:por",
+     "title": "REGULAMENTO (UE) N. o 512/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de abril de 2014",
+     "published": null,
+     "celex": "32014R0512"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Atribuições",
+    "Altera Artigo 3.º — Órgãos",
+    "Altera Artigo 4.º — Estatuto jurídico, delegações locais",
+    "Altera Artigo 5.º — Conselho de Administração",
+    "Altera Artigo 6.º — Funções do Conselho de Administração",
+    "Altera Artigo 9.º — Acção Comum",
+    "Altera Artigo 10.º — Princípios gerais",
+    "Altera Artigo 11.º — Comité de Acreditação de Segurança",
+    "Altera Artigo 12.º — Função dos Estados-Membros",
+    "Altera Artigo 13.º — Orçamento",
+    "Altera Artigo 14.º — Execução e controlo do orçamento",
+    "Altera Artigo 15.º — Disposições financeiras",
+    "Altera Artigo 17.º — Privilégios e imunidades",
+    "Altera Artigo 20.º — Línguas",
+    "Altera Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+    "Altera Artigo 27.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 7.º — Diretor Executivo",
+    "Adita Artigo 8.º — Funções do Diretor Executivo",
+    "Adita Artigo 8.º-A — Programas de trabalho e relatório anual",
+    "Adita Artigo 11.º-A — Funções do Presidente do Comité de Acreditação de Segurança",
+    "Adita CAPÍTULO IV-A",
+    "Adita RECURSOS HUMANOS",
+    "Adita Artigo 15.º-A — Pessoal",
+    "Adita Artigo 15.º-B — Nomeação e mandato do Diretor Executivo",
+    "Adita Artigo 15.º-C — Peritos nacionais destacados",
+    "Adita Artigo 16.º — Luta contra a fraude",
+    "Adita Artigo 22.º — Regras de segurança relativas à proteção das informações classificadas ou sensíveis",
+    "Adita Artigo 22.º-A — Conflitos de interesses",
+    "Adita Artigo 23.º — Participação de países terceiros e de organizações internacionais",
+    "Adita Artigo 23.º-A — Adjudicação conjunta de contratos públicos com os Estados-Membros",
+    "Adita Artigo 26.º — Revisão, avaliação e auditoria",
+    "Suprime Artigo 7.º — Director Executivo",
+    "Suprime Artigo 8.º — Funções do Director Executivo",
+    "Suprime Artigo 16.º — Medidas antifraude",
+    "Suprime Artigo 18.º — Pessoal",
+    "Suprime Artigo 22.º — Regras de segurança",
+    "Suprime Artigo 23.º — Participação de países terceiros",
+    "Suprime Artigo 26.º — Avaliação"
+   ],
+   "fragments": [
+    "abcd50e34ee7da0b",
+    "226c39ffd0a88dad",
+    "585a9ea0e17c4e62",
+    "e8e8d8d6f45fd229",
+    "0bed6b8bdf01fb38",
+    "8c2a4d8ec179d50a",
+    "59b2e4102c6d5f93",
+    "52e958d380d17165",
+    "5fdead0d22d4e43a",
+    "36b03118da0686c0",
+    "2e697eaff0d3637b",
+    "d145584a19ecbd1b",
+    "f0f8c960bfdbce9b",
+    "9e96598d961f9aa6",
+    "bd11b05dfa2134ef",
+    "1e7a0903d2eed348",
+    "147566c136ff9e70",
+    "caa5daf6692d9527",
+    "b10d61f91eeaa247",
+    "28d36cd803b09fac",
+    "ea61ede1db1db3ac",
+    "1ecfc79da3f1ac7f",
+    "1dfc6d4a419e981d",
+    "1a99dd292f6ab5de",
+    "5c852c730b433c28",
+    "737fdb803586064b",
+    "3e1044d2202019a1",
+    "dac64634a6bed2b1",
+    "79b0b79d838899cc",
+    "3abf35f12b2125fd",
+    "f88ad01234b3f3a8",
+    "40ed6b62e188ac6f",
+    "4f0027fbf9863594",
+    "d8112268018e0c5e",
+    "b78b8231d1e9f755",
+    "b7702f53badbd11a",
+    "6b9f65c91e7b78cb",
+    "b87843fb94764880",
+    "3f53e1cd3cd2f873",
+    "f599647d33fda992",
+    "a0994f4ef35cb4bf",
+    "e239b33f61f28bd9",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "1043e8148d36fca2",
+    "3d17000b787d2c44",
+    "4a1ee9e50f2c7710",
+    "1e961021fb708420",
+    "c83360129dfc07a9"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02010R0912-20210101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO, ATRIBUIÇÕES, ÓRGÃOS",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Atribuições",
+    "Suprime Artigo 3.º — Órgãos",
+    "Suprime Artigo 4.º — Estatuto jurídico, delegações locais",
+    "Suprime Artigo 5.º — Conselho de Administração",
+    "Suprime Artigo 6.º — Funções do Conselho de Administração",
+    "Suprime Artigo 7.º — Diretor Executivo",
+    "Suprime Artigo 8.º — Funções do Diretor Executivo",
+    "Suprime Artigo 8.º-A — Programas de trabalho e relatório anual",
+    "Suprime CAPÍTULO II",
+    "Suprime ASPECTOS RELACIONADOS COM A SEGURANÇA DA UNIÃO EUROPEIA E DOS ESTADOS-MEMBROS",
+    "Suprime Artigo 9.º — Acção Comum",
+    "Suprime CAPÍTULO III",
+    "Suprime ACREDITAÇÃO DE SEGURANÇA DOS SISTEMAS GNSS EUROPEUS",
+    "Suprime Artigo 10.º — Princípios gerais",
+    "Suprime Artigo 11.º — Comité de Acreditação de Segurança",
+    "Suprime Artigo 11.º-A — Funções do Presidente do Comité de Acreditação de Segurança",
+    "Suprime Artigo 12.º — Função dos Estados-Membros",
+    "Suprime CAPÍTULO IV",
+    "Suprime DISPOSIÇÕES ORÇAMENTAIS E FINANCEIRAS",
+    "Suprime Artigo 13.º — Orçamento",
+    "Suprime Artigo 14.º — Execução e controlo do orçamento",
+    "Suprime Artigo 15.º — Disposições financeiras",
+    "Suprime CAPÍTULO IV-A",
+    "Suprime RECURSOS HUMANOS",
+    "Suprime Artigo 15.º-A — Pessoal",
+    "Suprime Artigo 15.º-B — Nomeação e mandato do Diretor Executivo",
+    "Suprime Artigo 15.º-C — Peritos nacionais destacados",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 16.º — Luta contra a fraude",
+    "Suprime Artigo 17.º — Privilégios e imunidades",
+    "Suprime Artigo 19.º — Responsabilidade",
+    "Suprime Artigo 20.º — Línguas",
+    "Suprime Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+    "Suprime Artigo 22.º — Regras de segurança relativas à proteção das informações classificadas ou sensíveis",
+    "Suprime Artigo 22.º-A — Conflitos de interesses",
+    "Suprime Artigo 23.º — Participação de países terceiros e de organizações internacionais",
+    "Suprime Artigo 23.º-A — Adjudicação conjunta de contratos públicos com os Estados-Membros",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 24.º — Alterações ao Regulamento (CE) n.º 683/2008",
+    "Suprime Artigo 25.º — Revogação e validade das medidas aprovadas",
+    "Suprime Artigo 26.º — Revisão, avaliação e auditoria",
+    "Suprime Artigo 27.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e486afe86337925c"
+   ]
+  }
+ ],
+ "fragments": {
+  "495cf682ad7615e8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 2010\n\nque cria a Agência do GNSS Europeu, revoga o Regulamento (CE) n.º 1321/2004 do Conselho relativo às estruturas de gestão dos programas europeus de radionavegação por satélite e altera o Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 172.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr1-L_2010276PT.01001101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr2-L_2010276PT.01001101-E0002),\n\nConsiderando o seguinte:\n\n(1) A política europeia de radionavegação por satélite é actualmente executada pelos programas EGNOS e GALILEO (a seguir designados «programas»).\n\n(2) O Regulamento (CE) n.º 1321/2004 do Conselho, de 12 de Julho de 2004, relativo às estruturas de gestão dos programas europeus de radionavegação por satélite [([^3])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr3-L_2010276PT.01001101-E0003), criou uma agência comunitária denominada Autoridade Supervisora do GNSS Europeu (a seguir designada «Autoridade»).\n\n(3) O Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, relativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNOS e Galileo) [([^4])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr4-L_2010276PT.01001101-E0004), define o novo quadro da governação pública e do financiamento dos programas. Nele se prevê o princípio de uma rigorosa repartição de responsabilidades entre a União Europeia, representada pela Comissão, a Autoridade e a Agência Espacial Europeia (a seguir designada «AEE»), confiando à Comissão a responsabilidade pela gestão dos programas e as atribuições inicialmente confiadas à Autoridade. Além disso, o referido regulamento prevê que a Autoridade exerça as atribuições que lhe são confiadas respeitando o papel da Comissão enquanto gestora dos programas e de acordo com as orientações emitidas por esta última.\n\n(4) No Regulamento (CE) n.º 683/2008, o Parlamento Europeu e o Conselho convidaram a Comissão a apresentar uma proposta destinada a adaptar formalmente as estruturas de gestão dos programas, previstas no Regulamento (CE) n.º 1321/2004, às novas missões confiadas à Comissão e à Autoridade pelo Regulamento (CE) n.º 683/2008.\n\n(5) Tendo em conta a redução do seu âmbito de actividade, a Autoridade não deverá continuar a chamar-se Autoridade Supervisora do GNSS Europeu, mas sim Agência do GNSS Europeu (a seguir designada «Agência»). No entanto, a Agência deverá assegurar a continuidade das actividades da Autoridade, nomeadamente no que respeita aos direitos e obrigações, ao pessoal e à validade de todas as decisões tomadas.\n\n(6) Os objectivos do Regulamento (CE) n.º 1321/2004 deverão também ser adaptados, de forma a ter em conta que a Agência deixa de ser responsável pela gestão dos interesses públicos relativos aos programas do Sistema Global de Navegação por Satélite (GNSS) Europeu e pela regulação desses programas.\n\n(7) O estatuto jurídico da Agência deverá permitir-lhe agir como pessoa colectiva no exercício das suas atribuições.\n\n(8) Importa também alterar as atribuições da Agência e, a este respeito, garantir que as mesmas sejam definidas em conformidade com as atribuições constantes do artigo 16.º do Regulamento (CE) n.º 683/2008, incluindo a possibilidade de exercer outras actividades que possam ser-lhe confiadas pela Comissão, a fim de prestar apoio a esta na execução dos programas. Nos termos da alínea b) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^5])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr5-L_2010276PT.01001101-E0005), as referidas actividades incluem, por exemplo, o acompanhamento e desenvolvimento de processos de coordenação e consulta em matéria de segurança, a realização de actividades de investigação necessárias para o desenvolvimento e a promoção dos programas e a prestação de assistência ao desenvolvimento e à execução do projecto-piloto relativo ao serviço denominado *Public Regulated Service* (PRS).\n\n(9) No seu âmbito, nos seus objectivos e no exercício das suas atribuições, a Agência deverá cumprir nomeadamente as disposições legais aplicáveis às instituições da União.\n\n(10) Além disso, no contexto da avaliação intercalar do programa Galileo, prevista para 2010 nos termos do artigo 22.º do Regulamento (CE) n.º 683/2008, a Comissão deverá também abordar a questão da governação dos programas na fase operacional e de exploração, bem como o papel da Agência neste âmbito.\n\n(11) A fim de assegurar eficazmente o exercício das atribuições da Agência, os Estados-Membros e a Comissão deverão estar representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, estabelecer procedimentos transparentes para a tomada de decisões pela Agência, aprovar o programa de trabalho e nomear o Director Executivo.\n\n(12) É igualmente adequada a presença de um representante do Parlamento Europeu no Conselho de Administração, na qualidade de membro sem direito de voto, dado o Regulamento (CE) n.º 683/2008 salientar o interesse de uma cooperação estreita entre o Parlamento Europeu, o Conselho e a Comissão.\n\n(13) Acresce que, para garantir que a Agência exerça as suas atribuições respeitando o papel da Comissão enquanto gestora dos programas e de acordo com as orientações emitidas por esta última, importa mencionar expressamente que a Agência deverá ser gerida por um Director Executivo, sob a supervisão do Conselho de Administração, de acordo com as orientações fornecidas à Agência pela Comissão. Importa igualmente especificar que a Comissão deverá dispor de cinco representantes no Conselho de Administração e que as decisões relativas a um número limitado de funções do mesmo não podem ser aprovadas sem o voto a favor dos representantes da Comissão.\n\n(14) O bom funcionamento da Agência exige que o seu Director Executivo seja nomeado com base no mérito e em capacidades administrativas e de gestão documentadas, bem como na competência e na experiência relevantes, e que desempenhe as suas funções com total independência e flexibilidade no que se refere à organização do funcionamento interno da Agência. Exceptuando certas actividades e medidas ligadas à acreditação de segurança, o Director Executivo deverá preparar e efectuar as diligências necessárias para assegurar a correcta concretização do programa de trabalho da Agência, elaborar anualmente um projecto de relatório geral a apresentar ao Conselho de Administração, elaborar um projecto de previsão de receitas e despesas da Agência e dar execução ao orçamento.\n\n(15) O Conselho de Administração deverá ter poderes para tomar todas as decisões necessárias que assegurem que a Agência possa exercer correctamente as suas atribuições, com excepção das atribuições relativas à acreditação de segurança, que deverão ser confiadas a um Comité de Acreditação de Segurança dos Sistemas GNSS Europeus (a seguir designado «Comité de Acreditação de Segurança»). No que respeita a essas atribuições relativas à acreditação, o Conselho de Administração deverá ser responsável apenas em matéria de recursos e orçamento. Para uma boa governação dos programas, é também necessário que as funções do Conselho de Administração se coadunem com as novas missões conferidas à Agência ao abrigo do artigo 16.º do Regulamento (CE) n.º 683/2008, nomeadamente no que se refere ao funcionamento do centro de segurança Galileo e às instruções dadas ao abrigo da Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, sobre os aspectos da exploração do sistema europeu de radionavegação por satélite que afectem a segurança da União Europeia [([^6])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr6-L_2010276PT.01001101-E0006).\n\n(16) Os procedimentos de nomeação dos titulares dos cargos deverão ser transparentes.\n\n(17) Atendendo ao leque de atribuições confiado à Agência, entre as quais a acreditação de segurança, o Comité Científico e Técnico criado pelo artigo 9.º do Regulamento (CE) n.º 1321/2004 deverá ser suprimido e o Comité para a Segurança e a Protecção do Sistema, criado pelo artigo 10.º do mesmo regulamento, deverá ser substituído pelo Comité de Acreditação de Segurança, que será responsável pelos trabalhos de acreditação de segurança e composto por representantes dos Estados-Membros e da Comissão. O Alto Representante para os Negócios Estrangeiros e a Política de Segurança (a seguir designado «AR») e a AEE deverão desempenhar um papel de observadores no Comité de Acreditação de Segurança.\n\n(18) As actividades de acreditação de segurança deverão ser exercidas de forma independente das autoridades gestoras dos programas, nomeadamente da Comissão, dos outros órgãos da Agência, da AEE e das demais entidades responsáveis pela aplicação de disposições relativas à segurança. A fim de assegurar a referida independência, o Comité de Acreditação de Segurança deverá ser estabelecido enquanto autoridade de acreditação no respeitante à segurança dos sistemas GNSS europeus (a seguir designados «sistemas») e dos receptores com tecnologia PRS. O Comité de Acreditação de Segurança deverá ser um órgão autónomo, integrado na Agência, que tome as suas decisões de modo independente e objectivo no interesse dos cidadãos.\n\n(19) Dado que compete à Comissão, nos termos do Regulamento (CE) n.º 683/2008, gerir todos os aspectos relacionados com a segurança dos sistemas, e para assegurar uma gestão eficiente das questões de segurança e o respeito do princípio de uma rigorosa repartição de responsabilidades previsto naquele regulamento, é primordial que as actividades do Comité de Acreditação de Segurança se limitem estritamente às acções de acreditação de segurança dos sistemas e não interfiram, em caso algum, com as atribuições confiadas à Comissão por força do artigo 13.º do Regulamento (CE) n.º 683/2008.\n\n(20) As decisões tomadas pela Comissão de acordo com procedimentos que impliquem o Comité dos Programas GNSS Europeus não afectam as regras vigentes em matéria orçamental ou a competência específica dos Estados-Membros em matéria de segurança.\n\n(21) Nos termos do n.º 4 do artigo 13.º do Regulamento (CE) n.º 683/2008, caso a segurança da União ou dos Estados-Membros possa ser afectada pela operação dos sistemas, aplicam-se os procedimentos previstos na Acção Comum 2004/552/PESC. Em particular, em caso de ameaça à segurança da União ou de um Estado-Membro decorrente da operação ou utilização dos sistemas, ou em caso de ameaça à operação dos sistemas resultante, nomeadamente, de uma crise internacional, o Conselho poderá, por unanimidade, decidir das instruções a dar à Agência e à Comissão. Qualquer membro do Conselho, o AR ou a Comissão podem requerer a realização de um debate no Conselho com vista a alcançar um acordo relativamente a tais instruções.\n\n(22) Em conformidade com o princípio da subsidiariedade, as decisões de acreditação de segurança deverão, segundo o processo definido na estratégia de acreditação de segurança, basear-se em decisões de acreditação de segurança locais tomadas pelas autoridades de acreditação de segurança respectivas dos Estados-Membros.\n\n(23) A fim de poder exercer todas as suas actividades de forma rápida e eficaz, o Comité de Acreditação de Segurança deverá poder criar órgãos subordinados apropriados que ajam de acordo com as suas instruções. Assim, deverá criar um Painel, para o assistir na preparação das suas decisões, e uma Autoridade de Distribuição Criptográfica, para a gestão e preparação de material criptográfico, incluindo uma Célula de Chaves de Voo, dedicada à gestão das chaves de voo operacionais para os lançamentos, bem como, se necessário, outros órgãos responsáveis por questões específicas. Simultaneamente, importa ter em especial consideração a necessária continuidade dos trabalhos realizados nesses órgãos.\n\n(24) Importa ainda que as actividades de acreditação de segurança sejam coordenadas com a actividade das autoridades gestoras dos programas e das outras entidades responsáveis pela aplicação de disposições relativas à segurança.\n\n(25) Atendendo à especificidade e complexidade dos sistemas, é indispensável que as actividades de acreditação de segurança sejam levadas a cabo num contexto de responsabilidade colectiva pela segurança da União e dos Estados-Membros, envidando esforços para reunir consensos e envolver todas as partes interessadas na segurança, e que seja efectuado um acompanhamento permanente dos riscos. É também imperativo que os trabalhos técnicos de acreditação de segurança sejam confiados a profissionais devidamente qualificados para acreditar sistemas complexos e que disponham de credenciação de segurança adequada.\n\n(26) Para que o Comité de Acreditação de Segurança possa cumprir as suas funções, é também conveniente prever que os Estados-Membros lhe transmitam toda a documentação necessária, permitam o acesso das pessoas devidamente autorizadas às informações classificadas e a todas as áreas sob a sua jurisdição e sejam responsáveis, no plano local, pela acreditação de segurança das áreas localizadas no seu território.\n\n(27) Os sistemas criados no âmbito dos programas são infra-estruturas cuja utilização ultrapassa largamente as fronteiras nacionais dos Estados-Membros, implantadas enquanto redes transeuropeias na acepção do artigo 172.º do Tratado sobre o Funcionamento da União Europeia. Além disso, os serviços prestados por intermédio desses sistemas contribuem para o desenvolvimento das redes transeuropeias no domínio das infra-estruturas de transportes, telecomunicações e energia.\n\n(28) A Comissão deverá proceder à avaliação das implicações orçamentais do financiamento da Agência para a rubrica de despesas em questão. Com base nessas informações e sem prejuízo do processo legislativo aplicável, os dois ramos da autoridade orçamental deverão celebrar, em tempo útil e no quadro da cooperação orçamental, um acordo relativo ao financiamento da Agência. O procedimento orçamental da União aplica-se à contribuição da União imputável ao orçamento geral da União Europeia. Além disso, a revisão das contas deverá ser realizada pelo Tribunal de Contas Europeu, nos termos do título VIII do Regulamento (CE, Euratom) n.º 1605/2002.\n\n(29) A Agência deverá aplicar a legislação da União relativa ao acesso do público a documentos e à protecção das pessoas relativamente ao tratamento de dados de carácter pessoal. Deverá respeitar também os princípios de segurança aplicáveis ao Conselho e aos serviços da Comissão.\n\n(30) Os países terceiros deverão poder participar na Agência, desde que celebrem previamente um acordo nesse sentido com a União, nomeadamente se esses países tiverem participado nas fases precedentes do programa Galileo através da sua contribuição para o programa Galileosat da AEE.\n\n(31) Atendendo a que os objectivos do presente regulamento, a saber, a criação e a garantia do funcionamento de uma agência com responsabilidade, em particular, pela acreditação de segurança dos sistemas, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à sua dimensão e aos seus efeitos, ser mais bem alcançados ao nível da União, esta pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos.\n\n(32) Uma vez que o nome da Agência vai sofrer alterações, o Regulamento (CE) n.º 683/2008 deverá ser alterado no mesmo sentido.\n\n(33) No Regulamento (CE) n.º 1321/2004 foram já introduzidas alterações. Tendo em conta as alterações ora introduzidas, é conveniente, por razões de clareza, revogar aquele regulamento e substituí-lo por um novo regulamento,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "585a9ea0e17c4e62": {
+   "fragment_id": "OBJECTO, ATRIBUIÇÕES, ÓRGÃOS",
+   "type": "divisao",
+   "heading": "OBJECTO, ATRIBUIÇÕES, ÓRGÃOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO, ATRIBUIÇÕES, ÓRGÃOS"
+  },
+  "e8e8d8d6f45fd229": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento cria uma agência da União denominada Agência do GNSS Europeu (a seguir designada «Agência»)."
+  },
+  "3c8ab599386c019d": {
+   "fragment_id": "Artigo 2.º — Atribuições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nAs atribuições da Agência são as descritas no artigo 16.º do Regulamento (CE) n.º 683/2008."
+  },
+  "5d37aad1c42340c0": {
+   "fragment_id": "Artigo 3.º — Órgãos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nOs órgãos da Agência são o Conselho de Administração, o Comité de Acreditação de Segurança dos Sistemas GNSS Europeus e o Director Executivo. No desempenho das suas funções, os órgãos da Agência respeitam as orientações emitidas pela Comissão, nos termos do artigo 16.º do Regulamento (CE) n.º 683/2008."
+  },
+  "861e9f80ac741b54": {
+   "fragment_id": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estatuto jurídico, delegações locais\n\n1. A Agência é um organismo da União. A Agência tem personalidade jurídica.\n\n2. Em cada um dos Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pela legislação nacional. Pode, designadamente, adquirir e alienar bens móveis e imóveis e estar em juízo.\n\n3. A Agência pode decidir criar delegações locais nos Estados-Membros, com o assentimento destes, ou em países terceiros que participem nos trabalhos da Agência nos termos do artigo 23.º.\n\n4. Sem prejuízo do n.º 9 do artigo 11.º, a Agência é representada pelo seu Director Executivo."
+  },
+  "ed6ba0b5087e9953": {
+   "fragment_id": "Artigo 5.º — Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de Administração\n\n1. É criado um Conselho de Administração para desempenhar as funções enumeradas no artigo 6.º.\n\n2. O Conselho de Administração é composto por um representante nomeado por cada Estado-Membro, cinco representantes nomeados pela Comissão e um representante sem direito de voto nomeado pelo Parlamento Europeu. O mandato dos membros do Conselho de Administração tem uma duração de cinco anos. O mandato pode ser renovado por um período máximo de cinco anos. Um representante do AR e um representante da AEE são convidados a participar como observadores nas reuniões do Conselho de Administração.\n\n3. Se for caso disso, a participação de representantes de países terceiros, bem como as condições dessa participação, é estabelecida nos convénios a que se refere o artigo 23.º.\n\n4. O Conselho de Administração elege de entre os seus membros um Presidente e um Vice-Presidente. O Vice-Presidente substitui automaticamente o Presidente em caso de impedimento deste. O mandato do Presidente e do Vice-Presidente é de dois anos e meio, sendo renovável por uma vez, e termina no momento em que deixarem de ser membros do Conselho de Administração.\n\n5. O Conselho de Administração reúne-se por convocação do seu Presidente.\n\nO Director Executivo toma geralmente parte nas deliberações, salvo decisão do Presidente em contrário.\n\nO Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Pode também reunir-se por iniciativa do seu Presidente ou a pedido de pelo menos um terço dos seus membros.\n\nO Conselho de Administração pode convidar qualquer pessoa cujo parecer tenha interesse a assistir às suas reuniões na qualidade de observador. Os membros do Conselho de Administração podem, nos termos do seu regulamento interno, ser assistidos por conselheiros ou peritos.\n\nO secretariado do Conselho de Administração é assegurado pela Agência.\n\n6. Salvo disposição em contrário do presente regulamento, o Conselho de Administração delibera por maioria de dois terços dos seus membros.\n\n7. Cada um dos representantes dos Estados-Membros e da Comissão dispõe de um voto. As decisões baseadas nas alíneas b) e e) do artigo 6.º não podem ser aprovadas sem o voto a favor dos representantes da Comissão. O Director Executivo não participa na votação.\n\nO regulamento interno do Conselho de Administração estabelece disposições de voto mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por outro."
+  },
+  "ddd552e98c453bf2": {
+   "fragment_id": "Artigo 6.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções do Conselho de Administração\n\nO Conselho de Administração assegura que a Agência exerça as atribuições que lhe são confiadas nas condições definidas pelo presente regulamento e toma todas as decisões necessárias para esse fim. No que respeita às actividades e decisões de acreditação de segurança a que se refere o Capítulo III, o Conselho de Administração é responsável apenas em matéria de recursos e orçamento. Além disso, o Conselho de Administração:\n\na) Nomeia o Director Executivo, nos termos do n.º 2 do artigo 7.º;\n\nb) Aprova todos os anos, até 15 de Novembro e após ter recebido o parecer da Comissão, o programa de trabalho da Agência para o ano seguinte;\n\nc) Exerce as suas funções em relação ao orçamento da Agência, nos termos dos artigos 13.º e 14.º;\n\nd) Fiscaliza o funcionamento do centro de segurança Galileo (a seguir designado «Centro Galileo de Acompanhamento de Segurança» ou «CGAS»), nos termos da subalínea ii) da alínea a) do artigo 16.º do Regulamento (CE) n.º 683/2008;\n\ne) Exerce o poder disciplinar sobre o Director Executivo;\n\nf) Aprova as disposições especiais necessárias à aplicação do direito de acesso aos documentos da Agência, nos termos do artigo 21.º;\n\ng) Aprova o relatório anual sobre as actividades e as perspectivas da Agência e transmite-o, até 1 de Julho, aos Estados-Membros, ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e ao Comité Económico e Social Europeu; a Agência comunica à autoridade orçamental todas as informações relevantes para o resultado dos procedimentos de avaliação;\n\nh) Aprova o seu regulamento interno."
+  },
+  "8efc4b14c7c31eaf": {
+   "fragment_id": "Artigo 7.º — Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director Executivo\n\n1. A Agência é gerida pelo seu Director Executivo, que exerce as suas funções sob a supervisão do Conselho de Administração.\n\n2. O Director Executivo é nomeado pelo Conselho de Administração com base no mérito e em capacidades administrativas e de gestão documentadas, bem como na competência e experiência relevantes, de entre uma lista de pelo menos três candidatos propostos pela Comissão, após um concurso aberto na sequência da publicação de um convite à manifestação de interesse publicado no *Jornal Oficial da União Europeia* e noutros meios de comunicação. O Conselho de Administração toma a decisão de nomeação do Director Executivo por maioria de três quartos dos seus membros.\n\nO Conselho de Administração tem o poder de exonerar o Director Executivo, devendo a decisão de exoneração ser aprovada por maioria de três quartos dos seus membros\n\nO mandato do Director Executivo tem uma duração de cinco anos. Pode ser renovado uma vez por igual período.\n\n3. O Parlamento Europeu ou o Conselho podem convidar o Director Executivo a apresentar um relatório sobre o desempenho das suas funções e a fazer uma declaração perante essas instituições."
+  },
+  "cc3d524fd8ccb831": {
+   "fragment_id": "Artigo 8.º — Funções do Director Executivo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Funções do Director Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funções do Director Executivo\n\nO Director Executivo:\n\na) É responsável por representar a Agência, com excepção do que respeita às actividades exercidas e às decisões tomadas nos termos do disposto nos Capítulos II e III, e está encarregado da sua gestão;\n\nb) Prepara os trabalhos do Conselho de Administração. Participa, sem direito de voto, nos trabalhos do Conselho de Administração;\n\nc) É responsável pela execução do programa de trabalho anual da Agência sob o controlo do Conselho de Administração;\n\nd) Toma todas as medidas necessárias, nomeadamente através da aprovação de instruções administrativas internas e da publicação de comunicações, para assegurar o funcionamento da Agência de acordo com o disposto no presente regulamento;\n\ne) Elabora a previsão das receitas e despesas da Agência, nos termos do artigo 13.º, e executa o orçamento, nos termos do artigo 14.º;\n\nf) Elabora anualmente um projecto de relatório geral que submete ao Conselho de Administração;\n\ng) Assegura que a Agência, na qualidade de operadora do CGAS, possa dar resposta às instruções que receba nos termos da Acção Comum 2004/552/PESC;\n\nh) Define a estrutura organizativa da Agência e submete-a ao Conselho de Administração para aprovação;\n\ni) Exerce, em relação ao pessoal, os poderes previstos no artigo 18.º;\n\nj) Pode tomar, após aprovação pelo Conselho de Administração, as medidas necessárias para estabelecer delegações locais nos Estados-Membros, nos termos do artigo 4.º;\n\nk) Assegura a disponibilização de um secretariado e de todos os recursos necessários ao bom funcionamento do Comité de Acreditação de Segurança e dos órgãos criados sob a responsabilidade deste a que se refere o n.º 11 do artigo 11.º."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "9e96598d961f9aa6": {
+   "fragment_id": "ASPECTOS RELACIONADOS COM A SEGURANÇA DA UNIÃO EUROPEIA E DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "ASPECTOS RELACIONADOS COM A SEGURANÇA DA UNIÃO EUROPEIA E DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASPECTOS RELACIONADOS COM A SEGURANÇA DA UNIÃO EUROPEIA E DOS ESTADOS-MEMBROS"
+  },
+  "5c14c1190f681c90": {
+   "fragment_id": "Artigo 9.º — Acção Comum",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acção Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acção Comum\n\n1. Nos termos do n.º 4 do artigo 13.º do Regulamento (CE) n.º 683/2008, caso a segurança da União ou dos Estados-Membros possa ser afectada pela operação dos sistemas, aplicam-se os procedimentos previstos na Acção Comum 2004/552/PESC.\n\n2. As decisões de acreditação de segurança tomadas nos termos do Capítulo III, bem como os riscos residuais identificados, são comunicados pela Comissão ao Conselho, para conhecimento."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "147566c136ff9e70": {
+   "fragment_id": "ACREDITAÇÃO DE SEGURANÇA DOS SISTEMAS GNSS EUROPEUS",
+   "type": "divisao",
+   "heading": "ACREDITAÇÃO DE SEGURANÇA DOS SISTEMAS GNSS EUROPEUS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACREDITAÇÃO DE SEGURANÇA DOS SISTEMAS GNSS EUROPEUS"
+  },
+  "bb7d68cce77272ab": {
+   "fragment_id": "Artigo 10.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\nAs actividades de acreditação de segurança a que se refere o presente capítulo são exercidas de acordo com os seguintes princípios:\n\na) As actividades e decisões de acreditação de segurança inserem-se no contexto da responsabilidade colectiva pela segurança da União e dos Estados-Membros;\n\nb) Devem ser desenvolvidos esforços no sentido de chegar a decisões por consenso e com a participação de todas as partes interessadas na segurança;\n\nc) As funções devem ser desempenhadas sem prejuízo das regras de segurança aplicáveis ao Conselho e à Comissão [([^7])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr7-L_2010276PT.01001101-E0007);\n\nd) Um processo de acompanhamento permanente permite assegurar que os riscos de segurança sejam conhecidos, que as medidas de segurança sejam definidas por forma a reduzir estes riscos a um nível aceitável de acordo com os princípios básicos e as normas mínimas estabelecidos nas regras de segurança aplicáveis ao Conselho e à Comissão e que essas medidas sejam aplicadas de acordo com o conceito de «defesa em profundidade». A eficácia dessas medidas está sujeita a avaliação contínua;\n\ne) As decisões de acreditação de segurança devem, segundo o processo definido na estratégia de acreditação de segurança, basear-se em decisões de acreditação de segurança locais tomadas pelas autoridades de acreditação de segurança respectivas dos Estados-Membros;\n\nf) As actividades técnicas de acreditação de segurança devem ser confiadas a profissionais devidamente qualificados para a acreditação de sistemas complexos e que disponham de uma credenciação de segurança ao nível adequado, os quais devem agir de forma objectiva;\n\ng) As decisões de acreditação de segurança devem ser tomadas independentemente da Comissão, sem prejuízo do artigo 3.º, e das entidades responsáveis pela execução dos programas. Por conseguinte, a autoridade de acreditação de segurança dos sistemas GNSS europeus deve ser, no quadro da Agência, um órgão autónomo que toma as suas decisões de modo independente;\n\nh) As actividades de acreditação de segurança devem ser exercidas conciliando o requisito da independência e a necessidade de uma coordenação adequada entre a Comissão e as entidades responsáveis pela aplicação das disposições relativas à segurança."
+  },
+  "2ceca9a5de024379": {
+   "fragment_id": "Artigo 11.º — Comité de Acreditação de Segurança",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comité de Acreditação de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comité de Acreditação de Segurança\n\n1. É criado no âmbito da Agência um Comité de Acreditação de Segurança dos Sistemas GNSS Europeus (a seguir designado «Comité de Acreditação de Segurança»). Relativamente aos sistemas GNSS europeus, o Comité de Acreditação de Segurança desempenha as funções da autoridade de acreditação de segurança a que se referem as regras de segurança aplicáveis ao Conselho e à Comissão.\n\n2. O Comité de Acreditação de Segurança exerce as atribuições confiadas à Agência em matéria de acreditação de segurança nos termos da subalínea i) da alínea a) do artigo 16.º do Regulamento (CE) n.º 683/2008 e toma as «decisões de acreditação de segurança» previstas no presente artigo, nomeadamente a aprovação da estratégia de acreditação de segurança e do lançamento de satélites, a autorização para fazer funcionar os sistemas nas suas diferentes configurações e para os diferentes serviços, a autorização para gerir as estações terrestres, nomeadamente as estações de sensores localizadas em países terceiros, e a autorização para fabricar receptores com tecnologia PRS e respectivos componentes.\n\n3. A acreditação de segurança dos sistemas pelo Comité de Acreditação de Segurança consiste na verificação da conformidade dos sistemas com os requisitos de segurança referidos no artigo 13.º do Regulamento (CE) n.º 683/2008 de acordo com as regras de segurança relevantes e a regulamentação aplicáveis ao Conselho e à Comissão.\n\n4. Com base nos relatórios de risco referidos no n.º 11 do presente artigo, o Comité de Acreditação de Segurança informa a Comissão da sua avaliação de risco e aconselha-a relativamente às opções para o tratamento de riscos residuais no âmbito de uma dada decisão de acreditação de segurança.\n\n5. A Comissão mantém o Comité de Acreditação de Segurança permanentemente informado do impacto das suas eventuais decisões na correcta execução dos programas e na execução de planos de tratamento dos riscos residuais. O Comité de Acreditação de Segurança toma nota de todos os pareceres emitidos pela Comissão nesta matéria.\n\n6. As decisões do Comité de Acreditação de Segurança são dirigidas à Comissão.\n\n7. O Comité de Acreditação de Segurança é composto por um representante de cada Estado-Membro, um representante da Comissão e um representante do AR. Um representante da AEE é convidado a participar como observador nas reuniões do Comité de Acreditação de Segurança.\n\n8. O Comité de Acreditação de Segurança aprova o seu regulamento interno e nomeia o seu Presidente.\n\n9. O Presidente do Comité de Acreditação de Segurança é responsável por representar a Agência na medida em que, nos termos do artigo 8.º, o Director Executivo o não seja.\n\n10. O Comité de Acreditação de Segurança tem acesso a todos os recursos humanos e materiais necessários para poder desempenhar de forma adequada as suas funções de apoio administrativo e para, juntamente com os órgãos referidos no n.º 11, desempenhar com independência as suas funções, nomeadamente o tratamento de ficheiros, a iniciação e acompanhamento de procedimentos de segurança e a execução de auditorias de segurança dos sistemas, a preparação de decisões e a organização das suas reuniões.\n\n11. O Comité de Acreditação de Segurança cria órgãos subordinados especiais, que devem agir de acordo com as suas instruções, para tratar de questões específicas. Em particular, e assegurando simultaneamente a continuidade dos trabalhos, cria:\n\n— um Painel para efectuar revisões e testes de análise da segurança com vista à elaboração dos relatórios de risco relevantes, para o assistir na preparação das suas decisões,\n\n— uma Autoridade de Distribuição Criptográfica (ADC) para assistir o Comité de Acreditação de Segurança, nomeadamente em questões relacionadas com chaves de voo.\n\n12. Caso não seja possível chegar a um consenso acerca dos princípios gerais a que se refere o artigo 10.º do presente regulamento, o Comité de Acreditação de Segurança toma as suas decisões deliberando por maioria, nos termos do artigo 16.º do Tratado da União Europeia e sem prejuízo do artigo 9.º do presente regulamento. O representante da Comissão e o representante do AR não participam na votação. O presidente do Comité de Acreditação de Segurança assina, em nome do Comité de Acreditação de Segurança, as decisões por este aprovadas.\n\n13. A Comissão mantém o Parlamento Europeu e o Conselho informados, sem atrasos injustificados, do impacto da aprovação de decisões de acreditação de segurança na correcta execução dos programas. Se a Comissão considerar que uma decisão tomada pelo Comité de Acreditação de Segurança pode ter um efeito significativo na correcta execução dos programas, por exemplo em termos de custos e calendário, informa imediatamente o Parlamento Europeu e o Conselho.\n\n14. Tendo em conta os pareceres do Parlamento Europeu e do Conselho, que deverão ser emitidos no prazo de um mês, a Comissão pode tomar quaisquer medidas adequadas nos termos do Regulamento (CE) n.º 683/2008.\n\n15. O Conselho de Administração é informado periodicamente sobre o andamento dos trabalhos do Comité de Acreditação de Segurança.\n\n16. O calendário dos trabalhos do Comité de Acreditação de Segurança respeita o programa de trabalho da Comissão em matéria de GNSS."
+  },
+  "8df0be6c0cc839e1": {
+   "fragment_id": "Artigo 12.º — Função dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Função dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Função dos Estados-Membros\n\nOs Estados-Membros:\n\na) Transmitem ao Comité de Acreditação de Segurança todas as informações que considerem relevantes para efeitos da acreditação de segurança;\n\nb) Permitem às pessoas devidamente autorizadas nomeadas pelo Comité de Acreditação de Segurança o acesso a todas as informações classificadas e a todas as áreas e locais relacionados com a segurança dos sistemas sob a sua jurisdição, em conformidade com as respectivas disposições legais e regulamentares nacionais e sem qualquer discriminação em razão da nacionalidade, nomeadamente para efeitos de auditorias e ensaios de segurança decididos pelo Comité de Acreditação de Segurança;\n\nc) São cada um deles responsáveis pela elaboração de um modelo de controlo do acesso, que defina ou enumere as áreas e locais que devam ser sujeitos a acreditação e que deve ser previamente acordado entre os Estados-Membros e o Comité de Acreditação de Segurança, assegurando desse modo que o mesmo nível de controlo de acesso seja dado por todos os Estados-Membros;\n\nd) São responsáveis, no plano local, pela acreditação de segurança das áreas localizadas no seu território que façam parte do perímetro de acreditação de segurança dos sistemas GNSS europeus e, para o efeito, apresentam relatórios ao Comité de Acreditação de Segurança."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "1dfc6d4a419e981d": {
+   "fragment_id": "DISPOSIÇÕES ORÇAMENTAIS E FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ORÇAMENTAIS E FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ORÇAMENTAIS E FINANCEIRAS"
+  },
+  "1c740320268ee84d": {
+   "fragment_id": "Artigo 13.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Orçamento\n\n1. Sem prejuízo de outros recursos e taxas a definir, as receitas da Agência compreendem uma subvenção da União inscrita no orçamento geral da União Europeia e destinada a assegurar o equilíbrio entre as receitas e as despesas.\n\n2. As despesas da Agência incluem as despesas com pessoal, as despesas administrativas e de infra-estrutura, os custos operacionais e as despesas relacionadas com o funcionamento do Comité de Acreditação de Segurança, incluindo os órgãos a que se refere o n.º 11 do artigo 11.º, e com os contratos e acordos celebrados pela Agência para cumprir as atribuições que lhe são confiadas.\n\n3. O Director Executivo elabora um projecto de previsão das receitas e despesas da Agência para o exercício seguinte e envia-o ao Conselho de Administração, juntamente com um projecto de quadro de pessoal.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. O Conselho de Administração apresenta anualmente, com base no projecto de previsão das receitas e despesas, um mapa previsional das receitas e despesas da Agência para o exercício financeiro seguinte.\n\n6. Esse mapa previsional, que deve incluir um projecto de quadro de pessoal acompanhado do programa de trabalho provisório, é transmitido, até 31 de Março, pelo Conselho de Administração à Comissão e aos países terceiros com os quais a União tenha celebrado acordos nos termos do artigo 23.º.\n\n7. O mapa previsional é enviado pela Comissão ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental») juntamente com o projecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão inscreve no projecto de orçamento geral da União Europeia as previsões que considere necessárias no que respeita ao quadro de pessoal e o montante da subvenção imputada ao orçamento geral, que apresenta à autoridade orçamental nos termos do artigo 314.º do Tratado sobre o Funcionamento da União Europeia.\n\n9. A autoridade orçamental autoriza as dotações a título da subvenção destinada à Agência e aprova o quadro de pessoal da Agência.\n\n10. O Conselho de Administração aprova o orçamento. O orçamento torna-se definitivo após a adopção definitiva do orçamento geral da União Europeia. O orçamento da Agência é adaptado em conformidade, se for caso disso.\n\n11. O Conselho de Administração notifica, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto que tenha incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente projectos de natureza imobiliária, como o arrendamento ou a aquisição de imóveis. Do facto informa a Comissão.\n\n12. Caso um dos ramos da autoridade orçamental comunique a sua intenção de emitir um parecer, deve transmitir esse parecer ao Conselho de Administração no prazo de seis semanas a contar da data da notificação do projecto."
+  },
+  "4fa67e153e5ec485": {
+   "fragment_id": "Artigo 14.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução e controlo do orçamento\n\n1. O Director Executivo executa o orçamento da Agência.\n\n2. Até 1 de Março do ano seguinte ao do exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias, acompanhadas de um relatório sobre a gestão orçamental e financeira respeitante a esse exercício. O contabilista da Comissão consolida as contas provisórias das instituições e organismos descentralizados nos termos do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n3. Até 31 de Março do ano seguinte ao do exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência, acompanhadas de um relatório sobre a gestão orçamental e financeira respeitante a esse exercício. O relatório é igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após a recepção das observações formuladas pelo Tribunal de Contas sobre as contas provisórias da Agência nos termos do artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o Director Executivo estabelece as contas definitivas da Agência sob a sua própria responsabilidade e submete-as à apreciação do Conselho de Administração.\n\n5. O Conselho de Administração dá parecer sobre as contas definitivas da Agência.\n\n6. O Director Executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do Conselho de Administração, até 1 de Julho do ano seguinte ao do exercício encerrado.\n\n7. As contas definitivas são objecto de publicação.\n\n8. Até 30 de Setembro, o Director Executivo envia ao Tribunal de Contas uma resposta às observações deste último. Envia também essa resposta ao Conselho de Administração.\n\n9. O Director Executivo comunica ao Parlamento Europeu, a pedido deste, nos termos do n.º 3 do artigo 146.º do Regulamento (CE, Euratom) n.º 1605/2002, todas as informações necessárias ao bom desenrolar do processo de quitação relativo ao exercício em causa.\n\n10. O Parlamento Europeu, por recomendação do Conselho deliberando por maioria qualificada, dá, antes de 30 de Abril do ano N + 2, quitação ao Director Executivo quanto à execução do orçamento do exercício N."
+  },
+  "c87c939fed5efab3": {
+   "fragment_id": "Artigo 15.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições financeiras\n\nAs regras financeiras aplicáveis à Agência são aprovadas pelo Conselho de Administração após consulta à Comissão. Essas regras apenas podem divergir do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^8])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr8-L_2010276PT.01001101-E0008), se as exigências específicas do funcionamento da Agência a isso obrigarem e com o consentimento prévio da Comissão."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "2f07155fb92c738d": {
+   "fragment_id": "Artigo 16.º — Medidas antifraude",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Medidas antifraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas antifraude\n\n1. A fim de combater a fraude, a corrupção e outras acções ilegais, aplicam-se, sem quaisquer restrições, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^9])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr9-L_2010276PT.01001101-E0009).\n\n2. A Agência adere ao Acordo Interinstitucional de 25 de Maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^10])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr10-L_2010276PT.01001101-E0010), e publica sem demora as disposições adequadas aplicáveis a todo o pessoal da Agência.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, devem prever expressamente que o Tribunal de Contas e o OLAF possam, se necessário, proceder a controlos no local dos beneficiários dos fundos da Agência e dos agentes responsáveis pela respectiva atribuição."
+  },
+  "b789b96e80cf68da": {
+   "fragment_id": "Artigo 17.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Privilégios e imunidades\n\nO Protocolo relativo aos Privilégios e Imunidades da União Europeia é aplicável à Agência."
+  },
+  "109ccba20923a21d": {
+   "fragment_id": "Artigo 18.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pessoal\n\n1. O Estatuto dos Funcionários da União Europeia, o Regime Aplicável aos outros Agentes da União Europeia e as regras adoptadas de comum acordo pelas instituições da União Europeia em execução do referido Estatuto e do referido Regime são aplicáveis ao pessoal da Agência. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do artigo 8.º, as competências conferidas à autoridade investida do poder de nomeação pelo Estatuto e pelo Regime são exercidas pela Agência no que diz respeito ao seu pessoal.\n\n3. O pessoal da Agência é composto por agentes recrutados por esta para o exercício das suas atribuições, podendo igualmente incluir funcionários com a devida credenciação de segurança designados ou destacados pela Comissão ou pelos Estados-Membros a título temporário.\n\n4. Os n.^os^ 1 e 3 são também aplicáveis ao pessoal do CGAS."
+  },
+  "b7702f53badbd11a": {
+   "fragment_id": "Artigo 19.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência é regulada pela lei aplicável ao contrato em causa. O Tribunal de Justiça é competente para decidir com fundamento em cláusula compromissória constante de um contrato celebrado pela Agência.\n\n2. Em matéria de responsabilidade extracontratual, a Agência deve indemnizar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados pelos seus serviços ou pelos seus agentes no exercício das suas funções.\n\n3. O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação dos danos referidos no n.º 2.\n\n4. A responsabilidade pessoal dos agentes perante a Agência é regulada pelas disposições do Estatuto ou Regime que lhes seja aplicável."
+  },
+  "465485ca43276be0": {
+   "fragment_id": "Artigo 20.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Línguas\n\n1. O Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia [([^11])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr11-L_2010276PT.01001101-E0011), é aplicável à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Órgãos da União Europeia."
+  },
+  "bc401cae2e4b56b0": {
+   "fragment_id": "Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão [([^12])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr12-L_2010276PT.01001101-E0012), é aplicável aos documentos detidos pela Agência.\n\n2. O Conselho de Administração aprova as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n3. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa ao Provedor de Justiça ou ser impugnadas no Tribunal de Justiça da União Europeia, ao abrigo, respectivamente, dos artigos 228.º e 263.º do Tratado sobre o Funcionamento da União Europeia.\n\n4. O tratamento de dados de carácter pessoal efectuado pela Agência está sujeito ao disposto no Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^13])](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntr13-L_2010276PT.01001101-E0013)."
+  },
+  "d971d5cb21bd2658": {
+   "fragment_id": "Artigo 22.º — Regras de segurança",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regras de segurança\n\nA Agência aplica os princípios de segurança constantes da Decisão 2001/844/CE, CECA, Euratom da Comissão. Estão abrangidas, nomeadamente, as disposições relativas ao intercâmbio, tratamento e armazenamento de informações classificadas."
+  },
+  "8865f4d1809f50b0": {
+   "fragment_id": "Artigo 23.º — Participação de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Participação de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Participação de países terceiros\n\n1. A Agência está aberta à participação de países terceiros que tenham celebrado acordos para o efeito com a União Europeia.\n\n2. Nos termos das disposições aplicáveis de tais acordos, são celebrados convénios que determinem, nomeadamente, a natureza, o âmbito e o modo de participação desses países nos trabalhos da Agência, incluindo disposições relativas à participação nas iniciativas desenvolvidas pela Agência, às contribuições financeiras e ao pessoal."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "1043e8148d36fca2": {
+   "fragment_id": "Artigo 24.º — Alterações ao Regulamento (CE) n.º 683/2008",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Alterações ao Regulamento (CE) n.º 683/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alterações ao Regulamento (CE) n.º 683/2008\n\nEm todo o Regulamento (CE) n.º 683/2008, os termos «Autoridade Supervisora do GNSS Europeu» e «Autoridade» são substituídos, respectivamente, por «Agência do GNSS Europeu» e «Agência»."
+  },
+  "3d17000b787d2c44": {
+   "fragment_id": "Artigo 25.º — Revogação e validade das medidas aprovadas",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Revogação e validade das medidas aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação e validade das medidas aprovadas\n\nÉ revogado o Regulamento (CE) n.º 1321/2004. As remissões para o regulamento revogado entendem-se como sendo feitas para o presente regulamento. As medidas adoptadas com base no Regulamento (CE) n.º 1321/2004 permanecem válidas."
+  },
+  "7610bcc5c2660b27": {
+   "fragment_id": "Artigo 26.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação\n\nA Comissão procede, até 2012, à avaliação do presente regulamento, em particular no que se refere às atribuições da Agência enumeradas no artigo 2.º, devendo apresentar, se necessário, propostas adequadas."
+  },
+  "eb4d7a379386ba26": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 22 de Setembro de 2010.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**O. CHASTEL**\n\n---"
+  },
+  "68f929768727934b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc1-L_2010276PT.01001101-E0001) [JO C 317 de 23.12.2009, p. 103](http://publications.europa.eu/resource/oj/JOC_2009_317_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc2-L_2010276PT.01001101-E0002) Posição do Parlamento Europeu de 16 de Junho de 2010 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 13 de Setembro de 2010.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc3-L_2010276PT.01001101-E0003) [JO L 246 de 20.7.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_246_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc4-L_2010276PT.01001101-E0004) [JO L 196 de 24.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_196_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc5-L_2010276PT.01001101-E0005) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc6-L_2010276PT.01001101-E0006) [JO L 246 de 20.7.2004, p. 30](http://publications.europa.eu/resource/oj/JOL_2004_246_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc7-L_2010276PT.01001101-E0007) Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([JO L 101 de 11.4.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_101_R_TOC)). Regras da Comissão em matéria de segurança estabelecidas no Anexo da Decisão 2001/844/CE, CECA, Euratom da Comissão, de 29 de Novembro de 2001, que altera o seu Regulamento Interno ([JO L 317 de 3.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_317_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc8-L_2010276PT.01001101-E0008) [JO L 357 de 31.12.2002, p. 72](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc9-L_2010276PT.01001101-E0009) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc10-L_2010276PT.01001101-E0010) [JO L 136 de 31.5.1999, p. 15](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc11-L_2010276PT.01001101-E0011) [JO 17 de 6.10.1958, p. 385/58](http://publications.europa.eu/resource/oj/JOP_1958_017_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc12-L_2010276PT.01001101-E0012) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/c2cff622-1ff2-4edd-91f5-267b39470ab3.0019.02/DOC_1#ntc13-L_2010276PT.01001101-E0013) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC)."
+  },
+  "abcd50e34ee7da0b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro de 2010\n\nque cria a Agência do GNSS Europeu, revoga o Regulamento (CE) n.º 1321/2004 do Conselho relativo às estruturas de gestão dos programas europeus de radionavegação por satélite e altera o Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 172.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^1^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0001)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário ([^2^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0002)),\n\n(1) A política europeia de radionavegação por satélite é actualmente executada pelos programas EGNOS e GALILEO (a seguir designados «programas»).\n\n(2) O Regulamento (CE) n.º 1321/2004 do Conselho, de 12 de Julho de 2004, relativo às estruturas de gestão dos programas europeus de radionavegação por satélite ([^3^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0003)), criou uma agência comunitária denominada Autoridade Supervisora do GNSS Europeu (a seguir designada «Autoridade»).\n\n(3) O Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, relativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNOS e Galileo) ([^4^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0004)), define o novo quadro da governação pública e do financiamento dos programas. Nele se prevê o princípio de uma rigorosa repartição de responsabilidades entre a União Europeia, representada pela Comissão, a Autoridade e a Agência Espacial Europeia (a seguir designada «AEE»), confiando à Comissão a responsabilidade pela gestão dos programas e as atribuições inicialmente confiadas à Autoridade. Além disso, o referido regulamento prevê que a Autoridade exerça as atribuições que lhe são confiadas respeitando o papel da Comissão enquanto gestora dos programas e de acordo com as orientações emitidas por esta última.\n\n(4) No Regulamento (CE) n.º 683/2008, o Parlamento Europeu e o Conselho convidaram a Comissão a apresentar uma proposta destinada a adaptar formalmente as estruturas de gestão dos programas, previstas no Regulamento (CE) n.º 1321/2004, às novas missões confiadas à Comissão e à Autoridade pelo Regulamento (CE) n.º 683/2008.\n\n(5) Tendo em conta a redução do seu âmbito de actividade, a Autoridade não deverá continuar a chamar-se Autoridade Supervisora do GNSS Europeu, mas sim Agência do GNSS Europeu (a seguir designada «Agência»). No entanto, a Agência deverá assegurar a continuidade das actividades da Autoridade, nomeadamente no que respeita aos direitos e obrigações, ao pessoal e à validade de todas as decisões tomadas.\n\n(6) Os objectivos do Regulamento (CE) n.º 1321/2004 deverão também ser adaptados, de forma a ter em conta que a Agência deixa de ser responsável pela gestão dos interesses públicos relativos aos programas do Sistema Global de Navegação por Satélite (GNSS) Europeu e pela regulação desses programas.\n\n(7) O estatuto jurídico da Agência deverá permitir-lhe agir como pessoa colectiva no exercício das suas atribuições.\n\n(8) Importa também alterar as atribuições da Agência e, a este respeito, garantir que as mesmas sejam definidas em conformidade com as atribuições constantes do artigo 16.º do Regulamento (CE) n.º 683/2008, incluindo a possibilidade de exercer outras actividades que possam ser-lhe confiadas pela Comissão, a fim de prestar apoio a esta na execução dos programas. Nos termos da alínea b) do n.º 2 do artigo 54.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^5^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0005)), as referidas actividades incluem, por exemplo, o acompanhamento e desenvolvimento de processos de coordenação e consulta em matéria de segurança, a realização de actividades de investigação necessárias para o desenvolvimento e a promoção dos programas e a prestação de assistência ao desenvolvimento e à execução do projecto-piloto relativo ao serviço denominado *Public Regulated Service* (PRS).\n\n(9) No seu âmbito, nos seus objectivos e no exercício das suas atribuições, a Agência deverá cumprir nomeadamente as disposições legais aplicáveis às instituições da União.\n\n(10) Além disso, no contexto da avaliação intercalar do programa Galileo, prevista para 2010 nos termos do artigo 22.º do Regulamento (CE) n.º 683/2008, a Comissão deverá também abordar a questão da governação dos programas na fase operacional e de exploração, bem como o papel da Agência neste âmbito.\n\n(11) A fim de assegurar eficazmente o exercício das atribuições da Agência, os Estados-Membros e a Comissão deverão estar representados num Conselho de Administração dotado dos poderes necessários para elaborar o orçamento, verificar a sua execução, adoptar as regras financeiras apropriadas, estabelecer procedimentos transparentes para a tomada de decisões pela Agência, aprovar o programa de trabalho e nomear o Director Executivo.\n\n(12) É igualmente adequada a presença de um representante do Parlamento Europeu no Conselho de Administração, na qualidade de membro sem direito de voto, dado o Regulamento (CE) n.º 683/2008 salientar o interesse de uma cooperação estreita entre o Parlamento Europeu, o Conselho e a Comissão.\n\n(13) Acresce que, para garantir que a Agência exerça as suas atribuições respeitando o papel da Comissão enquanto gestora dos programas e de acordo com as orientações emitidas por esta última, importa mencionar expressamente que a Agência deverá ser gerida por um Director Executivo, sob a supervisão do Conselho de Administração, de acordo com as orientações fornecidas à Agência pela Comissão. Importa igualmente especificar que a Comissão deverá dispor de cinco representantes no Conselho de Administração e que as decisões relativas a um número limitado de funções do mesmo não podem ser aprovadas sem o voto a favor dos representantes da Comissão.\n\n(14) O bom funcionamento da Agência exige que o seu Director Executivo seja nomeado com base no mérito e em capacidades administrativas e de gestão documentadas, bem como na competência e na experiência relevantes, e que desempenhe as suas funções com total independência e flexibilidade no que se refere à organização do funcionamento interno da Agência. Exceptuando certas actividades e medidas ligadas à acreditação de segurança, o Director Executivo deverá preparar e efectuar as diligências necessárias para assegurar a correcta concretização do programa de trabalho da Agência, elaborar anualmente um projecto de relatório geral a apresentar ao Conselho de Administração, elaborar um projecto de previsão de receitas e despesas da Agência e dar execução ao orçamento.\n\n(15) O Conselho de Administração deverá ter poderes para tomar todas as decisões necessárias que assegurem que a Agência possa exercer correctamente as suas atribuições, com excepção das atribuições relativas à acreditação de segurança, que deverão ser confiadas a um Comité de Acreditação de Segurança dos Sistemas GNSS Europeus (a seguir designado «Comité de Acreditação de Segurança»). No que respeita a essas atribuições relativas à acreditação, o Conselho de Administração deverá ser responsável apenas em matéria de recursos e orçamento. Para uma boa governação dos programas, é também necessário que as funções do Conselho de Administração se coadunem com as novas missões conferidas à Agência ao abrigo do artigo 16.º do Regulamento (CE) n.º 683/2008, nomeadamente no que se refere ao funcionamento do centro de segurança Galileo e às instruções dadas ao abrigo da Acção Comum 2004/552/PESC do Conselho, de 12 de Julho de 2004, sobre os aspectos da exploração do sistema europeu de radionavegação por satélite que afectem a segurança da União Europeia ([^6^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0006)).\n\n(16) Os procedimentos de nomeação dos titulares dos cargos deverão ser transparentes.\n\n(17) Atendendo ao leque de atribuições confiado à Agência, entre as quais a acreditação de segurança, o Comité Científico e Técnico criado pelo artigo 9.º do Regulamento (CE) n.º 1321/2004 deverá ser suprimido e o Comité para a Segurança e a Protecção do Sistema, criado pelo artigo 10.º do mesmo regulamento, deverá ser substituído pelo Comité de Acreditação de Segurança, que será responsável pelos trabalhos de acreditação de segurança e composto por representantes dos Estados-Membros e da Comissão. O Alto Representante para os Negócios Estrangeiros e a Política de Segurança (a seguir designado «AR») e a AEE deverão desempenhar um papel de observadores no Comité de Acreditação de Segurança.\n\n(18) As actividades de acreditação de segurança deverão ser exercidas de forma independente das autoridades gestoras dos programas, nomeadamente da Comissão, dos outros órgãos da Agência, da AEE e das demais entidades responsáveis pela aplicação de disposições relativas à segurança. A fim de assegurar a referida independência, o Comité de Acreditação de Segurança deverá ser estabelecido enquanto autoridade de acreditação no respeitante à segurança dos sistemas GNSS europeus (a seguir designados «sistemas») e dos receptores com tecnologia PRS. O Comité de Acreditação de Segurança deverá ser um órgão autónomo, integrado na Agência, que tome as suas decisões de modo independente e objectivo no interesse dos cidadãos.\n\n(19) Dado que compete à Comissão, nos termos do Regulamento (CE) n.º 683/2008, gerir todos os aspectos relacionados com a segurança dos sistemas, e para assegurar uma gestão eficiente das questões de segurança e o respeito do princípio de uma rigorosa repartição de responsabilidades previsto naquele regulamento, é primordial que as actividades do Comité de Acreditação de Segurança se limitem estritamente às acções de acreditação de segurança dos sistemas e não interfiram, em caso algum, com as atribuições confiadas à Comissão por força do artigo 13.º do Regulamento (CE) n.º 683/2008.\n\n(20) As decisões tomadas pela Comissão de acordo com procedimentos que impliquem o Comité dos Programas GNSS Europeus não afectam as regras vigentes em matéria orçamental ou a competência específica dos Estados-Membros em matéria de segurança.\n\n(21) Nos termos do n.º 4 do artigo 13.º do Regulamento (CE) n.º 683/2008, caso a segurança da União ou dos Estados-Membros possa ser afectada pela operação dos sistemas, aplicam-se os procedimentos previstos na Acção Comum 2004/552/PESC. Em particular, em caso de ameaça à segurança da União ou de um Estado-Membro decorrente da operação ou utilização dos sistemas, ou em caso de ameaça à operação dos sistemas resultante, nomeadamente, de uma crise internacional, o Conselho poderá, por unanimidade, decidir das instruções a dar à Agência e à Comissão. Qualquer membro do Conselho, o AR ou a Comissão podem requerer a realização de um debate no Conselho com vista a alcançar um acordo relativamente a tais instruções.\n\n(22) Em conformidade com o princípio da subsidiariedade, as decisões de acreditação de segurança deverão, segundo o processo definido na estratégia de acreditação de segurança, basear-se em decisões de acreditação de segurança locais tomadas pelas autoridades de acreditação de segurança respectivas dos Estados-Membros.\n\n(23) A fim de poder exercer todas as suas actividades de forma rápida e eficaz, o Comité de Acreditação de Segurança deverá poder criar órgãos subordinados apropriados que ajam de acordo com as suas instruções. Assim, deverá criar um Painel, para o assistir na preparação das suas decisões, e uma Autoridade de Distribuição Criptográfica, para a gestão e preparação de material criptográfico, incluindo uma Célula de Chaves de Voo, dedicada à gestão das chaves de voo operacionais para os lançamentos, bem como, se necessário, outros órgãos responsáveis por questões específicas. Simultaneamente, importa ter em especial consideração a necessária continuidade dos trabalhos realizados nesses órgãos.\n\n(24) Importa ainda que as actividades de acreditação de segurança sejam coordenadas com a actividade das autoridades gestoras dos programas e das outras entidades responsáveis pela aplicação de disposições relativas à segurança.\n\n(25) Atendendo à especificidade e complexidade dos sistemas, é indispensável que as actividades de acreditação de segurança sejam levadas a cabo num contexto de responsabilidade colectiva pela segurança da União e dos Estados-Membros, envidando esforços para reunir consensos e envolver todas as partes interessadas na segurança, e que seja efectuado um acompanhamento permanente dos riscos. É também imperativo que os trabalhos técnicos de acreditação de segurança sejam confiados a profissionais devidamente qualificados para acreditar sistemas complexos e que disponham de credenciação de segurança adequada.\n\n(26) Para que o Comité de Acreditação de Segurança possa cumprir as suas funções, é também conveniente prever que os Estados-Membros lhe transmitam toda a documentação necessária, permitam o acesso das pessoas devidamente autorizadas às informações classificadas e a todas as áreas sob a sua jurisdição e sejam responsáveis, no plano local, pela acreditação de segurança das áreas localizadas no seu território.\n\n(27) Os sistemas criados no âmbito dos programas são infra-estruturas cuja utilização ultrapassa largamente as fronteiras nacionais dos Estados-Membros, implantadas enquanto redes transeuropeias na acepção do artigo 172.º do Tratado sobre o Funcionamento da União Europeia. Além disso, os serviços prestados por intermédio desses sistemas contribuem para o desenvolvimento das redes transeuropeias no domínio das infra-estruturas de transportes, telecomunicações e energia.\n\n(28) A Comissão deverá proceder à avaliação das implicações orçamentais do financiamento da Agência para a rubrica de despesas em questão. Com base nessas informações e sem prejuízo do processo legislativo aplicável, os dois ramos da autoridade orçamental deverão celebrar, em tempo útil e no quadro da cooperação orçamental, um acordo relativo ao financiamento da Agência. O procedimento orçamental da União aplica-se à contribuição da União imputável ao orçamento geral da União Europeia. Além disso, a revisão das contas deverá ser realizada pelo Tribunal de Contas Europeu, nos termos do título VIII do Regulamento (CE, Euratom) n.º 1605/2002.\n\n(29) A Agência deverá aplicar a legislação da União relativa ao acesso do público a documentos e à protecção das pessoas relativamente ao tratamento de dados de carácter pessoal. Deverá respeitar também os princípios de segurança aplicáveis ao Conselho e aos serviços da Comissão.\n\n(30) Os países terceiros deverão poder participar na Agência, desde que celebrem previamente um acordo nesse sentido com a União, nomeadamente se esses países tiverem participado nas fases precedentes do programa Galileo através da sua contribuição para o programa Galileosat da AEE.\n\n(31) Atendendo a que os objectivos do presente regulamento, a saber, a criação e a garantia do funcionamento de uma agência com responsabilidade, em particular, pela acreditação de segurança dos sistemas, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à sua dimensão e aos seus efeitos, ser mais bem alcançados ao nível da União, esta pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aqueles objectivos.\n\n(32) Uma vez que o nome da Agência vai sofrer alterações, o Regulamento (CE) n.º 683/2008 deverá ser alterado no mesmo sentido.\n\n(33) No Regulamento (CE) n.º 1321/2004 foram já introduzidas alterações. Tendo em conta as alterações ora introduzidas, é conveniente, por razões de clareza, revogar aquele regulamento e substituí-lo por um novo regulamento,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "0bed6b8bdf01fb38": {
+   "fragment_id": "Artigo 2.º — Atribuições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nAs atribuições da Agência são as descritas no artigo 14.º do Regulamento (UE) n.º 1285/2013 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0007))."
+  },
+  "8c2a4d8ec179d50a": {
+   "fragment_id": "Artigo 3.º — Órgãos",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1. Os órgãos da Agência são:\n\na) O Conselho de Administração,\n\nb) O Diretor Executivo,\n\nc) O Comité de Acreditação de Segurança dos sistemas GNSS europeus (o «Comité de Acreditação de Segurança»).\n\n2. Os órgãos da Agência desempenham as suas funções, consoante definidas respetivamente nos artigos 6.º, 8.º e 11.º.\n\n3. O Conselho de Administração e o Diretor Executivo, o Comité de Acreditação de Segurança e o seu Presidente cooperam para assegurar o funcionamento da Agência e a coordenação dos seus órgãos, de acordo com as modalidades fixadas pelas regras internas da Agência, tais como o regulamento interno do Conselho de Administração, o regulamento interno do Comité de Acreditação de Segurança, a regulamentação financeira aplicável à Agência, as regras de aplicação do estatuto do pessoal e as modalidades de acesso aos documentos."
+  },
+  "59b2e4102c6d5f93": {
+   "fragment_id": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estatuto jurídico, delegações locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estatuto jurídico, delegações locais\n\n1. A Agência é um organismo da União. A Agência tem personalidade jurídica.\n\n2. Em cada um dos Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas coletivas pela sua legislação nacional. Pode, designadamente, adquirir e alienar bens móveis e imóveis e estar em juízo.\n\n3. A Agência pode decidir criar delegações locais nos Estados-Membros, com o assentimento destes, ou em países terceiros que participem nos trabalhos da Agência, em conformidade com o artigo 23.º.\n\n4. A escolha da localização dessas delegações é efetuada com base em critérios objetivos definidos para garantir o bom funcionamento da Agência.\n\nAs disposições relativas à instalação e ao funcionamento da Agência nos Estados-Membros de acolhimento e nos países terceiros de acolhimento, bem como aos privilégios concedidos por estes últimos ao Diretor Executivo, aos membros do Conselho de Administração e do Comité de Acreditação de Segurança, ao pessoal da Agência e aos membros das suas famílias, são objeto de convénios específicos celebrados entre a Agência e esses Estados-Membros e países. Os convénios específicos são aprovados pelo Conselho de Administração.\n\n5. Os Estados-Membros de acolhimento e os países terceiros de acolhimento proporcionam, através dos convénios específicos referidos no n.º 4, as condições necessárias ao bom funcionamento da Agência.\n\n6. Sob reserva do artigo 11.º-A, n.º 1, alínea f), a Agência é representada pelo seu Diretor Executivo."
+  },
+  "52e958d380d17165": {
+   "fragment_id": "Artigo 5.º — Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de Administração\n\n1. É criado um Conselho de Administração para desempenhar as funções enumeradas no artigo 6.º.\n\n2. O Conselho de Administração é composto por:\n\na) Um representante nomeado por cada Estado-Membro;\n\nb) Quatro representantes nomeados pela Comissão;\n\nc) Um representante sem direito a voto nomeado pelo Parlamento Europeu.\n\nOs membros do Conselho de Administração e do Comité de Acreditação de Segurança são nomeados com base no respetivo grau de experiência e especialização.\n\nA duração do mandato dos membros do Conselho de Administração é de quatro anos, renovável uma vez. O Parlamento Europeu, a Comissão e os Estados-Membros devem procurar limitar a rotação dos seus representantes no Conselho de Administração.\n\nO Presidente ou o Vice-Presidente do Comité de Acreditação de Segurança, um representante do Alto Representante da União para os Negócios Estrangeiros e a Política de Segurança (o «AR») e um representante da Agência Espacial Europeia («AEE») são convidados a participar nas reuniões do Conselho de Administração, na qualidade de observadores e nas condições estabelecidas no regulamento interno do Conselho de Administração.\n\n3. Sempre que adequado, a participação de representantes de países terceiros ou de organizações internacionais e as condições da mesma são estabelecidas nos acordos a que se refere o artigo 23.º, n.º 1, e cumprem o disposto no regulamento interno do Conselho de Administração.\n\n4. O Conselho de Administração elege um Presidente e um Vice-Presidente de entre os seus membros. O Vice-Presidente substitui automaticamente o Presidente em caso de impedimento deste. O mandato do Presidente e do Vice-Presidente é de dois anos, sendo renovável uma vez, e cada mandato termina no momento em que a pessoa em causa deixe de ser membro do Conselho de Administração.\n\nO Conselho de Administração está habilitado a destituir o Presidente, o Vice-Presidente ou ambos.\n\n5. O Conselho de Administração reúne-se por convocação do seu Presidente.\n\nO Diretor Executivo toma geralmente parte nas deliberações, salvo decisão em contrário do Presidente.\n\nO Conselho de Administração reúne-se em sessão ordinária duas vezes por ano. Pode também reunir-se por iniciativa do seu Presidente ou a pedido de pelo menos um terço dos seus membros.\n\nO Conselho de Administração pode convidar qualquer pessoa cuja opinião possa ser útil a participar nas suas reuniões na qualidade de observador. Os membros do Conselho de Administração podem, sem prejuízo do disposto no seu regulamento interno, ser assistidos por conselheiros ou peritos.\n\nO secretariado do Conselho de Administração é assegurado pela Agência.\n\n6. Salvo disposição em contrário do presente regulamento, o Conselho de Administração delibera por maioria absoluta dos seus membros com direito de voto.\n\nÉ necessária uma maioria de dois terços de todos os membros com direito de voto para a eleição e destituição do Presidente e do Vice-Presidente do Conselho de Administração, tal como referido no n.º 4, bem como para a adoção do orçamento e dos programas de trabalho.\n\n7. Cada um dos representantes dos Estados-Membros e da Comissão dispõe de um voto. O Diretor Executivo não participa na votação. As decisões baseadas no artigo 6.º, n.º 2, alíneas a) e b), e no artigo 6.º, n.º 5, com exceção das matérias abrangidas pelo Capítulo III, não podem ser adotadas sem o voto favorável dos representantes da Comissão.\n\nO regulamento interno do Conselho de Administração estabelece modalidades de votação mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por outro."
+  },
+  "5fdead0d22d4e43a": {
+   "fragment_id": "Artigo 6.º — Funções do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Funções do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções do Conselho de Administração\n\n1. O Conselho de Administração assegura que a Agência cumpre a missão que lhe é confiada, nas condições fixadas pelo presente regulamento, e toma todas as decisões necessárias para esse efeito, sem prejuízo das competências atribuídas ao Comité de Acreditação de Segurança para as atividades abrangidas pelo Capítulo III.\n\n2. O Conselho de Administração desempenha ainda as seguintes funções:\n\na) Adota, o mais tardar em 30 de junho do primeiro ano do quadro financeiro plurianual previsto no artigo 312.º do Tratado sobre o Funcionamento da União Europeia, o programa de trabalho plurianual da Agência para o período abrangido pelo quadro financeiro plurianual, depois de nele ter integrado, sem qualquer alteração, a parte elaborada pelo Comité de Acreditação de Segurança, nos termos do artigo 11.º, n.º 4, alínea a), e depois de ter recebido o parecer da Comissão. O Parlamento Europeu é consultado sobre este programa de trabalho plurianual, desde que a finalidade das consultas seja uma troca de opiniões e o resultado não vincule a Agência;\n\nb) Adota, até 15 de novembro de cada ano, o programa de trabalho da Agência para o ano seguinte, depois de nele ter integrado, sem qualquer alteração, a parte elaborada pelo Comité de Acreditação de Segurança, nos termos do artigo 11.º, n.º 4, alínea b), e depois de ter recebido o parecer da Comissão;\n\nc) Desempenha as funções orçamentais previstas no artigo 13.º, n.^os^ 5, 6, 10 e 11, e no artigo 14.º, n.º 5;\n\nd) Supervisiona o funcionamento do Centro Galileo de Acompanhamento da Segurança, nos termos do artigo 14.º, n.º 1, alínea a), subalínea ii), do Regulamento (UE) n.º 1285/2013;\n\ne) Adota as regras de execução do Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0008)), nos termos do artigo 21.º do presente regulamento;\n\nf) Aprova os convénios a que se refere o artigo 23.º, n.º 2, depois de ter consultado o Comité de Acreditação de Segurança sobre as disposições desses convénios em matéria de acreditação de segurança;\n\ng) Adota os procedimentos técnicos necessários ao desempenho das suas funções;\n\nh) Adota o relatório anual relativo às atividades e perspetivas da Agência, depois de nele ter integrado, sem qualquer alteração, a parte elaborada pelo Comité de Acreditação de Segurança, nos termos do artigo 11.º, n.º 4, alínea c), e transmite esse relatório, o mais tardar em 1 de julho, ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas;\n\ni) Assegura o necessário acompanhamento das conclusões e recomendações das avaliações e auditorias a que se refere o artigo 26.º, bem como das resultantes dos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e de todos os relatórios de auditoria interna ou externa, transmitindo à autoridade orçamental todas as informações relevantes sobre os resultados dos processos de avaliação;\n\nj) É consultado pelo Diretor Executivo sobre os acordos de delegação celebrados nos termos do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1285/2013 antes da assinatura dos mesmos;\n\nk) Aprova, com base na proposta do Diretor Executivo, os protocolos de colaboração entre a Agência e a AEE a que se refere o artigo 14.º, n.º 4, do Regulamento (UE) n.º 1285/2013;\n\nl) Aprova, com base numa proposta do Diretor Executivo, uma estratégia antifraude;\n\nm) Aprova, se for caso disso e com base em propostas do Diretor Executivo, as estruturas organizativas da Agência;\n\nn) Adota e publica o seu regulamento interno.\n\n3. Em relação ao pessoal da Agência, o Conselho de Administração exerce as competências conferidas pelo Estatuto dos Funcionários da União Europeia ([^9^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0009)) («Estatuto dos Funcionários») à entidade investida do poder de nomeação e pelo Regime aplicável aos outros agentes à autoridade habilitada a celebrar contratos de admissão («competências da entidade investida do poder de nomeação»).\n\nO Conselho de Administração adota, nos termos do artigo 110.º do Estatuto dos Funcionários, uma decisão baseada no artigo 2.º, n.º 1, do Estatuto dos Funcionários e no artigo 6.º do Regime aplicável aos outros agentes, pela qual delega no Diretor Executivo as relevantes competências da entidade investida do poder de nomeação, definindo as condições nas quais esta delegação de poderes pode ser suspensa. O Diretor Executivo apresenta um relatório ao Conselho de Administração sobre o exercício dos poderes delegados. O Diretor Executivo está autorizado a subdelegar essas competências.\n\nEm aplicação do segundo parágrafo deste número, se circunstâncias excecionais assim o exigirem, o Conselho de Administração pode, através de uma decisão, suspender temporariamente a delegação de competências da entidade investida do poder de nomeação concedida ao Diretor Executivo, bem como as competências por este subdelegadas, para as exercer ele próprio ou as delegar num dos seus membros ou num membro do pessoal que não seja o Diretor Executivo.\n\nTodavia, em derrogação do segundo parágrafo, o Conselho de Administração deve delegar no Presidente do Comité de Acreditação de Segurança as competências a que se refere o primeiro parágrafo no que respeita ao recrutamento, à avaliação e à reclassificação do pessoal envolvido nas atividades abrangidas pelo Capítulo III, bem como às medidas disciplinares a tomar em relação ao referido pessoal.\n\nO Conselho de Administração adota as modalidades de aplicação do Estatuto dos funcionários e do Regime aplicável aos outros agentes, nos termos do artigo 110.º do Estatuto dos Funcionários. No que respeita ao recrutamento, à avaliação, à reclassificação do pessoal envolvido nas atividades abrangidas pelo Capítulo III e às medidas disciplinares a adotar em relação a esse pessoal, consulta previamente o Comité de Acreditação de Segurança e toma devidamente em conta as suas observações.\n\nAdota uma decisão que estabelece normas aplicáveis ao destacamento de peritos nacionais para a Agência. Antes de adotar a decisão, o Conselho de Administração deve consultar o Comité de Acreditação de Segurança no que respeita ao destacamento de peritos nacionais envolvidos nas atividades de acreditação de segurança referidas no Capítulo III, e tomar devidamente em conta as suas observações.\n\n4. O Conselho de Administração nomeia o Diretor Executivo e pode prolongar ou pôr termo ao seu mandato, de acordo com o artigo 15.º-B, n.^os^ 3 e 4.\n\n5. O Conselho de Administração exerce a autoridade disciplinar sobre o Diretor Executivo quanto ao seu desempenho, em especial no que diz respeito às questões de segurança abrangidas pela esfera de competências da Agência, com exceção das atividades exercidas nos termos do Capítulo III."
+  },
+  "36b03118da0686c0": {
+   "fragment_id": "Artigo 7.º — Diretor Executivo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Diretor Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diretor Executivo\n\nA Agência é gerida pelo seu Diretor Executivo, que exerce as suas funções sob a direção do Conselho de Administração, sem prejuízo das competências conferidas ao Comité de Acreditação de Segurança e ao Presidente do Comité de Acreditação de Segurança nos termos, respetivamente, dos artigos 11.º e 11.º-A.\n\nSem prejuízo das competências da Comissão e do Conselho de Administração, no exercício das suas funções, o Diretor Executivo é independente e não deve tentar obter nem receber instruções de qualquer governo ou de qualquer outro organismo."
+  },
+  "2e697eaff0d3637b": {
+   "fragment_id": "Artigo 8.º — Funções do Diretor Executivo",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Funções do Diretor Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funções do Diretor Executivo\n\nO Diretor Executivo exerce as funções seguintes:\n\na) Representa a Agência, com exceção do que respeita às atividades exercidas e às decisões tomadas nos termos do disposto nos Capítulos II e III; e assina os acordos de delegação celebrados nos termos do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1285/2013, nos termos do artigo 6.º, n.º 2, alínea j), do presente regulamento;\n\nb) Elabora os protocolos de colaboração entre a Agência e a AEE a que se refere o artigo 14.º, n.º 4, do Regulamento (UE) n.º 1285/2013 e apresenta-os ao Conselho de Administração nos termos do artigo 6.º, n.º 2, alínea k), do presente regulamento e assina esses protocolos depois de obtida a aprovação do Conselho de Administração;\n\nc) Prepara os trabalhos do Conselho de Administração e participa, sem direito de voto, nos trabalhos do Conselho de Administração, sob reserva do disposto no Artigo 5.º, n.º 5, segundo parágrafo;\n\nd) Executa as decisões tomadas pelo Conselho de Administração;\n\ne) Elabora os programas de trabalho anuais e plurianuais da Agência e apresenta-os ao Conselho de Administração para aprovação, com exceção das partes elaboradas e adotadas pelo Comité de Acreditação de Segurança, em conformidade com o artigo 11.º, n.º 4, alíneas a) e b);\n\nf) Executa os programas de trabalho anuais e plurianuais, com exceção das partes executadas pelo Presidente do Comité de Acreditação de Segurança, em conformidade com o artigo 11.º-A, n.º 1, alínea b);\n\ng) Elabora um relatório intercalar sobre a execução do programa de trabalho anual e, se pertinente, do programa de trabalho plurianual, para cada reunião do Conselho de Administração, no qual integra, sem qualquer alteração, a parte elaborada pelo Presidente do Comité de Acreditação de Segurança, nos termos do artigo 11.º-A, n.º 1, alínea d);\n\nh) Elabora o relatório anual sobre as atividades e as perspetivas da Agência, com exceção da parte elaborada e adotada pelo Comité de Acreditação de Segurança, em conformidade com o artigo 11.º, n.º 4, alínea c), no que respeita às atividades abrangidas pelo Capítulo III, submetendo-o à aprovação do Conselho de Administração;\n\ni) Toma todas as medidas necessárias, nomeadamente através da adoção de instruções administrativas internas e da publicação de comunicações, para assegurar o funcionamento da Agência nos termos do presente regulamento;\n\nj) Elabora um projeto de mapa previsional das receitas e despesas da Agência, nos termos do artigo 13.º, e executa o orçamento, nos termos do artigo 14.º;\n\nk) Assegura que a Agência, na qualidade de operadora do Centro Galileo de Acompanhamento da Segurança, possa dar resposta às instruções que receba nos termos da Ação Comum 2004/552/PESC do Conselho ([^10^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0010)) e desempenhar o seu papel nos termos do artigo 6.º da Decisão n.º 1104/2011/UE do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0011));\n\nl) Assegura a circulação das informações pertinentes entre os órgãos da Agência a que se refere o artigo 3.º, n.º 1 do presente regulamento, nomeadamente no que diz respeito às questões de segurança;\n\nm) Comunica à Comissão a posição da Agência sobre as especificações técnicas e operacionais necessárias para implementar a evolução dos sistemas a que se refere o artigo 12.º, n.º 3, alínea d), do Regulamento (UE) n.º 1285/2013, designadamente para a definição dos procedimentos de aceitação e reapreciação, e a atividades de investigação para apoiar essa evolução;\n\nn) Elabora, em estreita cooperação com o Presidente do Comité de Acreditação de Segurança para as questões relacionadas com as atividades de acreditação de segurança abrangidas pelo Capítulo III do presente regulamento, as estruturas organizativas da Agência e submete-as à aprovação do Conselho de Administração;\n\no) Exerce, relativamente ao pessoal da Agência, as competências a que se refere o artigo 6.º, n.º 3, primeiro parágrafo, na medida em que essas competências lhe sejam delegadas nos termos do segundo parágrafo da mesma disposição;\n\np) Adota, após aprovação pelo Conselho de Administração, as medidas necessárias para estabelecer delegações locais nos Estados-Membros ou em países terceiros, nos termos do artigo 4.º, n.º 3;\n\nq) Assegura que sejam disponibilizados ao Comité de Acreditação de Segurança, aos órgãos a que se refere o artigo 11.º, n.º 11, bem como ao Presidente do Comité de Acreditação de Segurança, um secretariado e todos os recursos necessários ao seu bom funcionamento;\n\nr) Elabora um plano de ação para garantir o acompanhamento das conclusões e recomendações das avaliações e auditorias a que se refere o artigo 26.º, com exceção da parte do plano de ação relativo às atividades abrangidas pelo Capítulo III, e apresenta à Comissão um relatório semestral sobre os progressos realizados, depois de nele ter integrado, sem qualquer alteração, a parte elaborada pelo Comité de Acreditação de Segurança, relatório que é igualmente apresentado ao Conselho de Administração para informação;\n\ns) Toma as medidas seguintes para proteger os interesses financeiros da União:\n\ni) toma as necessárias medidas preventivas contra a fraude, a corrupção ou qualquer outra atividade ilegal, e utiliza medidas de controlo eficazes,\n\nii) caso sejam detetadas irregularidades, procede à cobrança dos montantes pagos indevidamente e, se for caso disso, aplica sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas;\n\nt) Elabora uma estratégia antifraude da Agência que seja proporcional aos riscos de fraude, tendo em conta uma análise de custo-benefício das medidas a aplicar e tomando em consideração os resultados e as recomendações resultantes dos inquéritos efetuados pelo OLAF e apresenta-a ao Conselho de Administração para aprovação."
+  },
+  "d145584a19ecbd1b": {
+   "fragment_id": "Artigo 8.º-A — Programas de trabalho e relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Programas de trabalho e relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Programas de trabalho e relatório anual\n\n1. O programa de trabalho plurianual da Agência a que se refere o artigo 6.º, n.º 2, alínea a), prevê as ações que a Agência deve realizar no decurso do período abrangido pelo quadro financeiro plurianual previsto no artigo 312.º do Tratado sobre o Funcionamento da União Europeia, incluindo as ações ligadas às relações internacionais e à comunicação pelas quais é responsável. Esse programa determina a programação estratégica global, incluindo os objetivos, fases, resultados esperados e indicadores de desempenho e a programação dos recursos, nomeadamente os recursos humanos e financeiros afetados a cada atividade. Tem em conta as avaliações e auditorias a que se refere o artigo 26.º do presente regulamento. A título informativo, o programa de trabalho plurianual inclui também a descrição das tarefas confiadas pela Comissão à Agência, designadamente as tarefas de gestão do programa a que se refere o artigo 14.º, n.º 2, do Regulamento (UE) n.º 1285/2013.\n\n2. O programa de trabalho anual referido no artigo 6.º, n.º 2, alínea b), do presente regulamento deve basear-se no programa de trabalho plurianual. Deve prever as ações que a Agência deve realizar durante o ano seguinte, incluindo as ações ligadas às relações internacionais e à comunicação pelas quais é responsável. O programa de trabalho plurianual inclui os objetivos pormenorizados e os resultados esperados, nomeadamente os indicadores de desempenho. Indica claramente as tarefas que foram acrescentadas, alteradas ou suprimidas em comparação com o exercício financeiro anterior, bem como as alterações dos indicadores de desempenho e dos respetivos valores-alvo. O programa determina igualmente os recursos humanos e financeiros afetados a cada atividade. Inclui, a título informativo, as tarefas confiadas à Agência pela Comissão através de acordos de delegação, conforme exigido, por força do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1285/2013.\n\n3. Uma vez adotados pelo Conselho de Administração, o Diretor Executivo transmite os programas de trabalho anuais e plurianuais ao Parlamento Europeu, ao Conselho, à Comissão e aos Estados-Membros, e publica um resumo desses programas de trabalho.\n\n4. O relatório anual a que se refere o artigo 8.º, alínea h), do presente regulamento deve conter informação sobre os seguintes aspetos:\n\na) A execução dos programas de trabalho anuais e plurianuais, incluindo no que se refere aos indicadores de desempenho;\n\nb) A execução do orçamento e o plano de política de pessoal;\n\nc) Os sistemas de gestão e de controlo interno da Agência e os progressos registados a nível da aplicação dos sistemas e técnicas de gestão de projetos a que se refere o artigo 11.º, alínea e), do Regulamento (UE) n.º 1285/2013;\n\nd) Medidas destinadas a melhorar o desempenho ambiental da Agência;\n\ne) Os resultados de auditorias internas e externas e o acompanhamento das recomendações das auditorias e da recomendação de quitação;\n\nf) A declaração de fiabilidade do Diretor Executivo.\n\nO resumo do relatório anual é tornado público."
+  },
+  "bd11b05dfa2134ef": {
+   "fragment_id": "Artigo 9.º — Acção Comum",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Acção Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acção Comum\n\n1. Nos termos do artigo 16.º do Regulamento (UE) n.º 1285/2013, caso a segurança da União ou dos Estados-Membros possa ser afetada pelo financiamento dos sistemas, aplicam-se os procedimentos previstos na Ação Comum 2004/552/PESC.\n\n2. As decisões de acreditação de segurança tomadas nos termos do Capítulo III, bem como os riscos residuais identificados, são comunicados pela Comissão ao Conselho, para conhecimento."
+  },
+  "caa5daf6692d9527": {
+   "fragment_id": "Artigo 10.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\nAs atividades de acreditação de segurança dos sistemas GNSS europeus a que se refere o presente capítulo pautam-se pelos seguintes princípios:\n\na) As atividades e decisões de acreditação de segurança inserem-se no contexto da responsabilidade coletiva pela segurança da União e dos Estados-Membros;\n\nb) Devem ser desenvolvidos esforços no sentido de chegar a decisões por consenso;\n\nc) As atividades de acreditação de segurança são exercidas utilizando uma metodologia assente na avaliação e gestão do risco, apreciando os riscos para a segurança dos sistemas GNSS europeus bem como o impacto de eventuais medidas de redução dos riscos em termos de custos ou de calendário, tendo em conta objetivo de não baixar o nível geral de segurança dos sistemas;\n\nd) As decisões de acreditação de segurança devem ser preparadas e executadas por profissionais devidamente qualificados no domínio da acreditação de sistemas complexos, que disponham de uma credenciação de segurança ao nível adequado e que atuem de forma objetiva;\n\ne) Devem ser desenvolvidos esforços para consultar todas as partes interessadas em questões de segurança;\n\nf) As atividades de acreditação de segurança são executadas por todos os intervenientes relevantes segundo uma estratégia de acreditação de segurança, sem prejuízo do papel da Comissão Europeia definido no Regulamento (UE) n.º 1285/2013;\n\ng) As decisões de acreditação de segurança devem, segundo o processo definido na estratégia de acreditação de segurança, basear-se em decisões de acreditação de segurança locais tomadas pelas autoridades de acreditação de segurança respetivas dos Estados-Membros;\n\nh) Um processo de monitorização permanente, transparente e plenamente compreensível para todos deve assegurar que os riscos de segurança dos sistemas GNSS europeus são conhecidos, que as medidas de segurança são definidas por forma a reduzir esses riscos a um nível aceitável tendo em conta as necessidades de segurança da União e dos seus Estados-Membros e o bom funcionamento dos programas e que estas medidas são aplicadas em conformidade com o conceito da defesa em profundidade. A eficácia dessas medidas está sujeita a avaliação contínua. O processo relacionado com a avaliação e gestão de risco será conduzido como um processo iterativo em conjunto pelas partes interessadas nos programas;\n\ni) As decisões de acreditação de segurança são tomadas de modo estritamente independente, incluindo em relação à Comissão e às outras entidades responsáveis pela execução dos programas e pela prestação do serviço, bem como em relação ao Diretor Executivo e ao Conselho de Administração da Agência;\n\nj) As atividades de acreditação de segurança são exercidas tendo em conta a necessidade de uma coordenação adequada entre a Comissão e as entidades responsáveis pela aplicação das disposições relativas à segurança;\n\nk) As informações classificadas da UE são tratadas e protegidas por todos os intervenientes envolvidos na execução dos programas Galileo e EGNOS de acordo com os princípios de base e as normas mínimas estabelecidas nas respetivas regras de segurança do Conselho e da Comissão sobre a proteção das informações classificadas da UE."
+  },
+  "b10d61f91eeaa247": {
+   "fragment_id": "Artigo 11.º — Comité de Acreditação de Segurança",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comité de Acreditação de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comité de Acreditação de Segurança\n\n1. É criado um Comité de Acreditação de Segurança dos sistemas GNSS europeus («Comité de Acreditação de Segurança») para desempenhar as funções estabelecidas no presente artigo.\n\n2. O Comité de Acreditação de Segurança desempenha as suas funções sem prejuízo das responsabilidades confiadas à Comissão pelo Regulamento (UE) n.º 1285/2013, em especial em matérias relacionadas com a segurança, e sem prejuízo das competências dos Estados-Membros no que diz respeito à acreditação de segurança.\n\n3. Enquanto autoridade de acreditação de segurança, no tocante à acreditação de segurança dos sistemas GNSS europeus, o Comité de Acreditação de Segurança é responsável por:\n\na) Definir e aprovar a estratégia de acreditação de segurança estabelecendo:\n\ni) o âmbito das atividades necessárias para efetuar e manter a acreditação dos sistemas GNSS europeus e a sua potencial interconexão com outros sistemas,\n\nii) um processo de acreditação de segurança para os sistemas GNSS europeus com um grau de pormenor em função do nível de segurança exigido e indicando claramente as condições de aprovação; este processo obedece aos requisitos pertinentes, em especial aos referidos no artigo 13.º do Regulamento (UE) n.º 1285/2013,\n\niii) o papel dos intervenientes relevantes envolvidos no processo de acreditação,\n\niv) um calendário de acreditação compatível com as fases dos programas, em especial no tocante à implantação de infraestruturas, à prestação de serviços e à evolução,\n\nv) os princípios da acreditação de segurança das redes ligadas aos sistemas e de equipamento PRS ligado ao sistema estabelecido no âmbito do Programa Galileo a aplicar pelas entidades nacionais competentes em matéria de segurança nos vários Estados-Membros;\n\nb) Tomar decisões de acreditação, em especial as relativas à aprovação do lançamento de satélites, à autorização para fazer funcionar os sistemas nas suas diferentes configurações e para os diferentes serviços, inclusive até ao sinal no espaço, e à autorização para explorar as estações terrestres. No que diz respeito às redes e ao equipamento PRS ligado ao sistema estabelecido no âmbito do Programa Galileo, o Comité de Acreditação de Segurança só toma decisões relativas à autorização a conceder aos órgãos para o desenvolvimento e fabrico de recetores PRS ou módulos de segurança PRS, tendo em conta o aconselhamento prestado pelas autoridades nacionais competentes em matéria de segurança e os riscos de segurança globais;\n\nc) Analisar e, exceto no que diz respeito aos documentos que a Comissão deverá adotar nos termos do artigo 13.º do Regulamento (UE) n.º 1285/2013 e do artigo 8.º da Decisão n.º 1104/2011/UE, aprovar a documentação relacionada com a acreditação de segurança;\n\nd) No âmbito da sua competência, aconselhar a Comissão na elaboração dos projetos de atos a que se refere o artigo 13.º do Regulamento (UE) n.º 1285/2013 e o artigo 8.º da Decisão n.º 1104/2011/UE, designadamente para o estabelecimento de procedimentos operacionais de segurança (POS), e fazer uma declaração em que esteja patente a sua posição;\n\ne) Examinar e aprovar a avaliação do risco de segurança desenvolvida segundo o processo de acompanhamento a que se refere o artigo 10.º, alínea h), tendo em conta a conformidade com os documentos a que se refere o ponto c) do presente número e os desenvolvidos nos termos do artigo 13.º do Regulamento (UE) n.º 1285/2013 e do artigo 8.º da Decisão n.º 1104/2011/UE, e cooperar com a Comissão na definição das medidas de redução do risco;\n\nf) Verificar a execução das medidas de segurança em relação à acreditação de segurança dos sistemas GNSS europeus, realizando ou promovendo avaliações, inspeções ou controlos de segurança, nos termos do artigo 12.º, alínea b) do presente regulamento;\n\ng) Validar a seleção dos produtos e medidas aprovados de proteção contra a interceção de impulsos eletrónicos (TEMPEST) e dos produtos criptográficos aprovados utilizados para conferir segurança aos sistemas GNSS europeus;\n\nh) Aprovar ou, se relevante, participar na aprovação conjunta, a par da entidade nacional competente relevante em matéria de segurança, da interconexão dos sistemas GNSS europeus com outros sistemas;\n\ni) Determinar com o Estado-Membro relevante o modelo de controlo do acesso a que se refere o artigo 12.º, alínea c);\n\nj) Com base nos relatórios de risco a que se refere o n.º 11 do presente artigo, informar a Comissão da sua avaliação de risco e aconselhá-la quanto às opções de tratamento de riscos residuais no âmbito de uma dada decisão de acreditação de segurança;\n\nk) Em estreita ligação com a Comissão, assistir o Conselho na execução da Ação Comum 2004/552/PESC, mediante pedido específico do Conselho;\n\nl) Realizar as consultas que forem necessárias para desempenhar suas funções.\n\n4. O Comité de Acreditação de Segurança desempenha ainda as seguintes funções:\n\na) Prepara e aprova a parte do programa de trabalho plurianual a que se refere o artigo 8.º-A, n.º 1, relativa às atividades operacionais abrangidas pelo presente capítulo e aos recursos financeiros e humanos necessários ao cumprimento dessas atividades, e transmite essa parte em tempo útil ao Conselho de Administração, para que possa ser integrada no programa de trabalho plurianual;\n\nb) Prepara e aprova a parte do programa de trabalho anual a que se refere o artigo 8.º-A, n.º 2, relativa às atividades operacionais abrangidas pelo presente capítulo e aos recursos financeiros e humanos necessários ao cumprimento dessas atividades, e transmite essa parte em tempo útil ao Conselho de Administração, para que possa ser integrada no programa de trabalho anual;\n\nc) Prepara e aprova essa parte do relatório anual a que se refere o artigo 6.º, n.º 2, alínea h), relativa às atividades e perspetivas da Agência abrangidas pelo presente capítulo e aos recursos financeiros e humanos necessários ao cumprimento dessas atividades e perspetivas, e transmite essa parte, em tempo útil, ao Conselho de Administração, para que possa ser integrada no relatório anual;\n\nd) Adota o seu regulamento interno e publica-o.\n\n5. A Comissão mantém o Comité de Acreditação de Segurança permanentemente informado do impacto das suas eventuais decisões na correta execução dos programas e na execução de planos de tratamento dos riscos residuais. O Comité de Acreditação de Segurança toma em consideração todos os pareceres emitidos pela Comissão nesta matéria.\n\n6. As decisões do Comité de Acreditação de Segurança são dirigidas à Comissão.\n\n7. O Comité de Acreditação de Segurança é composto por um representante de cada Estado-Membro, um representante da Comissão e um representante do AR. Os Estados-Membros, a Comissão, e o Alto Representante devem procurar limitar a rotação dos seus respetivos representantes no Comité de Acreditação de Segurança. O mandato dos membros do Comité de Acreditação de Segurança tem uma duração de quatro anos e é renovável. Um representante da AEE é convidado a participar como observador nas reuniões do Comité de Acreditação de Segurança. A título excecional, poderão ser também convidados a participar nas reuniões, na qualidade de observadores, representantes de países terceiros ou organizações internacionais, sobre questões diretamente relacionadas com esses países terceiros ou organizações internacionais. As disposições atinentes à participação de representantes de países terceiros ou de organizações internacionais, bem como as condições de tal participação, são estabelecidas nos acordos a que se refere o artigo 23.º, n.º 1, e respeitam o disposto no regulamento interno do Comité de Acreditação de Segurança.\n\n8. O Comité de Acreditação de Segurança elege um Presidente e um Vice-Presidente de entre os seus membros, por maioria de dois terços de todos os membros com direito de voto. O Vice-Presidente substitui automaticamente o Presidente em caso de impedimento deste.\n\nO Comité de Acreditação de Segurança está habilitado a destituir o Presidente, o Vice-Presidente ou ambos. Adota a decisão de destituição por maioria de dois terços.\n\nO mandato do Presidente e do Vice-Presidente do Comité de Acreditação de Segurança tem uma duração de dois anos e é renovável uma vez. O mandato da pessoa em causa cessa quando ela perder a sua qualidade de membro do Comité de Acreditação de Segurança.\n\n9. O Comité de Acreditação de Segurança tem acesso a todos os recursos humanos e materiais necessários para poder desempenhar de forma adequada as suas funções de apoio administrativo e para, juntamente com os órgãos referidos no n.º 11, desempenhar com independência as suas funções, nomeadamente o tratamento de ficheiros, a iniciação e o acompanhamento da execução dos procedimentos de segurança, a execução de auditorias de segurança dos sistemas, a preparação de decisões e a organização das suas reuniões. Tem ainda acesso a todas as informações úteis de que a Agência disponha para o desempenho das suas funções, sem prejuízo dos princípios de autonomia e de independência referidos no artigo 10.º, alínea i).\n\n10. O Comité de Acreditação de Segurança e o pessoal da Agência sob o seu controlo desempenham as suas tarefas de forma a garantir a autonomia e a independência em relação às outras atividades da Agência, particularmente em relação às atividades operacionais ligadas à exploração dos sistemas, em consonância com os objetivos do programa. Para o efeito, é estabelecida no âmbito da Agência uma divisão organizacional eficaz entre o pessoal envolvido em atividades abrangidas pelo presente capítulo e o restante pessoal da Agência. O Comité de Acreditação de Segurança informa, de imediato, o Diretor Executivo, o Conselho de Administração e a Comissão de quaisquer circunstâncias que possam prejudicar a sua autonomia ou independência. Caso não seja encontrada uma solução no âmbito da Agência, a Comissão analisa a situação em consulta com as partes relevantes. Com base nos resultados dessa análise, a Comissão tomas medidas de atenuação do risco adequadas que a Agência deve aplicar e informa o Parlamento Europeu e o Conselho a esse respeito.\n\n11. O Comité de Acreditação de Segurança cria órgãos subordinados especiais, que devem agir de acordo com as suas instruções, para tratar de questões específicas. Em particular, e assegurando simultaneamente a continuidade dos trabalhos, cria um painel para efetuar revisões e testes de análise da segurança com vista à elaboração dos relatórios de risco relevantes, para o assistir na preparação das suas decisões. O Comité de Acreditação de Segurança pode criar e suprimir grupos de peritos para contribuírem para os trabalhos do painel.\n\n12. Sem prejuízo das competências dos Estados-Membros e da função da Agência a que se refere o artigo 14.º, n.º 1, alínea a), subalínea i), do Regulamento (UE) n.º 1285/2013, durante a fase de implantação do Programa Galileo é criado um grupo de peritos dos Estados-Membros sob a supervisão do Comité de Acreditação de Segurança para desempenhar as funções da Autoridade de Distribuição Criptográfica (ADC) relativas à gestão do material criptográfico da UE, designadamente para:\n\ni) a gestão das chaves de voo e outras chaves necessárias ao funcionamento do sistema instituído no âmbito do Programa Galileo,\n\nii) a verificação do estabelecimento e execução dos processos em matéria de contabilização, tratamento seguro, armazenamento e distribuição das chaves PRS.\n\n13. Caso não seja possível chegar a um consenso acerca dos princípios gerais a que se refere o artigo 10.º do presente regulamento, o Comité de Acreditação de Segurança toma as suas decisões deliberando por maioria, nos termos do artigo 16.º do Tratado da União Europeia e sem prejuízo do artigo 9.º do presente regulamento. O representante da Comissão e o representante do AR não participam na votação. O presidente do Comité de Acreditação de Segurança assina, em nome do Comité de Acreditação de Segurança, as decisões por este aprovadas.\n\n14. A Comissão mantém o Parlamento Europeu e o Conselho informados, sem atrasos injustificados, do impacto da aprovação de decisões de acreditação de segurança na correta execução dos programas. Se a Comissão considerar que uma decisão tomada pelo Comité de Acreditação de Segurança pode ter um efeito significativo na correta execução dos programas, por exemplo em termos de custos, calendário e desempenho, informa imediatamente o Parlamento Europeu e o Conselho.\n\n15. Tendo em conta os pareceres do Parlamento Europeu e do Conselho, que deverão ser emitidos no prazo de um mês, a Comissão pode tomar quaisquer medidas adequadas nos termos do Regulamento (UE) n.º 1285/2013.\n\n16. O Conselho de Administração é informado periodicamente sobre o andamento dos trabalhos do Comité de Acreditação de Segurança.\n\n17. O calendário dos trabalhos do Comité de Acreditação de Segurança respeita o programa anual de trabalho referido no artigo 27.º do Regulamento (UE) n.º 1285/2013."
+  },
+  "28d36cd803b09fac": {
+   "fragment_id": "Artigo 11.º-A — Funções do Presidente do Comité de Acreditação de Segurança",
+   "type": "artigo",
+   "heading": "Artigo 11.º-A — Funções do Presidente do Comité de Acreditação de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Funções do Presidente do Comité de Acreditação de Segurança\n\n1. O Presidente do Comité de Acreditação de Segurança desempenha as seguintes funções:\n\na) Gere as atividades de acreditação de segurança sob a supervisão do Comité de Acreditação de Segurança;\n\nb) Executa a parte dos programas de trabalho anuais e plurianuais da Agência abrangidos pelo presente capítulo, sob a supervisão do Comité de Acreditação de Segurança;\n\nc) Coopera com o Diretor Executivo, ajudando-o a elaborar o projeto de quadro de pessoal a que se refere o artigo 13.º, n.º 3, e as estruturas organizativas da Agência;\n\nd) Elabora a parte do relatório intercalar a que se refere o artigo 8.º, alínea g), relativa às atividades operacionais abrangidas pelo presente capítulo, e apresenta-a atempadamente ao Comité de Acreditação de Segurança e ao Diretor Executivo, para que possa ser integrada no relatório intercalar;\n\ne) Elabora a parte do relatório anual e do plano de ação a que se refere o artigo 8.º, alíneas h) e r), respetivamente, relativa às atividades operacionais abrangidas pelo presente capítulo, e apresenta-a atempadamente ao Diretor Executivo;\n\nf) Representa a Agência no que respeita às atividades e decisões abrangidas pelo presente capítulo;\n\ng) Exerce, em relação ao pessoal da Agência envolvido nas atividades decorrentes do presente capítulo, os poderes previstos no artigo 6.º, n.º 3, primeiro parágrafo, que lhe sejam delegados nos termos do artigo 6.º, n.º 3, quarto parágrafo.\n\n2. No que respeita às atividades abrangidas pelo presente capítulo, o Parlamento Europeu e o Conselho podem convidar o Diretor Executivo do Comité de Acreditação de Segurança a proceder a uma troca de pontos de vista sobre o trabalho e as perspetivas da Agência perante essas instituições, nomeadamente no que se refere ao programa de trabalho plurianual e anual."
+  },
+  "ea61ede1db1db3ac": {
+   "fragment_id": "Artigo 12.º — Função dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Função dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Função dos Estados-Membros\n\nOs Estados-Membros:\n\na) Transmitem ao Comité de Acreditação de Segurança todas as informações que considerem relevantes para efeitos da acreditação de segurança;\n\nb) Permitem às pessoas devidamente autorizadas nomeadas pelo Comité de Acreditação de Segurança, com o acordo e sob a supervisão das entidades nacionais competentes em matéria de segurança nesse Estado-Membro, o acesso a todas as informações e a todas as áreas e/ou locais relacionados com a segurança dos sistemas sob a sua jurisdição, em conformidade com as respetivas disposições legislativas e regulamentares nacionais e sem qualquer discriminação em razão da nacionalidade dos nacionais de Estados-Membros, nomeadamente para efeitos de auditorias e ensaios de segurança decididos pelo Comité de Acreditação de Segurança e do processo de monitorização do risco de segurança a que se refere o artigo 10.º, alínea h). Tais ensaios e auditorias são efetuados de acordo com os seguintes princípios:\n\ni) realçar a importância da segurança e de uma gestão de risco eficaz nas entidades inspecionadas,\n\nii) recomendar contramedidas destinadas a atenuar as consequências específicas da perda de confidencialidade, integridade ou disponibilidade de informações classificadas;\n\nc) São cada um deles responsáveis pela elaboração de um modelo de controlo do acesso, que defina ou enumere as áreas e locais que devam ser sujeitos a acreditação e que deve ser previamente acordado entre os Estados-Membros e o Comité de Acreditação de Segurança, assegurando desse modo que o mesmo nível de controlo de acesso seja dado por todos os Estados-Membros;\n\nd) São responsáveis, no plano local, pela acreditação de segurança das áreas localizadas no seu território que façam parte do perímetro de acreditação de segurança dos sistemas GNSS europeus e, para o efeito, apresentam relatórios ao Comité de Acreditação de Segurança."
+  },
+  "1a99dd292f6ab5de": {
+   "fragment_id": "Artigo 13.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Orçamento\n\n1. Sem prejuízo de outros recursos e taxas a definir, as receitas da Agência compreendem uma subvenção da União inscrita no orçamento geral da União Europeia e destinada a assegurar o equilíbrio entre as receitas e as despesas.\n\n2. As despesas da Agência incluem as despesas com pessoal, as despesas administrativas e de infra-estrutura, os custos operacionais e as despesas relacionadas com o funcionamento do Comité de Acreditação de Segurança, incluindo os órgãos a que se refere o n.º 11 do artigo 11.º, e com os contratos e acordos celebrados pela Agência para cumprir as atribuições que lhe são confiadas.\n\n3. O Diretor Executivo elabora, em estreita colaboração com o Presidente do Comité de Acreditação de Segurança relativamente às atividades abrangidas pelo Capítulo III, um projeto de mapa previsional das receitas e das despesas da Agência para o exercício financeiro seguinte, tornando clara a distinção entre os elementos do projeto de mapa previsional que dizem respeito às atividades de acreditação de segurança e as outras atividades da Agência. O Presidente do Comité de Acreditação de Segurança pode fazer uma declaração escrita sobre esse projeto e o Diretor Executivo envia o projeto de mapa previsional e a declaração ao Conselho de Administração e ao Comité de Acreditação de Segurança, acompanhado de um projeto de quadro de pessoal.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. Anualmente, o Conselho de Administração, com base no projeto de mapa previsional das receitas e das despesas e em estreita concertação com o Comité de Acreditação de Segurança relativamente às atividades abrangidas pelo Capítulo III, elabora o mapa previsional das receitas e das despesas da Agência para o exercício financeiro seguinte.\n\n6. O Conselho de Administração deve, até 31 de março, transmitir o mapa previsional, que deve incluir um projeto de quadro de pessoal acompanhado do programa anual de trabalho provisório, à Comissão e aos países terceiros ou organizações internacionais com os quais a União tenha celebrado acordos nos termos do artigo 23.º, n.º 1.\n\n7. O mapa previsional é enviado pela Comissão ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental») juntamente com o projecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão inscreve no projecto de orçamento geral da União Europeia as previsões que considere necessárias no que respeita ao quadro de pessoal e o montante da subvenção imputada ao orçamento geral, que apresenta à autoridade orçamental nos termos do artigo 314.º do Tratado sobre o Funcionamento da União Europeia.\n\n9. A autoridade orçamental autoriza as dotações a título da subvenção destinada à Agência e aprova o quadro de pessoal da Agência.\n\n10. O Conselho de Administração aprova o orçamento. O orçamento torna-se definitivo após a adopção definitiva do orçamento geral da União Europeia. O orçamento da Agência é adaptado em conformidade, se for caso disso.\n\n11. O Conselho de Administração notifica, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto que tenha incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente projectos de natureza imobiliária, como o arrendamento ou a aquisição de imóveis. Do facto informa a Comissão.\n\n12. Caso um dos ramos da autoridade orçamental comunique a sua intenção de emitir um parecer, deve transmitir esse parecer ao Conselho de Administração no prazo de seis semanas a contar da data da notificação do projecto."
+  },
+  "5c852c730b433c28": {
+   "fragment_id": "Artigo 14.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução e controlo do orçamento\n\n1. O Director Executivo executa o orçamento da Agência.\n\n2. Até 1 de Março do ano seguinte ao do exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias, acompanhadas de um relatório sobre a gestão orçamental e financeira respeitante a esse exercício. O contabilista da Comissão consolida as contas provisórias das instituições e organismos descentralizados nos termos do artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002.\n\n3. Até 31 de Março do ano seguinte ao do exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência, acompanhadas de um relatório sobre a gestão orçamental e financeira respeitante a esse exercício. O relatório é igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após a recepção das observações formuladas pelo Tribunal de Contas sobre as contas provisórias da Agência nos termos do artigo 129.º do Regulamento (CE, Euratom) n.º 1605/2002, o Director Executivo estabelece as contas definitivas da Agência sob a sua própria responsabilidade e submete-as à apreciação do Conselho de Administração.\n\n5. O Conselho de Administração dá parecer sobre as contas definitivas da Agência.\n\n6. O Director Executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do Conselho de Administração, até 1 de Julho do ano seguinte ao do exercício encerrado.\n\n7. As contas definitivas são objecto de publicação.\n\n8. Até 30 de Setembro, o Director Executivo envia ao Tribunal de Contas uma resposta às observações deste último. Envia também essa resposta ao Conselho de Administração.\n\n9. O Director Executivo comunica ao Parlamento Europeu, a pedido deste, nos termos do n.º 3 do artigo 146.º do Regulamento (CE, Euratom) n.º 1605/2002, todas as informações necessárias ao bom desenrolar do processo de quitação relativo ao exercício em causa.\n\n10. Antes de 30 de abril do ano N + 2, o Parlamento Europeu, por recomendação do Conselho deliberando por maioria qualificada, dá quitação ao Diretor Executivo quanto à execução do orçamento do exercício N, com exceção da parte da execução do orçamento que decorre das tarefas que, se for caso disso, são confiadas à Agência ao abrigo do artigo 14.º, n.º 2, do Regulamento (UE) n.º 1285/2013, à qual se aplica o procedimento referido nos artigos 164.º e 165.º do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0012))."
+  },
+  "737fdb803586064b": {
+   "fragment_id": "Artigo 15.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições financeiras\n\nAs regras financeiras aplicáveis à Agência são aprovadas pelo Conselho de Administração após consulta à Comissão. Essas regras apenas podem divergir do Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^13^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0013)), se as exigências específicas do funcionamento da Agência a isso obrigarem e com o consentimento prévio da Comissão."
+  },
+  "3e1044d2202019a1": {
+   "fragment_id": "CAPÍTULO IV-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV-A"
+  },
+  "dac64634a6bed2b1": {
+   "fragment_id": "RECURSOS HUMANOS",
+   "type": "divisao",
+   "heading": "RECURSOS HUMANOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECURSOS HUMANOS"
+  },
+  "79b0b79d838899cc": {
+   "fragment_id": "Artigo 15.º-A — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Pessoal\n\n1. O Estatuto dos Funcionários da União Europeia, o Regime aplicável aos outros agentes e as regulamentações adotadas de comum acordo pelas instituições da União para efeitos da aplicação do referido estatuto e do referido regime aplicam-se ao pessoal da Agência.\n\n2. O pessoal da Agência é constituído por agentes por ela recrutados na medida do necessário para o desempenho das suas funções. Esses agentes devem possuir as habilitações de segurança adequadas à classificação das informações que tratam.\n\n3. As regras internas da Agência, tais como o regulamento interno do Conselho de Administração, o regulamento interno do Comité de Acreditação de Segurança, a regulamentação financeira aplicável à Agência, as modalidades de aplicação do estatuto do pessoal e as modalidades de acesso aos documentos, devem assegurar a autonomia e a independência do pessoal que exerce atividades de acreditação de segurança relativamente ao pessoal que exerce as outras atividades da Agência, nos termos do artigo 10.º, alínea i)."
+  },
+  "3abf35f12b2125fd": {
+   "fragment_id": "Artigo 15.º-B — Nomeação e mandato do Diretor Executivo",
+   "type": "artigo",
+   "heading": "Artigo 15.º-B — Nomeação e mandato do Diretor Executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-B — Nomeação e mandato do Diretor Executivo\n\n1. O Diretor Executivo é nomeado como agente temporário da Agência, nos termos do artigo 2.º, alínea a), do Regime aplicável aos outros agentes.\n\n2. O Diretor Executivo é nomeado pelo Conselho de Administração com base no mérito e nas capacidades administrativas e de gestão documentadas que lhe são reconhecidas, bem como nas suas competências e experiência relevantes, a partir de uma lista de candidatos propostos pela Comissão após um concurso público transparente e aberto à concorrência, na sequência da publicação de um convite a manifestação de interesse publicado no *Jornal Oficial da União Europeia* ou noutros meios de comunicação.\n\nO candidato selecionado pelo Conselho de Administração pode ser convidado a fazer, com a maior brevidade possível, uma declaração perante o Parlamento Europeu e a responder às perguntas dos respetivos membros.\n\nPara efeitos de celebração do contrato do Diretor Executivo, o Presidente do Conselho de Administração representa a Agência.\n\nO Conselho de Administração toma a decisão de nomeação do Diretor Executivo por maioria de dois terços dos seus membros.\n\n3. O mandato do Diretor Executivo é de cinco anos. No termo desse mandato, a Comissão procede a uma avaliação, tendo em conta o desempenho do Diretor Executivo tendo em conta as futuras missões e os desafios que se colocam à Agência.\n\nCom base numa proposta da Comissão que tem em conta a avaliação referida no primeiro parágrafo, o Conselho de Administração pode prorrogar o mandato do Diretor Executivo uma única vez, por um período não superior a quatro anos.\n\nQualquer decisão de prorrogação do mandato do Diretor Executivo é adotada por maioria de dois terços dos membros do Conselho de Administração.\n\nUm Diretor Executivo cujo mandato tenha sido prorrogado não pode participar depois num processo de seleção para o mesmo cargo.\n\nO Conselho de Administração informa o Parlamento Europeu da sua intenção de prorrogar o mandato do Diretor Executivo. No mês que precede essa prorrogação, o Diretor Executivo pode ser convidado a proferir uma declaração perante as comissões competentes do Parlamento Europeu e a responder às perguntas dos deputados.\n\n4. O Conselho de Administração pode demitir o Diretor Executivo, sob proposta da Comissão ou de um terço dos seus membros, por decisão adotada por maioria de dois terços dos seus membros.\n\n5. O Parlamento Europeu e o Conselho podem convidar o Diretor Executivo a proceder a uma troca de pontos de vista sobre o trabalho e as perspetivas da Agência perante essas instituições, nomeadamente no que se refere ao programa de trabalho plurianual e anual. Essa troca de pontos de vista não incide sobre questões relacionadas com as atividades de acreditação de segurança abrangidas pelo Capítulo III."
+  },
+  "f88ad01234b3f3a8": {
+   "fragment_id": "Artigo 15.º-C — Peritos nacionais destacados",
+   "type": "artigo",
+   "heading": "Artigo 15.º-C — Peritos nacionais destacados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-C — Peritos nacionais destacados\n\nA Agência pode também recorrer a peritos nacionais. Esses peritos devem possuir as habilitações de segurança adequadas à classificação das informações que tratam. O Estatuto dos Funcionários e o Regime aplicável aos outros agentes não se aplicam a esses peritos."
+  },
+  "d8112268018e0c5e": {
+   "fragment_id": "Artigo 16.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Luta contra a fraude\n\n1. Para efeitos de luta contra a fraude, a corrupção e outros atos ilegais, o Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0014)) é aplicável à Agência sem restrições. Para esse efeito, a Agência adere ao Acordo Interinstitucional de 25 de maio de 1999 entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^15^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0015)) e adota as disposições adequadas aplicáveis ao pessoal da Agência e aos peritos nacionais destacados, recorrendo ao modelo de decisão que consta do anexo ao acordo.\n\n2. O Tribunal de Contas tem o poder de controlar os beneficiários das dotações da Agência, assim como os contratantes e subcontratantes que tenham recebido fundos da União através da Agência, com base nos documentos que lhe sejam confiados ou através de inspeções realizadas no local.\n\n3. Ao abrigo de subvenções financiadas ou de contratos celebrados pela Agência, o OLAF pode efetuar inquéritos, incluindo controlos e verificações no local, nos termos do Regulamento (UE, Euratom) n.º 883/2013 e do Regulamento (Euratom, CE) n.º 2185/96 do Conselho ([^16^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0016)), a fim de lutar contra a fraude, a corrupção e qualquer outra atividade ilegal lesiva dos interesses financeiros da União.\n\n4. Sem prejuízo dos n.^os^ 1, 2 e 3 do presente artigo, os acordos de cooperação celebrados pela Agência com países terceiros ou organizações internacionais, os contratos e as convenções de subvenção concluídos pela Agência com terceiros e qualquer decisão de financiamento tomada pela Agência devem prever expressamente que o Tribunal de Contas e o OLAF podem efetuar controlos e inquéritos de acordo com as respetivas competências."
+  },
+  "b78b8231d1e9f755": {
+   "fragment_id": "Artigo 17.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Privilégios e imunidades\n\nO Protocolo (n.º 7) relativo aos privilégios e imunidades da União Europeia, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia, é aplicável à Agência e ao pessoal a que se refere o artigo 15.º-A."
+  },
+  "6b9f65c91e7b78cb": {
+   "fragment_id": "Artigo 20.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Línguas\n\n1. O Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^17^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0017)), é aplicável à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Órgãos da União Europeia."
+  },
+  "b87843fb94764880": {
+   "fragment_id": "Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acesso a documentos e protecção de dados de carácter pessoal\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^18^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0018)), é aplicável aos documentos detidos pela Agência.\n\n2. O Conselho de Administração aprova as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do presente regulamento.\n\n3. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa ao Provedor de Justiça ou ser impugnadas no Tribunal de Justiça da União Europeia, ao abrigo, respectivamente, dos artigos 228.º e 263.º do Tratado sobre o Funcionamento da União Europeia.\n\n4. O tratamento de dados de carácter pessoal efectuado pela Agência está sujeito ao disposto no Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([^19^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0019))."
+  },
+  "3f53e1cd3cd2f873": {
+   "fragment_id": "Artigo 22.º — Regras de segurança relativas à proteção das informações classificadas ou sensíveis",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Regras de segurança relativas à proteção das informações classificadas ou sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regras de segurança relativas à proteção das informações classificadas ou sensíveis\n\n1. No que respeita à proteção das informações classificadas da União, a Agência aplica as regras de segurança estabelecidas pela Comissão.\n\n2. A Agência pode estabelecer, no seu regulamento interno, disposições aplicáveis ao tratamento de informações não classificadas mas sensíveis. Tais disposições abrangerão, nomeadamente, o intercâmbio, tratamento e armazenamento das referidas informações."
+  },
+  "f599647d33fda992": {
+   "fragment_id": "Artigo 22.º-A — Conflitos de interesses",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A — Conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A — Conflitos de interesses\n\n1. Os membros do Conselho de Administração e do Comité de Acreditação de Segurança, o Diretor Executivo e os peritos nacionais e os observadores destacados devem fazer uma declaração de compromisso e uma declaração de interesses, indicando a ausência ou a existência de quaisquer interesses, diretos ou indiretos, que possam ser considerados prejudiciais à sua independência. Essas declarações devem ser precisas e completas. As declarações são feitas por escrito aquando da entrada em funções e renovadas anualmente. São atualizadas sempre que necessário, em particular em caso de alteração relevante da situação pessoal das pessoas em causa.\n\n2. Antes de qualquer reunião em que devam participar, os membros do Conselho de Administração e do Comité de Acreditação de Segurança, o Diretor Executivo, bem como os peritos nacionais e os observadores destacados e os peritos externos que façam parte de grupos *ad hoc*, devem declarar, de forma precisa e completa, a ausência ou existência de qualquer interesse que possa ser considerado prejudicial à sua independência em relação aos pontos da ordem de trabalhos, **e** abster-se de participar nos debates e na votação desses pontos.\n\n3. O Conselho de Administração e o Comité de Acreditação de Segurança devem definir, no seu regulamento interno, as modalidades práticas aplicáveis à regra de declaração de interesses referida nos n.^os^ 1 e 2 e à prevenção e gestão dos conflitos de interesses."
+  },
+  "a0994f4ef35cb4bf": {
+   "fragment_id": "Artigo 23.º — Participação de países terceiros e de organizações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Participação de países terceiros e de organizações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Participação de países terceiros e de organizações internacionais\n\n1. A Agência está aberta à participação de países terceiros e de organizações internacionais. Essa participação e as respetivas condições são estabelecidas num acordo entre a União Europeia e esse país terceiro ou essa organização internacional, de acordo com o procedimento previsto no artigo 218.º do Tratado sobre o Funcionamento da União Europeia.\n\n2. De acordo com as disposições aplicáveis desses acordos, são desenvolvidas modalidades práticas relativas à participação de países terceiros ou de organizações internacionais nos trabalhos da Agência, incluindo disposições relativas à sua participação nas iniciativas desenvolvidas pela Agência, às contribuições financeiras e ao pessoal."
+  },
+  "e239b33f61f28bd9": {
+   "fragment_id": "Artigo 23.º-A — Adjudicação conjunta de contratos públicos com os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A — Adjudicação conjunta de contratos públicos com os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A — Adjudicação conjunta de contratos públicos com os Estados-Membros\n\nPara desempenhar as suas funções, a Agência é autorizada a adjudicar contratos conjuntos com os Estados-Membros, nos termos do Regulamento Delegado (UE) n.º 1268/2012 da Comissão ([^20^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#E0020))."
+  },
+  "4a1ee9e50f2c7710": {
+   "fragment_id": "Artigo 26.º — Revisão, avaliação e auditoria",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Revisão, avaliação e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revisão, avaliação e auditoria\n\n1. Até 31 de dezembro de 2016 e posteriormente, de cinco em cinco anos, a Comissão deve avaliar a Agência que incida, em especial, sobre a sua eficácia, bom funcionamento, métodos de trabalho, necessidades e emprego dos recursos que lhe foram confiados. A avaliação deve incluir, em especial, uma análise de qualquer eventual alteração do âmbito ou da natureza das atribuições da Agência e da incidência financeira de tal alteração. Deve abordar a aplicação da política da Agência em matéria de conflito de interesses e deve também refletir todas as circunstâncias que possam ter prejudicado a independência e autonomia do Comité de Acreditação de Segurança.\n\n2. A Comissão transmite um relatório de avaliação, bem como as suas próprias conclusões ao Parlamento Europeu, ao Conselho, ao Conselho de Administração e ao Comité de Acreditação de Segurança da Agência. Os resultados da avaliação são tornados públicos.\n\n3. Uma em cada duas avaliações inclui um exame do balanço da Agência no que respeita aos seus objetivos e missões. Se considerar que a manutenção da Agência deixa de se justificar à luz dos objetivos e missões que lhe foram atribuídos, a Comissão pode, se adequado, propor a revogação do presente regulamento.\n\n4. A pedido do Conselho de Administração ou da Comissão, podem ser efetuadas auditorias externas sobre o desempenho das funções da Agência."
+  },
+  "1e961021fb708420": {
+   "fragment_id": "Artigo 27.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "c83360129dfc07a9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0001)) JO C 317 de 23.12.2009, p. 103.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0002)) Posição do Parlamento Europeu de 16 de Junho de 2010 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 13 de Setembro de 2010.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0003)) JO L 246 de 20.7.2004, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0004)) JO L 196 de 24.7.2008, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0005)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0006)) JO L 246 de 20.7.2004, p. 30.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0007)) Regulamento (UE) n.º 1285/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à implantação e à exploração dos sistemas europeus de navegação por satélite e que revoga o Regulamento (CE) n.º 876/2002 do Conselho e o Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho (JO L 347 de 20.12.2013, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0008)) Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão (JO L 145 de 31.5.2001, p. 43).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0009)) Estatuto dos Funcionários e o Regime aplicável aos outros agentes da União Europeia, fixado no Regulamento (CEE, Euratom, CECA) n.º 259/68 do Conselho (JO L 56 de 4.3.1968, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0010)) Ação Comum 2004/552/PESC do Conselho, de 12 de julho de 2004, sobre os aspetos da exploração do sistema europeu de radionavegação por satélite que afetem a segurança da União Europeia (JO L 246 de 20.7.2004, p. 30).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0011)) Decisão n.º 1104/2011/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativa às regras de acesso ao serviço público regulado oferecido pelo sistema mundial de radionavegação por satélite criado ao abrigo do programa Galileo (JO L 287 de 4.11.2011, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0012)) Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo às disposições financeiras aplicáveis ao orçamento geral da União e que revoga o Regulamento (CE, Euratom) n.º 1605/2012 do Conselho (JO L 298 de 26.10.2012, p. 1).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0013)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0014)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0015)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0016)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0017)) JO 17 de 6.10.1958, p. 385/58.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0018)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0019)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/7e641a77-ae46-44cb-8f0f-a309632c438d.0016.02/DOC_1#src.E0020)) Regulamento Delegado (UE) n.º 1268/2012 da Comissão, de 29 de outubro de 2012, sobre as normas de execução do Regulamento (UE, Euratom) n.º 966/2012 do Parlamento Europeu e do Conselho, relativo às disposições financeiras aplicáveis ao orçamento geral da União (JO L 362 de 31.12.2012, p. 1)."
+  },
+  "e486afe86337925c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R0912 — PT — 01.01.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R0912) [REGULAMENTO (UE) N.º 912/2010 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32010R0912) [de 22 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0912) [que cria a Agência do GNSS Europeu, revoga o Regulamento (CE) n.º 1321/2004 do Conselho relativo às estruturas de gestão dos programas europeus de radionavegação por satélite e altera o Regulamento (CE) n.º 683/2008 do Parlamento Europeu e do Conselho](http://publications.europa.eu/resource/celex/32010R0912) (JO L 276, 20.10.2010, p.11)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2021/696 do Parlamento Europeu e do Conselho de 28 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0696) — L 170 — 69 — 12.5.2021"
+  }
+ }
+}

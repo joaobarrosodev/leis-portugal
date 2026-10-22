@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R1016:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R1016-20210301",
+ "dre_path": null,
+ "source_lastmod": "2021-03-01",
+ "versions": [
+  {
+   "date": "2010-11-11",
+   "future": false,
+   "celex": "32010R1016",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f97844b484bb34a8",
+    "d1296f9b90aa6f9c",
+    "4e7d2959403e16ff",
+    "13bcdc8b15bb3717",
+    "78aad4e151b7bc0c",
+    "b6c2c7520ebec63f",
+    "331a975b822c8304",
+    "bbef5d5fec559465",
+    "e2da1b1550b38c3e",
+    "fd42afe36fb7312e"
+   ]
+  },
+  {
+   "date": "2021-03-01",
+   "future": false,
+   "celex": "02010R1016-20210301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Requisitos de concepção ecológica",
+    "Suprime Artigo 4.º — Avaliação de conformidade",
+    "Suprime Artigo 5.º — Procedimento de verificação para efeitos de vigilância do mercado",
+    "Suprime Artigo 6.º — Padrões de referência",
+    "Suprime Artigo 7.º — Revisão",
+    "Suprime Artigo 8.º — Entrada em vigor e aplicação",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9b74052d26ad3816"
+   ]
+  }
+ ],
+ "fragments": {
+  "f97844b484bb34a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro de 2010\n\nque dá execução à Directiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para as máquinas de lavar loiça para uso doméstico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, relativa à criação de um quadro para definir os requisitos de concepção ecológica dos produtos relacionados com o consumo de energia [([^1])](http://publications.europa.eu/resource/cellar/5c59ad79-de37-4784-a1eb-03a08e06e875.0019.04/DOC_1#ntr1-L_2010293PT.01003101-E0001), e, nomeadamente, o seu artigo 15.º, n.º 1,\n\nApós consulta do Fórum de Consulta sobre a concepção ecológica,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2009/125/CE, a Comissão deve definir os requisitos de concepção ecológica aplicáveis aos produtos relacionados com o consumo de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental sem implicar custos excessivos.\n\n(2) O artigo 16.º, n.º 2, primeiro travessão da Directiva 2009/125/CE determina que, em conformidade com o procedimento a que se refere o artigo 19.º, n.º 3, e com os critérios previstos no artigo 15.º, n.º 2, e após consulta do Fórum de Consulta sobre a concepção ecológica, a Comissão introduzirá, se for caso disso, uma medida de execução em relação aos produtos domésticos, incluindo as máquinas de lavar loiça para uso doméstico.\n\n(3) A Comissão realizou um estudo preparatório que analisou os aspectos técnicos, ambientais e económicos das máquinas de lavar loiça para uso doméstico tipicamente utilizadas no sector doméstico. O estudo foi realizado em conjunto com as partes interessadas da União e de países terceiros e os seus resultados foram divulgados publicamente.\n\n(4) O presente regulamento deve abranger produtos destinados à lavagem de loiça no sector doméstico.\n\n(5) O aspecto de incidência ambiental das máquinas de lavar loiça para uso doméstico considerado significativo para efeitos do presente regulamento é o consumo energético na fase de utilização. O consumo anual de electricidade dos produtos abrangidos pelo presente regulamento foi calculado como tendo sido de 24,7 TWh na União em 2005, o que corresponde a 13 milhões de toneladas de CO2. A menos que sejam adoptadas medidas específicas, calcula-se que o consumo anual de electricidade aumentará para 35 TWh em 2020. O estudo preparatório mostra que o consumo de electricidade e de água dos produtos abrangidos pelo presente regulamento pode ser reduzido de forma significativa.\n\n(6) O estudo preparatório mostra que os requisitos relativos a outros parâmetros de concepção ecológica referidos no anexo I, parte 1, da Directiva 2009/125/CE não são necessários, já que o consumo de electricidade das máquinas de lavar loiça para uso doméstico na fase de utilização é de longe o aspecto mais importante do ponto de vista ambiental.\n\n(7) O consumo de electricidade dos produtos abrangidos pelo presente regulamento deve ser tornado mais eficiente pela aplicação de tecnologias abertas (e não exclusivas do fabricante) já existentes, economicamente rentáveis, capazes de reduzir as despesas combinadas da aquisição e do funcionamento destes produtos.\n\n(8) Os requisitos de concepção ecológica não devem afectar a funcionalidade dos produtos na perspectiva do utilizador final, nem prejudicar a saúde, a segurança ou o ambiente. Em especial, os benefícios da redução do consumo de electricidade durante a fase de utilização devem compensar amplamente os potenciais impactos ambientais suplementares durante a fase de produção.\n\n(9) Os requisitos de concepção ecológica devem ser introduzidos progressivamente, de forma a deixar aos fabricantes um período suficiente para estes alterarem a concepção dos produtos abrangidos pelo presente regulamento. O calendário deve ser de molde a evitar incidências negativas nas funcionalidades do equipamento que se encontra no mercado e a ter em conta o impacto em matéria de custos para os utilizadores finais e os fabricantes, designadamente as pequenas e médias empresas, assegurando simultaneamente a realização, em tempo útil, dos objectivos do presente regulamento.\n\n(10) A medição dos parâmetros pertinentes do produto deve ser efectuada utilizando métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração os métodos de medição reconhecidos como os mais avançados, incluindo, quando disponíveis, as normas harmonizadas adoptadas pelos organismos europeus de normalização enumerados no anexo I da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^2])](http://publications.europa.eu/resource/cellar/5c59ad79-de37-4784-a1eb-03a08e06e875.0019.04/DOC_1#ntr2-L_2010293PT.01003101-E0002).\n\n(11) Em conformidade com o artigo 8.º da Directiva 2009/125/CE, o presente regulamento deve especificar os procedimentos de avaliação da conformidade aplicáveis.\n\n(12) A fim de facilitar as verificações da conformidade, os fabricantes devem fornecer, na documentação técnica referida nos anexos V e VI da Directiva 2009/125/CE, toda a informação que esteja relacionada com os requisitos definidos no presente regulamento.\n\n(13) Para além dos requisitos juridicamente vinculativos estabelecidos no presente regulamento, devem ser identificados marcos de referência indicativos para as melhores tecnologias disponíveis, de forma a garantir que as informações sobre o desempenho ambiental do ciclo de vida dos produtos abrangidos pelo presente regulamento sejam amplamente disponíveis e acessíveis.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité referido no artigo 19.º, n.º 1, da Directiva 2009/125/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d1296f9b90aa6f9c": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente regulamento estabelece requisitos de concepção ecológica para a colocação no mercado de máquinas de lavar loiça para uso doméstico alimentadas pela rede eléctrica e de máquinas de lavar loiça para uso doméstico alimentadas pela rede eléctrica que possam também ser alimentadas por baterias, incluindo as vendidas para utilizações não domésticas e as máquinas de lavar loiça encastradas para uso doméstico."
+  },
+  "4e7d2959403e16ff": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nAlém das definições estabelecidas no artigo 2.º da Directiva 2009/125/CE, são aplicáveis, para efeitos do presente regulamento, as seguintes definições:\n\n1. **«Máquina de lavar loiça para uso doméstico»**: máquina que lava, enxagua e seca loiça, copos, talheres e utensílios de cozinha, por meios químicos, mecânicos, térmicos e eléctricos e que é destinada a ser utilizada principalmente para fins não profissionais.\n\n2. **«Máquina de lavar louça para uso doméstico encastrada»**: máquina de lavar loiça para uso doméstico destinada a ser instalada num armário, numa reentrância preparada numa parede, ou num local semelhante, com adaptação necessária ao equipamento circundante.\n\n3. **«Serviço individual»**: conjunto definido de loiça, copos e talheres, para uso de uma pessoa.\n\n4. **«Capacidade nominal»**: o número máximo de serviços individuais, juntamente com as peças de serviço, como indicado pelo fabricante, que podem ser tratados numa máquina de lavar loiça para uso doméstico num programa seleccionado, quando carregados de acordo com as instruções do fabricante.\n\n5. **«Programa»**: uma série de operações predefinidas, que o fabricante declara que são adequadas para graus de sujidade ou tipos de carga específicos, ou para ambos, e que juntas constituem um ciclo completo.\n\n6. **«Duração do programa»**: tempo que decorre desde o início do programa até ao seu final, com exclusão de qualquer atraso programado pelo utilizador.\n\n7. **«Ciclo»**: lavagem completa, enxaguamento e processo de secagem, como definido para o programa seleccionado.\n\n8. **«Estado de desactivação»**: estado em que a máquina de lavar loiça para uso doméstico é desligada, por meio de comandos ou interruptores acessíveis e destinados a ser operados pelo utilizador final durante a utilização normal, de modo a atingir o consumo de energia mais reduzido, susceptível de persistir por tempo indeterminado, enquanto a máquina de lavar loiça para uso doméstico esteja ligada a uma fonte de energia e seja utilizada de acordo com as instruções do fabricante. Quando não existam comandos ou interruptores acessíveis ao utilizador final, o «estado de desactivação» significa: o estado seguinte à passagem da máquina de lavar loiça para uso doméstico, pelos seus próprios meios, a um consumo estacionário em termos de potência.\n\n9. **«Estado inactivo»**: o estado de consumo de energia mais reduzido, que pode persistir por tempo indeterminado após o final do programa e a descarga da máquina, sem qualquer intervenção suplementar do utilizador final.\n\n10. **«Máquina de lavar loiça equivalente»**: um modelo de máquina de lavar loiça para uso doméstico colocado no mercado com capacidade nominal, características técnicas e de desempenho, consumo de energia e de água e emissão de ruído aéreo idênticos aos de outro modelo de máquina de lavar loiça para uso doméstico colocado no mercado com um número de código comercial diferente, pelo mesmo fabricante."
+  },
+  "13bcdc8b15bb3717": {
+   "fragment_id": "Artigo 3.º — Requisitos de concepção ecológica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos de concepção ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos de concepção ecológica\n\nOs requisitos de concepção ecológica genéricos para máquinas de lavar loiça para uso doméstico são estabelecidos no anexo I, secção 1.\n\nOs requisitos de concepção ecológica genéricos para máquinas de lavar loiça para uso doméstico são estabelecidos no anexo I, secção 2."
+  },
+  "78aad4e151b7bc0c": {
+   "fragment_id": "Artigo 4.º — Avaliação de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação de conformidade\n\n1. O procedimento de avaliação da conformidade referido no artigo 8.º da Directiva 2009/125/CE é o sistema de controlo interno da concepção previsto no anexo IV da referida directiva ou o sistema de gestão previsto no seu anexo V.\n\n2. Para efeitos da avaliação da conformidade nos termos do artigo 8.º da Directiva 2009/125/CE, a documentação técnica deve incluir os resultados do cálculo estabelecido no anexo II do presente regulamento.\n\nSempre que as informações dadas na documentação técnica relativamente a um modelo de máquina de lavar loiça para uso doméstico específico sejam resultantes de cálculos efectuados com base na concepção, de extrapolações feitas a partir de outras máquinas de lavar loiça para uso doméstico equivalentes, ou de ambos, a documentação técnica deve incluir os pormenores desses cálculos ou extrapolações, ou de ambos, bem como dos ensaios realizados pelos fabricantes para verificarem a precisão dos cálculos efectuados. Nesses casos, a documentação técnica deve também incluir uma lista de todos os outros modelos de máquinas de lavar loiça para uso doméstico equivalentes para os quais a documentação técnica tenha sido obtida com os mesmos elementos."
+  },
+  "b6c2c7520ebec63f": {
+   "fragment_id": "Artigo 5.º — Procedimento de verificação para efeitos de vigilância do mercado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Procedimento de verificação para efeitos de vigilância do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento de verificação para efeitos de vigilância do mercado\n\nOs Estados-Membros aplicam o procedimento de verificação descrito no anexo III do presente regulamento quando executem as verificações para efeitos de vigilância do mercado referidas no artigo 3.º, n.º 2, da Directiva 2009/125/CE, em cumprimento dos requisitos previstos no anexo I do presente regulamento."
+  },
+  "331a975b822c8304": {
+   "fragment_id": "Artigo 6.º — Padrões de referência",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Padrões de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Padrões de referência\n\nOs padrões de referência indicativos para as máquinas de lavar loiça para uso doméstico com melhor desempenho disponíveis no mercado quando da entrada em vigor do presente regulamento constam do anexo IV."
+  },
+  "bbef5d5fec559465": {
+   "fragment_id": "Artigo 7.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nA Comissão revê o presente regulamento à luz do progresso tecnológico o mais tardar quatro anos após a sua entrada em vigor e apresenta os resultados dessa revisão ao Fórum de Consulta sobre a concepção ecológica. A revisão avalia, nomeadamente, as tolerâncias aplicáveis à verificação previstas no anexo III, as possibilidades de estabelecimento de requisitos no que se refere ao consumo de água das máquinas de lavar loiça para uso doméstico e na possibilidade de entrada de água quente."
+  },
+  "e2da1b1550b38c3e": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e aplicação\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. É aplicável a partir de 1 de Dezembro de 2011.\n\nNo entanto, os requisitos de concepção ecológica a seguir enumerados são aplicáveis, em conformidade com o seguinte calendário:\n\na) Os requisitos genéricos de concepção ecológica constantes do anexo I, secção 1, ponto 1, são aplicáveis a partir de 1 de Dezembro de 2012.\n\nb) Os requisitos genéricos de concepção ecológica constantes do anexo I, secção 1, ponto 2, são aplicáveis a partir de 1 de Junho de 2012;\n\nc) Os requisitos específicos de concepção ecológica constantes do anexo I, secção 2, ponto 2, são aplicáveis a partir de 1 de Dezembro de 2013.\n\nd) Os requisitos específicos de concepção ecológica constantes do anexo I, secção 2, ponto 3, são aplicáveis a partir de 1 de Dezembro de 2016.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de Novembro de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "fd42afe36fb7312e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/5c59ad79-de37-4784-a1eb-03a08e06e875.0019.04/DOC_1#ntc1-L_2010293PT.01003101-E0001) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/5c59ad79-de37-4784-a1eb-03a08e06e875.0019.04/DOC_1#ntc2-L_2010293PT.01003101-E0002) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC)."
+  },
+  "9b74052d26ad3816": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02010R1016 — PT — 01.03.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32010R1016) [REGULAMENTO (UE) N.º 1016/2010 DA COMISSÃO](http://publications.europa.eu/resource/celex/32010R1016) [de 10 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010R1016) [que dá execução à Directiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de concepção ecológica para as máquinas de lavar loiça para uso doméstico](http://publications.europa.eu/resource/celex/32010R1016) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32010R1016) (JO L 293, 11.11.2010, p.31)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/2022 da Comissão de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2022) — L 315 — 267 — 5.12.2019"
+  }
+ }
+}

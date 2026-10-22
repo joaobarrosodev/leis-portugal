@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-18'
+version_history:
+  file: regulamento-ue-2010-913.versoes.json
+  count: 3
+  source_lastmod: '2024-07-18'
+  versions:
+  - date: '2010-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1316:por
+    amending_title: REGULAMENTO (UE) N. o 1316/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Critérios aplicáveis aos corredores de transporte de mercadorias adicionais
+    - Altera Artigo 8.º — Administração dos corredores de transporte de mercadorias
+    - Altera Artigo 11.º — Planeamento dos investimentos
+    - Altera Artigo 14.º — Capacidades atribuídas aos comboios de mercadorias
+    - Altera Artigo 25.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2024-07-18'
+    amending: eu:celex:32024R1679:por
+    amending_title: REGULAMENTO (UE) 2024/1679 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Administração dos corredores de transporte de mercadorias
+    - Altera Artigo 11.º — Planeamento dos investimentos
+    - Altera Artigo 13.º — Balcão único para os pedidos de capacidade de infra-estrutura
+    - Altera Artigo 14.º — Capacidades atribuídas aos comboios de mercadorias
+    - Altera Artigo 15.º — Candidatos autorizados
+    - Altera Artigo 17.º — Gestão do tráfego em caso de perturbação
+    - Altera Artigo 18.º — Informações sobre as condições de utilização do corredor de transporte de mercadorias
+    - Altera Artigo 19.º — Qualidade do serviço prestado no corredor de transporte de mercadorias
+    - Altera Artigo 20.º — Entidades reguladoras
+    - Altera Artigo 22.º — Acompanhamento da execução
+    - Altera Artigo 23.º — Relatório
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e âmbito de aplicação
+    - Adita ORGANIZAÇÃO E GOVERNAÇÃO DOS CORREDORES DE TRANSPORTE DE MERCADORIAS
+    - Adita Artigo 3.º — Organização e governação dos corredores de transporte de mercadorias
+    - Adita Artigo 9.º — Medidas de desenvolvimento do corredor de transporte de mercadorias
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime DESIGNAÇÃO E ADMINISTRAÇÃO DOS CORREDORES FERROVIÁRIOS INTERNACIONAIS PARA UM TRANSPORTE DE MERCADORIAS COMPETITIVO
+    - Suprime Artigo 3.º — Designação dos corredores de transporte de mercadorias iniciais
+    - Suprime Artigo 4.º — Critérios aplicáveis aos corredores de transporte de mercadorias adicionais
+    - Suprime Artigo 5.º — Selecção dos corredores de transporte de mercadorias adicionais
+    - Suprime Artigo 6.º — Alteração dos corredores de transporte de mercadorias adicionais
+    - Suprime Artigo 7.º — Conciliação
+    - Suprime Artigo 9.º — Medidas de execução do plano do corredor de transporte de mercadorias
+    - Suprime Artigo 21.º — Procedimento de comité
+    - Suprime ANEXO
 identifiers:
   celex: 32010R0913
   eli: http://data.europa.eu/eli/reg/2010/913/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cd569fe1-94b0-4401-9cef-c5b7b6a9e14f.0013
   content_url: http://publications.europa.eu/resource/cellar/36a79a86-6466-11ef-a8ba-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0913-20240718
-  retrieved_at: '2026-10-22T02:42:53Z'
+  retrieved_at: '2026-10-22T15:48:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T06:22:29.169+02:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:53Z'
-  notes: Texto consolidado 02010R0913-20240718.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:27Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2010-913.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,35 +217,20 @@ relationships:
   date: '2026-06-10'
 article_structure:
   article_count: 20
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:53Z'
-  warnings: []
+  checked_at: '2026-10-22T15:48:27Z'
+  warnings:
+  - '02010R0913-20101109: versão indisponível (Sem expressão na língua por para CELEX 02010R0913-20101109.)'
   errors: []
 ---
 
 # Regulamento (UE) n. o 913/2010 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2010
-
-> 02010R0913 — PT — 18.07.2024 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R1316) — [REGULAMENTO (UE) N.º 1316/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1316) — L 348 — 129 — 20.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32024R1679) — [REGULAMENTO (UE) 2024/1679 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1679) — L 1679 — 1 — 28.6.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32010R0913R%2802%29) — [Rectificação, JO L 334, 21.11.2014, p. 104 (913/2010)](http://publications.europa.eu/resource/celex/32010R0913R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R1679R%2801%29) — [Rectificação, JO L 90901, 5.12.2025, p. 1 (2024/1679)](http://publications.europa.eu/resource/celex/32024R1679R%2801%29)
-
-## REGULAMENTO (UE) N.º 913/2010 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Setembro de 2010
 

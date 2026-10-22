@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0131:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0131-20091106",
+ "dre_path": null,
+ "source_lastmod": "2009-11-06",
+ "versions": [
+  {
+   "date": "2009-10-17",
+   "future": false,
+   "celex": "32009L0131",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9f0be745b634331",
+    "2bc285de5af0b83e",
+    "82b702d59b4012ee",
+    "121bc7f29193c6b3",
+    "3ca59d380ee34a2b",
+    "8ec6f13e2b1358ce"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9f0be745b634331": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Outubro de 2009\n\nque altera o anexo VII da Directiva 2008/57/CE do Parlamento Europeu e do Conselho relativa à interoperabilidade do sistema ferroviário na Comunidade\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, relativa à interoperabilidade do sistema ferroviário na Comunidade [([^1])](http://publications.europa.eu/resource/cellar/f4b1ba38-9574-41e9-a98f-0bc1626867ab.0018.04/DOC_1#ntr1-L_2009273PT.01001201-E0001), nomeadamente o artigo 27.º, n.º 4,\n\nTendo em conta a Recomendação n.º ERA/REC/XA/01-2009, de 17 de Abril de 2009, da Agência Ferroviária Europeia,\n\nConsiderando o seguinte:\n\n(1) O artigo 9.º-B, n.º 2, do Regulamento (CE) n.º 881/2004 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/f4b1ba38-9574-41e9-a98f-0bc1626867ab.0018.04/DOC_1#ntr2-L_2009273PT.01001201-E0002) estabelece que a Agência Ferroviária Europeia (a seguir denominada «a Agência») deve rever, até 19 de Janeiro de 2009, a lista de parâmetros do anexo VII, secção 1, da Directiva 2008/57/CE e dirigir à Comissão as recomendações que considerar adequadas.\n\n(2) Dado que o actual anexo VII, secção 1, da Directiva 2008/57/CE contém elementos que não são parâmetros de veículo, tais elementos devem ser removidos.\n\n(3) O anexo VII, secção 1, contém também parâmetros que dizem essencialmente respeito à parte do subsistema «material circulante» dos veículos. É necessário que a lista dos parâmetros contenha todos os parâmetros dos veículos que devem ser verificados no contexto da autorização de entrada em serviço e da classificação das regras nacionais. Por conseguinte, os parâmetros de outros subsistemas que fazem parte dos veículos devem ser incluídos.\n\n(4) A Directiva 2008/57/CE deve, portanto, ser alterada em conformidade.\n\n(5) As medidas previstas na presente directiva são conformes com o parecer do comité a que se refere o artigo 29.º, n.º 1, da Directiva 2008/57/CE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2bc285de5af0b83e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo VII, secção 1, da Directiva 2008/57/CE é substituído pelo texto que consta do anexo à presente directiva."
+  },
+  "82b702d59b4012ee": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros colocarão em vigor até 19 de Julho de 2010 as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência na sua publicação oficial. As modalidades dessa referência são determinadas pelos Estados-Membros."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "3ca59d380ee34a2b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Outubro de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "8ec6f13e2b1358ce": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f4b1ba38-9574-41e9-a98f-0bc1626867ab.0018.04/DOC_1#ntc1-L_2009273PT.01001201-E0001) [JO L 191 de 18.7.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_191_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f4b1ba38-9574-41e9-a98f-0bc1626867ab.0018.04/DOC_1#ntc2-L_2009273PT.01001201-E0002) [JO L 164 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC)."
+  }
+ }
+}

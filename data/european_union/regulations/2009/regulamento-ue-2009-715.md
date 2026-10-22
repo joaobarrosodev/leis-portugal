@@ -37,6 +37,127 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-01'
+version_history:
+  file: regulamento-ue-2009-715.versoes.json
+  count: 9
+  source_lastmod: '2022-07-01'
+  versions:
+  - date: '2009-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera Artigo 27.º — Sanções
+    - Altera Artigo 32.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita GUIDELINES ON
+    - Adita 1. Orientações sobre serviços de acesso de terceiros aplicáveis aos operadores da rede de transportes
+    - Adita 2. Princípios relativos aos mecanismos de atribuição de capacidade e aos procedimentos de gestão de congestionamentos
+      aplicáveis aos operadores da rede de transporte, e sua aplicação em caso de congestionamento contratual
+    - Adita 2.1. Princípios relativos aos mecanismos de atribuição de capacidade e aos procedimentos de gestão de congestionamentos
+      aplicáveis aos operadores das redes de transporte
+    - Adita 2.2. Procedimentos de gestão de congestionamentos em caso de congestionamento contratual
+    - Adita 3. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede, definição
+      de todos os pontos relevantes em termos de requisitos de transparência, informação a publicar em todos os pontos relevantes
+      e calendário de publicação dessa informação
+    - Adita 3.1. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede
+    - Adita 3.2. Definição de todos os pontos relevantes em termos de requisitos de transparência
+    - Adita 3.3. Informação a publicar em todos os pontos relevantes e calendário de publicação dessa informação
+    - Adita ANEXO II
+    - Adita QUADRO DE CORRESPONDÊNCIA
+  - date: '2011-03-03'
+    amending: eu:celex:32010D0685:por
+    amending_title: DECISÃO DA COMISSÃO de 10 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera 3.1. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede
+    - Altera 3.2. Definição de todos os pontos relevantes em termos de requisitos de transparência
+    - Altera 3.3. Informação a publicar em todos os pontos relevantes e calendário de publicação dessa informação
+    - Altera Notas
+    - Adita 3. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede e definição
+      de todos os pontos relevantes em termos de requisitos de transparência, incluindo a informação a publicar em todos os
+      pontos relevantes e o calendário de publicação dessa informação
+    - Adita 3.1.1. Forma de publicação
+    - Adita 3.1.2. Conteúdo da publicação
+    - Adita 3.4. Informação a publicar sobre a rede de transporte e calendário de publicação dessa informação
+    - Suprime 3. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede,
+      definição de todos os pontos relevantes em termos de requisitos de transparência, informação a publicar em todos os
+      pontos relevantes e calendário de publicação dessa informação
+  - date: '2012-09-17'
+    amending: eu:celex:32012D0490:por
+    amending_title: DECISÃO DA COMISSÃO de 24 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera 2.2. Procedimentos de gestão de congestionamentos em caso de congestionamento contratual
+    - Altera 3.1.1. Forma de publicação
+    - Altera 3.3. Informação a publicar em todos os pontos relevantes e calendário de publicação dessa informação
+    - Altera Notas
+    - Adita 2.2.1. Disposições gerais
+    - Adita 2.2.2. Aumento de capacidade através do regime de sobrerreserva e resgate
+    - Adita 2.2.3. Mecanismos firmes de perda da reserva de capacidade não utilizada com um dia de antecedência
+    - Adita 2.2.4. Cedência de capacidade contratada
+    - Adita 2.2.5. Mecanismo de perda da reserva de capacidade não utilizada a longo prazo
+  - date: '2013-06-01'
+    amending: eu:celex:32013R0347:por
+    amending_title: REGULAMENTO (UE) N. o 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera Artigo 32.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 11.º — Custos
+    - Suprime Artigo 11.º — Despesas
+  - date: '2015-05-25'
+    amending: eu:celex:32015D0715:por
+    amending_title: DECISÃO (UE) 2015/715 DA COMISSÃO de 30 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera 2.2.1. Disposições gerais
+    - Altera 3.3. Informação a publicar em todos os pontos relevantes e calendário de publicação dessa informação
+    - Altera Notas
+  - date: '2018-12-24'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera Notas
+    - Suprime Artigo 29.º — Relatório da Comissão
+  - date: '2022-06-23'
+    amending: eu:celex:32022R0869:por
+    amending_title: REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera 2.2. Procedimentos de gestão de congestionamentos em caso de congestionamento contratual
+    - Altera 3.1. Definição da informação técnica necessária aos utilizadores da rede para obterem acesso efectivo à rede
+    - Altera Notas
+    - Suprime 2.2.1. Disposições gerais
+    - Suprime 2.2.2. Aumento de capacidade através do regime de sobrerreserva e resgate
+    - Suprime 2.2.3. Mecanismos firmes de perda da reserva de capacidade não utilizada com um dia de antecedência
+    - Suprime 2.2.4. Cedência de capacidade contratada
+    - Suprime 2.2.5. Mecanismo de perda da reserva de capacidade não utilizada a longo prazo
+    - Suprime 3.1.1. Forma de publicação
+    - Suprime 3.1.2. Conteúdo da publicação
+  - date: '2022-07-01'
+    amending: eu:celex:32022R1032:por
+    amending_title: REGULAMENTO (UE) 2022/1032 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 8.º — Funções da REORT para o Gás
+    - Altera Artigo 13.º — Tarifas de acesso às redes
+    - Altera 1. Orientações sobre serviços de acesso de terceiros aplicáveis aos operadores da rede de transportes
+    - Altera Notas
+    - Adita Artigo 3.º-A — Certificação dos operadores das redes de armazenamento
+    - Adita ORIENTAÇÕES SOBRE
+    - Suprime GUIDELINES ON
 identifiers:
   celex: 32009R0715
   eli: http://data.europa.eu/eli/reg/2009/715/oj
@@ -51,7 +172,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f1610b76-5447-4182-97d3-375a42748ab8.0019
   content_url: http://publications.europa.eu/resource/cellar/d8870f8e-2302-11ed-8fa0-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0715-20220701
-  retrieved_at: '2026-10-22T02:39:50Z'
+  retrieved_at: '2026-10-22T15:43:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T15:44:35.608+02:00'
 integrity:
@@ -60,9 +181,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:50Z'
-  notes: Texto consolidado 02009R0715-20220701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:43:46Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2009-715.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -236,41 +357,19 @@ relationships:
   date: '2005-11-04'
 article_structure:
   article_count: 32
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:50Z'
+  checked_at: '2026-10-22T15:43:46Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 715/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
-
-> 02009R0715 — PT — 01.07.2022 — 007.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010D0685) — [DECISÃO DA COMISSÃO de 10 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010D0685) — L 293 — 67 — 11.11.2010
-- [►M2](http://publications.europa.eu/resource/celex/32012D0490) — [DECISÃO DA COMISSÃO de 24 de agosto de 2012](http://publications.europa.eu/resource/celex/32012D0490) — L 231 — 16 — 28.8.2012
-- [►M3](http://publications.europa.eu/resource/celex/32013R0347) — [REGULAMENTO (UE) N.º 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0347) — L 115 — 39 — 25.4.2013
-- [►M4](http://publications.europa.eu/resource/celex/32015D0715) — [DECISÃO (UE) 2015/715 DA COMISSÃO de 30 de abril de 2015](http://publications.europa.eu/resource/celex/32015D0715) — L 114 — 9 — 5.5.2015
-- [►M5](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-- [►M6](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-- [►M7](http://publications.europa.eu/resource/celex/32022R1032) — [REGULAMENTO (UE) 2022/1032 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1032) — L 173 — 17 — 30.6.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R0715R%2801%29) — [Rectificação, JO L 229, 1.9.2009, p. 29 (715/2009)](http://publications.europa.eu/resource/celex/32009R0715R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009R0715R%2803%29) — [Rectificação, JO L 309, 24.11.2009, p. 87 (715/2009)](http://publications.europa.eu/resource/celex/32009R0715R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32009R0715R%2809%29) — [Rectificação, JO L 017, 19.1.2023, p. 101 (n.o 715/2009)](http://publications.europa.eu/resource/celex/32009R0715R%2809%29)
-
-## REGULAMENTO (CE) N.º 715/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de Julho de 2009
 

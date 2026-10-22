@@ -35,6 +35,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2009-29.versoes.json
+  count: 7
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2009-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Espaço aéreo a que se refere o n.º 3 do artigo 1.º
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO II
+    - Adita Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV
+    - Adita 1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)
+    - Adita 2. Definição do serviço de gestão de comunicações ATC (ACM)
+    - Adita 3. Definição do serviço de autorização e de informação ATC (ACL)
+    - Adita 4. Definição do serviço de verificação de microfone ATC (AMC)
+    - Adita ANEXO III
+    - Adita Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV
+    - Adita Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II
+    - Adita ANEXO IV
+    - Adita Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º
+    - 'Adita Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo'
+    - 'Adita Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2'
+    - 'Adita Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação'
+    - 'Adita Parte D: Condições referidas na parte C'
+    - Adita ANEXO V
+    - Adita Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes
+    - Adita ANEXO VI
+    - Adita Condições a que se refere o artigo 12.º
+    - Adita ANEXO VII
+    - 'Adita Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º'
+    - 'Adita Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º'
+  - date: '2015-03-19'
+    amending: eu:celex:32015R0310:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2015/310 DA COMISSÃO de 26 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Serviços de ligações de dados
+    - Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera PARTE B
+    - Altera Notas
+  - date: '2016-02-05'
+    amending: eu:celex:32014R0441:por
+    amending_title: M1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2019-07-29'
+    amending: eu:celex:32019R1170:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/1170 DA COMISSÃO de 8 de julho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Serviços de ligações de dados
+    - Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Altera Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados
+    - Altera Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»
+    - Altera Artigo 14.º — Isenções
+    - Altera ANEXO III
+    - Altera Notas
+    - Suprime Disposições da ICAO a que se referem os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 13.º e o Anexo IV
+    - Suprime Documentos da Eurocae a que se referem os artigos 3.º e 13.º e o Anexo II
+  - date: '2020-03-08'
+    amending: eu:celex:32020R0208:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/208 DA COMISSÃO de 14 de fevereiro de 2020
+    changes:
+    - Altera Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Altera ANEXO III
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Serviços de ligações de dados
+    - Suprime Artigo 4.º — Procedimentos conexos
+    - Suprime Artigo 5.º — Obrigações dos prestadores de serviços de tráfego aéreo no que respeita às comunicações através
+      de ligações de dados
+    - Suprime Artigo 6.º — Obrigações dos operadores no que respeita às comunicações através de ligações de dados
+    - Suprime Artigo 7.º — Obrigações gerais dos Estados-Membros no que respeita às comunicações através de ligações de dados
+    - Suprime Artigo 8.º — Comunicações através de ligações de dados com as aeronaves de Estado do tipo «transporte»
+    - Suprime Artigo 9.º — Obrigações dos prestadores de serviços de navegação aérea e demais entidades no que respeita às
+      comunicações através de ligações de dados
+    - Suprime Artigo 10.º — Requisitos de segurança
+    - Suprime Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Suprime Artigo 12.º — Verificação dos sistemas
+    - Suprime Artigo 13.º — Requisitos complementares
+    - Suprime Artigo 14.º — Isenções
+    - Suprime Artigo 15.º — Entrada em vigor e aplicação
+    - Suprime ANEXO I
+    - Suprime Espaço aéreo a que se refere o n.º 3 do artigo 1.º
+    - Suprime PARTE A
+    - Suprime PARTE B
+    - Suprime ANEXO II
+    - Suprime Definição dos serviços de ligações de dados a que se referem os artigos 3.º, 4.º, 5.º e 7.º e o Anexo IV
+    - Suprime 1. Definição da capacidade de início de comunicações através de ligações de dados (DLIC)
+    - Suprime 2. Definição do serviço de gestão de comunicações ATC (ACM)
+    - Suprime 3. Definição do serviço de autorização e de informação ATC (ACL)
+    - Suprime 4. Definição do serviço de verificação de microfone ATC (AMC)
+    - Suprime ANEXO III
+    - Suprime ANEXO IV
+    - Suprime Requisitos a que se referem os artigos 5.º, 6.º, 7.º, 8.º e 9.º
+    - 'Suprime Parte A: Requisitos aplicáveis às comunicações extremo-a-extremo'
+    - 'Suprime Parte B: Requisitos aplicáveis às comunicações ar-terra baseadas nos protocolos ATN e VDL – modo 2'
+    - 'Suprime Parte C: Requisitos aplicáveis às comunicações ar-terra assentes noutros protocolos de comunicação'
+    - 'Suprime Parte D: Condições referidas na parte C'
+    - Suprime ANEXO V
+    - Suprime Regras aplicáveis à avaliação referida no artigo 11.º da conformidade ou adequação para utilização dos componentes
+    - Suprime ANEXO VI
+    - Suprime Condições a que se refere o artigo 12.º
+    - Suprime ANEXO VII
+    - 'Suprime Parte A: Requisitos de verificação dos sistemas a que se refere o n.º 1 do artigo 12.º'
+    - 'Suprime Parte B: Requisitos aplicáveis à verificação dos sistemas a que se refere o n.º 2 do artigo 12.º'
 identifiers:
   celex: 32009R0029
   eli: http://data.europa.eu/eli/reg/2009/29/oj
@@ -49,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/16a6239e-8c5a-423a-96a6-fa6cff0d501d.0018
   content_url: http://publications.europa.eu/resource/cellar/76167bce-8565-11ee-99ba-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0029-20231005
-  retrieved_at: '2026-10-22T02:48:08Z'
+  retrieved_at: '2026-10-22T15:40:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T03:15:18.565+02:00'
 integrity:
@@ -58,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:08Z'
-  notes: Texto consolidado 02009R0029-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:40:46Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2009-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,16 +273,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:40:46Z'
+  warnings: []
   errors: []
 ---
 

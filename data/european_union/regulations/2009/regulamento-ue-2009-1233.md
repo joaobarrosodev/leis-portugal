@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-17'
+version_history:
+  file: regulamento-ue-2009-1233.versoes.json
+  count: 2
+  source_lastmod: '2009-12-17'
+  versions:
+  - date: '2009-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-17'
+    amending: eu:celex:32010R0119:por
+    amending_title: REGULAMENTO (UE) N. o 119/2010 DA COMISSÃO de 9 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita Artigo 3.º-A
+    - Adita ANEXO ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0003))
 identifiers:
   celex: 32009R1233
   eli: http://data.europa.eu/eli/reg/2009/1233/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2380f5cf-c80e-491f-8506-5745d268ff6b.0018
   content_url: http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1233-20091217
-  retrieved_at: '2026-10-22T03:14:51Z'
+  retrieved_at: '2026-10-22T15:45:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T10:20:28.857+02:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:51Z'
-  notes: Texto consolidado 02009R1233-20091217.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1233.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -90,29 +108,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:51Z'
+  checked_at: '2026-10-22T15:45:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 1233/2009 da Comissão, de 15 de Dezembro de 2009
-
-> 2009R1233 — PT — 17.12.2009 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0119) — [REGULAMENTO (UE) N.º 119/2010 DA COMISSÃO de 9 de Fevereiro de 2010](http://publications.europa.eu/resource/celex/32010R0119) — L 37 — 26 — 10.2.2010
-
-## REGULAMENTO (UE) N.º 1233/2009 DA COMISSÃO
 
 de 15 de Dezembro de 2009
 

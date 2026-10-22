@@ -37,6 +37,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-12-14'
+version_history:
+  file: regulamento-ue-2009-1108.versoes.json
+  count: 2
+  source_lastmod: '2009-12-14'
+  versions:
+  - date: '2009-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO V-a
+    - Adita REQUISITOS ESSENCIAIS APLICÁVEIS AOS AERÓDROMOS
+    - Adita A — Características físicas, infra-estruturas e equipamentos
+    - Adita 1. Área de movimento
+    - Adita 2. Separação de obstáculos
+    - Adita 3. Ajudas visuais e não visuais e equipamentos do aeródromo
+    - Adita 4. Dados do aeródromo
+    - Adita B — Operações e gestão
+    - 'Adita 1. O operador de aeródromo é responsável pela sua exploração. As responsabilidades do operador de aeródromo são
+      as seguintes:'
+    - Adita 2. Sistemas de gestão
+    - Adita C — Envolvente do aeródromo
+    - Adita D — Diversos
+    - Adita ANEXO V-b
+    - Adita REQUISITOS ESSENCIAIS APLICÁVEIS AOS ATM/ANS E AOS CONTROLADORES DE TRÁFEGO AÉREO
+    - Adita 1. Utilização do espaço aéreo
+    - Adita 2. Serviços
+    - Adita a) Informação aeronáutica e dados fornecidos aos utilizadores do espaço aéreo para efeitos de navegação aérea
+    - Adita b) Informação meteorológica
+    - Adita c) Serviços de tráfego aéreo
+    - Adita d) Serviços de comunicação
+    - Adita e) Serviços de navegação
+    - Adita f) Serviços de vigilância
+    - Adita g) Gestão do fluxo de tráfego aéreo
+    - Adita h) Gestão do espaço aéreo
+    - Adita i) Configuração do espaço aéreo
+    - Adita 3. Sistemas e componentes
+    - Adita a) Generalidades
+    - Adita b) Integridade, desempenho e fiabilidade dos sistemas e componentes
+    - Adita c) Concepção dos sistemas e componentes
+    - Adita d) Continuidade do nível de serviço
+    - Adita 4. Qualificações dos controladores de tráfego aéreo
+    - Adita b) Conhecimentos teóricos
+    - Adita c) Formação prática
+    - Adita d) Proficiência linguística
+    - Adita e) Dispositivos de formação em simulador
 identifiers:
   celex: 32009R1108
   eli: http://data.europa.eu/eli/reg/2009/1108/oj
@@ -51,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/089d7a64-f170-4629-a49e-2c0676747aaa.0019
   content_url: http://publications.europa.eu/resource/cellar/58dbd33e-b40e-11e3-86f9-01aa75ed71a1.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1108-20091214
-  retrieved_at: '2026-10-22T02:42:51Z'
+  retrieved_at: '2026-10-22T15:44:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T23:04:18.724+02:00'
 integrity:
@@ -60,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:51Z'
-  notes: Texto consolidado 02009R1108-20091214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:55Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-1108.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,29 +219,19 @@ relationships:
   date: '2006-04-28'
 article_structure:
   article_count: 3
-  section_count: 47
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:51Z'
+  checked_at: '2026-10-22T15:44:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1108/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 2009R1108 — PT — 14.12.2009 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R1108R%2802%29) — [Rectificação, JO L 272, 13.9.2014, p. 19 (1108/2009)](http://publications.europa.eu/resource/celex/32009R1108R%2802%29)
-
-## REGULAMENTO (CE) N.º 1108/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2010-76.versoes.json
+  count: 1
+  source_lastmod: '2010-12-15'
+  versions:
+  - date: '2010-12-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010L0076
   eli: http://data.europa.eu/eli/dir/2010/76/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3942531c-b4f3-4cfd-8857-5fa94d34aef7.0003
   content_url: http://publications.europa.eu/resource/cellar/3942531c-b4f3-4cfd-8857-5fa94d34aef7.0003.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:15:10Z'
+  retrieved_at: '2026-10-22T15:47:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T03:33:19.553+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:10Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:05Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2010-76.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,21 +136,20 @@ relationships:
   date: '2013-06-27'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:10Z'
+  checked_at: '2026-10-22T15:47:05Z'
   warnings:
-  - Versão consolidada 02010L0076-20101215 indisponível (Sem expressão na língua por para CELEX 02010L0076-20101215.); usado
-    o texto do JO.
+  - '02010L0076-20101215: versão indisponível (Sem expressão na língua por para CELEX 02010L0076-20101215.)'
   errors: []
 ---
 
-# DIRECTIVA 2010/76/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2010/76/UE do Parlamento Europeu e do Conselho, de 24 de Novembro de 2010
 
 de 24 de Novembro de 2010
 

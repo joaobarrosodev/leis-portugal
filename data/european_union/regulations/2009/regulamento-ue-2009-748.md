@@ -36,6 +36,273 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-03'
+version_history:
+  file: regulamento-ue-2009-748.versoes.json
+  count: 18
+  source_lastmod: '2026-04-03'
+  versions:
+  - date: '2009-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-02-01'
+    amending: eu:celex:32010R0082:por
+    amending_title: REGULAMENTO (UE) N. o 82/2010 DA COMISSÃO de 28 de Janeiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Lista de operadores de aeronaves que realizaram uma das actividades de aviação enumeradas no anexo I da Directiva
+      2003/87/CE em ou após 1 de Janeiro de 2006, inclusive, com indicação do Estado-Membro responsável em relação a cada
+      operador de aeronaves
+  - date: '2011-02-15'
+    amending: eu:celex:32011R0115:por
+    amending_title: Regulamento (UE) n. o 115/2011 da Comissão de 2 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+    - Suprime Lista de operadores de aeronaves que realizaram uma das actividades de aviação enumeradas no anexo I da Directiva
+      2003/87/CE em ou após 1 de Janeiro de 2006, inclusive, com indicação do Estado-Membro responsável em relação a cada
+      operador de aeronaves
+  - date: '2011-04-30'
+    amending: eu:celex:32011R0394:por
+    amending_title: Regulamento (UE) n. o 394/2011 da Comissão de 20 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2012-02-14'
+    amending: eu:celex:32012R0100:por
+    amending_title: REGULAMENTO (UE) N. o 100/2012 DA COMISSÃO de 3 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-02-12'
+    amending: eu:celex:32013R0109:por
+    amending_title: REGULAMENTO (UE) N. o 109/2013 DA COMISSÃO de 29 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2013-09-07'
+    amending: eu:celex:32013R0815:por
+    amending_title: REGULAMENTO (UE) N. o 815/2013 DA COMISSÃO de 27 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2014-02-09'
+    amending: eu:celex:32014R0100:por
+    amending_title: REGULAMENTO (UE) N. o 100/2014 DA COMISSÃO de 5 de fevereiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2015-02-13'
+    amending: eu:celex:32015R0180:por
+    amending_title: REGULAMENTO (UE) 2015/180 DA COMISSÃO de 9 de fevereiro de 2015
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2016-03-05'
+    amending: eu:celex:32016R0282:por
+    amending_title: REGULAMENTO (UE) 2016/282 DA COMISSÃO de 26 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Altera Notas
+  - date: '2017-02-24'
+    amending: eu:celex:32017R0294:por
+    amending_title: REGULAMENTO (UE) 2017/294 DA COMISSÃO de 20 de fevereiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera ANEXO
+    - Suprime Notas
+  - date: '2018-03-16'
+    amending: eu:celex:32018R0336:por
+    amending_title: REGULAMENTO (UE) 2018/336 DA COMISSÃO de 8 de março de 2018
+    changes:
+    - Altera ANEXO
+  - date: '2020-04-24'
+    amending: eu:celex:32019R0225:por
+    amending_title: M12; M13; REGULAMENTO (UE) 2020/535 DA COMISSÃO de 8 de abril de 2020
+    changes:
+    - Altera ANEXO
+    - Adita BÉLGICA
+    - Adita BULGÁRIA
+    - Adita CHÉQUIA
+    - Adita DINAMARCA
+    - Adita ALEMANHA
+    - Adita ESTÓNIA
+    - Adita IRLANDA
+    - Adita GRÉCIA
+    - Adita ESPANHA
+    - Adita FRANÇA
+    - Adita CROÁCIA
+    - Adita ITÁLIA
+    - Adita CHIPRE
+    - Adita LETÓNIA
+    - Adita LITUÂNIA
+    - Adita LUXEMBURGO
+    - Adita HUNGRIA
+    - Adita MALTA
+    - Adita PAÍSES BAIXOS
+    - Adita ÁUSTRIA
+    - Adita POLÓNIA
+    - Adita PORTUGAL
+    - Adita ROMÉNIA
+    - Adita ESLOVÉNIA
+    - Adita ESLOVÁQUIA
+    - Adita FINLÂNDIA
+    - Adita SUÉCIA
+    - Adita REINO UNIDO
+    - Adita ISLÂNDIA
+    - Adita NORUEGA
+    - Adita SUÍÇA
+  - date: '2021-04-26'
+    amending: eu:celex:32021R0662:por
+    amending_title: REGULAMENTO (UE) 2021/662 DA COMISSÃO de 22 de abril de 2021
+    changes:
+    - Altera BÉLGICA
+    - Altera BULGÁRIA
+    - Altera CHÉQUIA
+    - Altera DINAMARCA
+    - Altera ALEMANHA
+    - Altera ESTÓNIA
+    - Altera IRLANDA
+    - Altera GRÉCIA
+    - Altera ESPANHA
+    - Altera FRANÇA
+    - Altera CROÁCIA
+    - Altera ITÁLIA
+    - Altera CHIPRE
+    - Altera LETÓNIA
+    - Altera LITUÂNIA
+    - Altera LUXEMBURGO
+    - Altera HUNGRIA
+    - Altera MALTA
+    - Altera PAÍSES BAIXOS
+    - Altera ÁUSTRIA
+    - Altera POLÓNIA
+    - Altera PORTUGAL
+    - Altera ROMÉNIA
+    - Altera ESLOVÉNIA
+    - Altera ESLOVÁQUIA
+    - Altera FINLÂNDIA
+    - Altera SUÉCIA
+    - Altera ISLÂNDIA
+    - Altera NORUEGA
+    - Altera SUÍÇA
+    - Suprime REINO UNIDO
+  - date: '2022-03-25'
+    amending: eu:celex:32022R0455:por
+    amending_title: REGULAMENTO (UE) 2022/455 DA COMISSÃO de 14 de março de 2022
+    changes:
+    - Altera BÉLGICA
+    - Altera BULGÁRIA
+    - Altera CHÉQUIA
+    - Altera DINAMARCA
+    - Altera ALEMANHA
+    - Altera IRLANDA
+    - Altera GRÉCIA
+    - Altera ESPANHA
+    - Altera FRANÇA
+    - Altera CROÁCIA
+    - Altera ITÁLIA
+    - Altera CHIPRE
+    - Altera LITUÂNIA
+    - Altera HUNGRIA
+    - Altera MALTA
+    - Altera PAÍSES BAIXOS
+    - Altera ÁUSTRIA
+    - Altera PORTUGAL
+    - Altera ROMÉNIA
+    - Altera ESLOVÉNIA
+    - Altera ESLOVÁQUIA
+    - Altera FINLÂNDIA
+    - Altera SUÉCIA
+    - Altera ISLÂNDIA
+    - Altera NORUEGA
+    - Altera SUÍÇA
+  - date: '2023-04-24'
+    amending: eu:celex:32023R0838:por
+    amending_title: REGULAMENTO (UE) 2023/838 DA COMISSÃO de 23 de março de 2023
+    changes:
+    - Altera ANEXO
+    - Suprime BÉLGICA
+    - Suprime BULGÁRIA
+    - Suprime CHÉQUIA
+    - Suprime DINAMARCA
+    - Suprime ALEMANHA
+    - Suprime ESTÓNIA
+    - Suprime IRLANDA
+    - Suprime GRÉCIA
+    - Suprime ESPANHA
+    - Suprime FRANÇA
+    - Suprime CROÁCIA
+    - Suprime ITÁLIA
+    - Suprime CHIPRE
+    - Suprime LETÓNIA
+    - Suprime LITUÂNIA
+    - Suprime LUXEMBURGO
+    - Suprime HUNGRIA
+    - Suprime MALTA
+    - Suprime PAÍSES BAIXOS
+    - Suprime ÁUSTRIA
+    - Suprime POLÓNIA
+    - Suprime PORTUGAL
+    - Suprime ROMÉNIA
+    - Suprime ESLOVÉNIA
+    - Suprime ESLOVÁQUIA
+    - Suprime FINLÂNDIA
+    - Suprime SUÉCIA
+    - Suprime ISLÂNDIA
+    - Suprime NORUEGA
+    - Suprime SUÍÇA
+  - date: '2024-04-08'
+    amending: eu:celex:32024R1030:por
+    amending_title: REGULAMENTO (UE) 2024/1030 DA COMISSÃO de 27 de março de 2024
+    changes:
+    - Altera ANEXO
+  - date: '2026-04-03'
+    amending: eu:celex:32026R0784:por
+    amending_title: REGULAMENTO (UE) 2026/784 DA COMISSÃO de 26 de março de 2026
+    changes:
+    - Altera ANEXO
+    - Adita BÉLGICA
+    - Adita BULGÁRIA
+    - Adita CHÉQUIA
+    - Adita DINAMARCA
+    - Adita ALEMANHA
+    - Adita ESTÓNIA
+    - Adita IRLANDA
+    - Adita GRÉCIA
+    - Adita ESPANHA
+    - Adita FRANÇA
+    - Adita CROÁCIA
+    - Adita ITÁLIA
+    - Adita CHIPRE
+    - Adita LETÓNIA
+    - Adita LITUÂNIA
+    - Adita LUXEMBURGO
+    - Adita HUNGRIA
+    - Adita MALTA
+    - Adita PAÍSES BAIXOS
+    - Adita ÁUSTRIA
+    - Adita POLÓNIA
+    - Adita PORTUGAL
+    - Adita ROMÉNIA
+    - Adita ESLOVÉNIA
+    - Adita ESLOVÁQUIA
+    - Adita FINLÂNDIA
+    - Adita SUÉCIA
+    - Adita ISLÂNDIA
+    - Adita NORUEGA
+    - Adita SUÍÇA
 identifiers:
   celex: 32009R0748
   eli: http://data.europa.eu/eli/reg/2009/748/oj
@@ -50,7 +317,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed8eb04f-d20c-4741-9458-010a24814690.0018
   content_url: http://publications.europa.eu/resource/cellar/e16ea5ee-641d-11f1-9b18-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0748-20260403
-  retrieved_at: '2026-10-22T02:52:49Z'
+  retrieved_at: '2026-10-22T15:45:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:27:20.605+02:00'
 integrity:
@@ -59,9 +326,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:49Z'
-  notes: Texto consolidado 02009R0748-20260403.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:04Z'
+  notes: 18 versão(ões); histórico completo em regulamento-ue-2009-748.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -202,46 +469,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:49Z'
+  checked_at: '2026-10-22T15:45:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 748/2009 da Comissão, de 5 de Agosto de 2009
-
-> 02009R0748 — PT — 03.04.2026 — 019.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010R0082) — [REGULAMENTO (UE) N.º 82/2010 DA COMISSÃO de 28 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0082) — L 25 — 12 — 29.1.2010
-- [M2](http://publications.europa.eu/resource/celex/32011R0115) — [REGULAMENTO (UE) N.º 115/2011 DA COMISSÃO de 2 de Fevereiro de 2011](http://publications.europa.eu/resource/celex/32011R0115) — L 39 — 1 — 12.2.2011
-- [M3](http://publications.europa.eu/resource/celex/32011R0394) — [REGULAMENTO (UE) N.º 394/2011 DA COMISSÃO de 20 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0394) — L 107 — 1 — 27.4.2011
-- [M4](http://publications.europa.eu/resource/celex/32012R0100) — [REGULAMENTO (UE) N.º 100/2012 DA COMISSÃO de 3 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0100) — L 39 — 1 — 11.2.2012
-- [M5](http://publications.europa.eu/resource/celex/32013R0109) — [REGULAMENTO (UE) N.º 109/2013 DA COMISSÃO de 29 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0109) — L 40 — 1 — 9.2.2013
-- [M6](http://publications.europa.eu/resource/celex/32013R0815) — [REGULAMENTO (UE) N.º 815/2013 DA COMISSÃO de 27 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0815) — L 236 — 1 — 4.9.2013
-- [M7](http://publications.europa.eu/resource/celex/32014R0100) — [REGULAMENTO (UE) N.º 100/2014 DA COMISSÃO de 5 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0100) — L 37 — 1 — 6.2.2014
-- [M8](http://publications.europa.eu/resource/celex/32015R0180) — [REGULAMENTO (UE) 2015/180 DA COMISSÃO de 9 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0180) — L 34 — 1 — 10.2.2015
-- [M9](http://publications.europa.eu/resource/celex/32016R0282) — [REGULAMENTO (UE) 2016/282 DA COMISSÃO de 26 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0282) — L 56 — 1 — 2.3.2016
-- [M10](http://publications.europa.eu/resource/celex/32017R0294) — [REGULAMENTO (UE) 2017/294 DA COMISSÃO de 20 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0294) — L 43 — 3 — 21.2.2017
-- [M11](http://publications.europa.eu/resource/celex/32018R0336) — [REGULAMENTO (UE) 2018/336 DA COMISSÃO de 8 de março de 2018](http://publications.europa.eu/resource/celex/32018R0336) — L 70 — 1 — 13.3.2018
-- [M12](http://publications.europa.eu/resource/celex/32019R0225) — [REGULAMENTO (UE) 2019/225 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0225) — L 41 — 1 — 12.2.2019
-- [M13](http://publications.europa.eu/resource/celex/32019R0226) — [REGULAMENTO (UE) 2019/226 DA COMISSÃO de 6 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0226) — L 41 — 100 — 12.2.2019
-- [M14](http://publications.europa.eu/resource/celex/32020R0535) — [REGULAMENTO (UE) 2020/535 DA COMISSÃO de 8 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0535) — L 124 — 1 — 21.4.2020
-- [M15](http://publications.europa.eu/resource/celex/32021R0662) — [REGULAMENTO (UE) 2021/662 DA COMISSÃO de 22 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0662) — L 139 — 1 — 23.4.2021
-- [M16](http://publications.europa.eu/resource/celex/32022R0455) — [REGULAMENTO (UE) 2022/455 DA COMISSÃO de 14 de março de 2022](http://publications.europa.eu/resource/celex/32022R0455) — L 93 — 1 — 22.3.2022
-- [M17](http://publications.europa.eu/resource/celex/32023R0838) — [REGULAMENTO (UE) 2023/838 DA COMISSÃO de 23 de março de 2023](http://publications.europa.eu/resource/celex/32023R0838) — L 108 — 1 — 21.4.2023
-- [M18](http://publications.europa.eu/resource/celex/32024R1030) — [REGULAMENTO (UE) 2024/1030 DA COMISSÃO de 27 de março de 2024](http://publications.europa.eu/resource/celex/32024R1030) — L 1030 — 1 — 5.4.2024
-- [►M19](http://publications.europa.eu/resource/celex/32026R0784) — [REGULAMENTO (UE) 2026/784 DA COMISSÃO de 26 de março de 2026](http://publications.europa.eu/resource/celex/32026R0784) — L 784 — 1 — 31.3.2026
-
-## REGULAMENTO (CE) N.º 748/2009 DA COMISSÃO
 
 de 5 de Agosto de 2009
 

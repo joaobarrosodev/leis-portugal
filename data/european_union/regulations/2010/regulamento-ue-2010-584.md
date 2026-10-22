@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-14'
+version_history:
+  file: regulamento-ue-2010-584.versoes.json
+  count: 1
+  source_lastmod: '2024-07-14'
+  versions:
+  - date: '2024-07-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32010R0584
   eli: http://data.europa.eu/eli/reg/2010/584/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6a58b39b-a332-40dc-ae9e-44d57e05b302.0018
   content_url: http://publications.europa.eu/resource/cellar/831e3718-3871-11ef-b441-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0584-20240714
-  retrieved_at: '2026-10-22T02:48:19Z'
+  retrieved_at: '2026-10-22T15:48:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-04T00:34:23.295+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:19Z'
-  notes: Texto consolidado 02010R0584-20240714.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:48:05Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2010-584.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,28 +129,19 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:19Z'
-  warnings: []
+  checked_at: '2026-10-22T15:48:05Z'
+  warnings:
+  - '02010R0584-20100710: versão indisponível (Sem expressão na língua por para CELEX 02010R0584-20100710.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 584/2010 da Comissão de 1 de Julho de 2010
-
-> 02010R0584 — PT — 14.07.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0910) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/910 DA COMISSÃO de 15 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0910) — L 910 — 1 — 25.3.2024
-
-## REGULAMENTO (UE) N.º 584/2010 DA COMISSÃO
 
 de 1 de Julho de 2010
 

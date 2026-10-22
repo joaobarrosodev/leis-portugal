@@ -37,6 +37,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-07-07'
+version_history:
+  file: regulamento-ue-2010-53.versoes.json
+  count: 2
+  source_lastmod: '2010-07-07'
+  versions:
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-07'
+    amending: eu:celex:32010R0589:por
+    amending_title: REGULAMENTO (UE) N. o 589/2010 DA COMISSÃO de 5 de Julho de 2010; REGULAMENTO (UE) N. o 685/2010 DO CONSELHO
+      de 26 de Julho de 2010; REGULAMENTO (UE) N. o 712/2010 DO CONSELHO de 26 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Zonas de pesca
+    - Altera Artigo 9.º — Limites de captura e de esforço na pesca de profundidade
+    - Altera Artigo 36.º — Alteração do Regulamento (CE) n.º 1359/2008
+    - Altera Artigo 38.º — Alteração ao Regulamento (CE) n.º 1226/2009
+    - Altera Artigo 39.º — Alteração ao Regulamento (CE) N.º 1287/2009
+    - Altera Skagerrak, Kattegat, subzonas CIEM I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIV, águas da UE da CECAF, águas
+      da Guiana francesa
+    - Altera Zonas CIEM I, II, V, XII e XIV e águas gronelandesas da NAFO 0 e 1
+    - Altera Área da Convenção da NAFO
+    - Altera PEIXES ALTAMENTE MIGRADORES – Todas as zonas
+    - Altera Área da Convenção CCAMLR
+    - Altera Área da Convenção SEAFO
+    - Altera ATUM DO SUL – Todas as zonas
+    - Altera Esforço de pesca máximo autorizado, expresso em quilowatts-dias
+    - Altera Apêndice 2 do anexo IIA
+    - Altera 7. Atribuição de dias suplementares pela cessação definitiva das actividades de pesca
+    - Altera 8. Atribuição de dias suplementares para um reforço da presença de observadores
+    - Altera 13. Comunicação dos dados pertinentes
+    - Altera ANEXO III
+    - Altera ZONA DA CONVENÇÃO CICAA
+    - Altera PROIBIÇÃO DA PESCA DIRIGIDA NA ZONA DA CONVENÇÃO CCAMLR
+    - Altera LIMITES DE CAPTURAS E DE CAPTURAS ACESSÓRIAS NAS NOVAS PESCARIAS E NAS PESCARIAS EXPLORATÓRIAS NA ZONA DA CONVENÇÃO
+      CCAMLR EM 2009/2010
+    - Altera NOTIFICAÇÃO DE INTENÇÃO DE PARTICIPAR NA PESCA DE EUPHAUSIA SUPERBA
+    - Altera CONFIGURAÇÃO DA REDE E TÉCNICAS DE PESCA UTILIZADAS
+    - Altera Limitações quantitativas das autorizações de pesca aplicáveis aos navios de países terceiros que pescam nas águas
+      da UE
+    - Altera Notas
+    - Adita Artigo 15.º — Limitação das capacidades de pesca e de cultura e de engorda do atum rabilho
+    - Suprime Artigo 15.º — Limitação do número de navios autorizados a pescar atum rabilho
+    - Suprime Limitações quantitativas das autorizações de pesca aplicáveis aos navios da UE que pescam nas águas de países
+      terceiros
 identifiers:
   celex: 32010R0053
   eli: http://data.europa.eu/eli/reg/2010/53/oj
@@ -51,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5eaf68b3-afd7-47b4-b688-429f04995066.0018
   content_url: http://publications.europa.eu/resource/cellar/4a2e7d67-a70c-461a-88aa-cbd990f924ac.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0053-20100707
-  retrieved_at: '2026-10-22T03:15:17Z'
+  retrieved_at: '2026-10-22T15:47:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-05-20T12:29:18.160+02:00'
 integrity:
@@ -60,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:15:17Z'
-  notes: Texto consolidado 02010R0053-20100707.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:44Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2010-53.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -330,37 +378,19 @@ relationships:
   date: '2010-01-29'
 article_structure:
   article_count: 41
-  section_count: 127
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 128
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:15:17Z'
+  checked_at: '2026-10-22T15:47:44Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 23/2010 do Conselho, de 14 de Janeiro de 2010
-
-> 2010R0053 — PT — 07.07.2010 — 001.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0219) — [REGULAMENTO (UE) N.º 219/2010 DO CONSELHO de 15 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0219) — L 71 — 1 — 19.3.2010
-- [►M2](http://publications.europa.eu/resource/celex/32010R0421) — [REGULAMENTO (UE) N.º 421/2010 DA COMISSÃO de 17 de Maio de 2010](http://publications.europa.eu/resource/celex/32010R0421) — L 121 — 1 — 18.5.2010
-- [►M3](http://publications.europa.eu/resource/celex/32010R0589) — [REGULAMENTO (UE) N.º 589/2010 DA COMISSÃO de 5 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0589) — L 170 — 7 — 6.7.2010
-- [►M4](http://publications.europa.eu/resource/celex/32010R0685) — [REGULAMENTO (UE) N.º 685/2010 DO CONSELHO de 26 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0685) — L 199 — 1 — 31.7.2010
-- [►M5](http://publications.europa.eu/resource/celex/32010R0712) — [REGULAMENTO (UE) N.º 712/2010 DO CONSELHO de 26 de Julho de 2010](http://publications.europa.eu/resource/celex/32010R0712) — L 209 — 1 — 10.8.2010
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32010R0053R%2801%29) — [Rectificação, JO L 024, 28.1.2010, p. 14 (53/10)](http://publications.europa.eu/resource/celex/32010R0053R%2801%29)
-
-## [**►C1**](http://publications.europa.eu/resource/celex/32010R0053R%2801%29) REGULAMENTO (UE) N.º 53/2010 DO CONSELHO**◄**
 
 de 14 de Janeiro de 2010
 

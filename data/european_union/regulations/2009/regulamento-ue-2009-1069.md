@@ -37,6 +37,68 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: regulamento-ue-2009-1069.versoes.json
+  count: 4
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2009-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-11-09'
+    amending: eu:celex:32010L0063:por
+    amending_title: DIRECTIVA 2010/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de
+      Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Restrições gerais de sanidade animal
+    - Altera Artigo 8.º — Matérias de categoria 1
+    - Altera Artigo 9.º — Matérias de categoria 2
+    - Altera Artigo 10.º — Matérias de categoria 3
+    - Altera Artigo 12.º — Eliminação e utilização de matérias de categoria 1
+    - Altera Artigo 13.º — Eliminação e utilização de matérias de categoria 2
+    - Altera Artigo 14.º — Eliminação e utilização de matérias de categoria 3
+    - Altera Artigo 15.º — Medidas de execução
+    - Altera Artigo 18.º — Fins especiais de alimentação animal
+    - Altera Artigo 23.º — Registo de operadores, estabelecimentos e instalações
+    - Altera Artigo 24.º — Aprovação de estabelecimentos e instalações
+    - Altera Artigo 27.º — Medidas de execução
+    - Altera Artigo 35.º — Colocação no mercado de alimentos para animais de companhia
+    - Altera Artigo 36.º — Colocação no mercado de outros produtos derivados
+    - Altera Artigo 46.º — Suspensões, retiradas e proibição de operações
+    - Altera Artigo 48.º — Controlos para a expedição para outros Estados-Membros
+    - Altera Artigo 56.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita QUADRO DE CORRESPONDÊNCIA
+  - date: '2019-07-15'
+    amending: eu:celex:32013R1385:por
+    amending_title: REGULAMENTO (UE) N. o 1385/2013 DO CONSELHO de 17 de dezembro de 2013; REGULAMENTO (UE) 2019/1009 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Ponto final na cadeia de fabrico
+    - Altera Artigo 8.º — Matérias de categoria 1
+    - Altera Artigo 10.º — Matérias de categoria 3
+    - Altera Artigo 14.º — Eliminação e utilização de matérias de categoria 3
+    - Altera Artigo 56.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 51.º-A — Exercício da delegação
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Matérias de categoria 1
+    - Altera Artigo 51.º-A — Exercício da delegação
+    - Altera Notas
+    - Suprime Artigo 45.º — Controlos oficiais
+    - Suprime Artigo 49.º — Controlos comunitários nos Estados-Membros
+    - Suprime Artigo 50.º — Aplicação do Regulamento (CE) n.º 882/2004 para efeitos de certos controlos
 identifiers:
   celex: 32009R1069
   eli: http://data.europa.eu/eli/reg/2009/1069/oj
@@ -51,7 +113,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d3be11dd-81f5-48e8-b4a3-10333063634c.0019
   content_url: http://publications.europa.eu/resource/cellar/00afcf80-27e4-11ea-af81-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1069-20191214
-  retrieved_at: '2026-10-22T02:35:21Z'
+  retrieved_at: '2026-10-22T15:44:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-18T02:33:18.293+02:00'
 integrity:
@@ -60,9 +122,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:21Z'
-  notes: Texto consolidado 02009R1069-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:44:36Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2009-1069.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -568,38 +630,19 @@ relationships:
   date: '2002-10-14'
 article_structure:
   article_count: 54
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:21Z'
+  checked_at: '2026-10-22T15:44:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1069/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009
-
-> 02009R1069 — PT — 14.12.2019 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0063) — [DIRECTIVA 2010/63/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010L0063) — L 276 — 33 — 20.10.2010
-- [►M2](http://publications.europa.eu/resource/celex/32013R1385) — [REGULAMENTO (UE) N.º 1385/2013 DO CONSELHO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1385) — L 354 — 86 — 28.12.2013
-- [►M3](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M4](http://publications.europa.eu/resource/celex/32019R1009) — [REGULAMENTO (UE) 2019/1009 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1009) — L 170 — 1 — 25.6.2019
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009R1069R%2801%29) — [Rectificação, JO L 058, 3.3.2011, p. 94 (1069/2009)](http://publications.europa.eu/resource/celex/32009R1069R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32009R1069R%2806%29) — [Rectificação, JO L 198, 23.7.2016, p. 50 (1069/2009)](http://publications.europa.eu/resource/celex/32009R1069R%2806%29)
-- [►C3](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-
-## REGULAMENTO (CE) n.º 1069/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de Outubro de 2009
 

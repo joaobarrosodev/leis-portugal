@@ -35,6 +35,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-08-28'
+version_history:
+  file: regulamento-ue-2009-637.versoes.json
+  count: 2
+  source_lastmod: '2013-08-28'
+  versions:
+  - date: '2009-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-28'
+    amending: eu:celex:32013R0763:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 763/2013 DA COMISSÃO de 7 de agosto de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ESPÉCIES ESTREITAMENTE RELACIONADAS
+    - Adita ANEXO II
+    - Adita ANEXO III
 identifiers:
   celex: 32009R0637
   eli: http://data.europa.eu/eli/reg/2009/637/oj
@@ -49,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/511e98d3-b162-4766-b0cb-8fb308eba80f.0018
   content_url: http://publications.europa.eu/resource/cellar/a9bc081a-bc27-4ebf-b65a-08f2080168dc.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0637-20130828
-  retrieved_at: '2026-10-22T03:14:45Z'
+  retrieved_at: '2026-10-22T15:42:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T13:07:27.104+02:00'
 integrity:
@@ -58,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:45Z'
-  notes: Texto consolidado 02009R0637-20130828.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:42:55Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2009-637.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,29 +145,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 9
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:45Z'
+  checked_at: '2026-10-22T15:42:55Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 637/2009 da Comissão, de 22 de Julho de 2009
-
-> 2009R0637 — PT — 28.08.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0763) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 763/2013 DA COMISSÃO de 7 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0763) — L 213 — 16 — 8.8.2013
-
-## REGULAMENTO (CE) N.º 637/2009 DA COMISSÃO
 
 de 22 de Julho de 2009
 

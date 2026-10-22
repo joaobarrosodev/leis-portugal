@@ -38,6 +38,246 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-01-01'
+version_history:
+  file: regulamento-ue-2009-1122.versoes.json
+  count: 9
+  source_lastmod: '2015-01-01'
+  versions:
+  - date: '2009-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-03'
+    amending: eu:celex:32010R0146:por
+    amending_title: REGULAMENTO (UE) N. o 146/2010 DA COMISSÃO de 23 de Fevereiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Manutenção das terras ocupadas por pastagens permanentes a nível do Estado-Membro
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 6.º — Identificação das parcelas agrícolas
+    - Altera Artigo 7.º — Identificação e registo dos direitos ao pagamento
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 28.º — Controlos cruzados
+    - Altera Artigo 30.º — Taxa de controlo
+    - Altera Artigo 37.º — Elementos dos controlos in loco relativos aos pedidos de ajuda às sementes
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 44.º — Medidas de controlo no que respeita ao prémio concedido após exportação
+    - Altera Artigo 46.º — Disposições especiais relativas ao apoio específico
+    - Altera Artigo 50.º — Taxa mínima de controlo
+    - Altera Artigo 51.º — Selecção da amostra de controlo
+    - Altera Artigo 54.º — Relatório de controlo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 62.º — Reduções e exclusões relativas ao pagamento específico para o algodão
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Artigo 87.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Método comunitário para a determinação quantitativa do Δ9-tetra-hidrocanabinol das variedades de cânhamo
+    - Adita 1. Objecto e âmbito de aplicação
+    - Adita 1.1. Procedimento A
+    - Adita 1.2. Procedimento B
+    - Adita 2. Amostragem
+    - Adita 2.1. Colheita de amostras
+    - Adita 2.2. Dimensão da amostra
+    - Adita 2.3. Secagem e armazenagem das amostras
+    - Adita 3. Determinação do teor de THC
+    - Adita 3.1. Preparação da amostra para análise
+    - Adita 3.2. Reagentes, solução de extracção
+    - Adita 3.3. Extracção do Δ9-THC
+    - Adita 3.4. Cromatografia em fase gasosa
+    - Adita 4. Resultados
+    - Adita ANEXO II
+  - date: '2011-03-01'
+    amending: eu:celex:32011R0173:por
+    amending_title: REGULAMENTO (UE) N. o 173/2011 DA COMISSÃO de 23 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1368:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1368/2011 DA COMISSÃO de 21 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 14.º — Alterações aos pedidos únicos
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 28.º — Controlos cruzados
+    - Altera Artigo 33.º — Elementos dos controlos in loco
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 41.º — Calendário dos controlos in loco
+    - Altera Artigo 42.º — Elementos dos controlos in loco
+    - Altera Artigo 45.º — Disposições especiais relativas aos relatórios de controlo
+    - Altera Artigo 57.º — Base de cálculo no que diz respeito às superfícies declaradas
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 63.º — Base de cálculo
+    - Altera Artigo 64.º — Substituição
+    - Altera Artigo 65.º — Reduções e exclusões no que respeita aos bovinos objecto de pedidos de ajuda
+    - Altera Artigo 66.º — Reduções e exclusões no que respeita aos ovinos ou caprinos objecto de pedidos de ajuda
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 78.º — Aplicação de reduções em cada regime de apoio
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+    - Adita Ajudas aos produtores de beterraba açucareira e de cana-de-açúcar, pagamento específico para o açúcar, pagamento
+      específico para as frutas e produtos hortícolas e pagamento específico para os frutos de bagas
+    - Adita Artigo 17.º
+    - Adita Requisitos relativos aos pedidos da ajuda aos produtores de beterraba açucareira e de cana-de-açúcar, ao pagamento
+      específico para o açúcar, ao pagamento específico para as frutas e produtos hortícolas e ao pagamento específico para
+      os frutos de bagas
+    - Adita Artigo 31.º-A — Controlos in loco combinados
+    - Suprime Ajudas aos produtores de beterraba açucareira e de cana-de-açúcar, pagamento específico para o açúcar e pagamento
+      específico para as frutas e produtos hortícolas
+    - Suprime Artigo 17.º — Requisitos relativos aos pedidos de ajuda aos produtores de beterraba açucareira e de cana-de-açúcar,
+      ao pagamento específico para o açúcar e ao pagamento específico para as frutas e produtos hortícolas
+    - Suprime Artigo 37.º — Elementos dos controlos in loco relativos aos pedidos de ajuda às sementes
+    - Suprime Artigo 43.º — Medidas de controlo no que respeita aos controlos in loco nos matadouros
+    - Suprime Artigo 44.º — Medidas de controlo no que respeita ao prémio concedido após exportação
+    - Suprime Artigo 59.º — Reduções por irregularidades no que respeita às dimensões das superfícies declaradas para o pagamento
+      das ajudas à batata para fécula e às sementes
+    - Suprime Artigo 61.º — Reduções e exclusões relativas aos pedidos de ajuda às sementes
+    - Suprime Artigo 68.º — Declarações e certificados incorrectos emitidos por matadouros
+  - date: '2012-08-16'
+    amending: eu:celex:32012R0666:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 666/2012 DA COMISSÃO de 20 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+  - date: '2012-10-14'
+    amending: eu:celex:32012R0937:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 937/2012 DA COMISSÃO de 12 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 80.º — Recuperação de pagamentos indevidos
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+  - date: '2013-02-16'
+    amending: eu:celex:32013R0129:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 129/2013 DA COMISSÃO de 14 de fevereiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0393:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 393/2013 DA COMISSÃO de 29 de abril de 2013; REGULAMENTO (UE) N. o 426/2013
+      DA COMISSÃO de 8 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Manutenção das terras ocupadas por pastagens permanentes a nível do Estado-Membro
+    - Altera Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Altera Artigo 7.º — Identificação e registo dos direitos ao pagamento
+    - Altera Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Altera Artigo 15.º — Atribuição ou aumento de direitos ao pagamento
+    - Altera Artigo 22.º — Derrogação da data-limite de apresentação
+    - Altera Artigo 40.º — Verificação do teor de tetra-hidrocanabinol do cânhamo
+    - Altera Artigo 58.º — Reduções e exclusões nos casos de sobredeclaração
+    - Altera Artigo 69.º — Constatações relativas ao apoio específico
+    - Altera Artigo 79.º — Base de cálculo das reduções decorrentes da modulação, da disciplina financeira e da condicionalidade
+    - Altera Artigo 82.º — Cedência de explorações
+    - Altera Artigo 84.º — Comunicações
+    - Altera Artigo 85.º — Chave de repartição
+    - Altera Notas
+  - date: '2015-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime PARTE I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime TÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime MANUTENÇÃO DAS PASTAGENS PERMANENTES
+    - Suprime Artigo 3.º — Manutenção das terras ocupadas por pastagens permanentes a nível do Estado-Membro
+    - Suprime Artigo 4.º — Manutenção das terras ocupadas por pastagens permanentes ao nível do agricultor
+    - Suprime PARTE II
+    - Suprime SISTEMA INTEGRADO DE GESTÃO E DE CONTROLO
+    - Suprime REQUISITOS DOS SISTEMAS E CONDICIONALIDADE
+    - Suprime CAPÍTULO I
+    - Suprime Sistema de identificação e registo
+    - Suprime Artigo 5.º — Identificação dos agricultores
+    - Suprime Artigo 6.º — Identificação das parcelas agrícolas
+    - Suprime Artigo 7.º — Identificação e registo dos direitos ao pagamento
+    - Suprime CAPÍTULO II
+    - Suprime Condicionalidade
+    - Suprime Artigo 8.º — Sistema de controlo da condicionalidade
+    - Suprime Artigo 9.º — Pagamento das ajudas e controlos relativos à condicionalidade
+    - Suprime PEDIDOS DE AJUDA
+    - Suprime O pedido único
+    - Suprime Artigo 10.º — Disposições gerais aplicáveis ao pedido único
+    - Suprime Artigo 11.º — Data de apresentação do pedido único
+    - Suprime Artigo 12.º — Conteúdo do pedido único
+    - Suprime Artigo 13.º — Requisitos especiais aplicáveis ao pedido único e às declarações relativas a utilizações específicas
+      das superfícies
+    - Suprime Artigo 14.º — Alterações aos pedidos únicos
+    - Suprime Pedidos de direitos ao pagamento
+    - Suprime Artigo 15.º — Atribuição ou aumento de direitos ao pagamento
+    - Suprime CAPÍTULO III
+    - Suprime Pedidos de ajuda «animais»
+    - Suprime Artigo 16.º — Requisitos relativos aos pedidos de ajuda «animais»
+    - Suprime CAPÍTULO IV
+    - Suprime Ajudas aos produtores de beterraba açucareira e de cana-de-açúcar, pagamento específico para o açúcar, pagamento
+      específico para as frutas e produtos hortícolas e pagamento específico para os frutos de bagas
+    - Suprime Artigo 17.º
+    - Suprime Requisitos relativos aos pedidos da ajuda aos produtores de beterraba açucareira e de cana-de-açúcar, ao pagamento
+      específico para o açúcar, ao pagamento específico para as frutas e produtos hortícolas e ao pagamento específico para
+      os frutos de bagas
+    - Suprime CAPÍTULO V
 identifiers:
   celex: 32009R1122
   eli: http://data.europa.eu/eli/reg/2009/1122/oj
@@ -52,7 +292,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b740c99b-1890-413a-9664-766f2f27da67.0018
   content_url: http://publications.europa.eu/resource/cellar/0d75012b-f215-440c-aee3-be2599191684.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1122-20150101
-  retrieved_at: '2026-10-22T02:35:49Z'
+  retrieved_at: '2026-10-22T15:45:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T17:58:57.090+02:00'
 integrity:
@@ -61,9 +301,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:49Z'
-  notes: Texto consolidado 02009R1122-20150101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:45:18Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2009-1122.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -385,16 +625,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:49Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:45:18Z'
+  warnings: []
   errors: []
 ---
 
