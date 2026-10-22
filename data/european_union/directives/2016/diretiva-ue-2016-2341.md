@@ -36,6 +36,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-17'
+version_history:
+  file: diretiva-ue-2016-2341.versoes.json
+  count: 3
+  source_lastmod: '2025-01-17'
+  versions:
+  - date: '2016-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Provisões técnicas
+    - Altera Artigo 16.º — Margem de solvência disponível
+    - Altera Artigo 17.º — Margem de solvência exigida
+    - Altera Artigo 19.º — Regras de investimento
+    - Altera Artigo 22.º — Requisitos de qualificação e idoneidade da gestão
+    - Altera Artigo 28.º — Autoavaliação do risco
+    - Altera Artigo 50.º — Informações a prestar às autoridades competentes
+    - Altera Artigo 55.º — Intercâmbio de informações entre autoridades
+    - Altera Artigo 56.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às Autoridades Europeias
+      de Supervisão e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 63.º — Alteração da Diretiva 2009/138/CE
+    - Altera Artigo 67.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 63.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Diretiva revogada com a lista das sucessivas alterações
+    - Adita (referidas no artigo 65.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito nacional e de aplicação
+    - Adita (referidos no artigo 65.º)
+    - Adita ANEXO II
+    - Adita Tabela de correspondência
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Regras de investimento
+    - Altera Artigo 21.º — Requisitos gerais de governação
+    - Altera Artigo 56.º — Transmissão de informações aos bancos centrais, às autoridades monetárias, às Autoridades Europeias
+      de Supervisão e ao Comité Europeu do Risco Sistémico
+    - Altera Artigo 63.º — Alteração da Diretiva 2009/138/CE
+    - Altera Artigo 63.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
 identifiers:
   celex: 32016L2341
   eli: http://data.europa.eu/eli/dir/2016/2341/oj
@@ -50,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3dbea47a-c8a2-11e6-a6db-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/2d732271-e881-11ef-b5e9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L2341-20250117
-  retrieved_at: '2026-10-22T03:00:40Z'
+  retrieved_at: '2026-10-22T16:50:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T16:55:25.556+01:00'
 integrity:
@@ -59,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:40Z'
-  notes: Texto consolidado 02016L2341-20250117.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:50:21Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2016-2341.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -222,30 +273,19 @@ relationships:
   source: null
 article_structure:
   article_count: 68
-  section_count: 43
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 44
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:40Z'
+  checked_at: '2026-10-22T16:50:21Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/2341 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016
-
-> 02016L2341 — PT — 17.01.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-
-## DIRETIVA (UE) 2016/2341 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de dezembro de 2016
 

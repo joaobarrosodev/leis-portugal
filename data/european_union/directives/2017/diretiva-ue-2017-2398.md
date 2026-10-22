@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-12-27'
+version_history:
+  file: diretiva-ue-2017-2398.versoes.json
+  count: 1
+  source_lastmod: '2017-12-27'
+  versions:
+  - date: '2017-12-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32017L2398
   eli: http://data.europa.eu/eli/dir/2017/2398/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/72269bbb-eac1-11e7-9749-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e15be946-ef43-438f-a043-d44ad9d142aa.0003.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L2398-20171227
-  retrieved_at: '2026-10-22T03:00:52Z'
+  retrieved_at: '2026-10-22T16:56:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T12:53:20.545+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:52Z'
-  notes: Texto consolidado 02017L2398-20171227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:59Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2017-2398.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -163,28 +172,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:52Z'
+  checked_at: '2026-10-22T16:56:59Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2017/2398 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017
-
-> 02017L2398 — PT — 27.12.2017 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017L2398R%2802%29) — [Rectificação, JO L 136, 1.6.2018, p. 88 (2017/2398)](http://publications.europa.eu/resource/celex/32017L2398R%2802%29)
-
-## DIRETIVA (UE) 2017/2398 DO PARLAMENTO EUROPEU E DO CONSELHO,
 
 de 12 de dezembro de 2017,
 

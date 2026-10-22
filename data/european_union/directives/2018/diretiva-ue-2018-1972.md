@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-10-18'
+version_history:
+  file: diretiva-ue-2018-1972.versoes.json
+  count: 2
+  source_lastmod: '2024-10-18'
+  versions:
+  - date: '2018-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-10-18'
+    amending: eu:celex:32022L2555:por
+    amending_title: DIRETIVA (UE) 2022/2555 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto, âmbito de aplicação e finalidade
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Objetivos gerais
+    - Adita Artigo 4.º — Planeamento estratégico e coordenação da política do espetro de radiofrequências
+    - Adita Artigo 5.º — Autoridades reguladoras nacionais e outras autoridades competentes
+    - Adita Artigo 6.º — Independência das autoridades reguladoras nacionais e de outras autoridades competentes
+    - Adita Artigo 7.º — Nomeação e exoneração dos membros das autoridades reguladoras nacionais
+    - Adita Artigo 8.º — Independência política e responsabilidade das autoridades reguladoras nacionais
+    - Adita Artigo 9.º — Capacidade reguladora das autoridades reguladoras nacionais
+    - Adita Artigo 10.º — Participação das autoridades reguladoras nacionais no ORECE
+    - Adita Artigo 11.º — Cooperação entre as autoridades nacionais
+    - Adita Artigo 12.º — Autorização geral de redes e serviços de comunicações eletrónicas
+    - Adita Artigo 13.º — Condições associadas à autorização geral e aos direitos de utilização do espetro de radiofrequências
+      e de recursos de numeração, e obrigações específicas
+    - Adita Artigo 14.º — Declarações destinadas a facilitar o exercício dos direitos de instalar recursos e dos direitos
+      de interligação
+    - Adita Artigo 15.º — Lista mínima de direitos decorrentes da autorização geral
+    - Adita Artigo 16.º — Encargos administrativos
+    - Adita Artigo 17.º — Separação contabilística e relatórios financeiros
+    - Adita Artigo 18.º — Alteração dos direitos e obrigações
+    - Adita Artigo 19.º — Limitação ou supressão de direitos
+    - Adita Artigo 20.º — Pedido de informações às empresas
+    - Adita Artigo 21.º — Informações exigidas em relação à autorização geral, aos direitos de utilização e às obrigações
+      específicas
+    - Adita Artigo 22.º — Levantamentos geográficos sobre a implantação de redes
+    - Adita Artigo 23.º — Mecanismo de consulta e de transparência
+    - Adita Artigo 24.º — Consulta das partes interessadas
+    - Adita Artigo 25.º — Resolução extrajudicial de litígios
+    - Adita Artigo 26.º — Resolução de litígios entre empresas
+    - Adita Artigo 27.º — Resolução de litígios transfronteiriços
+    - Adita Artigo 28.º — Coordenação do espetro de radiofrequências entre os Estados-Membros
+    - Adita Artigo 29.º — Sanções
+    - Adita Artigo 30.º — Respeito das condições da autorização geral ou dos direitos de utilização do espetro de radiofrequências
+      e dos recursos de numeração e cumprimento das obrigações específicas
+    - Adita Artigo 31.º — Direito de recurso
+    - Adita Artigo 32.º — Consolidação do mercado interno das comunicações eletrónicas
+    - Adita Artigo 33.º — Procedimento para a aplicação coerente de medidas corretivas
+    - Adita Artigo 34.º — Disposições de execução
+    - Adita Artigo 35.º — Processo de análise interpares
+    - Adita Artigo 36.º — Atribuição harmonizada do espetro de radiofrequências
+    - Adita Artigo 37.º — Processo de autorização conjunta para a concessão de direitos individuais de utilização do espetro
+      de radiofrequências
+    - Adita Artigo 38.º — Medidas de harmonização
+    - Adita Artigo 39.º — Normalização
 identifiers:
   celex: 32018L1972
   eli: http://data.europa.eu/eli/dir/2018/1972/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4bb873d0-01d2-11e9-adde-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/f01589bd-856c-11ef-a67d-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018L1972-20241018
-  retrieved_at: '2026-10-22T02:37:21Z'
+  retrieved_at: '2026-10-22T17:04:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T02:12:11.265+01:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:21Z'
-  notes: Texto consolidado 02018L1972-20241018.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:04:13Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2018-1972.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -489,33 +547,19 @@ relationships:
   source: null
 article_structure:
   article_count: 125
-  section_count: 125
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 126
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:21Z'
+  checked_at: '2026-10-22T17:04:13Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018
-
-> 02018L1972 — PT — 18.10.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L2555) — [DIRETIVA (UE) 2022/2555 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2555) — L 333 — 80 — 27.12.2022
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018L1972R%2801%29) — [Rectificação, JO L 334, 27.12.2019, p. 164 (2018/1972)](http://publications.europa.eu/resource/celex/32018L1972R%2801%29)
-
-## DIRETIVA (UE) 2018/1972 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2018
 

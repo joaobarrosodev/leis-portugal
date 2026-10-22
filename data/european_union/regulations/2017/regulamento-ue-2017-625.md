@@ -46,6 +46,135 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-05'
+version_history:
+  file: regulamento-ue-2017-625.versoes.json
+  count: 5
+  source_lastmod: '2025-01-05'
+  versions:
+  - date: '2017-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: eu:celex:32019R0478:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/478 DA COMISSÃO de 14 de janeiro de 2019; REGULAMENTO DELEGADO (UE) 2019/2127
+      DA COMISSÃO de 10 de outubro de 2019
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Requisitos adicionais
+    - Altera Artigo 18.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito à produção de produtos de origem animal destinados ao consumo humano
+    - Altera Artigo 24.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito aos produtos fitofarmacêuticos
+    - Altera Artigo 40.º — Derrogações da condição de acreditação obrigatória aplicáveis a certos laboratórios oficiais
+    - Altera Artigo 47.º — Animais e mercadorias sujeitos a controlos oficiais nos postos de controlo fronteiriços
+    - Altera Artigo 53.º — Controlos oficiais não efetuados nos postos de controlo fronteiriços
+    - Altera Artigo 61.º — Retirada de aprovações e nova designação de entidades de controlo fronteiriço existentes
+    - Altera Artigo 77.º — Regras relativas a controlos oficiais específicos e às medidas a adotar no seguimento desses controlos
+    - Altera Artigo 135.º — Proteção de dados
+    - Altera Artigo 149.º — Medidas transitórias relativas à revogação das Diretivas 91/496/CEE e 97/78/CE
+    - Altera Artigo 151.º — Alteração à Diretiva 98/58/CE
+    - Altera Artigo 154.º — Alteração ao Regulamento (CE) n.º 1/2005 e medidas transitórias associadas
+    - Altera Artigo 156.º — Alteração à Diretiva 2007/43/CE
+    - Altera Artigo 157.º — Alteração à Diretiva 2008/119/CE
+    - Altera Artigo 158.º — Alteração à Diretiva 2008/120/CE
+    - Altera Artigo 159.º — Alteração ao Regulamento (CE) n.º 1099/2009
+    - Altera Artigo 160.º — Alteração ao Regulamento (CE) n.º 1069/2009
+    - Altera Artigo 162.º — Alteração ao Regulamento (UE) n.º 1151/2012
+    - Altera Artigo 163.º — Alteração ao Regulamento (UE) n.º 652/2014
+    - Altera Artigo 164.º — Alteração ao Regulamento (UE) 2016/429 e medidas transitórias associadas
+    - Altera Artigo 165.º — Alteração ao Regulamento (UE) 2016/2031 e disposições transitórias associadas
+    - Altera Notas
+  - date: '2021-10-28'
+    amending: eu:celex:32021R1756:por
+    amending_title: REGULAMENTO (UE) 2021/1756 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Requisitos adicionais
+    - Altera Artigo 18.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito à produção de produtos de origem animal destinados ao consumo humano
+    - Altera Artigo 24.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito aos produtos fitofarmacêuticos
+    - Altera Artigo 40.º — Derrogações da condição de acreditação obrigatória aplicáveis a certos laboratórios oficiais
+    - Altera Artigo 47.º — Animais e mercadorias sujeitos a controlos oficiais nos postos de controlo fronteiriços
+    - Altera Artigo 53.º — Controlos oficiais não efetuados nos postos de controlo fronteiriços
+    - Altera Artigo 61.º — Retirada de aprovações e nova designação de entidades de controlo fronteiriço existentes
+    - Altera Artigo 77.º — Regras relativas a controlos oficiais específicos e às medidas a adotar no seguimento desses controlos
+    - Altera Artigo 135.º — Proteção de dados
+    - Altera Artigo 149.º — Medidas transitórias relativas à revogação das Diretivas 91/496/CEE e 97/78/CE
+    - Altera Artigo 151.º — Alteração à Diretiva 98/58/CE
+    - Altera Artigo 154.º — Alteração ao Regulamento (CE) n.º 1/2005 e medidas transitórias associadas
+    - Altera Artigo 156.º — Alteração à Diretiva 2007/43/CE
+    - Altera Artigo 157.º — Alteração à Diretiva 2008/119/CE
+    - Altera Artigo 158.º — Alteração à Diretiva 2008/120/CE
+    - Altera Artigo 159.º — Alteração ao Regulamento (CE) n.º 1099/2009
+    - Altera Artigo 160.º — Alteração ao Regulamento (CE) n.º 1069/2009
+    - Altera Artigo 162.º — Alteração ao Regulamento (UE) n.º 1151/2012
+    - Altera Artigo 163.º — Alteração ao Regulamento (UE) n.º 652/2014
+    - Altera Artigo 164.º — Alteração ao Regulamento (UE) 2016/429 e medidas transitórias associadas
+    - Altera Artigo 165.º — Alteração ao Regulamento (UE) 2016/2031 e disposições transitórias associadas
+    - Altera Notas
+  - date: '2022-01-28'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Requisitos adicionais
+    - Altera Artigo 18.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito à produção de produtos de origem animal destinados ao consumo humano
+    - Altera Artigo 24.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito aos produtos fitofarmacêuticos
+    - Altera Artigo 40.º — Derrogações da condição de acreditação obrigatória aplicáveis a certos laboratórios oficiais
+    - Altera Artigo 53.º — Controlos oficiais não efetuados nos postos de controlo fronteiriços
+    - Altera Artigo 61.º — Retirada de aprovações e nova designação de entidades de controlo fronteiriço existentes
+    - Altera Artigo 77.º — Regras relativas a controlos oficiais específicos e às medidas a adotar no seguimento desses controlos
+    - Altera Artigo 135.º — Proteção de dados
+    - Altera Artigo 151.º — Alteração à Diretiva 98/58/CE
+    - Altera Artigo 154.º — Alteração ao Regulamento (CE) n.º 1/2005 e medidas transitórias associadas
+    - Altera Artigo 156.º — Alteração à Diretiva 2007/43/CE
+    - Altera Artigo 157.º — Alteração à Diretiva 2008/119/CE
+    - Altera Artigo 158.º — Alteração à Diretiva 2008/120/CE
+    - Altera Artigo 159.º — Alteração ao Regulamento (CE) n.º 1099/2009
+    - Altera Artigo 160.º — Alteração ao Regulamento (CE) n.º 1069/2009
+    - Altera Artigo 162.º — Alteração ao Regulamento (UE) n.º 1151/2012
+    - Altera Artigo 163.º — Alteração ao Regulamento (UE) n.º 652/2014
+    - Altera Artigo 164.º — Alteração ao Regulamento (UE) 2016/429 e medidas transitórias associadas
+    - Altera Artigo 165.º — Alteração ao Regulamento (UE) 2016/2031 e disposições transitórias associadas
+    - Altera Notas
+  - date: '2025-01-05'
+    amending: eu:celex:32024R3115:por
+    amending_title: REGULAMENTO (UE) 2024/3115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Requisitos adicionais
+    - Altera Artigo 18.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito à produção de produtos de origem animal destinados ao consumo humano
+    - Altera Artigo 24.º — Regras específicas aplicáveis aos controlos oficiais e às ações empreendidas pelas autoridades
+      competentes no que diz respeito aos produtos fitofarmacêuticos
+    - Altera Artigo 40.º — Derrogações da condição de acreditação obrigatória aplicáveis a certos laboratórios oficiais
+    - Altera Artigo 53.º — Controlos oficiais não efetuados nos postos de controlo fronteiriços
+    - Altera Artigo 61.º — Retirada de aprovações e nova designação de entidades de controlo fronteiriço existentes
+    - Altera Artigo 66.º — Medidas a tomar em caso de remessas não conformes que entram na União
+    - Altera Artigo 77.º — Regras relativas a controlos oficiais específicos e às medidas a adotar no seguimento desses controlos
+    - Altera Artigo 95.º — Designação de centros de referência da União Europeia para o bem-estar animal
+    - Altera Artigo 108.º — Assistência coordenada e acompanhamento pela Comissão
+    - Altera Artigo 135.º — Proteção de dados
+    - Altera Artigo 151.º — Alteração à Diretiva 98/58/CE
+    - Altera Artigo 154.º — Alteração ao Regulamento (CE) n.º 1/2005 e medidas transitórias associadas
+    - Altera Artigo 156.º — Alteração à Diretiva 2007/43/CE
+    - Altera Artigo 157.º — Alteração à Diretiva 2008/119/CE
+    - Altera Artigo 158.º — Alteração à Diretiva 2008/120/CE
+    - Altera Artigo 159.º — Alteração ao Regulamento (CE) n.º 1099/2009
+    - Altera Artigo 160.º — Alteração ao Regulamento (CE) n.º 1069/2009
+    - Altera Artigo 162.º — Alteração ao Regulamento (UE) n.º 1151/2012
+    - Altera Artigo 163.º — Alteração ao Regulamento (UE) n.º 652/2014
+    - Altera Artigo 164.º — Alteração ao Regulamento (UE) 2016/429 e medidas transitórias associadas
+    - Altera Artigo 165.º — Alteração ao Regulamento (UE) 2016/2031 e disposições transitórias associadas
+    - Altera Notas
 identifiers:
   celex: 32017R0625
   eli: http://data.europa.eu/eli/reg/2017/625/oj
@@ -60,7 +189,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/27d35592-1b59-11e7-aeb3-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e88a4c8f-cd06-11ef-be2a-01aa75ed71a1.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0625-20250105
-  retrieved_at: '2026-10-22T02:37:04Z'
+  retrieved_at: '2026-10-22T16:58:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T18:02:19.564+01:00'
 integrity:
@@ -69,9 +198,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:04Z'
-  notes: Texto consolidado 02017R0625-20250105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:58:19Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-625.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -774,37 +903,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 167
-  section_count: 100
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 101
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:04Z'
+  checked_at: '2026-10-22T16:58:19Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho, de 15 de março de 2017
-
-> 02017R0625 — PT — 05.01.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0478) — [REGULAMENTO DELEGADO (UE) 2019/478 DA COMISSÃO de 14 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0478) — L 82 — 4 — 25.3.2019
-- [►M2](http://publications.europa.eu/resource/celex/32019R2127) — [REGULAMENTO DELEGADO (UE) 2019/2127 DA COMISSÃO de 10 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R2127) — L 321 — 111 — 12.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R1756) — [REGULAMENTO (UE) 2021/1756 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1756) — L 357 — 27 — 8.10.2021
-- [►M4](http://publications.europa.eu/resource/celex/32024R3115) — [REGULAMENTO (UE) 2024/3115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R3115) — L 3115 — 1 — 16.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R0625R%2815%29) — [Rectificação, JO L 90807, 13.12.2024, p. 1 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2815%29)
-
-## REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de março de 2017
 

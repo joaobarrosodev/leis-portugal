@@ -36,6 +36,424 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2015-2447.versoes.json
+  count: 10
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2020-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2038:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/2038 DA COMISSÃO de 10 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 221.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera Formatos dos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Códigos relativos aos requisitos comuns em matéria de dadospara declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dadospara registo dos operadores económicos e de outras
+      pessoas
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+    - Altera Versão letã
+    - Altera Versão lituana
+    - Altera Versão húngara
+    - Altera Versão maltesa
+  - date: '2021-03-15'
+    amending: eu:celex:32021R0235:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/235 DA COMISSÃO de 8 de fevereiro de 2021
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 221.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera ÍNDICE
+    - Altera Formatos dos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera NOTAS INTRODUTÓRIAS
+    - Altera Referências linguísticas e respetivos códigos
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+    - Altera Versão letã
+    - Altera Versão lituana
+  - date: '2022-12-20'
+    amending: eu:celex:32022R2334:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2334 DA COMISSÃO de 29 de novembro de 2022
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera Formatos dos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+    - Altera Versão letã
+  - date: '2023-03-15'
+    amending: eu:celex:32023R0403:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/403 DA COMISSÃO de 8 de fevereiro de 2023
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 36.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 184.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera Formatos dos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para pedidos e decisões
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+  - date: '2024-03-11'
+    amending: eu:celex:32024R0250:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/250 DA COMISSÃO de 10 de janeiro de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/635 DA COMISSÃO de 2 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 200.º
+    - Altera Artigo 205.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 303.º
+    - Altera Artigo 305.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera ÍNDICE
+    - Altera NOTAS INTRODUTÓRIAS
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+  - date: '2025-02-01'
+    amending: eu:celex:32025R0411:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/411 DA COMISSÃO de 3 de março de 2025
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 14.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera CÓDIGOS RELATIVOS AOS REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA PEDIDOS E DECISÕES
+    - Altera CARDINALIDADES
+    - 'Altera (2) Códigos:'
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+  - date: '2025-05-19'
+    amending: eu:celex:32025R0825:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/825 DA COMISSÃO de 28 de abril de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/1728 DA COMISSÃO de 8 de agosto de 2025
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera CÓDIGOS RELATIVOS AOS REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA PEDIDOS E DECISÕES
+    - Altera CARDINALIDADES
+    - 'Altera (2) Códigos:'
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Decisões relativas às informações vinculativas em matéria de origem
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Certificado de informação e pedido de certificado de informação INF 4
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Certificado de circulação das mercadorias EUR.1 e respetivos pedidos
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+  - date: '2025-11-01'
+    amending: eu:celex:32026R0329:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/329 DA COMISSÃO de 13 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 61.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 142.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera CÓDIGOS RELATIVOS AOS REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA PEDIDOS E DECISÕES
+    - Altera CARDINALIDADES
+    - 'Altera (2) Códigos:'
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
+    - Altera Versão búlgara
+    - Altera Versão checa
+    - Altera Versão dinamarquesa
+    - Altera Versão alemã
+    - Altera Versão estónia
+    - Altera Versão grega
+    - Altera Versão croata
+    - Altera Versão italiana
+    - Altera Versão letã
+  - date: '2026-07-01'
+    amending: eu:celex:32026R1200:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1200 DA COMISSÃO de 5 de junho de 2026; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/1422 DA COMISSÃO de 25 de junho de 2026
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 21.º
+    - Altera Artigo 28.º
+    - Altera Artigo 46.º
+    - Altera Artigo 53.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 70.º
+    - Altera Artigo 83.º
+    - Altera Artigo 139.º
+    - Altera Artigo 142.º
+    - Altera Artigo 155.º
+    - Altera Artigo 157.º
+    - Altera Artigo 159.º
+    - Altera Artigo 182.º
+    - Altera Artigo 186.º
+    - Altera Artigo 199.º
+    - Altera Artigo 213.º
+    - Altera Artigo 221.º
+    - Altera Artigo 228.º
+    - Altera Artigo 243.º
+    - Altera Artigo 273.º
+    - Altera Artigo 322.º
+    - Altera Artigo 324.º
+    - Altera Artigo 345.º — Regras processuais para a reavaliação das autorizações já em vigor em 1 de maio de 2016
+    - Altera CÓDIGOS RELATIVOS AOS REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA PEDIDOS E DECISÕES
+    - Altera CARDINALIDADES
+    - 'Altera (2) Códigos:'
+    - Altera Formatos e cardinalidade dos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Códigos relativos aos requisitos comuns em matéria de dados para declarações e notificações
+    - Altera Lista de elementos de dados de vigilância referida no Artigo 55.º, n.º 6 e Correlação com a casa declaração e/ou
+      formato
+    - Altera ANEXO 21-03
+    - Altera Atestado de origem
+    - Altera Versão francesa
+    - Altera Versão inglesa
+    - Altera Versão espanhola
 identifiers:
   celex: 32015R2447
   eli: http://data.europa.eu/eli/reg_impl/2015/2447/oj
@@ -50,7 +468,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ed0fe62d-ae35-11e5-b528-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/29ee0635-8532-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R2447-20260701
-  retrieved_at: '2026-10-22T02:49:07Z'
+  retrieved_at: '2026-10-22T16:55:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T20:52:23.584+02:00'
 integrity:
@@ -59,9 +477,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:07Z'
-  notes: Texto consolidado 02015R2447-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:08Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2015-2447.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -377,50 +795,25 @@ relationships:
   date: '2026-06-03'
 article_structure:
   article_count: 356
-  section_count: 382
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 383
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:07Z'
-  warnings: []
+  checked_at: '2026-10-22T16:55:08Z'
+  warnings:
+  - '02015R2447-20151229: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2447-20170614: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2447-20180421: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2447-20191001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2447-20200101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2447-20200720: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2015/2447 da Comissão de 24 de novembro de 2015
-
-> 02015R2447 — PT — 01.07.2026 — 016.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0989) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/989 DA COMISSÃO de 8 de junho de 2017](http://publications.europa.eu/resource/celex/32017R0989) — L 149 — 19 — 13.6.2017
-- [►M2](http://publications.europa.eu/resource/celex/32018R0604) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/604 DA COMISSÃO de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0604) — L 101 — 22 — 20.4.2018
-- [►M3](http://publications.europa.eu/resource/celex/32019R1394) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1394 DA COMISSÃO de 10 de setembro de 2019](http://publications.europa.eu/resource/celex/32019R1394) — L 234 — 1 — 11.9.2019
-- [►M4](http://publications.europa.eu/resource/celex/32020R0893) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/893 DA COMISSÃO de 29 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0893) — L 206 — 8 — 30.6.2020
-- [►M5](http://publications.europa.eu/resource/celex/32020R1727) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1727 DA COMISSÃO de 18 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1727) — L 387 — 1 — 19.11.2020
-- [►M6](http://publications.europa.eu/resource/celex/32020R2038) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2038 DA COMISSÃO de 10 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2038) — L 416 — 48 — 11.12.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021R0235) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/235 DA COMISSÃO de 8 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0235) — L 63 — 386 — 23.2.2021
-- [►M8](http://publications.europa.eu/resource/celex/32022R2334) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2334 DA COMISSÃO de 29 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2334) — L 309 — 1 — 30.11.2022
-- [►M9](http://publications.europa.eu/resource/celex/32023R0403) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/403 DA COMISSÃO de 8 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0403) — L 56 — 18 — 23.2.2023
-- [►M10](http://publications.europa.eu/resource/celex/32024R0250) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/250 DA COMISSÃO de 10 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0250) — L 250 — 1 — 12.2.2024
-- [►M11](http://publications.europa.eu/resource/celex/32024R0635) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/635 DA COMISSÃO de 2 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0635) — L 635 — 1 — 20.2.2024
-- [►M12](http://publications.europa.eu/resource/celex/32025R0411) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/411 DA COMISSÃO de 3 de março de 2025](http://publications.europa.eu/resource/celex/32025R0411) — L 411 — 1 — 6.3.2025
-- [►M13](http://publications.europa.eu/resource/celex/32025R0825) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/825 DA COMISSÃO de 28 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0825) — L 825 — 1 — 29.4.2025
-- [►M14](http://publications.europa.eu/resource/celex/32025R1728) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1728 DA COMISSÃO de 8 de agosto de 2025](http://publications.europa.eu/resource/celex/32025R1728) — L 1728 — 1 — 11.8.2025
-- [►M15](http://publications.europa.eu/resource/celex/32026R0329) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/329 DA COMISSÃO de 13 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0329) — L 329 — 1 — 16.2.2026
-- [►M16](http://publications.europa.eu/resource/celex/32026R1200) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1200 DA COMISSÃO de 5 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1200) — L 1200 — 1 — 8.6.2026
-- [►M17](http://publications.europa.eu/resource/celex/32026R1422) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1422 DA COMISSÃO de 25 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1422) — L 1422 — 1 — 30.6.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32015R2447R%2801%29) — [Rectificação, JO L 087, 2.4.2016, p. 35 (2015/2447)](http://publications.europa.eu/resource/celex/32015R2447R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32015R2447R%2802%29) — [Rectificação, JO L 101, 13.4.2017, p. 221 (2015/2447)](http://publications.europa.eu/resource/celex/32015R2447R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2015/2447 DA COMISSÃO
 
 de 24 de novembro de 2015
 

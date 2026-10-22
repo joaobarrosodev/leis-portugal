@@ -38,6 +38,206 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2016-1011.versoes.json
+  count: 7
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2016-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-10'
+    amending: eu:celex:32019R2089:por
+    amending_title: REGULAMENTO (UE) 2019/2089 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Dados de cálculo
+    - Altera Artigo 13.º — Transparência da metodologia
+    - Altera Artigo 15.º — Código de conduta
+    - Altera Artigo 20.º — Índices de referência críticos
+    - Altera Artigo 21.º — Administração obrigatória de um índice de referência crítico
+    - Altera Artigo 23.º — Contribuição obrigatória para um índice de referência crítico
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 32.º — Reconhecimento de um administrador localizado num país terceiro
+    - Altera Artigo 33.º — Validação dos índices de referência elaborados num país terceiro
+    - Altera Artigo 36.º — Registo dos administradores e dos índices de referência
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 44.º — Obrigação de cooperar
+    - Altera Artigo 45.º — Publicação de decisões
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Artigo 51.º — Disposições transitórias
+    - Altera Artigo 54.º — Revisão
+    - Altera Artigo 56.º — Alteração do Regulamento (UE) n.º 596/2014
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Artigo 59.º — Entrada em vigor
+    - Altera Notas
+    - Adita CAPÍTULO 3-A
+    - Adita Índices de referência da UE para a transição climática e índices de referência da UE alinhados com o Acordo de
+      Paris
+    - Adita Artigo 19.º-A — Índices de referência da UE para a transição climática e índices de referência da UE alinhados
+      com o Acordo de Paris
+    - Adita Artigo 19.º-B — Requisitos dos índices de referência da UE para a transição climática
+    - Adita Artigo 19.º-C — Exclusões dos índices de referência da UE alinhados com o Acordo de Paris
+    - Adita Artigo 19.º-D — Empenho na elaboração de índices de referência da UE para a transição climática
+    - Adita Artigo 43.º
+    - Adita Exercício dos poderes de supervisão e imposição de sanções
+    - Adita ANEXO I
+    - Adita ÍNDICES DE REFERÊNCIA DAS TAXAS DE JURO
+    - Adita Dados precisos e suficientes
+    - Adita Responsável pela supervisão
+    - Adita Auditoria
+    - Adita Sistemas de controlo do fornecedor
+    - Adita ANEXO II
+    - Adita ÍNDICES DE REFERÊNCIA DAS MERCADORIAS
+  - date: '2021-02-13'
+    amending: eu:celex:32021R0168:por
+    amending_title: REGULAMENTO (UE) 2021/168 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 28.º — Alteração e cessação dos índices de referência
+    - Altera Artigo 29.º — Utilização de um índice de referência
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Artigo 51.º — Disposições transitórias
+    - Altera Artigo 54.º — Revisão
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Metodologia inerente aos índices de referência da UE para a transição climática
+    - Altera Notas
+    - Adita Índices de referência das taxas de juro e índices de referência das taxas de câmbio à vista
+    - Adita Artigo 18.º-A — Índices de referência das taxas de câmbio à vista
+    - Adita CAPÍTULO 4-A
+    - Adita Substituição legal de um índice de referência
+    - Adita Artigo 23.º-A — Âmbito da substituição legal de um índice de referência
+    - Adita Artigo 23.º-B — Substituição de um índice de referência pelo direito da União
+    - Adita Artigo 23.º-C — Substituição de um índice de referência pelo direito nacional
+    - Suprime Índices de referência das taxas de juro
+  - date: '2022-01-01'
+    amending: eu:celex:32019R2175:por
+    amending_title: REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Requisitos relativos à governação e a conflitos de interesses
+    - Altera Artigo 12.º — Metodologia
+    - Altera Artigo 14.º — Denúncia de infrações
+    - Altera Artigo 20.º — Índices de referência críticos
+    - Altera Artigo 21.º — Administração obrigatória de um índice de referência crítico
+    - Altera Artigo 23.º — Contribuição obrigatória para um índice de referência crítico
+    - Altera Artigo 26.º — Índices de referência não significativos
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 30.º — Equivalência
+    - Altera Artigo 32.º — Reconhecimento de um administrador localizado num país terceiro
+    - Altera Artigo 34.º — Autorização e registo de um administrador
+    - Altera Artigo 40.º — Autoridades competentes
+    - Altera Artigo 41.º — Poderes das autoridades competentes
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Exercício dos poderes de supervisão e imposição de sanções
+    - Altera Artigo 45.º — Publicação de decisões
+    - Altera Artigo 46.º — Colégios
+    - Altera Artigo 47.º — Cooperação com a ESMA
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Artigo 53.º — Avaliações da ESMA
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Metodologia inerente aos índices de referência da UE para a transição climática
+    - Altera Notas
+    - Adita Artigo 44.º — Obrigação de cooperação
+    - Adita Poderes e competências da ESMA
+    - Adita Secção 1
+    - Adita Competências e procedimentos
+    - Adita Artigo 48.º-A — Exercício dos poderes da ESMA
+    - Adita Artigo 48.º-B — Pedidos de informação
+    - Adita Artigo 48.º-C — Investigações de caráter geral
+    - Adita Artigo 48.º-D — Inspeções no local
+    - Adita Secção 2
+    - Adita Sanções administrativas e outras medidas administrativas
+    - Adita Artigo 48.º-E — Medidas de supervisão por parte da ESMA
+    - Adita Artigo 48.º-F — Coimas
+    - Adita Artigo 48.º-G — Sanções pecuniárias compulsórias
+    - Adita Artigo 48.º-H — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Adita Secção 3
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 30.º — Equivalência
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 48.º-H — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Metodologia inerente aos índices de referência da UE para a transição climática
+    - Altera Notas
+    - Adita Artigo 28.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2025-01-17'
+    amending: eu:celex:32022R2554:por
+    amending_title: REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Requisitos relativos ao sistema de controlo
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 28.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 30.º — Equivalência
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 48.º-H — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Metodologia inerente aos índices de referência da UE para a transição climática
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R0914:por
+    amending_title: REGULAMENTO (UE) 2025/914 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de maio de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Requisitos relativos à função de supervisão
+    - Altera Artigo 6.º — Requisitos relativos ao sistema de controlo
+    - Altera Artigo 11.º — Dados de cálculo
+    - Altera Artigo 13.º — Transparência da metodologia
+    - Altera Artigo 16.º — Requisitos de governação e controlo para os fornecedores supervisionados
+    - Altera Artigo 18.º — Índices de referência das taxas de juro
+    - Altera Artigo 18.º-A — Índices de referência das taxas de câmbio à vista
+    - Altera Artigo 19.º-A — Índices de referência da UE para a transição climática e índices de referência da UE alinhados
+      com o Acordo de Paris
+    - Altera Artigo 24.º — Índices de referência significativos
+    - Altera Artigo 25.º — Isenções dos requisitos específicos para os índices de referência significativos
+    - Altera Artigo 27.º — Declaração relativa ao índice de referência
+    - Altera Artigo 28.º — Alteração e cessação dos índices de referência
+    - Altera Artigo 28.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 30.º — Equivalência
+    - Altera Artigo 32.º — Reconhecimento de um administrador localizado num país terceiro
+    - Altera Artigo 33.º — Validação dos índices de referência elaborados num país terceiro
+    - Altera Artigo 34.º — Autorização e registo de um administrador
+    - Altera Artigo 36.º — Registo dos administradores e dos índices de referência
+    - Altera Artigo 40.º — Autoridades competentes
+    - Altera Artigo 41.º — Poderes das autoridades competentes
+    - Altera Artigo 42.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 48.º-F — Coimas
+    - Altera Artigo 48.º-H — Divulgação, natureza, execução e afetação das coimas e sanções pecuniárias compulsórias
+    - Altera Artigo 48.º-I — Regras processuais para a tomada de medidas de supervisão e a aplicação de coimas
+    - Altera Artigo 48.º-N — Medidas transitórias relacionadas com a ESMA
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Artigo 51.º — Disposições transitórias
+    - Altera Artigo 53.º — Avaliações da ESMA
+    - Altera Artigo 54.º — Revisão
+    - Altera Artigo 57.º — Alteração da Diretiva 2008/48/CE
+    - Altera Artigo 58.º — Alteração da Diretiva 2014/17/UE
+    - Altera Metodologia inerente aos índices de referência da UE para a transição climática
+    - Altera Notas
+    - Adita Índices de referência de mercadorias baseados em dados de cálculo fornecidos
+    - Adita Artigo 19.º — Índices de referência de mercadorias baseados em dados de cálculo fornecidos
+    - Adita Artigo 24.º-A — Requisitos aplicáveis aos administradores de índices de referência significativos
+    - Adita Artigo 29.º
+    - Adita Utilização de índices de referência críticos, índices de referência significativos, índices de referência de mercadorias
+      abrangidos pelo anexo II, índices de referência da UE para a transição climática e índices de referência da UE alinhados
+      com o Acordo de Paris
 identifiers:
   celex: 32016R1011
   eli: http://data.europa.eu/eli/reg/2016/1011/oj
@@ -52,7 +252,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5f55dd2e-3dbb-11e6-a825-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/12ce647d-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1011-20260101
-  retrieved_at: '2026-10-22T02:43:24Z'
+  retrieved_at: '2026-10-22T16:55:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-05T16:52:43.814+01:00'
 integrity:
@@ -61,9 +261,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:24Z'
-  notes: Texto consolidado 02016R1011-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:32Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2016-1011.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -302,38 +502,19 @@ relationships:
   date: '2023-10-30'
 article_structure:
   article_count: 82
-  section_count: 74
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 77
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:24Z'
+  checked_at: '2026-10-22T16:55:32Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2016/1011 do Parlamento Europeu e do Conselho, de 8 de junho de 2016
-
-> 02016R1011 — PT — 01.01.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R2089) — [REGULAMENTO (UE) 2019/2089 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2089) — L 317 — 17 — 9.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32019R2175) — [REGULAMENTO (EU) 2019/2175 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2175) — L 334 — 1 — 27.12.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R0168) — [REGULAMENTO (UE) 2021/168 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0168) — L 49 — 6 — 12.2.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R2554) — [REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2554) — L 333 — 1 — 27.12.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M6](http://publications.europa.eu/resource/celex/32025R0914) — [REGULAMENTO (UE) 2025/914 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0914) — L 914 — 1 — 19.5.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016R1011R%2803%29) — [Rectificação, JO L 137, 24.5.2017, p. 42 (2016/1011)](http://publications.europa.eu/resource/celex/32016R1011R%2803%29)
-
-## REGULAMENTO (UE) 2016/1011 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 8 de junho de 2016
 

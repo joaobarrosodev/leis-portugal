@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2016-1627.versoes.json
+  count: 1
+  source_lastmod: '2019-06-21'
+  versions:
+  - date: '2016-09-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32016R1627
   eli: http://data.europa.eu/eli/reg/2016/1627/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/471330e3-7bd1-11e6-b076-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/471330e3-7bd1-11e6-b076-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:53:34Z'
+  retrieved_at: '2026-10-22T16:56:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T18:23:16.847+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:34Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:03Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2016-1627.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,21 +194,20 @@ relationships:
   date: '2009-04-06'
 article_structure:
   article_count: 61
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:34Z'
+  checked_at: '2026-10-22T16:56:03Z'
   warnings:
-  - 'Versão consolidada 02016R1627-20190621 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02016R1627-20190621: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) 2016/1627 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) 2016/1627 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016
 
 de 14 de setembro de 2016
 

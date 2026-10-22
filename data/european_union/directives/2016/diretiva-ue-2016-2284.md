@@ -36,6 +36,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-02-06'
+version_history:
+  file: diretiva-ue-2016-2284.versoes.json
+  count: 2
+  source_lastmod: '2024-02-06'
+  versions:
+  - date: '2016-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-02-06'
+    amending: eu:celex:32024L0299:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/299 DA COMISSÃO de 27 de outubro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Monitorização dos impactos da poluição atmosférica
+    - Altera Artigo 11.º — Relatórios a apresentar pela Comissão
+    - Altera Artigo 13.º — Avaliação
+    - Altera Artigo 14.º — Acesso à informação
+    - Altera Artigo 16.º — Exercício da delegação
+    - Altera Artigo 19.º — Alteração à Diretiva 2003/35/CE
+    - Altera Artigo 23.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita MONITORIZAÇÃO E COMUNICAÇÃO DE EMISSÕES ATMOSFÉRICAS
+    - Adita ANEXO II
+    - Adita COMPROMISSOS NACIONAIS DE REDUÇÃO DE EMISSÕES
+    - Adita ANEXO III
+    - Adita CONTEÚDO DOS PROGRAMAS NACIONAIS DE CONTROLO DA POLUIÇÃO ATMOSFÉRICA A QUE SE REFEREM OS ARTIGOS 6.º E 10.º
+    - Adita PARTE 1
+    - Adita Conteúdo mínimo dos programas nacionais de controlo da poluição atmosférica
+    - Adita PARTE 2
+    - Adita Medidas de redução de emissões referidas no segundo parágrafo do artigo 6.º, n.º 2
+    - Adita ANEXO IV
+    - Adita METODOLOGIAS PARA A PREPARAÇÃO E ATUALIZAÇÃO DOS INVENTÁRIOS E PROJEÇÕES NACIONAIS DE EMISSÕES, DOS RELATÓRIOS
+      INFORMATIVOS DE INVENTÁRIO E DOS INVENTÁRIOS NACIONAIS DE EMISSÕES AJUSTADOS A QUE SE REFEREM OS ARTIGOS 5.º E 8.º
+    - Adita Inventários nacionais de emissões anuais
+    - Adita Projeções nacionais de emissões
+    - Adita PARTE 3
+    - Adita Relatório informativo de inventário
+    - Adita PARTE 4
+    - Adita Ajustamento dos inventários nacionais de emissões
+    - Adita ANEXO V
+    - Adita INDICADORES FACULTATIVOS PARA MONITORIZAÇÃO DOS IMPACTOS DA POLUIÇÃO ATMOSFÉRICA REFERIDOS NO ARTIGO 9.º
+    - Adita ANEXO VI
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Adita Declaração da Comissão sobre a revisão das emissões de metano
 identifiers:
   celex: 32016L2284
   eli: http://data.europa.eu/eli/dir/2016/2284/oj
@@ -50,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f002acef-c425-11e6-a6db-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a497de10-d019-11ee-b9d9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L2284-20240206
-  retrieved_at: '2026-10-22T02:40:53Z'
+  retrieved_at: '2026-10-22T16:50:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T20:49:22.423+01:00'
 integrity:
@@ -59,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:53Z'
-  notes: Texto consolidado 02016L2284-20240206.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:50:12Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2016-2284.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -218,29 +265,19 @@ relationships:
   source: null
 article_structure:
   article_count: 23
-  section_count: 25
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:53Z'
+  checked_at: '2026-10-22T16:50:12Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/2284 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016
-
-> 02016L2284 — PT — 06.02.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L0299) — [DIRETIVA DELEGADA (UE) 2024/299 DA COMISSÃO de 27 de outubro de 2023](http://publications.europa.eu/resource/celex/32024L0299) — L — 1 — 17.1.2024
-
-## DIRETIVA (UE) 2016/2284 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de dezembro de 2016
 

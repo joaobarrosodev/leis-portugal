@@ -38,6 +38,65 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-18'
+version_history:
+  file: regulamento-ue-2017-1185.versoes.json
+  count: 5
+  source_lastmod: '2024-12-18'
+  versions:
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-20'
+    amending: eu:celex:32022R0791:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/791 DA COMISSÃO de 19 de maio de 2022
+    changes:
+    - Altera Artigo 5.º — Notificação por defeito
+    - Altera a) Preços dos produtos destinados ao mercado dos produtos frescos
+    - Altera Notas
+  - date: '2022-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera a) Preços dos produtos destinados ao mercado dos produtos frescos
+    - Altera Notas
+    - Adita 1-A. Arroz
+    - Adita 1-B. Cereais
+    - Adita 1-C. Sementes de oleaginosas
+    - Adita 1-D. Sementes certificadas
+    - Suprime 1. Arroz
+  - date: '2024-09-18'
+    amending: eu:celex:32024R2391:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2391 DA COMISSÃO de 10 de setembro de 2024
+    changes:
+    - Altera Artigo 4.º — Proteção dos dados pessoais
+    - Altera Definição de preços e quantidades
+    - Altera a) Preços dos produtos destinados ao mercado dos produtos frescos
+    - Altera Notas
+  - date: '2024-12-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Preços de compra
+    - Altera 6. Vinho
+    - Altera b) Produtos lácteos
+    - Altera 1-A. Arroz
+    - Altera 1-D. Sementes certificadas
+    - Altera D. Existências de açúcar e de isoglicose
+    - Altera 3. Plantas têxteis
+    - Altera 7. Produtos do setor vitivinícola
+    - Altera Notas
+    - Adita 5. Frutas e produtos hortícolas, bananas e batata
+    - Adita 8. Frutas e produtos hortícolas, bananas e batata
+    - Suprime 5. Frutos e produtos hortícolas; bananas
+    - Suprime a) Preços dos produtos destinados ao mercado dos produtos frescos
+    - Suprime b) Preços das bananas
+    - Suprime c) Preços no produtor
+    - Suprime d) Preços de compra
+    - Suprime 4. Fibras de cânhamo
+    - Suprime 8. Frutos e produtos hortícolas; banana
+    - Suprime a) Preços dos frutos e produtos hortícolas biológicos frescos
+    - Suprime b) Preços da banana verde
 identifiers:
   celex: 32017R1185
   eli: http://data.europa.eu/eli/reg_impl/2017/1185/oj
@@ -52,7 +111,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a321f718-607d-11e7-954d-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/c36286e9-f397-11ef-b7db-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1185-20241218
-  retrieved_at: '2026-10-22T03:18:28Z'
+  retrieved_at: '2026-10-22T17:01:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T06:21:40.916+01:00'
 integrity:
@@ -61,9 +120,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:28Z'
-  notes: Texto consolidado 02017R1185-20241218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:01:57Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-1185.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -304,31 +363,20 @@ relationships:
   date: '2011-12-12'
 article_structure:
   article_count: 17
-  section_count: 64
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 66
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:28Z'
-  warnings: []
+  checked_at: '2026-10-22T17:01:57Z'
+  warnings:
+  - '02017R1185-20170704: versão indisponível (Sem expressão na língua por para CELEX 02017R1185-20170704.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2017/1185 da Comissão, de 20 de abril de 2017
-
-> 02017R1185 — PT — 18.12.2024 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1746) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1746 DA COMISSÃO de 1 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1746) — L 268 — 6 — 22.10.2019
-- [►M2](http://publications.europa.eu/resource/celex/32022R0791) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/791 DA COMISSÃO de 19 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0791) — L 141 — 15 — 20.5.2022
-- [►M3](http://publications.europa.eu/resource/celex/32024R2391) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2391 DA COMISSÃO de 10 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2391) — L 2391 — 1 — 11.9.2024
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2017/1185 DA COMISSÃO
 
 de 20 de abril de 2017
 

@@ -35,6 +35,116 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-12'
+version_history:
+  file: regulamento-ue-2016-399.versoes.json
+  count: 3
+  source_lastmod: '2025-10-12'
+  versions:
+  - date: '2016-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-10'
+    amending: eu:celex:32016R1624:por
+    amending_title: REGULAMENTO (UE) 2016/1624 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016; REGULAMENTO
+      (UE) 2017/458 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017; REGULAMENTO (UE) 2017/2225 DO PARLAMENTO EUROPEU
+      E DO CONSELHO de 30 de novembro de 2017; REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio
+      de 2019; REGULAMENTO (UE) 2021/1134 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021; REGULAMENTO (UE) 2024/1717
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Passagem das fronteiras externas
+    - Altera Artigo 6.º — Condições de entrada para os nacionais de países terceiros
+    - Altera Artigo 8.º — Controlos de fronteira sobre as pessoas
+    - Altera Artigo 9.º — Simplificação dos controlos de fronteira
+    - Altera Artigo 10.º — Criação de corredores separados e sinalização
+    - Altera Artigo 11.º — Aposição de carimbo nos documentos de viagem
+    - Altera Artigo 14.º — Recusa de entrada
+    - Altera Artigo 20.º — Regras específicas de controlo para determinadas categorias de pessoas
+    - Altera Artigo 24.º — Supressão de obstáculos ao tráfego nos pontos de passagem rodoviários de fronteiras internas
+    - Altera Artigo 29.º — Procedimento específico em circunstâncias excecionais que ponham em risco o funcionamento global
+      do espaço sem controlos nas fronteiras internas
+    - Altera Artigo 30.º — Critérios para a reintrodução temporária do controlo nas fronteiras internas em circunstâncias
+      excecionais que ponham em risco o funcionamento global do espaço sem controlos nas fronteiras internas
+    - Altera Artigo 39.º — Notificações
+    - Altera Artigo 41.º — Ceuta e Melilha
+    - Altera Artigo 45.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 6.º-A — Nacionais de países terceiros cujos dados devem ser introduzidos no SES
+    - Adita Artigo 8.º-A — Utilização de sistemas de self-service para o pré-registo de dados no SES
+    - Adita Artigo 8.º-B — Utilização de sistemas de self-service e de cancelas eletrónicas para a passagem das fronteiras
+      pelas pessoas cuja passagem está sujeita a registo no SES
+    - Adita Artigo 8.º-C — Normas aplicáveis aos sistemas automatizados de controlo nas fronteiras
+    - Adita Artigo 8.º-D — Programas nacionais de facilitação
+    - Adita Artigo 12.º — Presunção quanto ao cumprimento das condições de duração da estada de curta duração
+    - Adita Artigo 12.º-A — Período transitório e medidas transitórias
+    - Adita Artigo 13.º
+    - Adita Medidas específicas relativas às fronteiras externas
+    - Adita Artigo 21.º-A
+    - Adita Artigo 23.º
+    - Adita Artigo 23.º-A
+    - Adita Artigo 25.º
+    - Adita Artigo 25.º-A
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 27.º-A
+    - Adita Artigo 28.º
+    - Adita Artigo 33.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º-A
+    - Adita Artigo 42.º-A — Medidas transitórias para os Estados-Membros que ainda não executam o SES
+    - Adita Artigo 42.º-B
+  - date: '2025-10-12'
+    amending: eu:celex:32025D1544:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Passagem das fronteiras externas
+    - Altera Artigo 6.º — Condições de entrada para os nacionais de países terceiros
+    - Altera Artigo 6.º-A — Nacionais de países terceiros cujos dados devem ser introduzidos no SES
+    - Altera Artigo 8.º — Controlos de fronteira sobre as pessoas
+    - Altera Artigo 12.º — Presunção quanto ao cumprimento das condições de duração da estada de curta duração
+    - Altera Artigo 14.º — Recusa de entrada
+    - Altera Artigo 29.º — Procedimento específico em circunstâncias excecionais que ponham em risco o funcionamento global
+      do espaço sem controlos nas fronteiras internas
+    - Altera Artigo 30.º — Critérios para a reintrodução temporária do controlo nas fronteiras internas em circunstâncias
+      excecionais que ponham em risco o funcionamento global do espaço sem controlos nas fronteiras internas
+    - Altera Artigo 41.º — Ceuta e Melilha
+    - Altera PARTE A
+    - Altera PARTE C
+    - Altera PARTE D
+    - Altera Procedimento de recusa de entrada na fronteira
+    - Altera Modelo de formulário de recusa de entrada na fronteira
+    - Altera 2. Fronteiras aéreas
+    - Altera 3. Fronteiras marítimas
+    - Altera ANEXO VIII
+    - Altera Notas
+    - Adita Artigo 13.º — Vigilância de fronteiras
+    - Adita Artigo 21.º-A — Restrições temporárias das viagens para a União
+    - Adita Artigo 23.º — Controlos no interior do território
+    - Adita Artigo 23.º-A — Procedimento de transferência de pessoas detidas nas zonas fronteiriças internas
+    - Adita Artigo 25.º — Quadro geral para a reintrodução temporária ou prorrogação do controlo fronteiriço nas fronteiras
+      internas
+    - Adita Artigo 25.º-A — Procedimento para os casos que exijam uma ação por acontecimentos imprevisíveis ou previsíveis
+    - Adita Artigo 26.º — Critérios para a reintrodução temporária e a prorrogação do controlo fronteiriço nas fronteiras
+      internas
+    - Adita Artigo 27.º — Notificação da reintrodução temporária ou da prorrogação do controlo fronteiriço nas fronteiras
+      internas e avaliação de riscos
+    - Adita Artigo 27.º-A — Consulta dos Estados-Membros e parecer da Comissão
+    - Adita Artigo 28.º — Mecanismo específico caso uma emergência de saúde pública em grande escala ponha em risco o funcionamento
+      global do espaço sem controlo nas fronteiras internas
+    - Adita Artigo 33.º — Relatório sobre a reintrodução do controlo fronteiriço nas fronteiras internas
+    - Adita Artigo 36.º — Alteração dos anexos
+    - Adita Artigo 37.º-A — Procedimento de urgência
+    - Adita Artigo 42.º-B — Notificação das regiões transfronteiriças
+    - Suprime Artigo 13.º
+    - Suprime Artigo 21.º-A
+    - Suprime Artigo 23.º
+    - Suprime Artigo 23.º-A
+    - Suprime Artigo 25.º
+    - Suprime Artigo 25.º-A
+    - Suprime Artigo 26.º
 identifiers:
   celex: 32016R0399
   eli: http://data.europa.eu/eli/reg/2016/399/oj
@@ -49,7 +159,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/42fba6c3-f0c5-11e5-8529-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ccb228a7-aa87-11f0-89c6-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0399-20251012
-  retrieved_at: '2026-10-22T02:37:22Z'
+  retrieved_at: '2026-10-22T16:51:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-05T08:55:19.894+01:00'
 integrity:
@@ -58,9 +168,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:22Z'
-  notes: Texto consolidado 02016R0399-20251012.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:51:05Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2016-399.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -445,39 +555,20 @@ relationships:
   date: '2013-11-06'
 article_structure:
   article_count: 58
-  section_count: 68
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 69
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:22Z'
-  warnings: []
+  checked_at: '2026-10-22T16:51:05Z'
+  warnings:
+  - '02016R0399-20161006: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho, de 9 de março de 2016
-
-> 02016R0399 — PT — 12.10.2025 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R1624) — [REGULAMENTO (UE) 2016/1624 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1624) — L 251 — 1 — 16.9.2016
-- [►M2](http://publications.europa.eu/resource/celex/32017R0458) — [REGULAMENTO (UE) 2017/458 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0458) — L 74 — 1 — 18.3.2017
-- [►M3](http://publications.europa.eu/resource/celex/32017R2225) — [REGULAMENTO (UE) 2017/2225 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2225) — L 327 — 1 — 9.12.2017
-- [M4](http://publications.europa.eu/resource/celex/32025D1544) — Alterado por: [DECISÃO DE EXECUÇÃO (UE) 2025/1544 DA COMISSÃO de 30 de julho de 2025](http://publications.europa.eu/resource/celex/32025D1544) — L 1544 — 1 — 31.7.2025
-- [►M5](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [►M6](http://publications.europa.eu/resource/celex/32021R1134) — [REGULAMENTO (UE) 2021/1134 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1134) — L 248 — 11 — 13.7.2021
-- [►M7](http://publications.europa.eu/resource/celex/32024R1717) — [REGULAMENTO (UE) 2024/1717 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1717) — L 1717 — 1 — 20.6.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R2225R%2801%29) — [Rectificação, JO L 312, 7.12.2018, p. 107 (2017/2225)](http://publications.europa.eu/resource/celex/32017R2225R%2801%29)
-
-## REGULAMENTO (UE) 2016/399 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de março de 2016
 

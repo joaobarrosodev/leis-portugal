@@ -39,6 +39,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-01'
+version_history:
+  file: regulamento-ue-2017-653.versoes.json
+  count: 4
+  source_lastmod: '2023-01-01'
+  versions:
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-14'
+    amending: eu:celex:32022R0975:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/975 DA COMISSÃO de 17 de março de 2022
+    changes:
+    - Altera Artigo 1.º — Secção de informação de caráter geral
+    - Altera Artigo 3.º — Secção «Quais são os riscos e qual poderá ser o meu retorno?»
+    - Altera Artigo 18.º — Disposição final
+    - Altera Avaliação do risco de mercado
+    - Altera Metodologia para a avaliação do risco de crédito
+    - Altera Lista de custos
+    - Altera Notas
+  - date: '2022-10-19'
+    amending: eu:celex:32022R1666:por
+    amending_title: M5
+    changes:
+    - Altera Artigo 1.º — Secção de informação de caráter geral
+    - Altera Artigo 3.º — Secção «Quais são os riscos e qual poderá ser o meu retorno?»
+    - Altera Avaliação do risco de mercado
+    - Altera Metodologia para a avaliação do risco de crédito
+    - Altera Lista de custos
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Secção de informação de caráter geral
+    - Altera Artigo 2.º — Secção «Em que consiste este produto?»
+    - Altera Artigo 3.º — Secção «Quais são os riscos e qual poderá ser o meu retorno?»
+    - Altera Artigo 5.º — Secção «Quais são os custos?»
+    - Altera Artigo 8.º — Secção «Outras informações relevantes»
+    - Altera Artigo 10.º — PRIIP que oferecem uma gama de opções de investimento
+    - Altera Artigo 11.º — Secção «Em que consiste este produto?» do documento de informação fundamental de caráter genérico
+    - Altera Artigo 12.º — Secção «Quais são os riscos e qual poderá ser o meu retorno?» do documento de informação fundamental
+      de caráter genérico
+    - Altera Artigo 14.º — Informações específicas relativas a cada opção de investimento subjacente
+    - Altera Artigo 15.º — Reexame
+    - Altera MODELO PARA O DOCUMENTO DE INFORMAÇÃO FUNDAMENTAL
+    - Altera Avaliação do risco de mercado
+    - Altera Metodologia para a avaliação do risco de crédito
+    - Altera Agregação do risco de mercado e do risco de crédito no indicador sumário de risco
+    - Altera Orientações para o preenchimento do SRI
+    - Altera Número de cenários
+    - Altera Requisitos gerais
+    - Altera Especificações gerais da apresentação
+    - Altera Lista de custos
+    - Altera Indicadores sumários de custos e efeito combinado dos custos
+    - Altera APRESENTAÇÃO DOS CUSTOS
+    - Altera Notas
+    - Adita DISPOSIÇÕES ESPECÍFICAS SOBRE OS DOCUMENTOS DE INFORMAÇÃO FUNDAMENTAL RELATIVAMENTE A PRIIP QUE OFERECEM UMA GAMA
+      DE OPÇÕES DE INVESTIMENTO
+    - Adita Artigo 13.º — Secção “Quais são os custos?” do documento de informação fundamental de caráter genérico
+    - Adita CAPÍTULO II-A
+    - Adita DISPOSIÇÕES ESPECÍFICAS SOBRE OS DOCUMENTOS DE INFORMAÇÃO FUNDAMENTAL RELATIVAMENTE A DETERMINADOS OICVM E FIA
+    - Adita Artigo 14.º-A — Compartimentos de investimento de OICVM ou FIA
+    - Adita Artigo 14.º-B — Categorias de ações de OICVM ou de FIA
+    - Adita Artigo 14.º-C — OICVM ou FIA como fundo de fundos
+    - Adita Artigo 14.º-D — OICVM de alimentação
+    - Adita Artigo 14.º-E — OICVM ou FIA estruturados
+    - Adita CAPÍTULO IV-A
+    - Adita REFERÊNCIAS CRUZADAS
+    - Adita Artigo 17.º-A — Utilização de referências cruzadas para outras fontes de informação
+    - Adita Cálculo dos valores dos cenários desfavorável, moderado e favorável para o período de detenção recomendado para
+      os PRIIP da Categoria 2
+    - 'Adita Caso 1: PRIIP referidos no ponto 1 do anexo VIII com dados históricos suficientes'
+    - 'Adita Caso 2: PRIIP referidos no ponto 1 do anexo VIII sem dados históricos suficientes e com a possibilidade de utilizar
+      um índice de referência'
+    - 'Adita Caso 3: PRIIP referidos no ponto 1 do anexo VIII sem dados históricos suficientes e sem índice de referência,
+      ou com um índice de referência sem dados históricos suficientes, ou qualquer outro PRIIP da Categoria 2'
+    - 'Adita Casos 2 e 3: Utilização de índices de referência ou indicadores de substituição adequados'
+    - Adita Cálculo do cenário de stress para PRIIP da Categoria 2
 identifiers:
   celex: 32017R0653
   eli: http://data.europa.eu/eli/reg_del/2017/653/oj
@@ -53,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/44e07416-1f73-11e7-84e2-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/ca54fe70-97f6-11ed-b508-01aa75ed71a1.0019.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0653-20230101
-  retrieved_at: '2026-10-22T03:18:23Z'
+  retrieved_at: '2026-10-22T16:58:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T13:11:23.311+01:00'
 integrity:
@@ -62,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:23Z'
-  notes: Texto consolidado 02017R0653-20230101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:58:14Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2017-653.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,44 +264,22 @@ relationships:
   date: '2024-06-10'
 article_structure:
   article_count: 24
-  section_count: 84
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 85
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:23Z'
-  warnings: []
+  checked_at: '2026-10-22T16:58:14Z'
+  warnings:
+  - '02017R0653-20170412: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02017R0653-20180801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02017R0653-20191128: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2017/653 da Comissão, de 8 de março de 2017
-
-> 02017R0653 — PT — 01.01.2023 — 006.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32018R0977) — [REGULAMENTO DELEGADO (UE) 2018/977 DA COMISSÃO de 4 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0977) — L 176 — 1 — 12.7.2018
-- [M2](http://publications.europa.eu/resource/celex/32019R1866) — [REGULAMENTO DELEGADO (UE) 2019/1866 DA COMISSÃO de 3 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1866) — L 289 — 4 — 8.11.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R2268) — [REGULAMENTO DELEGADO (UE) 2021/2268 DA COMISSÃO de 6 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R2268) — L 455I — 1 — 20.12.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R0975) — Alterado por: [REGULAMENTO DELEGADO (UE) 2022/975 DA COMISSÃO de 17 de março de 2022](http://publications.europa.eu/resource/celex/32022R0975) — L 167 — 35 — 24.6.2022
-- [►M5](http://publications.europa.eu/resource/celex/32022R0975) — [REGULAMENTO DELEGADO (UE) 2022/975 DA COMISSÃO de 17 de março de 2022](http://publications.europa.eu/resource/celex/32022R0975) — L 167 — 35 — 24.6.2022
-- [M6](http://publications.europa.eu/resource/celex/32022R1666) — [REGULAMENTO DELEGADO (UE) 2022/1666 DA COMISSÃO de 13 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1666) — L 251 — 3 — 29.9.2022
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32017R0653R%2801%29) — [Rectificação, JO L 120, 11.5.2017, p. 31 (2017/653)](http://publications.europa.eu/resource/celex/32017R0653R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32017R0653R%2803%29) — [Rectificação, JO L 210, 15.8.2017, p. 16 (2017/653)](http://publications.europa.eu/resource/celex/32017R0653R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32017R0653R%2804%29) — [Rectificação, JO L 264, 13.10.2017, p. 25 (2017/653)](http://publications.europa.eu/resource/celex/32017R0653R%2804%29)
-- [C4](http://publications.europa.eu/resource/celex/32021R2268R%2801%29) — [Rectificação, JO L 029, 10.2.2022, p. 46 (2021/2268)](http://publications.europa.eu/resource/celex/32021R2268R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32021R2268R%2802%29) — [Rectificação, JO L 115, 13.4.2022, p. 187 (2021/2268)](http://publications.europa.eu/resource/celex/32021R2268R%2802%29)
-- [C6](http://publications.europa.eu/resource/celex/32021R2268R%2805%29) — [Rectificação, JO L 010, 12.1.2023, p. 111 (2021/2268)](http://publications.europa.eu/resource/celex/32021R2268R%2805%29)
-- [►C7](http://publications.europa.eu/resource/celex/32021R2268R%2806%29) — [Rectificação, JO L 077, 16.3.2023, p. 18 ((UE) 2021/2268)](http://publications.europa.eu/resource/celex/32021R2268R%2806%29)
-
-## REGULAMENTO DELEGADO (UE) 2017/653 DA COMISSÃO
 
 de 8 de março de 2017
 

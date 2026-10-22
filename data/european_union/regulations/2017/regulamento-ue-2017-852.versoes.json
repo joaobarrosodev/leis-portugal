@@ -1,0 +1,1103 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R0852:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0852-20260320",
+ "dre_path": null,
+ "source_lastmod": "2026-03-20",
+ "versions": [
+  {
+   "date": "2017-05-24",
+   "future": false,
+   "celex": "32017R0852",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00d055b81f5c8a8d",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "30e9059f274bdbfd",
+    "ec4a16fe8a51c418",
+    "f0f8c960bfdbce9b",
+    "38389d339ca71ce8",
+    "a5d7279d90b88092",
+    "76a1893acb95fae0",
+    "f54bdc28682e752c",
+    "db78892a044fd7e9",
+    "1e7a0903d2eed348",
+    "f8f1ebdd08ea89a9",
+    "cc987e37e5627e27",
+    "d55d7c96c01ded12",
+    "2ada504ee461b8ea",
+    "4f755011f5849959",
+    "1ecfc79da3f1ac7f",
+    "d836481cf7649c0a",
+    "84fdd10c992c669b",
+    "b4baf187d50e8b89",
+    "c804945c23230c86",
+    "ce0344906fd50218",
+    "5f4062553fec2211",
+    "40ed6b62e188ac6f",
+    "0a0cc123380ac3d7",
+    "f04cf5c8e94ade4d",
+    "708abadd66952afc",
+    "060eaf67d49532b6",
+    "d0f0873b3533ee27",
+    "b76d202a844f758e",
+    "0e9213c9a78c2600",
+    "7f59e8ce8159e912",
+    "30726280f99e4c4e",
+    "c84a1cf1e7466976",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c2d27c63e244f6e5",
+    "03ca38fae2a06aa6",
+    "5a269c16c265bf1b"
+   ]
+  },
+  {
+   "date": "2022-12-25",
+   "future": false,
+   "celex": "02017R0852-20221225",
+   "acts": [
+    {
+     "id": "eu:celex:32022R2526:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2022/2526 DA COMISSÃO de 23 de setembro de 2022",
+     "published": null,
+     "celex": "32022R2526"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 7.º — Atividades industriais",
+    "Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+    "Altera Artigo 12.º — Prestação de informações sobre fontes importantes",
+    "Altera Artigo 13.º — Armazenagem de resíduos de mercúrio",
+    "Altera Artigo 14.º — Rastreabilidade",
+    "Altera Artigo 18.º — Relatório",
+    "Altera Artigo 24.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Compostos de mercúrio abrangidos pelo artigo 3.º, n.^os^ 2 e 3, e pelo artigo 7.º, n.º 3, e misturas de mercúrio abrangidas pelo artigo 3.º, n.º 2, pelo artigo 4.º, n.º 1, e pelo artigo 7.º, n.º 3",
+    "Adita ANEXO II",
+    "Adita Produtos com mercúrio adicionado referidos no artigo 5.º",
+    "Adita Parte A — Produtos com mercúrio adicionado",
+    "Adita Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+    "Adita ANEXO III",
+    "Adita Requisitos relacionados com o mercúrio aplicáveis aos processos de fabrico referidos no artigo 7.º, n.^os^ 1 e 2",
+    "Adita Parte I: Proibição da utilização de mercúrio e de compostos de mercúrio, sob a forma pura ou de misturas, nos processos de fabrico",
+    "Adita Parte II: Processos de fabrico sujeitos a restrições de utilização e libertação de mercúrio e compostos de mercúrio",
+    "Adita ANEXO IV",
+    "Adita Teor do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala referido no artigo 9.º",
+    "Adita ANEXO V",
+    "Adita Tabela de correspondência"
+   ],
+   "fragments": [
+    "eabed10b8da520f5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "30e9059f274bdbfd",
+    "e39012463600d223",
+    "f0f8c960bfdbce9b",
+    "38389d339ca71ce8",
+    "a5d7279d90b88092",
+    "76a1893acb95fae0",
+    "cc0ca4d93b429de7",
+    "db78892a044fd7e9",
+    "1e7a0903d2eed348",
+    "f8f1ebdd08ea89a9",
+    "6be1c2d9da68cd76",
+    "fcd15f7a9e7799d1",
+    "2ada504ee461b8ea",
+    "4f755011f5849959",
+    "1ecfc79da3f1ac7f",
+    "d836481cf7649c0a",
+    "84fdd10c992c669b",
+    "60d6ec7c46c754db",
+    "755b5e89d3f0fa46",
+    "1777a322b408f78e",
+    "5f4062553fec2211",
+    "40ed6b62e188ac6f",
+    "0a0cc123380ac3d7",
+    "f04cf5c8e94ade4d",
+    "708abadd66952afc",
+    "47b11de8fb27a0df",
+    "1d4fecfb1ffdb54d",
+    "b76d202a844f758e",
+    "0e9213c9a78c2600",
+    "7f59e8ce8159e912",
+    "30726280f99e4c4e",
+    "c84a1cf1e7466976",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c2d27c63e244f6e5",
+    "f0d5d509f1a65db5",
+    "d664376e2a8dcecd",
+    "7697d9c178dff83c",
+    "852174729551523b",
+    "578222634cc99b9f",
+    "a378ab7d42d6e772",
+    "f60918d92655c533",
+    "720af75c92791b10",
+    "0ac86e67a45edeb0",
+    "d6690f98f789c4f2",
+    "61f19b1beb6dc863",
+    "e03a0eb4d5b2eef3",
+    "9b16def4d28fd308",
+    "64610ae29a6cb67c",
+    "62de9efa365cc41e",
+    "2aa2c7317120e6b5"
+   ]
+  },
+  {
+   "date": "2023-10-16",
+   "future": false,
+   "celex": "02017R0852-20231016",
+   "acts": [
+    {
+     "id": "eu:celex:32023R2049:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2023/2049 DA COMISSÃO de 14 de julho de 2023",
+     "published": null,
+     "celex": "32023R2049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º — Atividades industriais",
+    "Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+    "Altera Artigo 12.º — Prestação de informações sobre fontes importantes",
+    "Altera Artigo 18.º — Relatório",
+    "Altera Parte A — Produtos com mercúrio adicionado",
+    "Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "eabed10b8da520f5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "30e9059f274bdbfd",
+    "e39012463600d223",
+    "f0f8c960bfdbce9b",
+    "38389d339ca71ce8",
+    "a5d7279d90b88092",
+    "76a1893acb95fae0",
+    "cc0ca4d93b429de7",
+    "db78892a044fd7e9",
+    "1e7a0903d2eed348",
+    "f8f1ebdd08ea89a9",
+    "2ba5030b95689b94",
+    "e77da2c3ec48bb93",
+    "2ada504ee461b8ea",
+    "4f755011f5849959",
+    "1ecfc79da3f1ac7f",
+    "d836481cf7649c0a",
+    "84fdd10c992c669b",
+    "20f48110aeed54b3",
+    "755b5e89d3f0fa46",
+    "1777a322b408f78e",
+    "5f4062553fec2211",
+    "40ed6b62e188ac6f",
+    "0a0cc123380ac3d7",
+    "f04cf5c8e94ade4d",
+    "708abadd66952afc",
+    "5c667b301db91123",
+    "1d4fecfb1ffdb54d",
+    "b76d202a844f758e",
+    "0e9213c9a78c2600",
+    "7f59e8ce8159e912",
+    "30726280f99e4c4e",
+    "c84a1cf1e7466976",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c2d27c63e244f6e5",
+    "f0d5d509f1a65db5",
+    "d664376e2a8dcecd",
+    "7697d9c178dff83c",
+    "852174729551523b",
+    "578222634cc99b9f",
+    "ecb46883fe05c654",
+    "2a92db2ebd1a4b47",
+    "720af75c92791b10",
+    "0ac86e67a45edeb0",
+    "d6690f98f789c4f2",
+    "61f19b1beb6dc863",
+    "e03a0eb4d5b2eef3",
+    "9b16def4d28fd308",
+    "64610ae29a6cb67c",
+    "62de9efa365cc41e",
+    "84d51a6b8e93696c"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "celex": "02017R0852-20240730",
+   "acts": [
+    {
+     "id": "eu:celex:32024R1849:por",
+     "title": "REGULAMENTO (UE) 2024/1849 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024",
+     "published": null,
+     "celex": "32024R1849"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º — Atividades industriais",
+    "Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+    "Altera Artigo 10.º — Amálgama dentária",
+    "Altera Artigo 12.º — Prestação de informações sobre fontes importantes",
+    "Altera Artigo 18.º — Relatório",
+    "Altera Artigo 19.º — Revisão",
+    "Altera Parte A — Produtos com mercúrio adicionado",
+    "Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "eabed10b8da520f5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "30e9059f274bdbfd",
+    "e39012463600d223",
+    "f0f8c960bfdbce9b",
+    "38389d339ca71ce8",
+    "a5d7279d90b88092",
+    "76a1893acb95fae0",
+    "cc0ca4d93b429de7",
+    "db78892a044fd7e9",
+    "1e7a0903d2eed348",
+    "f8f1ebdd08ea89a9",
+    "01654deccfbe02f5",
+    "b44a0166df5a949e",
+    "2ada504ee461b8ea",
+    "7f1984f0a13429ad",
+    "1ecfc79da3f1ac7f",
+    "d836481cf7649c0a",
+    "84fdd10c992c669b",
+    "c5e6d966bff433a9",
+    "755b5e89d3f0fa46",
+    "1777a322b408f78e",
+    "5f4062553fec2211",
+    "40ed6b62e188ac6f",
+    "0a0cc123380ac3d7",
+    "f04cf5c8e94ade4d",
+    "708abadd66952afc",
+    "95244ef3d39442a6",
+    "1d54640aa1a91e25",
+    "b76d202a844f758e",
+    "0e9213c9a78c2600",
+    "7f59e8ce8159e912",
+    "30726280f99e4c4e",
+    "c84a1cf1e7466976",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c2d27c63e244f6e5",
+    "f0d5d509f1a65db5",
+    "d664376e2a8dcecd",
+    "7697d9c178dff83c",
+    "852174729551523b",
+    "578222634cc99b9f",
+    "4eff772fa7a4b8f4",
+    "10c475054d607fab",
+    "720af75c92791b10",
+    "0ac86e67a45edeb0",
+    "d6690f98f789c4f2",
+    "61f19b1beb6dc863",
+    "e03a0eb4d5b2eef3",
+    "9b16def4d28fd308",
+    "64610ae29a6cb67c",
+    "62de9efa365cc41e",
+    "29f44a946781cc57"
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "future": false,
+   "celex": "02017R0852-20260320",
+   "acts": [
+    {
+     "id": "eu:celex:32026R0055:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2026/55 DA COMISSÃO de 17 de dezembro de 2025",
+     "published": null,
+     "celex": "32026R0055"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º — Atividades industriais",
+    "Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+    "Altera Artigo 12.º — Prestação de informações sobre fontes importantes",
+    "Altera Artigo 18.º — Relatório",
+    "Altera Parte A — Produtos com mercúrio adicionado",
+    "Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "eabed10b8da520f5",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "30e9059f274bdbfd",
+    "e39012463600d223",
+    "f0f8c960bfdbce9b",
+    "38389d339ca71ce8",
+    "a5d7279d90b88092",
+    "76a1893acb95fae0",
+    "cc0ca4d93b429de7",
+    "db78892a044fd7e9",
+    "1e7a0903d2eed348",
+    "f8f1ebdd08ea89a9",
+    "668c4fe883428d13",
+    "a5a29c9e1a995150",
+    "2ada504ee461b8ea",
+    "7f1984f0a13429ad",
+    "1ecfc79da3f1ac7f",
+    "d836481cf7649c0a",
+    "84fdd10c992c669b",
+    "2bf44d315bb53698",
+    "755b5e89d3f0fa46",
+    "1777a322b408f78e",
+    "5f4062553fec2211",
+    "40ed6b62e188ac6f",
+    "0a0cc123380ac3d7",
+    "f04cf5c8e94ade4d",
+    "708abadd66952afc",
+    "cba2535bac5c1ee7",
+    "1d54640aa1a91e25",
+    "b76d202a844f758e",
+    "0e9213c9a78c2600",
+    "7f59e8ce8159e912",
+    "30726280f99e4c4e",
+    "c84a1cf1e7466976",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "c2d27c63e244f6e5",
+    "f0d5d509f1a65db5",
+    "d664376e2a8dcecd",
+    "7697d9c178dff83c",
+    "852174729551523b",
+    "578222634cc99b9f",
+    "7449415c64c014d7",
+    "60206138f07225f5",
+    "720af75c92791b10",
+    "0ac86e67a45edeb0",
+    "d6690f98f789c4f2",
+    "61f19b1beb6dc863",
+    "e03a0eb4d5b2eef3",
+    "9b16def4d28fd308",
+    "64610ae29a6cb67c",
+    "62de9efa365cc41e",
+    "5ee37218dccf747f"
+   ]
+  }
+ ],
+ "fragments": {
+  "00d055b81f5c8a8d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de maio de 2017\n\nrelativo ao mercúrio e que revoga o Regulamento (CE) n.º 1102/2008\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.º, n.º 1,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr1-L_2017137PT.01000101-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr2-L_2017137PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) O mercúrio é uma substância muito tóxica que representa uma ameaça grave, a nível mundial, para a saúde humana, nomeadamente sob a forma de metilmercúrio presente no peixe, nos mariscos, nos ecossistemas e na vida selvagem. Devido à natureza transfronteiriça da poluição pelo mercúrio, entre 40 % e 80 % do total da deposição de mercúrio na União tem origem no exterior da União. Justifica-se, por isso, uma ação a nível local, regional, nacional e internacional.\n\n(2) A maioria das emissões de mercúrio e dos riscos de exposição associados resultam de atividades antropogénicas como a mineração primária e a transformação de mercúrio, a utilização de mercúrio em produtos e em processos industriais, a mineração e transformação aurífera artesanal e em pequena escala, e a combustão de carvão e a gestão dos resíduos de mercúrio.\n\n(3) O Sétimo Programa de Ação em matéria de Ambiente, adotado pela Decisão n.º 1386/2013/UE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr3-L_2017137PT.01000101-E0003), fixa o objetivo a longo prazo de um ambiente não tóxico e estipula que, para esse fim, é necessário tomar medidas para assegurar a minimização dos efeitos adversos significativos dos produtos químicos para a saúde humana e para o ambiente até 2020.\n\n(4) A Comunicação da Comissão ao Parlamento Europeu e ao Conselho, de 28 de janeiro de 2005, intitulada «Estratégia Comunitária sobre o Mercúrio», revista em 7 de dezembro de 2010 (a seguir designada «Estratégia»), tem por objetivo minimizar e, se possível, eliminar, à escala mundial, as descargas antropogénicas de mercúrio para a atmosfera, a água e os solos.\n\n(5) Nos últimos 10 anos, registaram-se na União progressos significativos no domínio da gestão do mercúrio, na sequência da adoção da Estratégia e de uma vasta gama de medidas respeitantes às emissões, à oferta, à procura e à utilização de mercúrio, bem como à gestão dos excedentes e das existências de mercúrio.\n\n(6) A estratégia recomenda que a negociação e a celebração de um instrumento internacional juridicamente vinculativo relativo ao mercúrio sejam prioritárias, uma vez que a ação da União não pode, por si só, assegurar a proteção eficaz dos seus cidadãos contra os efeitos negativos do mercúrio para a saúde.\n\n(7) A União e 26 Estados-Membros assinaram a Convenção de Minamata sobre o Mercúrio de 2013 (a seguir designada «Convenção»). Os dois Estados-Membros que não assinaram a Convenção, Estónia e Portugal, manifestaram o seu empenho em ratificá-la. A União e todos os seus Estados-Membros comprometem-se, por conseguinte, a celebrar, transpor e aplicar a Convenção.\n\n(8) A rápida aprovação da Convenção pela União e a respetiva ratificação pelos Estados-Membros incentivarão os principais utilizadores e emissores de mercúrio a nível mundial que são signatários da Convenção a ratificá-la e aplicá-la.\n\n(9) O presente regulamento deverá complementar o acervo da União e estabelecer as disposições que sejam necessárias para assegurar o pleno alinhamento de tal acervo com a Convenção, a fim de permitir a sua aprovação ou ratificação respetivamente pela União e pelos seus Estados-Membros e a sua aplicação.\n\n(10) A adoção de outras medidas pela União, para além do exigido pela Convenção, abriria o caminho aos produtos e processos sem mercúrio, como foi o caso do Regulamento (CE) n.º 1102/2008 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr4-L_2017137PT.01000101-E0004).\n\n(11) Nos termos do artigo 193.º do Tratado sobre o Funcionamento da União Europeia (TFUE), o presente regulamento não obsta a que os Estados-Membros mantenham ou introduzam medidas de proteção mais rigorosas, desde que essas medidas sejam compatíveis com os Tratados e sejam notificadas à Comissão.\n\n(12) A proibição de exportação de mercúrio estabelecida no Regulamento (CE) n.º 1102/2008 deverá ser complementada por restrições à importação de mercúrio que variem consoante a origem, a utilização prevista e o local de origem deste. O Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr5-L_2017137PT.01000101-E0005) deverá continuar a ser aplicável às importações de resíduos de mercúrio, em particular no que respeita às competências das autoridades competentes ao abrigo desse regulamento.\n\n(13) As disposições do presente regulamento sobre a importação de mercúrio e de misturas de mercúrio destinam-se a assegurar o cumprimento pela União e pelos Estados-Membros das obrigações decorrentes da Convenção relativas ao comércio de mercúrio.\n\n(14) Deverá proibir-se a exportação, a importação e o fabrico de uma série de produtos com mercúrio adicionado que representem uma quota significativa da utilização de mercúrio e de compostos de mercúrio na União e a nível mundial.\n\n(15) O presente regulamento deverá ser aplicável sem prejuízo das disposições do acervo da União aplicáveis que estabeleçam requisitos mais rigorosos para os produtos com mercúrio adicionado, nomeadamente no que respeita ao teor máximo de mercúrio.\n\n(16) A utilização do mercúrio e de misturas de mercúrio nos processos de fabrico deverá ser gradualmente eliminada e, para o efeito, deverão ser dados incentivos para a investigação de substâncias alternativas ao mercúrio que sejam inócuas ou, em qualquer caso, menos perigosas para o ambiente e para a saúde humana.\n\n(17) O Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr6-L_2017137PT.01000101-E0006) proíbe, a partir de 10 de outubro de 2017, o fabrico, a colocação no mercado e a utilização dos cinco compostos de fenilmercúrio de utilização conhecida, nomeadamente como catalisadores, na produção de poliuretano. A utilização de outros catalisadores contendo mercúrio na produção de poliuretano também deverá ser proibida a partir de 1 de janeiro de 2018.\n\n(18) A produção de alcoolatos que implique a utilização de mercúrio como elétrodo deverá ser gradualmente eliminada e tais processos de fabrico deverão ser substituídos o mais rapidamente possível por processos de fabrico viáveis sem mercúrio. Na ausência de processos de fabrico adequados sem mercúrio, importa estabelecer condições operacionais para a produção de metóxido ou etóxido de sódio ou de potássio que impliquem a utilização de mercúrio. Deverão ser tomadas medidas para reduzir a utilização de mercúrio com vista a eliminar gradualmente a sua utilização nessa produção o mais rapidamente possível e, em todo o caso, antes de 1 de janeiro de 2028.\n\n(19) O fabrico e a colocação no mercado de novos produtos com mercúrio adicionado e a utilização de novos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio aumentaria a utilização de mercúrio e de compostos de mercúrio, bem como as emissões de mercúrio na União. Estas novas atividades deverão, por conseguinte, ser proibidas, salvo se uma avaliação demonstrar que os novos produtos com mercúrio adicionado ou os novos processos de fabrico proporcionariam benefícios significativos para o ambiente ou a saúde e não causariam riscos significativos para o ambiente e a saúde humana e que não existem produtos alternativos sem mercúrio tecnicamente viáveis que proporcionem tais benefícios.\n\n(20) A utilização de mercúrio e de compostos de mercúrio na mineração e transformação aurífera artesanal e em pequena escala representa uma quota significativa da utilização e das emissões de mercúrio a nível mundial, com efeitos negativos quer para as comunidades locais quer a nível global. Tal utilização de mercúrio e de compostos de mercúrio deverá, por conseguinte, ser proibida ao abrigo do presente regulamento e regulamentada a nível internacional. Sem prejuízo da proibição dessa utilização — e para além da aplicação de sanções efetivas, proporcionadas e dissuasivas pelos Estados-Membros em caso de violação do presente regulamento — também é conveniente prever um plano nacional no caso de haver mais do que alguns casos isolados de incumprimento dessa proibição, a fim de enfrentar o problema da mineração e transformação aurífera artesanal e em pequena escala, na qual se utiliza a amalgamação com mercúrio para extrair o ouro do minério.\n\n(21) A utilização de mercúrio em amálgama dentária constitui a maior utilização de mercúrio na União e uma fonte significativa de poluição. Por conseguinte, a utilização de amálgama dentária deverá ser progressivamente eliminada, nos termos da Convenção e dos planos nacionais baseados essencialmente nas medidas enumeradas no anexo A, parte II, da Convenção. A Comissão deverá avaliar e informar sobre a viabilidade duma supressão gradual da utilização de amálgama dentária a longo prazo, e de preferência até 2030, tendo em conta os planos nacionais exigidos pelo presente regulamento e respeitando simultaneamente a competência dos Estados-Membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos. Além disso, deverão ser tomadas medidas preventivas específicas de proteção da saúde em relação a elementos vulneráveis da população, como as crianças e as mulheres grávidas ou lactantes.\n\n(22) Apenas deverá ser autorizada a utilização de amálgama dentária na forma de cápsulas pré-doseadas e deverá ser obrigatória a utilização de separadores de amálgama em consultórios de medicina dentária que utilizem amálgama dentária ou que retirem restaurações dentárias com amálgama ou extraiam dentes contendo essas restaurações a fim de proteger os médicos dentistas e os doentes da exposição ao mercúrio, bem como para assegurar que os resíduos resultantes são recolhidos e eliminados de acordo com uma boa gestão de resíduos e que não são, de forma alguma, libertados para o ambiente. Neste contexto, deverá ser proibida a utilização de mercúrio a granel pelos médicos dentistas. As cápsulas de amálgama como as descritas nas normas europeias EN ISO 13897:2004 e EN ISO 24234:2015 são consideradas adequadas para utilização pelos médicos dentistas. Além disso, deverá ser fixado um nível mínimo de eficiência de retenção para os separadores de amálgama. A conformidade com os requisitos dos separadores de amálgama deverá basear-se em normas pertinentes, como a norma europeia EN ISO 11143:2008. Dada a dimensão dos operadores económicos do setor da medicina dentária afetados pela introdução destes requisitos, importa fixar um prazo suficiente para se adaptarem aos novos requisitos.\n\n(23) A formação de estudantes de medicina dentária e de médicos dentistas na utilização de alternativas sem mercúrio, em particular no caso de pessoas vulneráveis como as crianças e as mulheres grávidas ou lactantes, bem como a realização de investigação e a inovação no domínio da saúde oral, a fim de melhorar o conhecimento sobre os materiais e as técnicas de restauração existentes e desenvolver novos materiais, podem contribuir para reduzir a utilização de mercúrio.\n\n(24) Até ao final de 2017, terão sido geradas mais de 6 000 toneladas métricas de resíduos de mercúrio líquido na União, sobretudo em resultado do desmantelamento obrigatório de células de mercúrio na produção de cloro-álcalis, nos termos da Decisão de Execução 2013/732/UE da Comissão [([^7])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr7-L_2017137PT.01000101-E0007). Tendo em conta a limitada capacidade disponível de conversão dos resíduos de mercúrio líquido, a armazenagem temporária de resíduos de mercúrio líquido deverá ainda ser permitida ao abrigo do presente regulamento por um prazo suficiente a fim de assegurar a conversão e, se for caso disso, a solidificação de todos os resíduos gerados. A referida armazenagem deverá realizar-se nos termos dos requisitos estabelecidos na Diretiva 1999/31/CE [([^8])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr8-L_2017137PT.01000101-E0008) do Conselho.\n\n(25) Tendo em conta que o mercúrio em estado líquido é uma substância extremamente perigosa, a armazenagem permanente de resíduos de mercúrio sem tratamento prévio deverá ser proibida devido aos riscos associados a tal eliminação. Por conseguinte, os resíduos de mercúrio deverão ser objeto das operações de conversão adequadas e, se for o caso, de solidificação, antes da armazenagem permanente. Para o efeito, e a fim de reduzir os riscos associados, os Estados-Membros deverão ter em conta as orientações técnicas sobre o mercúrio da Convenção de Basileia sobre o controlo dos movimentos transfronteiriços de resíduos perigosos e sua eliminação.\n\n(26) A fim de assegurar a correta aplicação das disposições em matéria de resíduos do presente regulamento, deverão ser adotadas medidas com vista a assegurar um sistema eficaz de rastreabilidade ao longo de toda a cadeia de gestão dos resíduos de mercúrio, mediante as quais seja exigido aos produtores de resíduos de mercúrio e aos operadores de instalações de gestão de resíduos que armazenam e tratam esses resíduos que criem um registo de informação, como parte da manutenção de registos exigida por força da Diretiva 2008/98/CE do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr9-L_2017137PT.01000101-E0009).\n\n(27) A Convenção exige que as Partes se esforcem por desenvolver estratégias adequadas para a identificação e avaliação de locais contaminados por mercúrio ou por compostos de mercúrio. A Diretiva 2010/75/UE do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr10-L_2017137PT.01000101-E0010) exige que os operadores das instalações industriais combatam a contaminação do solo. Além disso, a Diretiva 2000/60/CE do Parlamento Europeu e do Conselho [([^11])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr11-L_2017137PT.01000101-E0011) obriga os Estados-Membros a combaterem a contaminação do solo caso esta afete o estado de uma massa de água. Por conseguinte, deverá haver um intercâmbio de informações entre a Comissão e os Estados-Membros para partilhar experiências sobre as iniciativas e medidas adotadas a nível nacional.\n\n(28) Com vista a refletir o atual conhecimento científico sobre os riscos associados ao metilmercúrio, a Comissão, quando proceder ao reexame do presente regulamento, deverá avaliar as doses consideradas não prejudiciais para a saúde naquele momento e estabelecer novos valores de referência do mercúrio não prejudiciais para a saúde.\n\n(29) A fim de harmonizar a legislação da União com as decisões da Conferência das Partes na Convenção aprovadas pela União através duma decisão do Conselho, adotada nos termos do artigo 218.º, n.º 9, do TFUE, o poder de adotar atos nos termos do artigo 290.º do TFUE deverá ser delegado na Comissão no que respeita à alteração dos anexos do presente regulamento e à prorrogação do prazo autorizado de armazenagem temporária dos resíduos de mercúrio. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive a nível de peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor [([^12])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr12-L_2017137PT.01000101-E0012). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Parlamento Europeu e o Conselho recebem todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratem da preparação dos atos delegados.\n\n(30) A fim de assegurar condições uniformes para a execução do presente regulamento no que respeita à especificação de formulários para importação e exportação, ao estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura de mercúrio, de compostos e de misturas de mercúrio, à proibição ou autorização de novos produtos com mercúrio adicionado e de novos processos de fabrico que utilizem mercúrio ou compostos de mercúrio e à especificação das obrigações em matéria de apresentação de relatórios, deverão ser atribuídas competências de execução à Comissão. Tais competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr13-L_2017137PT.01000101-E0013).\n\n(31) Os Estados-Membros deverão estabelecer regras relativas às sanções aplicáveis às violações do presente regulamento e garantir a aplicação dessas disposições. Essas sanções deverão ser efetivas, proporcionadas e dissuasivas.\n\n(32) Dada a natureza e a extensão das alterações que têm de ser feitas ao Regulamento (CE) n.º 1102/2008, e com vista a reforçar a segurança jurídica, a clareza, a transparência e a simplificação legislativa, importa revogar o referido regulamento.\n\n(33) A fim de permitir que as autoridades competentes dos Estados-Membros e os operadores económicos afetados pelo presente regulamento disponham de tempo suficiente para se adaptarem ao novo regime nele estabelecido, o presente regulamento deverá ser aplicável a partir de 1 de janeiro de 2018.\n\n(34) Atendendo a que o objetivo do presente regulamento, a saber, assegurar um elevado nível de proteção da saúde humana e do ambiente relativamente a emissões e descargas antropogénicas de mercúrio e de compostos de mercúrio, através, nomeadamente, da proibição da importação e da exportação de mercúrio e de produtos com mercúrio adicionado, de restrições à utilização de mercúrio em processos de fabrico, em produtos, na mineração e transformação aurífera artesanal e em pequena escala e em amálgama dentária, bem como através do estabelecimento de obrigações aplicáveis aos resíduos de mercúrio, não pode ser suficientemente alcançado pelos Estados-Membros, mas pode, devido à natureza transfronteiriça da poluição pelo mercúrio e a natureza das medidas a adotar, ser mais bem alcançado ao nível da União, a União pode adotar medidas nos termos do princípio da subsidiariedade, consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para alcançar aquele objetivo,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "30e9059f274bdbfd": {
+   "fragment_id": "Artigo 1.º — Objeto e objetivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e objetivos\n\nO presente regulamento estabelece medidas e condições relativas à utilização, à armazenagem e ao comércio de mercúrio, de compostos de mercúrio e de misturas de mercúrio, ao fabrico, à utilização e ao comércio de produtos com mercúrio adicionado, e à gestão dos resíduos de mercúrio, a fim de assegurar um elevado nível de proteção da saúde humana e do ambiente contra as emissões e as descargas antropogénicas de mercúrio e de compostos de mercúrio.\n\nSe adequado, os Estados-Membros podem aplicar requisitos mais rigorosos do que os estabelecidos no presente regulamento, nos termos do TFUE."
+  },
+  "ec4a16fe8a51c418": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Mercúrio», o mercúrio metálico (Hg, n.º CAS 7439-97-6);\n\n2) «Composto de mercúrio», uma substância constituída por átomos de mercúrio e por um ou mais átomos de outros elementos químicos, que apenas possa ser separada em diferentes componentes por meio de reações químicas;\n\n3) «Mistura», uma mistura ou solução composta por duas ou mais substâncias;\n\n4) «Produto com mercúrio adicionado», um produto ou componente de produto que contenha mercúrio ou um composto de mercúrio adicionado intencionalmente;\n\n5) «Resíduos de mercúrio», mercúrio metálico que preenche os requisitos para ser considerado resíduo, na aceção do artigo 3.º, ponto 1, da Diretiva 2008/98/CE;\n\n6) «Exportação», uma das seguintes operações: a) Exportação permanente ou temporária de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que satisfaçam as condições estabelecidas no artigo 28.º, n.º 2, do TFEU; b) Reexportação de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que não satisfaçam as condições estabelecidas artigo 28.º, n.º 2, do TFUE e sejam sujeitos a um procedimento aduaneiro distinto do regime de trânsito externo da União para a circulação de mercadorias que transitem pelo território aduaneiro da União;\n\na) Exportação permanente ou temporária de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que satisfaçam as condições estabelecidas no artigo 28.º, n.º 2, do TFEU;\n\nb) Reexportação de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que não satisfaçam as condições estabelecidas artigo 28.º, n.º 2, do TFUE e sejam sujeitos a um procedimento aduaneiro distinto do regime de trânsito externo da União para a circulação de mercadorias que transitem pelo território aduaneiro da União;\n\n7) «Importação», a introdução física, no território aduaneiro da União, de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado sujeitos a um regime aduaneiro distinto do regime de trânsito externo da União para a circulação de mercadorias que transitem pelo território aduaneiro da União;\n\n8) «Eliminação», a eliminação na aceção do artigo 3.º, ponto 19, da Diretiva 2008/98/CE;\n\n9) «Mineração primária de mercúrio», a extração mineira em que o mercúrio constitui o principal material procurado;\n\n10) «Conversão», a transformação química do estado físico do mercúrio a partir do estado líquido em sulfureto de mercúrio ou um composto químico comparável que seja tão ou mais estável e tão ou menos solúvel na água e que não constitua um perigo para o ambiente ou a saúde maior do que o sulfureto de mercúrio;\n\n11) «Colocação no mercado», o fornecimento ou a disponibilização a terceiros, mediante pagamento ou gratuitamente. A importação é considerada uma colocação no mercado."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "38389d339ca71ce8": {
+   "fragment_id": "RESTRIÇÕES AO COMÉRCIO E AO FABRICO DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO, DE MISTURAS DE MERCÚRIO E DE PRODUTOS COM MERCÚRIO ADICIONADO",
+   "type": "divisao",
+   "heading": "RESTRIÇÕES AO COMÉRCIO E AO FABRICO DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO, DE MISTURAS DE MERCÚRIO E DE PRODUTOS COM MERCÚRIO ADICIONADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESTRIÇÕES AO COMÉRCIO E AO FABRICO DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO, DE MISTURAS DE MERCÚRIO E DE PRODUTOS COM MERCÚRIO ADICIONADO"
+  },
+  "a5d7279d90b88092": {
+   "fragment_id": "Artigo 3.º — Restrições à exportação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Restrições à exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições à exportação\n\n1. É proibida a exportação do mercúrio.\n\n2. A exportação dos compostos de mercúrio e das misturas de mercúrio constantes do anexo I é proibida a partir das datas nele fixadas.\n\n3. Não obstante o disposto no n.º 2, é permitida a exportação dos compostos de mercúrio constantes do anexo I que se destinem a investigação à escala laboratorial ou a análise laboratorial.\n\n4. É proibida a exportação, para efeitos de recuperação do mercúrio, dos compostos de mercúrio e das misturas de mercúrio que não estejam sujeitos à proibição estabelecida no n.º 2."
+  },
+  "76a1893acb95fae0": {
+   "fragment_id": "Artigo 4.º — Restrições à importação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Restrições à importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Restrições à importação\n\n1. É proibida a importação de mercúrio e de misturas de mercúrio constantes do anexo I, incluindo os resíduos de mercúrio provenientes de qualquer das fontes importantes referidas no artigo 11.º, alíneas a) a d), para outros fins que não a eliminação como resíduos. A referida importação para eliminação como resíduos só pode ser permitida se o país de exportação não tiver acesso a capacidade de conversão disponível no seu próprio território.\n\nSem prejuízo do disposto no artigo 11.º, e não obstante o disposto no primeiro parágrafo do presente número, a importação de mercúrio e de misturas de mercúrio enumeradas no anexo I com vista a uma utilização autorizada num Estado-Membro é permitida se o Estado-Membro de importação tiver dado consentimento por escrito a essa importação em qualquer dos seguintes casos:\n\na) O país de exportação é Parte na Convenção e o mercúrio exportado não provém da mineração primária de mercúrio, que é proibida nos termos do artigo 3.º, n.^os^ 3 e 4, da Convenção; ou\n\nb) O país de exportação não é Parte na Convenção e certificou que o mercúrio não provém da mineração primária de mercúrio.\n\nSem prejuízo de quaisquer medidas nacionais adotadas nos termos do TFUE, uma utilização autorizada ao abrigo da legislação da União deve ser considerada uma utilização autorizada num Estado-Membro para efeitos do presente número.\n\n2. É proibida a importação, para efeitos de recuperação do mercúrio, das misturas de mercúrio não abrangidas pelo n.º 1 e de compostos de mercúrio.\n\n3. É proibida a importação de mercúrio para utilização na mineração e transformação aurífera artesanal e em pequena escala.\n\n4. Se a importação de resíduos de mercúrio for autorizada nos termos do presente artigo, o Regulamento (CE) n.º 1013/2006 continua a ser aplicável, para além dos requisitos do presente regulamento."
+  },
+  "f54bdc28682e752c": {
+   "fragment_id": "Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado\n\n1. Sem prejuízo de requisitos mais rigorosos previstos noutros atos legislativos da União aplicáveis, é proibida a exportação, a importação e o fabrico na União de produtos com mercúrio adicionado constantes do anexo II, a partir das datas nele fixadas.\n\n2. A proibição estabelecida no n.º 1 não se aplica aos seguintes produtos com mercúrio adicionado:\n\na) Produtos essenciais para fins de proteção civil e utilizações militares;\n\nb) Produtos para investigação, calibração de instrumentos ou utilização como padrões de referência."
+  },
+  "db78892a044fd7e9": {
+   "fragment_id": "Artigo 6.º — Formulários de importação e exportação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Formulários de importação e exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formulários de importação e exportação\n\nA Comissão adota, por meio de atos de execução, decisões através das quais se especifiquem os formulários a utilizar para efeitos da aplicação dos artigos 3.º e 4.º. Esses atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f8f1ebdd08ea89a9": {
+   "fragment_id": "RESTRIÇÕES À UTILIZAÇÃO E À ARMAZENAGEM DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO E DE MISTURAS DE MERCÚRIO",
+   "type": "divisao",
+   "heading": "RESTRIÇÕES À UTILIZAÇÃO E À ARMAZENAGEM DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO E DE MISTURAS DE MERCÚRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESTRIÇÕES À UTILIZAÇÃO E À ARMAZENAGEM DE MERCÚRIO, DE COMPOSTOS DE MERCÚRIO E DE MISTURAS DE MERCÚRIO"
+  },
+  "cc987e37e5627e27": {
+   "fragment_id": "Artigo 7.º — Atividades industriais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atividades industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atividades industriais\n\n1. É proibida a utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes do anexo III, parte I, a partir das datas nele fixadas.\n\n2. A utilização de mercúrio e de compostos de mercúrio em processos de fabrico constantes do anexo III, parte II, só pode ser autorizada se forem cumpridas as condições estabelecidas nesse anexo.\n\n3. A armazenagem provisória de mercúrio e de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do presente regulamento deve ser efetuada de forma ambientalmente segura, de acordo com os limiares e os requisitos estabelecidos na Diretiva 2012/18/UE do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr14-L_2017137PT.01000101-E0014) e na Diretiva 2010/75/UE.\n\nA fim de assegurar a aplicação uniforme da obrigação prevista no primeiro parágrafo do presente número, a Comissão pode adotar atos de execução, tendo em vista o estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura do mercúrio, dos compostos de mercúrio e das misturas de mercúrio, de acordo com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 10.º, n.º 3, e do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 22.º, n.º 2, do presente regulamento."
+  },
+  "d55d7c96c01ded12": {
+   "fragment_id": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1. Os operadores económicos não podem produzir ou colocar no mercado produtos com mercúrio adicionado que não eram fabricados antes de 1 de janeiro de 2018 (a seguir designados «novos produtos com mercúrio adicionado»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6 do presente artigo ou ao abrigo da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho [([^15])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr15-L_2017137PT.01000101-E0015).\n\nO primeiro parágrafo não é aplicável a:\n\na) Equipamentos necessários à defesa dos interesses essenciais de segurança dos Estados-Membros, nomeadamente as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nb) Equipamentos concebidos para serem enviados para o espaço;\n\nc) Melhorias técnicas ou a reformulação dos produtos com mercúrio adicionado já fabricados antes de 1 de janeiro de 2018, desde que tais melhorias ou reformulação conduzam a uma menor utilização de mercúrio nesses produtos.\n\n2. Os operadores económicos não podem utilizar processos de fabrico não utilizados antes de 1 de janeiro de 2018 que impliquem a utilização de mercúrio ou de compostos de mercúrio (a seguir designados «novos processos de fabrico»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6.\n\nO primeiro parágrafo do presente número não se aplica a processos que produzam ou utilizem produtos com mercúrio adicionado diversos dos sujeitos à proibição estabelecida no n.º 1.\n\n3. Se um operador económico pretender requerer uma decisão ao abrigo do n.º 6 para fabricar ou colocar no mercado um novo produto com mercúrio adicionado ou para utilizar um novo processo de fabrico que possa proporcionar benefícios significativos para o ambiente ou para a saúde, e que não apresente riscos significativos para o ambiente ou para a saúde humana, e na falta de alternativas sem mercúrio tecnicamente viáveis que proporcionem tais benefícios, esse operador económico notifica as autoridades competentes do Estado-Membro em causa. Essa notificação inclui os seguintes elementos:\n\na) Uma descrição técnica do produto ou processo em causa;\n\nb) Uma avaliação dos seus benefícios e riscos para o ambiente e para a saúde;\n\nc) Provas da inexistência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios significativos para o ambiente ou para a saúde;\n\nd) Uma explicação detalhada do modo como o processo deve ser aplicado ou o produto fabricado, utilizado e eliminado como resíduo após a utilização, a fim de garantir um elevado nível de proteção do ambiente e da saúde humana.\n\n4. O Estado-Membro em causa envia à Comissão a notificação recebida do operador económico se considerar, com base na sua própria avaliação das informações prestadas, que os critérios a que se refere o primeiro parágrafo do n.º 6 são cumpridos.\n\nO Estado-Membro em causa informa a Comissão dos casos em que considere que os critérios a que se refere o primeiro parágrafo do n.º 6 não foram cumpridos.\n\n5. No caso de o Estado-Membro transmitir uma notificação por força do n.º 4, primeiro parágrafo, do presente artigo, a Comissão transmite imediatamente a notificação ao comité referido no artigo 22.º, n.º 1.\n\n6. A Comissão examina a notificação recebida e verifica se foi demonstrado que o novo produto com mercúrio adicionado ou o novo processo de fabrico proporcionaria benefícios significativos para o ambiente ou para a saúde, e não causaria riscos significativos para o ambiente ou para a saúde humana, e que não existem produtos alternativos sem mercúrio, tecnicamente viáveis, que proporcionem tais benefícios.\n\nA Comissão informa os Estados-Membros acerca dos resultados da avaliação.\n\nA Comissão adota, por meio de atos de execução, decisões que especifiquem se os novos produtos com mercúrio adicionado ou os novos processos de fabrico são autorizados. Os referidos atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n7. Até 30 de junho de 2018, a Comissão disponibiliza publicamente na Internet um inventário dos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio utilizados antes de 1 de janeiro de 2018 e de produtos com mercúrio adicionado fabricados antes de 1 de janeiro de 2018 e de quaisquer restrições de comercialização aplicáveis."
+  },
+  "2ada504ee461b8ea": {
+   "fragment_id": "Artigo 9.º — Mineração e transformação aurífera artesanal e em pequena escala",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Mineração e transformação aurífera artesanal e em pequena escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mineração e transformação aurífera artesanal e em pequena escala\n\n1. É proibida a mineração e transformação aurífera artesanal e em pequena escala na qual se utilize a amalgamação com mercúrio para extrair o ouro do minério.\n\n2. Sem prejuízo do disposto no n.º 1 do presente artigo e no artigo 16.º, caso haja provas da existência de mais do que alguns casos isolados de incumprimento da proibição prevista no n.º 1 do presente artigo, a autoridade competente do Estado-Membro em causa elabora e aplica um plano nacional nos termos do anexo IV."
+  },
+  "4f755011f5849959": {
+   "fragment_id": "Artigo 10.º — Amálgama dentária",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Amálgama dentária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Amálgama dentária\n\n1. A partir de 1 de janeiro de 2019, a amálgama dentária só pode ser utilizada sob a forma de cápsulas pré-doseadas. É proibida a utilização de mercúrio a granel pelos médicos dentistas.\n\n2. A partir de 1 de julho de 2018, a amálgama dentária não pode ser utilizada para tratamentos dentários de dentes decíduos, de crianças menores de 15 anos e de mulheres grávidas ou lactantes, exceto quando for considerado estritamente necessário por um médico dentista com base nas necessidades médicas específicas do doente.\n\n3. Até 1 de julho de 2019, os Estados-Membros estabelecem um plano nacional sobre as medidas que tencionam aplicar para eliminar gradualmente a utilização de amálgama dentária.\n\nOs Estados-Membros disponibilizam ao público na Internet os seus planos nacionais e transmitem-nos à Comissão no prazo de um mês após a sua adoção.\n\n4. A partir de 1 de janeiro de 2019, os profissionais de saúde de consultórios de medicina dentária em que se utilize amálgama dentária ou se retirem restaurações dentárias com amálgama ou se extraiam dentes que contenham tais restaurações asseguram que os seus consultórios se encontram equipados com separadores de amálgama para a retenção e a recolha de partículas de amálgama, incluindo as contidas na água utilizada.\n\nTais profissionais de saúde asseguram que:\n\na) Os separadores de amálgama colocados em serviço a partir de 1 de janeiro de 2018 proporcionam um nível de retenção de, pelo menos, 95 % das partículas de amálgama;\n\nb) A partir de 1 de janeiro de 2021, todos os separadores de amálgama utilizados proporcionam o nível de retenção especificado na alínea a).\n\nOs separadores de amálgama são alvo de manutenção, de acordo com as instruções do fabricante, para assegurar o nível mais elevado possível de retenção.\n\n5. Presumem-se conformes com os requisitos estabelecidos nos n.^os^ 1 e 4 as cápsulas e os separadores de amálgama que cumpram normas europeias ou outras normas nacionais ou internacionais que proporcionem um nível equivalente de qualidade e de retenção.\n\n6. Os médicos dentistas asseguram que os resíduos de amálgama — incluindo resíduos de amálgama, partículas e restaurações e dentes ou partes deles — contaminados com amálgama dentária são tratados e recolhidos por um estabelecimento ou uma empresa de gestão de resíduos aprovados.\n\nOs médicos dentistas não podem, em caso algum, libertar direta ou indiretamente tais resíduos de amálgama para o ambiente."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "d836481cf7649c0a": {
+   "fragment_id": "ELIMINAÇÃO DE RESÍDUOS E DE RESÍDUOS DE MERCÚRIO",
+   "type": "divisao",
+   "heading": "ELIMINAÇÃO DE RESÍDUOS E DE RESÍDUOS DE MERCÚRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ELIMINAÇÃO DE RESÍDUOS E DE RESÍDUOS DE MERCÚRIO"
+  },
+  "84fdd10c992c669b": {
+   "fragment_id": "Artigo 11.º — Resíduos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Resíduos\n\nSem prejuízo do artigo 2.º, n.º 5, do presente regulamento, o mercúrio e os compostos de mercúrio, sob a forma pura ou de misturas e provenientes de qualquer das seguintes fontes importantes, são considerados resíduos na aceção da Diretiva 2008/98/CE e eliminados de acordo com o disposto nessa diretiva, sem pôr em perigo a saúde humana ou o ambiente:\n\na) A produção de cloro-álcalis;\n\nb) A depuração de gás natural;\n\nc) A mineração e fundição de metais não ferrosos;\n\nd) A extração de minério de cinábrio, na União.\n\nEssa eliminação não conduz a qualquer forma de recuperação de mercúrio."
+  },
+  "b4baf187d50e8b89": {
+   "fragment_id": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de informações sobre fontes importantes\n\n1. Os operadores económicos dos setores referidos no artigo 11.º, alíneas a), b) e c), enviam anualmente, até 31 de maio, às autoridades competentes dos Estados-Membros em causa o seguinte:\n\na) Dados relativos à quantidade total dos resíduos de mercúrio armazenados em cada uma das suas instalações;\n\nb) Dados relativos à quantidade total de resíduos de mercúrio enviados para instalações específicas que procedem à armazenagem temporária, à conversão e, se for caso disso, à solidificação de resíduos de mercúrio ou à armazenagem permanente de resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação;\n\nc) A localização e os dados de contacto de cada instalação a que se refere a alínea b);\n\nd) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem temporária dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 1;\n\ne) Uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 2;\n\nf) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, nos termos do artigo 14.º, n.º 3.\n\n2. Os dados a que se refere o n.º 1, alíneas a) e b), são apresentados por recurso aos códigos previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr16-L_2017137PT.01000101-E0016).\n\n3. As obrigações previstas nos n.^os^ 1 e 2 deixam de ser aplicáveis aos operadores económicos de instalações de cloro-álcalis a partir de um ano após a data de desmantelamento de todas as células de mercúrio por ele operadas, nos termos da Decisão de Execução 2013/732/UE, e do envio de todo o mercúrio para instalações de gestão de resíduos."
+  },
+  "c804945c23230c86": {
+   "fragment_id": "Artigo 13.º — Armazenagem de resíduos de mercúrio",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Armazenagem de resíduos de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Armazenagem de resíduos de mercúrio\n\n1. Não obstante o disposto no artigo 5.º, n.º 3, alínea a), da Diretiva 1999/31/CE, os resíduos de mercúrio podem ser armazenados temporariamente na forma líquida, desde que sejam cumpridos os requisitos específicos aplicáveis à armazenagem temporária de resíduos de mercúrio, tal como estabelecidos nos anexos I, II e III da referida diretiva, e que a referida armazenagem seja efetuada em instalações à superfície concebidas e equipadas para a armazenagem temporária de resíduos de mercúrio.\n\nA exceção prevista no primeiro parágrafo deixa de ser aplicável a partir de 1 de janeiro de 2023.\n\n2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 21.º, a fim de alterar o presente regulamento no sentido de prorrogar o prazo autorizado de armazenagem temporária dos resíduos de mercúrio referidos no n.º 1 do presente artigo por um período máximo de três anos.\n\n3. Antes de serem eliminados permanentemente, os resíduos de mercúrio são objeto de conversão e, caso se destinem a ser eliminados em instalações à superfície, são objeto de conversão e solidificação.\n\nOs resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação, só podem ser eliminados permanentemente nas seguintes instalações de armazenagem permanente com autorização de eliminação de resíduos perigosos:\n\na) Minas de sal adaptadas para a armazenagem permanente de resíduos de mercúrio que foram objeto de conversão, ou formações subterrâneas profundas de rocha dura que proporcionem um nível de segurança e confinamento equivalente ou superior ao das minas de sal; ou\n\nb) Instalações à superfície concebidas e equipadas para a armazenagem permanente de resíduos de mercúrio que foram objeto de conversão e de solidificação e que proporcionem um nível de segurança e confinamento equivalente ou superior ao das instalações referidas na alínea a).\n\nOs operadores de instalações de armazenagem permanente asseguram que os resíduos de mercúrio que foram objeto de conversão e, se for caso disso, de solidificação são armazenados separadamente dos outros resíduos em lotes de eliminação e numa câmara de armazenagem selada. Os referidos operadores asseguram ainda que são cumpridos os requisitos relativos às instalações de armazenagem permanente previstos na Diretiva 1999/31/CE, incluindo os requisitos específicos de armazenagem temporária de resíduos de mercúrio estabelecidos no anexo I, secção 8, terceiro e quinto travessões, e no anexo II da referida diretiva."
+  },
+  "ce0344906fd50218": {
+   "fragment_id": "Artigo 14.º — Rastreabilidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Rastreabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rastreabilidade\n\n1. Os operadores das instalações que procedem à armazenagem temporária de resíduos de mercúrio criam um registo que inclua as seguintes informações:\n\na) Para cada transferência de resíduos de mercúrio recebida: i) a origem e a quantidade desses resíduos, ii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\ni) a origem e a quantidade desses resíduos,\n\nii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\nb) Para cada transferência dos resíduos de mercúrio que saem da instalação: i) a quantidade desses resíduos e o seu teor de mercúrio, ii) o destino e a operação de eliminação prevista desses resíduos, iii) uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação desses resíduos, tal como referido no n.º 2, iv) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, tal como referido no n.º 3;\n\ni) a quantidade desses resíduos e o seu teor de mercúrio,\n\nii) o destino e a operação de eliminação prevista desses resíduos,\n\niii) uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação desses resíduos, tal como referido no n.º 2,\n\niv) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, tal como referido no n.º 3;\n\nc) A quantidade de resíduos de mercúrio armazenados na instalação no final de cada mês.\n\nOs operadores das instalações que procedem à armazenagem temporária dos resíduos de mercúrio emitem — assim que esses resíduos saírem da armazenagem temporária — um certificado comprovativo de que os resíduos de mercúrio foram enviados para instalações que procedem às operações de eliminação abrangidas pelo presente artigo.\n\nLogo que seja emitido o certificado referido no segundo parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores económicos em causa referidos no artigo 12.º.\n\n2. Os operadores das instalações que procedem à conversão e, se for caso disso, à solidificação de resíduos de mercúrio criam um registo que inclua as seguintes informações:\n\na) Para cada transferência de resíduos de mercúrio recebida: i) a origem e a quantidade desses resíduos, ii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\ni) a origem e a quantidade desses resíduos,\n\nii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\nb) Para cada transferência dos resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação que saem da instalação: i) a quantidade de resíduos e o seu teor de mercúrio, ii) o destino e as operações de eliminação previstas para esses resíduos, iii) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente desses resíduos, tal como referido no n.º 3;\n\ni) a quantidade de resíduos e o seu teor de mercúrio,\n\nii) o destino e as operações de eliminação previstas para esses resíduos,\n\niii) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente desses resíduos, tal como referido no n.º 3;\n\nc) A quantidade de resíduos de mercúrio armazenados na instalação no final de cada mês.\n\nOs operadores das instalações que procedem à conversão e, se for caso disso, à solidificação de resíduos de mercúrio emitem — assim que a operação de conversão e, se for caso disso, de solidificação da totalidade da transferência tiver terminado — um certificado comprovativo de que a totalidade da transferência de resíduos de mercúrio foi convertida e, se for caso disso, solidificada.\n\nLogo que seja emitido o certificado referido no segundo parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores das instalações referidas no n.º 1 do presente artigo e aos operadores económicos em causa referidos no artigo 12.º.\n\n3. Os operadores das instalações que procedem à armazenagem permanente de resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação emitem — assim que a operação de eliminação da totalidade da transferência tiver terminado — um certificado comprovativo de que a totalidade da transferência de resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação foi armazenada permanentemente em cumprimento da Diretiva 1999/31/CE, incluindo informação sobre a localização da armazenagem.\n\nLogo que seja emitido o certificado referido no primeiro parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores das instalações referidas nos n.^os^ 1 e 2 do presente artigo e aos operadores económicos em causa referidos no artigo 12.º.\n\n4. Até 31 de janeiro de cada ano, os operadores das instalações referidas nos n.^os^ 1 e 2 transmitem o registo relativo ao ano civil anterior às autoridades competentes do Estado-Membro em causa. As autoridades competentes dos Estado-Membros em causa, comunicam anualmente todos os registos transmitidos à Comissão."
+  },
+  "5f4062553fec2211": {
+   "fragment_id": "Artigo 15.º — Locais contaminados",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Locais contaminados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Locais contaminados\n\n1. A Comissão organiza um intercâmbio de informações com os Estados-Membros sobre as medidas adotadas a nível nacional para identificar e avaliar os locais contaminados por mercúrio e compostos de mercúrio, bem como para colmatar os riscos significativos que essa contaminação pode representar para a saúde humana e o ambiente.\n\n2. Até 1 de janeiro de 2021, a Comissão disponibiliza ao público na Internet as informações recolhidas ao abrigo do n.º 1, incluindo um inventário de locais contaminados por mercúrio ou compostos de mercúrio."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "0a0cc123380ac3d7": {
+   "fragment_id": "SANÇÕES, AUTORIDADES COMPETENTES E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "SANÇÕES, AUTORIDADES COMPETENTES E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SANÇÕES, AUTORIDADES COMPETENTES E RELATÓRIOS"
+  },
+  "f04cf5c8e94ade4d": {
+   "fragment_id": "Artigo 16.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sanções\n\nOs Estados-Membros estabelecem as regras relativas às sanções aplicáveis em caso de violação do disposto no presente regulamento e adotam todas as medidas necessárias para assegurar a sua aplicação. As sanções devem ser efetivas, proporcionadas e dissuasivas. Até às respetivas datas de aplicação das disposições do presente regulamento, os Estados-Membros notificam a Comissão dessas regras e medidas, devendo também notificá-la sem demora de qualquer alteração subsequente das mesmas."
+  },
+  "708abadd66952afc": {
+   "fragment_id": "Artigo 17.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autoridades competentes\n\nOs Estados-Membros designam as autoridades competentes responsáveis pelo cumprimento das obrigações decorrentes do presente regulamento."
+  },
+  "060eaf67d49532b6": {
+   "fragment_id": "Artigo 18.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório\n\n1. Até 1 de janeiro de 2020 e, posteriormente, a intervalos adequados, os Estados-Membros elaboram, apresentam à Comissão e disponibilizam ao público na Internet um relatório com o seguinte conteúdo:\n\na) Informações relativas à aplicação do presente regulamento;\n\nb) Informações necessárias ao cumprimento pela União da obrigação de prestação de informações prevista no artigo 21.º da Convenção;\n\nc) Um resumo das informações coligidas nos termos do artigo 12.º do presente regulamento;\n\nd) Informações relativas ao mercúrio localizado nos seus territórios: i) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local, ii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ni) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local,\n\nii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ne) Uma lista das fontes de aprovisionamento que fornecem mais de 10 toneladas métricas de mercúrio por ano, caso os Estados-Membros tenham conhecimento dessas fontes.\n\nOs Estados-Membros podem decidir não disponibilizar ao público qualquer das informações a que se refere o primeiro parágrafo por qualquer dos motivos referidos no artigo 4.º, n.^os^ 1 e 2, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho [([^17])](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntr17-L_2017137PT.01000101-E0017), sem prejuízo do artigo 4.º, n.º 2, segundo parágrafo, dessa diretiva.\n\n2. Para efeitos da apresentação de relatórios a que se refere o n.º 1, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração dos mesmos.\n\nA Comissão adota atos de execução para estabelecer questionários adequados com o objetivo de especificar o teor, as informações e os principais indicadores de desempenho, necessários para satisfazer os requisitos previstos no n.º 1, bem como o modelo e a periodicidade do relatório a que se refere o n.º 1. Esses questionários não podem duplicar as obrigações de comunicação de informações das Partes na Convenção. Os atos de execução a que se refere o presente número são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n3. Os Estados-Membros fornecem, sem demora, à Comissão os relatórios que apresentem ao Secretariado da Convenção."
+  },
+  "d0f0873b3533ee27": {
+   "fragment_id": "Artigo 19.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão\n\n1. Até 30 de junho de 2020, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre o resultado da sua avaliação no que diz respeito:\n\na) À necessidade de a União regular as emissões de mercúrio e de compostos de mercúrio provenientes de crematórios;\n\nb) À viabilidade duma eliminação gradual da utilização de amálgama dentária a longo prazo, e de preferência até 2030, tendo em conta os planos nacionais referidos no artigo 10.º, n.º 3, e respeitando plenamente a competência dos Estados-Membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos; e\n\nc) Aos benefícios ambientais e à viabilidade dum maior alinhamento do anexo II com a legislação pertinente da União que regula a colocação no mercado dos produtos com mercúrio adicionado.\n\n2. Até 31 de dezembro de 2024, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação e a revisão do presente regulamento, designadamente, à luz da avaliação de eficácia efetuada pela Conferência das Partes na Convenção e dos relatórios fornecidos pelos Estados-Membros, nos termos do artigo 18.º do presente regulamento e do artigo 21.º da Convenção.\n\n3. A Comissão apresenta, se necessário, uma proposta legislativa juntamente com os seus relatórios referidos nos n.^os^ 1 e 2."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "0e9213c9a78c2600": {
+   "fragment_id": "PODERES DELEGADOS E DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "PODERES DELEGADOS E DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PODERES DELEGADOS E DE EXECUÇÃO"
+  },
+  "7f59e8ce8159e912": {
+   "fragment_id": "Artigo 20.º — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração dos anexos\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 21.º do presente regulamento, a fim de alterar os respetivos anexos I, II, III e IV, tendo em vista alinhá-los com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE."
+  },
+  "30726280f99e4c4e": {
+   "fragment_id": "Artigo 21.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º, n.º 2, e no artigo 20.º é conferido à Comissão por um prazo de cinco anos a contar de 13 de junho de 2017. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 13.º, n.º 2, e no artigo 20.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não prejudica os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro, de acordo com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados ao abrigo do artigo 13.º, n.º 2, e do artigo 20.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "c84a1cf1e7466976": {
+   "fragment_id": "Artigo 22.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Procedimento de comité\n\n1. A Comissão é assistida por um comité na adoção dos formulários de importação e exportação ao abrigo do artigo 6.º, dos requisitos técnicos para a armazenagem provisória ambientalmente segura de mercúrio, compostos de mercúrio e misturas de mercúrio ao abrigo do artigo 7.º, n.º 3, de uma decisão ao abrigo do artigo 8.º, n.º 6, e dos questionários ao abrigo do artigo 18.º, n.º 2. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "c2d27c63e244f6e5": {
+   "fragment_id": "Artigo 23.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nO Regulamento (CE) n.º 1102/2008 é revogado com efeitos a partir de 1 de janeiro de 2018.\n\nAs remissões para o regulamento revogado devem entender-se como remissões para o presente regulamento e ser lidas de acordo com a tabela de correspondência constante do anexo V."
+  },
+  "03ca38fae2a06aa6": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de janeiro de 2018.\n\nNo entanto, o anexo III, parte I, alínea d), é aplicável a partir de 11 de dezembro de 2017.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 17 de maio de 2017.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**A. TAJANI**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**C. ABELA**\n\n---"
+  },
+  "5a269c16c265bf1b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc1-L_2017137PT.01000101-E0001) [JO C 303 de 19.8.2016, p. 122](http://publications.europa.eu/resource/oj/JOC_2016_303_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc2-L_2017137PT.01000101-E0002) Posição do Parlamento Europeu de 14 de março de 2017 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 25 de abril de 2017.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc3-L_2017137PT.01000101-E0003) Decisão n.º 1386/2013/UE do Parlamento Europeu e do Conselho, de 20 de novembro de 2013, relativa a um programa geral de ação da União para 2020 em matéria de ambiente «Viver bem, dentro dos limites do nosso planeta» ([JO L 354 de 28.12.2013, p. 171](http://publications.europa.eu/resource/oj/JOL_2013_354_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc4-L_2017137PT.01000101-E0004) Regulamento (CE) n.º 1102/2008 do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, sobre a proibição da exportação de mercúrio metálico e de determinados compostos e misturas de mercúrio e o armazenamento seguro de mercúrio metálico ([JO L 304 de 14.11.2008, p. 75](http://publications.europa.eu/resource/oj/JOL_2008_304_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc5-L_2017137PT.01000101-E0005) Regulamento (CE) n.º 1013/2006 do Parlamento Europeu e do Conselho, de 14 de junho de 2006, relativo a transferências de resíduos ([JO L 190 de 12.7.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_190_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc6-L_2017137PT.01000101-E0006) Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH), que cria a Agência Europeia dos Produtos Químicos, que altera a Diretiva 1999/45/CE e revoga o Regulamento (CEE) n.º 793/93 do Conselho e o Regulamento (CE) n.º 1488/94 da Comissão, bem como a Diretiva 76/769/CEE do Conselho e as Diretivas 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE da Comissão ([JO L 396 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_396_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc7-L_2017137PT.01000101-E0007) Decisão de Execução 2013/732/UE da Comissão, de 9 de dezembro de 2013, que estabelece as conclusões sobre as melhores técnicas disponíveis (MTD) para a produção de cloro e álcalis nos termos da Diretiva 2010/75/UE do Parlamento Europeu e do Conselho relativa às emissões industriais ([JO L 332 de 11.12.2013, p. 34](http://publications.europa.eu/resource/oj/JOL_2013_332_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc8-L_2017137PT.01000101-E0008) Diretiva 1999/31/CE do Conselho, de 26 de abril de 1999, relativa à deposição de resíduos em aterros ([JO L 182 de 16.7.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_182_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc9-L_2017137PT.01000101-E0009) Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa aos resíduos e que revoga certas diretivas ([JO L 312 de 22.11.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_312_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc10-L_2017137PT.01000101-E0010) Diretiva 2010/75/UE do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais (prevenção e controlo integrados da poluição) ([JO L 334 de 17.12.2010, p. 17](http://publications.europa.eu/resource/oj/JOL_2010_334_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc11-L_2017137PT.01000101-E0011) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água ([JO L 327 de 22.12.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_327_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc12-L_2017137PT.01000101-E0012) [JO L 123 de 12.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc13-L_2017137PT.01000101-E0013) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc14-L_2017137PT.01000101-E0014) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho ([JO L 197 de 24.7.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_197_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc15-L_2017137PT.01000101-E0015) Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos ([JO L 174 de 1.7.2011, p. 88](http://publications.europa.eu/resource/oj/JOL_2011_174_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc16-L_2017137PT.01000101-E0016) Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos ([JO L 332 de 9.12.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_332_R_TOC)).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019.02/DOC_1#ntc17-L_2017137PT.01000101-E0017) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho ([JO L 41 de 14.2.2003, p. 26](http://publications.europa.eu/resource/oj/JOL_2003_041_R_TOC))."
+  },
+  "eabed10b8da520f5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de maio de 2017\n\nrelativo ao mercúrio e que revoga o Regulamento (CE) n.º 1102/2008\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "e39012463600d223": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Mercúrio», o mercúrio metálico (Hg, n.º CAS 7439-97-6);\n\n2) «Composto de mercúrio», uma substância constituída por átomos de mercúrio e por um ou mais átomos de outros elementos químicos, que apenas possa ser separada em diferentes componentes por meio de reações químicas;\n\n3) «Mistura», uma mistura ou solução composta por duas ou mais substâncias;\n\n4) «Produto com mercúrio adicionado», um produto ou componente de produto que contenha mercúrio ou um composto de mercúrio adicionado intencionalmente;\n\n5) «Resíduos de mercúrio», mercúrio metálico que preenche os requisitos para ser considerado resíduo, na aceção do artigo 3.º, ponto 1, da Diretiva 2008/98/CE;\n\n6) «Exportação», uma das seguintes operações:\n\na) Exportação permanente ou temporária de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que satisfaçam as condições estabelecidas no artigo 28.º, n.º 2, do TFEU;\n\nb) Reexportação de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado que não satisfaçam as condições estabelecidas artigo 28.º, n.º 2, do TFUE e sejam sujeitos a um procedimento aduaneiro distinto do regime de trânsito externo da União para a circulação de mercadorias que transitem pelo território aduaneiro da União;\n\n7) «Importação», a introdução física, no território aduaneiro da União, de mercúrio, de compostos de mercúrio, de misturas de mercúrio e de produtos com mercúrio adicionado sujeitos a um regime aduaneiro distinto do regime de trânsito externo da União para a circulação de mercadorias que transitem pelo território aduaneiro da União;\n\n8) «Eliminação», a eliminação na aceção do artigo 3.º, ponto 19, da Diretiva 2008/98/CE;\n\n9) «Mineração primária de mercúrio», a extração mineira em que o mercúrio constitui o principal material procurado;\n\n10) «Conversão», a transformação química do estado físico do mercúrio a partir do estado líquido em sulfureto de mercúrio ou um composto químico comparável que seja tão ou mais estável e tão ou menos solúvel na água e que não constitua um perigo para o ambiente ou a saúde maior do que o sulfureto de mercúrio;\n\n11) «Colocação no mercado», o fornecimento ou a disponibilização a terceiros, mediante pagamento ou gratuitamente. A importação é considerada uma colocação no mercado."
+  },
+  "cc0ca4d93b429de7": {
+   "fragment_id": "Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exportação, importação e fabrico de produtos com mercúrio adicionado\n\n1. Sem prejuízo de requisitos mais rigorosos previstos noutros atos legislativos da União aplicáveis, é proibida a exportação, a importação e o fabrico na União de produtos com mercúrio adicionado constantes do anexo II, a partir das datas nele fixadas.\n\n2.\n\nA proibição estabelecida no n.º 1 não se aplica aos seguintes produtos com mercúrio adicionado:\n\na) Produtos essenciais para fins de proteção civil e utilizações militares;\n\nb) Produtos para investigação, calibração de instrumentos ou utilização como padrões de referência."
+  },
+  "6be1c2d9da68cd76": {
+   "fragment_id": "Artigo 7.º — Atividades industriais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atividades industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atividades industriais\n\n1. É proibida a utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes do anexo III, parte I, a partir das datas nele fixadas.\n\n2. A utilização de mercúrio e de compostos de mercúrio em processos de fabrico constantes do anexo III, parte II, só pode ser autorizada se forem cumpridas as condições estabelecidas nesse anexo.\n\n3. A armazenagem provisória de mercúrio e de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do presente regulamento deve ser efetuada de forma ambientalmente segura, de acordo com os limiares e os requisitos estabelecidos na Diretiva 2012/18/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0001)) e na Diretiva 2010/75/UE.\n\nA fim de assegurar a aplicação uniforme da obrigação prevista no primeiro parágrafo do presente número, a Comissão pode adotar atos de execução, tendo em vista o estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura do mercúrio, dos compostos de mercúrio e das misturas de mercúrio, de acordo com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 10.º, n.º 3, e do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 22.º, n.º 2, do presente regulamento."
+  },
+  "fcd15f7a9e7799d1": {
+   "fragment_id": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1. Os operadores económicos não podem produzir ou colocar no mercado produtos com mercúrio adicionado que não eram fabricados antes de 1 de janeiro de 2018 (a seguir designados «novos produtos com mercúrio adicionado»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6 do presente artigo ou ao abrigo da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0002)).\n\nO primeiro parágrafo não é aplicável a:\n\na) Equipamentos necessários à defesa dos interesses essenciais de segurança dos Estados-Membros, nomeadamente as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nb) Equipamentos concebidos para serem enviados para o espaço;\n\nc) Melhorias técnicas ou a reformulação dos produtos com mercúrio adicionado já fabricados antes de 1 de janeiro de 2018, desde que tais melhorias ou reformulação conduzam a uma menor utilização de mercúrio nesses produtos.\n\n2. Os operadores económicos não podem utilizar processos de fabrico não utilizados antes de 1 de janeiro de 2018 que impliquem a utilização de mercúrio ou de compostos de mercúrio (a seguir designados «novos processos de fabrico»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6.\n\nO primeiro parágrafo do presente número não se aplica a processos que produzam ou utilizem produtos com mercúrio adicionado diversos dos sujeitos à proibição estabelecida no n.º 1.\n\n3.\n\nSe um operador económico pretender requerer uma decisão ao abrigo do n.º 6 para fabricar ou colocar no mercado um novo produto com mercúrio adicionado ou para utilizar um novo processo de fabrico que possa proporcionar benefícios significativos para o ambiente ou para a saúde, e que não apresente riscos significativos para o ambiente ou para a saúde humana, e na falta de alternativas sem mercúrio tecnicamente viáveis que proporcionem tais benefícios, esse operador económico notifica as autoridades competentes do Estado-Membro em causa. Essa notificação inclui os seguintes elementos:\n\na) Uma descrição técnica do produto ou processo em causa;\n\nb) Uma avaliação dos seus benefícios e riscos para o ambiente e para a saúde;\n\nc) Provas da inexistência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios significativos para o ambiente ou para a saúde;\n\nd) Uma explicação detalhada do modo como o processo deve ser aplicado ou o produto fabricado, utilizado e eliminado como resíduo após a utilização, a fim de garantir um elevado nível de proteção do ambiente e da saúde humana.\n\n4. O Estado-Membro em causa envia à Comissão a notificação recebida do operador económico se considerar, com base na sua própria avaliação das informações prestadas, que os critérios a que se refere o primeiro parágrafo do n.º 6 são cumpridos.\n\nO Estado-Membro em causa informa a Comissão dos casos em que considere que os critérios a que se refere o primeiro parágrafo do n.º 6 não foram cumpridos.\n\n5. No caso de o Estado-Membro transmitir uma notificação por força do n.º 4, primeiro parágrafo, do presente artigo, a Comissão transmite imediatamente a notificação ao comité referido no artigo 22.º, n.º 1.\n\n6. A Comissão examina a notificação recebida e verifica se foi demonstrado que o novo produto com mercúrio adicionado ou o novo processo de fabrico proporcionaria benefícios significativos para o ambiente ou para a saúde, e não causaria riscos significativos para o ambiente ou para a saúde humana, e que não existem produtos alternativos sem mercúrio, tecnicamente viáveis, que proporcionem tais benefícios.\n\nA Comissão informa os Estados-Membros acerca dos resultados da avaliação.\n\nA Comissão adota, por meio de atos de execução, decisões que especifiquem se os novos produtos com mercúrio adicionado ou os novos processos de fabrico são autorizados. Os referidos atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n7. Até 30 de junho de 2018, a Comissão disponibiliza publicamente na Internet um inventário dos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio utilizados antes de 1 de janeiro de 2018 e de produtos com mercúrio adicionado fabricados antes de 1 de janeiro de 2018 e de quaisquer restrições de comercialização aplicáveis."
+  },
+  "60d6ec7c46c754db": {
+   "fragment_id": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de informações sobre fontes importantes\n\n1.\n\nOs operadores económicos dos setores referidos no artigo 11.º, alíneas a), b) e c), enviam anualmente, até 31 de maio, às autoridades competentes dos Estados-Membros em causa o seguinte:\n\na) Dados relativos à quantidade total dos resíduos de mercúrio armazenados em cada uma das suas instalações;\n\nb) Dados relativos à quantidade total de resíduos de mercúrio enviados para instalações específicas que procedem à armazenagem temporária, à conversão e, se for caso disso, à solidificação de resíduos de mercúrio ou à armazenagem permanente de resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação;\n\nc) A localização e os dados de contacto de cada instalação a que se refere a alínea b);\n\nd) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem temporária dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 1;\n\ne) Uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 2;\n\nf) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, nos termos do artigo 14.º, n.º 3.\n\n2. Os dados a que se refere o n.º 1, alíneas a) e b), são apresentados por recurso aos códigos previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0003)).\n\n3. As obrigações previstas nos n.^os^ 1 e 2 deixam de ser aplicáveis aos operadores económicos de instalações de cloro-álcalis a partir de um ano após a data de desmantelamento de todas as células de mercúrio por ele operadas, nos termos da Decisão de Execução 2013/732/UE, e do envio de todo o mercúrio para instalações de gestão de resíduos."
+  },
+  "755b5e89d3f0fa46": {
+   "fragment_id": "Artigo 13.º — Armazenagem de resíduos de mercúrio",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Armazenagem de resíduos de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Armazenagem de resíduos de mercúrio\n\n1. Não obstante o disposto no artigo 5.º, n.º 3, alínea a), da Diretiva 1999/31/CE, os resíduos de mercúrio podem ser armazenados temporariamente na forma líquida, desde que sejam cumpridos os requisitos específicos aplicáveis à armazenagem temporária de resíduos de mercúrio, tal como estabelecidos nos anexos I, II e III da referida diretiva, e que a referida armazenagem seja efetuada em instalações à superfície concebidas e equipadas para a armazenagem temporária de resíduos de mercúrio.\n\nA exceção prevista no primeiro parágrafo deixa de ser aplicável a partir de 1 de janeiro de 2026.\n\n2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 21.º, a fim de alterar o presente regulamento no sentido de prorrogar o prazo autorizado de armazenagem temporária dos resíduos de mercúrio referidos no n.º 1 do presente artigo por um período máximo de três anos.\n\n3. Antes de serem eliminados permanentemente, os resíduos de mercúrio são objeto de conversão e, caso se destinem a ser eliminados em instalações à superfície, são objeto de conversão e solidificação.\n\nOs resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação, só podem ser eliminados permanentemente nas seguintes instalações de armazenagem permanente com autorização de eliminação de resíduos perigosos:\n\na) Minas de sal adaptadas para a armazenagem permanente de resíduos de mercúrio que foram objeto de conversão, ou formações subterrâneas profundas de rocha dura que proporcionem um nível de segurança e confinamento equivalente ou superior ao das minas de sal; ou\n\nb) Instalações à superfície concebidas e equipadas para a armazenagem permanente de resíduos de mercúrio que foram objeto de conversão e de solidificação e que proporcionem um nível de segurança e confinamento equivalente ou superior ao das instalações referidas na alínea a).\n\nOs operadores de instalações de armazenagem permanente asseguram que os resíduos de mercúrio que foram objeto de conversão e, se for caso disso, de solidificação são armazenados separadamente dos outros resíduos em lotes de eliminação e numa câmara de armazenagem selada. Os referidos operadores asseguram ainda que são cumpridos os requisitos relativos às instalações de armazenagem permanente previstos na Diretiva 1999/31/CE, incluindo os requisitos específicos de armazenagem temporária de resíduos de mercúrio estabelecidos no anexo I, secção 8, terceiro e quinto travessões, e no anexo II da referida diretiva."
+  },
+  "1777a322b408f78e": {
+   "fragment_id": "Artigo 14.º — Rastreabilidade",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Rastreabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rastreabilidade\n\n1.\n\nOs operadores das instalações que procedem à armazenagem temporária de resíduos de mercúrio criam um registo que inclua as seguintes informações:\n\na) Para cada transferência de resíduos de mercúrio recebida:\n\ni) a origem e a quantidade desses resíduos,\n\nii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\nb) Para cada transferência dos resíduos de mercúrio que saem da instalação:\n\ni) a quantidade desses resíduos e o seu teor de mercúrio,\n\nii) o destino e a operação de eliminação prevista desses resíduos,\n\niii) uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação desses resíduos, tal como referido no n.º 2,\n\niv) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, tal como referido no n.º 3;\n\nc) A quantidade de resíduos de mercúrio armazenados na instalação no final de cada mês.\n\nOs operadores das instalações que procedem à armazenagem temporária dos resíduos de mercúrio emitem — assim que esses resíduos saírem da armazenagem temporária — um certificado comprovativo de que os resíduos de mercúrio foram enviados para instalações que procedem às operações de eliminação abrangidas pelo presente artigo.\n\nLogo que seja emitido o certificado referido no segundo parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores económicos em causa referidos no artigo 12.º.\n\n2.\n\nOs operadores das instalações que procedem à conversão e, se for caso disso, à solidificação de resíduos de mercúrio criam um registo que inclua as seguintes informações:\n\na) Para cada transferência de resíduos de mercúrio recebida:\n\ni) a origem e a quantidade desses resíduos,\n\nii) o nome e os dados de contacto do fornecedor e do proprietário desses resíduos;\n\nb) Para cada transferência dos resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação que saem da instalação:\n\ni) a quantidade de resíduos e o seu teor de mercúrio,\n\nii) o destino e as operações de eliminação previstas para esses resíduos,\n\niii) uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente desses resíduos, tal como referido no n.º 3;\n\nc) A quantidade de resíduos de mercúrio armazenados na instalação no final de cada mês.\n\nOs operadores das instalações que procedem à conversão e, se for caso disso, à solidificação de resíduos de mercúrio emitem — assim que a operação de conversão e, se for caso disso, de solidificação da totalidade da transferência tiver terminado — um certificado comprovativo de que a totalidade da transferência de resíduos de mercúrio foi convertida e, se for caso disso, solidificada.\n\nLogo que seja emitido o certificado referido no segundo parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores das instalações referidas no n.º 1 do presente artigo e aos operadores económicos em causa referidos no artigo 12.º.\n\n3. Os operadores das instalações que procedem à armazenagem permanente de resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação emitem — assim que a operação de eliminação da totalidade da transferência tiver terminado — um certificado comprovativo de que a totalidade da transferência de resíduos de mercúrio objeto de conversão e, se for caso disso, de solidificação foi armazenada permanentemente em cumprimento da Diretiva 1999/31/CE, incluindo informação sobre a localização da armazenagem.\n\nLogo que seja emitido o certificado referido no primeiro parágrafo do presente número, uma cópia do mesmo é transmitida sem demora aos operadores das instalações referidas nos n.^os^ 1 e 2 do presente artigo e aos operadores económicos em causa referidos no artigo 12.º.\n\n4. Até 31 de janeiro de cada ano, os operadores das instalações referidas nos n.^os^ 1 e 2 transmitem o registo relativo ao ano civil anterior às autoridades competentes do Estado-Membro em causa. As autoridades competentes dos Estado-Membros em causa, comunicam anualmente todos os registos transmitidos à Comissão."
+  },
+  "47b11de8fb27a0df": {
+   "fragment_id": "Artigo 18.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório\n\n1.\n\nAté 1 de janeiro de 2020 e, posteriormente, a intervalos adequados, os Estados-Membros elaboram, apresentam à Comissão e disponibilizam ao público na Internet um relatório com o seguinte conteúdo:\n\na) Informações relativas à aplicação do presente regulamento;\n\nb) Informações necessárias ao cumprimento pela União da obrigação de prestação de informações prevista no artigo 21.º da Convenção;\n\nc) Um resumo das informações coligidas nos termos do artigo 12.º do presente regulamento;\n\nd) Informações relativas ao mercúrio localizado nos seus territórios:\n\ni) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local,\n\nii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ne) Uma lista das fontes de aprovisionamento que fornecem mais de 10 toneladas métricas de mercúrio por ano, caso os Estados-Membros tenham conhecimento dessas fontes.\n\nOs Estados-Membros podem decidir não disponibilizar ao público qualquer das informações a que se refere o primeiro parágrafo por qualquer dos motivos referidos no artigo 4.º, n.^os^ 1 e 2, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0004)), sem prejuízo do artigo 4.º, n.º 2, segundo parágrafo, dessa diretiva.\n\n2. Para efeitos da apresentação de relatórios a que se refere o n.º 1, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração dos mesmos.\n\nA Comissão adota atos de execução para estabelecer questionários adequados com o objetivo de especificar o teor, as informações e os principais indicadores de desempenho, necessários para satisfazer os requisitos previstos no n.º 1, bem como o modelo e a periodicidade do relatório a que se refere o n.º 1. Esses questionários não podem duplicar as obrigações de comunicação de informações das Partes na Convenção. Os atos de execução a que se refere o presente número são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n3. Os Estados-Membros fornecem, sem demora, à Comissão os relatórios que apresentem ao Secretariado da Convenção."
+  },
+  "1d4fecfb1ffdb54d": {
+   "fragment_id": "Artigo 19.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão\n\n1.\n\nAté 30 de junho de 2020, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre o resultado da sua avaliação no que diz respeito:\n\na) À necessidade de a União regular as emissões de mercúrio e de compostos de mercúrio provenientes de crematórios;\n\nb) À viabilidade duma eliminação gradual da utilização de amálgama dentária a longo prazo, e de preferência até 2030, tendo em conta os planos nacionais referidos no artigo 10.º, n.º 3, e respeitando plenamente a competência dos Estados-Membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos; e\n\nc) Aos benefícios ambientais e à viabilidade dum maior alinhamento do anexo II com a legislação pertinente da União que regula a colocação no mercado dos produtos com mercúrio adicionado.\n\n2. Até 31 de dezembro de 2024, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação e a revisão do presente regulamento, designadamente, à luz da avaliação de eficácia efetuada pela Conferência das Partes na Convenção e dos relatórios fornecidos pelos Estados-Membros, nos termos do artigo 18.º do presente regulamento e do artigo 21.º da Convenção.\n\n3. A Comissão apresenta, se necessário, uma proposta legislativa juntamente com os seus relatórios referidos nos n.^os^ 1 e 2."
+  },
+  "f0d5d509f1a65db5": {
+   "fragment_id": "Artigo 24.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de janeiro de 2018.\n\nNo entanto, o anexo III, parte I, alínea d), é aplicável a partir de 11 de dezembro de 2017.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "7697d9c178dff83c": {
+   "fragment_id": "Compostos de mercúrio abrangidos pelo artigo 3.º, n.^os^ 2 e 3, e pelo artigo 7.º, n.º 3, e misturas de mercúrio abrangidas pelo artigo 3.º, n.º 2, pelo artigo 4.º, n.º 1, e pelo artigo 7.º, n.º 3",
+   "type": "divisao",
+   "heading": "Compostos de mercúrio abrangidos pelo artigo 3.º, n.^os^ 2 e 3, e pelo artigo 7.º, n.º 3, e misturas de mercúrio abrangidas pelo artigo 3.º, n.º 2, pelo artigo 4.º, n.º 1, e pelo artigo 7.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Compostos de mercúrio abrangidos pelo artigo 3.º, n.^os^ 2 e 3, e pelo artigo 7.º, n.º 3, e misturas de mercúrio abrangidas pelo artigo 3.º, n.º 2, pelo artigo 4.º, n.º 1, e pelo artigo 7.º, n.º 3\n\nCompostos de mercúrio cuja exportação é proibida a partir de 1 de janeiro de 2018:\n\n— Cloreto de mercúrio (I) (Hg2Cl2, n.º CAS 10112-91-1)\n\n— Óxido de mercúrio (II) (HgO, n.º CAS 21908-53-2)\n\n— Minério de cinábrio\n\n— Sulfureto de mercúrio (HgS, n.º CAS 1344-48-5)\n\nCompostos de mercúrio cuja exportação é proibida a partir de 1 de janeiro de 2020:\n\n— Sulfato de mercúrio (II) (HgSO4, n.º CAS 7783-35-9)\n\n— Nitrato de mercúrio (II) (Hg(NO3)2, n.º CAS 10045-94-0)\n\nMisturas de mercúrio cuja exportação e importação são proibidas a partir de 1 de janeiro de 2018:\n\n— Misturas de mercúrio com outras substâncias, incluindo ligas de mercúrio, com teor ponderal de mercúrio de, pelo menos, 95 %."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "578222634cc99b9f": {
+   "fragment_id": "Produtos com mercúrio adicionado referidos no artigo 5.º",
+   "type": "divisao",
+   "heading": "Produtos com mercúrio adicionado referidos no artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos com mercúrio adicionado referidos no artigo 5.º"
+  },
+  "a378ab7d42d6e772": {
+   "fragment_id": "Parte A — Produtos com mercúrio adicionado",
+   "type": "divisao",
+   "heading": "Parte A — Produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte A — Produtos com mercúrio adicionado\n\n| Produtos com mercúrio adicionado | Data a partir da qual a exportação, a importação e o fabrico de produtos com mercúrio adicionado são proibidos |\n| --- | --- |\n| 1. Pilhas ou acumuladores que contenham um teor ponderal de mercúrio superior a 0,0005 %. | 31.12.2020 |\n| 2. Comutadores e relés, com exceção das pontes de medição de alta precisão de capacidades e perdas e dos comutadores e relés RF de alta frequência em instrumentos de monitorização e controlo, com teor máximo de mercúrio de 20 mg por ponte, comutador ou relé. | 31.12.2020 |\n| 3. Lâmpadas fluorescentes compactas (CFL) para iluminação geral: a) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 2,5 mg por lâmpada; b) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 3,5 mg por lâmpada. | 31.12.2018 |\n| 4. As seguintes lâmpadas fluorescentes lineares para iluminação geral: a) Tribanda, com potência < 60 watts e teor de mercúrio superior a 5 mg por lâmpada; b) De halofosfatos, com potência ≤ 40 watts e teor de mercúrio superior a 10 mg por lâmpada. | 31.12.2018 |\n| 5. Lâmpadas de vapor de mercúrio de alta pressão para iluminação geral. | 31.12.2018 |\n| 6. As seguintes lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo, com mercúrio adicionado, para ecrãs eletrónicos, de: a) Comprimento reduzido (≤ 500 mm), com teor de mercúrio superior a 3,5 mg por lâmpada; b) Comprimento médio (> 500 mm e ≤ 1 500 mm), com teor de mercúrio superior a 5 mg por lâmpada; c) Comprimento longo (> 1 500 mm), com teor de mercúrio superior a 13 mg por lâmpada. | 31.12.2018 |\n| 7. Produtos cosméticos com mercúrio e com compostos de mercúrio, com exceção dos casos especiais incluídos no anexo V, pontos 16 e 17, do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0005). | 31.12.2020 |\n| 8. Pesticidas, biocidas e antisséticos tópicos. | 31.12.2020 |\n| 9. Dispositivos de medição não eletrónicos abaixo mencionados: a) Barómetros; b) Higrómetros; c) Manómetros; d) Termómetros e outras aplicações termométricas não elétricas; e) Esfigmomanómetros; f) Extensómetros a utilizar com pletismógrafos; g) Picnómetros de mercúrio; h) Dispositivos de medição com mercúrio para determinação do ponto de amolecimento. A presente rubrica não abrange os seguintes aparelhos de medição: — Instrumentos de medição não eletrónicos instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; — Instrumentos de medição com mais de 50 anos em 3 de outubro de 2007; — Instrumentos de medição destinados a serem mostrados em exposições públicas para fins culturais e históricos. | 31.12.2020 |\n| (^1^) Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativo aos produtos cosméticos (JO L 342 de 22.12.2009, p. 59). |  |"
+  },
+  "f60918d92655c533": {
+   "fragment_id": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "type": "divisao",
+   "heading": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo\n\nInterruptores e comutadores, lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo para ecrãs eletrónicos e dispositivos de medição, quando sejam utilizadas para substituir um componente de um equipamento de maiores dimensões e se não existirem, para o componente em causa, alternativas viáveis sem mercúrio, nos termos da Diretiva 2000/53/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0006)) e da Diretiva 2011/65/UE."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "0ac86e67a45edeb0": {
+   "fragment_id": "Requisitos relacionados com o mercúrio aplicáveis aos processos de fabrico referidos no artigo 7.º, n.^os^ 1 e 2",
+   "type": "divisao",
+   "heading": "Requisitos relacionados com o mercúrio aplicáveis aos processos de fabrico referidos no artigo 7.º, n.^os^ 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos relacionados com o mercúrio aplicáveis aos processos de fabrico referidos no artigo 7.º, n.^os^ 1 e 2"
+  },
+  "d6690f98f789c4f2": {
+   "fragment_id": "Parte I: Proibição da utilização de mercúrio e de compostos de mercúrio, sob a forma pura ou de misturas, nos processos de fabrico",
+   "type": "divisao",
+   "heading": "Parte I: Proibição da utilização de mercúrio e de compostos de mercúrio, sob a forma pura ou de misturas, nos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte I: Proibição da utilização de mercúrio e de compostos de mercúrio, sob a forma pura ou de misturas, nos processos de fabrico\n\na) A partir de 1 de janeiro de 2018: nos processos de fabrico em que o mercúrio ou os compostos de mercúrio são utilizados como catalisadores;\n\nb) Não obstante o disposto na alínea a), a produção de monómero de cloreto de vinilo é proibida a partir de 1 de janeiro de 2022;\n\nc) A partir de 1 de janeiro de 2022: nos processos de fabrico em que o mercúrio é usado como elétrodo;\n\nd) Não obstante o disposto na alínea c), a partir de 11 de dezembro de 2017: na produção de cloro-álcalis em que o mercúrio seja utilizado como elétrodo;\n\ne) Não obstante o disposto na alínea c), a produção de metóxido ou etóxido de sódio ou de potássio é proibida a partir de 1 de janeiro de 2028;\n\nf) A partir de 1 de janeiro de 2018: a produção de poliuretano, na medida em que ainda não for restringida ou proibida nos termos do ponto 62 do anexo XVII do Regulamento (CE) n.º 1907/2006."
+  },
+  "61f19b1beb6dc863": {
+   "fragment_id": "Parte II: Processos de fabrico sujeitos a restrições de utilização e libertação de mercúrio e compostos de mercúrio",
+   "type": "divisao",
+   "heading": "Parte II: Processos de fabrico sujeitos a restrições de utilização e libertação de mercúrio e compostos de mercúrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte II: Processos de fabrico sujeitos a restrições de utilização e libertação de mercúrio e compostos de mercúrio\n\nProdução de metóxido ou etóxido de sódio ou de potássio\n\nA produção de metóxido ou etóxido de sódio ou de potássio devem ser efetuadas nos termos da parte I, alínea e), e nas seguintes condições:\n\na) Proibição do uso de mercúrio de mineração primária de mercúrio;\n\nb) Redução de 50 %, até 2020, da libertação direta e indireta de mercúrio e de compostos de mercúrio para a atmosfera, a água e o solo por unidade de produção, em comparação com 2010;\n\nc) Apoio à investigação e desenvolvimento no domínio dos processos de fabrico sem mercúrio; e\n\nd) A partir de 13 de junho de 2017, a capacidade das instalações que utilizem mercúrio ou compostos de mercúrio para a produção de metóxido ou etóxido de sódio ou de potássio que se encontravam em funcionamento antes dessa data não deve ser aumentada nem devem ser autorizadas novas instalações."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "9b16def4d28fd308": {
+   "fragment_id": "Teor do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala referido no artigo 9.º",
+   "type": "divisao",
+   "heading": "Teor do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala referido no artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Teor do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala referido no artigo 9.º\n\nO plano nacional deve incluir as seguintes informações:\n\na) Objetivos nacionais, nomeadamente de redução, com vista a eliminar a utilização de mercúrio e de compostos de mercúrio;\n\nb) Ações para eliminar:\n\ni) a amalgamação total de minérios,\n\nii) a queima em espaços abertos de amálgamas ou amálgamas transformadas,\n\niii) a queima de amálgamas em zonas residenciais, e\n\niv) a lixiviação de cianetos em sedimentos, minérios ou rejeitados aos quais tenha sido adicionado mercúrio, sem remoção prévia deste;\n\nc) Iniciativas para facilitar a formalização ou a regulação do setor da mineração e transformação aurífera artesanal e em pequena escala;\n\nd) Estimativas de base das quantidades de mercúrio e das práticas utilizadas na mineração e transformação aurífera artesanal e em pequena escala no seu território;\n\ne) Estratégias para promover a redução das emissões e descargas de mercúrio, bem como da exposição ao mercúrio na mineração e transformação aurífera artesanal e em pequena escala, incluindo métodos que não utilizem mercúrio;\n\nf) Estratégias de gestão do comércio e de prevenção do desvio de mercúrio e compostos de mercúrio de fontes exteriores e internas para utilização em mineração e transformação aurífera artesanal e em pequena escala;\n\ng) Estratégias de participação das partes interessadas na execução e no desenvolvimento permanente do plano nacional;\n\nh) Uma estratégia de saúde pública sobre a exposição ao mercúrio dos mineiros que trabalham na mineração aurífera artesanal e em pequena escala e das respetivas comunidades. Esta estratégia deve abranger, nomeadamente, a recolha de dados no domínio da saúde, a formação dos profissionais de saúde e ações de sensibilização através dos serviços de saúde;\n\ni) Estratégias destinadas a prevenir a exposição das populações vulneráveis, nomeadamente as crianças e as mulheres em idade fértil em especial, as grávidas ao mercúrio utilizado na mineração e transformação aurífera artesanal e em pequena escala;\n\nj) Estratégias para a informação dos mineiros que trabalham na mineração aurífera artesanal e em pequena escala, bem como das comunidades afetadas; e\n\nk) Um calendário para a execução do plano nacional."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "62de9efa365cc41e": {
+   "fragment_id": "Tabela de correspondência",
+   "type": "divisao",
+   "heading": "Tabela de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabela de correspondência\n\nRegulamento (CE) n.º 1102/2008 Presente regulamento\n\nArtigo 1.º, n.º 1 Artigo 3.º, n.^os^ 1 e 2\n\nArtigo 1.º, n.º 2 Artigo 3.º, n.º 3\n\nArtigo 1.º, n.º 3 Artigo 3.º, n.º 4\n\nArtigo 2.º Artigo 11.º\n\nArtigo 3.º, n.º 1, alínea a) Artigo 13.º, n.º 3, alínea a)\n\nArtigo 3.º, n.º 1, alínea b) Artigo 13.º, n.º 1\n\nArtigo 3.º, n.º 1, segundo parágrafo Artigo 13.º, n.º 1, primeiro parágrafo e artigo 13.º, n.º 3, terceiro parágrafo\n\nArtigo 3.º, n.º 2 —\n\nArtigo 4.º, n.º 1 Artigo 13.º, n.º 1\n\nArtigo 4.º, n.º 2 Artigo 13.º, n.º 1\n\nArtigo 4.º, n.º 3 —\n\nArtigo 5.º, n.º 1 —\n\nArtigo 5.º, n.º 2 —\n\nArtigo 5.º, n.º 3 —\n\nArtigo 6.º, n.º 1, alínea a) —\n\nArtigo 6.º, n.º 1, alínea b) Artigo 12.º, n.º 1, alínea a)\n\nArtigo 6.º, n.º 1, alínea c) Artigo 12.º, n.º 1, alíneas b) e c)\n\nArtigo 6.º, n.º 2, alínea a) Artigo 12.º, n.º 1, alínea a)\n\nArtigo 6.º, n.º 2, alínea b) Artigo 12.º, n.º 1, alíneas b) e c)\n\nArtigo 6.º, n.º 3 Artigo 12.º, n.º 1\n\nArtigo 6.º, n.º 4 —\n\nArtigo 7.º Artigo 16.º\n\nArtigo 8.º, n.º 1 —\n\nArtigo 8.º, n.º 2 —\n\nArtigo 8.º, n.º 3 —\n\nArtigo 8.º, n.º 4 —\n\nArtigo 8.º, n.º 5 —\n\nArtigo 9.º —\n\n---"
+  },
+  "2aa2c7317120e6b5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho (JO L 197 de 24.7.2012, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (JO L 174 de 1.7.2011, p. 88).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos (JO L 332 de 9.12.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/73f405b9-a78e-11ed-b508-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Diretiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa aos veículos em fim de vida (JO L 269 de 21.10.2000, p. 34)."
+  },
+  "2ba5030b95689b94": {
+   "fragment_id": "Artigo 7.º — Atividades industriais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atividades industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atividades industriais\n\n1. É proibida a utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes do anexo III, parte I, a partir das datas nele fixadas.\n\n2. A utilização de mercúrio e de compostos de mercúrio em processos de fabrico constantes do anexo III, parte II, só pode ser autorizada se forem cumpridas as condições estabelecidas nesse anexo.\n\n3. A armazenagem provisória de mercúrio e de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do presente regulamento deve ser efetuada de forma ambientalmente segura, de acordo com os limiares e os requisitos estabelecidos na Diretiva 2012/18/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0001)) e na Diretiva 2010/75/UE.\n\nA fim de assegurar a aplicação uniforme da obrigação prevista no primeiro parágrafo do presente número, a Comissão pode adotar atos de execução, tendo em vista o estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura do mercúrio, dos compostos de mercúrio e das misturas de mercúrio, de acordo com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 10.º, n.º 3, e do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 22.º, n.º 2, do presente regulamento."
+  },
+  "e77da2c3ec48bb93": {
+   "fragment_id": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1. Os operadores económicos não podem produzir ou colocar no mercado produtos com mercúrio adicionado que não eram fabricados antes de 1 de janeiro de 2018 (a seguir designados «novos produtos com mercúrio adicionado»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6 do presente artigo ou ao abrigo da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0002)).\n\nO primeiro parágrafo não é aplicável a:\n\na) Equipamentos necessários à defesa dos interesses essenciais de segurança dos Estados-Membros, nomeadamente as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nb) Equipamentos concebidos para serem enviados para o espaço;\n\nc) Melhorias técnicas ou a reformulação dos produtos com mercúrio adicionado já fabricados antes de 1 de janeiro de 2018, desde que tais melhorias ou reformulação conduzam a uma menor utilização de mercúrio nesses produtos.\n\n2. Os operadores económicos não podem utilizar processos de fabrico não utilizados antes de 1 de janeiro de 2018 que impliquem a utilização de mercúrio ou de compostos de mercúrio (a seguir designados «novos processos de fabrico»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6.\n\nO primeiro parágrafo do presente número não se aplica a processos que produzam ou utilizem produtos com mercúrio adicionado diversos dos sujeitos à proibição estabelecida no n.º 1.\n\n3.\n\nSe um operador económico pretender requerer uma decisão ao abrigo do n.º 6 para fabricar ou colocar no mercado um novo produto com mercúrio adicionado ou para utilizar um novo processo de fabrico que possa proporcionar benefícios significativos para o ambiente ou para a saúde, e que não apresente riscos significativos para o ambiente ou para a saúde humana, e na falta de alternativas sem mercúrio tecnicamente viáveis que proporcionem tais benefícios, esse operador económico notifica as autoridades competentes do Estado-Membro em causa. Essa notificação inclui os seguintes elementos:\n\na) Uma descrição técnica do produto ou processo em causa;\n\nb) Uma avaliação dos seus benefícios e riscos para o ambiente e para a saúde;\n\nc) Provas da inexistência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios significativos para o ambiente ou para a saúde;\n\nd) Uma explicação detalhada do modo como o processo deve ser aplicado ou o produto fabricado, utilizado e eliminado como resíduo após a utilização, a fim de garantir um elevado nível de proteção do ambiente e da saúde humana.\n\n4. O Estado-Membro em causa envia à Comissão a notificação recebida do operador económico se considerar, com base na sua própria avaliação das informações prestadas, que os critérios a que se refere o primeiro parágrafo do n.º 6 são cumpridos.\n\nO Estado-Membro em causa informa a Comissão dos casos em que considere que os critérios a que se refere o primeiro parágrafo do n.º 6 não foram cumpridos.\n\n5. No caso de o Estado-Membro transmitir uma notificação por força do n.º 4, primeiro parágrafo, do presente artigo, a Comissão transmite imediatamente a notificação ao comité referido no artigo 22.º, n.º 1.\n\n6. A Comissão examina a notificação recebida e verifica se foi demonstrado que o novo produto com mercúrio adicionado ou o novo processo de fabrico proporcionaria benefícios significativos para o ambiente ou para a saúde, e não causaria riscos significativos para o ambiente ou para a saúde humana, e que não existem produtos alternativos sem mercúrio, tecnicamente viáveis, que proporcionem tais benefícios.\n\nA Comissão informa os Estados-Membros acerca dos resultados da avaliação.\n\nA Comissão adota, por meio de atos de execução, decisões que especifiquem se os novos produtos com mercúrio adicionado ou os novos processos de fabrico são autorizados. Os referidos atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n7. Até 30 de junho de 2018, a Comissão disponibiliza publicamente na Internet um inventário dos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio utilizados antes de 1 de janeiro de 2018 e de produtos com mercúrio adicionado fabricados antes de 1 de janeiro de 2018 e de quaisquer restrições de comercialização aplicáveis."
+  },
+  "20f48110aeed54b3": {
+   "fragment_id": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de informações sobre fontes importantes\n\n1.\n\nOs operadores económicos dos setores referidos no artigo 11.º, alíneas a), b) e c), enviam anualmente, até 31 de maio, às autoridades competentes dos Estados-Membros em causa o seguinte:\n\na) Dados relativos à quantidade total dos resíduos de mercúrio armazenados em cada uma das suas instalações;\n\nb) Dados relativos à quantidade total de resíduos de mercúrio enviados para instalações específicas que procedem à armazenagem temporária, à conversão e, se for caso disso, à solidificação de resíduos de mercúrio ou à armazenagem permanente de resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação;\n\nc) A localização e os dados de contacto de cada instalação a que se refere a alínea b);\n\nd) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem temporária dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 1;\n\ne) Uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 2;\n\nf) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, nos termos do artigo 14.º, n.º 3.\n\n2. Os dados a que se refere o n.º 1, alíneas a) e b), são apresentados por recurso aos códigos previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0003)).\n\n3. As obrigações previstas nos n.^os^ 1 e 2 deixam de ser aplicáveis aos operadores económicos de instalações de cloro-álcalis a partir de um ano após a data de desmantelamento de todas as células de mercúrio por ele operadas, nos termos da Decisão de Execução 2013/732/UE, e do envio de todo o mercúrio para instalações de gestão de resíduos."
+  },
+  "5c667b301db91123": {
+   "fragment_id": "Artigo 18.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório\n\n1.\n\nAté 1 de janeiro de 2020 e, posteriormente, a intervalos adequados, os Estados-Membros elaboram, apresentam à Comissão e disponibilizam ao público na Internet um relatório com o seguinte conteúdo:\n\na) Informações relativas à aplicação do presente regulamento;\n\nb) Informações necessárias ao cumprimento pela União da obrigação de prestação de informações prevista no artigo 21.º da Convenção;\n\nc) Um resumo das informações coligidas nos termos do artigo 12.º do presente regulamento;\n\nd) Informações relativas ao mercúrio localizado nos seus territórios:\n\ni) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local,\n\nii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ne) Uma lista das fontes de aprovisionamento que fornecem mais de 10 toneladas métricas de mercúrio por ano, caso os Estados-Membros tenham conhecimento dessas fontes.\n\nOs Estados-Membros podem decidir não disponibilizar ao público qualquer das informações a que se refere o primeiro parágrafo por qualquer dos motivos referidos no artigo 4.º, n.^os^ 1 e 2, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0004)), sem prejuízo do artigo 4.º, n.º 2, segundo parágrafo, dessa diretiva.\n\n2. Para efeitos da apresentação de relatórios a que se refere o n.º 1, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração dos mesmos.\n\nA Comissão adota atos de execução para estabelecer questionários adequados com o objetivo de especificar o teor, as informações e os principais indicadores de desempenho, necessários para satisfazer os requisitos previstos no n.º 1, bem como o modelo e a periodicidade do relatório a que se refere o n.º 1. Esses questionários não podem duplicar as obrigações de comunicação de informações das Partes na Convenção. Os atos de execução a que se refere o presente número são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n3. Os Estados-Membros fornecem, sem demora, à Comissão os relatórios que apresentem ao Secretariado da Convenção."
+  },
+  "ecb46883fe05c654": {
+   "fragment_id": "Parte A — Produtos com mercúrio adicionado",
+   "type": "divisao",
+   "heading": "Parte A — Produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte A — Produtos com mercúrio adicionado\n\n| Produtos com mercúrio adicionado | Data a partir da qual a exportação, a importação e o fabrico de produtos com mercúrio adicionado são proibidos |\n| --- | --- |\n| 1. Pilhas ou acumuladores que contenham um teor ponderal de mercúrio superior a 0,0005 %. | 31.12.2020 |\n| 2. Comutadores e relés, com exceção das pontes de medição de alta precisão de capacidades e perdas e dos comutadores e relés RF de alta frequência em instrumentos de monitorização e controlo, com teor máximo de mercúrio de 20 mg por ponte, comutador ou relé. | 31.12.2020 |\n| 3. Lâmpadas fluorescentes compactas (CFL) para iluminação geral: a) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 2,5 mg por lâmpada; b) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 3,5 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 3-A. Lâmpadas fluorescentes compactas com balastro integrado (CFL.i) para iluminação geral com potência ≤ 30 watts e teor de mercúrio não superior a 2,5 mg por lâmpada. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 4. As seguintes lâmpadas fluorescentes lineares para iluminação geral: a) Tribanda, com potência < 60 watts e teor de mercúrio superior a 5 mg por lâmpada; b) De halofosfatos, com potência ≤ 40 watts e teor de mercúrio superior a 10 mg por lâmpada. | 31.12.2018 |\n| 5. Lâmpadas de vapor de mercúrio de alta pressão para iluminação geral. | 31.12.2018 |\n| 6. As seguintes lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo, com mercúrio adicionado, para ecrãs eletrónicos, de: a) Comprimento reduzido (≤ 500 mm), com teor de mercúrio superior a 3,5 mg por lâmpada; b) Comprimento médio (> 500 mm e ≤ 1 500 mm), com teor de mercúrio superior a 5 mg por lâmpada; c) Comprimento longo (> 1 500 mm), com teor de mercúrio superior a 13 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 6-A. Lâmpadas fluorescentes de cátodo frio (CCFL) e lâmpadas fluorescentes de elétrodo externo (EEFL) de todos os comprimentos para ecrãs eletrónicos não incluídas na entrada 6. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 7. Produtos cosméticos com mercúrio e com compostos de mercúrio, com exceção dos casos especiais incluídos no anexo V, pontos 16 e 17, do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0005). | 31.12.2020 |\n| 8. Pesticidas, biocidas e antisséticos tópicos. | 31.12.2020 |\n| 9. Dispositivos de medição não eletrónicos abaixo mencionados: a) Barómetros; b) Higrómetros; c) Manómetros; d) Termómetros e outras aplicações termométricas não elétricas; e) Esfigmomanómetros; f) Extensómetros a utilizar com pletismógrafos; g) Picnómetros de mercúrio; h) Dispositivos de medição com mercúrio para determinação do ponto de amolecimento. A presente rubrica não abrange os seguintes aparelhos de medição: — Instrumentos de medição não eletrónicos instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; — Instrumentos de medição com mais de 50 anos em 3 de outubro de 2007; — Instrumentos de medição destinados a serem mostrados em exposições públicas para fins culturais e históricos. | 31.12.2020 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 10. Os seguintes dispositivos de medição elétricos e eletrónicos, exceto se instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; a) Transdutores de pressão de fusão; b) Transmissores de pressão de fusão; c) Sensores de pressão de fusão. | 31.12.2025 |\n| 11. Outros produtos com mercúrio adicionado: a) Bombas de vácuo com mercúrio; b) Equilibradores de pneus e pesos de rodas; c) Película e papel fotográficos; d) Propulsor para satélites e veículos espaciais. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| (^1^) Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativo aos produtos cosméticos (JO L 342 de 22.12.2009, p. 59). |  |"
+  },
+  "2a92db2ebd1a4b47": {
+   "fragment_id": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "type": "divisao",
+   "heading": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo\n\nInterruptores e comutadores, lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo para ecrãs eletrónicos e dispositivos de medição, quando sejam utilizadas para substituir um componente de um equipamento de maiores dimensões e se não existirem, para o componente em causa, alternativas viáveis sem mercúrio, nos termos da Diretiva 2000/53/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#E0006)) e da Diretiva 2011/65/UE."
+  },
+  "84d51a6b8e93696c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#src.E0001)) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho (JO L 197 de 24.7.2012, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#src.E0002)) Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (JO L 174 de 1.7.2011, p. 88).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#src.E0003)) Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos (JO L 332 de 9.12.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#src.E0004)) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/2219c5a5-6d66-11ee-9220-01aa75ed71a1.0016.02/DOC_1#src.E0006)) Diretiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa aos veículos em fim de vida (JO L 269 de 21.10.2000, p. 34)."
+  },
+  "01654deccfbe02f5": {
+   "fragment_id": "Artigo 7.º — Atividades industriais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atividades industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atividades industriais\n\n1. É proibida a utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes do anexo III, parte I, a partir das datas nele fixadas.\n\n2. A utilização de mercúrio e de compostos de mercúrio em processos de fabrico constantes do anexo III, parte II, só pode ser autorizada se forem cumpridas as condições estabelecidas nesse anexo.\n\n3. A armazenagem provisória de mercúrio e de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do presente regulamento deve ser efetuada de forma ambientalmente segura, de acordo com os limiares e os requisitos estabelecidos na Diretiva 2012/18/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0001)) e na Diretiva 2010/75/UE.\n\nA fim de assegurar a aplicação uniforme da obrigação prevista no primeiro parágrafo do presente número, a Comissão pode adotar atos de execução, tendo em vista o estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura do mercúrio, dos compostos de mercúrio e das misturas de mercúrio, de acordo com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 10.º, n.º 3, e do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 22.º, n.º 2, do presente regulamento."
+  },
+  "b44a0166df5a949e": {
+   "fragment_id": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1. Os operadores económicos não podem produzir ou colocar no mercado produtos com mercúrio adicionado que não eram fabricados antes de 1 de janeiro de 2018 (a seguir designados «novos produtos com mercúrio adicionado»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6 do presente artigo ou ao abrigo da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0002)).\n\nO primeiro parágrafo não é aplicável a:\n\na) Equipamentos necessários à defesa dos interesses essenciais de segurança dos Estados-Membros, nomeadamente as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nb) Equipamentos concebidos para serem enviados para o espaço;\n\nc) Melhorias técnicas ou a reformulação dos produtos com mercúrio adicionado já fabricados antes de 1 de janeiro de 2018, desde que tais melhorias ou reformulação conduzam a uma menor utilização de mercúrio nesses produtos.\n\n2. Os operadores económicos não podem utilizar processos de fabrico não utilizados antes de 1 de janeiro de 2018 que impliquem a utilização de mercúrio ou de compostos de mercúrio (a seguir designados «novos processos de fabrico»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6.\n\nO primeiro parágrafo do presente número não se aplica a processos que produzam ou utilizem produtos com mercúrio adicionado diversos dos sujeitos à proibição estabelecida no n.º 1.\n\n3.\n\nSe um operador económico pretender requerer uma decisão ao abrigo do n.º 6 para fabricar ou colocar no mercado um novo produto com mercúrio adicionado ou para utilizar um novo processo de fabrico que possa proporcionar benefícios significativos para o ambiente ou para a saúde, e que não apresente riscos significativos para o ambiente ou para a saúde humana, e na falta de alternativas sem mercúrio tecnicamente viáveis que proporcionem tais benefícios, esse operador económico notifica as autoridades competentes do Estado-Membro em causa. Essa notificação inclui os seguintes elementos:\n\na) Uma descrição técnica do produto ou processo em causa;\n\nb) Uma avaliação dos seus benefícios e riscos para o ambiente e para a saúde;\n\nc) Provas da inexistência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios significativos para o ambiente ou para a saúde;\n\nd) Uma explicação detalhada do modo como o processo deve ser aplicado ou o produto fabricado, utilizado e eliminado como resíduo após a utilização, a fim de garantir um elevado nível de proteção do ambiente e da saúde humana.\n\n4. O Estado-Membro em causa envia à Comissão a notificação recebida do operador económico se considerar, com base na sua própria avaliação das informações prestadas, que os critérios a que se refere o primeiro parágrafo do n.º 6 são cumpridos.\n\nO Estado-Membro em causa informa a Comissão dos casos em que considere que os critérios a que se refere o primeiro parágrafo do n.º 6 não foram cumpridos.\n\n5. No caso de o Estado-Membro transmitir uma notificação por força do n.º 4, primeiro parágrafo, do presente artigo, a Comissão transmite imediatamente a notificação ao comité referido no artigo 22.º, n.º 1.\n\n6. A Comissão examina a notificação recebida e verifica se foi demonstrado que o novo produto com mercúrio adicionado ou o novo processo de fabrico proporcionaria benefícios significativos para o ambiente ou para a saúde, e não causaria riscos significativos para o ambiente ou para a saúde humana, e que não existem produtos alternativos sem mercúrio, tecnicamente viáveis, que proporcionem tais benefícios.\n\nA Comissão informa os Estados-Membros acerca dos resultados da avaliação.\n\nA Comissão adota, por meio de atos de execução, decisões que especifiquem se os novos produtos com mercúrio adicionado ou os novos processos de fabrico são autorizados. Os referidos atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n7. Até 30 de junho de 2018, a Comissão disponibiliza publicamente na Internet um inventário dos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio utilizados antes de 1 de janeiro de 2018 e de produtos com mercúrio adicionado fabricados antes de 1 de janeiro de 2018 e de quaisquer restrições de comercialização aplicáveis."
+  },
+  "7f1984f0a13429ad": {
+   "fragment_id": "Artigo 10.º — Amálgama dentária",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Amálgama dentária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Amálgama dentária\n\n1. A partir de 1 de janeiro de 2019, a amálgama dentária só pode ser utilizada sob a forma de cápsulas pré-doseadas. É proibida a utilização de mercúrio a granel pelos médicos dentistas.\n\n2. A partir de 1 de julho de 2018, a amálgama dentária não pode ser utilizada para tratamentos dentários de dentes decíduos, de crianças menores de 15 anos e de mulheres grávidas ou lactantes, exceto quando for considerado estritamente necessário por um médico dentista com base nas necessidades médicas específicas do doente.\n\n2-A. A partir de 1 de janeiro de 2025, a amálgama dentária não pode ser utilizada para tratamentos dentários na União, exceto quando for considerado estritamente necessário por um médico dentista com base nas necessidades médicas específicas do doente.\n\nRespeitando plenamente a competência dos Estados-Membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos e em derrogação do disposto no primeiro parágrafo, nos Estados-Membros em que a amálgama dentária seja o único material comparticipado pelo Estado a uma taxa de, pelo menos, 90 % ao abrigo do direito nacional para os doentes não elegíveis para outros materiais de restauração dentária comparticipados e as pessoas com rendimentos baixos sejam afetadas de forma desproporcionada em termos socioeconómicos pela data de eliminação gradual de 1 de janeiro de 2025, a amálgama dentária pode ser utilizada para tratamento dentário até 30 de junho de 2026. Os Estados-Membros prestam, e disponibilizam ao público, explicações fundamentadas para o recurso à derrogação, incluindo as medidas adequadas a aplicar até 30 de junho de 2026, e notificam-nas à Comissão até 31 de agosto de 2024.\n\n3. Até 1 de julho de 2019, os Estados-Membros estabelecem um plano nacional sobre as medidas que tencionam aplicar para eliminar gradualmente a utilização de amálgama dentária.\n\nOs Estados-Membros disponibilizam ao público na Internet os seus planos nacionais e transmitem-nos à Comissão no prazo de um mês após a sua adoção.\n\n4. A partir de 1 de janeiro de 2019, os profissionais de saúde de consultórios de medicina dentária em que se utilize amálgama dentária ou se retirem restaurações dentárias com amálgama ou se extraiam dentes que contenham tais restaurações asseguram que os seus consultórios se encontram equipados com separadores de amálgama para a retenção e a recolha de partículas de amálgama, incluindo as contidas na água utilizada.\n\nTais profissionais de saúde asseguram que:\n\na) Os separadores de amálgama colocados em serviço a partir de 1 de janeiro de 2018 proporcionam um nível de retenção de, pelo menos, 95 % das partículas de amálgama;\n\nb) A partir de 1 de janeiro de 2021, todos os separadores de amálgama utilizados proporcionam o nível de retenção especificado na alínea a).\n\nOs separadores de amálgama são alvo de manutenção, de acordo com as instruções do fabricante, para assegurar o nível mais elevado possível de retenção.\n\n5. Presumem-se conformes com os requisitos estabelecidos nos n.^os^ 1 e 4 as cápsulas e os separadores de amálgama que cumpram normas europeias ou outras normas nacionais ou internacionais que proporcionem um nível equivalente de qualidade e de retenção.\n\n6. Os médicos dentistas asseguram que os resíduos de amálgama — incluindo resíduos de amálgama, partículas e restaurações e dentes ou partes deles — contaminados com amálgama dentária são tratados e recolhidos por um estabelecimento ou uma empresa de gestão de resíduos aprovados.\n\nOs médicos dentistas não podem, em caso algum, libertar direta ou indiretamente tais resíduos de amálgama para o ambiente.\n\n7. A partir de 1 de janeiro de 2025, a exportação de amálgama dentária é proibida.\n\nA partir de 1 de julho de 2026, a importação e o fabrico de amálgama dentária são proibidos.\n\nEm derrogação do disposto no segundo parágrafo do presente número, a importação e o fabrico de amálgama dentária são permitidos para necessidades médicas específicas a que se refere o n.º 2-A, primeiro parágrafo."
+  },
+  "c5e6d966bff433a9": {
+   "fragment_id": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de informações sobre fontes importantes\n\n1.\n\nOs operadores económicos dos setores referidos no artigo 11.º, alíneas a), b) e c), enviam anualmente, até 31 de maio, às autoridades competentes dos Estados-Membros em causa o seguinte:\n\na) Dados relativos à quantidade total dos resíduos de mercúrio armazenados em cada uma das suas instalações;\n\nb) Dados relativos à quantidade total de resíduos de mercúrio enviados para instalações específicas que procedem à armazenagem temporária, à conversão e, se for caso disso, à solidificação de resíduos de mercúrio ou à armazenagem permanente de resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação;\n\nc) A localização e os dados de contacto de cada instalação a que se refere a alínea b);\n\nd) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem temporária dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 1;\n\ne) Uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 2;\n\nf) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, nos termos do artigo 14.º, n.º 3.\n\n2. Os dados a que se refere o n.º 1, alíneas a) e b), são apresentados por recurso aos códigos previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0003)).\n\n3. As obrigações previstas nos n.^os^ 1 e 2 deixam de ser aplicáveis aos operadores económicos de instalações de cloro-álcalis a partir de um ano após a data de desmantelamento de todas as células de mercúrio por ele operadas, nos termos da Decisão de Execução 2013/732/UE, e do envio de todo o mercúrio para instalações de gestão de resíduos."
+  },
+  "95244ef3d39442a6": {
+   "fragment_id": "Artigo 18.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório\n\n1.\n\nAté 1 de janeiro de 2020 e, posteriormente, a intervalos adequados, os Estados-Membros elaboram, apresentam à Comissão e disponibilizam ao público na Internet um relatório com o seguinte conteúdo:\n\na) Informações relativas à aplicação do presente regulamento;\n\nb) Informações necessárias ao cumprimento pela União da obrigação de prestação de informações prevista no artigo 21.º da Convenção;\n\nc) Um resumo das informações coligidas nos termos do artigo 12.º do presente regulamento;\n\nd) Informações relativas ao mercúrio localizado nos seus territórios:\n\ni) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local,\n\nii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ne) Uma lista das fontes de aprovisionamento que fornecem mais de 10 toneladas métricas de mercúrio por ano, caso os Estados-Membros tenham conhecimento dessas fontes;\n\nf) Um resumo das informações recolhidas nos termos do n.º 1-A do presente artigo, bem como informações sobre as quantidades de mercúrio utilizadas para satisfazer necessidades médicas específicas a que se refere o artigo 10.º, n.º 2-A; e\n\ng) Informações sobre as medidas aplicadas com base nas orientações da Comissão sobre a tecnologia de redução das emissões de mercúrio e de compostos de mercúrio provenientes de crematórios a que se refere o artigo 19.º, n.º 2-A, alínea a).\n\nOs Estados-Membros podem decidir não disponibilizar ao público qualquer das informações a que se refere o primeiro parágrafo por qualquer dos motivos referidos no artigo 4.º, n.^os^ 1 e 2, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0004)), sem prejuízo do artigo 4.º, n.º 2, segundo parágrafo, dessa diretiva.\n\n1-A. Até 31 de maio de um determinado ano civil, os importadores e fabricantes de amálgama dentária comunicam à respetiva autoridade competente, relativamente ao ano civil anterior, a quantidade de amálgama dentária que eles importaram ou fabricaram nos termos do artigo 10.º, n.º 7, terceiro parágrafo.\n\n2. Para efeitos da apresentação de relatórios a que se refere o n.º 1, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração dos mesmos.\n\nA Comissão adota atos de execução para estabelecer questionários adequados com o objetivo de especificar o teor, as informações e os principais indicadores de desempenho, necessários para satisfazer os requisitos previstos no n.º 1, bem como o modelo e a periodicidade do relatório a que se refere o n.º 1. Esses questionários não podem duplicar as obrigações de comunicação de informações das Partes na Convenção. Os atos de execução a que se refere o presente número são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n3. Os Estados-Membros fornecem, sem demora, à Comissão os relatórios que apresentem ao Secretariado da Convenção."
+  },
+  "1d54640aa1a91e25": {
+   "fragment_id": "Artigo 19.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão\n\n1.\n\nAté 30 de junho de 2020, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre o resultado da sua avaliação no que diz respeito:\n\na) À necessidade de a União regular as emissões de mercúrio e de compostos de mercúrio provenientes de crematórios;\n\nb) À viabilidade duma eliminação gradual da utilização de amálgama dentária a longo prazo, e de preferência até 2030, tendo em conta os planos nacionais referidos no artigo 10.º, n.º 3, e respeitando plenamente a competência dos Estados-Membros em matéria de organização e prestação de serviços de saúde e de cuidados médicos; e\n\nc) Aos benefícios ambientais e à viabilidade dum maior alinhamento do anexo II com a legislação pertinente da União que regula a colocação no mercado dos produtos com mercúrio adicionado.\n\n2. Até [**►M3**](http://publications.europa.eu/resource/celex/32024R1849) 31 de dezembro de 2029**◄**, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação e a revisão do presente regulamento, designadamente, à luz da avaliação de eficácia efetuada pela Conferência das Partes na Convenção e dos relatórios fornecidos pelos Estados-Membros, nos termos do artigo 18.º do presente regulamento e do artigo 21.º da Convenção.\n\n2-A.\n\nAté 31 de dezembro de 2029, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre:\n\na) A aplicação e o impacto das orientações, elaboradas pela Comissão até 31 de dezembro de 2025 sobre as tecnologias de redução das emissões de mercúrio e de compostos de mercúrio provenientes de crematórios aplicadas nos Estados-Membros;\n\nb) A necessidade de manter a isenção relativa à proibição da utilização de amálgama dentária a que se refere o artigo 10.º, n.º 2-A, primeiro parágrafo, tendo em conta o impacto na saúde dos doentes em geral e dos doentes dependentes de restaurações com amálgama dentária, e a necessidade de manter a derrogação relativa à importação e ao fabrico de amálgama dentária a que se refere o artigo 10.º, n.º 7, terceiro parágrafo;\n\nc) A evolução no âmbito da Convenção no que respeita à eliminação gradual da utilização ilegal de mercúrio em cosméticos, tendo em conta as informações prestadas pelas Partes na Convenção em conformidade com a Decisão MC-5/5 da Conferência das Partes relativa à elaboração de um relatório sobre os cosméticos;\n\nd) A necessidade de eliminar gradualmente as restantes utilizações de mercúrio;\n\ne) A necessidade de alargar a lista de fontes de resíduos de mercúrio definida no artigo 11.º;\n\nf) A necessidade de alargar a lista de compostos de mercúrio constantes do anexo I, ao aditar, por exemplo, o amidocloreto de mercúrio (HgNH2Cl).\n\n3. A Comissão apresenta, se necessário, uma proposta legislativa juntamente com os relatórios referidos no presente artigo."
+  },
+  "4eff772fa7a4b8f4": {
+   "fragment_id": "Parte A — Produtos com mercúrio adicionado",
+   "type": "divisao",
+   "heading": "Parte A — Produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte A — Produtos com mercúrio adicionado\n\n| Produtos com mercúrio adicionado | Data a partir da qual a exportação, a importação e o fabrico de produtos com mercúrio adicionado são proibidos |\n| --- | --- |\n| 1. Pilhas ou acumuladores que contenham um teor ponderal de mercúrio superior a 0,0005 %. | 31.12.2020 |\n| 2. Comutadores e relés, com exceção das pontes de medição de alta precisão de capacidades e perdas e dos comutadores e relés RF de alta frequência em instrumentos de monitorização e controlo, com teor máximo de mercúrio de 20 mg por ponte, comutador ou relé. | 31.12.2020 |\n| 3. Lâmpadas fluorescentes compactas (CFL) para iluminação geral: a) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 2,5 mg por lâmpada; b) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 3,5 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 3-A. Lâmpadas fluorescentes compactas com balastro integrado (CFL.i) para iluminação geral com potência ≤ 30 watts e teor de mercúrio não superior a 2,5 mg por lâmpada. | 31.12.2025 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 3-B. Todas as outras lâmpadas fluorescentes compactas (CFL) para iluminação geral não incluídas nas entradas 3 e 3-A. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 4. As seguintes lâmpadas fluorescentes lineares para iluminação geral: a) Tribanda, com potência < 60 watts e teor de mercúrio superior a 5 mg por lâmpada; b) De halofosfatos, com potência ≤ 40 watts e teor de mercúrio superior a 10 mg por lâmpada. | 31.12.2018 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 4-A. Lâmpadas de fósforo tribanda para iluminação geral não incluídas na entrada 4, alínea a). | 31.12.2026 |\n| 4-B. Lâmpadas de halofosfatos para iluminação geral não incluídas na entrada 4, alínea b). | 31.12.2025 |\n| 4-C. Lâmpadas não lineares de fósforo tribanda. | 31.12.2026 |\n| 4-D. Lâmpadas não lineares de halofosfatos. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 5. Lâmpadas de vapor de mercúrio de alta pressão para iluminação geral. | 31.12.2018 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 5-A. Lâmpadas (de vapor) de sódio de alta pressão (HPS) para iluminação geral com: a) P ≤ 105 W superior a 16 mg Hg; b) 105 W < P ≤ 155 W superior a 20 mg Hg; c) P > 155 W superior a 25 mg Hg. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 6. As seguintes lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo, com mercúrio adicionado, para ecrãs eletrónicos, de: a) Comprimento reduzido (≤ 500 mm), com teor de mercúrio superior a 3,5 mg por lâmpada; b) Comprimento médio (> 500 mm e ≤ 1 500 mm), com teor de mercúrio superior a 5 mg por lâmpada; c) Comprimento longo (> 1 500 mm), com teor de mercúrio superior a 13 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 6-A. Lâmpadas fluorescentes de cátodo frio (CCFL) e lâmpadas fluorescentes de elétrodo externo (EEFL) de todos os comprimentos para ecrãs eletrónicos não incluídas na entrada 6. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 7. Produtos cosméticos com mercúrio e com compostos de mercúrio, com exceção dos casos especiais incluídos no anexo V, pontos 16 e 17, do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0005). | 31.12.2020 |\n| 8. Pesticidas, biocidas e antisséticos tópicos. | 31.12.2020 |\n| 9. Dispositivos de medição não eletrónicos abaixo mencionados: a) Barómetros; b) Higrómetros; c) Manómetros; d) Termómetros e outras aplicações termométricas não elétricas; e) Esfigmomanómetros; f) Extensómetros a utilizar com pletismógrafos; g) Picnómetros de mercúrio; h) Dispositivos de medição com mercúrio para determinação do ponto de amolecimento. A presente rubrica não abrange os seguintes aparelhos de medição: — Instrumentos de medição não eletrónicos instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; — Instrumentos de medição com mais de 50 anos em 3 de outubro de 2007; — Instrumentos de medição destinados a serem mostrados em exposições públicas para fins culturais e históricos. | 31.12.2020 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 10. Os seguintes dispositivos de medição elétricos e eletrónicos, exceto se instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; a) Transdutores de pressão de fusão; b) Transmissores de pressão de fusão; c) Sensores de pressão de fusão. | 31.12.2025 |\n| 11. Outros produtos com mercúrio adicionado: a) Bombas de vácuo com mercúrio; b) Equilibradores de pneus e pesos de rodas; c) Película e papel fotográficos; d) Propulsor para satélites e veículos espaciais. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| (^1^) Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativo aos produtos cosméticos (JO L 342 de 22.12.2009, p. 59). |  |"
+  },
+  "10c475054d607fab": {
+   "fragment_id": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "type": "divisao",
+   "heading": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo\n\nInterruptores e comutadores, lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo para ecrãs eletrónicos e dispositivos de medição, quando sejam utilizadas para substituir um componente de um equipamento de maiores dimensões e se não existirem, para o componente em causa, alternativas viáveis sem mercúrio, nos termos da Diretiva 2000/53/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#E0006)) e da Diretiva 2011/65/UE."
+  },
+  "29f44a946781cc57": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho (JO L 197 de 24.7.2012, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (JO L 174 de 1.7.2011, p. 88).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos (JO L 332 de 9.12.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6eb21f7b-501f-11ef-acbc-01aa75ed71a1.0020.02/DOC_1#src.E0006)) Diretiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa aos veículos em fim de vida (JO L 269 de 21.10.2000, p. 34)."
+  },
+  "668c4fe883428d13": {
+   "fragment_id": "Artigo 7.º — Atividades industriais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Atividades industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atividades industriais\n\n1. É proibida a utilização de mercúrio e de compostos de mercúrio nos processos de fabrico constantes do anexo III, parte I, a partir das datas nele fixadas.\n\n2. A utilização de mercúrio e de compostos de mercúrio em processos de fabrico constantes do anexo III, parte II, só pode ser autorizada se forem cumpridas as condições estabelecidas nesse anexo.\n\n3. A armazenagem provisória de mercúrio e de compostos de mercúrio e de misturas de mercúrio constantes do anexo I do presente regulamento deve ser efetuada de forma ambientalmente segura, de acordo com os limiares e os requisitos estabelecidos na Diretiva 2012/18/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0001)) e na Diretiva 2010/75/UE.\n\nA fim de assegurar a aplicação uniforme da obrigação prevista no primeiro parágrafo do presente número, a Comissão pode adotar atos de execução, tendo em vista o estabelecimento de requisitos técnicos para a armazenagem provisória ambientalmente segura do mercúrio, dos compostos de mercúrio e das misturas de mercúrio, de acordo com as decisões adotadas pela Conferência das Partes na Convenção nos termos do artigo 10.º, n.º 3, e do artigo 27.º da Convenção, desde que a União aprove a decisão em causa através duma decisão do Conselho adotada nos termos do artigo 218.º, n.º 9, do TFUE. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 22.º, n.º 2, do presente regulamento."
+  },
+  "a5a29c9e1a995150": {
+   "fragment_id": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico\n\n1. Os operadores económicos não podem produzir ou colocar no mercado produtos com mercúrio adicionado que não eram fabricados antes de 1 de janeiro de 2018 (a seguir designados «novos produtos com mercúrio adicionado»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6 do presente artigo ou ao abrigo da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0002)).\n\nO primeiro parágrafo não é aplicável a:\n\na) Equipamentos necessários à defesa dos interesses essenciais de segurança dos Estados-Membros, nomeadamente as armas, as munições e o material de guerra destinados a fins especificamente militares;\n\nb) Equipamentos concebidos para serem enviados para o espaço;\n\nc) Melhorias técnicas ou a reformulação dos produtos com mercúrio adicionado já fabricados antes de 1 de janeiro de 2018, desde que tais melhorias ou reformulação conduzam a uma menor utilização de mercúrio nesses produtos.\n\n2. Os operadores económicos não podem utilizar processos de fabrico não utilizados antes de 1 de janeiro de 2018 que impliquem a utilização de mercúrio ou de compostos de mercúrio (a seguir designados «novos processos de fabrico»), exceto se forem autorizados a fazê-lo através de uma decisão adotada ao abrigo do n.º 6.\n\nO primeiro parágrafo do presente número não se aplica a processos que produzam ou utilizem produtos com mercúrio adicionado diversos dos sujeitos à proibição estabelecida no n.º 1.\n\n3.\n\nSe um operador económico pretender requerer uma decisão ao abrigo do n.º 6 para fabricar ou colocar no mercado um novo produto com mercúrio adicionado ou para utilizar um novo processo de fabrico que possa proporcionar benefícios significativos para o ambiente ou para a saúde, e que não apresente riscos significativos para o ambiente ou para a saúde humana, e na falta de alternativas sem mercúrio tecnicamente viáveis que proporcionem tais benefícios, esse operador económico notifica as autoridades competentes do Estado-Membro em causa. Essa notificação inclui os seguintes elementos:\n\na) Uma descrição técnica do produto ou processo em causa;\n\nb) Uma avaliação dos seus benefícios e riscos para o ambiente e para a saúde;\n\nc) Provas da inexistência de alternativas sem mercúrio tecnicamente viáveis, que proporcionem benefícios significativos para o ambiente ou para a saúde;\n\nd) Uma explicação detalhada do modo como o processo deve ser aplicado ou o produto fabricado, utilizado e eliminado como resíduo após a utilização, a fim de garantir um elevado nível de proteção do ambiente e da saúde humana.\n\n4. O Estado-Membro em causa envia à Comissão a notificação recebida do operador económico se considerar, com base na sua própria avaliação das informações prestadas, que os critérios a que se refere o primeiro parágrafo do n.º 6 são cumpridos.\n\nO Estado-Membro em causa informa a Comissão dos casos em que considere que os critérios a que se refere o primeiro parágrafo do n.º 6 não foram cumpridos.\n\n5. No caso de o Estado-Membro transmitir uma notificação por força do n.º 4, primeiro parágrafo, do presente artigo, a Comissão transmite imediatamente a notificação ao comité referido no artigo 22.º, n.º 1.\n\n6. A Comissão examina a notificação recebida e verifica se foi demonstrado que o novo produto com mercúrio adicionado ou o novo processo de fabrico proporcionaria benefícios significativos para o ambiente ou para a saúde, e não causaria riscos significativos para o ambiente ou para a saúde humana, e que não existem produtos alternativos sem mercúrio, tecnicamente viáveis, que proporcionem tais benefícios.\n\nA Comissão informa os Estados-Membros acerca dos resultados da avaliação.\n\nA Comissão adota, por meio de atos de execução, decisões que especifiquem se os novos produtos com mercúrio adicionado ou os novos processos de fabrico são autorizados. Os referidos atos de execução são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n7. Até 30 de junho de 2018, a Comissão disponibiliza publicamente na Internet um inventário dos processos de fabrico que impliquem a utilização de mercúrio ou de compostos de mercúrio utilizados antes de 1 de janeiro de 2018 e de produtos com mercúrio adicionado fabricados antes de 1 de janeiro de 2018 e de quaisquer restrições de comercialização aplicáveis."
+  },
+  "2bf44d315bb53698": {
+   "fragment_id": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Prestação de informações sobre fontes importantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de informações sobre fontes importantes\n\n1.\n\nOs operadores económicos dos setores referidos no artigo 11.º, alíneas a), b) e c), enviam anualmente, até 31 de maio, às autoridades competentes dos Estados-Membros em causa o seguinte:\n\na) Dados relativos à quantidade total dos resíduos de mercúrio armazenados em cada uma das suas instalações;\n\nb) Dados relativos à quantidade total de resíduos de mercúrio enviados para instalações específicas que procedem à armazenagem temporária, à conversão e, se for caso disso, à solidificação de resíduos de mercúrio ou à armazenagem permanente de resíduos de mercúrio que tenham sido objeto de conversão e, se for caso disso, de solidificação;\n\nc) A localização e os dados de contacto de cada instalação a que se refere a alínea b);\n\nd) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem temporária dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 1;\n\ne) Uma cópia do certificado fornecido pelo operador da instalação que procede à conversão e, se for caso disso, à solidificação dos resíduos de mercúrio, nos termos do artigo 14.º, n.º 2;\n\nf) Uma cópia do certificado fornecido pelo operador da instalação que procede à armazenagem permanente dos resíduos de mercúrio submetidos à conversão e, se for caso disso, à solidificação, nos termos do artigo 14.º, n.º 3.\n\n2. Os dados a que se refere o n.º 1, alíneas a) e b), são apresentados por recurso aos códigos previstos no Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0003)).\n\n3. As obrigações previstas nos n.^os^ 1 e 2 deixam de ser aplicáveis aos operadores económicos de instalações de cloro-álcalis a partir de um ano após a data de desmantelamento de todas as células de mercúrio por ele operadas, nos termos da Decisão de Execução 2013/732/UE, e do envio de todo o mercúrio para instalações de gestão de resíduos."
+  },
+  "cba2535bac5c1ee7": {
+   "fragment_id": "Artigo 18.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório\n\n1.\n\nAté 1 de janeiro de 2020 e, posteriormente, a intervalos adequados, os Estados-Membros elaboram, apresentam à Comissão e disponibilizam ao público na Internet um relatório com o seguinte conteúdo:\n\na) Informações relativas à aplicação do presente regulamento;\n\nb) Informações necessárias ao cumprimento pela União da obrigação de prestação de informações prevista no artigo 21.º da Convenção;\n\nc) Um resumo das informações coligidas nos termos do artigo 12.º do presente regulamento;\n\nd) Informações relativas ao mercúrio localizado nos seus territórios:\n\ni) uma lista dos locais onde há existências de mais de 50 toneladas métricas de mercúrio, exceto resíduos de mercúrio, bem como a quantidade de mercúrio em cada local,\n\nii) uma lista dos locais onde estão acumuladas mais de 50 toneladas métricas de resíduos de mercúrio, bem como a quantidade de resíduos de mercúrio em cada local; e\n\ne) Uma lista das fontes de aprovisionamento que fornecem mais de 10 toneladas métricas de mercúrio por ano, caso os Estados-Membros tenham conhecimento dessas fontes;\n\nf) Um resumo das informações recolhidas nos termos do n.º 1-A do presente artigo, bem como informações sobre as quantidades de mercúrio utilizadas para satisfazer necessidades médicas específicas a que se refere o artigo 10.º, n.º 2-A; e\n\ng) Informações sobre as medidas aplicadas com base nas orientações da Comissão sobre a tecnologia de redução das emissões de mercúrio e de compostos de mercúrio provenientes de crematórios a que se refere o artigo 19.º, n.º 2-A, alínea a).\n\nOs Estados-Membros podem decidir não disponibilizar ao público qualquer das informações a que se refere o primeiro parágrafo por qualquer dos motivos referidos no artigo 4.º, n.^os^ 1 e 2, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0004)), sem prejuízo do artigo 4.º, n.º 2, segundo parágrafo, dessa diretiva.\n\n1-A. Até 31 de maio de um determinado ano civil, os importadores e fabricantes de amálgama dentária comunicam à respetiva autoridade competente, relativamente ao ano civil anterior, a quantidade de amálgama dentária que eles importaram ou fabricaram nos termos do artigo 10.º, n.º 7, terceiro parágrafo.\n\n2. Para efeitos da apresentação de relatórios a que se refere o n.º 1, a Comissão faculta aos Estados-Membros uma ferramenta eletrónica para elaboração dos mesmos.\n\nA Comissão adota atos de execução para estabelecer questionários adequados com o objetivo de especificar o teor, as informações e os principais indicadores de desempenho, necessários para satisfazer os requisitos previstos no n.º 1, bem como o modelo e a periodicidade do relatório a que se refere o n.º 1. Esses questionários não podem duplicar as obrigações de comunicação de informações das Partes na Convenção. Os atos de execução a que se refere o presente número são adotados pelo processo de exame a que se refere o artigo 22.º, n.º 2.\n\n3. Os Estados-Membros fornecem, sem demora, à Comissão os relatórios que apresentem ao Secretariado da Convenção."
+  },
+  "7449415c64c014d7": {
+   "fragment_id": "Parte A — Produtos com mercúrio adicionado",
+   "type": "divisao",
+   "heading": "Parte A — Produtos com mercúrio adicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte A — Produtos com mercúrio adicionado\n\n| Produtos com mercúrio adicionado | Data a partir da qual a exportação, a importação e o fabrico de produtos com mercúrio adicionado são proibidos |\n| --- | --- |\n| 1. Pilhas ou acumuladores que contenham um teor ponderal de mercúrio superior a 0,0005 %. | 31.12.2020 |\n| 2. Comutadores e relés, com exceção das pontes de medição de alta precisão de capacidades e perdas e dos comutadores e relés RF de alta frequência em instrumentos de monitorização e controlo, com teor máximo de mercúrio de 20 mg por ponte, comutador ou relé. | 31.12.2020 |\n| [▼M4](http://publications.europa.eu/resource/celex/32026R0055) |  |\n| 2-A. Pontes de medição de alta precisão de capacidades e perdas e comutadores e relés RF de alta frequência em instrumentos de monitorização e controlo, com teor máximo de mercúrio de 20 mg por ponte, comutador ou relé, exceto se utilizados em investigação e desenvolvimento. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 3. Lâmpadas fluorescentes compactas (CFL) para iluminação geral: a) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 2,5 mg por lâmpada; b) CFL-i, com potência ≤ 30 watts e teor de mercúrio superior a 3,5 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 3-A. Lâmpadas fluorescentes compactas com balastro integrado (CFL.i) para iluminação geral com potência ≤ 30 watts e teor de mercúrio não superior a 2,5 mg por lâmpada. | 31.12.2025 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 3-B. Todas as outras lâmpadas fluorescentes compactas (CFL) para iluminação geral não incluídas nas entradas 3 e 3-A. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 4. As seguintes lâmpadas fluorescentes lineares para iluminação geral: a) Tribanda, com potência < 60 watts e teor de mercúrio superior a 5 mg por lâmpada; b) De halofosfatos, com potência ≤ 40 watts e teor de mercúrio superior a 10 mg por lâmpada. | 31.12.2018 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 4-A. Lâmpadas de fósforo tribanda para iluminação geral não incluídas na entrada 4, alínea a). | 31.12.2026 |\n| 4-B. Lâmpadas de halofosfatos para iluminação geral não incluídas na entrada 4, alínea b). | 31.12.2025 |\n| 4-C. Lâmpadas não lineares de fósforo tribanda. | 31.12.2026 |\n| 4-D. Lâmpadas não lineares de halofosfatos. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 5. Lâmpadas de vapor de mercúrio de alta pressão para iluminação geral. | 31.12.2018 |\n| [▼M3](http://publications.europa.eu/resource/celex/32024R1849) |  |\n| 5-A. Lâmpadas (de vapor) de sódio de alta pressão (HPS) para iluminação geral com: a) P ≤ 105 W superior a 16 mg Hg; b) 105 W < P ≤ 155 W superior a 20 mg Hg; c) P > 155 W superior a 25 mg Hg. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 6. As seguintes lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo, com mercúrio adicionado, para ecrãs eletrónicos, de: a) Comprimento reduzido (≤ 500 mm), com teor de mercúrio superior a 3,5 mg por lâmpada; b) Comprimento médio (> 500 mm e ≤ 1 500 mm), com teor de mercúrio superior a 5 mg por lâmpada; c) Comprimento longo (> 1 500 mm), com teor de mercúrio superior a 13 mg por lâmpada. | 31.12.2018 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 6-A. Lâmpadas fluorescentes de cátodo frio (CCFL) e lâmpadas fluorescentes de elétrodo externo (EEFL) de todos os comprimentos para ecrãs eletrónicos não incluídas na entrada 6. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| 7. Produtos cosméticos com mercúrio e com compostos de mercúrio, com exceção dos casos especiais incluídos no anexo V, pontos 16 e 17, do Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho [(^1^)](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0005). | 31.12.2020 |\n| 8. Pesticidas, biocidas e antisséticos tópicos. | 31.12.2020 |\n| 9. Dispositivos de medição não eletrónicos abaixo mencionados: a) Barómetros; b) Higrómetros; c) Manómetros; d) Termómetros e outras aplicações termométricas não elétricas; e) Esfigmomanómetros; f) Extensómetros a utilizar com pletismógrafos; g) Picnómetros de mercúrio; h) Dispositivos de medição com mercúrio para determinação do ponto de amolecimento. A presente rubrica não abrange os seguintes aparelhos de medição: — Instrumentos de medição não eletrónicos instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; — Instrumentos de medição com mais de 50 anos em 3 de outubro de 2007; — Instrumentos de medição destinados a serem mostrados em exposições públicas para fins culturais e históricos. | 31.12.2020 |\n| [▼M2](http://publications.europa.eu/resource/celex/32023R2049) |  |\n| 10. Os seguintes dispositivos de medição elétricos e eletrónicos, exceto se instalados em equipamentos de grandes dimensões ou utilizados para medições de alta precisão, se não existirem alternativas sem mercúrio; a) Transdutores de pressão de fusão; b) Transmissores de pressão de fusão; c) Sensores de pressão de fusão. | 31.12.2025 |\n| 11. Outros produtos com mercúrio adicionado: a) Bombas de vácuo com mercúrio; b) Equilibradores de pneus e pesos de rodas; c) Película e papel fotográficos; d) Propulsor para satélites e veículos espaciais. | 31.12.2025 |\n| [▼B](http://publications.europa.eu/resource/celex/32017R0852) |  |\n| (^1^) Regulamento (CE) n.º 1223/2009 do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativo aos produtos cosméticos (JO L 342 de 22.12.2009, p. 59). |  |"
+  },
+  "60206138f07225f5": {
+   "fragment_id": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "type": "divisao",
+   "heading": "Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo\n\nInterruptores e comutadores, lâmpadas fluorescentes de cátodo frio e lâmpadas fluorescentes de elétrodo externo para ecrãs eletrónicos e dispositivos de medição, quando sejam utilizadas para substituir um componente de um equipamento de maiores dimensões e se não existirem, para o componente em causa, alternativas viáveis sem mercúrio, nos termos da Diretiva 2000/53/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#E0006)) e da Diretiva 2011/65/UE."
+  },
+  "5ee37218dccf747f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#src.E0001)) Diretiva 2012/18/UE do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativa ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas, que altera e subsequentemente revoga a Diretiva 96/82/CE do Conselho (JO L 197 de 24.7.2012, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#src.E0002)) Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (JO L 174 de 1.7.2011, p. 88).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#src.E0003)) Regulamento (CE) n.º 2150/2002 do Parlamento Europeu e do Conselho, de 25 de novembro de 2002, relativo às estatísticas de resíduos (JO L 332 de 9.12.2002, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#src.E0004)) Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente e que revoga a Diretiva 90/313/CEE do Conselho (JO L 41 de 14.2.2003, p. 26).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1#src.E0006)) Diretiva 2000/53/CE do Parlamento Europeu e do Conselho, de 18 de setembro de 2000, relativa aos veículos em fim de vida (JO L 269 de 21.10.2000, p. 34)."
+  }
+ }
+}

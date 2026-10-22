@@ -34,6 +34,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-23'
+version_history:
+  file: decisao-ue-2017-2315.versoes.json
+  count: 2
+  source_lastmod: '2023-05-23'
+  versions:
+  - date: '2017-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-23'
+    amending: eu:celex:32023D1015:por
+    amending_title: DECISÃO (PESC) 2023/1015 DO CONSELHO de 23 de maio de 2023
+    changes:
+    - Altera Artigo 2.º — Estados-Membros participantes
+    - Altera Artigo 8.º — Financiamento
+    - Altera Artigo 10.º — Regras de segurança
+    - Altera 2.2. Governação dos projetos
+    - Altera Notas
+    - Suprime 2.2.1. O exame dos projetos da CEP basear-se-á numa avaliação realizada pelo alto-representante, apoiada pelo
+      SEAE, incluindo o EMUE, e pela AED; a seleção dos projetos exigirá uma decisão do Conselho
+    - Suprime 2.2.2. A governação dos projetos cabe, em primeira instância, aos Estados-Membros participantes
 identifiers:
   celex: 32017D2315
   eli: http://data.europa.eu/eli/dec/2017/2315/oj
@@ -48,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/090d4c23-e093-11e7-9749-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a3f8df29-0a7d-11ee-b12e-01aa75ed71a1.0005.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017D2315-20230523
-  retrieved_at: '2026-10-22T03:18:05Z'
+  retrieved_at: '2026-10-22T16:56:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T09:35:47.793+01:00'
 integrity:
@@ -57,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:05Z'
-  notes: Texto consolidado 02017D2315-20230523.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:33Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2017-2315.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,33 +131,19 @@ relationships:
   date: '2020-07-10'
 article_structure:
   article_count: 11
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 16
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:05Z'
+  checked_at: '2026-10-22T16:56:33Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (PESC) 2017/2315 do Conselho, de 11 de dezembro de 2017
-
-> 02017D2315 — PT — 23.05.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023D1015) — [DECISÃO (PESC) 2023/1015 DO CONSELHO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023D1015) — L 136 — 73 — 24.5.2023
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017D2315R%2801%29) — [Rectificação, JO L 012, 17.1.2018, p. 63 (2017/2315)](http://publications.europa.eu/resource/celex/32017D2315R%2801%29)
-
-## DECISÃO (PESC) 2017/2315 DO CONSELHO
 
 de 11 de dezembro de 2017
 

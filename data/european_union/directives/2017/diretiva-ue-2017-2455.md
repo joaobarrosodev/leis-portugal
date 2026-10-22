@@ -35,6 +35,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-08-18'
+version_history:
+  file: diretiva-ue-2017-2455.versoes.json
+  count: 2
+  source_lastmod: '2020-08-18'
+  versions:
+  - date: '2017-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-18'
+    amending: eu:celex:32020D1109:por
+    amending_title: DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020
+    changes:
+    - Altera Artigo 1.º — Alterações à Diretiva 2006/112/CE com efeitos a partir de 1 de janeiro de 2019
+    - Altera Limiar aplicável aos sujeitos passivos que efetuam entregas de bens abrangidas pelo artigo 33.º, alínea a), e
+      prestações de serviços abrangidas pelo artigo 58.º
+    - Altera Regime especial de vendas à distância de bens importados de territórios terceiros ou de países terceiros
+    - Altera Artigo 3.º — Alteração à Diretiva 2009/132/CE
+    - Altera Artigo 4.º — Transposição
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Alterações à Diretiva 2006/112/CE com efeitos a partir de 1 de julho de 2021
+    - Suprime Artigo 2.º — Alterações à Diretiva 2006/112/CE com efeitos a partir de 1 de janeiro de 2021
 identifiers:
   celex: 32017L2455
   eli: http://data.europa.eu/eli/dir/2017/2455/oj
@@ -49,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/89f830b5-ec67-11e7-9749-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/c1cb5dc7-d813-11ea-adf7-01aa75ed71a1.0019.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L2455-20200818
-  retrieved_at: '2026-10-22T02:49:13Z'
+  retrieved_at: '2026-10-22T16:57:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T06:37:17.097+01:00'
 integrity:
@@ -58,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:13Z'
-  notes: Texto consolidado 02017L2455-20200818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:57:09Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2017-2455.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,37 +216,19 @@ relationships:
   source: null
 article_structure:
   article_count: 6
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:13Z'
+  checked_at: '2026-10-22T16:57:09Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2017/2455 do Conselho, de 5 de dezembro de 2017
-
-> 02017L2455 — PT — 18.08.2020 — 001.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020D1109) — [DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1109) — L 244 — 3 — 29.7.2020
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32017L2455R%2801%29) — [Rectificação, JO L 125, 22.5.2018, p. 15 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32017L2455R%2804%29) — [Rectificação, JO L 225, 6.9.2018, p. 1 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2804%29)
-- [►C3](http://publications.europa.eu/resource/celex/32017L2455R%2805%29) — [Rectificação, JO L 225, 6.9.2018, p. 1 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2805%29)
-- [►C4](http://publications.europa.eu/resource/celex/32017L2455R%2806%29) — [Rectificação, JO L 245, 25.9.2019, p. 9 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2806%29)
-- [►C5](http://publications.europa.eu/resource/celex/32017L2455R%2807%29) — [Rectificação, JO L 030, 2.2.2023, p. 37 (2017/2455)](http://publications.europa.eu/resource/celex/32017L2455R%2807%29)
-
-## DIRETIVA (UE) 2017/2455 DO CONSELHO
 
 de 5 de dezembro de 2017
 

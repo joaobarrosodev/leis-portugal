@@ -38,6 +38,224 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-05'
+version_history:
+  file: regulamento-ue-2017-1129.versoes.json
+  count: 8
+  source_lastmod: '2026-06-05'
+  versions:
+  - date: '2017-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-31'
+    amending: eu:celex:32019R2115:por
+    amending_title: REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2021-03-18'
+    amending: eu:celex:32021R0337:por
+    amending_title: REGULAMENTO (UE) 2021/337 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Notas
+    - Adita Artigo 14.º-A — Prospeto UE Recuperação
+    - Adita Artigo 47.º-A — Limitação temporal do prospeto UE Recuperação
+    - Adita ANEXO V-A
+    - Adita INFORMAÇÃO MÍNIMA A INCLUIR NO PROSPETO UE RECUPERAÇÃO
+    - Adita I. Sumário
+    - Adita II. Nome do emitente, país de registo, ligação para o sítio Web do emitente
+    - Adita III. Declaração de responsabilidade e declaração relativa à autoridade competente
+    - Adita 1. Declaração de responsabilidade
+    - Adita 2. Declaração relativa à autoridade competente
+    - Adita IV. Fatores de risco
+    - Adita V. Demonstrações financeiras
+    - Adita VI. Política de dividendos
+    - Adita VII. Informação sobre tendências
+    - Adita VIII. Condições da oferta, tomadas firmes e intenções de subscrição e elementos principais dos acordos de tomada
+      firme e de colocação
+    - Adita IX. Informações essenciais sobre as ações e a sua subscrição
+    - Adita X. Motivos da oferta e afetação das receitas
+    - Adita XI. Recebimento de auxílios estatais
+    - Adita XII. Declaração relativa ao fundo de maneio
+    - Adita XIII. Capitalização e endividamento
+    - Adita XIV. Conflitos de interesses
+    - Adita XV. Diluição e estrutura acionista após a emissão
+    - Adita XVI. Documentos disponíveis
+  - date: '2021-11-10'
+    amending: eu:celex:32020R1503:por
+    amending_title: REGULAMENTO (UE) 2020/1503 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de outubro de 2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 14.º-A — Prospeto UE Recuperação
+    - Altera Artigo 19.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 45.º
+    - Altera V. Demonstrações financeiras
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 14.º-A — Prospeto UE Recuperação
+    - Altera Artigo 19.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 45.º
+    - Altera V. Demonstrações financeiras
+    - Altera Notas
+    - Adita Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-12-04'
+    amending: eu:celex:32024R2809:por
+    amending_title: REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 14.º-A — Prospeto UE Recuperação
+    - Altera Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera I. Sumário
+    - Altera DOCUMENTO DE REGISTO
+    - Altera IV. Fatores de risco
+    - Altera NOTA SOBRE OS VALORES MOBILIÁRIOS
+    - Altera XIV. Conflitos de interesses
+    - Altera XV. Diluição e estrutura acionista após a emissão
+    - Altera XVI. Documentos disponíveis
+    - Altera 2. Declaração relativa à autoridade competente
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto, âmbito de aplicação e isenções
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Obrigação de publicação de um prospeto e isenções
+    - Adita Artigo 4.º — Prospeto voluntário
+    - Adita Artigo 5.º — Revenda subsequente de valores mobiliários
+    - Adita Artigo 6.º — O prospeto
+    - Adita Artigo 7.º — O sumário do prospeto
+    - Adita Artigo 8.º — O prospeto de base
+    - Adita Artigo 9.º — Documento de registo universal
+    - Adita Artigo 10.º — Prospetos compostos por documentos separados
+    - Adita Artigo 11.º — Responsabilidade inerente ao prospeto
+    - Adita Artigo 12.º — Validade do prospeto, do documento de registo e do documento de registo universal
+    - Adita Artigo 13.º — Informações mínimas e formato
+    - Adita Artigo 14.º — Regime simplificado de divulgação de informações das emissões secundárias
+    - Adita Artigo 15.º — Prospeto UE Crescimento
+    - Adita Artigo 16.º — Fatores de risco
+    - Adita Artigo 17.º — Preço definitivo da oferta e montante definitivo de valores mobiliários
+    - Adita Artigo 18.º — Omissão de informações
+    - Adita Artigo 19.º — Inserção por remissão
+    - Adita Artigo 20.º — Verificação e aprovação do prospeto
+    - Adita Artigo 21.º — Publicação do prospeto
+    - Adita Artigo 22.º — Anúncios publicitários
+    - Adita Artigo 23.º — Adendas ao prospeto
+    - Adita Artigo 24.º — Aprovação de prospetos à escala da União
+    - Adita Artigo 25.º — Notificação de prospetos e adendas e comunicação das condições finais
+    - Adita Artigo 26.º — Notificação de documentos de registo ou de documentos de registo universal
+    - Adita Artigo 27.º — Regime linguístico
+    - Adita Artigo 28.º — Oferta de valores mobiliários ao público ou admissão à negociação num mercado regulamentado ao abrigo
+      de um prospeto elaborado nos termos do presente regulamento
+    - Adita Artigo 29.º — Equivalência
+  - date: '2026-03-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto, âmbito de aplicação e isenções
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — O sumário do prospeto
+    - Altera Artigo 9.º — Documento de registo universal
+    - Altera Artigo 19.º — Inserção por remissão
+    - Altera Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 30.º — Cooperação com os países terceiros
+    - Altera Artigo 32.º — Poderes das autoridades competentes
+    - Altera Artigo 45.º — Procedimento de comité
+    - Altera VII. Termos e condições relativos aos valores mobiliários
+    - Altera V. Informações financeiras
+    - Altera Notas
+    - Adita Artigo 14.º-A
+    - Adita Artigo 15.º-A
+    - Adita VII. Informações pormenorizadas sobre a oferta ([^19^](http://publications.europa.eu/resource/cellar/af1975a2-222d-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1#E0023))
+      ou admissão à negociação (nota sobre os valores mobiliários)
+    - Suprime Artigo 14.º — Regime simplificado de divulgação de informações das emissões secundárias
+    - Suprime Artigo 14.º-A — Prospeto UE Recuperação
+    - Suprime Artigo 15.º — Prospeto UE Crescimento
+    - Suprime VII. Informações pormenorizadas sobre a oferta ([^21^](http://publications.europa.eu/resource/cellar/d740e1a1-d7e9-11ef-be2a-01aa75ed71a1.0020.02/DOC_1#E0023))
+      ou admissão à negociação (nota sobre os valores mobiliários)
+  - date: '2026-06-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto, âmbito de aplicação e isenções
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Obrigação de publicação de um prospeto e isenções
+    - Altera Artigo 6.º — O prospeto
+    - Altera Artigo 7.º — O sumário do prospeto
+    - Altera Artigo 9.º — Documento de registo universal
+    - Altera Artigo 13.º — Informações mínimas e formato
+    - Altera Artigo 14.º-A
+    - Altera Artigo 19.º — Inserção por remissão
+    - Altera Artigo 21.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 27.º — Regime linguístico
+    - Altera Artigo 30.º — Cooperação com os países terceiros
+    - Altera Artigo 32.º — Poderes das autoridades competentes
+    - Altera Artigo 45.º — Procedimento de comité
+    - Altera VII. Termos e condições relativos aos valores mobiliários
+    - Altera V. Informações financeiras
+    - Altera Notas
+    - Adita VII. Informações pormenorizadas sobre a oferta ([^23^](http://publications.europa.eu/resource/cellar/c8d6cfb5-5ed2-11f1-aa6d-01aa75ed71a1.0020.02/DOC_1#E0027))
+      ou admissão à negociação (nota sobre os valores mobiliários)
+    - Suprime VII. Informações pormenorizadas sobre a oferta ([^19^](http://publications.europa.eu/resource/cellar/af1975a2-222d-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1#E0023))
+      ou admissão à negociação (nota sobre os valores mobiliários)
 identifiers:
   celex: 32017R1129
   eli: http://data.europa.eu/eli/reg/2017/1129/oj
@@ -52,7 +270,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c8d6cfb5-5ed2-11f1-aa6d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1129-20260605
-  retrieved_at: '2026-10-22T02:46:03Z'
+  retrieved_at: '2026-10-22T17:01:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T06:44:52.964+01:00'
 integrity:
@@ -61,9 +279,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:03Z'
-  notes: Texto consolidado 02017R1129-20260605.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:01:59Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2017-1129.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -307,33 +525,19 @@ relationships:
   date: '2004-01-09'
 article_structure:
   article_count: 51
-  section_count: 141
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 142
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:03Z'
+  checked_at: '2026-10-22T17:01:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/1129 do Parlamento Europeu e do Conselho, de 14 de junho de 2017
-
-> 02017R1129 — PT — 05.06.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R2115) — [REGULAMENTO (UE) 2019/2115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2115) — L 320 — 1 — 11.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32020R1503) — [REGULAMENTO (UE) 2020/1503 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1503) — L 347 — 1 — 20.10.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0337) — [REGULAMENTO (UE) 2021/337 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0337) — L 68 — 1 — 26.2.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M5](http://publications.europa.eu/resource/celex/32024R2809) — [REGULAMENTO (UE) 2024/2809 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2809) — L 2809 — 1 — 14.11.2024
-
-## REGULAMENTO (UE) 2017/1129 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de junho de 2017
 

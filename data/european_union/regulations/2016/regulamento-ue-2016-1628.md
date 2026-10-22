@@ -38,6 +38,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-07-17'
+version_history:
+  file: regulamento-ue-2016-1628.versoes.json
+  count: 3
+  source_lastmod: '2022-07-17'
+  versions:
+  - date: '2020-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-06-30'
+    amending: eu:celex:32021R1068:por
+    amending_title: REGULAMENTO (UE) 2021/1068 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 34.º — Isenções gerais
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Artigo 61.º — Alteração da Diretiva 97/68/CE
+    - Altera Artigo 62.º — Alteração do Regulamento (UE) n.º 1024/2012
+    - Altera Artigo 63.º — Alteração do Regulamento (UE) n.º 167/2013
+    - Altera Valores-limite de emissões de escape referidos no artigo 18.º, n.º 2
+    - Altera Períodos de durabilidade das emissões (EDP) referidos no artigo 25.º, n.º 1
+    - Altera Valores-limite de emissão dos motores para fins especiais (SPE) referidos no artigo 34.º, n.º 5
+    - Altera Notas
+  - date: '2022-07-17'
+    amending: eu:celex:32022R0992:por
+    amending_title: REGULAMENTO (UE) 2022/992 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 34.º — Isenções gerais
+    - Altera Artigo 55.º — Exercício da delegação
+    - Altera Artigo 58.º — Disposições transitórias
+    - Altera Artigo 61.º — Alteração da Diretiva 97/68/CE
+    - Altera Artigo 62.º — Alteração do Regulamento (UE) n.º 1024/2012
+    - Altera Artigo 63.º — Alteração do Regulamento (UE) n.º 167/2013
+    - Altera Valores-limite de emissões de escape referidos no artigo 18.º, n.º 2
+    - Altera Períodos de durabilidade das emissões (EDP) referidos no artigo 25.º, n.º 1
+    - Altera Valores-limite de emissão dos motores para fins especiais (SPE) referidos no artigo 34.º, n.º 5
+    - Altera Notas
 identifiers:
   celex: 32016R1628
   eli: http://data.europa.eu/eli/reg/2016/1628/oj
@@ -52,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5d1d6ef7-7bd1-11e6-b076-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9d2d217c-07bc-11ed-acce-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1628-20220717
-  retrieved_at: '2026-10-22T03:00:47Z'
+  retrieved_at: '2026-10-22T16:55:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T23:06:17.447+01:00'
 integrity:
@@ -61,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:47Z'
-  notes: Texto consolidado 02016R1628-20220717.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:52Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2016-1628.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -271,36 +309,20 @@ relationships:
   date: '1998-03-04'
 article_structure:
   article_count: 65
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:47Z'
-  warnings: []
+  checked_at: '2026-10-22T16:55:52Z'
+  warnings:
+  - '02016R1628-20160916: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2016/1628 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016
-
-> 02016R1628 — PT — 17.07.2022 — 003.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1040) — [REGULAMENTO (UE) 2020/1040 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1040) — L 231 — 1 — 17.7.2020
-- [►M2](http://publications.europa.eu/resource/celex/32021R1068) — [REGULAMENTO (UE) 2021/1068 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1068) — L 230 — 1 — 30.6.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R0992) — [REGULAMENTO (UE) 2022/992 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0992) — L 169 — 43 — 27.6.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016R1628R%2802%29) — [Rectificação, JO L 231, 6.9.2019, p. 29 (2016/1628)](http://publications.europa.eu/resource/celex/32016R1628R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32021R1068R%2801%29) — [Rectificação, JO L 233, 8.9.2022, p. 92 (2021/1068)](http://publications.europa.eu/resource/celex/32021R1068R%2801%29)
-
-## REGULAMENTO (UE) 2016/1628 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de setembro de 2016
 

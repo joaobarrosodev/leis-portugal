@@ -37,6 +37,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: regulamento-ue-2016-429.versoes.json
+  count: 3
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2016-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 81.º — Medidas de controlo de doenças aplicáveis às doenças listadas referidas no artigo 9.º, n.º 1, alínea
+      b), em animais selvagens
+    - Altera Artigo 179.º — Aprovação de estabelecimentos alimentares autorizados a manipular animais aquáticos para o controlo
+      de doenças
+    - Altera Artigo 227.º — Requisitos de saúde animal relativos a outros animais, e a produtos germinais e produtos de origem
+      animal provenientes desses outros animais
+    - Altera Artigo 229.º — Requisitos para a entrada na União de animais, produtos germinais e produtos de origem animal
+    - Altera Artigo 244.º — Âmbito de aplicação da parte VI
+    - Altera Artigo 267.º — Proteção de dados
+    - Altera Artigo 273.º — Alteração do Regulamento (CE) n.º 2160/2003
+    - Altera Artigo 278.º — Alteração do Regulamento (CE) n.º 1760/2000
+    - Altera PARTE A
+    - Altera PARTE B
+    - Altera Critérios para a aplicação das regras de prevenção e controlo de doenças referidas no artigo 9.º, n.º 1, alínea
+      c)
+    - Altera Notas
+    - Suprime Artigo 281.º — Relação com atos relativos aos controlos oficiais
+  - date: '2021-04-21'
+    amending: eu:celex:32018R1629:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/1629 DA COMISSÃO de 25 de julho de 2018
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 105.º — Obrigações de conservação de arquivos pelos operadores que efetuam operações de agrupamento
+    - Altera Artigo 179.º — Aprovação de estabelecimentos alimentares autorizados a manipular animais aquáticos para o controlo
+      de doenças
+    - Altera Artigo 244.º — Âmbito de aplicação da parte VI
+    - Altera Artigo 267.º — Proteção de dados
+    - Altera Artigo 273.º — Alteração do Regulamento (CE) n.º 2160/2003
+    - Altera Artigo 278.º — Alteração do Regulamento (CE) n.º 1760/2000
+    - Altera Notas
+    - Adita LISTA DE DOENÇAS ANIMAIS
+    - Suprime LISTA DE DOENÇAS
 identifiers:
   celex: 32016R0429
   eli: http://data.europa.eu/eli/reg/2016/429/oj
@@ -51,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9de141be-f714-11e5-abb1-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b7f35840-9c5a-11eb-b85c-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0429-20210421
-  retrieved_at: '2026-10-22T02:38:03Z'
+  retrieved_at: '2026-10-22T16:54:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T23:03:17.159+01:00'
 integrity:
@@ -60,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:03Z'
-  notes: Texto consolidado 02016R0429-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:54:05Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2016-429.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1085,37 +1131,19 @@ relationships:
   date: '2013-06-28'
 article_structure:
   article_count: 282
-  section_count: 254
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 256
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:03Z'
+  checked_at: '2026-10-22T16:54:05Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016
-
-> 02016R0429 — PT — 21.04.2021 — 002.010
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M2](http://publications.europa.eu/resource/celex/32018R1629) — [REGULAMENTO DELEGADO (UE) 2018/1629 DA COMISSÃO de 25 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1629) — L 272 — 11 — 31.10.2018
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016R0429R%2801%29) — [Rectificação, JO L 057, 3.3.2017, p. 65 (2016/429)](http://publications.europa.eu/resource/celex/32016R0429R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32016R0429R%2805%29) — [Rectificação, JO L 048, 11.2.2021, p. 3 (2016/429)](http://publications.europa.eu/resource/celex/32016R0429R%2805%29)
-- [►C4](http://publications.europa.eu/resource/celex/32016R0429R%2814%29) — [Rectificação, JO L 90366, 6.5.2025, p. 1 (2016/429)](http://publications.europa.eu/resource/celex/32016R0429R%2814%29)
-
-## REGULAMENTO (UE) 2016/429 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de março de 2016
 

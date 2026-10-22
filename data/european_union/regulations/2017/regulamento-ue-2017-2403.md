@@ -35,6 +35,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2017-2403.versoes.json
+  count: 2
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2017-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-10'
+    amending: eu:celex:32019R0498:por
+    amending_title: REGULAMENTO (UE) 2019/498 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019; REGULAMENTO (UE)
+      2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Operações de mudança de pavilhão
+    - Altera Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão
+    - Altera Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão
+    - Altera Artigo 40.º — Requisitos técnicos
+    - Altera Artigo 48.º — Entrada em vigor
+    - Altera Notas
+    - Adita Secção 4
+    - Adita Operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido
+    - Adita Artigo 18.º-A — Âmbito de aplicação
+    - Adita Artigo 18.º-B — Definição
+    - Adita Artigo 18.º-C — Procedimento para a obtenção de autorizações de pesca do Reino Unido.
+    - Adita Artigo 18.º-D — Acompanhamento
+    - Adita TÍTULO III-A
+    - Adita OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DO REINO UNIDO NAS ÁGUAS DA UNIÃO
+    - Adita Artigo 38.º-A — Âmbito de aplicação
+    - Adita Artigo 38.º-B — Operações de pesca realizadas por navios de pesca do Reino Unido
+    - Adita Artigo 38.º-C — Princípios gerais
+    - Adita Artigo 38.º-D — Procedimento de obtenção de autorizações de pesca
+    - Adita Artigo 38.º-E — Gestão das autorizações de pesca
+    - Adita Artigo 38.º-F — Encerramento das operações de pesca
+    - Adita Artigo 38.º-G — Sobrepesca de quotas nas águas da União
+    - Adita Artigo 38.º-H — Controlo e execução
+    - Adita Artigo 38.º-I — Transferências e trocas de quotas
+    - Adita ANEXO
+    - Suprime CAPÍTULO VI
+    - Suprime Operações de transbordo
+    - Suprime Artigo 28.º — Operações de transbordo
 identifiers:
   celex: 32017R2403
   eli: http://data.europa.eu/eli/reg/2017/2403/oj
@@ -49,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R2403-20260110
-  retrieved_at: '2026-10-22T03:18:34Z'
+  retrieved_at: '2026-10-22T17:03:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T01:31:17.140+01:00'
 integrity:
@@ -58,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:34Z'
-  notes: Texto consolidado 02017R2403-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:03:27Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2017-2403.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,30 +238,19 @@ relationships:
   date: '2008-10-30'
 article_structure:
   article_count: 60
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:34Z'
+  checked_at: '2026-10-22T17:03:27Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/2403 do Parlamento Europeu e do Conselho de 12 de dezembro de 2017
-
-> 02017R2403 — PT — 10.01.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0498) — [REGULAMENTO (UE) 2019/498 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019](http://publications.europa.eu/resource/celex/32019R0498) — L 85I — 25 — 27.3.2019
-- [►M2](http://publications.europa.eu/resource/celex/32023R2842) — [REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2842) — L 2842 — 1 — 20.12.2023
-
-## REGULAMENTO (UE) 2017/2403 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de dezembro de 2017,
 

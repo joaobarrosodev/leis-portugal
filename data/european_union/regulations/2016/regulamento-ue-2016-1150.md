@@ -35,6 +35,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-02-18'
+version_history:
+  file: regulamento-ue-2016-1150.versoes.json
+  count: 2
+  source_lastmod: '2017-02-18'
+  versions:
+  - date: '2016-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-02-18'
+    amending: eu:celex:32017R0256:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/256 DA COMISSÃO de 14 de fevereiro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Período de programação e a notificação da legislação nacional aplicável
+    - Altera Artigo 2.º — Alterações de programas de apoio
+    - Altera Artigo 3.º — Conteúdo dos programas de apoio
+    - Altera Artigo 4.º — Procedimento de candidatura
+    - Altera Artigo 5.º — Procedimento de candidatura
+    - Altera Artigo 8.º — Aplicação da medida de apoio
+    - Altera Artigo 18.º — Montante do apoio
+    - Altera Artigo 19.º — Relatórios e avaliação
+    - Altera Artigo 20.º — Notificações relativas a auxílios estatais
+    - Altera Artigo 21.º — Notificações relativas a adiantamentos
+    - Altera Artigo 22.º — Disposições gerais sobre notificações
+    - Altera Artigo 24.º — Reembolso simplificado dos custos
+    - Altera Artigo 30.º — Controlos administrativos
+    - Altera Artigo 33.º — Conteúdo dos controlos no local
+    - Altera Artigo 38.º — Assistência mediante pedido
+    - Altera Artigo 40.º — Recuperação de pagamentos indevidos
+    - Altera Artigo 46.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Programa de apoio nacional para 2014-2018
+    - Adita A. Descrição das medidas propostas e seus objetivos quantificados
+    - Adita ANEXO I-A
+    - Adita Programa de apoio nacional para 2019-2023
+    - Adita ANEXO II
+    - Adita Dotação financeira do programa de apoio nacional para 2014-2018 ([^9^](http://publications.europa.eu/resource/cellar/6ea5cab8-0e87-4671-bd94-100c0b202204.0015.02/DOC_1#E0015))
+    - Adita ANEXO II-A
+    - Adita Dotação financeira do programa de apoio nacional para 2019-2023 ([^10^](http://publications.europa.eu/resource/cellar/6ea5cab8-0e87-4671-bd94-100c0b202204.0015.02/DOC_1#E0019))
+    - Adita ANEXO III
+    - Adita Informações sobre a aplicação do programa de apoio nacional
+    - Adita ANEXO IV
+    - Adita Dados técnicos relativos ao programa de apoio nacional para 2014-2018 ([^13^](http://publications.europa.eu/resource/cellar/6ea5cab8-0e87-4671-bd94-100c0b202204.0015.02/DOC_1#E0026))
+    - Adita ANEXO IV-A
+    - Adita Dados técnicos relativos ao programa de apoio nacional para 2019-2023 ([^14^](http://publications.europa.eu/resource/cellar/6ea5cab8-0e87-4671-bd94-100c0b202204.0015.02/DOC_1#E0029))
+    - Adita ANEXO V
+    - Adita Notificação relativa à medida de promoção
+    - 'Adita Exercício financeiro:'
+    - Adita 1. Informação nos Estados-Membros
+    - Adita 2. Promoção em países terceiros
+    - Adita ANEXO VI
 identifiers:
   celex: 32016R1150
   eli: http://data.europa.eu/eli/reg_impl/2016/1150/oj
@@ -49,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f6e7ed7-4a46-11e6-9c64-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/6ea5cab8-0e87-4671-bd94-100c0b202204.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1150-20170218
-  retrieved_at: '2026-10-22T02:39:56Z'
+  retrieved_at: '2026-10-22T16:55:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T13:24:01.536+01:00'
 integrity:
@@ -58,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:56Z'
-  notes: Texto consolidado 02016R1150-20170218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2016-1150.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,29 +241,19 @@ relationships:
   date: '2022-12-22'
 article_structure:
   article_count: 46
-  section_count: 62
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 63
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:56Z'
+  checked_at: '2026-10-22T16:55:33Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016
-
-> 02016R1150 — PT — 18.02.2017 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0256) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/256 DA COMISSÃO de 14 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0256) — L 38 — 37 — 15.2.2017
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2016/1150 DA COMISSÃO
 
 de 15 de abril de 2016
 

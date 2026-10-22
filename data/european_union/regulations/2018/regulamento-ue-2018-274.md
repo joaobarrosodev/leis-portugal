@@ -38,6 +38,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-12'
+version_history:
+  file: regulamento-ue-2018-274.versoes.json
+  count: 4
+  source_lastmod: '2025-03-12'
+  versions:
+  - date: '2020-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-06-29'
+    amending: eu:celex:32021R1007:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1007 DA COMISSÃO de 18 de junho de 2021
+    changes:
+    - Altera Artigo 27.º — Amostras para o banco de dados analítico
+    - Altera Artigo 33.º — Notificações no âmbito do regime de autorização para plantações de vinha
+    - Altera PARTE II
+    - Altera Instruções para a colheita de uvas frescas e sua transformação em vinho para análise pelos métodos isotópicos
+      referidos no artigo 27.º
+    - Altera Questionário relativo à colheita e à vinificação das amostras de uvas para efeitos de análise pelos métodos isotópicos
+      a que se refere o artigo 27.º, n.º 5
+    - Altera Modelo de boletim de análise de amostras de vinho e de produtos vitivinícolas analisadas pelo método recomendado
+      e publicado pela OIV, a que se refere o artigo 27.º, n.º 5
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea a)
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea e)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea a)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 1, alínea c), e n.º 2, alínea b)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea c)
+    - Altera Notas
+    - Adita Artigo 28.º
+    - Adita Comunicação de informações constantes do banco de dados analítico em caso de suspeita de incumprimento das regras
+      da União no setor vitivinícola
+    - Adita Artigo 32.º-A — Controlos dos produtos vitivinícolas não acondicionados
+    - Suprime Artigo 28.º — Comunicação de informações constantes do banco de dados analítico
+    - Suprime A. Rótulo descritivo da amostra, em conformidade com a parte I, ponto 3
+    - Suprime B. Modelo do rótulo vermelho referido na parte I, ponto 6
+    - Suprime A. Colheita das uvas
+    - Suprime B. Vinificação
+    - Suprime 1. Informações gerais
+    - Suprime 2. Descrição geral da amostra
+    - Suprime 3. Descrição da vinha
+    - Suprime 4. Características da vindima e do mosto
+    - Suprime 5. Condições meteorológicas anteriores à vindima
+    - Suprime 6. Vinhas de regadio
+    - Suprime 1. Microvinificação
+    - Suprime 2. Quadro cronológico da vinificação da amostra
+    - Suprime A. INFORMAÇÕES GERAIS
+    - Suprime B. MÉTODOS E RESULTADOS
+  - date: '2022-12-30'
+    amending: eu:celex:32022R2567:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2567 DA COMISSÃO de 13 de outubro de 2022
+    changes:
+    - Altera Artigo 3.º — Decisões preliminares sobre as superfícies a disponibilizar para novas plantações
+    - Altera Artigo 4.º — Critérios para concessão de autorizações para novas plantações
+    - Altera Artigo 6.º — Apresentação de pedidos de novas plantações
+    - Altera Artigo 10.º — Procedimento para a concessão de autorizações nos termos das disposições transitórias
+    - Altera Artigo 33.º — Notificações no âmbito do regime de autorização para plantações de vinha
+    - Altera B. ATRIBUIÇÃO SEGUNDO OS CRITÉRIOS DE PRIORIDADE
+    - Altera Número de amostras a colher anualmente pelos Estados-Membros para o banco de dados analítico referido no artigo
+      27.º, n.º 3
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea a)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 1, alínea b)
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea e)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea a)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 1, alínea c), e n.º 2, alínea b)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea c)
+    - Altera Notas
+  - date: '2025-03-12'
+    amending: eu:celex:32025R0340:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/340 DA COMISSÃO de 19 de fevereiro de 2025
+    changes:
+    - Altera Artigo 9.º — Procedimento para a concessão de autorizações para replantações
+    - Altera Artigo 33.º — Notificações no âmbito do regime de autorização para plantações de vinha
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea a)
+    - Altera Formulário para a comunicação referida no artigo 33.º, n.º 1, alínea e)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea a)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 1, alínea c), e n.º 2, alínea b)
+    - Altera Formulário para as notificações referidas no artigo 33.º, n.º 2, alínea c)
+    - Altera Notas
 identifiers:
   celex: 32018R0274
   eli: http://data.europa.eu/eli/reg_impl/2018/274/oj
@@ -52,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e57f2fb-1c55-11e8-ac73-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/55f11393-0988-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0274-20250312
-  retrieved_at: '2026-10-22T03:00:57Z'
+  retrieved_at: '2026-10-22T17:05:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T17:28:39.646+01:00'
 integrity:
@@ -61,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:57Z'
-  notes: Texto consolidado 02018R0274-20250312.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:27Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-274.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,32 +260,20 @@ relationships:
   date: '2015-04-09'
 article_structure:
   article_count: 38
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 56
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:57Z'
-  warnings: []
+  checked_at: '2026-10-22T17:05:27Z'
+  warnings:
+  - '02018R0274-20180228: versão indisponível (Sem expressão na língua por para CELEX 02018R0274-20180228.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2018/274 da Comissão, de 11 de dezembro de 2017
-
-> 02018R0274 — PT — 12.03.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32020R1547) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1547 DA COMISSÃO de 23 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1547) — L 354 — 4 — 26.10.2020
-- [►M2](http://publications.europa.eu/resource/celex/32021R1007) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1007 DA COMISSÃO de 18 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1007) — L 222 — 8 — 22.6.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R2567) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2567 DA COMISSÃO de 13 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2567) — L 330 — 139 — 23.12.2022
-- [►M4](http://publications.europa.eu/resource/celex/32025R0340) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/340 DA COMISSÃO de 19 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0340) — L 340 — 1 — 20.2.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2018/274 DA COMISSÃO
 
 de 11 de dezembro de 2017
 

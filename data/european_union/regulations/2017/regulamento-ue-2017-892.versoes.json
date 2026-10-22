@@ -1,0 +1,1224 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R0892:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0892-20251224",
+ "dre_path": null,
+ "source_lastmod": "2025-12-24",
+ "versions": [
+  {
+   "date": "2022-04-01",
+   "future": false,
+   "celex": "02017R0892-20220401",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a0a578e78c27aac0",
+    "226c39ffd0a88dad",
+    "5d82bf52e17aa0fb",
+    "9b406af514eb9164",
+    "8a31f2783bdd9e68",
+    "b8b6dac0a6a7d982",
+    "c42c0c2b3cabd519",
+    "c890682d4443d92f",
+    "aa2b83153ec816b0",
+    "66dd048fecd1c208",
+    "0fe2caf79f1589d7",
+    "da0699ae7a33800a",
+    "512c9bf71f673f52",
+    "5cadad3bdaa77ee2",
+    "ac8387eef8dd0a6f",
+    "b5ab561f091269aa",
+    "4c23bc0b384a18cb",
+    "8afd402e5bfe5626",
+    "07da147cd40a3df8",
+    "4a60c7587f05478e",
+    "c417583cc00f4786",
+    "2768a2251dbd0461",
+    "f0f8c960bfdbce9b",
+    "3f6b3caaad31cf12",
+    "ccba71317415f964",
+    "fe5556a27b357c15",
+    "7ccedc10f9a88ceb",
+    "38eb1ec9f4cd861c",
+    "6e6d2aba8c6b31b8",
+    "1ecfc79da3f1ac7f",
+    "5d128a018ed0d7fd",
+    "9b406af514eb9164",
+    "f0d8195e044b2877",
+    "9a25217feab9d5d5",
+    "c42c0c2b3cabd519",
+    "14c147f5716f044d",
+    "94ce46ab7e452bd4",
+    "d65b3f7b4e5b8cf5",
+    "dc3381cdb556fcd1",
+    "26658db6851d577b",
+    "58e9d82d49d78ae3",
+    "39bba4eb9b60ed48",
+    "1fe2c050b687ba6f",
+    "721f26a39fe5fe14",
+    "ec6459c0ee0862a7",
+    "65d5788bbc6f4a0c",
+    "270cf438ca69bf64",
+    "a967046eaa0b92a2",
+    "9498d3504635551a",
+    "91e21b231a1ca77d",
+    "40ed6b62e188ac6f",
+    "09da973bd6744369",
+    "69b57af3350ddd75",
+    "93d008df78ac6a39",
+    "b76d202a844f758e",
+    "0f5aec8708e82b39",
+    "b6ef2954f74c80e5",
+    "7fd045ac4f655f13",
+    "a9cbbe6b2e0a2f9b",
+    "4e72e2da08665ef2",
+    "91b2e7a1a461f416",
+    "c3b8abb89cda8138",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "dd531f2a2d685202",
+    "d664376e2a8dcecd",
+    "d5e9dfd76a0a1ada",
+    "5f6f6f479d601970",
+    "17d7241821ce5de9",
+    "1958acc48fe519de",
+    "fcce07ddcbdae2ba",
+    "07d58d7c44a6506a",
+    "852174729551523b",
+    "cd65c83cfeb84c3e",
+    "74bb53707a7ab82a",
+    "57883a8854ab7590",
+    "fdb9d994add39b02",
+    "625918758235c189",
+    "5c0f1d152195b0d0",
+    "e0e51c96145e80e8",
+    "ba987f59a61c1ddf",
+    "dc07becb9a0cd284",
+    "00c0d636115ff831",
+    "a0ea28675a8475b6",
+    "22528750cf657ad9",
+    "0ddaef9178129549",
+    "255cae933d0309ef",
+    "1256404eb138f22b",
+    "2c88d11f2e49f60f",
+    "255cae933d0309ef",
+    "4a4c1c83579af175",
+    "0f191ee13f113881",
+    "255cae933d0309ef",
+    "98a62129ee213197",
+    "5586e9989c963ce2",
+    "255cae933d0309ef",
+    "e5fae8c96a7d5068",
+    "35091f30a5c3ac12",
+    "720af75c92791b10",
+    "8e4376567b0c3d98",
+    "e03a0eb4d5b2eef3",
+    "70d8e671e3f5f05b",
+    "64610ae29a6cb67c",
+    "9e5c1b16afe3cab7",
+    "90c7d2baf4d44ee2",
+    "d66915d1262ae5dc",
+    "d46ca50274582635",
+    "896fcf8271e221c6",
+    "96fc0b39adecf1c4"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "02017R0892-20230101",
+   "acts": [
+    {
+     "id": "eu:celex:32022R2091:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32022R2091"
+    },
+    {
+     "id": "eu:celex:32022R2532:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/2532 DA COMISSÃO de 1 de dezembro de 2022",
+     "published": null,
+     "celex": "32022R2532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º — Valores forfetários de importação",
+    "Altera Notas",
+    "Suprime Artigo 2.º — Estratégia nacional de sustentabilidade para os programas operacionais",
+    "Suprime Artigo 3.º — Quadro nacional para as ações ambientais e os investimentos elegíveis",
+    "Suprime Artigo 4.º — Teor dos programas operacionais",
+    "Suprime Artigo 5.º — Documentos a apresentar juntamente com o programa operacional",
+    "Suprime Artigo 6.º — Prazo de apresentação",
+    "Suprime Artigo 7.º — Períodos de execução dos programas operacionais",
+    "Suprime Artigo 8.º — Montante aprovado da ajuda",
+    "Suprime Artigo 8.º-A — Execução do aumento do limite da assistência financeira da União de 50 % para 60 %",
+    "Suprime Artigo 9.º — Pedidos de ajuda",
+    "Suprime Artigo 10.º — Pagamento da ajuda",
+    "Suprime Artigo 11.º — Adiantamentos",
+    "Suprime Artigo 12.º — Pagamentos parciais",
+    "Suprime Artigo 13.º — Medidas de formação e intercâmbio de melhores práticas",
+    "Suprime Artigo 14.º — Ações de promoção e comunicação",
+    "Suprime Artigo 15.º — Normas de comercialização dos produtos retirados",
+    "Suprime Artigo 16.º — Custos de transporte relacionados com a distribuição gratuita",
+    "Suprime Artigo 17.º — Despesas de triagem e de embalagem para a distribuição gratuita",
+    "Suprime Artigo 21.º — Informações e relatórios anuais de agrupamentos de produtores, organizações de produtores e associações de organizações de produtores e relatórios anuais dos Estados-Membros",
+    "Suprime Artigo 25.º — Aprovação dos programas operacionais e das respetivas alterações",
+    "Suprime Artigo 26.º — Controlos administrativos",
+    "Suprime Artigo 27.º — Controlos in loco dos pedidos de ajuda anuais",
+    "Suprime Artigo 28.º — Relatórios dos controlos in loco",
+    "Suprime Artigo 29.º — Controlos de primeiro nível das operações de retirada",
+    "Suprime Artigo 30.º — Controlos de segundo nível das operações de retirada",
+    "Suprime Artigo 31.º — Colheita em verde e não colheita",
+    "Suprime Artigo 32.º — Organizações transnacionais de produtores",
+    "Suprime Artigo 33.º — Associações transnacionais de organizações de produtores",
+    "Suprime Artigo 34.º — Controlos",
+    "Suprime Artigo 35.º — Erros manifestos",
+    "Suprime ANEXO I",
+    "Suprime Estrutura e teor de uma estratégia nacional de sustentabilidade para os programas operacionais a que se refere o artigo 2.º",
+    "Suprime 1. Duração da estratégia nacional",
+    "Suprime 2. Análise da situação em termos de pontos fortes e pontos fracos, e do potencial de desenvolvimento, estratégia escolhida para o efeito e justificação das prioridades definidas, em conformidade com o artigo 36.º, n.º 2, alíneas a) e b), do Regulamento (UE) n.º 1308/2013",
+    "Suprime 3. Objetivos dos programas operacionais e indicadores de desempenho, conforme referido no artigo 36.º, n.º 2, alínea c), do Regulamento (UE) n.º 1308/2013",
+    "Suprime 4. Designação das autoridades e organismos competentes",
+    "Suprime 5. Descrição dos sistemas de acompanhamento e avaliação",
+    "Suprime ANEXO II",
+    "Suprime Relatório anual — Parte A",
+    "Suprime ESTRUTURA DO RELATÓRIO ANUAL — PARTE A",
+    "Suprime 1. Informações administrativas",
+    "Suprime 2. Informações sobre organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores, associações transnacionais de organizações de produtores e agrupamentos de produtores",
+    "Suprime 3. Informações relativas a despesas",
+    "Suprime 4. Acompanhamento de programas operacionais/planos de reconhecimento",
+    "Suprime Notas explicativas",
+    "Suprime Abreviaturas",
+    "Suprime Códigos dos países",
+    "Suprime Códigos das regiões",
+    "Suprime Número de código (Cód.) das OP, OTP, AOP, ATOP e AP",
+    "Suprime Valores monetários",
+    "Suprime Ponto de contacto/comunicação",
+    "Suprime INFORMAÇÕES ADMINISTRATIVAS",
+    "Suprime INFORMAÇÕES RELATIVAS AOS OP, OTP, AOP, ATOP E AP",
+    "Suprime INFORMAÇÃO SOBRE AS DESPESAS",
+    "Suprime SECÇÃO 4",
+    "Suprime ACOMPANHAMENTO DOS PROGRAMAS OPERACIONAIS",
+    "Suprime ANEXO III",
+    "Suprime Requisitos mínimos dos produtos retirados, referidos no artigo 15.º, n.º 2",
+    "Suprime ANEXO IV",
+    "Suprime Despesas de transporte no âmbito da distribuição gratuita referidas no artigo 16.º, n.º 1",
+    "Suprime ANEXO V",
+    "Suprime Despesas de triagem e de embalagem referidas no artigo 17.º, n.º 1",
+    "Suprime ANEXO VI",
+    "Suprime Menções a inscrever nas embalagens dos produtos referidas no artigo 17.º, n.º 2"
+   ],
+   "fragments": [
+    "a0a578e78c27aac0",
+    "226c39ffd0a88dad",
+    "5d82bf52e17aa0fb",
+    "9b406af514eb9164",
+    "8a31f2783bdd9e68",
+    "b8b6dac0a6a7d982",
+    "c42c0c2b3cabd519",
+    "c890682d4443d92f",
+    "ac8387eef8dd0a6f",
+    "b5ab561f091269aa",
+    "f0f8c960bfdbce9b",
+    "3f6b3caaad31cf12",
+    "1ecfc79da3f1ac7f",
+    "5d128a018ed0d7fd",
+    "9b406af514eb9164",
+    "f0d8195e044b2877",
+    "c42c0c2b3cabd519",
+    "14c147f5716f044d",
+    "94ce46ab7e452bd4",
+    "d65b3f7b4e5b8cf5",
+    "dc3381cdb556fcd1",
+    "40ed6b62e188ac6f",
+    "09da973bd6744369",
+    "69b57af3350ddd75",
+    "93d008df78ac6a39",
+    "b76d202a844f758e",
+    "0f5aec8708e82b39",
+    "f8a6638f6a2d9e21",
+    "7fd045ac4f655f13",
+    "a9cbbe6b2e0a2f9b",
+    "4e72e2da08665ef2",
+    "91b2e7a1a461f416",
+    "c3b8abb89cda8138",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "dd531f2a2d685202",
+    "d46ca50274582635",
+    "896fcf8271e221c6",
+    "617ee47e0df0718b"
+   ]
+  },
+  {
+   "date": "2025-12-24",
+   "future": false,
+   "celex": "02017R0892-20251224",
+   "acts": [
+    {
+     "id": "eu:celex:32025R2185:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2025/2185 DA COMISSÃO de 10 de setembro de 2025",
+     "published": null,
+     "celex": "32025R2185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º — Valores forfetários de importação",
+    "Altera Artigo 39.º — Imposição de um direito de importação adicional",
+    "Altera Artigo 40.º — Montante do direito de importação adicional",
+    "Altera Artigo 41.º — Isenções do direito de importação adicional",
+    "Altera Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º",
+    "Altera Notas",
+    "Adita Artigo 23.º — Pedidos de reconhecimento",
+    "Suprime Artigo 23.º — Procedimentos de apresentação de pedidos"
+   ],
+   "fragments": [
+    "a0a578e78c27aac0",
+    "226c39ffd0a88dad",
+    "5d82bf52e17aa0fb",
+    "9b406af514eb9164",
+    "8a31f2783bdd9e68",
+    "b8b6dac0a6a7d982",
+    "c42c0c2b3cabd519",
+    "c890682d4443d92f",
+    "ac8387eef8dd0a6f",
+    "b5ab561f091269aa",
+    "f0f8c960bfdbce9b",
+    "3f6b3caaad31cf12",
+    "1ecfc79da3f1ac7f",
+    "5d128a018ed0d7fd",
+    "9b406af514eb9164",
+    "f0d8195e044b2877",
+    "c42c0c2b3cabd519",
+    "14c147f5716f044d",
+    "94ce46ab7e452bd4",
+    "08d1415bab3b6382",
+    "dc3381cdb556fcd1",
+    "40ed6b62e188ac6f",
+    "09da973bd6744369",
+    "69b57af3350ddd75",
+    "93d008df78ac6a39",
+    "b76d202a844f758e",
+    "0f5aec8708e82b39",
+    "94d10890b608ee35",
+    "7fd045ac4f655f13",
+    "a9cbbe6b2e0a2f9b",
+    "581e077c44edb37f",
+    "a336a9b4785c82b0",
+    "70e6df633e2eb7f1",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "dd531f2a2d685202",
+    "d46ca50274582635",
+    "6273265ff61c2fb5",
+    "11d30b1d99e93ecd"
+   ]
+  }
+ ],
+ "fragments": {
+  "a0a578e78c27aac0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de março de 2017\n\nque estabelece regras de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no respeitante aos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "5d82bf52e17aa0fb": {
+   "fragment_id": "ORGANIZAÇÕES DE PRODUTORES",
+   "type": "divisao",
+   "heading": "ORGANIZAÇÕES DE PRODUTORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANIZAÇÕES DE PRODUTORES"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "8a31f2783bdd9e68": {
+   "fragment_id": "Disposições preliminares",
+   "type": "divisao",
+   "heading": "Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições preliminares"
+  },
+  "b8b6dac0a6a7d982": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece regras de execução do Regulamento (UE) n.º 1308/2013 no respeitante aos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados.\n\n2. Os títulos I a V só são aplicáveis aos produtos do setor das frutas e produtos hortícolas referidos no artigo 1.º, n.º 2, alínea i), do Regulamento (UE) n.º 1308/2013 e a tais produtos destinados exclusivamente a transformação."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "c890682d4443d92f": {
+   "fragment_id": "Programas operacionais",
+   "type": "divisao",
+   "heading": "Programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Programas operacionais"
+  },
+  "aa2b83153ec816b0": {
+   "fragment_id": "Artigo 2.º — Estratégia nacional de sustentabilidade para os programas operacionais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Estratégia nacional de sustentabilidade para os programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estratégia nacional de sustentabilidade para os programas operacionais\n\nA estrutura e o teor da estratégia nacional referida no artigo 36.º, n.º 2, do Regulamento (UE) n.º 1308/2013 são estabelecidos no anexo I do presente regulamento."
+  },
+  "66dd048fecd1c208": {
+   "fragment_id": "Artigo 3.º — Quadro nacional para as ações ambientais e os investimentos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Quadro nacional para as ações ambientais e os investimentos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Quadro nacional para as ações ambientais e os investimentos elegíveis\n\n1. Uma secção separada do quadro nacional referido no artigo 36.º, n.º 1, do Regulamento (UE) n.º 1308/2013 indica os requisitos, estabelecidos no artigo 28.º do Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0001)), que as ações ambientais selecionadas no âmbito de um programa operacional devem cumprir.\n\nO quadro nacional deve estabelecer uma lista não exaustiva das ações ambientais, e condições a que estas estão sujeitas, aplicáveis no Estado-Membro para efeitos do artigo 33.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nA lista a que se refere o segundo parágrafo pode incluir os seguintes tipos de ações ambientais:\n\na) Ações idênticas aos compromissos ligados ao agroambiente e clima ou à agricultura biológica a que se referem os artigos 28.º e 29.º do Regulamento (UE) n.º 1305/2013, respetivamente, e que estão previstas no âmbito do programa de desenvolvimento rural do Estado-Membro em causa;\n\nb) Investimentos benéficos para o ambiente;\n\nc) Outras ações benéficas para o ambiente, incluindo as que não incidem direta ou indiretamente numa parcela específica, mas que estão ligadas ao setor das frutas e produtos hortícolas, desde que contribuam para a proteção dos solos, a poupança de água ou de energia, a manutenção ou o melhoramento da qualidade da água, dos habitats e da proteção da biodiversidade, a mitigação das alterações climáticas e a redução ou a melhoria da gestão dos resíduos.\n\nPara cada ação ambiental a que se refere o terceiro parágrafo, alíneas b) e c), o quadro nacional deve indicar:\n\na) A justificação da ação, com base no seu impacto ambiental; e\n\nb) O(s) compromisso(s) específico(s) dela decorrente(s).\n\nO quadro nacional deve incluir, pelo menos, uma ação relativa à aplicação das práticas da proteção integrada.\n\n2. As ações ambientais idênticas aos compromissos ligados ao agroambiente e clima ou à agricultura biológica apoiadas no âmbito de um programa de desenvolvimento rural devem ter a mesma duração que esses compromissos. Se a duração da ação exceder a do programa operacional inicial, a ação deve prosseguir num programa operacional subsequente.\n\nOs Estados-Membros podem autorizar ações ambientais de mais curta duração, ou mesmo a sua cessação, em casos devidamente justificados, nomeadamente tendo em conta os resultados da avaliação no penúltimo ano de execução do programa operacional a que se refere o artigo 57.º, n.º 3, do Regulamento Delegado (UE) 2017/891.\n\n3.\n\nSão elegíveis para receber apoio os investimentos benéficos para o ambiente realizados nas instalações das organizações de produtores, associações de organizações de produtores ou filiais que cumpram o requisito dos 90 % a que se refere o artigo 22.º, n.º 8, do Regulamento Delegado (UE) 2017/891, ou nas instalações dos seus membros produtores, desde que:\n\na) Possam reduzir a atual utilização de fatores de produção, a emissão de poluentes ou os resíduos resultantes do processo de produção; ou\n\nb) Possam permitir a substituição da utilização de fontes de energia fósseis por fontes de energia renováveis; ou\n\nc) Possam reduzir os riscos ambientais associados à utilização de certos fatores de produção, como os produtos fitossanitários ou os fertilizantes; ou\n\nd) Permitam melhorar o ambiente; ou\n\ne) Estejam ligados a investimentos não produtivos necessários para atingir os objetivos de um compromisso ligado ao agroambiente e clima ou à agricultura biológica, em especial quando esses objetivos digam respeito à proteção dos habitats e da biodiversidade.\n\n4.\n\nOs investimentos referidos no n.º 3, alínea a), são elegíveis para apoio se previrem uma redução de, pelo menos, 15 %, calculada ao longo do período de amortização fiscal do investimento em relação à situação anterior:\n\na) Da utilização de fatores de produção que sejam recursos naturais não renováveis, como a água ou os combustíveis fósseis, ou que sejam possíveis fontes de poluição ambiental, tal como os fertilizantes, os produtos fitossanitários ou certos tipos de fontes de energia;\n\nb) Da emissão de poluentes do ar, do solo ou da água resultantes do processo de produção; ou\n\nc) Da produção de resíduos, incluindo de águas residuais, resultantes do processo de produção.\n\nEm derrogação ao primeiro parágrafo, os Estados-Membros podem aceitar os investimentos que permitam uma redução de, pelo menos, 7 %, calculada ao longo do período de amortização fiscal do investimento em relação à situação anterior, desde que esses investimentos permitam pelo menos um benefício ambiental adicional.\n\nA redução prevista e, se for caso disso, o benefício ambiental adicional esperados devem ser demonstrados *ex ante* através de especificações do projeto ou de outros documentos técnicos a apresentar pela organização de produtores ou associação de organizações de produtores, no momento da apresentação para aprovação do programa operacional proposto ou da alteração de um tal programa, que indiquem os resultados obtíveis com a execução do investimento, certificados pelos documentos técnicos ou por um organismo ou perito independente qualificado aprovado pelo Estado-Membro.\n\nOs investimentos destinados a reduzir a utilização de água devem:\n\na) Prever uma redução de, pelo menos, 5 % do consumo de água na irrigação gota a gota, ou noutros sistemas semelhantes, em comparação com o consumo antes do investimento, e\n\nb) Não resultar no aumento líquido da superfície irrigada, salvo se o consumo total de água para irrigação de toda a exploração, incluindo a superfície acrescida, não ultrapassar a média do consumo de água dos 5 anos anteriores, antes de o investimento ser efetuado.\n\n5. Os investimentos referidos no n.º 3, alínea b), que consistem em sistemas de produção de energia são elegíveis para apoio se a quantidade de energia produzida não exceder a quantidade que pode ser utilizada *ex ante* numa base anual, para as ações relativas a frutas e produtos hortícolas, pela organização de produtores, associação de organizações de produtores, filial ou membros de organizações de produtores que beneficiam do investimento.\n\n6. Os investimentos referidos no n.º 3, alíneas c) e d), são elegíveis para apoio se contribuírem para a proteção dos solos, a poupança de água ou de energia, a manutenção ou o melhoramento da qualidade da água, os habitats e a proteção da biodiversidade, a mitigação das alterações climáticas e a redução ou a melhoria da gestão dos resíduos, apesar de o seu contributo não ser quantificável.\n\nAquando da apresentação para aprovação do programa operacional proposto ou da alteração de tal programa, a organização de produtores ou a associação de organizações de produtores deve apresentar elementos de prova de que os mesmos contribuem de forma positiva para um ou mais objetivos ambientais. A autoridade nacional competente pode exigir que as provas sejam apresentadas sob a forma de especificações do projeto certificadas por um organismo ou perito independente qualificado nos domínios ambientais em causa.\n\n7.\n\nAs ações ambientais devem obedecer às seguintes regras:\n\na) Desde que sejam complementares e compatíveis, podem ser combinadas várias ações ambientais. Quando forem combinadas ações ambientais que não investimentos em ativos físicos, o nível de apoio deve ter em conta os custos adicionais e as perdas de rendimento específicas e decorrentes dessa combinação;\n\nb) Os compromissos no sentido de limitar a utilização de adubos, produtos fitossanitários ou outros fatores de produção só serão aceites se essas limitações puderem ser avaliadas de um modo que proporcione uma garantia do cumprimento dos compromissos;\n\nc) Os investimentos benéficos para o ambiente referidos no n.º 3 são totalmente elegíveis para apoio."
+  },
+  "0fe2caf79f1589d7": {
+   "fragment_id": "Artigo 4.º — Teor dos programas operacionais",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Teor dos programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Teor dos programas operacionais\n\n1.\n\nOs programas operacionais devem incluir os seguintes elementos:\n\na) Uma descrição da situação inicial, baseada, se for caso disso, nos indicadores constantes do anexo II, quadro 4.1;\n\nb) Os objetivos do programa, atendendo às perspetivas em matéria de produção e de mercados, com uma explicação da forma como o programa tenciona contribuir para os objetivos da estratégia nacional e é coerente com os mesmos, inclusive no que diz respeito ao equilíbrio entre atividades. A descrição dos objetivos deve indicar metas mensuráveis que facilitem o acompanhamento dos progressos gradualmente realizados na execução do programa;\n\nc) As medidas propostas, incluindo as medidas de prevenção e gestão de crises;\n\nd) A duração do programa; e\n\ne) Os aspetos financeiros, nomeadamente:\n\ni) o método de cálculo e o nível das contribuições financeiras,\n\nii) o procedimento de financiamento do programa operacional,\n\niii) os dados necessários para justificar níveis diferentes de contribuições, e\n\niv) o orçamento e o calendário das operações relativamente a cada ano de execução do programa.\n\n2.\n\nOs programas operacionais devem:\n\na) Indicar em que medida as diversas medidas são complementares e coerentes entre si, incluindo as medidas financiadas ou elegíveis para apoio no âmbito de outros fundos da União, em especial ao abrigo do Regulamento (UE) n.º 1305/2013 e de programas de promoção aprovados ao abrigo do Regulamento (UE) n.º 1144/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0002)). Deve ser feita referência específica, se for caso disso, a medidas executadas no âmbito de programas operacionais anteriores; e\n\nb) Indicar que não implicam um risco de financiamento duplo pelos fundos da União."
+  },
+  "da0699ae7a33800a": {
+   "fragment_id": "Artigo 5.º — Documentos a apresentar juntamente com o programa operacional",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Documentos a apresentar juntamente com o programa operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Documentos a apresentar juntamente com o programa operacional\n\nOs programas operacionais devem ser acompanhados:\n\na) De elementos comprovativos da criação de um fundo operacional;\n\nb) Do compromisso escrito da organização de produtores de que respeitará o disposto no Regulamento (UE) n.º 1308/2013, no Regulamento Delegado (UE) 2017/891 e no presente regulamento; e\n\nc) Do compromisso escrito da organização de produtores de que não beneficiou nem beneficiará, direta ou indiretamente, de qualquer outro financiamento da União ou nacional relativamente às ações elegíveis para ajuda a título do Regulamento (UE) n.º 1308/2013 no setor das frutas e produtos hortícolas."
+  },
+  "512c9bf71f673f52": {
+   "fragment_id": "Artigo 6.º — Prazo de apresentação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Prazo de apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prazo de apresentação\n\n1. Os programas operacionais devem ser apresentados pela organização de produtores, para aprovação, à autoridade competente do Estado-Membro em que a organização de produtores tem a sua sede, até 15 de setembro do ano anterior ao da sua execução. No entanto, os Estados-Membros podem fixar uma data posterior a 15 de setembro.\n\n2. Quando uma pessoa coletiva, ou uma parte claramente definida de uma pessoa coletiva, incluindo um agrupamento de produtores, em conformidade com o artigo 125.º-E do Regulamento (CE) n.º 1234/2007, ou um agrupamento de produtores referido no artigo 27.º do Regulamento (UE) n.º 1305/2013 apresentar um pedido de reconhecimento na qualidade de organização de produtores, pode apresentar simultaneamente, para aprovação, o programa operacional referido no n.º 1. A aprovação do programa operacional está condicionada à obtenção do reconhecimento o mais tardar na data-limite fixada no artigo 33.º, n.º 2, do Regulamento Delegado (UE) 2017/891."
+  },
+  "5cadad3bdaa77ee2": {
+   "fragment_id": "Artigo 7.º — Períodos de execução dos programas operacionais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Períodos de execução dos programas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Períodos de execução dos programas operacionais\n\n1. Os programas operacionais são executados por períodos anuais compreendidos entre 1 de janeiro e 31 de dezembro.\n\n2. A execução de um programa operacional aprovado até 15 de dezembro começa em 1 de janeiro do ano seguinte.\n\nA execução dos programas aprovados depois de 15 de dezembro é adiada por um ano.\n\n3. Em derrogação ao n.º 2, caso se aplique o artigo 33.º, n.º 2, terceiro parágrafo, ou o artigo 34.º, n.º 1, segundo parágrafo, do Regulamento Delegado (UE) 2017/891, a execução dos programas operacionais aprovados em conformidade com essas disposições tem início, o mais tardar, no dia 31 de janeiro seguinte à sua aprovação."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "b5ab561f091269aa": {
+   "fragment_id": "Ajuda",
+   "type": "divisao",
+   "heading": "Ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ajuda"
+  },
+  "4c23bc0b384a18cb": {
+   "fragment_id": "Artigo 8.º — Montante aprovado da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Montante aprovado da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Montante aprovado da ajuda\n\nOs Estados-Membros devem notificar as organizações de produtores e as associações de organizações de produtores do montante aprovado da ajuda, até 15 de dezembro do ano anterior àquele para o qual a ajuda é pedida.\n\nEm derrogação ao primeiro parágrafo, caso se aplique o artigo 33.º, n.º 2, terceiro parágrafo, ou o artigo 34.º, n.º 1, segundo parágrafo, do Regulamento Delegado (UE) 2017/891, os Estados-Membros devem notificar as organizações e associações em causa do montante aprovado da ajuda até 20 de janeiro do ano para o qual a ajuda é pedida."
+  },
+  "8afd402e5bfe5626": {
+   "fragment_id": "Artigo 8.º-A — Execução do aumento do limite da assistência financeira da União de 50 % para 60 %",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A — Execução do aumento do limite da assistência financeira da União de 50 % para 60 %",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A — Execução do aumento do limite da assistência financeira da União de 50 % para 60 %\n\n1.\n\nO aumento de 50 % para 60 % do limite da assistência financeira da União a um programa operacional ou uma parte de um programa operacional de uma organização de produtores reconhecida, como referido no artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013, será concedido se:\n\na) se cumprirem, em todos os anos de execução do programa operacional, as condições enumeradas no artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013, de acordo com o procedimento a que se refere o artigo 9.º, n.º 2, alínea g), do presente regulamento;\n\nb) a organização de produtores, reconhecida à data da apresentação do respetivo programa operacional, apresentar um pedido.\n\n2. Para efeitos do aumento de 50 % para 60 % do limite da assistência financeira da União a um programa operacional ou uma parte de um programa operacional, a taxa de comercialização de frutas e produtos hortícolas por organizações de produtores a que se refere o artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013 deve ser calculada para cada ano de vigência do programa operacional como parte do valor total da produção de frutas e produtos hortícolas comercializada pelas organizações de produtores num determinado Estado-Membro no período de referência estabelecido no artigo 23.º, n.º 1, do Regulamento (UE) 2017/891.\n\nTodavia, os Estados-Membros que apliquem o método alternativo estabelecido no artigo 23.º, n.º 3, do Regulamento Delegado (UE) 2017/891 devem calcular a taxa de comercialização de frutas e produtos hortícolas por organizações de produtores a que se refere o artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013 para cada ano de vigência do programa operacional como parte do valor total da produção de frutas e produtos hortícolas comercializada pelas organizações de produtores num determinado Estado-Membro entre 1 de janeiro e 31 de dezembro do ano anterior ao ano em que a ajuda é aprovada em conformidade com o artigo 8.º do presente regulamento.\n\n3. Os Estados-Membros devem notificar a organização de produtores requerentes do montante da ajuda aprovado, incluindo o montante do aumento concedido nos termos do artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013, o mais tardar até 15 de dezembro do ano que precede a execução do programa operacional, como estabelecido no artigo 8.º do presente regulamento.\n\n4. Os Estados-Membros devem verificar, em cada ano de vigência do programa operacional, o cumprimento das condições para o aumento do limite da ajuda financeira da União de 50 % para 60 % referido no artigo 34.º, n.º 3, alínea f), do Regulamento (UE) n.º 1308/2013."
+  },
+  "07da147cd40a3df8": {
+   "fragment_id": "Artigo 9.º — Pedidos de ajuda",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Pedidos de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedidos de ajuda\n\n1. As organizações de produtores devem apresentar o pedido de ajuda, ou o respetivo saldo, à autoridade competente do Estado-Membro relativamente a cada programa operacional a título do qual é pedida a ajuda, até 15 de fevereiro do ano seguinte àquele para o qual a ajuda é pedida.\n\n2.\n\nOs pedidos de ajuda devem ser acompanhados de documentos de apoio que indiquem:\n\na) A ajuda pedida;\n\nb) O valor da produção comercializada;\n\nc) As contribuições financeiras cobradas aos membros e as da própria organização de produtores;\n\nd) As despesas realizadas a título do programa operacional;\n\ne) As despesas respeitantes à prevenção e gestão de crises, discriminadas por ações;\n\nf) A parte do fundo operacional destinada à prevenção e gestão de crises, discriminada por ações;\n\ng) O respeito do disposto no artigo 33.º, n.º 3, no artigo 33.º, n.º 5, primeiro parágrafo, e no artigo 34.º do Regulamento (UE) n.º 1308/2013;\n\nh) O compromisso escrito de que não recebeu duplo financiamento, da União ou nacional, pelas medidas ou ações elegíveis para uma ajuda ao abrigo do Regulamento (UE) n.º 1308/2013 no setor das frutas e dos produtos hortícolas;\n\ni) Provas da execução da ação, no caso de um pedido de pagamento com base nas taxas fixas normalizadas ou tabelas de custos unitários a que se refere o artigo 31.º, n.º 2, do Regulamento Delegado (UE) 2017/891; e\n\nj) O relatório anual referido no artigo 21.º.\n\n3.\n\nOs pedidos de ajuda podem abranger despesas programadas, mas não efetuadas, se for comprovado que:\n\na) As ações em causa não puderam ser efetuadas até 31 de dezembro do ano de execução do programa operacional por motivos que não dependem da organização de produtores em causa;\n\nb) Essas ações podem ser efetuadas até 30 de abril do ano seguinte àquele para o qual a ajuda é pedida; e\n\nc) É mantida no fundo operacional uma contribuição equivalente da organização de produtores.\n\nO pagamento da ajuda e a liberação da garantia constituída em conformidade com o artigo 11.º, n.º 2, só são efetuados se for apresentada prova da execução das despesas programadas referidas no primeiro parágrafo, alínea b), do presente número, até 30 de abril do ano seguinte àquele para o qual a despesa em questão estava programada, tomando como base o direito à ajuda de facto estabelecido.\n\n4. Em casos excecionais e devidamente justificados, a autoridade competente do Estado-Membro pode aceitar pedidos após a data prevista no n.º 1 se os controlos necessários tiverem sido efetuados e a data-limite de pagamento prevista no artigo 10.º for respeitada. Se os pedidos forem apresentados após a data prevista no n.º 1, a ajuda será reduzida de 1 % por dia de atraso do pedido.\n\n5. As associações de organizações de produtores podem apresentar um pedido de ajuda em conformidade com o n.º 1 em nome e por conta dos seus membros, desde que esses membros sejam organizações de produtores reconhecidas no mesmo Estado-Membro que reconheceu a associação de organizações de produtores e que sejam apresentados para cada membro os documentos de apoio referidos no n.º 2. As organizações de produtores são os beneficiários finais da ajuda.\n\n6. As organizações de produtores devem apresentar um pedido de ajuda respeitante às ações executadas ao nível das organizações de produtores no Estado-Membro em que são reconhecidas. Caso sejam membros de uma associação transnacional de organizações de produtores, as organizações de produtores deve apresentar uma cópia do pedido ao Estado-Membro onde aquela tem a sua sede.\n\n7. As associações transnacionais de organizações de produtores devem apresentar os pedidos de ajuda para ações executadas ao nível da associação transnacional no Estado-Membro em que essa associação tem a sua sede. Os Estados-Membros devem assegurar-se de que não existe risco de duplo financiamento."
+  },
+  "4a60c7587f05478e": {
+   "fragment_id": "Artigo 10.º — Pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento da ajuda\n\nOs Estados-Membros devem pagar a ajuda até 15 de outubro do ano seguinte ao ano de execução do programa."
+  },
+  "c417583cc00f4786": {
+   "fragment_id": "Artigo 11.º — Adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adiantamentos\n\n1. Os pedidos de adiantamento podem ser apresentados de três em três ou de quatro em quatro meses, conforme decisão do Estado-Membro, respetivamente em janeiro, abril, julho e outubro ou em janeiro, maio e setembro.\n\nO montante total dos adiantamentos relativos a um determinado ano não pode exceder 80 % do montante da ajuda inicialmente aprovado para o programa operacional.\n\n2. O pagamento dos adiantamentos fica sujeito à constituição de uma garantia equivalente a 110 % do seu montante, em conformidade com o Regulamento Delegado (UE) n.º 907/2014 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\n3. Os Estados-Membros podem fixar um montante mínimo para os adiantamentos e os prazos a respeitar."
+  },
+  "2768a2251dbd0461": {
+   "fragment_id": "Artigo 12.º — Pagamentos parciais",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pagamentos parciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamentos parciais\n\n1. Os Estados-Membros podem autorizar as organizações de produtores a solicitar o pagamento da parte da ajuda correspondente aos montantes já gastos no âmbito do programa operacional.\n\n2. Os pedidos podem ser apresentados em qualquer momento, mas não mais de três vezes por ano. Os pedidos devem ser acompanhados de documentos de apoio, tais como faturas e documentos que provem que o pagamento foi efetuado.\n\n3. Os pagamentos relativos aos pedidos de uma parte da ajuda não podem exceder 80 % da parte da ajuda correspondente aos montantes já gastos no âmbito do programa operacional para o período em questão. Os Estados-Membros podem fixar um montante mínimo para os pagamentos parciais e os prazos para a apresentação dos pedidos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "3f6b3caaad31cf12": {
+   "fragment_id": "MEDIDAS DE PREVENÇÃO E GESTÃO DE CRISES",
+   "type": "divisao",
+   "heading": "MEDIDAS DE PREVENÇÃO E GESTÃO DE CRISES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE PREVENÇÃO E GESTÃO DE CRISES"
+  },
+  "ccba71317415f964": {
+   "fragment_id": "Artigo 13.º — Medidas de formação e intercâmbio de melhores práticas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Medidas de formação e intercâmbio de melhores práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de formação e intercâmbio de melhores práticas\n\nOs Estados-Membros devem adotar disposições sobre as condições que as medidas de formação e o intercâmbio de melhores práticas devem satisfazer para que possam ser considerados medidas de prevenção e gestão de crises."
+  },
+  "fe5556a27b357c15": {
+   "fragment_id": "Artigo 14.º — Ações de promoção e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Ações de promoção e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ações de promoção e comunicação\n\n1. Os Estados-Membros devem adotar disposições sobre as condições que as medidas de promoção e comunicação devem satisfazer, incluindo ações e atividades que visem a diversificação e a consolidação dos mercados das frutas e produtos hortícolas, quer essas medidas se prendam com a prevenção de crises quer com a gestão destas. Essas disposições devem permitir a rápida aplicação das medidas, quando necessário.\n\nO principal objetivo dessas medidas é reforçar a competitividade dos produtos comercializados pelas organizações de produtores e respetivas associações no caso de perturbações graves do mercado, perda de confiança por parte dos consumidores ou outros problemas.\n\nOs objetivos específicos das ações de promoção e de comunicação executadas pelas organizações de produtores e respetivas associações são:\n\na) aumentar a sensibilização para a qualidade dos produtos agrícolas produzidos na União e para os elevados padrões de qualidade aplicáveis a essa produção;\n\nb) aumentar a competitividade e o consumo de produtos agrícolas e de determinados produtos transformados produzidos na União e aumentar a sensibilização para a sua qualidade, tanto no interior como no exterior da União;\n\nc) aumentar a sensibilização para os regimes de qualidade da União, tanto no interior como no exterior da União;\n\nd) aumentar a quota de mercado dos produtos agrícolas e de determinados produtos transformados na União, com ênfase nos mercados de países terceiros com maior potencial de crescimento; e\n\ne) contribuir para o restabelecimento das condições normais de mercado no mercado da União em caso de perturbações graves do mercado, perda de confiança por parte dos consumidores ou outros problemas conexos.\n\n2. As ações incluídas nas medidas de promoção e comunicação devem acrescentar-se às eventuais ações de promoção e comunicação em curso não relacionadas com a prevenção e gestão de crises e levadas a cabo pela organização de produtores em causa no seu programa operacional."
+  },
+  "7ccedc10f9a88ceb": {
+   "fragment_id": "Artigo 15.º — Normas de comercialização dos produtos retirados",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Normas de comercialização dos produtos retirados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Normas de comercialização dos produtos retirados\n\n1. Um produto retirado do mercado deve ser conforme com a norma de comercialização para esse produto a que se refere o título II do Regulamento de Execução (UE) n.º 543/2011, com exceção das disposições respeitantes à apresentação e marcação dos produtos. Em caso de retirada dos produtos a granel, devem ser respeitados os requisitos mínimos para a categoria II.\n\nTodavia, os produtos miniatura definidos na norma em causa devem ser conformes com a norma de comercialização aplicável, incluindo as disposições relativas à apresentação e marcação dos produtos.\n\n2. Os produtos para os quais não exista tal norma de comercialização devem respeitar os requisitos mínimos estabelecidos no anexo III. Os Estados-Membros podem estabelecer disposições complementares a esses requisitos mínimos."
+  },
+  "38eb1ec9f4cd861c": {
+   "fragment_id": "Artigo 16.º — Custos de transporte relacionados com a distribuição gratuita",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Custos de transporte relacionados com a distribuição gratuita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Custos de transporte relacionados com a distribuição gratuita\n\n1. Os custos de transporte relacionados com as operações de distribuição gratuita de todos os produtos retirados do mercado são elegíveis a título do programa operacional, com base nas tabelas de custos unitários estabelecidas segundo a distância entre o ponto de retirada e o local de entrega, como previsto no anexo IV.\n\nEm caso de transporte marítimo, os Estados-Membros determinam a distância entre o ponto de retirada e o local de entrega final. A compensação não pode ser superior às despesas que resultariam do transporte terrestre, pela distância mais curta, entre o local de carregamento e o ponto de entrega final no qual o transporte terrestre é possível. É aplicado um coeficiente corretor de 0,6 aos montantes estabelecidos no anexo IV.\n\nNo caso de transporte combinado, o custo do transporte aplicável é igual à soma dos custos correspondentes à distância de transporte por terra, acrescidos de 60 % do suplemento de custos gerados se o transporte tivesse sido inteiramente efetuado por via terrestre, como previsto no anexo IV.\n\n2. Os custos de transporte são pagos à parte que tiver de facto suportado financeiramente o custo do transporte em causa.\n\nO pagamento fica subordinado à apresentação de documentos que comprovem, nomeadamente:\n\na) O nome das organizações beneficiárias;\n\nb) A quantidade dos produtos em causa;\n\nc) A aceitação pelas organizações beneficiárias e os meios de transporte utilizados; e\n\nd) A distância entre o ponto de retirada e o local de entrega."
+  },
+  "6e6d2aba8c6b31b8": {
+   "fragment_id": "Artigo 17.º — Despesas de triagem e de embalagem para a distribuição gratuita",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Despesas de triagem e de embalagem para a distribuição gratuita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despesas de triagem e de embalagem para a distribuição gratuita\n\n1. As despesas de triagem e de embalagem da fruta e dos produtos hortícolas retirados do mercado para distribuição gratuita são elegíveis no âmbito dos programas operacionais, salvo se a distribuição gratuita dessa fruta e desses produtos hortícolas tiver lugar após a transformação. No caso dos produtos em embalagens de menos de 25 quilogramas de peso líquido, essas despesas não podem exceder os montantes fixados no anexo V.\n\n2. Das embalagens dos produtos destinados à distribuição gratuita deve constar o emblema europeu, associado a uma ou mais das inscrições constantes do anexo VI.\n\n3. As despesas de triagem e de embalagem são pagas à organização de produtores que tiver efetuado essas operações.\n\nO pagamento fica subordinado à apresentação de documentos que comprovem, nomeadamente:\n\na) O nome das organizações beneficiárias;\n\nb) A quantidade dos produtos em causa; e\n\nc) A aceitação pelas organizações beneficiárias, especificando o modo de apresentação."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "5d128a018ed0d7fd": {
+   "fragment_id": "INFORMAÇÕES, RELATÓRIOS E CONTROLOS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES, RELATÓRIOS E CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES, RELATÓRIOS E CONTROLOS"
+  },
+  "f0d8195e044b2877": {
+   "fragment_id": "Informações e relatórios",
+   "type": "divisao",
+   "heading": "Informações e relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informações e relatórios"
+  },
+  "9a25217feab9d5d5": {
+   "fragment_id": "Artigo 21.º — Informações e relatórios anuais de agrupamentos de produtores, organizações de produtores e associações de organizações de produtores e relatórios anuais dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Informações e relatórios anuais de agrupamentos de produtores, organizações de produtores e associações de organizações de produtores e relatórios anuais dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Informações e relatórios anuais de agrupamentos de produtores, organizações de produtores e associações de organizações de produtores e relatórios anuais dos Estados-Membros\n\nA pedido de uma autoridade competente de um Estado-Membro, os agrupamentos de produtores constituídos em conformidade com o artigo 125.º-E do Regulamento (CE) n.º 1234/2007, as organizações de produtores reconhecidas, associações de organizações de produtores, associações transnacionais de organizações de produtores e os agrupamentos de produtores reconhecidos devem prestar todas as informações necessárias para a elaboração do relatório anual referido no artigo 54.º, alínea b), do Regulamento Delegado (UE) 2017/891. A estrutura do relatório anual consta do anexo II do presente regulamento.\n\nOs Estados-Membros devem tomar as medidas necessárias para recolher informações sobre o número de membros, o volume e o valor da produção comercializada das organizações de produtores que não tenham apresentado um programa operacional. Deve ser pedida às organizações de produtores e aos agrupamentos de produtores referidos no artigo 27.º do Regulamento (UE) n.º 1305/2013 a comunicação do número de membros, do volume e do valor da produção comercializada."
+  },
+  "14c147f5716f044d": {
+   "fragment_id": "Controlos",
+   "type": "divisao",
+   "heading": "Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Controlos"
+  },
+  "94ce46ab7e452bd4": {
+   "fragment_id": "Artigo 22.º — Sistema de identificação único",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Sistema de identificação único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sistema de identificação único\n\nOs Estados-Membros devem garantir a aplicação de um sistema de identificação único às organizações de produtores, associações de organizações de produtores e agrupamentos de produtores constituídos nos termos do artigo 125.º-E do Regulamento (CE) n.º 1234/2007, no que se refere aos seus pedidos de ajuda. Este sistema de identificação deve ser compatível com o sistema de identificação dos beneficiários referido no artigo 73.º do Regulamento (UE) n.º 1306/2013."
+  },
+  "d65b3f7b4e5b8cf5": {
+   "fragment_id": "Artigo 23.º — Procedimentos de apresentação de pedidos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimentos de apresentação de pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimentos de apresentação de pedidos\n\nSem prejuízo do disposto nos artigos 9.º, 24.º e 25.º, os Estados-Membros devem prever procedimentos para a apresentação de pedidos de ajuda, de pedidos de reconhecimento ou de aprovação de programas operacionais e de pedidos de pagamento."
+  },
+  "dc3381cdb556fcd1": {
+   "fragment_id": "Artigo 24.º — Concessão do reconhecimento",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Concessão do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Concessão do reconhecimento\n\n1. Antes de concederam o reconhecimento a uma organização de produtores ou uma associação de organizações de produtores nos termos do artigo 154.º, n.º 4, alínea a), ou do artigo 156.º, n.º 1, do Regulamento (UE) n.º 1308/2013, os Estados-Membros devem efetuar controlos administrativos e *in loco* na organização de produtores ou associação de organizações de produtores, a fim de verificar o cumprimento dos critérios de reconhecimento.\n\n2. Os Estados-Membros devem realizar controlos administrativos e *in loco* no que respeita aos critérios de reconhecimento, aplicáveis a todas as organizações de produtores e associações de organizações de produtores reconhecidas, pelo menos uma vez de cinco em cinco anos, mesmo que as organizações de produtores ou as associações de organizações de produtores não executem um programa operacional."
+  },
+  "26658db6851d577b": {
+   "fragment_id": "Artigo 25.º — Aprovação dos programas operacionais e das respetivas alterações",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Aprovação dos programas operacionais e das respetivas alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Aprovação dos programas operacionais e das respetivas alterações\n\n1.\n\nAntes da aprovação de um programa operacional nos termos do artigo 33.º do Regulamento Delegado (UE) 2017/891, os Estados-Membros devem verificar por todos os meios adequados, incluindo controlos *in loco*, o programa operacional apresentado para aprovação, bem como, se for caso disso, o pedido de alteração. Esses controlos dizem nomeadamente respeito:\n\na) À exatidão das informações referidas no artigo 4.º, n.º 1, alíneas a), b) e e), a incluir no projeto de programa operacional;\n\nb) À conformidade do programa com o artigo 33.º do Regulamento (UE) n.º 1308/2013, bem como com a estratégia nacional e o quadro nacional;\n\nc) À elegibilidade das ações e das despesas propostas; e\n\nd) À coerência e qualidade técnica do programa, ao fundamento das estimativas e do plano de ajuda, bem como à programação da sua execução.\n\n2.\n\nOs controlos a que se refere o n.º 1 devem verificar se:\n\na) As metas são mensuráveis e podem ser objeto de acompanhamento e alcançadas através das ações propostas; e\n\nb) As operações para as quais a ajuda é pedida estão em conformidade com a legislação da União e nacional aplicável, em especial, aos auxílios estatais e aos programas de desenvolvimento rural e de promoção, e as normas obrigatórias estabelecidas pela legislação nacional ou a estratégia nacional."
+  },
+  "58e9d82d49d78ae3": {
+   "fragment_id": "Artigo 26.º — Controlos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Controlos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Controlos administrativos\n\n1. Os procedimentos relativos aos controlos administrativos devem assegurar o registo das operações de controlo realizadas, dos resultados das verificações e das medidas adotadas em relação às discrepâncias.\n\n2. Antes de concederem as ajudas, os Estados-Membros devem realizar controlos administrativos de todos os pedidos de ajuda.\n\n3.\n\nOs controlos administrativos dos pedidos de ajuda devem incluir, se for caso disso, a verificação:\n\na) Do relatório anual sobre a execução do programa operacional transmitido juntamente com o pedido de ajuda;\n\nb) Do valor da produção comercializada, das contribuições para o fundo operacional e das despesas efetuadas;\n\nc) Da correlação exata das despesas declaradas, com produtos e serviços fornecidos;\n\nd) Da conformidade das ações executadas com as constantes do programa operacional aprovado; e\n\ne) Do respeito dos limites impostos, financeiros e outros.\n\n4. As despesas efetuadas no âmbito do programa operacional devem ser justificadas por uma prova de pagamento. As faturas utilizadas devem ser emitidas em nome da organização de produtores, da associação de organizações de produtores ou da filial conforme com o requisito dos 90 % a que se refere o artigo 22.º, n.º 8, do Regulamento Delegado (UE) 2017/891, ou, sob reserva da aprovação do Estado-Membro, em nome de um ou mais dos seus membros produtores. No entanto, as faturas relativas aos custos de pessoal a que se refere o anexo III, ponto 2, do Regulamento Delegado (UE) 2017/891 devem ser emitidas em nome da organização de produtores, da associação de organizações de produtores, da filial conforme com o requisito de 90 % a que se refere o artigo 22.º, n.º 8, do mesmo regulamento ou, sob reserva da aprovação do Estado-Membro, de cooperativas que sejam membros da organização de produtores."
+  },
+  "39bba4eb9b60ed48": {
+   "fragment_id": "Artigo 27.º — Controlos in loco dos pedidos de ajuda anuais",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Controlos in loco dos pedidos de ajuda anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Controlos in loco dos pedidos de ajuda anuais\n\n1. Os Estados-Membros devem realizar controlos *in loco* nas instalações das organizações de produtores, das associações de organizações de produtores e das respetivas filiais, consoante o caso, a fim de garantir o cumprimento das condições de reconhecimento, de concessão da ajuda, ou do respetivo saldo, no ano em causa, como referido no artigo 9.º, n.º 1, complementando estes controlos os controlos administrativos.\n\n2. Os controlos *in loco* devem incidir numa amostra representativa de, pelo menos, 30 % do montante total da ajuda pedida por ano. As organizações de produtores ou associações de organizações de produtores que executem um programa operacional devem ser objeto de visitas pelo menos uma vez de três em três anos.\n\n3.\n\nOs Estados-Membros devem determinar as organizações de produtores a controlar com base numa análise de riscos que tenha em conta os seguintes critérios:\n\na) O montante da ajuda;\n\nb) Os resultados dos controlos efetuados nos anos anteriores;\n\nc) Um parâmetro aleatório; e\n\nd) Outros parâmetros a definir pelos Estados-Membros.\n\n4. Os controlos *in loco* podem ser objeto de anúncio prévio, desde que o seu objetivo não fique comprometido.\n\n5.\n\nOs controlos *in loco* devem incidir em todos os compromissos e obrigações da organização de produtores, ou da associação de organizações de produtores, dos seus membros ou filiais, consoante o caso, que possam ser controlados no momento da visita e que não puderam ser verificados durante os controlos administrativos. Os controlos *in loco* dizem nomeadamente respeito:\n\na) Ao cumprimento dos critérios de reconhecimento para o ano em causa;\n\nb) À execução das ações e sua coerência com as constantes do programa operacional aprovado;\n\nc) Em relação a um número considerável de ações: à conformidade das despesas com a legislação da União e ao respeito dos prazos nela estabelecidos;\n\nd) À utilização do fundo operacional, incluindo as despesas declaradas nos pedidos de adiantamentos ou de pagamentos parciais, o valor da produção comercializada, as contribuições para o fundo operacional e as despesas declaradas, justificadas por documentos contabilísticos ou equivalentes;\n\ne) À entrega total dos produtos pelos membros, à prestação dos serviços e à veracidade das despesas declaradas; e\n\nf) Aos controlos de segundo nível a que se refere o artigo 30.º, no que respeita às despesas com as retiradas do mercado, à colheita em verde e à não colheita.\n\n6. A verificação do valor da produção comercializada é feita com base no sistema contabilístico financeiro, auditado e certificado nos termos da legislação nacional.\n\nPara o efeito, os Estados-Membros podem determinar que a declaração do valor da produção comercializada seja certificada da mesma forma que os dados contabilísticos financeiros.\n\nO controlo da declaração do valor da produção comercializada pode ser efetuado antes da transmissão do pedido de ajuda correspondente, devendo, no entanto, ser efetuado o mais tardar antes do pagamento da ajuda.\n\n7. Salvo em circunstâncias excecionais, o controlo *in loco* deve incluir uma visita ao local onde decorre a ação ou, se esta for intangível, ao seu promotor. As ações em explorações individuais de membros das organizações de produtores abrangidas pela amostra referida no n.º 2, nomeadamente, devem ser objeto de pelo menos uma visita, destinada a verificar a sua execução.\n\nOs Estados-Membros podem, contudo, decidir não realizar tais visitas no que respeita às ações de menor dimensão ou sempre que considerem que existe um baixo risco de as condições de concessão da ajuda não estarem preenchidas, ou de a operação não ter sido executada. Essa decisão e a sua justificação devem ser registadas. Os critérios da análise de riscos previstos no n.º 3 são aplicáveis, *mutatis mutandis*, ao presente número.\n\n8. Só os controlos que satisfaçam a totalidade dos requisitos do presente artigo podem ser tidos em conta para o cumprimento da taxa de controlo estabelecida no n.º 2.\n\n9. Os resultados dos controlos *in loco* devem ser avaliados a fim de determinar se os problemas eventualmente detetados são de caráter sistémico, implicando um risco para outras ações, beneficiários ou organismos semelhantes. A avaliação deve identificar igualmente as causas de tais situações, os exames complementares que possam ser necessários e as medidas corretivas e preventivas necessárias.\n\nSe os controlos revelarem irregularidades significativas numa região ou parte de região ou numa organização de produtores específica, o Estado-Membro deve efetuar controlos complementares, durante o ano, na região ou na organização ou associação em causa e aumentar a percentagem dos pedidos correspondentes a controlar no ano seguinte."
+  },
+  "1fe2c050b687ba6f": {
+   "fragment_id": "Artigo 28.º — Relatórios dos controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Relatórios dos controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Relatórios dos controlos in loco\n\n1.\n\nPara cada controlo *in loco* deve ser elaborado um relatório detalhado, indicando, pelo menos, as seguintes informações:\n\na) O regime de ajuda e o pedido controlado;\n\nb) Os nomes e funções das pessoas presentes;\n\nc) As ações, medidas e documentos sujeitos a controlo, incluindo a pista de controlo e os documentos comprovativos verificados; e\n\nd) O resultado do controlo.\n\n2. Um representante da organização de produtores ou da associação de organizações de produtores deve ter a possibilidade de assinar o relatório, a fim de atestar a sua presença durante a realização do controlo e registar as suas observações. Se forem constatadas irregularidades, o beneficiário recebe uma cópia do relatório."
+  },
+  "721f26a39fe5fe14": {
+   "fragment_id": "Artigo 29.º — Controlos de primeiro nível das operações de retirada",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Controlos de primeiro nível das operações de retirada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Controlos de primeiro nível das operações de retirada\n\n1. Os Estados-Membros efetuam, em cada organização de produtores, controlos de primeiro nível das operações de retirada, que consistem num controlo documental e de identidade, bem como num controlo físico, do peso dos produtos retirados do mercado e num controlo da conformidade com as disposições do artigo 15.º, de acordo com os procedimentos estabelecidos no título II, capítulo II, do Regulamento de Execução (UE) n.º 543/2011. O controlo é efetuado após receção da notificação prevista no artigo 44.º, n.º 1, do Regulamento Delegado (UE) 2017/891, dentro dos prazos fixados em conformidade com o n.º 2 do mesmo artigo.\n\n2. Os controlos de primeiro nível devem abranger 100 % da quantidade de produtos retirados do mercado. Na sequência desse controlo, os produtos retirados, com exceção dos destinados a distribuição gratuita, são desnaturados ou entregues à indústria de transformação, na presença das autoridades competentes, nas condições previstas pelo Estado-Membro em conformidade com o artigo 46.º do Regulamento Delegado (UE) 2017/891.\n\n3. Em derrogação ao n.º 2, caso os produtos se destinem a operações de distribuição gratuita, os Estados-Membros podem limitar-se a controlar uma percentagem inferior à prevista nesse número, mas não inferior a 10 %, das quantidades correspondentes durante a campanha de comercialização de uma determinada organização de produtores. O controlo pode ser efetuado nas instalações da organização de produtores ou nas instalações dos destinatários dos produtos. Se os controlos revelarem irregularidades, os Estados-Membros devem efetuar controlos complementares."
+  },
+  "ec6459c0ee0862a7": {
+   "fragment_id": "Artigo 30.º — Controlos de segundo nível das operações de retirada",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Controlos de segundo nível das operações de retirada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Controlos de segundo nível das operações de retirada\n\n1. Os Estados-Membros devem efetuar controlos de segundo nível das operações de retirada nas instalações das organizações de produtores e dos destinatários dos produtos retirados, com base numa análise de riscos. A análise de riscos deve abranger os resultados dos controlos anteriores de primeiro e segundo nível, bem como a existência, ou não, de um procedimento de tipo «garantia de qualidade» por parte da organização de produtores. A análise de riscos deve servir de base para determinar a frequência mínima de controlos de segundo nível para cada organização de produtores.\n\n2.\n\nOs controlos de segundo nível a que se refere o n.º 1 dizem respeito:\n\na) À verificação da contabilidade de existências e da contabilidade financeira específicas que todas as organizações de produtores que procedam a operações de retirada durante a campanha de comercialização em causa devem manter;\n\nb) À verificação das quantidades comercializadas declaradas nos pedidos de ajuda, nomeadamente por verificação das contabilidades de existências e financeira, das faturas e da concordância dessas declarações com os dados contabilísticos e fiscais das organizações de produtores em causa;\n\nc) À contabilidade, nomeadamente a verificação da veracidade das receitas líquidas realizadas pelas organizações de produtores, declaradas nos pedidos de pagamento, e da proporcionalidade de eventuais despesas de retirada; e\n\nd) Ao destino dos produtos retirados declarados nos pedidos de pagamento, bem como à sua desnaturação.\n\n3. Cada controlo deve incidir, nomeadamente, numa amostra representativa de, no mínimo, 5 % das quantidades retiradas durante a campanha de comercialização pela organização de produtores.\n\n4.\n\nAs contabilidades de existências e financeira referidas no n.º 2, alínea a), devem distinguir, em relação a cada produto retirado, as quantidades movimentadas, expressas em toneladas:\n\na) Da produção entregue pelos membros da organização de produtores e pelos membros de outras organizações de produtores nas condições previstas no artigo 12.º, n.º 1, alíneas b) e c), do Regulamento Delegado (UE) 2017/891;\n\nb) Das vendas da organização de produtores, identificando os produtos destinados ao mercado de frescos e os produtos destinados a transformação; e\n\nc) Dos produtos retirados do mercado.\n\n5.\n\nO controlo do destino dos produtos retirados do mercado deve incluir:\n\na) Um controlo, por amostragem, da contabilidade de existências mantida pelos destinatários e da contabilidade financeira das organizações caritativas e das instituições em causa, sempre que seja aplicável o artigo 46.º, n.º 2, do Regulamento Delegado (UE) 2017/891; e\n\nb) O controlo do respeito das condições ambientais aplicáveis.\n\n6. Se os controlos de segundo nível revelarem irregularidades, os Estados-Membros devem aprofundar tais controlos no referente ao ano em causa e aumentar a frequência destes controlos durante o ano seguinte nas instalações das organizações de produtores ou associações de organizações de produtores em causa."
+  },
+  "65d5788bbc6f4a0c": {
+   "fragment_id": "Artigo 31.º — Colheita em verde e não colheita",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Colheita em verde e não colheita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Colheita em verde e não colheita\n\n1. Antes da execução da operação de colheita em verde, os Estados-Membros devem verificar, mediante um controlo *in loco*, que os produtos em causa não estão danificados e que a superfície em questão foi mantida em boas condições. Após a colheita em verde, os Estados-Membros devem verificar que foi colhida a totalidade da superfície em causa e que os produtos colhidos foram desnaturados.\n\n2. Antes da execução da operação de não colheita, os Estados-Membros devem verificar, mediante um controlo *in loco*, que a superfície em questão foi mantida em boas condições, que não foi já realizada qualquer colheita parcial e que o produto está bem desenvolvido e seria, de uma forma geral, de qualidade sã, leal e comercial.\n\nOs Estados-Membros devem assegurar-se de que a produção é desnaturada. Caso tal não seja possível, devem assegurar-se, mediante uma ou mais visitas no local durante a época de colheita, de que não é realizada qualquer colheita.\n\n3.\n\nSempre que seja aplicável o artigo 48.º, n.º 3, segundo parágrafo, do Regulamento Delegado (UE) 2017/891:\n\na) Não é aplicável o requisito previsto no n.º 2, primeiro parágrafo, do presente artigo, segundo o qual não deve ter sido realizada qualquer colheita parcial; e\n\nb) Os Estados-Membros devem assegurar que as plantas produtoras de frutas e produtos hortícolas que foram objeto de medidas de não colheita e de colheita em verde não serão utilizadas para outros fins de produção na mesma estação produtiva.\n\n4. É aplicável, *mutatis mutandis*, o artigo 30.º, n.^os^ 1, 2, 3 e 6."
+  },
+  "270cf438ca69bf64": {
+   "fragment_id": "Artigo 32.º — Organizações transnacionais de produtores",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Organizações transnacionais de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Organizações transnacionais de produtores\n\n1. Cabe ao Estado-Membro em que a organização transnacional de produtores tem a sua sede social, a responsabilidade global pela organização dos controlos sobre essa organização a título do programa operacional e do fundo operacional, bem como pela aplicação de sanções administrativas se tais controlos revelarem que as obrigações não foram respeitadas.\n\n2. Os Estados-Membros aos quais seja solicitada a colaboração administrativa referida no artigo 14.º, n.º 3, alínea c), do Regulamento Delegado (UE) 2017/891 procedem aos controlos administrativos e *in loco* solicitados pelo Estado-Membro a que se refere o n.º 1 do presente artigo e comunicam-lhe os respetivos resultados. Esses Estados-Membros devem respeitar os prazos estabelecidos pelo Estado-Membro a que se refere o n.º 1.\n\n3. A organização de produtores, o programa operacional e o fundo operacional estão sujeitos às regras aplicáveis no Estado-Membro a que se refere o n.º 1. Contudo, relativamente às questões ambientais e fitossanitárias, bem como às medidas de prevenção e gestão de crises, são aplicáveis as regras do Estado-Membro onde as operações têm lugar."
+  },
+  "a967046eaa0b92a2": {
+   "fragment_id": "Artigo 33.º — Associações transnacionais de organizações de produtores",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Associações transnacionais de organizações de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Associações transnacionais de organizações de produtores\n\n1. Cabe ao Estado-Membro em que a organização de produtores que seja membro de uma associação transnacional tem a sua sede social, a responsabilidade global pela organização dos controlos relativos às ações do programa operacional executado no seu território e ao fundo operacional, bem como pela aplicação de sanções administrativas se tais controlos revelarem que as obrigações não foram respeitadas.\n\n2. O Estado-Membro a que se refere o n.º 1 deve cooperar estreitamente com o Estado-Membro em que a associação transnacional de organizações de produtores tem a sua sede social e notificar sem demora os resultados dos controlos efetuados e as eventuais sanções administrativas aplicadas.\n\n3.\n\nIncumbe ao Estado-Membro em que a associação transnacional de organizações de produtores tem a sua sede social:\n\na) A responsabilidade global pela organização dos controlos relativos às ações do programa operacional executado ao nível da associação transnacional e do fundo operacional da associação transnacional, bem como pela aplicação de sanções administrativas, se tais controlos revelarem que as obrigações não foram cumpridas;\n\nb) Assegurar a coordenação dos controlos e dos pagamentos referentes às ações do programa operacional da associação transnacional executadas fora do território do Estado-Membro em que se situa a sua sede social.\n\n4. As ações dos programas operacionais devem ser conformes com as regras nacionais e com a estratégia nacional do Estado-Membro em que, em conformidade com o artigo 9.º, n.^os^ 6 e 7, é apresentado o pedido de ajuda.\n\nPorém, as medidas ambientais e fitossanitárias, e as medidas de prevenção e gestão de crises ficam sujeitas às regras do Estado-Membro em que são efetivamente aplicadas."
+  },
+  "9498d3504635551a": {
+   "fragment_id": "Artigo 34.º — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Controlos\n\nSem prejuízo de disposições específicas do presente regulamento ou de outra legislação da União, os Estados-Membros instituem os controlos e medidas necessários para garantir a correta aplicação do Regulamento (UE) n.º 1308/2013, do Regulamento (UE) 2017/891 e do presente regulamento. Tais controlos e medidas devem ser efetivos, proporcionados e dissuasivos, a fim de assegurar uma proteção adequada dos interesses financeiros da União.\n\nEm particular, cabe aos Estados-Membros assegurar que:\n\na) Possam ser controlados todos os critérios de elegibilidade estabelecidos nas legislações da União ou nacional, na estratégia nacional ou no quadro nacional;\n\nb) As autoridades competentes do Estado-Membro responsáveis pela execução dos controlos disponham de pessoal em número suficiente e com a qualificação e experiência adequadas para uma eficaz execução dos mesmos; e\n\nc) Sejam previstos controlos para evitar o duplo financiamento irregular de medidas ao abrigo do Regulamento (UE) n.º 1308/2013 no setor das frutas e dos produtos hortícolas e de outros regimes da União ou nacionais."
+  },
+  "91e21b231a1ca77d": {
+   "fragment_id": "Artigo 35.º — Erros manifestos",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Erros manifestos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Erros manifestos\n\nEm caso de erros manifestos reconhecidos pela autoridade competente do Estado-Membro, em conformidade com o artigo 59.º, n.º 6, do Regulamento (UE) n.º 1306/2013, qualquer notificação, pedido ou requerimento apresentado a um Estado-Membro no âmbito do Regulamento (UE) n.º 1308/2013, do Regulamento Delegado (UE) 2017/891 ou do presente regulamento e qualquer pedido de ajuda podem ser corrigidos e ajustados em qualquer momento após a sua apresentação."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "09da973bd6744369": {
+   "fragment_id": "EXTENSÃO DAS REGRAS",
+   "type": "divisao",
+   "heading": "EXTENSÃO DAS REGRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### EXTENSÃO DAS REGRAS"
+  },
+  "69b57af3350ddd75": {
+   "fragment_id": "Artigo 36.º — Contribuições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Contribuições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contribuições financeiras\n\nSempre que, em conformidade com o artigo 165.º do Regulamento (UE) n.º 1308/2013, um Estado-Membro decidir que os operadores que não pertençam a organizações de produtores, associações de organizações de produtores ou organizações interprofissionais, mas em relação aos quais as regras sejam tornadas obrigatórias, devem pagar uma contribuição financeira, tal Estado-Membro deve comunicar à Comissão todas as informações necessárias para que se possa apreciar o cumprimento das condições previstas no referido artigo. Essas informações devem incluir a base de cálculo da contribuição, o montante unitário, as atividades abrangidas e os custos conexos."
+  },
+  "93d008df78ac6a39": {
+   "fragment_id": "Artigo 37.º — Extensões superiores a um ano",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Extensões superiores a um ano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Extensões superiores a um ano\n\n1. Sempre que for decidido aplicar uma extensão para um período que exceda um ano, os Estados-Membros devem verificar, em relação a cada ano, que as condições de representatividade previstas no artigo 164.º, n.º 3, do Regulamento (UE) n.º 1308/2013 continuam a ser observadas durante todo o período de aplicação da referida extensão.\n\n2. Se verificarem que as referidas condições deixaram de ser preenchidas, os Estados-Membros devem revogar a extensão, com efeitos a partir do início do ano seguinte.\n\n3. Os Estados-Membros devem informar a Comissão, sem demora, de qualquer revogação efetuada. A Comissão divulga publicamente essas informações de uma forma adequada."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "0f5aec8708e82b39": {
+   "fragment_id": "REGIME DE PREÇOS DE ENTRADA E DIREITOS DE IMPORTAÇÃO",
+   "type": "divisao",
+   "heading": "REGIME DE PREÇOS DE ENTRADA E DIREITOS DE IMPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME DE PREÇOS DE ENTRADA E DIREITOS DE IMPORTAÇÃO"
+  },
+  "b6ef2954f74c80e5": {
+   "fragment_id": "Artigo 38.º — Valores forfetários de importação",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Valores forfetários de importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Valores forfetários de importação\n\n1. Em relação a cada produto e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, a Comissão fixa, em cada dia útil e para cada origem, um valor forfetário de importação, igual à média ponderada dos preços representativos referidos no artigo 74.º do mesmo regulamento, diminuídos de um montante fixo de 5 EUR por 100 quilogramas e dos direitos aduaneiros *ad valorem*.\n\n2. Na medida em que, para os produtos e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, seja fixado em conformidade com os artigos 74.º e 75.º do mesmo regulamento e com o presente artigo, um valor forfetário de importação, não é aplicável o preço unitário referido no artigo 142.º do Regulamento de Execução (UE) 2015/2447 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0005)). Este é substituído pelo valor forfetário de importação referido no n.º 1.\n\n3. Sempre que, em relação a um produto de uma dada origem, não se encontre em vigor nenhum valor forfetário de importação, aplica-se a média ponderada dos valores forfetários de importação em vigor para esse produto.\n\n4. Durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, os valores forfetários de importação continuam a ser aplicáveis até serem alterados. Deixam, todavia, de se aplicar sempre que, durante duas semanas consecutivas, não seja notificado à Comissão qualquer preço médio representativo.\n\nSempre que, em aplicação do primeiro parágrafo, não se aplicar a um valor forfetário de importação para um dado produto, o valor forfetário de importação aplicável a esse produto é igual à última média dos valores forfetários de importação.\n\n5. Em derrogação ao n.º 1, com efeito a partir do primeiro dia dos períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, não é aplicável nenhum valor forfetário de importação quando não tiver sido possível calcular tal valor.\n\n6. A taxa de câmbio aplicável ao valor forfetário de importação é a última taxa de câmbio publicada pelo Banco Central Europeu antes do último dia do período a título do qual os preços são transmitidos.\n\n7. Os valores forfetários de importação, expressos em EUR, são publicados pela Comissão através da TARIC ([^5^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0006))."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "a9cbbe6b2e0a2f9b": {
+   "fragment_id": "DIREITOS DE IMPORTAÇÃO ADICIONAIS",
+   "type": "divisao",
+   "heading": "DIREITOS DE IMPORTAÇÃO ADICIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITOS DE IMPORTAÇÃO ADICIONAIS"
+  },
+  "4e72e2da08665ef2": {
+   "fragment_id": "Artigo 39.º — Imposição de um direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Imposição de um direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Imposição de um direito de importação adicional\n\n1. Os direitos de importação adicionais referidos no artigo 182.º, n.º 1, do Regulamento (UE) n.º 1308/2013 podem ser aplicados aos produtos e durante os períodos constantes do anexo VII do presente regulamento. Este direito de importação adicional é aplicável se a quantidade de qualquer dos produtos colocados em livre prática em qualquer dos períodos de aplicação indicados nesse anexo exceder o volume de desencadeamento para esse produto, salvo se for improvável que essas importações venham a perturbar o mercado da União, ou se os efeitos do direito de importação adicional forem desproporcionados em relação ao objetivo pretendido.\n\n2. Em relação a cada um dos produtos referidos no anexo VII e durante os períodos nele indicados, os Estados-Membros devem transmitir à Comissão dados pormenorizados sobre os volumes introduzidos em livre prática, pelo método previsto no artigo 55.º do Regulamento de Execução (UE) 2015/2447 para a vigilância das importações preferenciais.\n\n3.\n\nO direito adicional de importação é imposto às quantidades introduzidas em livre prática após a data da aplicação do referido direito, desde que:\n\na) O seu valor aduaneiro, determinado em conformidade com o artigo 74.º do Regulamento Delegado (UE) 2017/891, implique a aplicação dos direitos específicos de importação mais elevados aplicáveis às importações da origem em causa; e\n\nb) A importação seja realizada durante o período de aplicação do direito de importação adicional."
+  },
+  "91b2e7a1a461f416": {
+   "fragment_id": "Artigo 40.º — Montante do direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Montante do direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Montante do direito de importação adicional\n\nO direito de importação adicional aplicado em conformidade com o artigo 39.º deve ser equivalente a um terço do direito aduaneiro previsto na pauta aduaneira comum para o produto em causa.\n\nTodavia, no caso de produtos que beneficiam de uma preferência pautal relativa ao direito *ad valorem*, o direito de importação adicional é igual a um terço do direito específico aplicável ao produto em causa, sempre que se aplique o artigo 39.º, n.º 2."
+  },
+  "c3b8abb89cda8138": {
+   "fragment_id": "Artigo 41.º — Isenções do direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Isenções do direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Isenções do direito de importação adicional\n\n1.\n\nEstão isentas da aplicação do direito adicional de importação as seguintes mercadorias:\n\na) Mercadorias importadas ao abrigo de contingentes pautais;\n\nb) Mercadorias que tenham deixado o país de origem antes da decisão de aplicação do direito de importação adicional, e que sejam transportadas, desde o local de carregamento no país de origem até ao local de descarregamento na União, ao abrigo de um documento de transporte válido emitido antes da aplicação do direito de importação adicional.\n\n2. Os interessados devem fornecer prova suficiente perante as autoridades aduaneiras de que estão preenchidas as condições previstas no n.º 1, alínea b).\n\nAs autoridades aduaneiras podem considerar que as mercadorias deixaram o país de origem antes da data de aplicação do direito de importação adicional se for fornecido um dos seguintes documentos:\n\na) Em caso de transporte marítimo, o conhecimento de embarque, segundo o qual o carregamento foi efetuado antes daquela data;\n\nb) Em caso de transporte ferroviário, a guia de expedição aceite pelos serviços de caminho de ferro do país de origem antes daquela data;\n\nc) Em caso de transporte rodoviário, o contrato de mercadorias por estrada (CME) ou outro documento de trânsito emitido no país de origem antes daquela data, desde que sejam respeitadas as condições determinadas pelos convénios bilaterais ou multilaterais acordados no âmbito do trânsito da União ou do trânsito comum;\n\nd) Em caso de transporte aéreo, a carta de porte aéreo, segundo a qual a companhia aérea aceitou as mercadorias antes daquela data."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "dd531f2a2d685202": {
+   "fragment_id": "Artigo 42.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d5e9dfd76a0a1ada": {
+   "fragment_id": "Estrutura e teor de uma estratégia nacional de sustentabilidade para os programas operacionais a que se refere o artigo 2.º",
+   "type": "divisao",
+   "heading": "Estrutura e teor de uma estratégia nacional de sustentabilidade para os programas operacionais a que se refere o artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estrutura e teor de uma estratégia nacional de sustentabilidade para os programas operacionais a que se refere o artigo 2.º"
+  },
+  "5f6f6f479d601970": {
+   "fragment_id": "1. Duração da estratégia nacional",
+   "type": "divisao",
+   "heading": "1. Duração da estratégia nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Duração da estratégia nacional\n\nA indicar pelo Estado-Membro."
+  },
+  "17d7241821ce5de9": {
+   "fragment_id": "2. Análise da situação em termos de pontos fortes e pontos fracos, e do potencial de desenvolvimento, estratégia escolhida para o efeito e justificação das prioridades definidas, em conformidade com o artigo 36.º, n.º 2, alíneas a) e b), do Regulamento (UE) n.º 1308/2013",
+   "type": "divisao",
+   "heading": "2. Análise da situação em termos de pontos fortes e pontos fracos, e do potencial de desenvolvimento, estratégia escolhida para o efeito e justificação das prioridades definidas, em conformidade com o artigo 36.º, n.º 2, alíneas a) e b), do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Análise da situação em termos de pontos fortes e pontos fracos, e do potencial de desenvolvimento, estratégia escolhida para o efeito e justificação das prioridades definidas, em conformidade com o artigo 36.º, n.º 2, alíneas a) e b), do Regulamento (UE) n.º 1308/2013\n\nDescrição, utilizando dados quantitativos, da situação atual do setor das frutas e produtos hortícolas, pondo em evidência os pontos fortes e os pontos fracos, as disparidades, necessidades e lacunas, e as potencialidades de desenvolvimento, com base nos indicadores pertinentes, definidos no quadro 4.1 do anexo II. A descrição deve abordar, pelo menos:\n\n— o desempenho do setor das frutas e produtos hortícolas: pontos fortes e pontos fracos do setor, competitividade e potencialidades de desenvolvimento das organizações de produtores;\n\n— os efeitos ambientais (impactos, pressões e benefícios) da produção frutícola e hortícola, incluindo as principais tendências.\n\nDescrição das principais áreas onde se espera que a intervenção produza o máximo valor acrescentado:\n\n— pertinência dos objetivos estabelecidos para os programas operacionais, dos resultados esperados e da amplitude que, realisticamente, estes poderão assumir;\n\n— coerência interna da estratégia, existência de sinergias, e eventuais conflitos e contradições entre os objetivos operacionais de diferentes ações selecionadas;\n\n— complementaridade e coerência das ações selecionadas em relação a outras ações nacionais ou regionais e a atividades apoiadas pelos fundos da União, em especial relativamente aos programas de desenvolvimento rural e de promoção;\n\n— resultados esperados e impacto dos mesmos, relativamente à situação inicial, e sua contribuição para os objetivos da União.\n\nDescrição dos resultados e impacto dos programas operacionais executados recentemente."
+  },
+  "1958acc48fe519de": {
+   "fragment_id": "3. Objetivos dos programas operacionais e indicadores de desempenho, conforme referido no artigo 36.º, n.º 2, alínea c), do Regulamento (UE) n.º 1308/2013",
+   "type": "divisao",
+   "heading": "3. Objetivos dos programas operacionais e indicadores de desempenho, conforme referido no artigo 36.º, n.º 2, alínea c), do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Objetivos dos programas operacionais e indicadores de desempenho, conforme referido no artigo 36.º, n.º 2, alínea c), do Regulamento (UE) n.º 1308/2013\n\nDescrição dos tipos de ações elegíveis selecionadas para apoio (lista não-exaustiva), das metas verificáveis e de indicadores que permitam avaliar os progressos efetuados em relação à realização dos objetivos, bem como a eficiência e a eficácia.\n\nOs Estados-Membros devem garantir que todas as ações incluídas na estratégia nacional e no quadro nacional são verificáveis e controláveis. Se a avaliação realizada durante a execução do programa operacional revelar que os requisitos de verificabilidade e controlabilidade não são cumpridos, as ações em causa devem ser adaptadas em conformidade ou suprimidas. Se o apoio for concedido com base em taxas fixas normalizadas ou tabelas de custos unitários, os Estados-Membros devem assegurar que os métodos de cálculo correspondentes são adequados e exatos, e estabelecidos previamente com base num cálculo justo, equitativo e verificável. As ações ambientais devem cumprir os requisitos fixados no artigo 33.º, n.º 5, do Regulamento (UE) n.º 1308/2013.\n\nOs Estados-Membros devem adotar medidas eficazes, disposições e controlos que garantam que as ações elegíveis selecionadas para apoio não sejam igualmente apoiadas por outros instrumentos pertinentes da política agrícola comum, nomeadamente no que por programas de desenvolvimento rural e de promoção, ou por outros regimes nacionais ou regionais. Medidas eficazes de proteção do ambiente contra o eventual acréscimo de pressões exercidas em virtude de investimentos apoiados no âmbito de programas operacionais, tomadas em aplicação do artigo 33.º, n.º 6, do Regulamento (UE) n.º 1308/2013, e critérios de elegibilidade adotados para assegurar que os investimentos em explorações individuais apoiados pelos programas operacionais respeitam os objetivos fixados no artigo 191.º do TFUE e no sétimo programa de ação da União em matéria de ambiente, em aplicação do artigo 36.º, n.º 1, do mesmo regulamento.\n\n— tipos de investimento elegíveis para apoio,\n\n— outras formas de aquisição elegíveis para apoio, por exemplo, arrendamento e locação financeira,\n\n— elementos sobre as condições de elegibilidade para apoio.\n\n— descrição dos tipos de ações elegíveis para apoio,\n\n— elementos sobre as condições de elegibilidade para apoio."
+  },
+  "fcce07ddcbdae2ba": {
+   "fragment_id": "4. Designação das autoridades e organismos competentes",
+   "type": "divisao",
+   "heading": "4. Designação das autoridades e organismos competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Designação das autoridades e organismos competentes\n\nDesignação, pelo Estado-Membro, da autoridade nacional responsável pela gestão, acompanhamento e avaliação da estratégia nacional."
+  },
+  "07d58d7c44a6506a": {
+   "fragment_id": "5. Descrição dos sistemas de acompanhamento e avaliação",
+   "type": "divisao",
+   "heading": "5. Descrição dos sistemas de acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 5. Descrição dos sistemas de acompanhamento e avaliação\n\nOs indicadores de desempenho estabelecidos pela estratégia nacional devem incluir os indicadores definidos no artigo 4.º e enumerados no quadro 4.1 do anexo II. Caso seja considerado oportuno, a estratégia nacional deverá especificar indicadores adicionais que reflitam necessidades, condições e objetivos nacionais ou regionais próprios dos programas operacionais nacionais.\n\nDescrição dos procedimentos e requisitos de acompanhamento e avaliação dos programas operacionais, incluindo obrigações das organizações de produtores em matéria de comunicação de informações.\n\nDescrição dos procedimentos e requisitos de acompanhamento e avaliação da estratégia nacional."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "cd65c83cfeb84c3e": {
+   "fragment_id": "Relatório anual — Parte A",
+   "type": "divisao",
+   "heading": "Relatório anual — Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório anual — Parte A"
+  },
+  "74bb53707a7ab82a": {
+   "fragment_id": "ESTRUTURA DO RELATÓRIO ANUAL — PARTE A",
+   "type": "divisao",
+   "heading": "ESTRUTURA DO RELATÓRIO ANUAL — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA DO RELATÓRIO ANUAL — PARTE A\n\nEstes formulários constituem a parte A do relatório anual que as autoridades competentes dos Estados-Membros devem enviar anualmente à Comissão Europeia, até 15 de novembro do ano seguinte ao ano civil objeto do relatório.\n\nEstes formulários baseiam-se nos requisitos de comunicação de informações estabelecidos no artigo 54.º, alínea b), e no anexo V do Regulamento Delegado (UE) 2017/891 da Comissão que complementa o Regulamento (UE) n.º 1308/2013 no respeitante aos setores das frutas e produtos hortícolas e das frutas e produtos hortícolas transformados."
+  },
+  "57883a8854ab7590": {
+   "fragment_id": "1. Informações administrativas",
+   "type": "divisao",
+   "heading": "1. Informações administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Informações administrativas\n\nQuadro 1.1. Alterações à legislação nacional adotada para aplicação do título I, capítulo II, secção 3 e do título II, capítulo III, secções 1, 2 e 3, do Regulamento (UE) n.º 1308/2013 (para o setor das frutas e produtos hortícolas)\n\nQuadro 1.2. Alterações relacionadas com a estratégia nacional de sustentabilidade para os programas operacionais aplicável aos programas operacionais"
+  },
+  "fdb9d994add39b02": {
+   "fragment_id": "2. Informações sobre organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores, associações transnacionais de organizações de produtores e agrupamentos de produtores",
+   "type": "divisao",
+   "heading": "2. Informações sobre organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores, associações transnacionais de organizações de produtores e agrupamentos de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Informações sobre organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores, associações transnacionais de organizações de produtores e agrupamentos de produtores\n\nQuadro 2.1. Organizações de produtores\n\nQuadro 2.2. Organizações transnacionais de produtores\n\nQuadro 2.3. Associações de organizações de produtores\n\nQuadro 2.4. Associações transnacionais de organizações de produtores\n\nQuadro 2.5. Agrupamentos de produtores"
+  },
+  "625918758235c189": {
+   "fragment_id": "3. Informações relativas a despesas",
+   "type": "divisao",
+   "heading": "3. Informações relativas a despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Informações relativas a despesas\n\nQuadro 3.1. Despesas atinentes a organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores e associações transnacionais de organizações de produtores\n\nQuadro 3.2. Total de despesas atinentes a programas operacionais para organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores e associações transnacionais de organizações de produtores\n\nQuadro 3.3. Despesas totais atinentes a agrupamentos de produtores\n\nQuadro 3.4. Retiradas"
+  },
+  "5c0f1d152195b0d0": {
+   "fragment_id": "4. Acompanhamento de programas operacionais/planos de reconhecimento",
+   "type": "divisao",
+   "heading": "4. Acompanhamento de programas operacionais/planos de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4. Acompanhamento de programas operacionais/planos de reconhecimento\n\nQuadro 4.1. Indicadores atinentes a organizações de produtores, organizações transnacionais de produtores, associações de organizações de produtores e associações transnacionais de associações de produtores\n\nQuadro 4.2. Indicadores para os agrupamentos de produtores"
+  },
+  "e0e51c96145e80e8": {
+   "fragment_id": "Notas explicativas",
+   "type": "divisao",
+   "heading": "Notas explicativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Notas explicativas"
+  },
+  "ba987f59a61c1ddf": {
+   "fragment_id": "Abreviaturas",
+   "type": "divisao",
+   "heading": "Abreviaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Abreviaturas\n\nOrganização comum de mercado OCM\n\nAgrupamento de produtores AP\n\nOrganização de produtores OP\n\nOrganização transnacional de produtores OTP\n\nAssociação de organizações de produtores AOP\n\nAssociação transnacional de organizações de produtores ATOP\n\nFundo operacional FO\n\nPrograma operacional PO\n\nValor da produção comercializada VPC\n\nEstado-Membro EM"
+  },
+  "dc07becb9a0cd284": {
+   "fragment_id": "Códigos dos países",
+   "type": "divisao",
+   "heading": "Códigos dos países",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Códigos dos países\n\n| Estado-Membro (língua de partida) | Nome corrente (em português) | Código |\n| --- | --- | --- |\n| Belgique/België | Bélgica | BE |\n| България [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0007) | Bulgária | BG |\n| Česká republika | República Checa | CZ |\n| Danmark | Dinamarca | DK |\n| Deutschland | Alemanha | DE |\n| Eesti | Estónia | EE |\n| Éire/Ireland | Irlanda | IE |\n| Ελλάδα [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0007) | Grécia | EL |\n| España | Espanha | ES |\n| France | França | FR |\n| Italia | Itália | IT |\n| Κύπρος [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0007) | Chipre | CY |\n| Latvija | Letónia | LV |\n| Lietuva | Lituânia | LT |\n| Luxembourg | Luxemburgo | LU |\n| Magyarország | Hungria | HU |\n| Malta | Malta | MT |\n| Nederland | Países Baixos | NL |\n| Österreich | Áustria | AT |\n| Polska | Polónia | PL |\n| Portugal | Portugal | PT |\n| Republika Hrvatska | Croácia | HR |\n| România | Roménia | RO |\n| Slovenija | Eslovénia | SI |\n| Slovensko | Eslováquia | SK |\n| Suomi/Finland | Finlândia | FI |\n| Sverige | Suécia | SE |\n| United Kingdom | Reino Unido | UK |\n| (^*1^) Transliteração para o alfabeto latino: България = Bulgária; Ελλάδα = Elláda; Κύπρος = Kýpros. |  |  |"
+  },
+  "00c0d636115ff831": {
+   "fragment_id": "Códigos das regiões",
+   "type": "divisao",
+   "heading": "Códigos das regiões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Códigos das regiões\n\nRegião da Flandres BE2\n\nRegião da Valónia BE3\n\nA indicação da região em causa na página de cobertura de cada secção e no início de cada quadro é uma possibilidade dada aos Estados-Membros que considerem adequado indicar uma repartição por regiões."
+  },
+  "a0ea28675a8475b6": {
+   "fragment_id": "Número de código (Cód.) das OP, OTP, AOP, ATOP e AP",
+   "type": "divisao",
+   "heading": "Número de código (Cód.) das OP, OTP, AOP, ATOP e AP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Número de código (Cód.) das OP, OTP, AOP, ATOP e AP\n\nO número de código de cada OP, OTP, AOP, ATOP ou AP é ÚNICO. O número de código de uma OP, OTP, AOP, ATOP ou AP cujo reconhecimento seja retirado não pode ser utilizado novamente."
+  },
+  "22528750cf657ad9": {
+   "fragment_id": "Valores monetários",
+   "type": "divisao",
+   "heading": "Valores monetários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Valores monetários\n\nTodos os valores monetários devem ser expressos em euros, exceto no caso de Estados-Membros que utilizem uma moeda nacional. Ao CIMO dos quadros figura uma casa «MOEDA NACIONAL».\n\nMoeda\n\nDeve indicar-se nesta casa o código da moeda nacional utilizada.\n\nCÓDIGO\n\nEuro EUR\n\nLibra esterlina GBP"
+  },
+  "0ddaef9178129549": {
+   "fragment_id": "Ponto de contacto/comunicação",
+   "type": "divisao",
+   "heading": "Ponto de contacto/comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Ponto de contacto/comunicação\n\n| Estado-Membro: |  | Ano: |  |\n| --- | --- | --- | --- |\n| Região: |  |  |  |\n\n| Organização | Nome |  |\n| --- | --- | --- |\n| Endereço postal |  |  |\n| Pessoa de contacto 1 | Apelido |  |\n| Nome próprio |  |  |\n| Cargo |  |  |\n| Endereço eletrónico |  |  |\n| Telefone da empresa |  |  |\n| Fax da empresa |  |  |\n| Pessoa de contacto 2 | Apelido |  |\n| Nome próprio |  |  |\n| Cargo |  |  |\n| Endereço eletrónico |  |  |\n| Telefone da empresa |  |  |\n| Fax da empresa |  |  |"
+  },
+  "255cae933d0309ef": {
+   "fragment_id": "Relatório anual — Parte A",
+   "type": "divisao",
+   "heading": "Relatório anual — Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório anual — Parte A\n\n| Estado-Membro: |  | Ano: |  |\n| --- | --- | --- | --- |\n| Região: |  |  |  |"
+  },
+  "1256404eb138f22b": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 1"
+  },
+  "2c88d11f2e49f60f": {
+   "fragment_id": "INFORMAÇÕES ADMINISTRATIVAS",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES ADMINISTRATIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### INFORMAÇÕES ADMINISTRATIVAS\n\nQuadro 1.1. **Alterações à legislação nacional adotada para aplicação do título I, capítulo II, secção 3, do Regulamento (UE) n.º 1308/2013 (para o setor das frutas e produtos hortícolas)**\n\n| *Legislação nacional* |  |  |\n| --- | --- | --- |\n| *Título* | *Publicação no JO do Estado-Membro* | *Hiperligação* |\n\nQuadro 1.2. **Alterações da estratégia nacional de sustentabilidade para os programas operacionais aplicável aos programas operacionais**\n\n| *Estratégia nacional* |  |\n| --- | --- |\n| *Alterações à estratégia nacional* [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0008) | *Hiperligação* |\n| (^1^) Síntese das alterações da estratégia nacional durante o ano objeto do relatório. |  |"
+  },
+  "4a4c1c83579af175": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 2"
+  },
+  "0f191ee13f113881": {
+   "fragment_id": "INFORMAÇÕES RELATIVAS AOS OP, OTP, AOP, ATOP E AP",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES RELATIVAS AOS OP, OTP, AOP, ATOP E AP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### INFORMAÇÕES RELATIVAS AOS OP, OTP, AOP, ATOP E AP\n\nQuadro 2.1. **Organizações de produtores**\n\n| Número total de OP reconhecidas |  |  |\n| --- | --- | --- |\n| Número total de OP suspensas |  |  |\n| Número total de OP cujo reconhecimento foi retirado |  |  |\n| Número total de OP que se fundiram com outra(s) OP, OTP, AOP, ATOP | Número total de OP abrangidas |  |\n| Número total de novas OP/AOP/TPO/TAPO |  |  |\n| Novo(s) Cód. |  |  |\n| Número de membros de OP | Total |  |\n| Entidades jurídicas |  |  |\n| Pessoas singulares |  |  |\n| Número de produtores de frutas e/ou produtos hortícolas |  |  |\n| Número total de OP que executam um programa operacional | — OP reconhecidas |  |\n| — OP suspensas |  |  |\n| — OP objeto de fusão |  |  |\n| Parte da produção destinada ao mercado dos produtos frescos | Valor |  |\n| Volume *(toneladas)* |  |  |\n| Parte da produção destinada à transformação | Valor |  |\n| Volume *(toneladas)* |  |  |\n| Superfície total de produção de frutas e produtos hortícolas *(ha)* [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0009) |  |  |\n| (^*1^) *excluindo cogumelos* |  |  |\n\nQuadro 2.2. **Organizações transnacionais de produtores** [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0010)\n\n| Número total de OTP reconhecidas |  |  |  |\n| --- | --- | --- | --- |\n|  | — Número de membros de OP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP |  |  |\n| Número total de OTP suspensas |  |  |  |\n|  | — Número de membros de OP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP |  |  |\n| Número total de OTP cujo reconhecimento foi retirado |  |  |  |\n|  | — Número de membros de OP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP |  |  |\n| Número total de OTP que se fundiram com outra(s) OTP/ATOP | Número total de OTP abrangidas |  |  |\n| Número total de novas OTP/ATOP |  |  |  |\n| Novo(s) Cód. |  |  |  |\n| Número de membros de OTP | Total |  |  |\n| Entidades jurídicas |  |  |  |\n| Pessoas singulares |  |  |  |\n| Número de produtores de frutas e/ou produtos hortícolas |  |  |  |\n| Número total de OTP que executam um programa operacional | — OTP reconhecidas | PO aplicado unicamente por OP/AOP |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — OTP suspensas | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — OTP objeto de fusão | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| Parte da produção destinada ao mercado dos produtos frescos | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Parte da produção destinada à transformação | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Superfície total de produção de frutas e produtos hortícolas *(ha)* [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0011) |  |  |  |\n| (^1^) Este quadro refere-se aos Estados-Membros onde se situam as sedes sociais das OTP. A área total refere-se às áreas exploradas pelos membros das OTP, nomeadamente OP, produtores integrados em membros de OP, membros de OTP e produtores membros da OTP. (^*1^) *excluindo cogumelos* |  |  |  |\n\nQuadro 2.3. **Associações de organizações de produtores** [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0012)\n\n| Número total de AOP reconhecidas |  |  |  |\n| --- | --- | --- | --- |\n|  | — Número de membros de OP |  |  |\n| Número total de AOP suspensas |  |  |  |\n|  | — Número de membros de OP |  |  |\n| Número total de AOP cujo reconhecimento foi retirado |  |  |  |\n|  | — Número de membros de OP |  |  |\n| Número total de AOP que se fundiram com outra(s) AOP/ATOP | Número total de AOP abrangidas |  |  |\n| Número total de novas AOP/ATOP |  |  |  |\n| Novo(s) Cód. |  |  |  |\n| Número de membros de AOP | Total |  |  |\n| Entidades jurídicas |  |  |  |\n| Pessoas singulares |  |  |  |\n| Número de produtores de frutas e/ou produtos hortícolas |  |  |  |\n| Número total de AOP que executam um programa operacional | — AOP reconhecidas | PO aplicado unicamente por OP/AOP |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — AOP suspensas | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — AOP objeto de fusão | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| Parte da produção destinada ao mercado dos produtos frescos | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Parte da produção destinada à transformação | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Superfície total de produção de frutas e produtos hortícolas *(ha)* [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0013) |  |  |  |\n| (^1^) Este quadro refere-se aos Estados-Membros onde se situam as sedes sociais das AOP. A área total refere-se às áreas exploradas pelos membros das AOP, nomeadamente OP e produtores integrados em membros de OP nas AOP. (^*1^) *excluindo cogumelos* |  |  |  |\n\nQuadro 2.4. **Associações transnacionais de organizações de produtores** [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0014)\n\n| Número total de ATOP reconhecidas |  |  |  |\n| --- | --- | --- | --- |\n|  | — Número de membros da OP/OTP/AOP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP/OTP/AOP |  |  |\n| Número total de ATOP suspensas |  |  |  |\n|  | — Número de membros da OP/OTP/AOP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP/OTP/AOP |  |  |\n| Número total de ATOP cujo reconhecimento foi retirado |  |  |  |\n|  | — Número de membros da OP/OTP/AOP |  |  |\n|  | — Lista dos EM onde se situam as sedes sociais dos membros das OP/OTP/AOP |  |  |\n| Número total de ATOP que se fundiram com outra(s) ATOP | Número total de ATOP abrangidas |  |  |\n| Número total de novas ATOP |  |  |  |\n| Novo(s) Cód. |  |  |  |\n| Número de membros de ATOP | Total |  |  |\n| Entidades jurídicas |  |  |  |\n| Pessoas singulares |  |  |  |\n| Número de produtores de frutas e/ou produtos hortícolas |  |  |  |\n| Número total de ATOP que executam um programa operacional | — ATOP reconhecidas | PO aplicado unicamente por OP/AOP |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — ATOP suspensas | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| — ATOP objeto de fusão | PO aplicado unicamente por OP/AOP |  |  |\n| PO parcialmente aplicado por AOP |  |  |  |\n| Parte da produção destinada ao mercado dos produtos frescos | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Parte da produção destinada à transformação | Valor |  |  |\n| Volume *(toneladas)* |  |  |  |\n| Superfície total de produção de frutas e produtos hortícolas *(ha)* [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0015) |  |  |  |\n| (^1^) Este quadro refere-se aos Estados-Membros onde se situam as sedes sociais das ATOP. A área total refere-se às áreas exploradas pelos membros das ATOP, nomeadamente OP e produtores integrados em membros de OP nas ATOP. (^*1^) *excluindo cogumelos* |  |  |  |\n\nQuadro 2.5. **Agrupamentos de produtores**\n\n| Número total de AP reconhecidos |  |  |\n| --- | --- | --- |\n| Número total de AP suspensos |  |  |\n| Número total de AP cujo reconhecimento foi retirado |  |  |\n| Número total de AP que se converteram em OP |  |  |\n| Número total de AP que se fundiram com outro(s) AP | Número total de AP abrangidos |  |\n| Número total de AP suspensos |  |  |\n| Novo(s) Cód. |  |  |\n| Número de membros de AP | Total |  |\n| Entidades jurídicas |  |  |\n| Pessoas singulares |  |  |\n| Número de produtores de frutas e/ou produtos hortícolas |  |  |\n| Parte da produção destinada ao mercado dos produtos frescos | Valor |  |\n| Volume *(toneladas)* |  |  |\n| Parte da produção destinada à transformação | Valor |  |\n| Volume *(toneladas)* |  |  |\n| Superfície total de produção de frutas e produtos hortícolas *(ha)* [(^*1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0016) |  |  |\n| (^*1^) *excluindo cogumelos* |  |  |"
+  },
+  "98a62129ee213197": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 3"
+  },
+  "5586e9989c963ce2": {
+   "fragment_id": "INFORMAÇÃO SOBRE AS DESPESAS",
+   "type": "divisao",
+   "heading": "INFORMAÇÃO SOBRE AS DESPESAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### INFORMAÇÃO SOBRE AS DESPESAS\n\nQuadro 3.1. **Despesas atinentes a OP, OTP, AOP e ATOP**\n\n|  | Todas as OP | Todas as OTP | Todas as AOP | Todas as ATOP |  |\n| --- | --- | --- | --- | --- | --- |\n| Fundo operacional | Total aprovado |  |  |  |  |\n| — Montante da contribuição financeira da organização e/ou dos membros da organização |  |  |  |  |  |\n| — Montante da assistência financeira da União |  |  |  |  |  |\n| Fundo operacional final | Total pago |  |  |  |  |\n| — Montante da contribuição financeira dos membros da organização |  |  |  |  |  |\n| — Montante da assistência financeira da União |  |  |  |  |  |\n| Assistência financeira nacional | Montante da assistência financeira nacional efetivamente pago |  |  |  |  |\n| Montante estimado da assistência financeira nacional efetivamente pago a reembolsar pela UE |  |  |  |  |  |\n| Lista das regiões beneficiárias ao abrigo do artigo 35.º do Regulamento (UE) n.º 1308/2013 |  |  |  |  |  |\n| Valor da produção comercializada *(calculado em conformidade com o artigo 22.º do Regulamento (UE) 2017/891)* |  |  |  |  |  |\n\n*(em euros ou moeda nacional)*\n\nQuadro 3.2. **Total das despesas efetivas dos programas operacionais (OP, OTP, AOP e ATOP)**\n\n| Ações/medidas *Artigo 2.º, alíneas f) e g), do Regulamento (UE) 2017/891* | Objetivos *Artigo 33.º, n.^os^ 1 e 3, e artigo 152.º, n.º 1, alínea c), do Regulamento (UE) n.º 1308/2013* | Total de despesas efetivas *(em euros ou moeda nacional)* |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Todas as OP | Todas as OTP | Todas as AOP | Todas as ATOP |  |  |\n| Investimentos | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| Medidas de prevenção e de gestão de crises |  |  |  |  |  |\n| Investigação |  |  |  |  |  |\n| Investigação e produção experimental | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| Regimes de qualidade (UE e nacionais) e medidas ligadas ao reforço da qualidade | Melhoria da qualidade dos produtos |  |  |  |  |\n| Promoção e comunicação | Reforço da valorização comercial dos produtos |  |  |  |  |\n| Promoção dos produtos |  |  |  |  |  |\n| Prevenção e gestão de crises |  |  |  |  |  |\n| Formação e intercâmbio de melhores práticas | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| Prevenção e gestão de crises |  |  |  |  |  |\n| Serviços de aconselhamento e assistência técnica | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| Modo de produção biológico | Medidas ambientais |  |  |  |  |\n| Produção integrada |  |  |  |  |  |\n| Melhoria da utilização ou gestão dos recursos hídricos, incluindo poupança e drenagem das águas |  |  |  |  |  |\n| Ações de conservação dos solos |  |  |  |  |  |\n| Ações de criação ou manutenção de habitats favoráveis à biodiversidade ou de conservação da paisagem, incluindo a conservação de características históricas |  |  |  |  |  |\n| Ações destinadas a favorecer a poupança energética (excluindo o transporte) |  |  |  |  |  |\n| Ações relacionadas com a redução da produção de resíduos e com uma melhor gestão destes |  |  |  |  |  |\n| Transportes |  |  |  |  |  |\n| Comercialização |  |  |  |  |  |\n| Criação de fundos mutualistas | Prevenção e gestão de crises |  |  |  |  |\n| Reconstituição de fundos mutualistas |  |  |  |  |  |\n| Replantação de pomares |  |  |  |  |  |\n| Retiradas do mercado |  |  |  |  |  |\n| — Distribuição gratuita |  |  |  |  |  |\n| — Outras medidas |  |  |  |  |  |\n| Colheita em verde |  |  |  |  |  |\n| Não-colheita |  |  |  |  |  |\n| Seguros de colheita |  |  |  |  |  |\n| Acompanhamento |  |  |  |  |  |\n| Custos administrativos | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| Prevenção e gestão de crises |  |  |  |  |  |\n| Investigação |  |  |  |  |  |\n| Outros | Planeamento da produção |  |  |  |  |\n| Melhoria da qualidade dos produtos |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos |  |  |  |  |  |\n| Medidas ambientais |  |  |  |  |  |\n| *Nota:* O Regulamento (UE) n.º 1308/2013 estabelece os seguintes objetivos: —Planeamento da produção Artigo 33.º, n.º 1, alínea a), e artigo 152.º, n.º 1, alínea c), subalíneas i), ii) e xi) —Melhoria da qualidade dos produtos Artigo 33.º, n.º 1, alínea b), e artigo 152.º, n.º 1, alínea c), subalíneas i), iv) e vi) —Reforço da valorização comercial dos produtos Artigo 33.º, n.º 1, alínea c), e artigo 152.º, n.º 1, alínea c), subalíneas i), ii), iii), iv), ix) e xi) —Promoção dos produtos Artigo 33.º, n.º 1, alínea d), e artigo 152.º, n.º 1, alínea c), subalíneas vi) e ix) —Medidas ambientais Artigo 33.º, n.º 1, alínea e), e artigo 152.º, n.º 1, alínea c), subalíneas iii), iv), v), vii) e viii) —Prevenção e gestão de crises Artigo 33.º, n.º 1, alínea f), artigo 33.º, n.º 3, alínea a), e artigo 152.º, n.º 1, alínea c), subalíneas iv) e xi) —Investigação Artigo 152.º, n.º 1, alínea c), subalínea iv) |  |  |  |  |  |\n\nQuadro 3.3. **Despesas totais atinentes aos agrupamentos de produtores**\n\n|  | Despesas totais atinentes a todos os AP *(em euros ou moeda nacional)* |  |\n| --- | --- | --- |\n| Investimentos AP | Investimentos para o reconhecimento de AP |  |\n| — montante da assistência financeira da União |  |  |\n| — montante da assistência financeira do EM |  |  |\n| — montante da contribuição dos membros do AP |  |  |\n\nQuadro 3.4. **Retiradas**\n\n|  | Volume total anual *(toneladas)* | Total de despesas *(em euros ou moeda nacional)* | Montante da assistência financeira da UE | Distribuição gratuita *(toneladas)* | Compostagem *(toneladas)* | Indústria de transformação *(toneladas)* | Outros destinos *(toneladas)* |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Produtos constantes do anexo IV do Regulamento (UE) 2017/891 | Couves-flor |  |  |  |  |  |  |  |\n| Tomates |  |  |  |  |  |  |  |  |\n| Maçãs |  |  |  |  |  |  |  |  |\n| Uvas |  |  |  |  |  |  |  |  |\n| Damascos |  |  |  |  |  |  |  |  |\n| Nectarinas |  |  |  |  |  |  |  |  |\n| Pêssegos |  |  |  |  |  |  |  |  |\n| Peras |  |  |  |  |  |  |  |  |\n| Beringelas |  |  |  |  |  |  |  |  |\n| Melões |  |  |  |  |  |  |  |  |\n| Melancias |  |  |  |  |  |  |  |  |\n| Laranjas |  |  |  |  |  |  |  |  |\n| Tangerinas |  |  |  |  |  |  |  |  |\n| Clementinas |  |  |  |  |  |  |  |  |\n| Satsumas |  |  |  |  |  |  |  |  |\n| Limões |  |  |  |  |  |  |  |  |\n| Outros produtos |  |  |  |  |  |  |  |  |\n| Total |  |  |  |  |  |  |  |  |"
+  },
+  "e5fae8c96a7d5068": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO 4"
+  },
+  "35091f30a5c3ac12": {
+   "fragment_id": "ACOMPANHAMENTO DOS PROGRAMAS OPERACIONAIS",
+   "type": "divisao",
+   "heading": "ACOMPANHAMENTO DOS PROGRAMAS OPERACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### ACOMPANHAMENTO DOS PROGRAMAS OPERACIONAIS\n\nOs indicadores relativos às ações das organizações de produtores, associações de organizações de produtores, organizações transnacionais e agrupamentos de produtores reconhecidos no âmbito de um programa operacional/plano de reconhecimento não dão necessariamente conta de todos os fatores suscetíveis de influenciar as realizações, os resultados e o impacto do programa operacional/plano de reconhecimento. Neste contexto, a informação dada pelos indicadores deve ser interpretada em conjugação com outras informações, quantitativas e qualitativas, relativas a outros fatores que contribuam decisivamente para o sucesso ou insucesso da execução do programa/plano.\n\nNo caso de os Estados-Membros utilizarem amostras para o cálculo dos indicadores, devem comunicar à Comissão, juntamente com o relatório anual, a dimensão, representatividade e elementos pertinentes daquelas.\n\nQuadro 4.1. **Indicadores relativos às OP, OTP, AOP e ATOP**\n\n| Ações/medidas *Artigo 2.º, alíneas f) e g), do Regulamento (UE) 2017/891* | Objetivos *Artigo 33.º, n.^os^ 1 e 3, e artigo 152.º, n.º 1, alínea c), do Regulamento (UE) n.º 1308/2013* | Indicadores | Todas as OP | Todas as OTP | Todas as AOP | Todas as ATOP |\n| --- | --- | --- | --- | --- | --- | --- |\n| Investimentos [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0017) | Planeamento da produção | Número de explorações |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Melhoria da qualidade dos produtos | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Valor total da produção comercializada/Volume total da produção comercializada *(em euros ou moeda nacional/kg)* |  |  |  |  |  |  |\n| Medidas ambientais | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Prevenção e gestão de crises | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Investigação | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Investigação e produção experimental | Planeamento da produção | Valor total |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Melhoria da qualidade dos produtos | Valor total |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos | Valor total |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Medidas ambientais | Número de explorações |  |  |  |  |  |\n| Valor total |  |  |  |  |  |  |\n| Regimes de qualidade (UE e nacionais) [(^2^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0018) e medidas ligadas ao reforço da qualidade | Melhoria da qualidade dos produtos | Superfície da DOP/IGP/ETG [(^3^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0019) *(ha)* |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Volume *(toneladas)* |  |  |  |  |  |  |\n| Promoção e comunicação [(^4^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0020) | Reforço da valorização comercial dos produtos | Número de explorações |  |  |  |  |\n| Número de campanhas de promoção |  |  |  |  |  |  |\n| Promoção dos produtos | Número de explorações |  |  |  |  |  |\n| Número de campanhas de promoção |  |  |  |  |  |  |\n| Prevenção e gestão de crises | Número de explorações |  |  |  |  |  |\n| Número de campanhas de promoção |  |  |  |  |  |  |\n| Formação e intercâmbio de melhores práticas | Planeamento da produção | Número de explorações |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Melhoria da qualidade dos produtos | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Medidas ambientais | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Prevenção e gestão de crises | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Serviços de aconselhamento e assistência técnica | Planeamento da produção | Número de explorações |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Melhoria da qualidade dos produtos | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Medidas ambientais | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Modo de produção biológico | Medidas ambientais | Superfície de produção biológica de frutas e/ou produtos hortícolas *(ha)* |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Produção integrada | Superfície de produção integrada de frutas e/ou produtos hortícolas *(ha)* |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Melhoria da utilização ou gestão dos recursos hídricos, incluindo poupança e drenagem das águas | Superfície de produção de frutas e produtos hortícolas sujeita à redução da utilização de água *(ha)* |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Diferença de volume (m^3^) *(n – 1/n)* |  |  |  |  |  |  |\n| Ações de conservação dos solos | Superfície de produção de frutas e produtos hortícolas em risco de erosão do solo na qual são aplicadas medidas antierosão *(ha)* [(^5^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0021) |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Diferença de utilização de fertilizantes por ha *(toneladas/ha)* *(n – 1/n)* |  |  |  |  |  |  |\n| Ações de criação ou manutenção de habitats favoráveis à biodiversidade ou de conservação da paisagem, incluindo a conservação de características históricas | Superfície abrangida por ações que contribuem para a proteção do habitat e da biodiversidade *(ha)* |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Ações destinadas a favorecer a poupança energética (excluindo o transporte) | Superfície de produção de frutas e produtos hortícolas sujeita à redução da utilização de energia (ha) |  |  |  |  |  |\n| Número de explorações |  |  |  |  |  |  |\n| Diferença do consumo de energia *(n – 1/n):* |  |  |  |  |  |  |\n| Sólidos | *(toneladas/volume da produção comercializada)* |  |  |  |  |  |\n| Líquidos | *(l/volume da produção comercializada)* |  |  |  |  |  |\n| Gás | *(m^3^/volume da produção comercializada)* |  |  |  |  |  |\n| Eletricidade | *(kwh/volume da produção comercializada)* |  |  |  |  |  |\n| Ações relacionadas com a redução da produção de resíduos e com uma melhor gestão destes | Número de explorações |  |  |  |  |  |\n| Diferença de volume de resíduos *(m^3^/volume da produção comercializada)* *(n – 1/n)* |  |  |  |  |  |  |\n| Diferença de volume de embalagens *(m^3^/volume da produção comercializada)* *(n – 1./n)* |  |  |  |  |  |  |\n| Transportes | Diferença do consumo de energia *(n – 1./n):* |  |  |  |  |  |\n| Líquidos | *(l/volume da produção comercializada)* |  |  |  |  |  |\n| Gás | *(m^3^/volume da produção comercializada)* |  |  |  |  |  |\n| Eletricidade | *(kwh/volume da produção comercializada)* |  |  |  |  |  |\n| Comercialização | Número de explorações |  |  |  |  |  |\n| Número de ações |  |  |  |  |  |  |\n| Criação de fundos mutualistas [(^6^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0022) | Prevenção e gestão de crises | Número de explorações |  |  |  |  |\n| Reconstituição de fundos mutualistas [(^7^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0023) | Número de explorações |  |  |  |  |  |\n| Replantação de pomares | Superfícies em causa *(ha)* |  |  |  |  |  |\n| Retiradas do mercado [(^7^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0023) | Número de ações realizadas |  |  |  |  |  |\n| Colheita em verde [(^8^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0024) | Número de ações realizadas |  |  |  |  |  |\n| Superfície em causa *(ha)* |  |  |  |  |  |  |\n| Não-colheita [(^8^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0024) | Número de ações realizadas |  |  |  |  |  |\n| Superfície em causa *(ha)* |  |  |  |  |  |  |\n| Seguros de colheita | Número de explorações |  |  |  |  |  |\n| Acompanhamento | Número de ações realizadas |  |  |  |  |  |\n| Outros | Planeamento da produção | Número de explorações |  |  |  |  |\n| Melhoria da qualidade dos produtos | Número de explorações |  |  |  |  |  |\n| Reforço da valorização comercial dos produtos | Número de explorações |  |  |  |  |  |\n| Medidas ambientais | Número de explorações |  |  |  |  |  |\n| (^1^) Incluindo investimentos não produtivos ligados ao cumprimento de compromissos assumidos no âmbito do programa operacional. (^2^) Diz respeito a um conjunto de obrigações específicas relativas aos métodos de produção: a) cuja observância é verificada por inspeções independentes; b) de cuja aplicação resulta um produto final cuja qualidade i) excede significativamente os padrões comerciais habituais, no que respeita a normas de saúde pública, fitossanitárias ou ambientais, ii) vai ao encontro de oportunidades de mercado atuais ou previsíveis. Propõe-se que os principais tipos de «regime de qualidade» abranjam o seguinte: a) modo de produção biológico certificado; b) indicações geográficas protegidas e denominações de origem protegidas; c) produção integrada certificada; d) regimes privados de certificação da qualidade dos produtos. (^3^) Denominações de origem protegidas, indicações geográficas protegidas, especialidades tradicionais garantidas. (^4^) Cada dia de uma campanha de promoção/comunicação é contabilizado como uma ação. (^5^) Entende-se por «em risco de erosão do solo» qualquer parcela com declive superior a 10 %, na qual tenham ou não sido tomadas medidas antierosão (por exemplo, cobertura do solo, rotação das culturas e outras). Se dispuserem das informações necessárias, os Estados-Membros podem, em alternativa, aplicar a seguinte definição: entende-se por «em risco de erosão do solo» qualquer parcela na qual seja previsível uma perda de solo superior à taxa de formação natural de solo, na qual tenham ou não sido tomadas medidas antierosão (por exemplo, cobertura do solo ou rotação das culturas). (^6^) Ações relacionadas com a constituição/reconstituição de fundos mutualistas diferentes são contabilizadas como ações distintas. (^7^) A retirada do mesmo produto do mercado em diferentes períodos do ano e retiradas do mercado de produtos diferentes são contabilizadas como ações distintas. Cada operação de retirada de um determinado produto do mercado é contabilizada como uma ação. (^8^) A colheita em verde e a não-colheita de produtos diferentes são contabilizadas como ações distintas. A colheita em verde e a não-colheita do mesmo produto são contabilizadas como uma ação, independentemente do número de dias que requerem, do número de explorações participantes e do número de parcelas ou de hectares abrangidos. |  |  |  |  |  |  |\n\nQuadro 4.2. **Indicadores para os agrupamentos de produtores**\n\n|  | Indicador | Número |  |\n| --- | --- | --- | --- |\n| Investimentos AP | Investimentos para o reconhecimento de AP | Número de membros de AP |  |\n| Número de AP reconhecidos como OP |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "8e4376567b0c3d98": {
+   "fragment_id": "Requisitos mínimos dos produtos retirados, referidos no artigo 15.º, n.º 2",
+   "type": "divisao",
+   "heading": "Requisitos mínimos dos produtos retirados, referidos no artigo 15.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos mínimos dos produtos retirados, referidos no artigo 15.º, n.º 2\n\n1. Os produtos devem apresentar-se:\n\n— inteiros,\n\n— sãos; são excluídos os produtos que apresentem podridões ou alterações que os tornem impróprios para consumo,\n\n— limpos, praticamente isentos de matérias estranhas visíveis,\n\n— praticamente isentos de parasitas e de ataques de parasitas,\n\n— isentos de humidades exteriores anormais,\n\n— isentos de odores ou sabores estranhos.\n\n2. Os produtos devem apresentar um desenvolvimento e um estado de maturação suficientes, atendendo à sua natureza.\n\n3. Os produtos devem apresentar as características da variedade e do tipo comercial em questão."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "70d8e671e3f5f05b": {
+   "fragment_id": "Despesas de transporte no âmbito da distribuição gratuita referidas no artigo 16.º, n.º 1",
+   "type": "divisao",
+   "heading": "Despesas de transporte no âmbito da distribuição gratuita referidas no artigo 16.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Despesas de transporte no âmbito da distribuição gratuita referidas no artigo 16.º, n.º 1\n\n| Distância entre o ponto de retirada e o local de entrega | Despesas de transporte (EUR/t) [(^1^)](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0025) |\n| --- | --- |\n| Inferior ou igual a 25 km | 18,20 |\n| Superior a 25 km mas inferior ou igual a 200 km | 41,40 |\n| Superior a 200 km mas inferior ou igual a 350 km | 54,30 |\n| Superior a 350 km mas inferior ou igual a 500 km | 72,60 |\n| Superior a 500 km mas inferior ou igual a 750 km | 95,30 |\n| Distância superior a 750 km | 108,30 |\n| (^1^) Suplemento de transporte frigorífico: 8,50 EUR/t. |  |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "9e5c1b16afe3cab7": {
+   "fragment_id": "Despesas de triagem e de embalagem referidas no artigo 17.º, n.º 1",
+   "type": "divisao",
+   "heading": "Despesas de triagem e de embalagem referidas no artigo 17.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Despesas de triagem e de embalagem referidas no artigo 17.º, n.º 1\n\nProduto Despesas de triagem e de embalagem (EUR/t)\n\nMaçãs 187,70\n\nPeras 159,60\n\nLaranjas 240,80\n\nClementinas 296,60\n\nPêssegos 175,10\n\nNectarinas 205,80\n\nMelancias 167,00\n\nCouves-flor 169,10\n\nOutros produtos 201,10"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "d66915d1262ae5dc": {
+   "fragment_id": "Menções a inscrever nas embalagens dos produtos referidas no artigo 17.º, n.º 2",
+   "type": "divisao",
+   "heading": "Menções a inscrever nas embalagens dos produtos referidas no artigo 17.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Menções a inscrever nas embalagens dos produtos referidas no artigo 17.º, n.º 2\n\n— Продукт, предназначен за безплатна дистрибуция (Регламент за изпълнение (ЕC) 2017/…)\n\n— Producto destinado a su distribución gratuita [Reglamento de ejecución (UE) 2017/…]\n\n— Produkt určený k bezplatné distribuci [prováděcí nařízení (EU) 2017/…]\n\n— Produkt til gratis uddeling (gennemførelsesforordning (EU) 2017/…)\n\n— Zur kostenlosen Verteilung bestimmtes Erzeugnis (Durchführungsverordnung (EU) 2017/…)\n\n— Tasuta jagamiseks mõeldud tooted [rakendusmäärus (EL) 2017/…]\n\n— Προϊόν προοριζόμενο για δωρεάν διανομή [εκτελεστικός κανονισμός (ΕΕ) 2017/…]\n\n— Product for free distribution (Implementing Regulation (EU) 2017/…)\n\n— Produit destiné à la distribution gratuite [règlement d'exécution (UE) 2017/…]\n\n— Proizvod za slobodnu distribuciju (Provedbena uredba (EU) 2017/…)\n\n— Prodotto destinato alla distribuzione gratuita [regolamento di esecuzione (UE) 2017/…]\n\n— Produkts paredzēts bezmaksas izplatīšanai [Īstenošanas regula (ES) 2017/…]\n\n— Nemokamai platinamas produktas [Įgyvendinimo reglamentas (ES) 2017/…]\n\n— Ingyenes szétosztásra szánt termék ((EU) 2017/… végrehajtási rendelet)\n\n— Prodott destinat għad-distribuzzjoni bla ħlas [Regolament ta' implimentazzjoni (UE) 2017/…]\n\n— Voor gratis uitreiking bestemd product (Uitvoeringsverordening (EU) 2017/…)\n\n— Produkt przeznaczony do bezpłatnej dystrybucji [Rozporządzenie wykonawcze (UE) 2017/…]\n\n— Produto destinado a distribuição gratuita [Regulamento de execução (UE) 2017/…]\n\n— Produs destinat distribuirii gratuite [Regulamentul de punere în aplicare (UE) 2017/…]\n\n— Výrobok určený na bezplatnú distribúciu [vykonávacie nariadenie (EÚ) 2017/…]\n\n— Proizvod, namenjen za prosto razdelitev [Izvedbena uredba (EU) 2017/…]\n\n— Ilmaisjakeluun tarkoitettu tuote (täytäntöönpanoasetus (EU) 2017/…)\n\n— Produkt för gratisutdelning (genomförandeförordning (EU) 2017/…)"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "896fcf8271e221c6": {
+   "fragment_id": "Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º",
+   "type": "divisao",
+   "heading": "Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º\n\nSem prejuízo das regras de interpretação da Nomenclatura Combinada, o enunciado da designação das mercadorias tem apenas valor indicativo. Para os efeitos do presente anexo, o domínio de aplicação dos direitos adicionais é determinado pelo âmbito dos códigos NC tal como se encontram estabelecidos aquando da adoção do presente regulamento.\n\n| N.º de ordem | Código NC | Descrição dos produtos | Período de aplicação |\n| --- | --- | --- | --- |\n| 78.0015 | 0702 00 00 | Tomates | De 1 de outubro a 31 de maio |\n| 78.0020 | De 1 de junho a 30 de setembro |  |  |\n| 78.0065 | 0707 00 05 | Pepinos | De 1 de maio a 31 de outubro |\n| 78.0075 | De 1 de novembro a 30 de abril |  |  |\n| 78.0085 | 0709 91 00 | Alcachofras | De 1 de novembro a 30 de junho |\n| 78.0100 | 0709 93 10 | Aboborinhas | de 1 de janeiro a 31 de dezembro |\n| 78.0110 | 0805 10 20 | Laranjas | De 1 de dezembro a 31 de maio |\n| 78.0120 | 0805 20 10 | Clementinas | De 1 de novembro ao final de fevereiro |\n| 78.0130 | 0805 20 30 0805 20 50 0805 20 70 0805 20 90 | Mandarinas (incluindo as tangerinas e as satsumas) *wilkings* e outros citrinos híbridos semelhantes | De 1 de novembro ao final de fevereiro |\n| 78.0155 | 0805 50 10 | Limões | De 1 de junho a 31 de dezembro |\n| 78.0160 | De 1 de janeiro a 31 de maio |  |  |\n| 78.0170 | 0806 10 10 | Uvas de mesa | de 16 julho a 16 de novembro |\n| 78.0175 | 0808 10 80 | Maçãs | De 1 de janeiro a 31 de agosto |\n| 78.0180 | De 1 de setembro a 31 de dezembro |  |  |\n| 78.0220 | 0808 30 90 | Peras | De 1 de janeiro a 30 de abril |\n| 78.0235 | De 1 de julho a 31 de dezembro |  |  |\n| 78.0250 | 0809 10 00 | Damascos | De 1 de junho a 31 de julho |\n| 78.0265 | 0809 29 00 | Cerejas, com exclusão das ginjas | De 16 de maio a 15 de agosto |\n| 78.0270 | 0809 30 | Pêssegos, incluindo as nectarinas | De 16 de junho a 30 de setembro |\n| 78.0280 | 0809 40 05 | Ameixas | De 16 de junho a 30 de setembro |\n\n---"
+  },
+  "96fc0b39adecf1c4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1305/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, sobre o apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e que revoga o Regulamento (CE) n.º 1698/2005 do Conselho (JO L 347 de 20.12.2013, p. 487).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1144/2014 do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, relativo à execução de ações de informação e de promoção dos produtos agrícolas no mercado interno e em países terceiros, e que revoga o Regulamento (CE) n.º 3/2008 do Conselho (JO L 317 de 4.11.2014, p. 56).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro (JO L 255 de 28.8.2014, p. 18).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Regulamento de Execução (UE) 2015/2447 da Comissão, de 24 de novembro de 2015, que estabelece as regras de execução de determinadas disposições do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho que estabelece o Código Aduaneiro da União (JO L 343 de 29.12.2015, p. 558).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f09ad9a0-546a-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0006)) http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm"
+  },
+  "f8a6638f6a2d9e21": {
+   "fragment_id": "Artigo 38.º — Valores forfetários de importação",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Valores forfetários de importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Valores forfetários de importação\n\n1. Em relação a cada produto e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, a Comissão fixa, em cada dia útil e para cada origem, um valor forfetário de importação, igual à média ponderada dos preços representativos referidos no artigo 74.º do mesmo regulamento, diminuídos de um montante fixo de 5 EUR por 100 quilogramas e dos direitos aduaneiros *ad valorem*.\n\n2. Na medida em que, para os produtos e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, seja fixado em conformidade com os artigos 74.º e 75.º do mesmo regulamento e com o presente artigo, um valor forfetário de importação, não é aplicável o preço unitário referido no artigo 142.º do Regulamento de Execução (UE) 2015/2447 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/56cfe363-7bc2-11ed-9887-01aa75ed71a1.0019.02/DOC_3#E0005)). Este é substituído pelo valor forfetário de importação referido no n.º 1.\n\n3. Sempre que, em relação a um produto de uma dada origem, não se encontre em vigor nenhum valor forfetário de importação, aplica-se a média ponderada dos valores forfetários de importação em vigor para esse produto.\n\n4. Durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, os valores forfetários de importação continuam a ser aplicáveis até serem alterados. Deixam, todavia, de se aplicar sempre que, durante duas semanas consecutivas, não seja notificado à Comissão qualquer preço médio representativo.\n\nSempre que, em aplicação do primeiro parágrafo, não se aplicar a um valor forfetário de importação para um dado produto, o valor forfetário de importação aplicável a esse produto é igual à última média dos valores forfetários de importação.\n\n5. Em derrogação ao n.º 1, com efeito a partir do primeiro dia dos períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, não é aplicável nenhum valor forfetário de importação quando não tiver sido possível calcular tal valor.\n\n6. A taxa de câmbio aplicável ao valor forfetário de importação é a última taxa de câmbio publicada pelo Banco Central Europeu antes do último dia do período a título do qual os preços são transmitidos.\n\n7. Os valores forfetários de importação, expressos em EUR, são publicados pela Comissão através da TARIC ([^2^](http://publications.europa.eu/resource/cellar/56cfe363-7bc2-11ed-9887-01aa75ed71a1.0019.02/DOC_3#E0006))."
+  },
+  "617ee47e0df0718b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/56cfe363-7bc2-11ed-9887-01aa75ed71a1.0019.02/DOC_3#src.E0005)) Regulamento de Execução (UE) 2015/2447 da Comissão, de 24 de novembro de 2015, que estabelece as regras de execução de determinadas disposições do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho que estabelece o Código Aduaneiro da União (JO L 343 de 29.12.2015, p. 558).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/56cfe363-7bc2-11ed-9887-01aa75ed71a1.0019.02/DOC_3#src.E0006)) http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm"
+  },
+  "08d1415bab3b6382": {
+   "fragment_id": "Artigo 23.º — Pedidos de reconhecimento",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Pedidos de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pedidos de reconhecimento\n\nSem prejuízo do disposto no artigo 24.º, os Estados-Membros devem prever procedimentos para os pedidos de reconhecimento de organizações de produtores e de associações de organizações de produtores."
+  },
+  "94d10890b608ee35": {
+   "fragment_id": "Artigo 38.º — Valores forfetários de importação",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Valores forfetários de importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Valores forfetários de importação\n\n1. Em relação a cada produto e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, a Comissão fixa, todas as terças-feiras, um valor forfetário de importação para cada origem.\n\nO valor forfetário de importação deve ser igual ao preço representativo médio ponderado referido no artigo 74.º do Regulamento Delegado (UE) 2017/891 notificado pelos Estados-Membros, diminuídos de um montante fixo de 5 EUR por 100 quilogramas e dos direitos aduaneiros *ad valorem*.\n\nNos períodos de aplicação constantes no anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, os valores forfetários de importação são válidos a partir do dia seguinte ao da sua publicação até à fixação dos valores forfetários de importação sucessivos. Se a terça-feira coincidir com um dia feriado da Comissão, os valores forfetários de importação são fixados no dia útil seguinte.\n\n2. Na medida em que, para os produtos e durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, seja fixado em conformidade com os artigos 74.º e 75.º do mesmo regulamento e com o presente artigo, um valor forfetário de importação, não é aplicável o preço unitário referido no artigo 142.º do Regulamento de Execução (UE) 2015/2447 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0005)). Este é substituído pelo valor forfetário de importação referido no n.º 1.\n\n3. Sempre que, em relação a um produto de uma dada origem, não se encontre em vigor nenhum valor forfetário de importação, aplica-se a média ponderada dos valores forfetários de importação em vigor para esse produto.\n\n4. Durante os períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, os valores forfetários de importação continuam a ser aplicáveis até serem alterados. Deixam, todavia, de se aplicar sempre que, durante duas semanas consecutivas, não seja notificado à Comissão qualquer preço médio representativo.\n\nSempre que, em aplicação do primeiro parágrafo, não se aplicar a um valor forfetário de importação para um dado produto, o valor forfetário de importação aplicável a esse produto é igual à última média dos valores forfetários de importação.\n\n5. Em derrogação ao n.º 1, com efeito a partir do primeiro dia dos períodos de aplicação constantes do anexo VII, parte A, do Regulamento Delegado (UE) 2017/891, não é aplicável nenhum valor forfetário de importação quando não tiver sido possível calcular tal valor.\n\n6. A taxa de câmbio aplicável ao valor forfetário de importação é a última taxa de câmbio publicada pelo Banco Central Europeu antes do último dia do período a título do qual os preços são transmitidos.\n\n7. Os valores forfetários de importação, expressos em EUR, são publicados pela Comissão através da TARIC ([^2^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0006))."
+  },
+  "581e077c44edb37f": {
+   "fragment_id": "Artigo 39.º — Imposição de um direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Imposição de um direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Imposição de um direito de importação adicional\n\n1.\n\nOs direitos de importação adicionais referidos no artigo 182.º, n.º 1, do Regulamento (UE) n.º 1308/2013 podem ser aplicados aos produtos e durante os períodos constantes do anexo VII do presente regulamento. Este direito de importação adicional é aplicável se a quantidade de qualquer dos produtos colocados em livre prática em qualquer dos períodos de aplicação indicados nesse anexo exceder o volume de desencadeamento para esse produto no período pertinente.\n\n2. Em relação a cada um dos produtos referidos no anexo VII e durante os períodos nele indicados, os Estados-Membros devem transmitir à Comissão dados pormenorizados sobre os volumes introduzidos em livre prática, pelo método previsto no artigo 55.º do Regulamento de Execução (UE) 2015/2447 para a vigilância das importações preferenciais.\n\n3.\n\nO direito adicional de importação é imposto às quantidades introduzidas em livre prática [**►M5**](http://publications.europa.eu/resource/celex/32025R2185) a partir da**◄** a data da aplicação do referido direito, desde que:\n\na) O seu valor aduaneiro, determinado em conformidade com o artigo 74.º do Regulamento Delegado (UE) 2017/891, implique a aplicação dos direitos específicos de importação mais elevados aplicáveis às importações da origem em causa; e\n\nb) A importação seja realizada durante o período de aplicação do direito de importação adicional."
+  },
+  "a336a9b4785c82b0": {
+   "fragment_id": "Artigo 40.º — Montante do direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Montante do direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Montante do direito de importação adicional\n\nO direito de importação adicional aplicado em conformidade com o artigo 39.º deve ser equivalente a um terço do direito aduaneiro *erga omnes* previsto na pauta aduaneira comum para o produto em causa."
+  },
+  "70e6df633e2eb7f1": {
+   "fragment_id": "Artigo 41.º — Isenções do direito de importação adicional",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Isenções do direito de importação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Isenções do direito de importação adicional\n\n1.\n\nEstão isentas da aplicação do direito adicional de importação as seguintes mercadorias:\n\na) Mercadorias importadas ao abrigo de contingentes pautais não preferenciais;\n\nb) Mercadorias que tenham deixado o país de origem antes da decisão de aplicação do direito de importação adicional, e que sejam transportadas, desde o local de carregamento no país de origem até ao local de descarregamento na União, ao abrigo de um documento de transporte válido emitido antes da aplicação do direito de importação adicional;\n\nc) Mercadorias importadas ao abrigo do sistema de preferências pautais generalizadas nos termos do Regulamento (UE) n.º 978/2012 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#E0007)).\n\n2. Os interessados devem fornecer prova suficiente perante as autoridades aduaneiras de que estão preenchidas as condições previstas no n.º 1, alínea b).\n\nAs autoridades aduaneiras podem considerar que as mercadorias deixaram o país de origem antes da data de aplicação do direito de importação adicional se for fornecido um dos seguintes documentos:\n\na) Em caso de transporte marítimo, o conhecimento de embarque, segundo o qual o carregamento foi efetuado antes daquela data;\n\nb) Em caso de transporte ferroviário, a guia de expedição aceite pelos serviços de caminho de ferro do país de origem antes daquela data;\n\nc) Em caso de transporte rodoviário, o contrato de mercadorias por estrada (CME) ou outro documento de trânsito emitido no país de origem antes daquela data, desde que sejam respeitadas as condições determinadas pelos convénios bilaterais ou multilaterais acordados no âmbito do trânsito da União ou do trânsito comum;\n\nd) Em caso de transporte aéreo, a carta de porte aéreo, segundo a qual a companhia aérea aceitou as mercadorias antes daquela data."
+  },
+  "6273265ff61c2fb5": {
+   "fragment_id": "Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º",
+   "type": "divisao",
+   "heading": "Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º\n\nSem prejuízo das regras de interpretação da Nomenclatura Combinada, o enunciado da designação das mercadorias tem apenas valor indicativo. Para os efeitos do presente anexo, o domínio de aplicação dos direitos adicionais é determinado pelo âmbito dos códigos NC.\n\n| N.º de ordem | Código NC | Descrição dos produtos | Período de aplicação |\n| --- | --- | --- | --- |\n| 78.0015 | 0702 00 10, 0702 00 91, 0702 00 99 | Tomates inteiros, de diâmetro máximo inferior a 47 mm, Outros tomates em cachos, Outros tomates | De 1 de outubro a 31 de maio |\n| 78.0020 | De 1 de junho a 30 de setembro |  |  |\n| 78.0065 | 0707 00 05 | Pepinos | De 1 de maio a 31 de outubro |\n| 78.0075 | De 1 de novembro a 30 de abril |  |  |\n| 78.0085 | 0709 91 00 | Alcachofras | De 1 de novembro a 30 de junho |\n| 78.0100 | 0709 93 10 | Aboborinhas | De 1 de janeiro a 31 de dezembro |\n| 78.0110 | 0805 10 22, 0805 10 24, 0805 10 28 | Laranjas-da-baía, Laranjas brancas, Outras laranjas doces | De 1 de dezembro a 31 de maio |\n| 78.0120 | 0805 22 00 | Clementinas | De 1 de novembro ao final de fevereiro |\n| 78.0130 | 0805 21 10, 0805 21 90, 0805 29 00 | Satsumas, Mandarinas e tangerinas, *Wilkings* e outros citrinos híbridos semelhantes, exceto tangerinas, satsumas e clementinas | De 1 de novembro ao final de fevereiro |\n| 78.0155 | 0805 50 10 | Limões (*Citrus limon*, *Citrus limonum*) | De 1 de junho a 31 de dezembro |\n| 78.0160 | De 1 de janeiro a 31 de maio |  |  |\n| 78.0170 | 0806 10 10 | Uvas de mesa | De 21 julho a 20 de novembro |\n| 78.0175 | 0808 10 80 | Maçãs | De 1 de janeiro a 31 de agosto |\n| 78.0180 | De 1 de setembro a 31 de dezembro |  |  |\n| 78.0220 | 0808 30 90 | Peras | De 1 de janeiro a 30 de abril |\n| 78.0235 | De 1 de julho a 31 de dezembro |  |  |\n| 78.0250 | 0809 10 00 | Damascos | De 1 de junho a 31 de julho |\n| 78.0265 | 0809 29 00 | Cerejas, com exclusão das ginjas | De 21 de maio a 10 de agosto |\n| 78.0270 | 0809 30 20, 0809 30 30, 0809 30 80 | Pêssegos planos (*Prunus persica var. platycarpa*) e nectarinas planas (*Prunus persica var. platerina*), Nectarinas, Outros pêssegos | De 11 de junho a 30 de setembro |\n| 78.0280 | 0809 40 05 | Ameixas | De 11 de junho a 30 de setembro |\n\n---"
+  },
+  "11d30b1d99e93ecd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento de Execução (UE) 2015/2447 da Comissão, de 24 de novembro de 2015, que estabelece as regras de execução de determinadas disposições do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho que estabelece o Código Aduaneiro da União (JO L 343 de 29.12.2015, p. 558).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#src.E0006)) http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm\n\n> ([^3^](http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1#src.E0007)) Regulamento (UE) n.º 978/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à aplicação de um sistema de preferências pautais generalizadas e que revoga o Regulamento (CE) n.º 732/2008 do Conselho (JO L 303 de 31.10.2012, p. 1, ELI: [http://data.europa.eu/eli/reg/2012/978/oj](http://data.europa.eu/eli/reg/2012/978/oj))."
+  }
+ }
+}

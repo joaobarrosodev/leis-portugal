@@ -1,0 +1,960 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016R1719:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1719-20210315",
+ "dre_path": null,
+ "source_lastmod": "2021-03-15",
+ "versions": [
+  {
+   "date": "2021-03-15",
+   "future": false,
+   "celex": "02016R1719-20210315",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9d7b467f7add3e92",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "8040364c88436818",
+    "fe7f47eaf33eb637",
+    "35fcd2766b85d216",
+    "c23abc6f59631caa",
+    "6a0b5f5336eae8e9",
+    "f47171ed39d55b16",
+    "2d0d1b51b347a70e",
+    "4c8bdeab3d91ec7d",
+    "13e9676bd22da0f8",
+    "f6c2eb219fe1b284",
+    "55d4e56012c0da8b",
+    "3869c2effa545d25",
+    "560ff695c4af81f0",
+    "b560faa7580e7339",
+    "92e267813a21db7e",
+    "18e5b2282eff7afa",
+    "55e70b860487a2dc",
+    "fa68aa4e902abfb2",
+    "3ea10bacc4a8a581",
+    "989574ed5d26c2ac",
+    "1fca7c70cdcc94cb",
+    "188326238c9e4b43",
+    "f7ffcdd42fa90e55",
+    "40cdbad2bcd5063d",
+    "b426821733183e1b",
+    "84ceaa2d5ab66882",
+    "29cc4084c3630840",
+    "940f9155dc180fa5",
+    "7f5f55eb432d6b2d",
+    "235beffe30fb40e7",
+    "b5d7193d82983e30",
+    "a230784d4b14bbbf",
+    "9abd0a116f316457",
+    "97ffff5c926b106b",
+    "d6777d5153652c4a",
+    "3e22583f5831de96",
+    "c4271c4ae36abfc4",
+    "744a62350cf0c0fd",
+    "934f8ad06570db6f",
+    "137fe6f92f84f2d4",
+    "8a6992ea3c104fd1",
+    "ff229adab72df1dd",
+    "7e75fd157d215183",
+    "a3b195c08c38f795",
+    "d2d6f163df45ae12",
+    "3869c2effa545d25",
+    "7fabed8a0a46afb5",
+    "32dad7490ae64e49",
+    "bacae5b45ec8af48",
+    "18e5b2282eff7afa",
+    "ae2e31dcbf63a540",
+    "2b734fc1054fd768",
+    "c47366d3d74c354e",
+    "b0fdd9b031315cd7",
+    "144fd77f341fafe0",
+    "a7281dd28c0f6bb6",
+    "59b8f7180dca09b1",
+    "b426821733183e1b",
+    "386b13b93db18ee4",
+    "da351195370030d0",
+    "b5d7193d82983e30",
+    "1c2673e0e56ded1b",
+    "1aca9df6611ce734",
+    "c5ca0bdbd1f9d7ce",
+    "f78c3063f5b47a39",
+    "37b61308f5dcde7d",
+    "30e2432fa064af03",
+    "5e958aaf07fcd1d8",
+    "46ad66a4ebf3ee62",
+    "23013fb8580794a4",
+    "93b64cfbf283d8b8",
+    "0ad7262770310ac2",
+    "7e21cd3e879cb828",
+    "6cc3b57c1b453c93",
+    "9cde386fecb2989b",
+    "96a94d74f418ba3f",
+    "79e92347c713a1fd",
+    "10df62826e23bf7e",
+    "ba538fa7b6eb44e8",
+    "eec202c22aa9eee1",
+    "84731b4f0209edaa",
+    "d91318de7c70c34d",
+    "47858455157b62ca",
+    "830811a0c735e58f",
+    "7d688461e141b536",
+    "a19b84a65aec7ed5",
+    "b883d37fb990ba0c",
+    "45c5c9f6719b083d",
+    "3c86a15ddc0878af",
+    "74d58219a95bfd24",
+    "b1fd3be86689cd14",
+    "906b320adabe224c",
+    "eb1fed0796c1ff13",
+    "bd2c24983f339e90",
+    "39170caef75b97e5",
+    "e38720f8d91c0626",
+    "549cf29aaf2c70af",
+    "9db704600627e53c",
+    "30c7cd091852c7d1",
+    "a168da7e32db6e13",
+    "851bcaad192b598e",
+    "662cf62f00c33127",
+    "dde9cf53e9ae6c9a",
+    "869719e1a41f6aac",
+    "1d9c62b6a22305c0"
+   ]
+  }
+ ],
+ "fragments": {
+  "9d7b467f7add3e92": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de setembro de 2016\n\nque estabelece orientações sobre a atribuição de capacidade a prazo\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "8040364c88436818": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1. O presente regulamento estabelece regras pormenorizadas sobre a atribuição de capacidade interzonal nos mercados a prazo, sobre a criação de uma metodologia comum para determinar capacidades interzonais a longo prazo, sobre a criação de uma plataforma única de atribuição a nível europeu que ofereça direitos de transporte a longo prazo e sobre a possibilidade de devolver direitos de transporte a longo prazo, para subsequente atribuição de capacidade a prazo, ou de transferir direitos de transporte a longo prazo entre os participantes no mercado.\n\n2. O presente regulamento aplica-se a todas as redes de transporte e interligações na União, à exceção das redes de transporte de ilhas que não estejam ligadas a outras redes de transporte através de interligações.\n\n3. Nos Estados-Membros onde exista mais do que um ORT, o presente regulamento aplica-se a todos os ORT do Estado-Membro. Se um ORT não desempenhar uma função relevante para uma ou mais obrigações decorrentes do presente regulamento, o Estado-Membro pode determinar que a responsabilidade pelo cumprimento dessas obrigações seja atribuída a um ou mais ORT distintos do ORT em causa.\n\n4. A plataforma única de atribuição poderá ser aberta aos operadores de mercado e aos ORT que operam na Suíça, desde que a legislação nacional suíça aplique as principais disposições da legislação do mercado da eletricidade da União e exista um acordo intergovernamental de cooperação no domínio da eletricidade entre a União e a Suíça.\n\n5. Sob reserva das condições estabelecidas no n.º 4, a participação da Suíça na plataforma única de atribuição é decidida pela Comissão com base num parecer da Agência. Os direitos e responsabilidades dos ORT suíços que integrem a plataforma única de atribuição devem ser coerentes com os direitos e responsabilidades dos ORT que operam na União, de modo a possibilitar o bom funcionamento da atribuição de direitos de transporte a longo prazo a nível da União e a proporcionar condições equitativas às partes interessadas."
+  },
+  "fe7f47eaf33eb637": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições do artigo 2.º do Regulamento (CE) n.º 714/2009, do artigo 2.º do Regulamento (UE) 2015/1222, do artigo 2.º do Regulamento (UE) n.º 543/2013 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ba2a7774-869b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#E0001)) e do artigo 2.º da Diretiva 2009/72/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/ba2a7774-869b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\nSão igualmente aplicáveis as seguintes definições:\n\n1) Por «atribuição de capacidade a prazo» entende-se a atribuição de capacidade interzonal a longo prazo através de leilão antes do período de operação para o dia seguinte;\n\n2) Por «direito de transporte a longo prazo» entende-se um direito físico de transporte, um DFT — opção ou um DFT — obrigação adquirido com a atribuição de capacidade a prazo;\n\n3) Por «regras de atribuição» entendem-se as regras de atribuição de capacidade a prazo aplicadas pela plataforma única de atribuição;\n\n4) Por «plataforma única de atribuição» entende-se a plataforma europeia estabelecida por todos os ORT para atribuição de capacidade a prazo;\n\n5) Por «leilão» entende-se o processo através do qual é oferecida e atribuída capacidade interzonal a longo prazo aos participantes no mercado que apresentem ofertas de compra;\n\n6) Por «usar ou vender» entende-se o princípio segundo o qual a capacidade interzonal subjacente aos direitos físicos de transporte adquirida e não sujeita a nomeação é automaticamente disponibilizada para efeitos de atribuição de capacidade para o dia seguinte e de acordo com o qual o titular desses direitos físicos recebe remuneração dos ORT;\n\n7) Por «nomeação» entende-se a comunicação da utilização de capacidade interzonal a longo prazo por parte de um titular de direitos físicos de transporte e da sua contraparte, ou de um terceiro autorizado, aos ORT respetivos;\n\n8) Por «regras de nomeação» entendem-se as regras em matéria de comunicação da utilização de capacidade interzonal a longo prazo por parte de um titular de direitos físicos de transporte e da sua contraparte, ou de um terceiro autorizado, aos ORT respetivos;\n\n9) Por «diferencial de mercado» entende-se a diferença entre os preços horários para o dia seguinte das duas zonas de ofertas em causa na unidade de tempo do mercado correspondente, num sentido determinado;\n\n10) Por «regras de compensação» entendem-se as regras de acordo com as quais cada ORT responsável por uma determinada fronteira de zona de ofertas na qual foram atribuídos direitos de transporte a longo prazo compensa os titulares de direitos de transporte pela redução dos direitos de transporte a longo prazo."
+  },
+  "35fcd2766b85d216": {
+   "fragment_id": "Artigo 3.º — Objetivos da atribuição de capacidade a prazo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objetivos da atribuição de capacidade a prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos da atribuição de capacidade a prazo\n\nO presente regulamento visa:\n\na) Fomentar eficazmente o comércio interzonal a longo prazo, proporcionando aos participantes no mercado possibilidades de cobertura dos riscos interzonais a longo prazo;\n\nb) Otimizar o cálculo e a atribuição de capacidade interzonal a longo prazo;\n\nc) Proporcionar acesso não-discriminatório à capacidade interzonal a longo prazo;\n\nd) Garantir um tratamento equitativo e não-discriminatório dos ORT, da Agência, das entidades reguladoras e dos participantes no mercado;\n\ne) Respeitar a necessidade de que a atribuição de capacidade a prazo seja equitativa e ordenada e de que a formação dos preços seja ordenada;\n\nf) Garantir e melhorar a transparência e a fiabilidade das informações sobre a atribuição de capacidade a prazo;\n\ng) Contribuir para o funcionamento e o desenvolvimento eficientes a longo prazo da rede de transporte de eletricidade e do setor da eletricidade na União."
+  },
+  "c23abc6f59631caa": {
+   "fragment_id": "Artigo 4.º — Adoção de termos e condições e de metodologias",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Adoção de termos e condições e de metodologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Adoção de termos e condições e de metodologias\n\n1. Os ORT devem definir os termos e condições ou as metodologias exigidos pelo presente regulamento e submetê-los à aprovação da Agência ou das entidades reguladoras competentes dentro dos prazos respetivos estabelecidos no mesmo. Em circunstâncias excecionais, nomeadamente se não for possível cumprir determinado prazo devido a circunstâncias independentes da vontade dos ORT, os prazos estabelecidos para os termos e condições ou as metodologias podem ser prorrogados pela Agência, no caso dos procedimentos a título do n.º 6, ou conjuntamente por todas as entidades reguladoras competentes, no caso dos procedimentos a título do n.º 7. Sempre que uma proposta de termos e condições ou de metodologias, em conformidade com o presente regulamento, tenha de ser elaborada e aceite por dois ou mais ORT, os ORT participantes devem trabalhar em estreita colaboração. Os ORT, com a assistência da REORT para a Eletricidade, devem informar com regularidade as entidades reguladoras competentes e a Agência dos progressos realizados na definição desses termos e condições ou dessas metodologias.\n\n2.\n\nSe os ORT aos quais incumba decidi-lo não conseguirem pôr-se de acordo sobre determinada proposta de termos e condições ou de metodologias referidos no n.º 6, compete-lhes decidir por maioria qualificada. A maioria qualificada para a adoção de propostas em conformidade com o n.º 6 é uma maioria:\n\na) Constituída por ORT que representem, pelo menos, 55 % dos Estados-Membros; e\n\nb) Constituída por ORT que representem um conjunto de Estados-Membros cuja população seja igual ou superior a 65 % da população da União.\n\nA minoria de bloqueio para decisões sobre propostas de termos e condições ou de metodologias referidos no n.º 6 é composta por ORT que representem, pelo menos, quatro Estados-Membros; caso contrário, considera-se alcançada a maioria qualificada.\n\nNas decisões de ORT sobre propostas de termos e condições ou de metodologias referidos no n.º 6, cada Estado-Membro tem direito a um voto. Caso existam dois ou mais ORT no território de determinado Estado-Membro, este deve repartir os direitos de voto pelos ORT.\n\n3.\n\nSe os ORT aos quais incumba decidir sobre determinada proposta de termos e condições ou de metodologias referidos no n.º 7 não conseguirem pôr-se de acordo e as regiões em causa abrangeram mais de cinco Estados-Membros, compete a esses ORT decidir por maioria qualificada. A maioria qualificada para a adoção de propostas em conformidade com o n.º 7 é uma maioria:\n\na) Constituída por ORT que representem, pelo menos, 72 % dos Estados-Membros em causa; e\n\nb) Constituída por ORT que representem um conjunto de Estados-Membros que abarque uma população igual ou superior a 65 % da população da região em causa.\n\nA minoria de bloqueio para decisões sobre propostas de termos e condições ou de metodologias referidos no n.º 7 é composta por, pelo menos, o número mínimo de ORT que represente mais de 35 % da população dos Estados-Membros participantes e ainda ORT que representem, pelo menos, mais um Estado-Membro em causa; caso contrário, considera-se alcançada a maioria qualificada.\n\nAs decisões dos ORT sobre propostas de termos e condições ou de metodologias referidos no n.º 7, relativas a regiões compostas por cinco ou menos Estados-Membros, devem ser tomadas por consenso.\n\nNas decisões de ORT sobre propostas de termos e condições ou de metodologias referidos no n.º 7, cada Estado-Membro tem direito a um voto. Caso existam dois ou mais ORT no território de determinado Estado-Membro, este deve repartir os direitos de voto pelos ORT.\n\n4. Se não apresentarem, em conformidade com os n.^os^ 6 e 7 ou 11, determinada proposta, inicial ou alterada, de termos e condições ou de metodologias às entidades reguladoras competentes ou à Agência dentro dos prazos estabelecidos no presente regulamento, os ORT devem facultar às entidades reguladoras competentes e à Agência os projetos das propostas de termos e condições ou de metodologias em causa e explicar o que os impediu de chegarem a um acordo. A Agência ou todas as entidades reguladoras competentes conjuntamente devem tomar as medidas adequadas para a adoção dos termos e condições ou das metodologias necessários em conformidade, respetivamente, com o n.º 6 ou o n.º 7 — por exemplo solicitando alterações ou revendo e completando o projeto em causa em observância do presente número e aprovando-os —, inclusive se nenhum projeto tiver sido apresentado.\n\n5. Cada entidade reguladora ou, se for caso disso, a Agência é responsável pela aprovação dos termos e condições ou das metodologias referidos nos n.^os^ 6 e 7. Antes de aprovarem termos e condições ou metodologias, a Agência ou as entidades reguladoras competentes deve(m) examinar as propostas, se necessário após consulta dos ORT correspondentes, a fim de se certificar(em) de que as mesmas são conformes com o objetivo do presente regulamento e contribuem para a integração do mercado, a não discriminação, a concorrência efetiva e o bom funcionamento do mercado da eletricidade.\n\n6.\n\nAs propostas relativas aos seguintes termos e condições ou metodologias e quaisquer alterações dos mesmos carecem de aprovação da Agência:\n\na) Metodologia de fornecimento de dados de produção e de carga, em conformidade com o artigo 17.º;\n\nb) Metodologia do modelo de rede comum, em conformidade com o artigo 18.º;\n\nc) Requisitos da plataforma única de atribuição, em conformidade com o artigo 49.º;\n\nd) Regras de atribuição harmonizadas, em conformidade com o artigo 51.º;\n\ne) Metodologia de distribuição das receitas associadas a congestionamentos, em conformidade com o artigo 57.º;\n\nf) Metodologia de partilha dos custos da criação, do desenvolvimento e do funcionamento da plataforma única de atribuição, em conformidade com o artigo 59.º;\n\ng) Metodologia de partilha dos custos suportados para garantir a firmeza e a remuneração dos direitos de transporte a longo prazo, em conformidade com o artigo 61.º.\n\n7.\n\nAs propostas relativas aos seguintes termos e condições ou metodologias e quaisquer alterações dos mesmos carecem de aprovação de todas as entidades reguladoras da região em causa:\n\na) Metodologia de cálculo da capacidade, em conformidade com o artigo 10.º;\n\nb) Metodologia de divisão de capacidade interzonal, em conformidade com o artigo 16.º;\n\nc) Organização regional de direitos de transporte a longo prazo, em conformidade com o artigo 31.º;\n\nd) Instauração de procedimentos de recurso, em conformidade com o artigo 42.º;\n\ne) Requisitos regionais das regras de atribuição harmonizadas, nos termos do artigo 52.º, incluindo as regras de compensação regional, em conformidade com o artigo 55.º.\n\n8. Uma proposta de termos e condições ou de metodologias deve incluir uma proposta de calendarização da aplicação dos termos e condições ou metodologias em causa e uma descrição do impacte expectável dos mesmos nos objetivos do presente regulamento. As propostas de termos e condições ou de metodologias que careçam da aprovação de várias entidades reguladoras, ou de todas elas, em conformidade com o n.º 7 devem ser apresentadas à Agência no prazo máximo de uma semana a contar da sua apresentação às entidades reguladoras. Se as entidades reguladoras competentes lhe solicitarem um parecer sobre determinada proposta de termos e condições ou de metodologias, a Agência deve pronunciar-se no prazo máximo de três meses.\n\n9. Sempre que a aprovação dos termos e condições ou das metodologias em conformidade com o n.º 7 ou de alterações em conformidade com o n.º 11 exija uma decisão de duas ou mais entidades reguladoras competentes, estas devem consultar-se, e cooperar e coordenar-se estreitamente, de modo a chegarem a um acordo. Se a Agência emitir parecer, as entidades reguladoras competentes devem tê-lo em conta. As entidades reguladoras ou, se for competente para o efeito, a Agência devem tomar as decisões relativas aos termos e condições ou às metodologias apresentados em conformidade com os n.^os^ 6 e 7 no prazo máximo de seis meses, a contar da receção dos mesmos pela Agência ou, se for o caso, pela última entidade reguladora em causa. O prazo começa a contar no dia seguinte ao da apresentação da proposta à Agência, em conformidade com o n.º 6, ou à última entidade reguladora em causa, em conformidade com o n.º 7.\n\n10. Sempre que as entidades reguladoras não consigam chegar a um acordo no prazo referido no n.º 9 ou apresentem um pedido conjunto, ou no seguimento de um pedido da Agência em conformidade com o artigo 5.º, n.º 3, terceiro parágrafo, do Regulamento (UE) 2019/942, a Agência deve adotar uma decisão sobre as propostas de termos e condições ou de metodologias apresentadas no prazo máximo de seis meses, em conformidade com o artigo 5.º, n.º 3, e com o artigo 6.º, n.º 10, segundo parágrafo, do Regulamento (UE) 2019/942.\n\n11. Se a Agência ou todas as entidades reguladoras conjuntamente solicitar(em) uma alteração para aprovar(em) termos e condições ou metodologias apresentados em conformidade com os n.^os^ 6 e 7, os ORT competentes devem apresentar uma proposta de alteração dos termos e condições ou metodologias em questão, para aprovação, no prazo máximo de dois meses a contar do pedido da Agência ou das entidades reguladoras. A Agência ou as entidades reguladoras competentes devem decidir sobre a alteração dos termos e condições ou das metodologias em questão no prazo máximo de dois meses a contar da apresentação da versão alterada dos mesmos. Sempre que as entidades reguladoras competentes não consigam chegar a acordo sobre termos e condições ou metodologias referidos no n.º 7, no prazo máximo de dois meses, ou apresentem um pedido conjunto, ou no seguimento de um pedido da Agência em conformidade com o artigo 5.º, n.º 3, terceiro parágrafo, do Regulamento (UE) 2019/942, a Agência adota uma decisão sobre os termos e condições ou as metodologias alterados, no prazo máximo de seis meses, em conformidade com o artigo 5.º, n.º 3, e com o artigo 6.º, n.º 10, segundo parágrafo, do Regulamento (UE) 2019/942. Se os ORT competentes não apresentarem uma proposta de alteração dos termos e condições ou das metodologias em questão, aplica-se o procedimento previsto no n.º 4.\n\n12. A Agência ou as entidades reguladoras conjuntamente, consoante lhes incumba a adoção de termos e condições ou de metodologias em conformidade com os n.^os^ 6 e 7, podem solicitar propostas de alterações relativas aos termos e condições ou às metodologias respetivos, estabelecendo um prazo de apresentação das mesmas. Os ORT responsáveis pela elaboração de determinada proposta de termos e condições ou de metodologias podem propor alterações às entidades reguladoras e à Agência.\n\nAs propostas de alteração de termos e condições ou de metodologias devem ser apresentadas a consulta em conformidade com o procedimento estabelecido no artigo 6.º e aprovadas em conformidade com o procedimento estabelecido no presente artigo.\n\n13. Os ORT responsáveis pelo estabelecimento de termos e condições ou metodologias em conformidade com o presente regulamento devem publicá-los na Internet após aprovação pela Agência ou pelas entidades reguladoras competentes ou, caso tal aprovação não seja necessária, após o estabelecimento dos mesmos, exceto nos casos em que tais informações sejam consideradas confidenciais, em conformidade com o artigo 7.º."
+  },
+  "6a0b5f5336eae8e9": {
+   "fragment_id": "Artigo 5.º — Envolvimento das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Envolvimento das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Envolvimento das partes interessadas\n\nA Agência, em estreita cooperação com a REORT para a Eletricidade, deve organizar o envolvimento das partes interessadas na atribuição de capacidade a prazo e noutros aspetos da aplicação do presente regulamento. Esse envolvimento deve incluir reuniões regulares com as partes interessadas para identificar problemas e propor melhoramentos, nomeadamente relacionados com o funcionamento e desenvolvimento da atribuição de capacidade a prazo, incluindo a harmonização das regras dos leilões. Este procedimento não substitui as consultas às partes interessadas previstas no artigo 6.º."
+  },
+  "f47171ed39d55b16": {
+   "fragment_id": "Artigo 6.º — Consultas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Consultas\n\n1. Os ORT responsáveis pela apresentação de propostas de termos e condições ou de metodologias, ou de alteração dos mesmos, em conformidade com o presente regulamento devem consultar as partes interessadas, incluindo as entidades competentes de cada Estado-Membro, sobre os projetos de propostas de termos e condições ou de metodologias nos casos explicitamente previstos no presente regulamento. A consulta deve decorrer durante um período não inferior a um mês.\n\n2. As propostas de termos e condições ou de metodologias apresentadas pelos ORT a nível da União são publicadas e submetidas a consulta a nível da União. As propostas apresentadas pelos ORT a nível regional devem ser submetidas a consulta, pelo menos, a nível regional. As partes que apresentem propostas a nível bilateral ou multilateral devem consultar, pelo menos, os Estados-Membros em causa.\n\n3. Antes da apresentação da proposta para aprovação regulamentar, se tal for exigido no artigo 4.º, ou, nos restantes casos, antes da publicação da mesma, as entidades responsáveis pela proposta de termos e condições ou de metodologias devem ter em devida conta os pontos de vista das partes interessadas resultantes das consultas realizadas em conformidade com o n.º 1. Deve ser sempre elaborada e oportunamente publicada, antes ou ao mesmo tempo que a publicação da proposta de termos e condições ou de metodologias, uma justificação clara e sólida dos motivos da incorporação ou não, no documento apresentado, dos pontos de vista resultantes da consulta."
+  },
+  "2d0d1b51b347a70e": {
+   "fragment_id": "Artigo 7.º — Obrigações de confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações de confidencialidade\n\n1. As informações confidenciais recebidas, trocadas ou transmitidas ao abrigo do presente regulamento estão sujeitas às condições de sigilo profissional estabelecidas nos n.^os^ 2, 3 e 4.\n\n2. A obrigação de sigilo profissional aplica-se a todas as pessoas sujeitas ao disposto no presente regulamento.\n\n3. As informações confidenciais recebidas pelas pessoas a que se refere o n.º 2 no exercício das suas funções não podem ser divulgadas a outra pessoa ou autoridade, ressalvados os casos abrangidos pelo direito nacional, pelas demais disposições do presente regulamento ou por outra legislação pertinente da União.\n\n4. Sem prejuízo dos casos abrangidos pelo direito nacional ou pelo direito da União, as entidades reguladoras, os organismos e as pessoas que receberem informações confidenciais ao abrigo do presente regulamento só as podem utilizar no exercício das suas funções abrangidas pelo presente regulamento."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "13e9676bd22da0f8": {
+   "fragment_id": "REQUISITOS DOS TERMOS, CONDIÇÕES E METODOLOGIAS",
+   "type": "divisao",
+   "heading": "REQUISITOS DOS TERMOS, CONDIÇÕES E METODOLOGIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DOS TERMOS, CONDIÇÕES E METODOLOGIAS"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "55d4e56012c0da8b": {
+   "fragment_id": "Cálculo de capacidades a prazo",
+   "type": "divisao",
+   "heading": "Cálculo de capacidades a prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Cálculo de capacidades a prazo"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "560ff695c4af81f0": {
+   "fragment_id": "Requisitos gerais",
+   "type": "divisao",
+   "heading": "Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos gerais"
+  },
+  "b560faa7580e7339": {
+   "fragment_id": "Artigo 8.º — Regiões de cálculo de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Regiões de cálculo de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regiões de cálculo de capacidade\n\nPara efeitos do disposto no presente regulamento, as regiões de cálculo de capacidade são as estabelecidas nos termos do artigo 15.º do Regulamento (UE) 2015/1222."
+  },
+  "92e267813a21db7e": {
+   "fragment_id": "Artigo 9.º — Períodos de operação do cálculo de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Períodos de operação do cálculo de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Períodos de operação do cálculo de capacidade\n\nOs ORT de cada região de cálculo de capacidade devem assegurar que, para cada atribuição de capacidade a prazo, é calculada a capacidade interzonal a longo prazo relativamente, pelo menos, aos períodos de operação anual e mensal."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "55e70b860487a2dc": {
+   "fragment_id": "Metodologia de cálculo de capacidade",
+   "type": "divisao",
+   "heading": "Metodologia de cálculo de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Metodologia de cálculo de capacidade"
+  },
+  "fa68aa4e902abfb2": {
+   "fragment_id": "Artigo 10.º — Metodologia de cálculo de capacidade",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Metodologia de cálculo de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Metodologia de cálculo de capacidade\n\n1. No prazo máximo de seis meses após a aprovação da metodologia comum de cálculo da capacidade coordenada referida no artigo 9.º, n.º 7, do Regulamento (UE) 2015/1222, os ORT de cada região de cálculo de capacidade apresentam uma proposta de metodologia comum de cálculo de capacidade para os períodos de operação a longo prazo na região correspondente. A proposta é objeto de consulta em conformidade com o artigo 6.º.\n\n2. A abordagem utilizada na metodologia comum de cálculo de capacidade deve ser uma abordagem baseada na capacidade líquida coordenada de transporte ou uma abordagem baseada nos trânsitos.\n\n3. A referida metodologia de cálculo de capacidade deve ser compatível com a metodologia de cálculo de capacidade estabelecida para os períodos de operação para o dia seguinte e intradiário, nos termos do artigo 21.º, n.º 1, do Regulamento (UE) 2015/1222.\n\n4.\n\nA incerteza associada aos períodos de operação do cálculo de capacidade a longo prazo deve ser tida em conta aquando da aplicação de:\n\na) Uma análise de segurança baseada em vários cenários e utilizando os dados de entrada para o cálculo de capacidade, a abordagem de cálculo de capacidade referida no artigo 21.º, n.º 1, alínea b), do Regulamento (UE) 2015/1222 e a validação da capacidade interzonal referida no artigo 21.º, n.º 1, alínea c), do mesmo regulamento; ou\n\nb) Uma abordagem estatística baseada na capacidade interzonal histórica dos períodos de operação para o dia seguinte e intradiário, se puder ser demonstrado que esta abordagem pode:\n\ni) Aumentar a eficiência da metodologia de cálculo de capacidade;\n\nii) Refletir de modo mais adequado as incertezas associadas ao cálculo da capacidade interzonal a longo prazo do que a análise de segurança realizada em conformidade com o n.º 4, alínea a);\n\niii) Aumentar a eficiência económica, mantendo o mesmo nível de segurança da rede.\n\n5.\n\nOs ORT de cada região de cálculo de capacidade podem aplicar conjuntamente a abordagem baseada nos trânsitos a períodos de operação do cálculo de capacidade a longo prazo, nas seguintes condições:\n\na) A abordagem baseada nos trânsitos conduz a um aumento de eficiência económica na região de cálculo de capacidade, mantendo o mesmo nível de segurança da rede;\n\nb) A transparência e a exatidão dos resultados baseados nos trânsitos foram confirmadas na região de cálculo de capacidade;\n\nc) Os ORT concedem seis meses aos participantes no mercado para estes adaptarem os seus processos.\n\n6. Sempre que seja aplicada uma análise de segurança baseada em vários cenários para elaborar a metodologia de cálculo de capacidade numa região de cálculo de capacidade, aplicam-se os requisitos relativos aos dados de entrada para cálculo da capacidade, os requisitos relativos à abordagem de cálculo da capacidade e os requisitos relativos à validação da capacidade interzonal previstos no artigo 21.º, n.º 1, do Regulamento (UE) 2015/1222, exceto, se for caso disso, os previstos na alínea a), subalínea iv), desse número.\n\n7. Ao elaborar a metodologia de cálculo de capacidade, devem ser tidos em conta os requisitos aplicáveis aos procedimentos de recurso e o requisito previsto no artigo 21.º, n.º 3, do Regulamento (UE) 2015/1222."
+  },
+  "3ea10bacc4a8a581": {
+   "fragment_id": "Artigo 11.º — Metodologia para determinação da margem de fiabilidade",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Metodologia para determinação da margem de fiabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Metodologia para determinação da margem de fiabilidade\n\nA proposta de uma metodologia comum de cálculo de capacidade deve incluir uma metodologia de determinação da margem de fiabilidade, que deve satisfazer os requisitos estabelecidos no artigo 22.º do Regulamento (UE) 2015/1222."
+  },
+  "989574ed5d26c2ac": {
+   "fragment_id": "Artigo 12.º — Metodologias para os limites de segurança operacional e as contingências",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Metodologias para os limites de segurança operacional e as contingências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Metodologias para os limites de segurança operacional e as contingências\n\nA proposta de uma metodologia comum de cálculo de capacidade deve incluir metodologias relativas aos limites de segurança operacional e às contingências, que devem satisfazer os requisitos estabelecidos no artigo 23.º, n.^os^ 1 e 2, do Regulamento (UE) 2015/1222."
+  },
+  "1fca7c70cdcc94cb": {
+   "fragment_id": "Artigo 13.º — Metodologia para determinação das ordens de mérito da produção",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Metodologia para determinação das ordens de mérito da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Metodologia para determinação das ordens de mérito da produção\n\nA proposta de uma metodologia comum de cálculo de capacidade deve incluir uma metodologia para determinar as ordens de mérito da produção, que deve satisfazer os requisitos estabelecidos no artigo 24.º do Regulamento (UE) 2015/1222."
+  },
+  "188326238c9e4b43": {
+   "fragment_id": "Artigo 14.º — Metodologia para as medidas corretivas",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Metodologia para as medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Metodologia para as medidas corretivas\n\nSe, no cálculo de capacidade a longo prazo, forem tidas em consideração medidas corretivas, cada ORT deve assegurar que tais medidas estão tecnicamente disponíveis nas operações realizadas em tempo real e que satisfazem os requisitos estabelecidos no artigo 25.º do Regulamento (UE) 2015/1222."
+  },
+  "f7ffcdd42fa90e55": {
+   "fragment_id": "Artigo 15.º — Metodologia para validação de capacidades interzonais",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Metodologia para validação de capacidades interzonais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Metodologia para validação de capacidades interzonais\n\nA proposta de uma metodologia comum de cálculo de capacidade deve incluir uma metodologia de validação interzonal, que deve satisfazer os requisitos estabelecidos no artigo 26.º do Regulamento (UE) 2015/1222."
+  },
+  "40cdbad2bcd5063d": {
+   "fragment_id": "Artigo 16.º — Metodologia de divisão de capacidades interzonais a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Metodologia de divisão de capacidades interzonais a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Metodologia de divisão de capacidades interzonais a longo prazo\n\n1. O mais tardar aquando da apresentação da metodologia de cálculo de capacidade referida no artigo 10.º, os ORT de cada região de cálculo de capacidade elaboram, em conjunto, uma proposta de metodologia para divisão de capacidades interzonais a longo prazo de forma coordenada entre diferentes períodos de operação a longo prazo na região respetiva. A proposta é objeto de consulta em conformidade com o artigo 6.º.\n\n2.\n\nA metodologia de divisão de capacidades interzonais a longo prazo deve satisfazer as seguintes condições:\n\na) Responde às necessidades de cobertura de risco dos participantes no mercado;\n\nb) É coerente com a metodologia de cálculo de capacidade;\n\nc) Não conduz a restrições da concorrência, nomeadamente no que respeita ao acesso a direitos de transporte a longo prazo."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "84ceaa2d5ab66882": {
+   "fragment_id": "Modelo de rede comum",
+   "type": "divisao",
+   "heading": "Modelo de rede comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de rede comum"
+  },
+  "29cc4084c3630840": {
+   "fragment_id": "Artigo 17.º — Metodologia de fornecimento de dados de produção e de carga",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Metodologia de fornecimento de dados de produção e de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Metodologia de fornecimento de dados de produção e de carga\n\n1. No prazo máximo de seis meses após a aprovação da metodologia de fornecimento de dados de produção e de carga estabelecida para os períodos de operação para o dia seguinte e intradiário, referida no artigo 9.º, n.º 6, do Regulamento (UE) 2015/1222, os ORT elaboram, em conjunto, uma proposta de uma metodologia única de fornecimento dos dados de produção e de carga necessários para estabelecer o modelo de rede comum para os períodos de operação a longo prazo. A proposta é objeto de consulta em conformidade com o artigo 6.º. Esta metodologia deve ter em conta e complementar a metodologia de fornecimento de dados de produção e de carga prevista no artigo 16.º do Regulamento (UE) 2015/1222.\n\n2. Os requisitos estabelecidos no artigo 16.º do Regulamento (UE) 2015/1222 aplicam-se na elaboração da referida metodologia de fornecimento de dados de produção e de carga."
+  },
+  "940f9155dc180fa5": {
+   "fragment_id": "Artigo 18.º — Metodologia do modelo de rede comum",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Metodologia do modelo de rede comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Metodologia do modelo de rede comum\n\n1. No prazo máximo de seis meses após a aprovação da metodologia do modelo de rede comum estabelecida para os períodos de operação para o dia seguinte e intradiário, referida no artigo 9.º, n.º 6, do Regulamento (UE) 2015/1222, os ORT elaboram, em conjunto, uma proposta de metodologia do modelo de rede comum para os períodos de operação a longo prazo. A metodologia é objeto de consulta em conformidade com o artigo 6.º.\n\n2. A metodologia do modelo de rede comum deve ter em conta e complementar a metodologia do modelo de rede comum elaborada em conformidade com o artigo 17.º do Regulamento (UE) 2015/1222. A metodologia em causa deve permitir o estabelecimento do modelo de rede comum para os períodos de operação do cálculo de capacidade a longo prazo em regiões de cálculo de capacidade nas quais, nos termos do artigo 10.º, seja aplicada a análise de segurança baseada em vários cenários.\n\n3. Os requisitos estabelecidos no artigo 17.º do Regulamento (UE) 2015/1222 aplicam-se na elaboração da metodologia do modelo de rede comum."
+  },
+  "7f5f55eb432d6b2d": {
+   "fragment_id": "Artigo 19.º — Cenários",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Cenários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cenários\n\n1. Sempre que seja aplicada uma análise de segurança baseada em vários cenários, nos termos do artigo 10.º, os ORT de regiões de cálculo de capacidade elaboram, em conjunto, uma série comum de cenários a utilizar no modelo de rede comum para cada período de operação do cálculo de capacidade a longo prazo.\n\n2. Os requisitos relevantes estabelecidos no artigo 18.º do Regulamento (UE) 2015/1222 aplicam-se na elaboração da série comum de cenários."
+  },
+  "235beffe30fb40e7": {
+   "fragment_id": "Artigo 20.º — Modelo de rede individual",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Modelo de rede individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Modelo de rede individual\n\nAo elaborar o modelo de rede individual para um período de operação do cálculo de capacidade a longo prazo em regiões de cálculo de capacidade, nos casos em que é aplicada a análise de segurança baseada em vários cenários, nos termos do artigo 10.º, cada ORT deve aplicar os requisitos estabelecidos no artigo 19.º do Regulamento (UE) 2015/1222."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "a230784d4b14bbbf": {
+   "fragment_id": "Processo de cálculo de capacidades",
+   "type": "divisao",
+   "heading": "Processo de cálculo de capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Processo de cálculo de capacidades"
+  },
+  "9abd0a116f316457": {
+   "fragment_id": "Artigo 21.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições gerais\n\n1. Aquando da integração de modelos de rede individuais num modelo de rede comum para cada período de operação a longo prazo, aplica-se o processo de integração dos modelos de rede individuais estabelecido em conformidade com o artigo 27.º do Regulamento (UE) 2015/1222. No prazo máximo de seis meses após a aprovação da metodologia de fornecimento de dados de produção e de carga para os períodos de operação a longo prazo referida no artigo 17.º e da metodologia do modelo de rede comum para os períodos de operação a longo prazo referida no artigo 18.º, os ORT de cada região de cálculo de capacidade elaboram, em conjunto, regras operacionais aplicáveis aos períodos de operação do cálculo de capacidade a longo prazo complementares das regras definidas para a operação de integração dos modelos de rede individuais nos termos do artigo 27.º do Regulamento (UE) 2015/1222.\n\n2. Os calculadores de capacidade coordenada estabelecidos no artigo 27.º do Regulamento (UE) 2015/1222 devem calcular as capacidades interzonais a longo prazo da correspondente região de cálculo de capacidade. Para este efeito, no prazo máximo de seis meses após a aprovação da metodologia de cálculo de capacidade para os períodos de operação a longo prazo referida no artigo 10.º, os ORT de cada região de cálculo de capacidade elaboram, em conjunto, regras operacionais aplicáveis aos períodos de operação do cálculo de capacidade a longo prazo complementares das regras definidas para a operação dos calculadores de capacidade coordenada nos termos do artigo 27.º do Regulamento (UE) 2015/1222.\n\n3. Os requisitos relevantes estabelecidos no artigo 27.º do Regulamento (UE) 2015/1222 aplicam-se aos períodos de operação do cálculo de capacidade a longo prazo."
+  },
+  "97ffff5c926b106b": {
+   "fragment_id": "Artigo 22.º — Criação de um modelo de rede comum",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Criação de um modelo de rede comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Criação de um modelo de rede comum\n\nNos casos em que é aplicada a análise de segurança baseada em vários cenários em conformidade com o artigo 10.º, o processo e os requisitos estabelecidos no artigo 28.º do Regulamento (UE) 2015/1222 para a criação de um modelo de rede comum são aplicáveis à criação do modelo de rede comum para os períodos de operação do cálculo de capacidade a longo prazo nas regiões de cálculo de capacidade."
+  },
+  "d6777d5153652c4a": {
+   "fragment_id": "Artigo 23.º — Cálculos regionais de capacidades interzonais a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Cálculos regionais de capacidades interzonais a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cálculos regionais de capacidades interzonais a longo prazo\n\n1.\n\nSempre que os ORT apliquem a abordagem estatística nos termos do artigo 10.º, o processo de cálculo de capacidade interzonal a longo prazo deve incluir, pelo menos:\n\na) Uma seleção de séries de dados históricos relativos à capacidade interzonal para o dia seguinte e intradiária referentes a um único período ou a uma série de períodos, com os dados ordenados numa curva de duração;\n\nb) Um cálculo de capacidade correspondente ao nível de risco associado à série de dados selecionada;\n\nc) Um cálculo da capacidade interzonal a longo prazo a disponibilizar para efeitos de atribuição de capacidade a prazo, tendo em conta uma margem que reflita a diferença entre os valores da capacidade interzonal histórica e os valores da capacidade interzonal a longo prazo prevista;\n\nd) Regras comuns para ter em conta as informações disponíveis sobre as interrupções, novas infraestruturas e o padrão de geração e de carga planeados para os períodos de operação do cálculo de capacidade a longo prazo.\n\n2. Sempre que os ORT apliquem a análise de segurança baseada em vários cenários, nos termos do artigo 10.º, os requisitos estabelecidos no artigo 29.º do Regulamento (UE) 2015/1222, exceto, se for caso disso, os estabelecidos no n.º 4 do mesmo artigo, aplicam-se aos períodos de operação do cálculo de capacidade a longo prazo nas regiões de cálculo de capacidade.\n\n3. Cada calculador de capacidade coordenada divide a capacidade interzonal a longo prazo calculada para cada atribuição de capacidade a prazo, aplicando a metodologia para divisão da capacidade interzonal prevista no artigo 16.º.\n\n4. Cada calculador de capacidade coordenada apresenta a capacidade interzonal a longo prazo calculada e a divisão da mesma, para efeitos de validação, a cada ORT da região de cálculo de capacidade em causa, nos termos do artigo 24.º."
+  },
+  "3e22583f5831de96": {
+   "fragment_id": "Artigo 24.º — Validação e entrega de capacidade interzonal e de capacidade interzonal dividida",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Validação e entrega de capacidade interzonal e de capacidade interzonal dividida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Validação e entrega de capacidade interzonal e de capacidade interzonal dividida\n\n1. Cada ORT valida os resultados do cálculo relativo à capacidade interzonal a longo prazo nas suas fronteiras de zona de ofertas ou em relação aos elementos críticos da sua rede para cada período de operação do cálculo de capacidade a longo prazo, nos termos do artigo 15.º.\n\n2. Cada ORT valida os resultados do cálculo efetuado para dividir a capacidade interzonal a longo prazo nas suas fronteiras de zona de ofertas ou em relação aos elementos críticos da sua rede, nos termos do artigo 16.º.\n\n3. Cada ORT envia a sua validação de capacidade e a sua divisão validada dessa mesma capacidade, relativamente a cada atribuição de capacidade a prazo, ao calculador de capacidade coordenada em causa e aos outros ORT das regiões de cálculo de capacidade em questão.\n\n4. Cada calculador de capacidade coordenada fornece a divisão validada da capacidade interzonal a longo prazo para se proceder à atribuição de capacidade a prazo em conformidade com o artigo 29.º.\n\n5. Se isso lhes for solicitado, os ORT apresentam às suas entidades reguladoras um relatório que especifique o modo como foi obtido o valor da capacidade interzonal a longo prazo para o período de operação do cálculo de capacidade a longo prazo em causa."
+  },
+  "c4271c4ae36abfc4": {
+   "fragment_id": "Artigo 25.º — Redução coordenada de capacidades interzonais",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Redução coordenada de capacidades interzonais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Redução coordenada de capacidades interzonais\n\n1. Os ORT coordenam as reduções de capacidade interzonal a longo prazo já atribuída que digam respeito a períodos de operação anteriores em mais de 48 horas ao início do dia da entrega. Em caso de redução de direitos de transporte a longo prazo, incluindo nomeações referentes a esses direitos, nas 48 horas anteriores ao início do dia da entrega, os ORT de cada região de cálculo de capacidade aplicam o processo de cálculo das capacidades para o dia seguinte e intradiária a que se refere o artigo 29.º do Regulamento (UE) 2015/1222.\n\n2. Se um ORT necessitar de reduzir capacidade interzonal a longo prazo já atribuída, envia um pedido ao calculador de capacidade coordenada responsável para dar início ao cálculo coordenado das reduções necessárias de capacidade interzonal a longo prazo para a região de cálculo de capacidade em causa. O ORT deve justificar o seu pedido com as informações pertinentes.\n\n3. O calculador de capacidade coordenada fornece a capacidade interzonal atualizada aos ORT competentes, para validação.\n\n4. Cada ORT valida a capacidade interzonal atualizada nas suas fronteiras de zona de ofertas ou em relação aos elementos críticos da sua rede, nos termos do artigo 24.º.\n\n5. O calculador de capacidade coordenada fornece a capacidade interzonal atualizada validada à plataforma única de atribuição e aos ORT competentes para realizar a redução, nos termos do artigo 53.º."
+  },
+  "744a62350cf0c0fd": {
+   "fragment_id": "Secção 5",
+   "type": "divisao",
+   "heading": "Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 5"
+  },
+  "934f8ad06570db6f": {
+   "fragment_id": "Relatório bienal sobre cálculo de capacidades",
+   "type": "divisao",
+   "heading": "Relatório bienal sobre cálculo de capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatório bienal sobre cálculo de capacidades"
+  },
+  "137fe6f92f84f2d4": {
+   "fragment_id": "Artigo 26.º — Relatório bienal sobre cálculo e atribuição de capacidades",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Relatório bienal sobre cálculo e atribuição de capacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Relatório bienal sobre cálculo e atribuição de capacidades\n\n1. Até dois anos após a entrada em vigor do presente regulamento, a REORT para a Eletricidade deve elaborar um relatório sobre o cálculo e a atribuição de capacidades a longo prazo e apresentá-lo à Agência.\n\n2. Se a Agência o solicitar, a cada dois anos subsequentes, a REORT para a Eletricidade deve elaborar um relatório sobre o cálculo e a atribuição de capacidades a longo prazo. Se for caso disso, este relatório é apresentado à Agência juntamente com o relatório bienal sobre cálculo e atribuição de capacidades previsto no artigo 31.º do Regulamento (UE) 2015/1222.\n\n3.\n\nPara cada zona de ofertas, fronteira de zona de ofertas e região de cálculo de capacidade, o relatório sobre cálculo e atribuição de capacidades deve incluir, no mínimo:\n\na) A abordagem utilizada para o cálculo da capacidade;\n\nb) Indicadores estatísticos sobre as margens de fiabilidade;\n\nc) Indicadores estatísticos da capacidade interzonal, se for caso disso para cada período de operação do cálculo de capacidade;\n\nd) Indicadores de qualidade relativos às informações utilizadas no cálculo de capacidade;\n\ne) Se for caso disso, medidas propostas para melhorar o cálculo de capacidade;\n\nf) Recomendações para um maior desenvolvimento do cálculo de capacidade a prazo, incluindo uma maior harmonização das metodologias, dos processos e dos mecanismos de governação.\n\n4. Depois de consultarem a Agência, os ORT devem chegar, em conjunto, a um acordo quanto aos indicadores estatísticos e de qualidade para o relatório. A Agência pode requerer a alteração desses indicadores antes do acordo dos ORT ou durante a aplicação dos mesmos.\n\n5. A Agência decide se o relatório bienal é publicado na íntegra ou parcialmente."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "ff229adab72df1dd": {
+   "fragment_id": "Zonas de ofertas",
+   "type": "divisao",
+   "heading": "Zonas de ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Zonas de ofertas"
+  },
+  "7e75fd157d215183": {
+   "fragment_id": "Artigo 27.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições gerais\n\n1. As zonas de ofertas aplicáveis à negociação para o dia seguinte e intradiária aplicam-se ao cálculo e à atribuição de capacidade a prazo.\n\n2. Sempre que uma fronteira de uma zona de ofertas deixe de existir, os titulares de direitos de transporte a longo prazo nessa fronteira têm direito a reembolso, pelos ORT em causa, com base no preço inicial pago pelos direitos de transporte a longo prazo."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "d2d6f163df45ae12": {
+   "fragment_id": "Atribuição de capacidade a prazo",
+   "type": "divisao",
+   "heading": "Atribuição de capacidade a prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Atribuição de capacidade a prazo"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "32dad7490ae64e49": {
+   "fragment_id": "Artigo 28.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Princípios gerais\n\nA atribuição de capacidade a prazo realiza-se de uma forma que:\n\na) Utilize o princípio de fixação de preços marginais para gerar resultados para cada fronteira de zona de ofertas, sentido de utilização e unidade de tempo do mercado;\n\nb) Não atribua mais capacidade do que a capacidade interzonal a longo prazo oferecida em conformidade com o artigo 39.º;\n\nc) Seja repetível."
+  },
+  "bacae5b45ec8af48": {
+   "fragment_id": "Artigo 29.º — Dados de entrada e resultados",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Dados de entrada e resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dados de entrada e resultados\n\n1.\n\nA plataforma única de atribuição deve utilizar os seguintes dados de entrada para determinar a atribuição de capacidade a prazo em conformidade com o n.º 2:\n\na) Divisão validada da capacidade interzonal a longo prazo apresentada por cada calculador de capacidade coordenada e capacidades associadas aos direitos de transporte a longo prazo devolvidos nos termos do artigo 43.º;\n\nb) Ofertas de compra apresentadas pelos participantes no mercado.\n\n2.\n\nPara cada atribuição de capacidade a prazo, a plataforma única de atribuição determina simultaneamente, pelo menos, os seguintes resultados para cada fronteira de zona de ofertas, sentido de utilização e unidade de tempo do mercado:\n\na) Volume de direitos de transporte a longo prazo atribuídos, expresso em MW;\n\nb) Preço dos direitos de transporte a longo prazo, nos termos do artigo 40.º;\n\nc) Estado de execução das ofertas de compra.\n\n3. A plataforma única de atribuição deve assegurar a exatidão dos resultados dos leilões.\n\n4. Cada ORT deve assegurar que os resultados dos leilões são coerentes com os dados de entrada fornecidos à plataforma única de atribuição em conformidade com o n.º 1."
+  },
+  "ae2e31dcbf63a540": {
+   "fragment_id": "Opções de cobertura de riscos de transporte interzonais",
+   "type": "divisao",
+   "heading": "Opções de cobertura de riscos de transporte interzonais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Opções de cobertura de riscos de transporte interzonais"
+  },
+  "2b734fc1054fd768": {
+   "fragment_id": "Artigo 30.º — Decisão relativa às possibilidades de cobertura de riscos interzonais",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Decisão relativa às possibilidades de cobertura de riscos interzonais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Decisão relativa às possibilidades de cobertura de riscos interzonais\n\n1. Os ORT numa fronteira de zona de ofertas emitem direitos de transporte a longo prazo, a menos que as entidades reguladoras competentes da fronteira de zona de ofertas tenham adotado decisões coordenadas de não-emissão de direitos de transporte a longo prazo na fronteira de zona de ofertas em causa. Ao adotarem as suas decisões, as entidades reguladoras competentes da fronteira de zona de ofertas devem consultar as entidades reguladoras da região de cálculo de capacidade em causa e ter devidamente em conta o parecer destas.\n\n2. Caso não existam direitos de transporte a longo prazo numa fronteira de zona de ofertas no momento da entrada em vigor do presente regulamento, as entidades reguladoras competentes da fronteira de zona de ofertas adotam, até seis meses após a entrada em vigor do presente regulamento, decisões coordenadas sobre a introdução de direitos de transporte a longo prazo.\n\n3.\n\nAs decisões tomadas nos termos do n.^os^ 1 e 2 devem basear-se numa avaliação, que deve identificar se o mercado da eletricidade a prazo proporciona possibilidades de cobertura de risco suficientes nas zonas de ofertas em causa. A avaliação deve ser efetuada de forma coordenada pelas entidades reguladoras competentes da fronteira de zona de ofertas e deve incluir, pelo menos:\n\na) Uma consulta aos participantes no mercado sobre as necessidades destes em termos de possibilidades de cobertura de riscos interzonais nas fronteiras de zona de ofertas em causa;\n\nb) Uma avaliação.\n\n4.\n\nA avaliação referida no n.º 3, alínea b), deve investigar o funcionamento dos mercados grossistas de eletricidade e basear-se em critérios transparentes, que incluam, pelo menos:\n\na) Uma análise para determinar se os produtos ou combinação de produtos oferecidos nos mercados a prazo cobrem o risco de instabilidade do preço para o dia seguinte na zona de ofertas em causa. Um produto ou combinação de produtos é considerado cobertura adequada contra o risco de alteração do preço para o dia seguinte na zona de ofertas em causa sempre que exista correlação suficiente entre o preço para o dia seguinte nessa zona e o preço subjacente em relação ao qual o produto ou combinação de produtos é liquidado;\n\nb) Uma análise para determinar se os produtos ou combinação de produtos oferecidos nos mercados a prazo são eficientes. Para este efeito, devem ser avaliados, pelo menos, os seguintes indicadores:\n\ni) Horizonte das negociações;\n\nii) Diferencial oferta/procura;\n\niii) Volumes negociados em relação ao consumo físico;\n\niv) Posições em aberto em relação ao consumo físico.\n\n5.\n\nNo caso de a avaliação a que se refere o n.º 3 mostrar que existem possibilidades de cobertura de risco insuficientes numa ou mais zonas de ofertas, as entidades reguladoras competentes podem solicitar que os ORT competentes:\n\na) Emitam direitos de transporte a longo prazo;\n\nb) Assegurem que são disponibilizados outros produtos de cobertura de riscos interzonais a longo prazo para apoiar o funcionamento dos mercados grossistas de eletricidade.\n\n6. Se as entidades reguladoras competentes optarem por solicitar o referido no n.º 5, alínea b), os ORT competentes devem elaborar as disposições necessárias e apresentá-las às entidades reguladoras competentes, para aprovação, o mais tardar seis meses após o pedido destas. Essas disposições devem ser aplicadas o mais tardar seis meses após a aprovação pelas entidades reguladoras competentes. Se os ORT competentes lho solicitarem, estas podem prorrogar o prazo de aplicação, em não mais de seis meses.\n\n7. Sempre que as entidades reguladoras decidam que não devem ser emitidos direitos de transporte a longo prazo pelos ORT respetivos, ou que estes devem disponibilizar outros produtos de cobertura de riscos interzonais a longo prazo, os artigos 16.º, 28.º, 29.º, 31.º a 57.º, 59.º e 61.º não se aplicam aos ORT das fronteiras de zona de ofertas.\n\n8. Mediante pedido conjunto dos ORT de uma fronteira de zona de ofertas ou por sua própria iniciativa e, pelo menos, a cada 4 anos, as entidades reguladoras competentes da fronteira de zona de ofertas devem realizar, em cooperação com a Agência, uma avaliação nos termos dos n.^os^ 3 a 5."
+  },
+  "c47366d3d74c354e": {
+   "fragment_id": "Artigo 31.º — Organização regional de direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Organização regional de direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Organização regional de direitos de transporte a longo prazo\n\n1. A capacidade interzonal a longo prazo deve ser atribuída aos participantes no mercado pela plataforma de atribuição sob a forma de direitos físicos de transporte, em conformidade com o princípio «usar ou vender», ou sob a forma de DFT — opções ou de DFT — obrigações.\n\n2. Os ORT que emitam direitos de transporte a longo prazo devem oferecer capacidade interzonal a longo prazo aos participantes no mercado, através da plataforma única de atribuição, pelo menos para períodos de operação anuais e mensais. Os ORT de cada região de cálculo de capacidade podem, em conjunto, propor a oferta de capacidade interzonal a longo prazo em períodos de operação adicionais.\n\n3. O mais tardar seis meses após a entrada em vigor do presente regulamento, os ORT de cada região de cálculo de capacidade onde existam direitos de transporte a longo prazo elaboram, em conjunto, uma proposta de organização regional dos direitos de transporte a longo prazo a emitir em cada fronteira de zona de ofertas da região de cálculo de capacidade em causa.\n\nO mais tardar seis meses após as decisões coordenadas das entidades reguladoras da fronteira de zona de ofertas de introduzir direitos de transporte a longo prazo em conformidade com o artigo 30.º, n.º 2, os ORT da região de cálculo de capacidade em causa elaboram, em conjunto, uma proposta de organização regional dos direitos de transporte a longo prazo a emitir em cada fronteira de zona de ofertas da região de cálculo de capacidade em causa.\n\nAs entidades reguladoras dos Estados-Membros nos quais a organização regional atual dos direitos de transporte a longo prazo faça parte de disposições de despacho transfronteiriço entre ORT destinadas a manter a operação dentro dos limites de segurança operacional podem decidir manter direitos de transporte a longo prazo físicos nas suas fronteiras de zona de ofertas.\n\n4.\n\nAs propostas referidas no n.º 3 devem incluir um calendário de execução e, pelo menos, a especificação dos seguintes elementos nas regras de atribuição:\n\na) Tipo de direitos de transporte a longo prazo;\n\nb) Períodos de operação da atribuição de capacidade a prazo;\n\nc) Forma do produto (carga de base, carga de ponta, carga fora de ponta);\n\nd) Fronteiras de zona de ofertas abrangidas.\n\n5. As propostas são objeto de consulta em conformidade com o artigo 6.º. Para que os direitos de transporte a longo prazo propostos sejam emitidos, cada ORT deve ter em devida conta o resultado da consulta.\n\n6. Não é permitida a atribuição paralela de direitos físicos de transporte e de DFT — opções na mesma fronteira de zona de ofertas. Não é igualmente permitida a atribuição paralela de direitos físicos de transporte e de DFT — obrigações na mesma fronteira de zona de ofertas.\n\n7.\n\nPodem proceder à revisão dos direitos de transporte a longo prazo oferecidos numa fronteira de zona de ofertas:\n\na) As entidades reguladoras da fronteira da zona de ofertas, por sua própria iniciativa; ou\n\nb) As entidades reguladoras da fronteira da zona de ofertas, com base numa recomendação da Agência ou num pedido conjunto por parte dos ORT da fronteira da zona de ofertas em causa.\n\n8. Os ORT da região de cálculo de capacidade são responsáveis pela realização da revisão, da forma prevista no n.º 9.\n\n9.\n\nCada ORT envolvido na revisão de direitos de transporte a longo prazo deve:\n\na) Avaliar os direitos de transporte a longo prazo oferecidos, tendo em conta as características enunciadas no n.º 4;\n\nb) Se necessário, propor direitos de transporte a longo prazo alternativos, tendo em conta o resultado da avaliação prevista na alínea a);\n\nc) Realizar uma consulta em conformidade com o artigo 6.º no que diz respeito:\n\ni) Aos resultados da avaliação dos direitos de transporte a longo prazo oferecidos;\n\nii) Se for caso disso, à proposta de direitos de transporte a longo prazo alternativos.\n\n10. Após a consulta referida no n.º 9, alínea c), e no prazo máximo de três meses a contar da emissão da decisão de proceder à revisão, os ORT da região de cálculo de capacidade em causa apresentam, em conjunto, uma proposta às entidades reguladoras competentes para manter ou alterar o tipo de direitos de transporte a longo prazo em questão."
+  },
+  "b0fdd9b031315cd7": {
+   "fragment_id": "Artigo 32.º — Direitos físicos de transporte",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Direitos físicos de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direitos físicos de transporte\n\n1. Cada titular de direitos físicos de transporte tem o direito de nomear a totalidade ou parte dos seus direitos físicos de transporte nos termos do artigo 36.º.\n\n2. Sempre que não efetuem uma nomeação dentro do prazo especificado nas regras de nomeação, os titulares de direitos físicos de transporte terão direito a obter uma remuneração em conformidade com o artigo 35.º."
+  },
+  "144fd77f341fafe0": {
+   "fragment_id": "Artigo 33.º — Direitos financeiros de transporte — opções",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Direitos financeiros de transporte — opções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direitos financeiros de transporte — opções\n\n1. Os titulares de DFT — opções têm direito a obter remuneração em conformidade com o artigo 35.º.\n\n2. A aplicação de DFT — opções deve estar subordinada à aplicação do acoplamento de preços para o dia seguinte em conformidade com os artigos 38.º a 50.º do Regulamento (UE) 2015/1222."
+  },
+  "a7281dd28c0f6bb6": {
+   "fragment_id": "Artigo 34.º — Direitos financeiros de transporte — obrigações",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Direitos financeiros de transporte — obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direitos financeiros de transporte — obrigações\n\n1. Os titulares de DFT — obrigações têm o direito de receber ou a obrigação de pagar a remuneração financeira, nos termos do artigo 35.º.\n\n2. A aplicação de DFT — obrigações deve estar sujeita à aplicação do acoplamento de preços para o dia seguinte em conformidade com os artigos 38.º a 50.º, do Regulamento (UE) 2015/1222."
+  },
+  "59b8f7180dca09b1": {
+   "fragment_id": "Artigo 35.º — Princípios para remuneração de direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Princípios para remuneração de direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Princípios para remuneração de direitos de transporte a longo prazo\n\n1. Os ORT competentes que atribuam direitos de transporte numa fronteira de zona de ofertas através da plataforma única de atribuição devem remunerar os titulares de direitos de transporte a longo prazo caso a diferença de preço seja positiva no sentido dos direitos de transporte a longo prazo.\n\n2. Caso a diferença de preço seja negativa no sentido dos DFT — obrigações, os titulares de DFT — obrigações devem remunerar os ORT competentes através da plataforma única de atribuição que atribui direitos de transporte na fronteira de zona de ofertas.\n\n3.\n\nA remuneração dos direitos de transporte a longo prazo prevista nos n.^os^ 1 e 2 deve respeitar os seguintes princípios:\n\na) Sempre que a capacidade interzonal seja atribuída através de atribuição implícita ou de outro método resultante de uma situação de recurso no período de operação para o dia seguinte, a remuneração dos direitos de transporte a longo prazo deve ser igual ao diferencial de mercado;\n\nb) Sempre que a capacidade interzonal seja atribuída através de um leilão explícito no período de operação para o dia seguinte, a remuneração dos direitos de transporte a longo prazo deve ser igual ao preço de equilíbrio do leilão diário.\n\n4. No caso de terem sido incluídas no processo de atribuição de capacidade para o dia seguinte restrições de atribuição, em conformidade com o artigo 23.º, n.º 3, do Regulamento (UE) 2015/1222, aplicáveis às interligações entre zonas de ofertas, essas restrições podem ser tidas em conta no cálculo da remuneração dos direitos de transporte a longo prazo nos termos do n.º 3."
+  },
+  "386b13b93db18ee4": {
+   "fragment_id": "Procedimentos de nomeação de direitos físicos de transporte",
+   "type": "divisao",
+   "heading": "Procedimentos de nomeação de direitos físicos de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos de nomeação de direitos físicos de transporte"
+  },
+  "da351195370030d0": {
+   "fragment_id": "Artigo 36.º — Disposições gerais para nomeação de direitos físicos de transporte",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Disposições gerais para nomeação de direitos físicos de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Disposições gerais para nomeação de direitos físicos de transporte\n\n1. Sempre que emitam e apliquem direitos físicos de transporte nas fronteiras de zona de ofertas, os ORT devem permitir que os titulares de direitos físicos de transporte e/ou as contrapartes destes nomeiem os seus programas de intercâmbio de eletricidade. Os titulares de direitos físicos de transporte podem autorizar terceiros elegíveis a nomear os seus programas de intercâmbio de eletricidade em seu nome de acordo com as regras de nomeação, em conformidade com o n.º 3.\n\n2.\n\nNo prazo máximo de doze meses após a entrada em vigor do presente regulamento, os ORT que emitam direitos físicos de transporte numa fronteira de zona de ofertas submetem à aprovação das entidades reguladoras competentes uma proposta de regras de nomeação para os programas de intercâmbio de eletricidade entre zonas de ofertas. A proposta é objeto da consulta referida no artigo 6.º. Das regras de nomeação devem constar, pelo menos, as seguintes informações:\n\na) O direito dos titulares de direitos físicos de transporte de nomearem programas de intercâmbio de eletricidade;\n\nb) Requisitos técnicos mínimos para nomear;\n\nc) Descrição do processo de nomeação;\n\nd) Calendário da nomeação;\n\ne) Formato da nomeação e da comunicação.\n\n3. Os ORT devem harmonizar progressivamente as regras de nomeação nas fronteiras de zona de ofertas nas quais sejam aplicados direitos físicos de transporte.\n\n4. Os titulares de direitos físicos de transporte, as suas contrapartes, se for caso disso, ou um terceiro autorizado que aja em nome deles devem nomear, em conformidade com as regras de nomeação, a totalidade ou parte dos seus direitos físicos de transporte entre zonas de ofertas.\n\n5. No caso de terem sido incluídas no processo de atribuição de capacidade para o dia seguinte restrições de atribuição, em conformidade com o artigo 23.º, n.º 3, do Regulamento (UE) 2015/1222, aplicáveis às interligações entre zonas de ofertas, essas restrições devem ser tidas em conta na proposta de regras de nomeação referida no n.º 2."
+  },
+  "1c2673e0e56ded1b": {
+   "fragment_id": "Processos e funcionamento",
+   "type": "divisao",
+   "heading": "Processos e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Processos e funcionamento"
+  },
+  "1aca9df6611ce734": {
+   "fragment_id": "Artigo 37.º — Termos e condições de participação na atribuição de capacidade a prazo",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Termos e condições de participação na atribuição de capacidade a prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Termos e condições de participação na atribuição de capacidade a prazo\n\n1. Para que tenham o direito de participar em leilões e de transferir os seus direitos de transporte a longo prazo, os participantes no mercado devem estar registados na plataforma única de atribuição e cumprir os requisitos de elegibilidade ao abrigo das regras de atribuição harmonizadas. Os requisitos de elegibilidade devem estar em conformidade com os princípios da não-discriminação e da transparência.\n\n2. Na sequência do pedido de registo de um participante no mercado, a plataforma única de atribuição comunica-lhe se satisfaz os requisitos de elegibilidade e se tem o direito de participar em leilões e de transferir os seus direitos de transporte a longo prazo a partir de uma determinada data.\n\n3. Os participantes no mercado devem respeitar integralmente as regras de atribuição harmonizadas. Devem manter as informações relativas à sua participação atualizadas e comunicar sem demora à plataforma única de atribuição quaisquer alterações às mesmas.\n\n4. Se um participante no mercado violar as suas obrigações contratuais ao abrigo das regras de atribuição harmonizadas, a plataforma única de atribuição pode suspender-lhe ou revogar-lhe o direito de participar nos leilões ou de transferir os seus direitos de transporte a longo prazo.\n\n5. A suspensão ou revogação do direito do participante no mercado de participar nos leilões ou de transferir os seus direitos de transporte a longo prazo em conformidade com as regras de atribuição harmonizadas não o dispensam, nem à plataforma única de atribuição, das suas obrigações decorrentes de direitos de transporte a longo prazo atribuídos e pagos antes da suspensão ou revogação."
+  },
+  "c5ca0bdbd1f9d7ce": {
+   "fragment_id": "Artigo 38.º — Apresentação de dados de entrada à plataforma única de atribuição",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Apresentação de dados de entrada à plataforma única de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Apresentação de dados de entrada à plataforma única de atribuição\n\nCada ORT deve assegurar que a divisão validada da capacidade interzonal a longo prazo é apresentada à plataforma única de atribuição antes da publicação das especificações do leilão em conformidade com o artigo 39.º."
+  },
+  "f78c3063f5b47a39": {
+   "fragment_id": "Artigo 39.º — Funcionamento da atribuição de capacidade a prazo",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Funcionamento da atribuição de capacidade a prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Funcionamento da atribuição de capacidade a prazo\n\n1.\n\nAté à data indicada nas regras de atribuição harmonizadas para cada atribuição de capacidade a prazo devem ser estabelecidas e publicadas na plataforma única de atribuição especificações de leilão que contenham, pelo menos, as seguintes informações:\n\na) Data e hora de abertura e encerramento do leilão;\n\nb) Divisão validada da capacidade interzonal a longo prazo e tipo de direitos de transporte a longo prazo que serão vendidos em leilão;\n\nc) Formato das ofertas de compra;\n\nd) Data e hora de publicação dos resultados do leilão;\n\ne) Período durante o qual os resultados do leilão podem ser contestados.\n\n2. A capacidade interzonal a longo prazo publicada não pode ser alterada durante um período anterior ao encerramento do leilão. As regras de atribuição harmonizadas devem especificar a esse período.\n\n3. Cada participante no mercado apresenta as suas ofertas de compra à plataforma única de atribuição antes da data de encerramento e em conformidade com as condições estabelecidas nas especificações do leilão.\n\n4. A plataforma única de atribuição deve assegurar a confidencialidade das ofertas de compra apresentadas."
+  },
+  "37b61308f5dcde7d": {
+   "fragment_id": "Artigo 40.º — Fixação de preços dos direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Fixação de preços dos direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Fixação de preços dos direitos de transporte a longo prazo\n\nO preço dos direitos de transporte a longo prazo para cada fronteira de zona de ofertas, sentido de utilização e unidade de tempo do mercado é determinado com base no princípio da fixação de preços marginais e é expresso em euros por megawatt. Caso a procura de capacidade interzonal a longo prazo relativamente a uma fronteira de zona de ofertas, um sentido de utilização e uma unidade de tempo do mercado determinados seja inferior ou igual à oferta de capacidade interzonal a longo prazo, o preço deve ser igual a zero."
+  },
+  "30e2432fa064af03": {
+   "fragment_id": "Artigo 41.º — Liquidação e requisitos financeiros",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Liquidação e requisitos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Liquidação e requisitos financeiros\n\n1. A plataforma única de atribuição deve dispor de procedimentos de faturação ou de autofaturação para liquidação de débitos ou créditos resultantes da atribuição, devolução ou remuneração de direitos de transporte a longo prazo. As regras de atribuição harmonizadas devem especificar esses procedimentos.\n\n2. A fim de participarem nos leilões, os participantes no mercado devem dispor de garantias suficientes para cobrir as ofertas de compra e os direitos de transporte a longo prazo atribuídos, em conformidade com as condições estabelecidas nas regras de atribuição harmonizadas."
+  },
+  "5e958aaf07fcd1d8": {
+   "fragment_id": "Artigo 42.º — Instauração de procedimentos de recurso",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Instauração de procedimentos de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Instauração de procedimentos de recurso\n\n1. Na eventualidade de a atribuição de capacidade a prazo não produzir resultados, o procedimento de recurso implícito deve ser o adiamento da atribuição de capacidade a prazo.\n\n2. Os ORT de uma região de cálculo de capacidade têm o direito de aplicar soluções de recurso alternativas coordenadas. Nesse caso, os ORT da região de cálculo de capacidade em causa elaboram uma proposta coordenada de procedimentos de recurso fiáveis."
+  },
+  "46ad66a4ebf3ee62": {
+   "fragment_id": "Artigo 43.º — Devolução de direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Devolução de direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Devolução de direitos de transporte a longo prazo\n\n1. Os titulares de direitos de transporte a longo prazo podem devolvê-los aos ORT competentes através da plataforma única de atribuição, para subsequente atribuição de capacidade a prazo.\n\n2. Os titulares de direitos de transporte a longo prazo que pretendam devolvê-los para subsequente atribuição de capacidade a prazo devem comunicá-lo — diretamente ou indiretamente, por intermédio de terceiros — à plataforma única de atribuição, da forma estipulada nas regras de atribuição harmonizadas.\n\n3. Os titulares de direitos de transporte a longo prazo que devolvam os seus direitos de transporte a longo prazo devem ser remunerados — diretamente ou indiretamente, por intermédio de terceiros — pelo ORT competente através da plataforma única de atribuição. Essa remuneração deve ser igual ao preço resultante do leilão no qual os direitos de transporte a longo prazo forem reatribuídos."
+  },
+  "23013fb8580794a4": {
+   "fragment_id": "Artigo 44.º — Transferência de direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Transferência de direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Transferência de direitos de transporte a longo prazo\n\n1. Os titulares de direitos de transporte a longo prazo têm o direito de transferir a totalidade ou parte dos seus direitos de transporte a longo prazo para outros participantes no mercado, em conformidade com as regras de atribuição harmonizadas.\n\n2. Devem ser publicadas na plataforma única de atribuição as regras de admissibilidade e uma lista dos participantes no mercado nela registados e elegíveis para transferência de direitos de transporte a longo prazo.\n\n3. Os titulares de direitos de transporte a longo prazo comunicam — diretamente ou indiretamente, por intermédio de terceiros — à plataforma única de atribuição a transferência de direitos de transporte a longo prazo, em conformidade com as regras de atribuição harmonizadas.\n\n4. Os participantes no mercado que adquiram esses direitos de transporte devem confirmar, em conformidade com as regras de atribuição harmonizadas, à plataforma única de atribuição — diretamente ou indiretamente, por intermédio de terceiros — a comunicação enviada pelo anterior titular dos direitos de transporte a longo prazo."
+  },
+  "93b64cfbf283d8b8": {
+   "fragment_id": "Artigo 45.º — Apresentação de resultados",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Apresentação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Apresentação de resultados\n\n1. A plataforma única de atribuição comunica o resultado da atribuição de capacidade a prazo aos ORT responsáveis pela fronteira de zona de ofertas à qual estão associados os direitos de transporte a longo prazo, aos participantes no mercado e aos titulares de direitos de transporte a longo prazo, no prazo estabelecido nas especificações do leilão.\n\n2. A plataforma única de atribuição informa os participantes no mercado sobre o estado de execução e os preços de equilíbrio das suas ofertas de compra."
+  },
+  "0ad7262770310ac2": {
+   "fragment_id": "Artigo 46.º — Início dos procedimentos de recurso",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Início dos procedimentos de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Início dos procedimentos de recurso\n\n1. Caso a plataforma única de atribuição não seja capaz de fornecer quer as especificações do leilão, em conformidade com o artigo 39.º, quer parte ou a totalidade dos resultados da atribuição de capacidade a prazo dentro dos prazos especificados nas regras de atribuição harmonizadas, os ORT responsáveis pela fronteira de zona de ofertas em questão devem aplicar os procedimentos de recurso previstos, em conformidade com o artigo 42.º.\n\n2. Assim que for identificada a impossibilidade de fornecer os elementos referidos no n.º 1, a plataforma única de atribuição comunica-o aos ORT responsáveis pela fronteira de zona de ofertas em causa. A plataforma única de atribuição comunica aos participantes no mercado que podem ser aplicados procedimentos de recurso."
+  },
+  "7e21cd3e879cb828": {
+   "fragment_id": "Artigo 47.º — Publicação de informações do mercado",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Publicação de informações do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Publicação de informações do mercado\n\n1.\n\nDevem ser publicadas na plataforma única de atribuição pelo menos as seguintes informações para cada fronteira de zona de ofertas e sentido de utilização:\n\na) Especificações do leilão em conformidade com o artigo 39.º;\n\nb) Calendário indicativo do leilão que estabeleça o tipo de direitos de transporte a longo prazo oferecidos e as datas em que esses direitos de transporte serão oferecidos aos participantes no mercado;\n\nc) Resultados da atribuição de capacidade a prazo em conformidade com o artigo 29.º;\n\nd) Número de participantes no mercado em cada leilão;\n\ne) Lista de participantes no mercado elegíveis para transferência de direitos de transporte a longo prazo;\n\nf) Dados de contacto da plataforma única de atribuição.\n\n2. Os ORT competentes publicam, através da plataforma única de atribuição, as informações necessárias a que se refere o n.º 1 em conformidade com o calendário estabelecido nas especificações do leilão e no Regulamento (UE) n.º 543/2013.\n\n3. A plataforma única de atribuição divulga publicamente dados históricos referentes a um período não inferior a cinco anos."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "9cde386fecb2989b": {
+   "fragment_id": "Plataforma única de atribuição",
+   "type": "divisao",
+   "heading": "Plataforma única de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Plataforma única de atribuição"
+  },
+  "96a94d74f418ba3f": {
+   "fragment_id": "Artigo 48.º — Criação",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Criação\n\n1. Os ORT devem assegurar que a plataforma única de atribuição está operacional e satisfaz os requisitos funcionais especificados no artigo 49.º no prazo máximo de doze meses após a aprovação da proposta relativa a um conjunto de requisitos comuns e à criação da plataforma única de atribuição. Se, devido a demoras nos concursos públicos, os ORT competentes o solicitarem, as entidades reguladoras competentes podem prorrogar este prazo, em não mais de seis meses.\n\n2. As atribuições de capacidade a prazo a interligações em corrente contínua devem ser realizadas na plataforma única de atribuição no prazo máximo de 24 meses após a aprovação referida no n.º 1."
+  },
+  "79e92347c713a1fd": {
+   "fragment_id": "Artigo 49.º — Requisitos funcionais",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Requisitos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Requisitos funcionais\n\n1. No prazo máximo de seis meses após a entrada em vigor do presente regulamento, os ORT apresentam às entidades reguladoras uma proposta comum relativa a um conjunto de requisitos e à criação da plataforma única de atribuição. A proposta deve identificar diferentes opções no que se refere à criação e gestão da plataforma única de atribuição, incluindo o desenvolvimento desta por parte dos ORT ou por terceiros em nome deles. A proposta dos ORT deve abranger as funções gerais da plataforma única de atribuição previstas no artigo 50.º e os requisitos relativos à recuperação de custos em conformidade com o artigo 59.º.\n\n2.\n\nOs requisitos funcionais da plataforma única de atribuição devem abranger, pelo menos:\n\na) As fronteiras de zona de ofertas previsivelmente abrangidas;\n\nb) A disponibilidade e a fiabilidade técnicas dos serviços prestados;\n\nc) Os processos operacionais;\n\nd) Os produtos oferecidos;\n\ne) Os períodos de operação da atribuição de capacidade a prazo;\n\nf) Os métodos e algoritmos de atribuição;\n\ng) Os princípios da liquidação financeira e da gestão de riscos dos produtos atribuídos;\n\nh) Um quadro contratual harmonizado com os participantes no mercado;\n\ni) As interfaces de dados."
+  },
+  "10df62826e23bf7e": {
+   "fragment_id": "Artigo 50.º — Funções gerais",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Funções gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Funções gerais\n\nO ORT competente deve utilizar a plataforma única de atribuição pelo menos para o seguinte:\n\na) Registo dos participantes no mercado;\n\nb) Fornecimento de um ponto de contacto único aos participantes no mercado;\n\nc) Realização dos procedimentos de leilão;\n\nd) Liquidação financeira, com os participantes no mercado, dos direitos de transporte a longo prazo atribuídos, incluindo a gestão de garantias;\n\ne) Cooperação com uma câmara de compensação, se exigida pelas normas comuns de aplicação de DFT — obrigações, nos termos do artigo 34.º;\n\nf) Organização de um procedimento de recurso, nos termos dos artigos 42.º e 46.º;\n\ng) Devolução de direitos de transporte a longo prazo, nos termos do artigo 43.º;\n\nh) Transferência de direitos de transporte a longo prazo, nos termos do artigo 44.º;\n\ni) Publicação de informações de mercado, nos termos do artigo 47.º;\n\nj) Disponibilização e gestão de interfaces para troca de dados com os participantes no mercado."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "eec202c22aa9eee1": {
+   "fragment_id": "Regras de atribuição harmonizadas",
+   "type": "divisao",
+   "heading": "Regras de atribuição harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras de atribuição harmonizadas"
+  },
+  "84731b4f0209edaa": {
+   "fragment_id": "Artigo 51.º — Introdução de regras de atribuição harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Introdução de regras de atribuição harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Introdução de regras de atribuição harmonizadas\n\n1. No prazo máximo de seis meses após a entrada em vigor do presente regulamento, os ORT devem elaborar, em conjunto, uma proposta de regras de atribuição harmonizadas de direitos de transporte a longo prazo nos termos do artigo 52.º, n.º 2. A proposta é objeto da consulta referida no artigo 6.º. Se os ORT da região de cálculo da capacidade os tiverem estabelecido nos termos do artigo 52.º, n.º 3, a proposta deve incluir os requisitos regionais e os requisitos específicos de fronteiras de zona de ofertas.\n\n2. Logo que entrem em vigor, os requisitos regionais prevalecerão sobre os requisitos gerais definidos nas normas de atribuição harmonizadas. No caso de os requisitos gerais das regras de atribuição harmonizadas serem alterados e submetidos à aprovação das entidades reguladoras, os requisitos regionais devem ser igualmente submetidos à aprovação das entidades reguladoras da região de cálculo de capacidade em causa."
+  },
+  "d91318de7c70c34d": {
+   "fragment_id": "Artigo 52.º — Requisitos das regras de atribuição harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Requisitos das regras de atribuição harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Requisitos das regras de atribuição harmonizadas\n\n1. Os requisitos das regras de atribuição harmonizadas de direitos de transporte a longo prazo devem abranger os direitos físicos de transporte, os DFT — opções e os DFT — obrigações. Os ORT devem considerar e ter em devida conta as especificidades relacionadas com os diferentes tipos de produtos.\n\n2.\n\nAs regras de atribuição harmonizadas de direitos de transporte a longo prazo devem seguir os princípios da não-discriminação e da transparência e compreender, pelo menos, os seguintes requisitos gerais:\n\na) Harmonização das definições e do âmbito das aplicações;\n\nb) Quadro contratual entre a plataforma única de atribuição e os participantes no mercado, incluindo disposições sobre a legislação aplicável, a língua aplicável, confidencialidade, resolução de litígios, responsabilidade e força maior;\n\nc) Disposições harmonizadas no que se refere ao princípio «usar ou vender» em caso de direitos físicos de transporte, em conformidade com o artigo 32.º;\n\nd) Descrição dos tipos de direitos de transporte a longo prazo oferecidos, incluindo os princípios de remuneração, em conformidade com o artigo 35.º;\n\ne) Descrição dos princípios das regras de nomeação aplicáveis, em conformidade com o artigo 36.º;\n\nf) Disposições harmonizadas em matéria de elegibilidade e direito, de suspensão e renovação e de custos de participação, em conformidade com o artigo 37.º;\n\ng) Descrição do processo de atribuição de capacidade a prazo que inclua, pelo menos, disposições sobre as especificações dos leilões, a apresentação de ofertas de compra, a publicação dos resultados dos leilões, o prazo para impugnação e os procedimentos de recurso, em conformidade com os artigos 37.º, 38.º, 39.º, 42.º, 43.º e 44.º;\n\nh) Disposições harmonizadas em matéria de requisitos financeiros e de liquidação, em conformidade com o artigo 41.º;\n\ni) Disposições harmonizadas para devolução de direitos de transporte a longo prazo, em conformidade com o artigo 43.º;\n\nj) Disposições harmonizadas para notificação da transferência de direitos de transporte a longo prazo, em conformidade com o artigo 44.º;\n\nk) Disposições sobre as regras de firmeza e de compensação, em conformidade com os artigos 53.º e 55.º;\n\nl) Disposições harmonizadas em matéria de políticas de compensação e de garantias financeiras para DFT — obrigações, se for caso disso.\n\n3.\n\nAs regras de atribuição harmonizadas também podem incluir requisitos regionais ou requisitos específicos de fronteiras de zona de ofertas, designadamente os seguintes (lista não-exaustiva):\n\na) Descrição do tipo de direitos de transporte a longo prazo oferecidos em cada fronteira de zona de ofertas da região de cálculo de capacidade, em conformidade com o artigo 31.º;\n\nb) Tipo de regime de remuneração dos direitos de transporte a longo prazo a aplicar em cada fronteira de zona de ofertas da região de cálculo de capacidade, de acordo com a atribuição no período de operação para o dia seguinte, em conformidade com o artigo 35.º;\n\nc) Aplicação de soluções de recurso alternativas coordenadas de âmbito regional, em conformidade com o artigo 42.º;\n\nd) Regras de compensação regional definidoras dos regimes de firmeza regional, em conformidade com o artigo 55.º."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "830811a0c735e58f": {
+   "fragment_id": "Firmeza da capacidade interzonal atribuída",
+   "type": "divisao",
+   "heading": "Firmeza da capacidade interzonal atribuída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Firmeza da capacidade interzonal atribuída"
+  },
+  "7d688461e141b536": {
+   "fragment_id": "Artigo 53.º — Disposições gerais de firmeza",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Disposições gerais de firmeza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Disposições gerais de firmeza\n\n1. Os ORT podem reduzir os direitos de transporte a longo prazo para garantir que a operação se mantém dentro dos limites de segurança operacional antes do termo do prazo de firmeza para o dia seguinte. Os ORT que reduzam direitos de transporte a longo prazo informam regularmente disso as entidades reguladoras respetivas, publicando também as razões da redução.\n\n2. Os ORT em causa da fronteira de zona de ofertas na qual tenham sido reduzidos direitos de transporte a longo prazo devem compensar, com o diferencial de mercado, os titulares dos direitos de transporte a longo prazo reduzidos."
+  },
+  "a19b84a65aec7ed5": {
+   "fragment_id": "Artigo 54.º — Definição de limites máximos",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Definição de limites máximos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Definição de limites máximos\n\n1. Os ORT em causa numa fronteira de zona de ofertas podem propor um limite máximo para a compensação total a pagar a todos os titulares de direitos de transporte a longo prazo reduzidos no ano civil em causa, ou, no caso de interligações em corrente contínua, no mês civil em causa.\n\n2. O limite máximo não pode ser inferior ao montante total das receitas associadas a congestionamentos obtidas pelos ORT em causa na fronteira de zona de ofertas no ano civil em causa. No caso das interligações em corrente contínua, os ORT podem propor um limite máximo não inferior ao total das receitas associadas a congestionamentos obtidas pelos ORT em causa na fronteira de zona de ofertas no mês civil em causa.\n\n3. Caso existam várias interligações operadas por diferentes ORT na mesma fronteira de zona de ofertas e as interligações em causa estejam sujeitas a diferentes regimes regulamentares supervisionados pelas entidades reguladoras, o total das receitas associadas a congestionamentos utilizado para cálculo da compensação sujeita a limite máximo em conformidade com o n.º 2 pode ser dividido pelas interligações. Incumbe ao ORT em causa propor essa divisão e às entidades reguladoras competentes aprová-la."
+  },
+  "b883d37fb990ba0c": {
+   "fragment_id": "Artigo 55.º — Regras de compensação",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Regras de compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regras de compensação\n\nSempre que proponham aplicar o limite máximo a que se refere o artigo 54.º, os ORT devem propor, em conjunto, uma série de regras de compensação relativas ao limite máximo aplicado."
+  },
+  "45c5c9f6719b083d": {
+   "fragment_id": "Artigo 56.º — Firmeza em casos de força maior",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Firmeza em casos de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Firmeza em casos de força maior\n\n1. Em casos de força maior, os ORT podem reduzir os direitos de transporte a longo prazo. Esta redução deve ser realizada de forma coordenada, em ligação com os ORT diretamente envolvidos.\n\n2. O ORT que invoca o caso de força maior deve publicar uma comunicação que indique a natureza da situação de força maior e a duração prevista da mesma.\n\n3. Em caso de redução devido a uma situação de força maior, os titulares de direitos de transporte a longo prazo em causa devem receber do ORT que invocou a situação de força maior uma compensação relativa à duração da mesma. Nessa eventualidade, a compensação deve ser igual ao montante inicialmente pago pelo direito de transporte a longo prazo em causa durante o processo de atribuição a prazo.\n\n4. Os ORT que invocarem casos de força maior devem envidar todos os esforços possíveis para limitarem as consequências e a duração da situação.\n\n5. Caso um Estado-Membro tenha adotado disposições para o efeito, a entidade reguladora nacional deve, a pedido do ORT em causa, determinar se um evento é considerado um caso de força maior."
+  },
+  "3c86a15ddc0878af": {
+   "fragment_id": "CAPÍTULO 7",
+   "type": "divisao",
+   "heading": "CAPÍTULO 7",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 7"
+  },
+  "74d58219a95bfd24": {
+   "fragment_id": "Distribuição das receitas associadas a congestionamentos",
+   "type": "divisao",
+   "heading": "Distribuição das receitas associadas a congestionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Distribuição das receitas associadas a congestionamentos"
+  },
+  "b1fd3be86689cd14": {
+   "fragment_id": "Artigo 57.º — Metodologia de distribuição das receitas associadas a congestionamentos",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Metodologia de distribuição das receitas associadas a congestionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Metodologia de distribuição das receitas associadas a congestionamentos\n\n1. No prazo máximo de seis meses após a aprovação da metodologia de partilha das receitas associadas a congestionamentos a que se refere o artigo 9.º, n.º 6, do Regulamento (UE) 2015/1222, os ORT devem elaborar, em conjunto, uma proposta de metodologia de partilha das receitas associadas a congestionamentos resultantes da atribuição de capacidade a prazo.\n\n2. Ao elaborarem a metodologia referida no n.º 1, os ORT devem ter em conta a metodologia de partilha das receitas associadas a congestionamentos elaborada em conformidade com o artigo 73.º do Regulamento (UE) 2015/1222.\n\n3. Os requisitos estabelecidos no artigo 73.º do Regulamento (UE) 2015/1222 aplicam-se à elaboração da metodologia de partilha das receitas associadas a congestionamentos resultantes da atribuição de capacidade a prazo."
+  },
+  "906b320adabe224c": {
+   "fragment_id": "CAPÍTULO 8",
+   "type": "divisao",
+   "heading": "CAPÍTULO 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 8"
+  },
+  "eb1fed0796c1ff13": {
+   "fragment_id": "Recuperação de custos",
+   "type": "divisao",
+   "heading": "Recuperação de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Recuperação de custos"
+  },
+  "bd2c24983f339e90": {
+   "fragment_id": "Artigo 58.º — Disposições gerais sobre recuperação de custos",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Disposições gerais sobre recuperação de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Disposições gerais sobre recuperação de custos\n\n1. Os custos suportados pelos ORT devido às obrigações impostas pelo presente regulamento são avaliados pelas entidades reguladoras.\n\n2. Os custos considerados razoáveis, eficientes e proporcionados devem ser recuperados atempadamente através de tarifas de rede ou outros mecanismos adequados, conforme determinado pelas entidades reguladoras competentes.\n\n3. Se tal lhes for solicitado pelas entidades reguladoras, os ORT competentes, em conformidade com o artigo 78.º, devem, no prazo máximo de três meses a contar do pedido, fornecer as informações necessárias para facilitar a avaliação dos custos suportados."
+  },
+  "39170caef75b97e5": {
+   "fragment_id": "Artigo 59.º — Custos de criação, de desenvolvimento e de funcionamento da plataforma única de atribuição",
+   "type": "artigo",
+   "heading": "Artigo 59.º — Custos de criação, de desenvolvimento e de funcionamento da plataforma única de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Custos de criação, de desenvolvimento e de funcionamento da plataforma única de atribuição\n\nOs ORT que emitam direitos de transporte a longo prazo na plataforma única de atribuição suportam, em conjunto, os custos relacionados com a criação e o funcionamento desta. No prazo máximo de seis meses após a entrada em vigor do presente regulamento, os ORT devem propor uma metodologia de partilha desses custos, que devem ser razoáveis, eficientes e proporcionados, por exemplo com base em princípios similares aos previstos no artigo 80.º do Regulamento (UE) 2015/1222."
+  },
+  "e38720f8d91c0626": {
+   "fragment_id": "Artigo 60.º — Custos de criação e de funcionamento do processo de cálculo de capacidade coordenada",
+   "type": "artigo",
+   "heading": "Artigo 60.º — Custos de criação e de funcionamento do processo de cálculo de capacidade coordenada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Custos de criação e de funcionamento do processo de cálculo de capacidade coordenada\n\n1. Cada ORT suporta, individualmente, os custos relacionados com o fornecimento de dados de entrada para o cálculo de capacidade.\n\n2. Os ORT suportam, em conjunto, os custos relacionados com a criação e o funcionamento da integração dos modelos de rede individuais.\n\n3. Os ORT de cada região de cálculo de capacidade suportam os custos relacionados com a criação e com o funcionamento dos calculadores de capacidade coordenada."
+  },
+  "549cf29aaf2c70af": {
+   "fragment_id": "Artigo 61.º — Custos da garantia da firmeza e da remuneração dos direitos de transporte a longo prazo",
+   "type": "artigo",
+   "heading": "Artigo 61.º — Custos da garantia da firmeza e da remuneração dos direitos de transporte a longo prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Custos da garantia da firmeza e da remuneração dos direitos de transporte a longo prazo\n\n1. O custo da garantia da firmeza inclui os custos decorrentes dos mecanismos de compensação associados à garantia da firmeza das capacidades interzonais, assim como os custos de redespacho, trocas compensatórias e desequilíbrio associados à compensação dos participantes no mercado e, tanto quanto possível, deve ser suportado pelos ORT, em conformidade com o artigo 16.º, n.º 6, alínea a), do Regulamento (CE) n.º 714/2009.\n\n2. Ao fixarem ou aprovarem tarifas de transporte ou outro mecanismo adequado em conformidade com o artigo 37.º, n.º 1, alínea a), da Diretiva 2009/72/CE, e tendo em conta o artigo 14.º, n.º 1, do Regulamento (CE) n.º 714/2009, as entidades reguladoras devem considerar os pagamentos de compensação como custos elegíveis, desde que sejam razoáveis, eficientes e proporcionados.\n\n3. No prazo máximo de seis meses após a aprovação da metodologia de partilha das receitas associadas a congestionamentos referida no artigo 57.º, os ORT elaboram, em conjunto, uma metodologia de partilha dos custos suportados para garantir a firmeza e a remuneração dos direitos de transporte a longo prazo. Esta metodologia deve ser coerente com a metodologia de partilha das receitas associadas a congestionamentos resultantes da atribuição de capacidade a prazo, referida no artigo 57.º."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "30c7cd091852c7d1": {
+   "fragment_id": "DELEGAÇÃO DE TAREFAS E ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "DELEGAÇÃO DE TAREFAS E ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DELEGAÇÃO DE TAREFAS E ACOMPANHAMENTO"
+  },
+  "a168da7e32db6e13": {
+   "fragment_id": "Artigo 62.º — Delegação de tarefas",
+   "type": "artigo",
+   "heading": "Artigo 62.º — Delegação de tarefas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Delegação de tarefas\n\n1. Um ORT pode delegar num ou mais terceiros a totalidade ou parte das tarefas que lhe são atribuídas ao abrigo do presente regulamento, caso o(s) terceiro(s) as possa(m) executar de modo tão ou mais eficaz que o ORT delegante. O ORT delegante permanece responsável pela garantia do cumprimento das obrigações previstas no presente regulamento, incluindo a garantia de acesso à informação necessária ao acompanhamento pela entidade reguladora.\n\n2. Antes da delegação, o(s) terceiro(s) em causa demonstra(m) claramente ao ORT delegante que estão em condições de cumprir as obrigações decorrentes do presente regulamento.\n\n3. Caso a totalidade ou parte das tarefas especificadas no presente regulamento seja delegada a um terceiro, o ORT delegante deve assegurar a celebração de acordos de confidencialidade adequados antes da delegação, em conformidade com as suas obrigações de confidencialidade."
+  },
+  "851bcaad192b598e": {
+   "fragment_id": "Artigo 63.º — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 63.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Acompanhamento\n\n1.\n\nA REORT para a Eletricidade deve acompanhar a aplicação da atribuição de capacidade a prazo e a criação da plataforma única de atribuição, em conformidade com o artigo 8.º, n.º 8, do Regulamento (CE) n.º 714/2009. Esse acompanhamento deve abranger, nomeadamente, o seguinte:\n\na) Progressos e potenciais problemas na aplicação da atribuição de capacidade a prazo, incluindo acesso equitativo e transparente dos participantes no mercado a direitos de transporte a longo prazo;\n\nb) Eficácia das metodologias de divisão de capacidades interzonais a longo prazo, em conformidade com o artigo 16.º;\n\nc) Relatório sobre cálculo e atribuição de capacidades, em conformidade com o artigo 26.º;\n\nd) Eficácia do funcionamento da atribuição de capacidade a prazo e da plataforma única de atribuição.\n\n2. Até seis meses após a entrada em vigor do presente regulamento, a REORT para a Eletricidade apresenta à Agência, para parecer, um plano de acompanhamento que inclua os relatórios a elaborar e quaisquer atualizações, em conformidade com o n.º 1.\n\n3. A Agência, em cooperação com a REORT para a Eletricidade, deve elaborar, o mais tardar seis meses após a data de entrada em vigor do presente regulamento, uma lista das informações a serem-lhe comunicadas pela segunda em conformidade com o artigo 8.º, n.º 9, e o artigo 9.º, n.º 1, do Regulamento (CE) n.º 714/2009. Esta lista pode ser atualizada. A REORT para a Eletricidade deve manter um arquivo digital de dados abrangente, em formato normalizado, com as informações solicitadas pela Agência. Os ORT devem apresentar à REORT para a Eletricidade as informações necessárias para a execução das tarefas referidas nos n.^os^ 1 e 3.\n\n4. Mediante pedido conjunto da Agência e da REORT para a Eletricidade, os participantes no mercado e outras organizações relevantes na atribuição de capacidade a prazo apresentam à REORT para a Eletricidade as informações solicitadas para o acompanhamento em conformidade com os n.^os^ 1 e 3, exceto as informações já obtidas pelas entidades reguladoras, pela Agência ou pela REORT para a Eletricidade no âmbito das tarefas respetivas de acompanhamento da aplicação."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "869719e1a41f6aac": {
+   "fragment_id": "Artigo 64.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 64.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "1d9c62b6a22305c0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ba2a7774-869b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) n.º 543/2013 da Comissão, de 14 de junho de 2013, sobre a apresentação e a publicação de dados dos mercados da eletricidade e que altera o anexo I do Regulamento (CE) n.º 714/2009 do Parlamento Europeu e do Conselho (JO L 163 de 15.6.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ba2a7774-869b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Diretiva 2009/72/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, que estabelece regras comuns para o mercado interno da electricidade e que revoga a Directiva 2003/54/CE (JO L 211 de 14.8.2009, p. 55)."
+  }
+ }
+}

@@ -1,0 +1,371 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016R0438:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0438-20200401",
+ "dre_path": null,
+ "source_lastmod": "2020-04-01",
+ "versions": [
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "celex": "02016R0438-20200401",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158cc626b044c978",
+    "f6c2eb219fe1b284",
+    "bac149c29ff5cb1d",
+    "f4dd3e65882eccec",
+    "4a860532183d98fe",
+    "febfb8c92779b941",
+    "8a6992ea3c104fd1",
+    "5508b38665c59483",
+    "7940a5a8fa945904",
+    "ac5ac04a2053f15b",
+    "115999d2e5c80f47",
+    "99ae7883023c8613",
+    "13e977bb2b6fa5eb",
+    "436e80e198e6f37e",
+    "ee839a9b34cd9771",
+    "509a0e0a278c0168",
+    "76c1dadbaa588544",
+    "9686f5502f04dece",
+    "59b5f269f9a5dfba",
+    "c95ed01e7cce5e03",
+    "5361800b525a9f1d",
+    "00bae25575e72d07",
+    "37b506291e21cfcc",
+    "b8fc36de8d0b0d86",
+    "a3b195c08c38f795",
+    "d48536313b14b74c",
+    "73f9f9b4af0831f9",
+    "d0d960eb690e314b",
+    "99105ea76cc7810b",
+    "6cc3b57c1b453c93",
+    "bc665b39b1118faa",
+    "5573d19d5f81bd07",
+    "c0674aaa2319df09",
+    "35568f00c5948b4b",
+    "47b71fc440aef7d0",
+    "2ab3b92e151dd761",
+    "4caee2fdd4be281b",
+    "7d16026ff5c9c613",
+    "44185753e2f29355"
+   ]
+  }
+ ],
+ "fragments": {
+  "158cc626b044c978": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2015\n\nque complementa a Diretiva 2009/65/CE do Parlamento Europeu e do Conselho no que respeita às obrigações dos depositários\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "bac149c29ff5cb1d": {
+   "fragment_id": "DEFINIÇÕES E ELEMENTOS DO CONTRATO ESCRITO",
+   "type": "divisao",
+   "heading": "DEFINIÇÕES E ELEMENTOS DO CONTRATO ESCRITO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEFINIÇÕES E ELEMENTOS DO CONTRATO ESCRITO"
+  },
+  "f4dd3e65882eccec": {
+   "fragment_id": "(Artigo 22.º, n.º 2, da Diretiva 2009/65/CE)",
+   "type": "divisao",
+   "heading": "(Artigo 22.º, n.º 2, da Diretiva 2009/65/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 22.º, n.º 2, da Diretiva 2009/65/CE)"
+  },
+  "4a860532183d98fe": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara os efeitos do presente regulamento, entende-se por:\n\na) «Relação», uma situação em que duas ou mais pessoas singulares ou coletivas estão ligadas por uma participação direta ou indireta numa empresa que representa 10 % ou mais do capital ou dos direitos de voto ou que permite exercer uma influência significativa na gestão da empresa em que é detida essa participação;\n\nb) «Relação de grupo», uma situação em que duas ou mais empresas ou entidades pertencem ao mesmo grupo, na aceção do artigo 2.º, ponto 11, da Diretiva 2013/34/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#E0001)), ou das normas internacionais de contabilidade adotadas em conformidade com o Regulamento (CE) n.º 1606/2002 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#E0002))."
+  },
+  "febfb8c92779b941": {
+   "fragment_id": "Artigo 2.º — Contrato de nomeação de um depositário",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Contrato de nomeação de um depositário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contrato de nomeação de um depositário\n\n1. O contrato que comprova a nomeação do depositário, em conformidade com o artigo 22.º, n.º 2, da Diretiva 2009/65/CE é estabelecido entre, por um lado, o depositário e, por outro lado, a sociedade de investimento ou a sociedade gestora relativamente a cada um dos fundos comuns de investimento geridos pela sociedade gestora.\n\n2. O contrato deve incluir pelo menos o seguinte:\n\na) Uma descrição dos serviços a prestar pelo depositário e dos procedimentos a adotar pelo depositário para cada tipo de ativos em que o OICVM pode investir e que são confiados ao depositário;\n\nb) Uma descrição da forma como as funções de guarda e de fiscalização devem ser desempenhadas consoante os tipos de ativos e as regiões geográficas em que o OICVM projeta investir, nomeadamente no que respeita às obrigações de guarda, às listas de países e aos procedimentos que permitam acrescentar ou retirar países dessas listas. Deve assegurar-se a sua coerência com as informações prestadas no regulamento, nos documentos constitutivos e nos documentos de oferta do OICVM relativamente aos ativos em que o OICVM pode investir;\n\nc) O período de validade e as condições de alteração e rescisão do contrato, incluindo as situações que possam conduzir à rescisão do contrato, informações sobre o procedimento de rescisão e os procedimentos através dos quais o depositário envia todas as informações relevantes ao seu sucessor;\n\nd) As obrigações de confidencialidade aplicáveis às partes em conformidade com a legislação e a regulamentação relevantes. Essas obrigações não devem comprometer as possibilidades de acesso das autoridades competentes aos documentos e informações pertinentes;\n\ne) Os meios e procedimentos através dos quais o depositário transmite à sociedade gestora ou à sociedade de investimento todas as informações relevantes de que necessitam para o desempenho das suas funções, incluindo o exercício de quaisquer direitos associados aos ativos, e para permitir que a sociedade gestora ou sociedade de investimento disponham, em tempo útil, de uma panorâmica geral exata das contas do OICVM;\n\nf) Os meios e procedimentos através dos quais a sociedade gestora ou a sociedade de investimento transmitem todas as informações relevantes ou garantem que o depositário tenha acesso a todas as informações necessárias para poder desempenhar as suas funções, incluindo os procedimentos destinados a garantir que o depositário receba informações de outras partes nomeadas pela sociedade gestora ou sociedade de investimento;\n\ng) Os procedimentos a seguir quando forem ponderadas alterações do regulamento, documentos constitutivos ou documentos de oferta do OICVM, especificando as situações em que o depositário deve ser informado ou os casos em que o acordo prévio do depositário será necessário para efetuar as alterações;\n\nh) Todas as informações necessárias que devem ser objeto de intercâmbio entre, por um lado, a sociedade gestora ou sociedade de investimento e um terceiro atuando em nome do OICVM e, por outro, o depositário, em relação à venda, subscrição, resgaste, emissão, anulação e reaquisição de unidades de participação do OICVM;\n\ni) Todas as informações necessárias que devem ser objeto de intercâmbio entre, por um lado, a sociedade gestora ou sociedade de investimento e um terceiro atuando em nome do OICVM e, por outro, o depositário em relação ao desempenho das funções do depositário;\n\nj) Sempre que as partes no contrato prevejam a nomeação de terceiros para a realização de parte das suas funções respetivas, um compromisso no sentido de fornecer com regularidade informações sobre os terceiros nomeados e, mediante pedido, informações sobre os critérios utilizados para selecionar os terceiros e as medidas previstas para acompanhar as atividades realizadas por terceiros selecionados;\n\nk) Informações sobre as tarefas e as responsabilidades das partes no contrato relativamente às obrigações em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo;\n\nl) Informações relativas a todas as contas em numerário abertas em nome da sociedade de investimento ou da sociedade gestora atuando em nome do OICVM e aos procedimentos destinados a garantir que o depositário será informado aquando da abertura de uma nova conta;\n\nm) Pormenores relativos aos procedimentos progressivos do depositário, incluindo a identificação das pessoas a contactar pelo depositário na sociedade gestora ou sociedade de investimento, quando lança tal procedimento;\n\nn) Um compromisso do depositário no sentido de notificar que a segregação de ativos deixou de ser suficiente para garantir a proteção contra a insolvência de terceiros em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, numa jurisdição específica;\n\no) Os procedimentos destinados a garantir que o depositário, no exercício das suas funções, tem capacidade para investigar a conduta da sociedade gestora ou da sociedade de investimento e para avaliar a qualidade das informações recebidas, nomeadamente através do acesso à contabilidade da sociedade gestora ou da sociedade de investimento e através de visitas no local;\n\np) Os procedimentos destinados a garantir que a sociedade gestora ou sociedade de investimento são autorizadas a analisar o desempenho do depositário no que diz respeito às suas obrigações.\n\nAs informações pormenorizadas sobre os meios e procedimentos previstos nas alíneas a) a p) devem ser descritas no contrato de nomeação do depositário e em qualquer alteração subsequente do mesmo.\n\n3. As partes podem acordar a transmissão da totalidade ou de parte das informações que circulam entre si por via eletrónica, desde que exista um registo adequado dessas informações.\n\n4. Salvo disposição em contrário na legislação nacional, não deve existir qualquer obrigação de celebrar um acordo escrito específico para cada fundo comum.\n\nA sociedade gestora e o depositário podem celebrar um acordo contratual único que enumere os fundos comuns geridos pela sociedade gestora aos quais o contrato é aplicável.\n\n5. O contrato que comprova a nomeação do depositário e qualquer acordo posterior devem indicar o direito aplicável ao contrato."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "5508b38665c59483": {
+   "fragment_id": "FUNÇÕES DO DEPOSITÁRIO, OBRIGAÇÕES DE DEVIDA DILIGÊNCIA, OBRIGAÇÃO DE SEGREGAÇÃO E PROTEÇÃO CONTRA A INSOLVÊNCIA",
+   "type": "divisao",
+   "heading": "FUNÇÕES DO DEPOSITÁRIO, OBRIGAÇÕES DE DEVIDA DILIGÊNCIA, OBRIGAÇÃO DE SEGREGAÇÃO E PROTEÇÃO CONTRA A INSOLVÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNÇÕES DO DEPOSITÁRIO, OBRIGAÇÕES DE DEVIDA DILIGÊNCIA, OBRIGAÇÃO DE SEGREGAÇÃO E PROTEÇÃO CONTRA A INSOLVÊNCIA"
+  },
+  "7940a5a8fa945904": {
+   "fragment_id": "(Artigo 22.º, n.^os^ 3, 4 e 5, e artigo 22.º-A, n.º 2, alíneas c) e d), da Diretiva 2009/65/CE)",
+   "type": "divisao",
+   "heading": "(Artigo 22.º, n.^os^ 3, 4 e 5, e artigo 22.º-A, n.º 2, alíneas c) e d), da Diretiva 2009/65/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 22.º, n.^os^ 3, 4 e 5, e artigo 22.º-A, n.º 2, alíneas c) e d), da Diretiva 2009/65/CE)"
+  },
+  "ac5ac04a2053f15b": {
+   "fragment_id": "Artigo 3.º — Obrigações de fiscalização — Requisitos gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações de fiscalização — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações de fiscalização — Requisitos gerais\n\n1. Aquando da sua nomeação, o depositário avalia os riscos associados à natureza, dimensão e complexidade da estratégia e da política de investimento do OICVM, bem como à organização da sociedade gestora ou da sociedade de investimento. Com base nessa avaliação, o depositário deve conceber procedimentos de fiscalização adequados, em função do OICVM e dos ativos em que este último investe, que serão em seguida implementados e aplicados. Esses procedimentos devem ser periodicamente atualizados.\n\n2. No exercício das suas funções de fiscalização em conformidade com o artigo 22.º, n.º 3, da Diretiva 2009/65/CE, o depositário deve efetuar controlos e verificações *ex post* dos processos e procedimentos que estão sob a responsabilidade da sociedade gestora ou sociedade de investimento ou de um terceiro nomeado. O depositário deve garantir a existência, em todas as circunstâncias, de um procedimento adequado de verificação e conciliação que seja aplicado e revisto frequentemente. A sociedade gestora ou sociedade de investimento devem assegurar que todas as instruções relacionadas com os ativos e operações do OICVM são enviadas ao depositário, de modo a que este possa efetuar os seus próprios procedimentos de verificação ou de conciliação.\n\n3. O depositário deve estabelecer um procedimento progressivo claro e abrangente para fazer face a situações em que são detetadas potenciais discrepâncias no decurso das suas funções de fiscalização, devendo os pormenores deste procedimento ser disponibilizados às autoridades competentes da sociedade gestora ou sociedade de investimento, mediante pedido.\n\n4. A sociedade gestora ou a sociedade de investimento devem apresentar ao depositário, quando este inicia as suas funções e, posteriormente, numa base contínua, todas as informações relevantes de que este necessita para poder cumprir as obrigações que lhe incumbem nos termos do artigo 22.º, n.º 3, da Diretiva 2009/65/CE, incluindo as informações a prestar ao depositário por terceiros.\n\nA sociedade gestora ou a sociedade de investimento devem, em especial, assegurar que o depositário pode ter acesso às contas e realizar visitas no local às instalações da sociedade gestora ou sociedade de investimento e às de qualquer prestador de serviços por ela nomeado, ou analisar relatórios e declarações de certificações externas reconhecidas por auditores qualificados independentes ou outros especialistas, de modo a assegurar a adequação e a relevância dos procedimentos em vigor."
+  },
+  "115999d2e5c80f47": {
+   "fragment_id": "Artigo 4.º — Obrigações em matéria de subscrição e resgaste",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Obrigações em matéria de subscrição e resgaste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações em matéria de subscrição e resgaste\n\n1. Considera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 3, alínea a), da Diretiva 2009/65/CE quando assegura que a sociedade gestora ou a sociedade de investimento estabeleceram, implementam e aplicam um procedimento adequado e coerente para:\n\na) Conciliar as ordens de subscrição com as receitas decorrentes da subscrição e o número de unidades de participação emitidas com as receitas de subscrição recebidas pelo OICVM;\n\nb) Conciliar as ordens de resgaste com os resgastes efetuados e o número de unidades de participação anuladas com os resgastes pagos pelo OICVM;\n\nc) Verificar periodicamente a adequação do procedimento de conciliação.\n\nPara efeitos das alíneas a), b) e c), o depositário deve, em especial, verificar periodicamente a coerência entre o número total de unidades de participação que figuram nas contas do OICVM e o número total de unidades de participação em circulação que figuram nos registos do OICVM.\n\n2. O depositário deve assegurar e verificar periodicamente que os procedimentos respeitantes à venda, emissão, recompra, resgate e anulação de unidades de participação do OICVM se efetuam nos termos da legislação nacional aplicável e do regulamento ou dos documentos constitutivos do OICVM e verificar que esses procedimentos são efetivamente aplicados.\n\n3. A frequência dos controlos do depositário deve ser coerente com o fluxo das subscrições e resgastes."
+  },
+  "99ae7883023c8613": {
+   "fragment_id": "Artigo 5.º — Obrigações em matéria de avaliação das unidades de participação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigações em matéria de avaliação das unidades de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações em matéria de avaliação das unidades de participação\n\n1. Considera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 3, alínea b), da Diretiva 2009/65/CE quando estabelece procedimentos para:\n\na) Verificar, numa base contínua, que foram criados e aplicados procedimentos adequados e coerentes para a avaliação dos ativos do OICVM em conformidade com a legislação nacional aplicável, como previsto no artigo 85.º da Diretiva 2009/65/CE, e ainda o com o regulamento e os documentos constitutivos do OICVM;\n\nb) Garantir que as políticas e os procedimentos de avaliação são efetivamente aplicados e revistos periodicamente.\n\n2. O depositário efetua as verificações a que se refere o n.º 1 com uma frequência compatível com a da política de avaliação do OICVM, como definido na legislação nacional adotada em conformidade com o artigo 85.º da Diretiva 2009/65/CE e com o regulamento ou os documentos constitutivos do OICVM.\n\n3. Sempre que um depositário considerar que o cálculo do valor das unidades de participação do OICVM não foi efetuado em conformidade com a legislação aplicável, o regulamento ou os documentos constitutivos do OICVM, deve notificar e assegurar que sejam adotadas em tempo útil medidas corretivas na defesa dos interesses dos investidores do OICVM."
+  },
+  "13e977bb2b6fa5eb": {
+   "fragment_id": "Artigo 6.º — Obrigações em matéria de execução das instruções do OICVM",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Obrigações em matéria de execução das instruções do OICVM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações em matéria de execução das instruções do OICVM\n\nConsidera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 3, alínea c), da Diretiva 2009/65/CE quando estabelece e aplica pelo menos:\n\na) Procedimentos adequados para verificar que as instruções da sociedade gestora ou da sociedade de investimento são consentâneas com a legislação e a regulamentação aplicáveis, bem como o regulamento e os documentos constitutivos do OICVM;\n\nb) Um procedimento progressivo para o caso de o OICVM ter infringido um dos limites ou restrições referidos no segundo parágrafo.\n\nPara efeitos da alínea a), o depositário controla nomeadamente se o OICVM respeita as restrições em matéria de investimento e os limites em matéria de alavancagem a que o OICVM está sujeito. Os procedimentos referidos na alínea a) devem ser proporcionados à natureza, dimensão e complexidade do OICVM."
+  },
+  "436e80e198e6f37e": {
+   "fragment_id": "Artigo 7.º — Obrigações em matéria de liquidação atempada das transações",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Obrigações em matéria de liquidação atempada das transações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações em matéria de liquidação atempada das transações\n\n1. Considera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 3, alínea d), da Diretiva 2009/65/CE se estabelece um procedimento destinado a detetar qualquer situação em que uma remuneração relacionada com as operações que envolvem os ativos do OICVM não seja entregue ao OICVM nos prazos habituais, a notificar a sociedade gestora ou a sociedade de investimento em conformidade e, sempre que a situação não tenha sido resolvida, solicitar a restituição dos ativos à contraparte, quando possível.\n\n2. Quando as transações não são realizadas num mercado regulamentado, o depositário deve desempenhar as suas funções em conformidade com o n.º 1, tendo em conta as condições associadas a essas transações."
+  },
+  "ee839a9b34cd9771": {
+   "fragment_id": "Artigo 8.º — Obrigações em matéria de cálculo e distribuição dos rendimentos do OICVM",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigações em matéria de cálculo e distribuição dos rendimentos do OICVM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações em matéria de cálculo e distribuição dos rendimentos do OICVM\n\n1. Considera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 3, alínea e), da Diretiva 2009/65/CE quando:\n\na) Assegura que o cálculo dos rendimentos líquidos é aplicado em conformidade com o regulamento e os documentos constitutivos do OICVM e com a legislação nacional aplicável, cada vez que os rendimentos são distribuídos;\n\nb) Assegura que são tomadas medidas adequadas sempre que os auditores do OICVM tenham emitido reservas sobre as demonstrações financeiras anuais. A sociedade gestora ou a sociedade de investimento devem transmitir ao depositário todas as informações relativas às reservas emitidas sobre as demonstrações financeiras;\n\nc) Verifica a exaustividade e a exatidão dos pagamentos de dividendos, cada vez que os rendimentos são distribuídos.\n\n2. Sempre que um depositário considerar que o cálculo dos rendimentos não foi efetuado em conformidade com a legislação aplicável ou com o regulamento ou os documentos constitutivos do OICVM, deve notificar a sociedade gestora ou a sociedade de investimento e assegurar que sejam tomadas em tempo útil medidas corretivas na defesa dos interesses dos investidores do OICVM."
+  },
+  "509a0e0a278c0168": {
+   "fragment_id": "Artigo 9.º — Controlo das contas em numerário — requisitos gerais",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Controlo das contas em numerário — requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo das contas em numerário — requisitos gerais\n\n1. Sempre que uma conta em numerário seja mantida ou aberta junto de uma entidade referida no artigo 22.º, n.º 4, alínea b), da Diretiva 2009/65/CE em nome da sociedade de investimento ou da sociedade gestora atuando em nome do OICVM, a sociedade gestora ou a sociedade de investimento asseguram que o depositário recebe, quando inicia as suas funções e numa base contínua, todas as informações relevantes necessárias para ter uma panorâmica geral clara de todos os fluxos de caixa do OICVM, por forma a que o depositário possa cumprir as suas obrigações.\n\n2. Aquando da nomeação do depositário, a sociedade de investimento ou a sociedade gestora informam o depositário de todas as contas em numerário existentes abertas em nome da sociedade de investimento, ou da sociedade gestora atuando em nome do OICVM.\n\n3. A sociedade de investimento ou a sociedade gestora asseguram que o depositário recebe todas as informações relativas à abertura de quaisquer novas contas em numerário pela sociedade de investimento, ou pela sociedade gestora atuando em nome do OICVM."
+  },
+  "76c1dadbaa588544": {
+   "fragment_id": "Artigo 10.º — Controlo dos fluxos de caixa do OICVM",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Controlo dos fluxos de caixa do OICVM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Controlo dos fluxos de caixa do OICVM\n\n1. Considera-se que o depositário cumpre os requisitos previstos no artigo 22.º, n.º 4, da Diretiva 2009/65/CE se garante um controlo eficaz e adequado dos fluxos de caixa do OICVM, nomeadamente, pelo menos, se:\n\na) Garante que todo o numerário do OICVM é registado em contas abertas junto de um banco central ou de uma instituição de crédito autorizada em conformidade com a Diretiva 2013/36/UE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#E0003)), ou de uma instituição de crédito autorizada num país terceiro, quando sejam exigidas contas em numerário para efeitos das operações do OICVM, desde que os requisitos regulamentares e de supervisão prudencial aplicáveis às instituições de crédito nesse país terceiro sejam considerados pela autoridade competente do Estado-Membro de origem do OICVM como pelo menos equivalentes aos aplicados na União;\n\nb) Aplica procedimentos eficazes e adequados a fim de conciliar todos os movimentos de fluxos de caixa e realiza diariamente essas conciliações ou, em caso de movimentos de caixa pouco frequentes, sempre que ocorrem esses movimentos de fluxos de caixa;\n\nc) Aplica procedimentos adequados para identificar no final de cada dia útil os fluxos de caixa significativos e aqueles que possam ser incompatíveis com as operações do OICVM;\n\nd) Examina periodicamente a adequação destes procedimentos, nomeadamente através de um exame completo do processo de conciliação, pelo menos uma vez por ano, e garante que as contas em numerário abertas em nome da sociedade de investimento ou da sociedade gestora atuando em nome do OICVM, ou do depositário atuando em nome do OICVM, são incluídas no processo de conciliação;\n\ne) Acompanha numa base contínua os resultados das conciliações e medidas tomadas em resultado de eventuais discrepâncias identificadas pelos procedimentos de conciliação e notifica a sociedade gestora ou a sociedade de investimento se uma discrepância não tiver sido rapidamente corrigida e ainda as autoridades competentes caso a situação não possa ser corrigida;\n\nf) Verifica a coerência dos seus próprios registos das posições de caixa com os do OICVM.\n\nPara efeitos de avaliação da equivalência dos requisitos regulamentares e de supervisão prudencial aplicáveis às instituições de crédito de um país terceiro a que se refere a alínea a), as autoridades competentes têm em conta os atos de execução adotados pela Comissão nos termos do artigo 107.º, n.º 4, do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#E0004)).\n\n2. A sociedade gestora ou a sociedade de investimento asseguram que todas as instruções e informações relacionadas com as contas em numerário abertas junto de terceiros são enviadas ao depositário, por forma a permitir a este último executar o seu próprio procedimento de conciliação."
+  },
+  "9686f5502f04dece": {
+   "fragment_id": "Artigo 11.º — Obrigações relativas aos pagamentos aquando de subscrições",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Obrigações relativas aos pagamentos aquando de subscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações relativas aos pagamentos aquando de subscrições\n\nUma sociedade gestora ou uma sociedade de investimento asseguram que o depositário recebe no final de cada dia útil informações sobre os pagamentos efetuados por ou em nome de investidores, no quadro da subscrição de unidades de participação de um OICVM, se a sociedade gestora ou a sociedade de investimento atuando em nome do OICVM, ou uma parte atuando em nome do mesmo, como um agente responsável por transferências, receber esses pagamentos ou uma ordem do investidor. A sociedade gestora ou a sociedade de investimento asseguram que o depositário recebe todas as outras informações relevantes de que necessita para garantir que os pagamentos são registados em contas em numerário abertas em nome da sociedade de investimento ou da sociedade gestora atuando em nome do OICVM ou do depositário, em conformidade com o disposto no artigo 22.º, n.º 4, da Diretiva 2009/65/CE."
+  },
+  "59b5f269f9a5dfba": {
+   "fragment_id": "Artigo 12.º — Instrumentos financeiros a manter em custódia",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Instrumentos financeiros a manter em custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrumentos financeiros a manter em custódia\n\n1. Os instrumentos financeiros pertencentes ao OICVM que não possam ser fisicamente entregues ao depositário devem ser incluídos no âmbito das obrigações de custódia do depositário, quando estiverem preenchidos todos os seguintes requisitos:\n\na) Consistem em instrumentos financeiros referidos no artigo 50.º, n.º 1, alíneas a) a e) e alínea h), da Diretiva 2009/65/CE ou em valores mobiliários que incorporam instrumentos derivados, como referidos no artigo 51.º, n.º 3, quarto parágrafo, da Diretiva 2009/65/CE;\n\nb) Podem ser registados ou mantidos numa conta de valores mobiliários direta ou indiretamente em nome do depositário.\n\n2. Não devem ser mantidos em custódia os instrumentos financeiros que, em conformidade com a legislação nacional aplicável, apenas se encontram diretamente registados em nome do OICVM junto do próprio emitente ou do seu agente, por exemplo, um conservador de registo ou um agente responsável por transferências.\n\n3. Os instrumentos financeiros pertencentes ao OICVM que podem ser fisicamente entregues ao depositário são sempre abrangidos pelo âmbito de aplicação das obrigações de custódia do depositário."
+  },
+  "c95ed01e7cce5e03": {
+   "fragment_id": "Artigo 13.º — Obrigações de guarda relativamente aos ativos mantidos em custódia",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Obrigações de guarda relativamente aos ativos mantidos em custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações de guarda relativamente aos ativos mantidos em custódia\n\n1. Considera-se que um depositário cumpre os requisitos enunciados no artigo 22.º, n.º 5, alínea a), da Diretiva 2009/65/CE no que diz respeito aos instrumentos financeiros que devem ser mantidos em custódia quando assegura que:\n\na) Os instrumentos financeiros são devidamente registados em conformidade com o artigo 22.º, n.º 5, alínea a), subalínea ii), da Diretiva 2009/65/CE;\n\nb) Os registos e as contas separadas são mantidos de modo a assegurar a sua exatidão e, em especial, a registar a correspondência com os instrumentos financeiros e o numerário detido em nome do OICVM;\n\nc) São levadas a cabo, com a frequência necessária, conciliações entre as suas contas e registos internos e as contas e registos de terceiros a quem tenha sido delegada a guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE;\n\nd) É exercida devida diligência em relação aos instrumentos financeiros mantidos em custódia, por forma a assegurar um elevado nível de proteção dos investidores;\n\ne) Todos os riscos de custódia relevantes são avaliados e controlados ao longo de toda a cadeia de custódia e a sociedade gestora ou a sociedade de investimento são informadas de quaisquer riscos significativos identificados;\n\nf) São introduzidas disposições organizacionais adequadas para minimizar o risco de perda ou de redução de valor dos instrumentos financeiros ou dos respetivos direitos, em resultado de fraude, má gestão, registo inadequado ou negligência;\n\ng) O direito de propriedade do OICVM ou da sociedade gestora atuando em nome do OICVM sobre os ativos é verificado.\n\nNo que se refere à alínea c) do primeiro parágrafo, a frequência das conciliações é determinada com base nos seguintes elementos:\n\na) A atividade normal de negociação do OICVM;\n\nb) Eventuais negociações efetuadas fora da atividade normal de negociação;\n\nc) Eventuais negociações efetuadas em nome de qualquer outro cliente cujos ativos sejam mantidos pelo terceiro na mesma conta de instrumentos financeiros que os ativos do OICVM.\n\n2. Sempre que um depositário tenha delegado as suas funções de guarda, relativamente aos ativos mantidos em custódia, num terceiro, em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, fica sujeito aos requisitos constantes do n.º 1, alíneas a) a e). O depositário deve igualmente assegurar que o terceiro cumpre os requisitos constantes do n.º 1, alíneas b) a g)."
+  },
+  "5361800b525a9f1d": {
+   "fragment_id": "Artigo 14.º — Obrigações de guarda em matéria de verificação da propriedade e conservação de registos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Obrigações de guarda em matéria de verificação da propriedade e conservação de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações de guarda em matéria de verificação da propriedade e conservação de registos\n\n1. A sociedade gestora ou a sociedade de investimento devem apresentar ao depositário, quando este inicia as suas funções e, posteriormente, numa base contínua, todas as informações relevantes de que este último necessita para poder cumprir as obrigações que lhe incumbem nos termos do artigo 22.º, n.º 5, alínea b), da Diretiva 2009/65/CE, e assegurar que o depositário receba todas as informações relevantes por parte de terceiros.\n\n2. Considera-se que o depositário cumpre os requisitos enunciados no artigo 22.º, n.º 5, alínea b), da Diretiva 2009/65/CE quando, pelo menos:\n\na) Tem rapidamente acesso a todas as informações relevantes de que necessita para poder cumprir as suas obrigações em matéria de verificação da propriedade e conservação de registos, incluindo as informações relevantes a fornecer ao depositário por terceiros;\n\nb) Dispõe de informações suficientes e fiáveis para poder estar certo do direito de propriedade do OICVM sobre os ativos;\n\nc) Mantém um registo dos ativos relativamente aos quais está certo de que o OICVM possui a propriedade e:\n\ni) inscreve nos seus registos, em nome do OICVM, os ativos, incluindo os respetivos montantes nocionais, relativamente aos quais está certo de que o OICVM possui a propriedade,\n\nii) pode apresentar em qualquer momento um inventário exaustivo e atualizado dos ativos do OICVM, incluindo os respetivos montantes nocionais.\n\nPara efeitos da alínea c), subalínea ii), do presente número, o depositário deve assegurar que criou procedimentos para que os ativos registados não possam ser atribuídos, transferidos, trocados ou entregues sem que o depositário ou o terceiro em quem a guarda foi delegada em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE tenham sido informados dessas transações. O depositário deve ter rapidamente acesso às provas documentais de cada transação e posição do terceiro em causa. A sociedade gestora ou a sociedade de investimento devem garantir que o terceiro relevante fornece rapidamente ao depositário certificados ou outras provas documentais sempre que se realizar uma venda ou aquisição de ativos ou uma operação societária de que resulte a emissão de instrumentos financeiros e, pelo menos, uma vez por ano.\n\n3. O depositário deve assegurar que a sociedade gestora ou a sociedade de investimento têm e aplicam procedimentos adequados para verificar que os ativos adquiridos pelo OICVM estão devidamente registados em nome do OICVM, bem como controlar a coerência entre as posições nos registos dos OICVM e os ativos relativamente aos quais o depositário tem a certeza de que o OICVM possui a propriedade. A sociedade gestora ou sociedade de investimento devem assegurar que todas as instruções e informações relevantes relacionadas com os ativos do OICVM são enviadas ao depositário, para permitir a este último efetuar os seus próprios procedimentos de verificação ou de conciliação.\n\n4. O depositário deve criar e aplicar um procedimento progressivo para as situações em que é detetada uma discrepância, incluindo a notificação da sociedade gestora ou da sociedade de investimento e das autoridades competentes, se a situação não puder ser corrigida."
+  },
+  "00bae25575e72d07": {
+   "fragment_id": "Artigo 15.º — Devida diligência",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Devida diligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Devida diligência\n\n1. Considera-se que um depositário cumpre os requisitos enunciados no artigo 22.º-A, n.º 2, alínea c), da Diretiva 2009/65/CE quando estabelece e aplica um procedimento documentado e adequado de devida diligência para a seleção e o acompanhamento contínuo do terceiro em quem deverão ser ou foram delegadas funções de guarda em conformidade com o artigo 22.º-A da referida diretiva. Esse procedimento deve ser revisto periodicamente e, pelo menos, uma vez por ano.\n\n2. Aquando da seleção e nomeação de um terceiro em quem serão delegadas funções de guarda, em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, o depositário deve exercer toda a competência, zelo e diligência necessários para assegurar que os instrumentos financeiros confiados ao terceiro em causa beneficiem de um nível adequado de proteção. O depositário deve, no mínimo:\n\na) Apreciar o quadro regulamentar e jurídico, incluindo o risco do país, o risco de custódia e a aplicabilidade do contrato celebrado com o terceiro em causa. Essa apreciação deve, nomeadamente, permitir que o depositário determine as consequências de uma eventual insolvência do terceiro para os ativos e os direitos do OICVM;\n\nb) Garantir que a apreciação das disposições contratuais referidas na alínea a), quando o terceiro se situa num país terceiro, se baseia no parecer jurídico de uma pessoa singular ou coletiva independente do depositário ou do terceiro em causa;\n\nc) Apreciar se as práticas, os procedimentos e os controlos internos do terceiro são adequados para garantir que os ativos do OICVM são objeto de um nível elevado de zelo e proteção;\n\nd) Apreciar se a solidez financeira e a reputação do terceiro são coerentes com as tarefas delegadas. Essa apreciação deve basear-se nas informações fornecidas pelo terceiro potencial, bem como em outros dados e informações;\n\ne) Garantir que o terceiro tem as capacidades operacionais e tecnológicas necessárias para executar as funções de guarda delegadas com um grau elevado de proteção e segurança.\n\n2-A O contrato através do qual o depositário nomeia um terceiro para manter em custódia ativos dos clientes OICVM desse depositário deve conter, pelo menos, as seguintes disposições:\n\na) Uma garantia do direito do depositário a conhecer, inspecionar e aceder aos registos e contas de instrumentos financeiros relevantes do terceiro que mantém ativos em custódia, para permitir ao depositário cumprir as suas obrigações de fiscalização e devida diligência e, em especial, para lhe permitir:\n\ni) identificar todas as entidades da cadeia de custódia,\n\nii) verificar que a quantidade de instrumentos financeiros identificados registados na conta de instrumentos financeiros aberta na contabilidade do depositário em nome do OICVM ou da sociedade gestora que atua por conta do OICVM, corresponde à quantidade de instrumentos financeiros identificados mantidos em custódia pelo terceiro para esse OICVM, tal como registada na conta de instrumentos financeiros aberta na contabilidade do terceiro,\n\niii) verificar que a quantidade de instrumentos financeiros identificados, que estão registados e mantidos numa conta de instrumentos financeiros aberta na central de valores mobiliários («CSD») do emitente ou do seu agente, em nome do terceiro por conta dos seus clientes, corresponde à quantidade de instrumentos financeiros identificados registada nas contas de instrumentos financeiros abertas na contabilidade do depositário em nome de cada um dos seus clientes OICVM ou em nome da sociedade gestora que atua por conta do OICVM.\n\nb) Detalhes dos direitos e obrigações equivalentes acordados entre o terceiro e outro terceiro, em caso de subdelegação de funções de custódia.\n\n3. O depositário deve exercer toda a devida competência, zelo e diligência no quadro da revisão periódica e do controlo contínuo para garantir que o terceiro continua a cumprir os critérios previstos no n.º 2, bem como as condições estabelecidas no artigo 22.º-A, n.º 3, alíneas a) a e), da Diretiva 2009/65/CE. Deve, no mínimo:\n\na) Controlar o desempenho do terceiro e a sua conformidade com as normas do depositário;\n\nb) Assegurar que o terceiro exerce um nível elevado de zelo, prudência e diligência no desempenho das suas funções de guarda e, em especial, que segrega efetivamente os instrumentos financeiros em conformidade com os requisitos do artigo 16.º do presente regulamento;\n\nc) Analisar os riscos de custódia associados à decisão de confiar os ativos ao terceiro e notificar rapidamente a sociedade gestora, ou a sociedade de investimento, de quaisquer alterações desses riscos. Essa análise deve basear-se nas informações fornecidas pelo terceiro e noutros dados e informações. Em caso de perturbação do mercado ou quando for identificado um risco, a frequência e o âmbito da análise devem ser aumentados;\n\nd) Controlar a observância da proibição prevista no artigo 22.º, n.º 7, da Diretiva 2009/65/CE;\n\ne) Controlar a observância da proibição prevista no artigo 25.º da Diretiva 2009/65/CE e dos requisitos estabelecidos nos artigos 21.º a 24.º do presente regulamento.\n\n4. Os n.^os^ 1, 2 e 3 aplicam-se, com as devidas adaptações, se o terceiro em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, tiver decidido subdelegar, no todo ou em parte, as suas funções de guarda noutro terceiro em conformidade com o artigo 22.º-A, n.º 3, terceiro parágrafo, da Diretiva 2009/65/CE.\n\n5. O depositário deve elaborar planos de contingência para cada mercado em que nomeia um terceiro em quem são delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE. Um plano de contingência deve incluir a identificação de um prestador alternativo, caso exista.\n\n6. O depositário deve tomar medidas, incluindo a rescisão do contrato, em defesa dos interesses dos OICVM e dos respetivos investidores, se o terceiro em quem a guarda foi delegada em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE deixar de cumprir os requisitos do presente regulamento.\n\n7. Quando o depositário tiver delegado as suas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE a um terceiro situado num país terceiro, assegura que o acordo celebrado com o terceiro em causa autoriza uma rescisão antecipada, tendo em conta a necessidade de atuar no interesse dos OICVM e dos seus investidores, se a legislação e a jurisprudência aplicáveis em matéria de insolvência deixam de reconhecer a segregação dos ativos do OICVM em caso de insolvência do terceiro ou se as condições estabelecidas por lei e pela jurisprudência deixarem de ser cumpridas.\n\n8. Quando a legislação e a jurisprudência aplicáveis em matéria de insolvência deixam de reconhecer a segregação dos ativos dos OICVM em caso de insolvência do terceiro em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE ou deixam de garantir que os ativos dos clientes OICVM do depositário não fazem parte do património do terceiro em caso de insolvência e não podem ser distribuídos ou realizados em benefício dos credores do terceiro em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, o depositário informa imediatamente a sociedade gestora ou a sociedade de investimento.\n\n9. Após a receção das informações referidas no n.º 8, a sociedade gestora ou a sociedade de investimento devem notificar imediatamente a sua autoridade competente dessas informações e examinar tomar todas as medidas adequadas no que respeita aos ativos do OICVM, incluindo a sua alienação, tendo em conta a necessidade de atuar no melhor interesse do OICVM e dos seus investidores."
+  },
+  "37b506291e21cfcc": {
+   "fragment_id": "Artigo 16.º — Obrigação de segregação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Obrigação de segregação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigação de segregação\n\n1. Sempre que tenham sido delegadas funções de guarda num terceiro, no todo ou em parte, o depositário deve assegurar que o terceiro em quem estas funções foram delegadas em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, respeita a obrigação de segregação prevista no artigo 22.º-A, n.º 3, alínea c), da mesma diretiva, assegurando e verificando se o terceiro:\n\na) Regista corretamente todos os instrumentos financeiros identificados na conta de instrumentos financeiros, que está aberta na contabilidade do terceiro, a fim de manter em custódia os instrumentos financeiros para os clientes do depositário, o que exclui os instrumentos financeiros que são propriedade do depositário, do terceiro ou dos outros clientes do terceiro, para permitir que o depositário iguale a quantidade de instrumentos financeiros identificados registada nas contas abertas na contabilidade do depositário em nome de cada um dos seus clientes OICVM ou em nome da sociedade gestora que atua por conta do OICVM;\n\nb) Conserva todos os registos e contas de instrumentos financeiros que sejam necessários para permitir ao depositário, em qualquer momento e rapidamente, distinguir os ativos dos seus clientes dos ativos próprios do terceiro, dos ativos dos outros clientes do terceiro e dos ativos detidos pelo depositário por sua própria conta;\n\nc) Mantém registos e contas de valores mobiliários de modo a assegurar a sua exatidão e, em especial, a sua correspondência com os ativos mantidos sob guarda para os clientes OICVM do depositário, e que permita ao depositário, a qualquer momento, determinar a natureza, a localização e o estatuto de propriedade exatos desses ativos;\n\nd) Fornece ao depositário, regularmente e sempre que se verifique uma alteração de circunstâncias, uma declaração que especifica os ativos dos clientes OICVM do depositário;\n\ne) Efetua, com a frequência necessária, conciliações entre as suas contas de instrumentos financeiros e registos internos e as contas e registos do terceiro em quem tenham sido delegadas funções de guarda em conformidade com o artigo 22.º-A, n.º 3, alínea c), da Diretiva 2009/65/CE.\n\nf) Introduz disposições organizacionais adequadas para minimizar o risco de perda ou de diminuição de valor dos instrumentos financeiros ou dos direitos a eles relativos, como consequência de utilização abusiva dos instrumentos financeiros, fraude, má gestão, registo inadequado ou negligência;\n\ng) Detém o numerário do OICVM numa ou mais contas junto de um banco central de um país terceiro ou de uma instituição de crédito autorizada num país terceiro, desde que os requisitos regulamentares e de supervisão prudencial aplicáveis às instituições de crédito nesse país terceiro sejam consideradas pelas autoridades competentes dos Estados-Membros de origem do OICVM como, pelo menos, equivalentes aos aplicados na União, em conformidade com o artigo 22.º, n.º 4, alínea c), da Diretiva 2009/65/CE.\n\n2. O n.º 1 aplica-se, com as devidas adaptações, quando o terceiro em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE tiver decidido subdelegar, no todo ou em parte, as suas funções de guarda noutro terceiro nos termos do artigo 22.º-A, n.º 3, terceiro parágrafo, da Diretiva 2009/65/CE."
+  },
+  "b8fc36de8d0b0d86": {
+   "fragment_id": "Artigo 17.º — Proteção dos ativos de um OICVM contra a insolvência em caso de delegação das funções de custódia",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Proteção dos ativos de um OICVM contra a insolvência em caso de delegação das funções de custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Proteção dos ativos de um OICVM contra a insolvência em caso de delegação das funções de custódia\n\n1. O depositário assegura que um terceiro situado num país terceiro, em quem serão ou foram delegadas funções de custódia em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, toma todas as medidas necessárias para garantir que, em caso de insolvência do terceiro, os ativos de um OICVM por ele detidos em custódia não possam ser distribuídos ou realizados em benefício dos credores desse terceiro.\n\n2. O depositário assegura que o terceiro toma as seguintes medidas:\n\na) [**►M1**](http://publications.europa.eu/resource/celex/32018R1619) Obtém um parecer jurídico de uma pessoa singular ou coletiva independente que confirme que a legislação aplicável em matéria de insolvência reconhece a segregação dos ativos dos clientes do depositário relativamente aos ativos que são propriedade do terceiro, relativamente aos ativos dos outros clientes do terceiro e relativamente aos ativos mantidos pelo terceiro por conta do depositário, e que os ativos dos clientes OICVM do depositário não fazem parte do património do terceiro em caso de insolvência e não podem ser distribuídos ou realizados em benefício dos credores do terceiro em quem foram delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE;**◄**\n\nb) Assegura que as condições estabelecidas na legislação e na jurisprudência aplicáveis em matéria de insolvência desse país terceiro que reconhecem que os ativos dos clientes OICVM do depositário são segregados e não podem ser distribuídos ou realizados em benefício dos credores, como previsto na alínea a), são respeitadas à data de celebração do acordo de delegação com o depositário e numa base contínua durante todo o período de vigência da delegação;\n\nc) Informa imediatamente o depositário se qualquer das condições referidas na alínea b) deixa de estar preenchida;\n\nf) Informa o depositário das alterações introduzidas na legislação aplicável em matéria de insolvência e da sua aplicação efetiva.\n\n4. O depositário assegura que as obrigações consignadas nos n.^os^ 1 e 2 se aplicam, com as devidas adaptações, se o terceiro em quem são delegadas funções de guarda em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, tiver decidido subdelegar, no todo ou em parte, as suas funções de guarda noutro terceiro nos termos do artigo 22.º-A, n.º 3, terceiro parágrafo, da Diretiva 2009/65/CE."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "d48536313b14b74c": {
+   "fragment_id": "PERDA DE INSTRUMENTOS FINANCEIROS E EXONERAÇÃO DE RESPONSABILIDADE",
+   "type": "divisao",
+   "heading": "PERDA DE INSTRUMENTOS FINANCEIROS E EXONERAÇÃO DE RESPONSABILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PERDA DE INSTRUMENTOS FINANCEIROS E EXONERAÇÃO DE RESPONSABILIDADE"
+  },
+  "73f9f9b4af0831f9": {
+   "fragment_id": "(Artigo 24.º, n.º 1, da Diretiva 2009/65/CE)",
+   "type": "divisao",
+   "heading": "(Artigo 24.º, n.º 1, da Diretiva 2009/65/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 24.º, n.º 1, da Diretiva 2009/65/CE)"
+  },
+  "d0d960eb690e314b": {
+   "fragment_id": "Artigo 18.º — Perda de um instrumento financeiro mantido em custódia",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Perda de um instrumento financeiro mantido em custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Perda de um instrumento financeiro mantido em custódia\n\n1. Considera-se que ocorreu uma perda de um instrumento financeiro mantido em custódia na aceção do artigo 24.º, n.º 1, segundo parágrafo, da Diretiva 2009/65/CE quando, em relação a um instrumento financeiro mantido em custódia pelo depositário ou por um terceiro em quem a guarda de instrumentos financeiros mantidos em custódia tenha sido delegada em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, estiver preenchida qualquer das seguintes condições:\n\na) For demonstrado que um alegado direito de propriedade do OICVM não é válido por ter deixado de existir ou nunca ter existido;\n\nb) O OICVM foi definitivamente privado do seu direito de propriedade sobre o instrumento financeiro;\n\nc) O OICVM não pode, definitivamente, dispor direta ou indiretamente do instrumento financeiro.\n\n2. A verificação pela sociedade gestora ou sociedade de investimento da perda de um instrumento financeiro deve respeitar um procedimento documentado facilmente acessível às autoridades competentes. Logo que seja determinada, a perda deve ser imediatamente notificada aos investidores num suporte duradouro.\n\n3. Um instrumento financeiro mantido em custódia não será considerado perdido na aceção do artigo 24.º, n.º 1, segundo parágrafo, da Diretiva 2009/65/CE quando um OICVM for definitivamente privado do seu direito de propriedade relativamente a um determinado instrumento, desde que esse instrumento seja substituído por ou convertido noutro instrumento ou instrumentos financeiros.\n\n4. Em caso de insolvência do terceiro em quem a guarda de instrumentos financeiros foi delegada em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, a perda de um instrumento financeiro mantido em custódia deve ser determinada pela sociedade gestora ou sociedade de investimento logo que uma das condições enumeradas no n.º 1 se encontrar preenchida com toda a certeza.\n\nO mais tardar no final do processo de insolvência, existirá certeza quanto ao facto de se encontrar preenchida qualquer das condições enumeradas no n.º 1. A sociedade gestora ou a sociedade de investimento e o depositário devem acompanhar de perto o processo de insolvência a fim de determinar se todos ou alguns dos instrumentos financeiros confiados ao terceiro em quem a guarda de instrumentos financeiros foi delegada em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE estão efetivamente perdidos.\n\n5. A perda de um instrumento financeiro mantido em custódia deve ser estabelecida independentemente do facto de as condições previstas no n.º 1 resultarem de fraude, negligência ou outro comportamento intencional ou não intencional."
+  },
+  "99105ea76cc7810b": {
+   "fragment_id": "Artigo 19.º — Exoneração de responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Exoneração de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exoneração de responsabilidade\n\n1. A responsabilidade do depositário ao abrigo do artigo 24.º, n.º 1, segundo parágrafo, da Diretiva 2009/65/CE não deve ser acionada desde que o depositário prove que as seguintes condições se encontram cumulativamente preenchidas:\n\na) A ocorrência que levou à perda não resulta de um ato ou omissão do depositário ou de um terceiro em quem a guarda de instrumentos financeiros mantidos em custódia em conformidade com o artigo 22.º, n.º 5, alínea a), da Diretiva 2009/65/CE foi delegada;\n\nb) O depositário não poderia ter razoavelmente evitado a ocorrência que deu origem à perda, apesar de ter adotado todas as precauções que incumbem a um depositário diligente de acordo com as práticas comuns do setor;\n\nc) O depositário não podia ter impedido a perda, não obstante o exercício rigoroso e exaustivo do dever de diligência, como comprovado pelo facto de:\n\ni) estabelecer, executar, aplicar e manter estruturas e procedimentos e garantir competências adequadas e proporcionadas à natureza e complexidade dos ativos do OICVM, a fim de identificar em tempo útil e de acompanhar de forma contínua os acontecimentos externos que possam resultar na perda de um instrumento financeiro mantido em custódia;\n\nii) avaliar continuamente se qualquer dos acontecimentos identificados na subalínea i) representa um risco significativo em termos de perda de um instrumento financeiro mantido em custódia;\n\niii) informar a sociedade gestora ou a sociedade de investimento dos riscos significativos identificados e, se for caso disso, tomar as medidas adequadas para impedir ou atenuar a perda de instrumentos financeiros mantidos em custódia, caso tenham sido identificados acontecimentos externos, reais ou potenciais, suscetíveis de apresentar um risco significativo em termos de perda de um instrumento financeiro mantido em custódia.\n\n2. Os requisitos referidos no n.º 1, alíneas a) e b), podem ser considerados preenchidos nas seguintes circunstâncias:\n\na) Acontecimentos naturais fora do controlo ou influência humana;\n\nb) Adoção de qualquer lei, decreto, regulamento, decisão ou ordem por qualquer Governo ou organismo governamental, incluindo qualquer órgão jurisdicional, com incidência nos instrumentos financeiros mantidos em custódia;\n\nc) Guerra, tumultos ou outras perturbações importantes.\n\n3. Os requisitos referidos no n.º 1, alíneas a) e b), não são considerados preenchidos em casos como erros de contabilidade, falhas operacionais, fraude, não aplicação dos requisitos em matéria de segregação a nível do depositário ou de um terceiro em quem a guarda de instrumentos financeiros mantidos em custódia foi delegada em conformidade com o artigo 22.º, n.º 5, alínea a), da Diretiva 2009/65/CE."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "bc665b39b1118faa": {
+   "fragment_id": "REQUISITOS DE INDEPENDÊNCIA E DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "REQUISITOS DE INDEPENDÊNCIA E DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REQUISITOS DE INDEPENDÊNCIA E DISPOSIÇÕES FINAIS"
+  },
+  "5573d19d5f81bd07": {
+   "fragment_id": "(Artigo 25.º da Diretiva 2009/65/CE)",
+   "type": "divisao",
+   "heading": "(Artigo 25.º da Diretiva 2009/65/CE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (Artigo 25.º da Diretiva 2009/65/CE)"
+  },
+  "c0674aaa2319df09": {
+   "fragment_id": "Artigo 20.º — Órgão de direção",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Órgão de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Órgão de direção\n\nPara efeitos do presente capítulo, a expressão «órgão de direção da sociedade gestora» inclui o órgão de direção da sociedade gestora e o órgão de direção da sociedade de investimento."
+  },
+  "35568f00c5948b4b": {
+   "fragment_id": "Artigo 21.º — Direção comum",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Direção comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direção comum\n\nA sociedade gestora ou a sociedade de investimento e o depositário devem, em qualquer momento, cumprir todos os requisitos seguintes:\n\na) Ninguém pode ser simultaneamente membro do órgão de direção da sociedade gestora e membro do órgão de direção do depositário;\n\nb) Ninguém pode ser simultaneamente membro do órgão de direção da sociedade gestora e um trabalhador assalariado do depositário;\n\nc) Ninguém pode ser simultaneamente membro do órgão de direção do depositário e um trabalhador assalariado da sociedade gestora ou sociedade de investimento;\n\nd) Se o órgão de direção da sociedade gestora não assumir funções de fiscalização no âmbito da empresa, somente um terço, no máximo, dos membros do seu órgão responsável pelas funções de fiscalização pode ser constituído por membros que são simultaneamente membros do órgão de direção, do órgão responsável pelas funções de fiscalização ou trabalhadores assalariados do depositário;\n\ne) Se o órgão de direção do depositário não assumir funções de fiscalização no âmbito do depositário, somente um terço, no máximo, dos membros do seu órgão responsável pelas funções de fiscalização pode ser constituído por membros que são simultaneamente membros do órgão de direção da sociedade gestora, ou do órgão responsável pelas funções de fiscalização da sociedade gestora ou da sociedade de investimento ou trabalhadores assalariados da sociedade gestora ou da sociedade de investimento."
+  },
+  "47b71fc440aef7d0": {
+   "fragment_id": "Artigo 22.º — Nomeação de um depositário e delegação das funções de guarda",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Nomeação de um depositário e delegação das funções de guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Nomeação de um depositário e delegação das funções de guarda\n\n1. A sociedade gestora ou a sociedade de investimento devem dispor de um processo decisório para escolher e nomear o depositário, baseado em critérios objetivos definidos de antemão, que satisfaça exclusivamente os interesses do OICVM e dos seus investidores.\n\n2. Se a sociedade gestora ou a sociedade de investimento nomear um depositário com o qual mantém uma relação ou uma relação de grupo, deve conservar provas documentais do seguinte:\n\na) Uma avaliação comparativa das razões de nomear um depositário com uma relação ou uma relação de grupo com a sociedade gestora ou a sociedade de investimento e das razões de nomear um depositário sem qualquer relação ou relação de grupo, tendo em conta, pelo menos, os custos, as competências, a capacidade financeira e a qualidade dos serviços prestados por todos os depositários avaliados;\n\nb) Um relatório, baseado na avaliação referida na alínea a), que descreve a forma como a nomeação satisfaz os critérios objetivos definidos de antemão a que se refere o n.º 1 e como é feita exclusivamente no interesse do OICVM e dos seus investidores.\n\n3. [**►M1**](http://publications.europa.eu/resource/celex/32018R1619) A sociedade gestora ou a empresa de investimento demonstra à autoridade competente do Estado-Membro de origem do OICVM que está satisfeita com a nomeação do depositário e que a nomeação é feita exclusivamente no interesse do OICVM e dos seus investidores. A sociedade gestora ou a empresa de investimento coloca à disposição da autoridade competente do Estado-Membro de origem do OICVM as provas documentais referidas no n.º 2.**◄**\n\n4. A sociedade gestora ou a sociedade de investimento justifica a escolha do depositário perante os investidores do OICVM, mediante pedido.\n\n5. O depositário dispõe de um processo decisório para a escolha de terceiros em quem pode delegar as funções de guarda, em conformidade com o artigo 22.º-A da Diretiva 2009/65/CE, que se baseia em critérios objetivos definidos de antemão e que satisfazem exclusivamente os interesses do OICVM e dos seus investidores."
+  },
+  "2ab3b92e151dd761": {
+   "fragment_id": "Artigo 23.º — Conflitos de interesses",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conflitos de interesses\n\nQuando existe uma relação ou uma relação de grupo entre as referidas entidades, a sociedade gestora ou a sociedade de investimento e o depositário estabelecem políticas e procedimentos destinados a garantir que:\n\na) Identificam todos os conflitos de interesses decorrentes dessa relação;\n\nb) Tomam todas as medidas razoáveis para evitar esses conflitos de interesses.\n\nSe não for possível evitar os conflitos de interesses a que se refere o primeiro parágrafo, a sociedade gestora ou a sociedade de investimento e o depositário devem gerir, acompanhar e assinalar esse conflito de interesses, a fim de evitar quaisquer efeitos adversos no interesse do OICVM e dos seus investidores."
+  },
+  "4caee2fdd4be281b": {
+   "fragment_id": "Artigo 24.º — Independência dos órgãos de direção e funções de fiscalização",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Independência dos órgãos de direção e funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Independência dos órgãos de direção e funções de fiscalização\n\n1. Quando existe uma relação de grupo entre as referidas entidades, a sociedade gestora ou a sociedade de investimento e o depositário asseguram que:\n\na) Se o órgão de direção da sociedade gestora e o órgão de direção do depositário assumirem igualmente funções de fiscalização no âmbito das sociedades respetivas, pelo menos um terço dos membros, ou duas pessoas, consoante o que for inferior, do órgão de direção da sociedade gestora e do órgão de direção do depositário devem ser independentes;\n\nb) Se o órgão de direção da sociedade gestora e o órgão de direção do depositário não assumirem igualmente funções de fiscalização no âmbito das sociedades respetivas, pelo menos um terço dos membros, ou duas pessoas, consoante o que for inferior, do órgão responsável pelas funções de fiscalização no âmbito da sociedade gestora e no âmbito do depositário devem ser independentes.\n\n2. Para efeitos do n.º 1, os membros do órgão de direção da sociedade gestora, os membros do órgão de direção do depositário ou os membros do órgão responsável pelas funções de fiscalização nas sociedades supramencionadas devem ser considerados independentes, na condição de não serem membros do órgão de direção nem do órgão responsável das funções de fiscalização, nem trabalhadores assalariados de qualquer uma das outras empresas entre as quais existe uma relação de grupo e não mantêm quaisquer relações comerciais, familiares ou outras com a sociedade gestora ou a sociedade de investimento, o depositário ou qualquer outra empresa no âmbito do grupo que dê origem a um conflito de interesses suscetível de comprometer o seu comportamento."
+  },
+  "7d16026ff5c9c613": {
+   "fragment_id": "Artigo 25.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 13 de outubro de 2016.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "44185753e2f29355": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho (JO L 182 de 29.6.2013, p. 19).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1606/2002 do Parlamento Europeu e do Conselho, de 19 de julho de 2002, relativo à aplicação das normas internacionais de contabilidade (JO L 243 de 11.9.2002, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva 2013/36/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa ao acesso à atividade das instituições de crédito e à supervisão prudencial das instituições de crédito e empresas de investimento, que altera a Diretiva 2002/87/CE e revoga as Diretivas 2006/48/CE e 2006/49/CE (JO L 176 de 27.6.2013, p. 338).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ce83f110-7351-11ea-a07e-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012 (JO L 176 de 27.6.2013, p. 1)."
+  }
+ }
+}

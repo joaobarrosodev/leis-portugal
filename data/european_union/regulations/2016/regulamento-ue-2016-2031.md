@@ -40,6 +40,39 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-06'
+version_history:
+  file: regulamento-ue-2016-2031.versoes.json
+  count: 2
+  source_lastmod: '2026-07-06'
+  versions:
+  - date: '2025-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-06'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 37.º — Proibição de introdução e circulação de pragas regulamentadas não sujeitas a quarentena da União
+      em vegetais para plantação
+    - Altera Artigo 40.º — Proibição de introdução de vegetais, produtos vegetais e outros objetos no território da União
+    - Altera Artigo 67.º — Conteúdo do registo
+    - Altera Artigo 71.º — Certificado fitossanitário para a introdução no território da União
+    - Altera Artigo 96.º — Marcação do material de embalagem de madeira, da madeira ou de outros objetos
+    - Altera Artigo 107.º — Procedimento de comité
+    - Altera Artigo 110.º — Alteração do Regulamento (UE) n.º 228/2013
+    - Altera Artigo 111.º — Alteração do Regulamento (UE) n.º 652/2014
+    - Altera Artigo 112.º — Alteração do Regulamento (UE) n.º 1143/2014
+    - Altera Critérios de identificação de pragas de quarentena da União passíveis de serem classificadas como pragas prioritárias,
+      a que se refere o artigo 6.º, n.^os^ 1 e 2
+    - Altera Certificados fitossanitários de exportação, a que se refere o artigo 76.º, n.º 1
+    - Altera Certificados fitossanitários de reexportação, a que se refere o artigo 76.º, n.º 1
+    - Altera Certificados fitossanitários de exportação, a que se refere o artigo 100.º, n.º 3
+    - Altera Certificados fitossanitários de reexportação, a que se refere o artigo 101.º, n.º 4
+    - Altera Certificados de pré-exportação, a que se refere o artigo 102.º, n.º 6
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
 identifiers:
   celex: 32016R2031
   eli: http://data.europa.eu/eli/reg/2016/2031/oj
@@ -54,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f16b8c3a-b10c-11e6-871e-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/03a65353-7602-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R2031-20260706
-  retrieved_at: '2026-10-22T02:36:25Z'
+  retrieved_at: '2026-10-22T16:56:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T20:36:18.366+01:00'
 integrity:
@@ -63,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:25Z'
-  notes: Texto consolidado 02016R2031-20260706.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:36Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2016-2031.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -453,34 +486,21 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 115
-  section_count: 84
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 85
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:25Z'
-  warnings: []
+  checked_at: '2026-10-22T16:56:36Z'
+  warnings:
+  - '02016R2031-20161123: versão indisponível (Sem expressão na língua por para CELEX 02016R2031-20161123.)'
+  - '02016R2031-20191214: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016
-
-> 02016R2031 — PT — 06.07.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M2](http://publications.europa.eu/resource/celex/32024R3115) — [REGULAMENTO (UE) 2024/3115 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R3115) — L 3115 — 1 — 16.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-
-## REGULAMENTO (UE) 2016/2031 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de outubro de 2016
 

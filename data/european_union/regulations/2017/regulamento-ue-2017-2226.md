@@ -39,6 +39,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-12'
+version_history:
+  file: regulamento-ue-2017-2226.versoes.json
+  count: 4
+  source_lastmod: '2026-06-12'
+  versions:
+  - date: '2017-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-11'
+    amending: eu:celex:32018R1240:por
+    amending_title: REGULAMENTO (UE) 2018/1240 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de setembro de 2018; REGULAMENTO
+      (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Objetivos do SES
+    - Altera Artigo 7.º — Arquitetura técnica do SES
+    - Altera Artigo 9.º — Acesso ao SES para fins de introdução, alteração, apagamento e consulta de dados
+    - Altera Artigo 11.º — Calculadora automática e obrigação de informar os nacionais de países terceiros sobre o período
+      restante de estada autorizada
+    - Altera Artigo 12.º — Mecanismo de informação
+    - Altera Artigo 16.º — Dados pessoais de nacionais de países terceiros sujeitos à obrigação de visto
+    - Altera Artigo 19.º — Dados a acrescentar em caso de revogação, anulação ou prorrogação de uma autorização de estada
+      de curta duração
+    - Altera Artigo 21.º — Procedimentos alternativos em caso de impossibilidade técnica de introduzir dados ou em caso de
+      avaria do SES
+    - Altera Artigo 23.º — Utilização dos dados para fins de verificação nas fronteiras em que é executado o SES
+    - Altera Artigo 32.º — Condições de acesso aos dados do SES por parte das autoridades
+    - Altera Artigo 33.º — Procedimento e condições de acesso aos dados do SES pela Europol
+    - Altera Artigo 34.º — Período de conservação dos dados
+    - Altera Artigo 35.º — Alteração de dados e apagamento antecipado de dados
+    - Altera Artigo 36.º — Adoção de atos de execução pela Comissão antes do desenvolvimento
+    - Altera Artigo 37.º — Desenvolvimento e gestão operacional
+    - Altera Artigo 41.º — Comunicação de dados a países terceiros, organizações internacionais e entidades privadas
+    - Altera Artigo 42.º — Condições para a comunicação de dados a um Estado-Membro que ainda não executa o SES e a um Estado-Membro
+      ao qual o presente regulamento não é aplicável
+    - Altera Artigo 46.º — Conservação de registos pela eu-LISA e pelos Estados-Membros
+    - Altera Artigo 55.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 60.º — Alterações à Convenção de Aplicação do Acordo de Schengen
+    - Altera Artigo 61.º — Alterações ao Regulamento (CE) n.º 767/2008
+    - Altera Artigo 62.º — Alterações ao Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 63.º — Utilização de dados para efeitos de relatórios e de estatísticas
+    - Altera Artigo 64.º — Custos
+    - Altera Artigo 66.º — Entrada em funcionamento
+    - Altera Artigo 72.º — Acompanhamento e avaliação
+    - Altera Artigo 73.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS ORGANIZAÇÕES INTERNACIONAIS A QUE SE REFERE O ARTIGO 41.º, n.º 2
+    - Adita ANEXO II
+    - Adita DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS AOS NACIONAIS DE PAÍSES TERCEIROS QUE ATRAVESSAM AS FRONTEIRAS COM BASE NUM
+      DTF VÁLIDO
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1134:por
+    amending_title: REGULAMENTO (UE) 2021/1134 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021; REGULAMENTO (UE)
+      2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Objetivos do SES
+    - Altera Artigo 7.º — Arquitetura técnica do SES
+    - Altera Artigo 9.º — Acesso ao SES para fins de introdução, alteração, apagamento e consulta de dados
+    - Altera Artigo 12.º — Mecanismo de informação
+    - Altera Artigo 17.º — Dados pessoais de nacionais de países terceiros isentos de visto
+    - Altera Artigo 18.º — Dados pessoais de nacionais de países terceiros a quem tenha sido recusada a entrada
+    - Altera Artigo 19.º — Dados a acrescentar em caso de revogação, anulação ou prorrogação de uma autorização de estada
+      de curta duração
+    - Altera Artigo 28.º — Conservação dos dados extraídos do SES
+    - Altera Artigo 32.º — Condições de acesso aos dados do SES por parte das autoridades
+    - Altera Artigo 37.º — Desenvolvimento e gestão operacional
+    - Altera Artigo 46.º — Conservação de registos pela eu-LISA e pelos Estados-Membros
+    - Altera Artigo 55.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 60.º — Alterações à Convenção de Aplicação do Acordo de Schengen
+    - Altera Artigo 61.º — Alterações ao Regulamento (CE) n.º 767/2008
+    - Altera Artigo 62.º — Alterações ao Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 63.º — Utilização de dados para efeitos de relatórios e de estatísticas
+    - Altera Artigo 72.º — Acompanhamento e avaliação
+    - Altera Notas
+    - Adita Artigo 8.º-A — Tratamento automatizado com o ETIAS
+    - Adita Artigo 8.º-B — Interoperabilidade com o ETIAS
+    - Adita Artigo 13.º-A — Procedimentos alternativos em caso de impossibilidade técnica de acesso aos dados por parte dos
+      transportadores
+    - Adita Artigo 25.º-A — Acesso aos dados do SES pela unidade central ETIAS
+    - Adita Artigo 25.º-B — Utilização do SES para o tratamento manual de pedidos pelas unidades nacionais ETIAS
+    - Adita ANEXO III
+    - Adita Tabela de correspondência
+  - date: '2026-06-12'
+    amending: eu:celex:32024R1356:por
+    amending_title: REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Objetivos do SES
+    - Altera Artigo 7.º — Arquitetura técnica do SES
+    - Altera Artigo 9.º — Acesso ao SES para fins de introdução, alteração, apagamento e consulta de dados
+    - Altera Artigo 12.º — Mecanismo de informação
+    - Altera Artigo 19.º — Dados a acrescentar em caso de revogação, anulação ou prorrogação de uma autorização de estada
+      de curta duração
+    - Altera Artigo 32.º — Condições de acesso aos dados do SES por parte das autoridades
+    - Altera Artigo 37.º — Desenvolvimento e gestão operacional
+    - Altera Artigo 46.º — Conservação de registos pela eu-LISA e pelos Estados-Membros
+    - Altera Artigo 55.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 60.º — Alterações à Convenção de Aplicação do Acordo de Schengen
+    - Altera Artigo 61.º — Alterações ao Regulamento (CE) n.º 767/2008
+    - Altera Artigo 62.º — Alterações ao Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 63.º — Utilização de dados para efeitos de relatórios e de estatísticas
+    - Altera Artigo 72.º — Acompanhamento e avaliação
+    - Altera Notas
+    - Adita Artigo 24.º-A
 identifiers:
   celex: 32017R2226
   eli: http://data.europa.eu/eli/reg/2017/2226/oj
@@ -53,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1eb206d6-dc74-11e7-a506-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5e4ee0df-7ab6-11f1-bf5e-01aa75ed71a1.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R2226-20260612
-  retrieved_at: '2026-10-22T03:00:54Z'
+  retrieved_at: '2026-10-22T17:03:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T19:03:56.199+01:00'
 integrity:
@@ -62,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:54Z'
-  notes: Texto consolidado 02017R2226-20260612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:03:04Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2017-2226.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -370,37 +484,19 @@ relationships:
   date: '2018-11-21'
 article_structure:
   article_count: 79
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:54Z'
+  checked_at: '2026-10-22T17:03:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/2226 do Parlamento Europeu e do Conselho, de 30 de novembro de 2017
-
-> 02017R2226 — PT — 12.06.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1240) — [REGULAMENTO (UE) 2018/1240 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1240) — L 236 — 1 — 19.9.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R1152) — [REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1152) — L 249 — 15 — 14.7.2021
-- [►M4](http://publications.europa.eu/resource/celex/32024R1356) — [REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1356) — L 1356 — 1 — 22.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R2226R%2801%29) — [Rectificação, JO L 258, 15.10.2018, p. 5 (2017/2226)](http://publications.europa.eu/resource/celex/32017R2226R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R0817R%2804%29) — [Rectificação, JO L 112, 27.4.2023, p. 50 ((UE) 2019/817)](http://publications.europa.eu/resource/celex/32019R0817R%2804%29)
-
-## REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de novembro de 2017
 

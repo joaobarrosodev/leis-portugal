@@ -39,6 +39,341 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-10-04'
+version_history:
+  file: regulamento-ue-2017-373.versoes.json
+  count: 12
+  source_lastmod: '2026-10-04'
+  versions:
+  - date: '2020-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-12'
+    amending: eu:celex:32020R1177:por
+    amending_title: M2
+    changes:
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS METEOROLÓGICOS (MET.TR)
+    - Altera Matriz de TAF
+    - Altera Alcances e resoluções dos elementos numéricos incluídos nas TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Alcances e resoluções para os elementos numéricos incluídos no aviso de cinzas vulcânicas, no aviso de ciclone
+      tropical, no SIGMET, no AIRMET, no aviso de aeródromo e no aviso de cisalhamento de vento
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS SERVIÇOS DE INFORMAÇÃO AERONÁUTICA (AIS.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+    - Adita Matriz para METAR
+    - Adita Alcances e resoluções para os elementos numéricos incluídos nos METAR
+    - Adita FORMATO SNOWTAM
+    - Adita INSTRUÇÕES PARA O PREENCHIMENTO DO FORMATO SNOWTAM
+    - Adita 1. Generalidades
+    - Adita 2. Secção de cálculo do desempenho do avião
+    - Adita 3. Secção relativa ao conhecimento da situação
+    - Suprime a) Plano de atividades
+    - Suprime b) Plano anual
+    - Suprime c) Parte dos planos relativa ao desempenho
+    - Suprime a) Direção e velocidade do vento à superfície
+    - Suprime b) Visibilidade
+    - Suprime c) Alcance visual da pista (RVR)
+    - Suprime d) Fenómenos de tempo presente
+    - Suprime e) Nebulosidade
+    - Suprime f) Temperatura do ar e temperatura do ponto de orvalho
+    - Suprime g) Pressão atmosférica
+    - Suprime 1) Localização
+    - Suprime 2) Monitor
+    - Suprime 3) Estabelecimento de uma média
+    - Suprime 2) Sistemas por instrumentos
+    - Suprime 3) Monitor
+    - Suprime 4) Estabelecimento de uma média
+    - Suprime e) Nuvens
+    - Suprime 1) Vento à superfície
+    - Suprime 2) Visibilidade
+  - date: '2021-09-01'
+    amending: eu:celex:32021R1338:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1338 DA COMISSÃO de 11 de agosto de 2021
+    changes:
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE B — GESTÃO (ATM/ANS.AR.B)
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS METEOROLÓGICOS (MET.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS METEOROLÓGICOS (MET.TR)
+    - Altera Matriz do aviso de cisalhamento de vento
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS SERVIÇOS DE INFORMAÇÃO AERONÁUTICA (AIS.TR)
+    - Altera INSTRUÇÕES PARA O PREENCHIMENTO DO FORMATO SNOWTAM
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+    - Adita REQUISITOS COMUNS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS ATM/ANS
+    - Adita (Parte ATM/ANS.OR)
+    - Adita Matriz para METAR e SPECI
+    - Adita Matriz para TAF
+    - Adita Apêndice 5
+    - Suprime REQUISITOS COMUNS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS
+    - Suprime (Parte-ATM/ANS.OR)
+    - Suprime Matriz para METAR
+    - Suprime Alcances e resoluções para os elementos numéricos incluídos nos METAR
+    - Suprime Matriz de TAF
+    - Suprime Alcances e resoluções dos elementos numéricos incluídos nas TAF
+    - Suprime Apêndice 5-A
+    - Suprime Apêndice 5-B
+    - Suprime Matriz para reportes aéreos especiais (ligação ascendente)
+    - Suprime Alcances e resoluções para os elementos numéricos incluídos no aviso de cinzas vulcânicas, no aviso de ciclone
+      tropical, no SIGMET, no AIRMET, no aviso de aeródromo e no aviso de cisalhamento de vento
+    - Suprime 1. Generalidades
+    - Suprime 2. Secção de cálculo do desempenho do avião
+    - Suprime 3. Secção relativa ao conhecimento da situação
+  - date: '2022-01-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Prestadores de serviços
+    - Altera ANEXO I
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.TR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS ESPECÍFICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE INFORMAÇÃO AERONÁUTICA
+      (AIS.OR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+    - Adita Artigo 3.º
+    - Adita Prestação de serviços ATM/ANS e conceção das estruturas do espaço aéreo
+    - Adita Artigo 3.º-A — Determinação da necessidade de prestação de serviços de tráfego aéreo
+    - Adita Artigo 3.º-B — Coordenação entre unidades militares e prestadores de serviços de tráfego aéreo
+    - Adita Artigo 3.º-C — Coordenação das operações aéreas potencialmente perigosas para a aviação civil
+    - Adita Artigo 3.º-D — Frequência de emergência de frequência muito alta (VHF)
+    - Adita CATÁLOGO DE DADOS AERONÁUTICOS
+    - Adita Introdução
+    - Adita 1. Dados relativos ao aeródromo
+    - Adita 2. Dados relativos ao espaço aéreo
+    - Adita 3. Dados ATS e outros dados relativos a rotas
+    - Adita 4. Dados relativos ao procedimento de voo por instrumentos
+    - Adita 5. Dados relativos às ajudas/aos sistemas rádio de navegação
+    - Adita 6. Dados sobre obstáculos
+    - Adita 7. Dados geográficos
+    - Adita Tipologia dos dados referidos na coluna 4 «Tipo»
+    - Adita SECÇÃO 1 — REQUISITOS GERAIS
+    - Adita SECÇÃO 2 — GESTÃO DA QUALIDADE DOS DADOS
+    - Adita SECÇÃO 3 — PRODUTOS DE INFORMAÇÃO AERONÁUTICA
+  - date: '2022-08-30'
+    amending: eu:celex:32022R0938:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/938 DA COMISSÃO de 26 de julho de 2022
+    changes:
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera 1. Dados relativos ao aeródromo
+    - Altera 3. Dados ATS e outros dados relativos a rotas
+    - Altera 5. Dados relativos às ajudas/aos sistemas rádio de navegação
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera ENR 3. ROTAS ATS
+    - Altera AD 1. AERÓDROMOS/HELIPORTOS — INTRODUÇÃO
+    - Altera AD 2. AERÓDROMOS
+    - Altera AD 3. HELIPORTOS
+    - Altera INSTRUÇÕES PARA O PREENCHIMENTO DO FORMATO SNOWTAM
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+    - Adita Formato SNOWTAM
+    - Adita 1. Disposições gerais
+    - Adita 2) Secção de cálculo do desempenho do avião
+    - Adita 3. Secção relativa ao conhecimento da situação
+    - Suprime FORMATO SNOWTAM
+  - date: '2022-12-22'
+    amending: eu:celex:32022R2345:por
+    amending_title: M5
+    changes:
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+  - date: '2023-01-26'
+    amending: eu:celex:32021R0665:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/665 DA COMISSÃO de 22 de abril de 2021
+    changes:
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.TR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS METEOROLÓGICOS (MET.TR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: eu:celex:32023R1771:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1771 DA COMISSÃO de 12 de setembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Prestação de serviços ATM/ANS e conceção das estruturas do espaço aéreo
+    - Altera ANEXO I
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REPRESSÃO (ATM/ANS.AR.C)
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE B — GESTÃO (ATM/ANS.OR.B)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.TR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE COMUNICAÇÃO, NAVEGAÇÃO OU VIGILÂNCIA
+      (CNS.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AO GESTOR DA REDE (NM.TR)
+    - Altera Notas
+    - Adita Artigo 3.º-E — Atribuição dos códigos de interrogador Modo S
+    - Adita Artigo 3.º-F — Utilização do espaço aéreo no céu único europeu
+    - Adita Identificação individual das aeronaves utilizando a funcionalidade de identificação de aeronaves por ligação descendente
+      exigida nos termos da secção ATS.OR.446, alínea b)
+    - Adita Processos a aplicar para a coordenação automatizada, nos termos da secção ATS.TR.230, alínea c)
+  - date: '2025-03-10'
+    amending: eu:celex:32025R0343:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/343 DA COMISSÃO de 17 de fevereiro de 2025
+    changes:
+    - Altera Artigo 3.º-E — Atribuição dos códigos de interrogador Modo S
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE COMUNICAÇÃO, NAVEGAÇÃO OU VIGILÂNCIA
+      (CNS.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+  - date: '2025-05-01'
+    amending: eu:celex:32024R0403:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/403 DA COMISSÃO de 30 de janeiro de 2024; REGULAMENTO DE EXECUÇÃO (UE)
+      2024/1111 DA COMISSÃO de 10 de abril de 2024
+    changes:
+    - Altera Artigo 3.º-E — Atribuição dos códigos de interrogador Modo S
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.TR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/2293 DA COMISSÃO de 10 de novembro de 2025
+    changes:
+    - Altera Artigo 3.º-E — Atribuição dos códigos de interrogador Modo S
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE B — GESTÃO (ATM/ANS.AR.B)
+    - Altera SUBPARTE C — SUPERVISÃO, CERTIFICAÇÃO E REPRESSÃO (ATM/ANS.AR.C)
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE B — GESTÃO (ATM/ANS.OR.B)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera SUBPARTE B — REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.TR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
+  - date: '2026-10-04'
+    amending: eu:celex:32026R2031:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/2031 DA COMISSÃO de 11 de setembro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º-E — Atribuição dos códigos de interrogador Modo S
+    - Altera (Parte-DEFINIÇÕES)
+    - Altera SUBPARTE A — REQUISITOS GERAIS
+    - Altera SUBPARTE A — REQUISITOS GERAIS (ATM/ANS.OR.A)
+    - Altera SUBPARTE B — GESTÃO (ATM/ANS.OR.B)
+    - Altera SUBPARTE D — REQUISITOS ESPECÍFICOS EM MATÉRIA DE ORGANIZAÇÃO APLICÁVEIS AOS PRESTADORES DE ANS E DE ATFM E AO
+      GESTOR DA REDE (ATM/ANS.OR.D)
+    - Altera SUBPARTE A — REQUISITOS DE ORGANIZAÇÃO ADICIONAIS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE TRÁFEGO AÉREO (ATS.OR)
+    - Altera Matriz para METAR e SPECI
+    - Altera Matriz para TAF
+    - Altera Matriz para SIGMET e AIRMET
+    - Altera Matriz de aviso de cinzas vulcânicas.
+    - Altera Matriz de aviso de ciclones tropicais
+    - Altera Apêndice 8
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO FLUXO DE TRÁFEGO AÉREO (ATFM.TR)
+    - Altera REQUISITOS TÉCNICOS APLICÁVEIS AOS PRESTADORES DE SERVIÇOS DE GESTÃO DO ESPAÇO AÉREO (ASM.TR)
+    - Altera Notas
 identifiers:
   celex: 32017R0373
   eli: http://data.europa.eu/eli/reg_impl/2017/373/oj
@@ -53,7 +388,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b47f7e87-03ce-11e7-8a35-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e2688f6d-bc1e-11f1-81de-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0373-20261004
-  retrieved_at: '2026-10-22T02:46:04Z'
+  retrieved_at: '2026-10-22T17:01:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T09:09:22.519+02:00'
 integrity:
@@ -62,9 +397,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:04Z'
-  notes: Texto consolidado 02017R0373-20261004.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:01:44Z'
+  notes: 12 versão(ões); histórico completo em regulamento-ue-2017-373.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -282,46 +617,20 @@ relationships:
   date: '2016-08-19'
 article_structure:
   article_count: 16
-  section_count: 211
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 213
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:04Z'
-  warnings: []
+  checked_at: '2026-10-22T17:01:44Z'
+  warnings:
+  - '02017R0373-20170308: versão indisponível (Sem expressão na língua por para CELEX 02017R0373-20170308.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2017/373 da Comissão, de 1 de março de 2017
-
-> 02017R0373 — PT — 04.10.2026 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0469) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/469 DA COMISSÃO de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0469) — L 104 — 1 — 3.4.2020
-- [M2](http://publications.europa.eu/resource/celex/32020R1177) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/1177 DA COMISSÃO de 7 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1177) — L 259 — 12 — 10.8.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0665) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/665 DA COMISSÃO de 22 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0665) — L 139 — 184 — 23.4.2021
-- [►M4](http://publications.europa.eu/resource/celex/32021R1338) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1338 DA COMISSÃO de 11 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1338) — L 289 — 12 — 12.8.2021
-- [►M5](http://publications.europa.eu/resource/celex/32022R0938) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/938 DA COMISSÃO de 26 de julho de 2022](http://publications.europa.eu/resource/celex/32022R0938) — L 209 — 1 — 10.8.2022
-- [M6](http://publications.europa.eu/resource/celex/32022R2345) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2345 DA COMISSÃO de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2345) — L 311 — 58 — 2.12.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M8](http://publications.europa.eu/resource/celex/32023R1771) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1771 DA COMISSÃO de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1771) — L 228 — 49 — 15.9.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R0403) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/403 DA COMISSÃO de 30 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0403) — L 403 — 1 — 11.4.2024
-- [►M10](http://publications.europa.eu/resource/celex/32024R1111) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1111) — L 1111 — 1 — 23.5.2024
-- [►M11](http://publications.europa.eu/resource/celex/32025R0343) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/343 DA COMISSÃO de 17 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0343) — L 343 — 1 — 18.2.2025
-- [►M12](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-- [►M13](http://publications.europa.eu/resource/celex/32026R2031) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/2031 DA COMISSÃO de 11 de setembro de 2026](http://publications.europa.eu/resource/celex/32026R2031) — L 2031 — 1 — 14.9.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32020R0469R%2801%29) — [Rectificação, JO L 106, 6.4.2020, p. 14 (2020/469)](http://publications.europa.eu/resource/celex/32020R0469R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R0469R%2808%29) — [Rectificação, JO L 108, 7.4.2022, p. 69 (2020/469)](http://publications.europa.eu/resource/celex/32020R0469R%2808%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2017/373 DA COMISSÃO
 
 de 1 de março de 2017
 

@@ -37,6 +37,139 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-22'
+version_history:
+  file: regulamento-ue-2017-1938.versoes.json
+  count: 6
+  source_lastmod: '2026-06-22'
+  versions:
+  - date: '2022-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-01'
+    amending: eu:celex:32022R1032:por
+    amending_title: REGULAMENTO (UE) 2022/1032 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas relativas às infraestruturas
+    - Altera Artigo 7.º — Avaliação dos riscos
+    - Altera Artigo 16.º — Cooperação com as Partes Contratantes da Comunidade da Energia
+    - Altera Artigo 20.º — Derrogação
+    - Altera Artigo 22.º — Entrada em vigor
+    - Altera Informações gerais
+    - Altera 1. Descrição do sistema
+    - Altera 1. Descrição da rede
+    - Altera Lista de medidas não baseadas no mercado para a segurança do aprovisionamento de gás
+    - Altera Notas
+    - Adita Artigo 6.º-A — Metas de enchimento e trajetórias de enchimento
+    - Adita Artigo 6.º-B — Execução das metas de enchimento
+    - Adita Artigo 6.º-C — Acordos em matéria de armazenamento e mecanismo de partilha dos encargos
+    - Adita Artigo 6.º-D — Monitorização e Cumprimento
+    - Adita Artigo 17.º-A — Relatórios da Comissão
+    - Adita Artigo 18.º-A — Procedimento de comité
+    - Adita ANEXO I-A ([^6^](http://publications.europa.eu/resource/cellar/101c95c3-0ceb-11ed-b11c-01aa75ed71a1.0020.02/DOC_2#E0006))
+    - Adita Trajetória de enchimento com metas intermédias e metas de enchimento para 2022 para os Estados-Membros com instalações
+      de armazenamento subterrâneo de gás
+    - Adita ANEXO I-B
+    - Adita Responsabilidade partilhada pela meta de enchimento e pela trajetória de enchimento
+    - Adita 2. Medidas a adotar por nível de crise ([^22^](http://publications.europa.eu/resource/cellar/101c95c3-0ceb-11ed-b11c-01aa75ed71a1.0020.02/DOC_2#E0022))
+    - Suprime 2. Medidas a adotar por nível de crise ([^17^](http://publications.europa.eu/resource/cellar/d57220fa-d06a-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0017))
+  - date: '2025-01-01'
+    amending: eu:celex:32024R1789:por
+    amending_title: REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas relativas às infraestruturas
+    - Altera Artigo 6.º-B — Execução das metas de enchimento
+    - Altera Artigo 6.º-C — Acordos em matéria de armazenamento e mecanismo de partilha dos encargos
+    - Altera Artigo 7.º — Avaliação dos riscos
+    - Altera Artigo 8.º — Elaboração dos planos preventivos de ação e dos planos de emergência
+    - Altera Artigo 9.º — Conteúdo dos planos preventivos de ação
+    - Altera Artigo 11.º — Declaração de crise
+    - Altera Artigo 12.º — Medidas de emergência a nível regional e a nível da União
+    - Altera Artigo 13.º — Solidariedade
+    - Altera Artigo 14.º — Intercâmbio de informações
+    - Altera Artigo 17.º-A — Relatórios da Comissão
+    - Altera Artigo 18.º-A — Procedimento de comité
+    - Altera Artigo 19.º — Exercício da delegação
+    - Altera Informações gerais
+    - Altera 1. Descrição do sistema
+    - Altera 1. Descrição da rede
+    - Altera 5. Medidas preventivas
+    - Altera 10. Dimensão regional
+    - Altera Lista de medidas não baseadas no mercado para a segurança do aprovisionamento de gás
+    - Altera Notas
+    - Adita Artigo 8.º-A — Medidas sobre cibersegurança
+    - Adita Artigo 13.º-A — Cooperação entre Estados-Membros indiretamente interligados que recorrem a medidas baseadas no
+      mercado (medidas voluntárias)
+    - Adita ANEXO I-A ([^8^](http://publications.europa.eu/resource/cellar/b4163f2a-c225-11ef-91ed-01aa75ed71a1.0021.02/DOC_1#E0008))
+    - Adita 2. Medidas a adotar por nível de crise ([^24^](http://publications.europa.eu/resource/cellar/b4163f2a-c225-11ef-91ed-01aa75ed71a1.0021.02/DOC_1#E0024))
+    - Suprime ANEXO I-A ([^6^](http://publications.europa.eu/resource/cellar/101c95c3-0ceb-11ed-b11c-01aa75ed71a1.0020.02/DOC_2#E0006))
+    - Suprime 2. Medidas a adotar por nível de crise ([^22^](http://publications.europa.eu/resource/cellar/101c95c3-0ceb-11ed-b11c-01aa75ed71a1.0020.02/DOC_2#E0022))
+  - date: '2025-09-11'
+    amending: eu:celex:32025R1733:por
+    amending_title: REGULAMENTO (UE) 2025/1733 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas relativas às infraestruturas
+    - Altera Artigo 6.º-A — Metas de enchimento e trajetórias de enchimento
+    - Altera Artigo 6.º-B — Execução das metas de enchimento
+    - Altera Artigo 6.º-C — Acordos em matéria de armazenamento e mecanismo de partilha dos encargos
+    - Altera Artigo 6.º-D — Monitorização e Cumprimento
+    - Altera Artigo 8.º-A — Medidas sobre cibersegurança
+    - Altera Artigo 17.º-A — Relatórios da Comissão
+    - Altera Artigo 22.º — Entrada em vigor
+    - Altera Responsabilidade partilhada pela meta de enchimento e pela trajetória de enchimento
+    - Altera Informações gerais
+    - Altera 1. Descrição do sistema
+    - Altera 1. Descrição da rede
+    - Altera Lista de medidas não baseadas no mercado para a segurança do aprovisionamento de gás
+    - Altera Notas
+    - Adita 2. Medidas a adotar por nível de crise ([^23^](http://publications.europa.eu/resource/cellar/45e9fe09-9f78-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Suprime Artigo 18.º-A — Procedimento de comité
+    - Suprime ANEXO I-A ([^8^](http://publications.europa.eu/resource/cellar/b4163f2a-c225-11ef-91ed-01aa75ed71a1.0021.02/DOC_1#E0008))
+    - Suprime Trajetória de enchimento com metas intermédias e metas de enchimento para 2022 para os Estados-Membros com instalações
+      de armazenamento subterrâneo de gás
+    - Suprime 2. Medidas a adotar por nível de crise ([^24^](http://publications.europa.eu/resource/cellar/b4163f2a-c225-11ef-91ed-01aa75ed71a1.0021.02/DOC_1#E0024))
+  - date: '2026-02-03'
+    amending: eu:celex:32026R0261:por
+    amending_title: REGULAMENTO (UE) 2026/261 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de janeiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas relativas às infraestruturas
+    - Altera Artigo 6.º-B — Execução das metas de enchimento
+    - Altera Artigo 6.º-C — Acordos em matéria de armazenamento e mecanismo de partilha dos encargos
+    - Altera Artigo 6.º-D — Monitorização e Cumprimento
+    - Altera Artigo 8.º-A — Medidas sobre cibersegurança
+    - Altera Artigo 14.º — Intercâmbio de informações
+    - Altera Artigo 17.º — Monitorização pela Comissão
+    - Altera Informações gerais
+    - Altera 1. Descrição do sistema
+    - Altera 1. Descrição da rede
+    - Altera Lista de medidas não baseadas no mercado para a segurança do aprovisionamento de gás
+    - Altera Notas
+    - Adita 2. Medidas a adotar por nível de crise ([^24^](http://publications.europa.eu/resource/cellar/a5da84c9-0ca3-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0026))
+    - Suprime 2. Medidas a adotar por nível de crise ([^23^](http://publications.europa.eu/resource/cellar/45e9fe09-9f78-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0025))
+  - date: '2026-06-22'
+    amending: eu:celex:32026R0146:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/146 DA COMISSÃO de 22 de janeiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Normas relativas às infraestruturas
+    - Altera Artigo 6.º-B — Execução das metas de enchimento
+    - Altera Artigo 6.º-C — Acordos em matéria de armazenamento e mecanismo de partilha dos encargos
+    - Altera Artigo 6.º-D — Monitorização e Cumprimento
+    - Altera Artigo 8.º-A — Medidas sobre cibersegurança
+    - Altera Artigo 14.º — Intercâmbio de informações
+    - Altera Cooperação regional
+    - Altera Informações gerais
+    - Altera 1. Descrição do sistema
+    - Altera 1. Descrição da rede
+    - Altera Lista de medidas não baseadas no mercado para a segurança do aprovisionamento de gás
+    - Altera Notas
+    - Adita 2. Medidas a adotar por nível de crise ([^24^](http://publications.europa.eu/resource/cellar/b38ebe5c-69a6-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0026))
+    - Suprime 2. Medidas a adotar por nível de crise ([^24^](http://publications.europa.eu/resource/cellar/a5da84c9-0ca3-11f1-8870-01aa75ed71a1.0020.02/DOC_1#E0026))
 identifiers:
   celex: 32017R1938
   eli: http://data.europa.eu/eli/reg/2017/1938/oj
@@ -51,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ec774a2b-bba8-11e7-a7f8-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b38ebe5c-69a6-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1938-20260622
-  retrieved_at: '2026-10-22T02:53:36Z'
+  retrieved_at: '2026-10-22T17:02:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T02:47:56.349+01:00'
 integrity:
@@ -60,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:36Z'
-  notes: Texto consolidado 02017R1938-20260622.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:02:42Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2017-1938.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,38 +337,20 @@ relationships:
   date: '2010-11-17'
 article_structure:
   article_count: 29
-  section_count: 57
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 58
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:36Z'
-  warnings: []
+  checked_at: '2026-10-22T17:02:42Z'
+  warnings:
+  - '02017R1938-20171028: versão indisponível (Sem expressão na língua por para CELEX 02017R1938-20171028.)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/1938 do Parlamento Europeu e do Conselho, de 25 de outubro de 2017
-
-> 02017R1938 — PT — 22.06.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32022R0517) — [REGULAMENTO DELEGADO (UE) 2022/517 DA COMISSÃO de 18 de novembro de 2021](http://publications.europa.eu/resource/celex/32022R0517) — L 104 — 53 — 1.4.2022
-- [►M2](http://publications.europa.eu/resource/celex/32022R1032) — [REGULAMENTO (UE) 2022/1032 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1032) — L 173 — 17 — 30.6.2022
-- [►M3](http://publications.europa.eu/resource/celex/32024R1789) — [REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1789) — L 1789 — 1 — 15.7.2024
-- [►M4](http://publications.europa.eu/resource/celex/32025R1733) — [REGULAMENTO (UE) 2025/1733 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1733) — L 1733 — 1 — 10.9.2025
-- [►M5](http://publications.europa.eu/resource/celex/32026R0261) — [REGULAMENTO (UE) 2026/261 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0261) — L 261 — 1 — 2.2.2026
-- [►M6](http://publications.europa.eu/resource/celex/32026R0146) — [REGULAMENTO DELEGADO (UE) 2026/146 DA COMISSÃO de 22 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0146) — L 146 — 1 — 2.6.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32022R1032R%2801%29) — [Rectificação, JO L 245, 22.9.2022, p. 70 (2022/1032)](http://publications.europa.eu/resource/celex/32022R1032R%2801%29)
-
-## REGULAMENTO (UE) 2017/1938 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2017
 

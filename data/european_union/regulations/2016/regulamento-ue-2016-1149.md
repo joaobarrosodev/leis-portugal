@@ -35,6 +35,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-02-19'
+version_history:
+  file: regulamento-ue-2016-1149.versoes.json
+  count: 4
+  source_lastmod: '2023-02-19'
+  versions:
+  - date: '2016-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-03'
+    amending: eu:celex:32021R0374:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/374 DA COMISSÃO de 27 de janeiro de 2021
+    changes:
+    - Altera Artigo 3.º — Beneficiários
+    - Altera Artigo 12.º — Beneficiários
+    - Altera Artigo 15.º — Replantação por motivos de saúde ou de fitossanidade
+    - Altera Artigo 20.º — Ações inelegíveis
+    - Altera Artigo 33.º — Ações elegíveis e despesas elegíveis
+    - Altera Artigo 48.º — Elegibilidade do imposto sobre o valor acrescentado
+    - Altera Artigo 54.º — Princípios gerais
+    - Altera Notas
+  - date: '2021-10-16'
+    amending: eu:celex:32021R2027:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/2027 DA COMISSÃO de 13 de setembro de 2021
+    changes:
+    - Altera Artigo 3.º — Beneficiários
+    - Altera Artigo 12.º — Beneficiários
+    - Altera Artigo 15.º — Replantação por motivos de saúde ou de fitossanidade
+    - Altera Artigo 20.º — Ações inelegíveis
+    - Altera Artigo 25.º — Condições para apoio
+    - Altera Artigo 33.º — Ações elegíveis e despesas elegíveis
+    - Altera Artigo 48.º — Elegibilidade do imposto sobre o valor acrescentado
+    - Altera Notas
+  - date: '2023-02-19'
+    amending: eu:celex:32023R0181:por
+    amending_title: M3
+    changes:
+    - Altera Artigo 3.º — Beneficiários
+    - Altera Artigo 12.º — Beneficiários
+    - Altera Artigo 15.º — Replantação por motivos de saúde ou de fitossanidade
+    - Altera Artigo 20.º — Ações inelegíveis
+    - Altera Artigo 33.º — Ações elegíveis e despesas elegíveis
+    - Altera Artigo 48.º — Elegibilidade do imposto sobre o valor acrescentado
+    - Altera Notas
 identifiers:
   celex: 32016R1149
   eli: http://data.europa.eu/eli/reg_del/2016/1149/oj
@@ -49,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/edaa0451-4a45-11e6-9c64-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5418797b-c2e6-11ed-a05c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1149-20230219
-  retrieved_at: '2026-10-22T02:45:59Z'
+  retrieved_at: '2026-10-22T16:55:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T12:45:28.576+01:00'
 integrity:
@@ -58,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:59Z'
-  notes: Texto consolidado 02016R1149-20230219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:28Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2016-1149.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,35 +218,19 @@ relationships:
   date: '2022-12-22'
 article_structure:
   article_count: 59
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:59Z'
+  checked_at: '2026-10-22T16:55:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016
-
-> 02016R1149 — PT — 19.02.2023 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R0374) — [REGULAMENTO DELEGADO (UE) 2021/374 DA COMISSÃO de 27 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0374) — L 72 — 3 — 3.3.2021
-- [►M2](http://publications.europa.eu/resource/celex/32021R2027) — [REGULAMENTO DELEGADO (UE) 2021/2027 DA COMISSÃO de 13 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R2027) — L 415 — 4 — 22.11.2021
-- [M3](http://publications.europa.eu/resource/celex/32023R0181) — [REGULAMENTO DELEGADO (UE) 2023/181 DA COMISSÃO de 27 de junho de 2022](http://publications.europa.eu/resource/celex/32023R0181) — L 26 — 3 — 30.1.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016R1149R%2801%29) — [Rectificação, JO L 016, 21.1.2020, p. 43 (2016/1149)](http://publications.europa.eu/resource/celex/32016R1149R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) 2016/1149 DA COMISSÃO
 
 de 15 de abril de 2016
 

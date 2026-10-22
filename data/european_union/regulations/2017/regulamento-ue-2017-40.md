@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-31'
+version_history:
+  file: regulamento-ue-2017-40.versoes.json
+  count: 5
+  source_lastmod: '2025-01-31'
+  versions:
+  - date: '2017-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-04'
+    amending: eu:celex:32020R1238:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1238 DA COMISSÃO de 17 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 4.º — Custos elegíveis
+    - Altera Artigo 9.º — Acompanhamento e avaliação
+    - Altera Artigo 13.º — Alteração do Regulamento Delegado (UE) n.º 907/2014
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Requisitos mínimos para o cartaz a que se refere o artigo 12.º
+    - Suprime «Artigo 32.º-A — Montantes e pagamentos da ajuda relativa à aplicação do regime de distribuição nas escolas
+  - date: '2022-02-25'
+    amending: eu:celex:32022R0245:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/245 DA COMISSÃO de 13 de dezembro de 2021
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 3.º — Medidas educativas de acompanhamento
+    - Altera Artigo 5.º — Condições gerais para a concessão da ajuda e a seleção dos requerentes da ajuda
+    - Altera Notas
+  - date: '2022-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Notas
+    - Adita Artigo 6.º — Condições de aprovação dos requerentes de ajuda
+    - Suprime Artigo 6.º — Condições de aprovação dos requerentes da ajuda
+  - date: '2025-01-31'
+    amending: eu:celex:32025R0162:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/162 DA COMISSÃO de 25 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 9.º — Acompanhamento e avaliação
+    - Altera Notas
 identifiers:
   celex: 32017R0040
   eli: http://data.europa.eu/eli/reg_del/2017/40/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/0e67ef81-0988-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0040-20250131
-  retrieved_at: '2026-10-22T02:43:27Z'
+  retrieved_at: '2026-10-22T16:57:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T21:35:31.990+01:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:27Z'
-  notes: Texto consolidado 02017R0040-20250131.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:57:10Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-40.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,31 +224,19 @@ relationships:
   date: '2016-02-23'
 article_structure:
   article_count: 15
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:27Z'
+  checked_at: '2026-10-22T16:57:10Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2017/40 da Comissão, de 3 de novembro de 2016
-
-> 02017R0040 — PT — 31.01.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1238) — [REGULAMENTO DELEGADO (UE) 2020/1238 DA COMISSÃO de 17 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1238) — L 284 — 1 — 1.9.2020
-- [►M2](http://publications.europa.eu/resource/celex/32022R0245) — [REGULAMENTO DELEGADO (UE) 2022/245 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0245) — L 41 — 5 — 22.2.2022
-- [►M3](http://publications.europa.eu/resource/celex/32025R0162) — [REGULAMENTO DELEGADO (UE) 2025/162 DA COMISSÃO de 25 de novembro de 2024](http://publications.europa.eu/resource/celex/32025R0162) — L 162 — 1 — 28.1.2025
-
-## REGULAMENTO DELEGADO (UE) 2017/40 DA COMISSÃO
 
 de 3 de novembro de 2016
 

@@ -45,6 +45,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-19'
+version_history:
+  file: regulamento-ue-2017-745.versoes.json
+  count: 6
+  source_lastmod: '2026-07-19'
+  versions:
+  - date: '2023-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-03-20'
+    amending: eu:celex:32023R0607:por
+    amending_title: REGULAMENTO (UE) 2023/607 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 73.º — Sistema eletrónico relativo a investigações clínicas
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/83/CE
+    - Altera Artigo 118.º — Alteração do Regulamento (CE) n.º 178/2002
+    - Altera Artigo 120.º — Disposições transitórias
+    - Altera Artigo 122.º — Revogação
+    - Altera Artigo 123.º — Entrada em vigor e data de aplicação
+    - Altera REQUISITOS APLICÁVEIS À CONCEÇÃO E AO FABRICO
+    - Altera Notas
+  - date: '2024-07-09'
+    amending: eu:celex:32024R1860:por
+    amending_title: REGULAMENTO (UE) 2024/1860 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 34.º — Funcionalidade da Eudamed
+    - Altera Artigo 73.º — Sistema eletrónico relativo a investigações clínicas
+    - Altera Artigo 78.º — Procedimento de avaliação coordenada para as investigações clínicas
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/83/CE
+    - Altera Artigo 118.º — Alteração do Regulamento (CE) n.º 178/2002
+    - Altera Artigo 120.º — Disposições transitórias
+    - Altera Artigo 122.º — Revogação
+    - Altera Artigo 123.º — Entrada em vigor e data de aplicação
+    - Altera REQUISITOS APLICÁVEIS À CONCEÇÃO E AO FABRICO
+    - Altera Notas
+  - date: '2025-01-10'
+    amending: eu:celex:32024R0568:por
+    amending_title: REGULAMENTO (UE) 2024/568 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 73.º — Sistema eletrónico relativo a investigações clínicas
+    - Altera Artigo 106.º — Aconselhamento e pareceres científicos, técnicos e clínicos
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/83/CE
+    - Altera Artigo 118.º — Alteração do Regulamento (CE) n.º 178/2002
+    - Altera Artigo 123.º — Entrada em vigor e data de aplicação
+    - Altera REQUISITOS APLICÁVEIS À CONCEÇÃO E AO FABRICO
+    - Altera Notas
+    - Adita Artigo 10.º-A — Obrigações em caso de interrupção ou descontinuação do fornecimento de determinados dispositivos
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2457:por
+    amending_title: REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 73.º — Sistema eletrónico relativo a investigações clínicas
+    - Altera Artigo 106.º — Aconselhamento e pareceres científicos, técnicos e clínicos
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/83/CE
+    - Altera Artigo 118.º — Alteração do Regulamento (CE) n.º 178/2002
+    - Altera REQUISITOS APLICÁVEIS À CONCEÇÃO E AO FABRICO
+    - Altera Notas
+  - date: '2026-07-19'
+    amending: eu:celex:32026R1359:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1359 DA COMISSÃO de 20 de março de 2026; REGULAMENTO DELEGADO (UE) 2026/1451
+      DA COMISSÃO de 20 de março de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 52.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 61.º — Avaliação clínica
+    - Altera Artigo 73.º — Sistema eletrónico relativo a investigações clínicas
+    - Altera Artigo 106.º — Aconselhamento e pareceres científicos, técnicos e clínicos
+    - Altera Artigo 117.º — Alteração da Diretiva 2001/83/CE
+    - Altera Artigo 118.º — Alteração do Regulamento (CE) n.º 178/2002
+    - Altera REQUISITOS APLICÁVEIS À CONCEÇÃO E AO FABRICO
+    - Altera Notas
 identifiers:
   celex: 32017R0745
   eli: http://data.europa.eu/eli/reg/2017/745/oj
@@ -59,7 +139,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/83bdc18f-315d-11e7-9412-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e56fc708-95ab-11f1-9262-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0745-20260719
-  retrieved_at: '2026-10-22T02:37:46Z'
+  retrieved_at: '2026-10-22T16:59:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T10:08:14.062+01:00'
 integrity:
@@ -68,9 +148,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:46Z'
-  notes: Texto consolidado 02017R0745-20260719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:59:52Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2017-745.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -434,41 +514,21 @@ relationships:
   date: '1993-07-12'
 article_structure:
   article_count: 124
-  section_count: 117
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 118
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:46Z'
-  warnings: []
+  checked_at: '2026-10-22T16:59:52Z'
+  warnings:
+  - '02017R0745-20170505: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02017R0745-20200424: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/745 do Parlamento Europeu e do Conselho, de 5 de abril de 2017
-
-> 02017R0745 — PT — 19.07.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0561) — [REGULAMENTO (UE) 2020/561 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0561) — L 130 — 18 — 24.4.2020
-- [►M2](http://publications.europa.eu/resource/celex/32023R0502) — [REGULAMENTO DELEGADO (UE) 2023/502 DA COMISSÃO de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0502) — L 70 — 1 — 8.3.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R0607) — [REGULAMENTO (UE) 2023/607 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023](http://publications.europa.eu/resource/celex/32023R0607) — L 80 — 24 — 20.3.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R0568) — [REGULAMENTO (UE) 2024/568 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0568) — L 568 — 1 — 14.2.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R1860) — [REGULAMENTO (UE) 2024/1860 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1860) — L 1860 — 1 — 9.7.2024
-- [►M6](http://publications.europa.eu/resource/celex/32025R2457) — [REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2457) — L 2457 — 1 — 12.12.2025
-- [►M7](http://publications.europa.eu/resource/celex/32026R1359) — [REGULAMENTO DELEGADO (UE) 2026/1359 DA COMISSÃO de 20 de março de 2026](http://publications.europa.eu/resource/celex/32026R1359) — L 1359 — 1 — 29.6.2026
-- [►M8](http://publications.europa.eu/resource/celex/32026R1451) — [REGULAMENTO DELEGADO (UE) 2026/1451 DA COMISSÃO de 20 de março de 2026](http://publications.europa.eu/resource/celex/32026R1451) — L 1451 — 1 — 29.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0745R%2801%29) — [Rectificação, JO L 117, 3.5.2019, p. 9 (2017/745)](http://publications.europa.eu/resource/celex/32017R0745R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R0745R%2802%29) — [Rectificação, JO L 334, 27.12.2019, p. 165 (2017/745)](http://publications.europa.eu/resource/celex/32017R0745R%2802%29)
-
-## REGULAMENTO (UE) 2017/745 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de abril de 2017
 

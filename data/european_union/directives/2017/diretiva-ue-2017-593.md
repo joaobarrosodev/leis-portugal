@@ -37,6 +37,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-06'
+version_history:
+  file: diretiva-ue-2017-593.versoes.json
+  count: 2
+  source_lastmod: '2026-06-06'
+  versions:
+  - date: '2022-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-06-06'
+    amending: eu:celex:32026L0374:por
+    amending_title: DIRETIVA DELEGADA (UE) 2026/374 DA COMISSÃO de 20 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação e definições
+    - Altera Artigo 4.º — Depósito dos fundos dos clientes
+    - Altera Artigo 10.º — Obrigações dos distribuidores em matéria de governação dos produtos
+    - Altera Artigo 11.º — Incentivos
+    - Altera Artigo 13.º — Incentivos em relação aos estudos
+    - Altera Notas
 identifiers:
   celex: 32017L0593
   eli: http://data.europa.eu/eli/dir_del/2017/593/oj
@@ -51,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0d53df66-15d4-11e7-808e-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/b9f2e5d4-9076-11f1-9262-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L0593-20260606
-  retrieved_at: '2026-10-22T02:49:12Z'
+  retrieved_at: '2026-10-22T16:57:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T06:22:19.576+01:00'
 integrity:
@@ -60,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:12Z'
-  notes: Texto consolidado 02017L0593-20260606.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:57:06Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2017-593.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,30 +173,20 @@ relationships:
   source: null
 article_structure:
   article_count: 16
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:12Z'
-  warnings: []
+  checked_at: '2026-10-22T16:57:06Z'
+  warnings:
+  - '02017L0593-20170331: versão indisponível (Sem expressão na língua por para CELEX 02017L0593-20170331.)'
   errors: []
 ---
 
 # Diretiva Delegada (UE) 2017/593 da Comissão, de 7 de abril de 2016
-
-> 02017L0593 — PT — 06.06.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1269) — [DIRETIVA DELEGADA (UE) 2021/1269 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021L1269) — L 277 — 137 — 2.8.2021
-- [►M2](http://publications.europa.eu/resource/celex/32026L0374) — [DIRETIVA DELEGADA (UE) 2026/374 DA COMISSÃO de 20 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0374) — L 374 — 1 — 2.6.2026
-
-## DIRETIVA DELEGADA (UE) 2017/593 DA COMISSÃO
 
 de 7 de abril de 2016
 

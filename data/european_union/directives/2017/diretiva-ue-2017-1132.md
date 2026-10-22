@@ -35,6 +35,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-12'
+version_history:
+  file: diretiva-ue-2017-1132.versoes.json
+  count: 3
+  source_lastmod: '2022-08-12'
+  versions:
+  - date: '2019-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: eu:celex:32019L2121:por
+    amending_title: DIRETIVA (UE) 2019/2121 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 13.º-A — Definições
+    - Altera Artigo 14.º — Documentos e indicações sujeitos a publicação pelas sociedades
+    - Altera Artigo 16.º — Publicidade do registo
+    - Altera Artigo 18.º — Disponibilidade de cópias eletrónicas de documentos e indicações
+    - Altera Artigo 24.º — Atos de execução
+    - Altera Artigo 30.º — Documentos e indicações sujeitos a publicidade
+    - Altera Artigo 31.º — Limites da publicidade obrigatória de documentos contabilísticos
+    - Altera Artigo 37.º — Documentos e indicações sujeitos a publicidade obrigatória
+    - Altera Artigo 42.º — Isenções das disposições relativas à publicidade de documentos contabilísticos para sucursais
+    - Altera Artigo 50.º — Derrogação do requisito de relatório dos peritos
+    - Altera Artigo 84.º — Derrogação de determinados requisitos
+    - Altera Artigo 86.º — Disposições transitórias
+    - Altera Artigo 119.º — Definições
+    - Altera Artigo 120.º — Outras disposições respeitantes ao âmbito de aplicação
+    - Altera Artigo 121.º — Condições aplicáveis às fusões transfronteiriças
+    - Altera Artigo 122.º — Projetos comuns de fusões transfronteiriças
+    - Altera Artigo 125.º — Relatório de peritos independentes
+    - Altera Artigo 126.º — Aprovação pela assembleia geral
+    - Altera Artigo 127.º — Certificado prévio à fusão
+    - Altera Artigo 128.º — Fiscalização da legalidade da fusão transfronteiriça
+    - Altera Artigo 130.º — Registo
+    - Altera Artigo 131.º — Consequências de uma fusão transfronteiriça
+    - Altera Artigo 132.º — Formalidades simplificadas
+    - Altera Artigo 133.º — Participação dos trabalhadores
+    - Altera Artigo 134.º — Validade
+    - Altera Artigo 162.º — Relatório, diálogo regular sobre o sistema de interconexão dos registos e revisão
+    - Altera TIPOS DE SOCIEDADES REFERIDOS NO ARTIGO 2.º, N.^os^ 1 E 2, NO ARTIGO 44.º, N.^os^ 1 E 2, NO ARTIGO 45.º, N.º
+      2, NO ARTIGO 87.º, N.^os^ 1 E 2, E NO ARTIGO 135.º, N.º 1
+    - Altera (REFERIDOS NO ARTIGO 166.º)
+    - Altera Notas
+    - Adita TRANSFORMAÇÃO, FUSÃO E CISÃO DE SOCIEDADES DE RESPONSABILIDADE LIMITADA
+    - Adita CAPÍTULO -I
+    - Adita Transformações transfronteiriças
+    - Adita Artigo 86.º-A — Âmbito de aplicação
+    - Adita Artigo 86.º-B — Definições
+    - Adita Artigo 86.º-C — Procedimentos e formalidades
+    - Adita Artigo 86.º-D — Projetos de transformações transfronteiriças
+    - Adita Artigo 86.º-E — Relatório do órgão de administração ou de direção destinado aos sócios e aos trabalhadores
+    - Adita Artigo 86.º-F — Relatório de perito independente
+  - date: '2022-08-12'
+    amending: eu:celex:32021R0023:por
+    amending_title: REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 13.º-A — Definições
+    - Altera Artigo 14.º — Documentos e indicações sujeitos a publicação pelas sociedades
+    - Altera Artigo 16.º — Publicidade do registo
+    - Altera Artigo 31.º — Limites da publicidade obrigatória de documentos contabilísticos
+    - Altera Artigo 42.º — Isenções das disposições relativas à publicidade de documentos contabilísticos para sucursais
+    - Altera Artigo 50.º — Derrogação do requisito de relatório dos peritos
+    - Altera Artigo 84.º — Derrogação de determinados requisitos
+    - Altera Artigo 86.º — Disposições transitórias
+    - Altera Artigo 86.º-A — Âmbito de aplicação
+    - Altera Artigo 87.º — Disposições gerais
+    - Altera Artigo 119.º — Definições
+    - Altera Artigo 120.º — Outras disposições respeitantes ao âmbito de aplicação
+    - Altera Artigo 160.º-A — Âmbito de aplicação
+    - Altera Artigo 162.º — Relatório, diálogo regular sobre o sistema de interconexão dos registos e revisão
+    - Altera (REFERIDOS NO ARTIGO 166.º)
+    - Altera Notas
 identifiers:
   celex: 32017L1132
   eli: http://data.europa.eu/eli/dir/2017/1132/oj
@@ -49,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eba5bed3-5d59-11e7-954d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8b6370a6-1dd6-11ed-8fa0-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L1132-20220812
-  retrieved_at: '2026-10-22T02:38:23Z'
+  retrieved_at: '2026-10-22T16:56:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T10:41:31.937+01:00'
 integrity:
@@ -58,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:23Z'
-  notes: Texto consolidado 02017L1132-20220812.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:47Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2017-1132.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -365,37 +439,20 @@ relationships:
   source: null
 article_structure:
   article_count: 229
-  section_count: 88
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 89
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:23Z'
-  warnings: []
+  checked_at: '2026-10-22T16:56:47Z'
+  warnings:
+  - '02017L1132-20170630: versão indisponível (Sem expressão na língua por para CELEX 02017L1132-20170630.)'
   errors: []
 ---
 
 # Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho, de 14 de junho de 2017
-
-> 02017L1132 — PT — 12.08.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L1023) — [DIRETIVA (UE) 2019/1023 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1023) — L 172 — 18 — 26.6.2019
-- [►M2](http://publications.europa.eu/resource/celex/32019L1151) — [DIRETIVA (UE) 2019/1151 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1151) — L 186 — 80 — 11.7.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019L2121) — [DIRETIVA (UE) 2019/2121 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2121) — L 321 — 1 — 12.12.2019
-- [►M4](http://publications.europa.eu/resource/celex/32021R0023) — [REGULAMENTO (UE) 2021/23 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0023) — L 22 — 1 — 22.1.2021
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019L2121R%2801%29) — [Rectificação, JO L 020, 24.1.2020, p. 24 (2019/2121)](http://publications.europa.eu/resource/celex/32019L2121R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019L1151R%2801%29) — [Rectificação, JO L 398, 11.11.2021, p. 52 (2019/1151)](http://publications.europa.eu/resource/celex/32019L1151R%2801%29)
-
-## DIRETIVA (UE) 2017/1132 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de junho de 2017
 

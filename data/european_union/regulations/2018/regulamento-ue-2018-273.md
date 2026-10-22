@@ -40,6 +40,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-06-04'
+version_history:
+  file: regulamento-ue-2018-273.versoes.json
+  count: 4
+  source_lastmod: '2025-06-04'
+  versions:
+  - date: '2022-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-08'
+    amending: eu:celex:32023R1606:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1606 DA COMISSÃO de 30 de maio de 2023
+    changes:
+    - Altera Artigo 10.º — Documentos de acompanhamento reconhecidos
+    - Altera Artigo 13.º — Documentos utilizados como comprovativo de exportação
+    - Altera Artigo 36.º — Princípios gerais
+    - Altera Artigo 53.º — Alterações do Regulamento (CE) n.º 606/2009
+    - Altera B. Critério enunciado no artigo 64.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013
+    - Altera D. Critério enunciado no artigo 64.º, n.º 2, alínea d), do Regulamento (UE) n.º 1308/2013
+    - Altera I. Critérios adicionais referidos no artigo 4.º, n.º 3, do presente regulamento
+    - Altera 1. REGISTO DO VITIVINICULTOR
+    - Altera Modelo do documento VI-1 referido no artigo 22.º
+    - Altera Modelo do extrato VI-2 referido no artigo 22.º
+    - Altera Instruções de preenchimento de documentos VI-1 e de extratos VI-2
+    - Altera Notas
+  - date: '2025-03-13'
+    amending: eu:celex:32025R0382:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/382 DA COMISSÃO de 18 de setembro de 2024
+    changes:
+    - Altera Artigo 10.º — Documentos de acompanhamento reconhecidos
+    - Altera Artigo 13.º — Documentos utilizados como comprovativo de exportação
+    - Altera Artigo 36.º — Princípios gerais
+    - Altera Artigo 53.º — Alterações do Regulamento (CE) n.º 606/2009
+    - Altera B. Critério enunciado no artigo 64.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013
+    - Altera D. Critério enunciado no artigo 64.º, n.º 2, alínea d), do Regulamento (UE) n.º 1308/2013
+    - Altera I. Critérios adicionais referidos no artigo 4.º, n.º 3, do presente regulamento
+    - Altera 1. REGISTO DO VITIVINICULTOR
+    - Altera Modelo do documento VI-1 referido no artigo 22.º
+    - Altera Modelo do extrato VI-2 referido no artigo 22.º
+    - Altera Instruções de preenchimento de documentos VI-1 e de extratos VI-2
+    - Altera Listas de países terceiros referidas no artigo 21.º, alínea b), e nos artigos 26.º e 27.º
+    - Altera Notas
+  - date: '2025-06-04'
+    amending: eu:celex:32025R1124:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1124 DA COMISSÃO de 19 de março de 2025
+    changes:
+    - Altera Artigo 10.º — Documentos de acompanhamento reconhecidos
+    - Altera Artigo 13.º — Documentos utilizados como comprovativo de exportação
+    - Altera Artigo 36.º — Princípios gerais
+    - Altera Artigo 53.º — Alterações do Regulamento (CE) n.º 606/2009
+    - Altera B. Critério enunciado no artigo 64.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013
+    - Altera D. Critério enunciado no artigo 64.º, n.º 2, alínea d), do Regulamento (UE) n.º 1308/2013
+    - Altera I. Critérios adicionais referidos no artigo 4.º, n.º 3, do presente regulamento
+    - Altera 1. REGISTO DO VITIVINICULTOR
+    - Altera Modelo do documento VI-1 referido no artigo 22.º
+    - Altera Modelo do extrato VI-2 referido no artigo 22.º
+    - Altera Listas de países terceiros referidas no artigo 21.º, alínea b), e nos artigos 26.º e 27.º
+    - Altera Notas
 identifiers:
   celex: 32018R0273
   eli: http://data.europa.eu/eli/reg_del/2018/273/oj
@@ -54,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/360ab806-1c55-11e8-ac73-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/8a48d3f0-56a0-11f0-a9d0-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0273-20250604
-  retrieved_at: '2026-10-22T03:00:57Z'
+  retrieved_at: '2026-10-22T17:05:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T12:31:14.611+01:00'
 integrity:
@@ -63,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:57Z'
-  notes: Texto consolidado 02018R0273-20250604.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:29Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-273.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -246,33 +304,21 @@ relationships:
   date: '2017-07-04'
 article_structure:
   article_count: 56
-  section_count: 72
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 73
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:57Z'
-  warnings: []
+  checked_at: '2026-10-22T17:05:29Z'
+  warnings:
+  - '02018R0273-20180228: versão indisponível (Sem expressão na língua por para CELEX 02018R0273-20180228.)'
+  - '02018R0273-20190613: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017
-
-> 02018R0273 — PT — 04.06.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0840) — [REGULAMENTO DELEGADO (UE) 2019/840 DA COMISSÃO de 12 de março de 2019](http://publications.europa.eu/resource/celex/32019R0840) — L 138 — 74 — 24.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32022R2566) — [REGULAMENTO DELEGADO (UE) 2022/2566 DA COMISSÃO de 13 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2566) — L 330 — 134 — 23.12.2022
-- [M3](http://publications.europa.eu/resource/celex/32023R1606) — [REGULAMENTO DELEGADO (UE) 2023/1606 DA COMISSÃO de 30 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1606) — L 198 — 6 — 8.8.2023
-- [►M4](http://publications.europa.eu/resource/celex/32025R0382) — [REGULAMENTO DELEGADO (UE) 2025/382 DA COMISSÃO de 18 de setembro de 2024](http://publications.europa.eu/resource/celex/32025R0382) — L 382 — 1 — 21.2.2025
-- [►M5](http://publications.europa.eu/resource/celex/32025R1124) — [REGULAMENTO DELEGADO (UE) 2025/1124 DA COMISSÃO de 19 de março de 2025](http://publications.europa.eu/resource/celex/32025R1124) — L 1124 — 1 — 3.6.2025
-
-## REGULAMENTO DELEGADO (UE) 2018/273 DA COMISSÃO
 
 de 11 de dezembro de 2017
 

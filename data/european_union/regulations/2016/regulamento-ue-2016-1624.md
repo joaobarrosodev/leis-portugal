@@ -39,6 +39,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2016-1624.versoes.json
+  count: 3
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2016-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-04'
+    amending: eu:celex:32019R1896:por
+    amending_title: REGULAMENTO (UE) 2019/1896 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime Guarda Europeia de Fronteiras e Costeira
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Guarda Europeia de Fronteiras e Costeira
+    - Suprime Artigo 4.º — Gestão europeia integrada das fronteiras
+    - Suprime Artigo 5.º — Responsabilidade partilhada
+    - Suprime CAPÍTULO II
+    - Suprime Agência Europeia da Guarda de Fronteiras e Costeira
+    - Suprime Secção 1
+    - Suprime Atribuições da Agência Europeia da Guarda de Fronteiras e Costeira
+    - Suprime Artigo 6.º — Agência Europeia da Guarda de Fronteiras e Costeira
+    - Suprime Artigo 7.º — Responsabilidade
+    - Suprime Artigo 8.º — Atribuições
+    - Suprime Secção 2
+    - Suprime Acompanhamento e Prevenção de Crises
+    - Suprime Artigo 9.º — Dever de cooperação leal
+    - Suprime Artigo 10.º — Obrigação de intercâmbio de informações
+    - Suprime Artigo 11.º — Acompanhamento dos fluxos migratórios e análise de risco
+    - Suprime Artigo 12.º — Oficiais de ligação nos Estados-Membros
+    - Suprime Artigo 13.º — Avaliação da vulnerabilidade
+    - Suprime Secção 3
+    - Suprime Gestão das Fronteiras Externas
+    - Suprime Artigo 14.º — Ações a desenvolver pela Agência nas fronteiras externas
+    - Suprime Artigo 15.º — Lançamento de operações conjuntas e intervenções rápidas nas fronteiras externas
+    - Suprime Artigo 16.º — Plano operacional das operações conjuntas
+    - Suprime Artigo 17.º — Procedimento de lançamento de intervenções rápidas nas fronteiras
+    - Suprime Artigo 18.º — Equipas de apoio à gestão dos fluxos migratórios
+    - Suprime Artigo 19.º — Situação nas fronteiras externas que exige ação urgente
+    - Suprime Artigo 21.º — Instruções para as equipas europeias de guardas de fronteira e costeiros
+    - Suprime Artigo 22.º — Agente de coordenação
+    - Suprime Artigo 23.º — Ponto de contacto nacional
+    - Suprime Artigo 24.º — Custos
+    - Suprime Artigo 25.º — Suspensão ou cessação de atividades
+    - Suprime Artigo 26.º — Avaliação das atividades
+    - Suprime Secção 4
+    - Suprime Regresso
+    - Suprime Artigo 27.º — Regresso
+    - Suprime Artigo 28.º — Operações de regresso
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 20.º — Composição e destacamento das equipas europeias de guardas de fronteira e costeiros
+    - Suprime Artigo 30.º — Reserva de escoltas para operações de regresso forçado
+    - Suprime Artigo 31.º — Reservas de peritos em regresso
 identifiers:
   celex: 32016R1624
   eli: http://data.europa.eu/eli/reg/2016/1624/oj
@@ -53,7 +114,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/65db3442-7bcf-11e6-b076-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/680eadc6-6a03-11ea-b735-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1624-20210101
-  retrieved_at: '2026-10-22T02:49:11Z'
+  retrieved_at: '2026-10-22T16:55:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T19:26:46.500+01:00'
 integrity:
@@ -62,9 +123,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:11Z'
-  notes: Texto consolidado 02016R1624-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:41Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2016-1624.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -353,16 +414,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:11Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:55:41Z'
+  warnings: []
   errors: []
 ---
 

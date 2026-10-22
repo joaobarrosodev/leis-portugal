@@ -35,6 +35,139 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: diretiva-ue-2016-1629.versoes.json
+  count: 8
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2016-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-07-30'
+    amending: eu:celex:32018L0970:por
+    amending_title: DIRETIVA DELEGADA (UE) 2018/970 DA COMISSÃO de 18 de abril de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Classificação das vias navegáveis interiores
+    - Altera Artigo 7.º — Certificados obrigatórios
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 28.º — Disposições transitórias relativas ao uso de documentos
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera Artigo 36.º — Alteração da Diretiva 2009/100/CE
+    - Altera Artigo 40.º — Destinatários
+    - Altera Notas
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I
+    - Adita LISTA DAS VIAS NAVEGÁVEIS INTERIORES DA UNIÃO EUROPEIA REPARTIDAS GEOGRAFICAMENTE NAS ZONAS 1, 2 E 3
+    - Adita ANEXO II
+    - Adita PRESCRIÇÕES TÉCNICAS MÍNIMAS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS INTERIORES DAS
+      ZONAS 1, 2, 3 E 4
+    - Adita ANEXO III
+    - Adita DOMÍNIOS EM QUE SE PODEM ESTABELECER PRESCRIÇÕES TÉCNICAS ADICIONAIS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM
+      NAS VIAS NAVEGÁVEIS INTERIORES DAS ZONAS 1 E 2 E DA ZONA 3 (NÃO INTERLIGADA)
+    - Adita ANEXO IV
+    - Adita DOMÍNIOS EM QUE SE PODEM REDUZIR AS PRESCRIÇÕES TÉCNICAS PARA OS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS
+      INTERIORES DAS ZONAS 3 E 4
+    - Adita ANEXO V
+    - Adita DISPOSIÇÕES PROCESSUAIS ESPECÍFICAS
+    - Adita Artigo 2.01
+    - Adita Comissões de inspeção
+    - Adita Artigo 2.02
+    - Adita Artigo 2.03
+    - Adita Apresentação do veículo aquático à inspeção
+    - Adita Artigo 2.04
+    - Adita Artigo 2.05
+    - Adita Artigo 2.06
+    - Adita Artigo 2.07
+    - Adita Menções e alterações no certificado de navegação interior da União
+    - Adita Artigo 2.08
+    - Adita Artigo 2.09
+    - Adita Inspeção periódica
+    - Adita Artigo 2.10
+    - Adita Inspeção voluntária
+    - Adita Artigo 2.11
+    - Adita Artigo 2.12
+    - Adita Artigo 2.13
+  - date: '2020-01-01'
+    amending: eu:celex:32019R1668:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1668 DA COMISSÃO de 26 de junho de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera PRESCRIÇÕES TÉCNICAS MÍNIMAS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS INTERIORES DAS
+      ZONAS 1, 2, 3 E 4
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2021-08-29'
+    amending: eu:celex:32021R1308:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1308 DA COMISSÃO de 28 de abril de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera DOMÍNIOS EM QUE SE PODEM REDUZIR AS PRESCRIÇÕES TÉCNICAS PARA OS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS
+      INTERIORES DAS ZONAS 3 E 4
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
+    - Adita Zona 1
+    - Adita Zona 2
+    - Adita Zona 3
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera Zona 1
+    - Altera PRESCRIÇÕES TÉCNICAS MÍNIMAS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS INTERIORES DAS
+      ZONAS 1, 2, 3 E 4
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2023-11-27'
+    amending: eu:celex:32023R2477:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2477 DA COMISSÃO de 30 de agosto de 2023
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
+    - Suprime Zona 1
+    - Suprime Zona 2
+    - Suprime Zona 3
+  - date: '2024-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera PRESCRIÇÕES TÉCNICAS MÍNIMAS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS INTERIORES DAS
+      ZONAS 1, 2, 3 E 4
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2177:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2177 DA COMISSÃO de 9 de setembro de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Base de dados europeia das embarcações
+    - Altera Artigo 29.º — Veículos aquáticos excluídos do âmbito de aplicação da Diretiva 82/714/CEE
+    - Altera Artigo 33.º — Procedimento de comité
+    - Altera PRESCRIÇÕES TÉCNICAS MÍNIMAS APLICÁVEIS AOS VEÍCULOS AQUÁTICOS QUE NAVEGAM NAS VIAS NAVEGÁVEIS INTERIORES DAS
+      ZONAS 1, 2, 3 E 4
+    - Altera TABELA DE CORRESPONDÊNCIA
+    - Altera Notas
 identifiers:
   celex: 32016L1629
   eli: http://data.europa.eu/eli/dir/2016/1629/oj
@@ -49,7 +182,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/716da0f9-7bd1-11e6-b076-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/3f259e31-eb0c-11f0-8d3c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L1629-20260101
-  retrieved_at: '2026-10-22T02:53:31Z'
+  retrieved_at: '2026-10-22T16:50:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T17:39:17.882+01:00'
 integrity:
@@ -58,9 +191,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:31Z'
-  notes: Texto consolidado 02016L1629-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:50:03Z'
+  notes: 8 versão(ões); histórico completo em diretiva-ue-2016-1629.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -243,38 +376,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/1f0687e6-dc64-493d-a185-1bad463ec8d1
   date: '2007-01-03'
 article_structure:
-  article_count: 40
-  section_count: 56
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 60
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:31Z'
+  checked_at: '2026-10-22T16:50:03Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2016/1629 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016
-
-> 02016L1629 — PT — 01.01.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0970) — [DIRETIVA DELEGADA (UE) 2018/970 DA COMISSÃO de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018L0970) — L 174 — 15 — 10.7.2018
-- [M2](http://publications.europa.eu/resource/celex/32019R1668) — [REGULAMENTO DELEGADO (UE) 2019/1668 DA COMISSÃO de 26 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1668) — L 256 — 1 — 7.10.2019
-- [M3](http://publications.europa.eu/resource/celex/32021R1308) — [REGULAMENTO DELEGADO (UE) 2021/1308 DA COMISSÃO de 28 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1308) — L 284 — 1 — 9.8.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023R2477) — [REGULAMENTO DELEGADO (UE) 2023/2477 DA COMISSÃO de 30 de agosto de 2023](http://publications.europa.eu/resource/celex/32023R2477) — L 2477 — 1 — 7.11.2023
-- [►M5](http://publications.europa.eu/resource/celex/32025R2177) — [REGULAMENTO DELEGADO (UE) 2025/2177 DA COMISSÃO de 9 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R2177) — L 2177 — 1 — 26.11.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016L1629R%2801%29) — [Rectificação, JO L 181, 5.7.2019, p. 123 (2016/1629)](http://publications.europa.eu/resource/celex/32016L1629R%2801%29)
-
-## DIRETIVA (UE) 2016/1629 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de setembro de 2016
 

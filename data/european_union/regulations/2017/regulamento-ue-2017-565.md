@@ -38,6 +38,96 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-02'
+version_history:
+  file: regulamento-ue-2017-565.versoes.json
+  count: 5
+  source_lastmod: '2022-08-02'
+  versions:
+  - date: '2017-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-10-11'
+    amending: eu:celex:32019R1011:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1011 DA COMISSÃO de 13 de dezembro de 2018
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º — Características de outros contratos de derivados relativos a divisas
+    - Altera Artigo 26.º
+    - Altera Artigo 41.º
+    - Altera Artigo 63.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 88.º
+    - Altera Manutenção de registos de transações e tratamento de ordens
+    - Altera Notas
+    - Adita Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/ac71eb33-f12d-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0014))
+    - Suprime Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/00644296-69ed-43cb-b77e-d06c81e0ac44.0015.02/DOC_1#E0014))
+  - date: '2021-03-29'
+    amending: eu:celex:32021R0527:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/527 DA COMISSÃO de 15 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º — Características de outros contratos de derivados relativos a divisas
+    - Altera Artigo 26.º
+    - Altera Artigo 41.º
+    - Altera Artigo 63.º
+    - Altera Artigo 83.º
+    - Altera Artigo 88.º
+    - Altera Manutenção de registos de transações e tratamento de ordens
+    - Altera Notas
+    - Adita Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/e7d8142e-ad0d-11eb-9767-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/ac71eb33-f12d-11e9-a32c-01aa75ed71a1.0019.03/DOC_1#E0014))
+  - date: '2021-08-22'
+    amending: eu:celex:32021R1254:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1254 DA COMISSÃO de 21 de abril de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º — Características de outros contratos de derivados relativos a divisas
+    - Altera Artigo 26.º
+    - Altera Artigo 41.º
+    - Altera Artigo 63.º
+    - Altera Artigo 88.º
+    - Altera Manutenção de registos de transações e tratamento de ordens
+    - Altera Notas
+    - Adita Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/be3dde89-0106-11ec-8f47-01aa75ed71a1.0019.02/DOC_1#E0014))
+    - Suprime Lista mínima de registos a manter pelas empresas de investimento em função da natureza das suas atividades
+    - Suprime Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/e7d8142e-ad0d-11eb-9767-01aa75ed71a1.0019.02/DOC_1#E0014))
+  - date: '2022-08-02'
+    amending: eu:celex:32021R1253:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1253 DA COMISSÃO de 21 de abril de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º — Características de outros contratos de derivados relativos a divisas
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 33.º
+    - Altera Artigo 41.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 63.º
+    - Altera Artigo 88.º
+    - Altera Manutenção de registos de transações e tratamento de ordens
+    - Altera Notas
+    - Adita Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^16^](http://publications.europa.eu/resource/cellar/b472d2e1-0777-11ed-acce-01aa75ed71a1.0019.02/DOC_1#E0016))
+    - Suprime Custos identificados que devem fazer parte dos custos a divulgar aos clientes ([^14^](http://publications.europa.eu/resource/cellar/be3dde89-0106-11ec-8f47-01aa75ed71a1.0019.02/DOC_1#E0014))
 identifiers:
   celex: 32017R0565
   eli: http://data.europa.eu/eli/reg_del/2017/565/oj
@@ -52,7 +142,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7c37494d-15d3-11e7-808e-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/b472d2e1-0777-11ed-acce-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0565-20220802
-  retrieved_at: '2026-10-22T02:46:01Z'
+  retrieved_at: '2026-10-22T16:57:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T18:58:44.857+01:00'
 integrity:
@@ -61,9 +151,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:01Z'
-  notes: Texto consolidado 02017R0565-20220802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:57:43Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-565.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -299,33 +389,20 @@ relationships:
   date: '2021-10-28'
 article_structure:
   article_count: 92
-  section_count: 56
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 57
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:01Z'
-  warnings: []
+  checked_at: '2026-10-22T16:57:43Z'
+  warnings:
+  - '02017R0565-20170331: versão indisponível (Sem expressão na língua por para CELEX 02017R0565-20170331.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2017/565 da Comissão, de 25 de abril de 2016
-
-> 02017R0565 — PT — 02.08.2022 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R2294) — [REGULAMENTO DELEGADO (UE) 2017/2294 DA COMISSÃO de 28 de agosto de 2017](http://publications.europa.eu/resource/celex/32017R2294) — L 329 — 4 — 13.12.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019R1011) — [REGULAMENTO DELEGADO (UE) 2019/1011 DA COMISSÃO de 13 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R1011) — L 165 — 1 — 21.6.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R0527) — [REGULAMENTO DELEGADO (UE) 2021/527 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0527) — L 106 — 30 — 26.3.2021
-- [►M4](http://publications.europa.eu/resource/celex/32021R1253) — [REGULAMENTO DELEGADO (UE) 2021/1253 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1253) — L 277 — 1 — 2.8.2021
-- [►M5](http://publications.europa.eu/resource/celex/32021R1254) — [REGULAMENTO DELEGADO (UE) 2021/1254 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1254) — L 277 — 6 — 2.8.2021
-
-## REGULAMENTO DELEGADO (UE) 2017/565 DA COMISSÃO
 
 de 25 de abril de 2016
 

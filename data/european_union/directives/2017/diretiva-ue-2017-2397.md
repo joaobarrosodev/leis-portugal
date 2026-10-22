@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-03-03'
+version_history:
+  file: diretiva-ue-2017-2397.versoes.json
+  count: 2
+  source_lastmod: '2022-03-03'
+  versions:
+  - date: '2021-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-03-03'
+    amending: eu:celex:32022R0184:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/184 DA COMISSÃO de 22 de novembro de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Isenções relativas a vias navegáveis interiores nacionais não ligadas à rede navegável de outro
+      Estado-Membro
+    - Altera Artigo 22.º — Cédula e diário de bordo
+    - Altera 1. Requisitos essenciais de competência no nível operacional
+    - Altera 2. Requisitos essenciais de competência no nível de gestão
+    - Altera REQUISITOS APLICÁVEIS
+    - Altera Notas
 identifiers:
   celex: 32017L2397
   eli: http://data.europa.eu/eli/dir/2017/2397/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7aae2eb1-eac2-11e7-9749-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/67126e5e-997f-11ec-83e1-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017L2397-20220303
-  retrieved_at: '2026-10-22T02:49:13Z'
+  retrieved_at: '2026-10-22T16:56:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-10T23:27:30.802+01:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:13Z'
-  notes: Texto consolidado 02017L2397-20220303.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:56:58Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2017-2397.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,30 +222,20 @@ relationships:
   source: null
 article_structure:
   article_count: 41
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:13Z'
-  warnings: []
+  checked_at: '2026-10-22T16:56:58Z'
+  warnings:
+  - '02017L2397-20171227: versão indisponível (Sem expressão na língua por para CELEX 02017L2397-20171227.)'
   errors: []
 ---
 
 # Diretiva (UE) 2017/2397 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017
-
-> 02017L2397 — PT — 03.03.2022 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021L1233) — [DIRETIVA (UE) 2021/1233 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2021](http://publications.europa.eu/resource/celex/32021L1233) — L 274 — 52 — 30.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32022R0184) — [REGULAMENTO DELEGADO (UE) 2022/184 DA COMISSÃO de 22 de novembro de 2021](http://publications.europa.eu/resource/celex/32022R0184) — L 30 — 3 — 11.2.2022
-
-## DIRETIVA (UE) 2017/2397 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de dezembro de 2017
 

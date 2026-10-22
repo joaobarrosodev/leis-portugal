@@ -36,6 +36,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-24'
+version_history:
+  file: regulamento-ue-2017-1131.versoes.json
+  count: 4
+  source_lastmod: '2024-12-24'
+  versions:
+  - date: '2017-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-01-01'
+    amending: eu:celex:32018R0990:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/990 DA COMISSÃO de 10 de abril de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Instrumentos do mercado monetário elegíveis
+    - Altera Artigo 11.º — Titularizações e ABCP elegíveis
+    - Altera Artigo 14.º — Acordos de recompra elegíveis
+    - Altera Artigo 15.º — Acordos de revenda elegíveis
+    - Altera Artigo 16.º — Unidades de participação ou ações elegíveis de FMM
+    - Altera Artigo 17.º — Diversificação
+    - Altera Artigo 27.º — Política de «conhecimento do cliente»
+    - Altera Artigo 29.º — Avaliação dos FMM
+    - Altera Artigo 34.º — Requisitos específicos para os FMM de dívida pública VLC e os FMM VLBV
+    - Altera Artigo 37.º — Comunicação às autoridades competentes
+    - Altera Artigo 47.º — Entrada em vigor
+    - Altera Notas
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 11.º — Titularizações e ABCP elegíveis
+    - Altera Artigo 15.º — Acordos de revenda elegíveis
+    - Altera Artigo 17.º — Diversificação
+    - Altera Artigo 27.º — Política de «conhecimento do cliente»
+    - Altera Notas
+    - Adita Artigo 37.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-12-24'
+    amending: eu:celex:32024R2987:por
+    amending_title: REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 11.º — Titularizações e ABCP elegíveis
+    - Altera Artigo 14.º — Acordos de recompra elegíveis
+    - Altera Artigo 15.º — Acordos de revenda elegíveis
+    - Altera Artigo 17.º — Diversificação
+    - Altera Artigo 27.º — Política de «conhecimento do cliente»
+    - Altera Artigo 37.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
 identifiers:
   celex: 32017R1131
   eli: http://data.europa.eu/eli/reg/2017/1131/oj
@@ -50,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/46d73c29-5d5a-11e7-954d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/418f2f71-cd08-11ef-be2a-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1131-20241224
-  retrieved_at: '2026-10-22T02:46:04Z'
+  retrieved_at: '2026-10-22T17:01:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T06:43:53.269+01:00'
 integrity:
@@ -59,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:04Z'
-  notes: Texto consolidado 02017R1131-20241224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:01:12Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2017-1131.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,35 +258,19 @@ relationships:
   date: '2019-06-28'
 article_structure:
   article_count: 48
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:04Z'
+  checked_at: '2026-10-22T17:01:12Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/1131 do Parlamento Europeu e do Conselho, de 14 de junho de 2017
-
-> 02017R1131 — PT — 24.12.2024 — 003.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R0990) — [REGULAMENTO DELEGADO (UE) 2018/990 DA COMISSÃO de 10 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0990) — L 177 — 1 — 13.7.2018
-- [►M2](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024R2987) — [REGULAMENTO (UE) 2024/2987 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2987) — L 2987 — 1 — 4.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R2987R%2802%29) — [Rectificação, JO L 90456, 26.5.2025, p. 1 (2024/2987)](http://publications.europa.eu/resource/celex/32024R2987R%2802%29)
-
-## REGULAMENTO (UE) 2017/1131 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de junho de 2017
 

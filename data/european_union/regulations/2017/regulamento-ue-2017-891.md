@@ -37,6 +37,187 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-09'
+version_history:
+  file: regulamento-ue-2017-891.versoes.json
+  count: 8
+  source_lastmod: '2026-07-09'
+  versions:
+  - date: '2018-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-06-06'
+    amending: eu:celex:32020R0743:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/743 DA COMISSÃO de 30 de março de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 23.º — Período de referência e limite máximo da assistência financeira da União
+    - Altera Artigo 30.º — Relação com o desenvolvimento rural, os auxílios estatais e os programas de promoção
+    - Altera Artigo 31.º — Elegibilidade das ações ao abrigo dos programas operacionais
+    - Altera Artigo 41.º — Replantação de pomares
+    - Altera Artigo 57.º — Procedimentos de acompanhamento e avaliação dos programas operacionais
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Lista não exaustiva de ações e despesas elegíveis no âmbito dos programas operacionais, referida no artigo 31.º,
+      n.º 1
+    - Altera Informações a incluir no relatório anual dos Estados-Membros a que se refere o artigo 54.º, alínea b)
+    - Altera Notas
+    - Adita Artigo 52.º — Condições para a execução da assistência financeira nacional
+    - Adita Artigo 56.º — Indicadores
+    - Adita PARTE A — INFORMAÇÕES SOBRE A GESTÃO DO MERCADO
+    - Adita PARTE B — INFORMAÇÕES SOBRE O APURAMENTO DAS CONTAS
+    - Suprime Artigo 52.º — Grau de organização dos produtores e definição de região
+    - Suprime Artigo 56.º — Indicadores comuns de desempenho
+    - Suprime PARTE A — INFORMAÇÕES RELATIVAS À GESTÃO DO MERCADO
+    - Suprime 1. Informações administrativas
+    - Suprime 2. Informações relativas a despesas
+    - Suprime 3. Informações sobre a aplicação da estratégia nacional
+    - Suprime PARTE B — INFORMAÇÕES RELATIVAS AO APURAMENTO DAS CONTAS
+  - date: '2021-04-28'
+    amending: eu:celex:32021R0652:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/652 DA COMISSÃO de 10 de fevereiro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 13.º — Externalização
+    - Altera Artigo 22.º — Base de cálculo
+    - Altera Artigo 27.º — Estratégia nacional
+    - Altera Artigo 30.º — Relação com o desenvolvimento rural, os auxílios estatais e os programas de promoção
+    - Altera Artigo 31.º — Elegibilidade das ações ao abrigo dos programas operacionais
+    - Altera Artigo 41.º — Replantação de pomares
+    - Altera Artigo 45.º — Apoio
+    - Altera Artigo 51.º — Execução das ações de seguros de colheita
+    - Altera Artigo 51.º-A — Execução de medidas de acompanhamento
+    - Altera Artigo 52.º — Condições para a execução da assistência financeira nacional
+    - Altera Artigo 57.º — Procedimentos de acompanhamento e avaliação dos programas operacionais
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Artigo 80.º — Disposições transitórias
+    - Altera Lista de ações e despesas não elegíveis no âmbito dos programas operacionais, referida no artigo 31.º, n.º 1
+    - Altera Lista não exaustiva de ações e despesas elegíveis no âmbito dos programas operacionais, referida no artigo 31.º,
+      n.º 1
+    - Altera Notificações de preços a que se refere o artigo 55.º, n.º 1
+    - Altera Notas
+  - date: '2021-12-18'
+    amending: eu:celex:32021R2245:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/2245 DA COMISSÃO de 12 de outubro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 23.º — Período de referência e limite máximo da assistência financeira da União
+    - Altera Artigo 30.º — Relação com o desenvolvimento rural, os auxílios estatais e os programas de promoção
+    - Altera Artigo 31.º — Elegibilidade das ações ao abrigo dos programas operacionais
+    - Altera Artigo 41.º — Replantação de pomares
+    - Altera Artigo 52.º — Condições para a execução da assistência financeira nacional
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Lista não exaustiva de ações e despesas elegíveis no âmbito dos programas operacionais, referida no artigo 31.º,
+      n.º 1
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2092:por
+    amending_title: M5; M6; REGULAMENTO DELEGADO (UE) 2022/2528 DA COMISSÃO de 17 de outubro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 59.º — Incumprimento dos critérios de reconhecimento
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Notas
+    - Suprime Artigo 22.º — Base de cálculo
+    - Suprime Artigo 23.º — Período de referência e limite máximo da assistência financeira da União
+    - Suprime Artigo 24.º — Contabilidade
+    - Suprime Artigo 25.º — Financiamento dos fundos operacionais
+    - Suprime Artigo 26.º — Notificação do montante previsional
+    - Suprime Artigo 27.º — Estratégia nacional
+    - Suprime Artigo 28.º — Quadro nacional para as ações ambientais
+    - Suprime Artigo 29.º — Regras complementares dos Estados-Membros
+    - Suprime Artigo 30.º — Relação com o desenvolvimento rural, os auxílios estatais e os programas de promoção
+    - Suprime Artigo 31.º — Elegibilidade das ações ao abrigo dos programas operacionais
+    - Suprime Artigo 32.º — Programas operacionais das associações de organizações de produtores
+    - Suprime Artigo 33.º — Decisão
+    - Suprime Artigo 34.º — Alterações dos programas operacionais
+    - Suprime Artigo 35.º — Adiantamentos
+    - Suprime Artigo 36.º — Cessação de um programa operacional e descontinuidade do reconhecimento
+    - Suprime Artigo 37.º — Seleção das medidas de prevenção e gestão de crises
+    - Suprime Artigo 38.º — Empréstimos para financiamento das medidas de prevenção e gestão de crises
+    - Suprime Artigo 39.º — Investimentos relacionados com a gestão dos volumes
+    - Suprime Artigo 40.º — Participação nos fundos mutualistas
+    - Suprime Artigo 41.º — Replantação de pomares
+    - Suprime Artigo 42.º — Âmbito de aplicação
+    - Suprime Artigo 43.º — Média trienal das retiradas do mercado para distribuição gratuita
+    - Suprime Artigo 44.º — Notificação prévia das operações de retirada
+    - Suprime Artigo 45.º — Apoio
+    - Suprime Artigo 46.º — Destino dos produtos retirados
+    - Suprime Artigo 47.º — Condições a que estão sujeitos os destinatários dos produtos retirados
+    - Suprime Artigo 48.º — Condições a que estão sujeitas a colheita em verde e a não colheita
+    - Suprime Artigo 49.º — Obrigações dos Estados-Membros
+    - Suprime Artigo 50.º — Objetivo das ações de seguros de colheita
+    - Suprime Artigo 51.º — Execução das ações de seguros de colheita
+    - Suprime Artigo 51.º-A — Execução de medidas de acompanhamento
+    - Suprime Artigo 52.º — Condições para a execução da assistência financeira nacional
+    - Suprime Artigo 53.º — Alterações ao programa operacional
+  - date: '2025-01-01'
+    amending: eu:celex:32024R2508:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2508 DA COMISSÃO de 17 de julho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 55.º — Notificações dos Estados-Membros relativas aos preços no produtor das frutas e produtos hortícolas
+      no mercado interno
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Notas
+    - Adita Notificações de preços a que se refere o artigo 55.º, N.º 1
+    - Suprime Notificações de preços a que se refere o artigo 55.º, n.º 1
+  - date: '2025-12-24'
+    amending: eu:celex:32025R2184:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2184 DA COMISSÃO de 10 de setembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Produtos abrangidos
+    - Altera Artigo 8.º — Valor ou volume de produção comercializável
+    - Altera Artigo 11.º — Atividades principais das organizações de produtores
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 13.º — Externalização
+    - Altera Artigo 14.º — Organizações transnacionais de produtores
+    - Altera Artigo 15.º — Fusões de organizações de produtores
+    - Altera Artigo 21.º — Associações transnacionais de organizações de produtores
+    - Altera Artigo 59.º — Incumprimento dos critérios de reconhecimento
+    - Altera Artigo 69.º — Regras nacionais
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera PARTE A
+    - Altera PARTE B
+    - Altera Notas
+    - Adita Artigo 55.º — Notificação dos preços no produtor das frutas e produtos hortícolas no mercado interno
+    - Adita Artigo 74.º — Notificação dos preços representativos médios ponderados e das quantidades de produtos importados
+    - Suprime Artigo 55.º — Notificações dos Estados-Membros relativas aos preços no produtor das frutas e produtos hortícolas
+      no mercado interno
+    - Suprime Artigo 70.º — Notificação da extensão das regras e das circunscrições económicas
+    - Suprime Artigo 74.º — Notificação dos preços e quantidades dos produtos importados
+  - date: '2026-07-09'
+    amending: eu:celex:32026R0912:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/912 DA COMISSÃO de 27 de abril de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 8.º — Valor ou volume de produção comercializável
+    - Altera Artigo 12.º — Comercialização da produção fora das organizações de produtores
+    - Altera Artigo 55.º — Notificação dos preços no produtor das frutas e produtos hortícolas no mercado interno
+    - Altera Artigo 59.º — Incumprimento dos critérios de reconhecimento
+    - Altera Artigo 69.º — Regras nacionais
+    - Altera Artigo 73.º — Definições
+    - Altera Artigo 75.º — Base dos preços de entrada
+    - Altera Artigo 77.º — Notificações
+    - Altera Notificações de preços a que se refere o artigo 55.º, N.º 1
+    - Altera Notas
 identifiers:
   celex: 32017R0891
   eli: http://data.europa.eu/eli/reg_del/2017/891/oj
@@ -51,7 +232,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/55da0050-410d-11e7-a9b0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7ebfe641-8ac2-11f1-910d-01aa75ed71a1.0005.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0891-20260709
-  retrieved_at: '2026-10-22T02:40:54Z'
+  retrieved_at: '2026-10-22T17:01:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T05:01:59.954+01:00'
 integrity:
@@ -60,9 +241,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:54Z'
-  notes: Texto consolidado 02017R0891-20260709.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:01:00Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2017-891.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -264,42 +445,20 @@ relationships:
   date: '2023-11-03'
 article_structure:
   article_count: 32
-  section_count: 62
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 63
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:54Z'
-  warnings: []
+  checked_at: '2026-10-22T17:01:00Z'
+  warnings:
+  - '02017R0891-20170525: versão indisponível (Sem expressão na língua por para CELEX 02017R0891-20170525.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2017/891 da Comissão, de 13 de março de 2017
-
-> 02017R0891 — PT — 09.07.2026 — 009.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1145) — [REGULAMENTO DELEGADO (UE) 2018/1145 DA COMISSÃO de 7 de junho de 2018](http://publications.europa.eu/resource/celex/32018R1145) — L 208 — 1 — 17.8.2018
-- [M2](http://publications.europa.eu/resource/celex/32020R0743) — [REGULAMENTO DELEGADO (UE) 2020/743 DA COMISSÃO de 30 de março de 2020](http://publications.europa.eu/resource/celex/32020R0743) — L 176 — 1 — 5.6.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021R0652) — [REGULAMENTO DELEGADO (UE) 2021/652 DA COMISSÃO de 10 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0652) — L 135 — 4 — 21.4.2021
-- [M4](http://publications.europa.eu/resource/celex/32021R2245) — [REGULAMENTO DELEGADO (UE) 2021/2245 DA COMISSÃO de 12 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R2245) — L 453 — 3 — 17.12.2021
-- [M5](http://publications.europa.eu/resource/celex/32022R2092) — [REGULAMENTO DELEGADO (UE) 2022/2092 DA COMISSÃO de 25 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R2092) — L 281 — 18 — 31.10.2022
-- [M6](http://publications.europa.eu/resource/celex/32022R2513) — [REGULAMENTO DELEGADO (UE) 2022/2513 DA COMISSÃO de 26 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2513) — L 326 — 6 — 21.12.2022
-- [►M7](http://publications.europa.eu/resource/celex/32022R2528) — [REGULAMENTO DELEGADO (UE) 2022/2528 DA COMISSÃO de 17 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2528) — L 328 — 70 — 22.12.2022
-- [►M8](http://publications.europa.eu/resource/celex/32024R2508) — [REGULAMENTO DELEGADO (UE) 2024/2508 DA COMISSÃO de 17 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2508) — L 2508 — 1 — 24.9.2024
-- [►M9](http://publications.europa.eu/resource/celex/32025R2184) — [REGULAMENTO DELEGADO (UE) 2025/2184 DA COMISSÃO de 10 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R2184) — L 2184 — 1 — 4.12.2025
-- [►M10](http://publications.europa.eu/resource/celex/32026R0912) — [REGULAMENTO DELEGADO (UE) 2026/912 DA COMISSÃO de 27 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0912) — L 912 — 1 — 6.7.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32022R2513R%2801%29) — [Rectificação, JO L 039, 9.2.2023, p. 69 (2022/2513)](http://publications.europa.eu/resource/celex/32022R2513R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) 2017/891 DA COMISSÃO
 
 de 13 de março de 2017
 

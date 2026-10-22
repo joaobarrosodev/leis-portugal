@@ -35,6 +35,208 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-16'
+version_history:
+  file: diretiva-ue-2018-2001.versoes.json
+  count: 5
+  source_lastmod: '2024-07-16'
+  versions:
+  - date: '2018-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-07'
+    amending: eu:celex:32022R0759:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/759 DA COMISSÃO de 14 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 29.º — Critérios de sustentabilidade e de redução dos gases com efeitos de estufa para os biocombustíveis,
+      os biolíquidos e os combustíveis biomássicos
+    - Altera Artigo 31.º — Cálculo do impacto dos biocombustíveis, dos biolíquidos e dos combustíveis biomássicos nos gases
+      com efeito de estufa
+    - Altera Artigo 32.º — Atos de execução
+    - Altera A. VALORES TÍPICOS E VALORES POR DEFEITO PARA OS BIOCOMBUSTÍVEIS PRODUZIDOS SEM EMISSÕES LÍQUIDAS DE CARBONO
+      DEVIDAS A ALTERAÇÕES DA AFETAÇÃO DOS SOLOS
+    - Altera C. METODOLOGIA
+    - Altera D. VALORES POR DEFEITO DISCRIMINADOS PARA OS BIOCOMBUSTÍVEIS E BIOLÍQUIDOS
+    - Altera A. Valores típicos e valores por defeito da redução de gases com efeito de estufa no caso de combustíveis produzidos
+      a partir de biomassa sem emissões líquidas de carbono devidas a alterações da afetação dos solos
+    - Altera B. METODOLOGIA
+    - Altera C. VALORES POR DEFEITO DISCRIMINADOS PARA COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera D. VALORES TÍPICOS E VALORES POR DEFEITO ARA OS MODOS DE PRODUÇÃO DE COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera PARTE B. BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS BIOMÁSSICOS CUJAS EMISSÕES ESTIMADAS DECORRENTES DA ALTERAÇÃO
+      INDIRETA DO USO DO SOLO SÃO CONSIDERADAS NULAS
+    - Altera Notas
+    - Adita METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^8^](http://publications.europa.eu/resource/cellar/92c8c969-ec25-11ec-a534-01aa75ed71a1.0020.02/DOC_1#E0008))
+    - Adita CÁLCULO DA ENERGIA RENOVÁVEL UTILIZADA PARA AQUECIMENTO E ARREFECIMENTO
+    - 'Adita PARTE A: CÁLCULO DA ENERGIA RENOVÁVEL OBTIDA A PARTIR DE BOMBAS DE CALOR UTILIZADA PARA AQUECIMENTO'
+    - 'Adita PARTE B: CÁLCULO DA ENERGIA RENOVÁVEL UTILIZADA PARA ARREFECIMENTO'
+    - Adita 1. DEFINIÇÕES
+    - Adita 2. ÂMBITO DE APLICAÇÃO
+    - Adita 3. METODOLOGIA DE CONTABILIZAÇÃO DA ENERGIA RENOVÁVEL UTILIZADA PARA ARREFECIMENTO INDIVIDUAL E URBANO
+    - Adita PARTE A. ESTIMATIVAS PROVISÓRIAS DE EMISSÕES DE MATÉRIAS-PRIMAS PARA BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS
+      BIOMÁSSICOS DECORRENTES DA ALTERAÇÃO INDIRETA DO USO DO SOLO (g CO2eq/MJ) ([^37^](http://publications.europa.eu/resource/cellar/92c8c969-ec25-11ec-a534-01aa75ed71a1.0020.02/DOC_1#E0072))
+    - Suprime METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^8^](http://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0021.02/DOC_2#E0008))
+    - Suprime CÁLCULO DA ENERGIA OBTIDA A PARTIR DE BOMBAS DE CALOR
+    - Suprime PARTE A. ESTIMATIVAS PROVISÓRIAS DE EMISSÕES DE MATÉRIAS-PRIMAS PARA BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS
+      BIOMÁSSICOS DECORRENTES DA ALTERAÇÃO INDIRETA DO USO DO SOLO (g CO2eq/MJ) ([^23^](http://publications.europa.eu/resource/cellar/4914966c-6ce4-11e9-9f05-01aa75ed71a1.0021.02/DOC_2#E0058))
+  - date: '2023-11-20'
+    amending: eu:celex:32023L2413:por
+    amending_title: DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Meta global vinculativa da União para 2030
+    - Altera Artigo 7.º — Cálculo da quota de energia de fontes renováveis
+    - Altera Artigo 9.º — Projetos conjuntos entre Estados-Membros
+    - Altera Artigo 15.º — Procedimentos administrativos, regulamentos e códigos
+    - Altera Artigo 18.º — Informação e formação
+    - Altera Artigo 19.º — Garantia de origem da energia de fontes renováveis
+    - Altera Artigo 20.º — Acesso e operação das redes
+    - Altera Artigo 23.º — Integração da energia renovável no aquecimento e arrefecimento
+    - Altera Artigo 24.º — Aquecimento e arrefecimento urbano
+    - Altera Artigo 26.º — Regras específicas relativas aos biocombustíveis, biolíquidos e combustíveis biomássicos produzidos
+      a partir de culturas alimentares para consumo humano ou animal
+    - Altera Artigo 28.º — Outras disposições relativas à energia renovável no setor dos transportes
+    - Altera Artigo 29.º — Critérios de sustentabilidade e de redução dos gases com efeitos de estufa para os biocombustíveis,
+      os biolíquidos e os combustíveis biomássicos
+    - Altera Artigo 30.º — Verificação do cumprimento dos critérios de sustentabilidade e de redução das emissões de gases
+      com efeito de estufa
+    - Altera Artigo 31.º — Cálculo do impacto dos biocombustíveis, dos biolíquidos e dos combustíveis biomássicos nos gases
+      com efeito de estufa
+    - Altera Artigo 32.º — Atos de execução
+    - Altera Artigo 33.º — Monitorização pela Comissão
+    - Altera Artigo 35.º — Exercício da delegação
+    - Altera A. Metas globais nacionais
+    - Altera TEOR ENERGÉTICO DOS COMBUSTÍVEIS
+    - Altera A. VALORES TÍPICOS E VALORES POR DEFEITO PARA OS BIOCOMBUSTÍVEIS PRODUZIDOS SEM EMISSÕES LÍQUIDAS DE CARBONO
+      DEVIDAS A ALTERAÇÕES DA AFETAÇÃO DOS SOLOS
+    - Altera C. METODOLOGIA
+    - Altera D. VALORES POR DEFEITO DISCRIMINADOS PARA OS BIOCOMBUSTÍVEIS E BIOLÍQUIDOS
+    - Altera A. Valores típicos e valores por defeito da redução de gases com efeito de estufa no caso de combustíveis produzidos
+      a partir de biomassa sem emissões líquidas de carbono devidas a alterações da afetação dos solos
+    - Altera B. METODOLOGIA
+    - Altera C. VALORES POR DEFEITO DISCRIMINADOS PARA COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera D. VALORES TÍPICOS E VALORES POR DEFEITO ARA OS MODOS DE PRODUÇÃO DE COMBUSTÍVEIS BIOMÁSSICOS
+    - 'Altera PARTE A: CÁLCULO DA ENERGIA RENOVÁVEL OBTIDA A PARTIR DE BOMBAS DE CALOR UTILIZADA PARA AQUECIMENTO'
+    - Altera 2. ÂMBITO DE APLICAÇÃO
+    - Altera 3. METODOLOGIA DE CONTABILIZAÇÃO DA ENERGIA RENOVÁVEL UTILIZADA PARA ARREFECIMENTO INDIVIDUAL E URBANO
+    - Altera PARTE B. BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS BIOMÁSSICOS CUJAS EMISSÕES ESTIMADAS DECORRENTES DA ALTERAÇÃO
+      INDIRETA DO USO DO SOLO SÃO CONSIDERADAS NULAS
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita Artigo 15.º-A — Integração da energia renovável nos edifícios
+    - Adita Artigo 15.º-B — Levantamento das zonas necessárias ao cumprimento dos contributos nacionais para a meta global
+      da União em matéria de energias renováveis para 2030
+    - Adita Artigo 15.º-C — Zonas de aceleração da implantação das energias renováveis
+    - Adita Artigo 15.º-D — Participação do público
+    - Adita Artigo 15.º-E — Zonas para infraestruturas de rede e de armazenamento necessárias para integrar a energia renovável
+      no sistema elétrico
+    - Adita Artigo 16.º — Organização e principais princípios do procedimento de concessão de licenças
+    - Adita Artigo 16.º-A — Procedimento de concessão de licenças em zonas propícias à aceleração das energias renováveis
+  - date: '2024-06-06'
+    amending: eu:celex:32024L1405:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/1405 DA COMISSÃO de 14 de março de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Meta global vinculativa da União para 2030
+    - Altera Artigo 9.º — Projetos conjuntos entre Estados-Membros
+    - Altera Artigo 15.º — Procedimentos administrativos, regulamentos e códigos
+    - Altera Artigo 15.º-B — Levantamento das zonas necessárias ao cumprimento dos contributos nacionais para a meta global
+      da União em matéria de energias renováveis para 2030
+    - Altera Artigo 15.º-C — Zonas de aceleração da implantação das energias renováveis
+    - Altera Artigo 15.º-E — Zonas para infraestruturas de rede e de armazenamento necessárias para integrar a energia renovável
+      no sistema elétrico
+    - Altera Artigo 20.º-A — Facilitar a integração da eletricidade de fontes renováveis no sistema
+    - Altera Artigo 22.º-A — Integração da energia renovável na indústria
+    - Altera Artigo 29.º — Critérios de sustentabilidade e de redução dos gases com efeitos de estufa para os biocombustíveis,
+      os biolíquidos e os combustíveis biomássicos
+    - Altera Artigo 31.º — Cálculo do impacto dos biocombustíveis, dos biolíquidos e dos combustíveis biomássicos nos gases
+      com efeito de estufa
+    - Altera Artigo 31.º-A — Base de dados da União
+    - Altera Artigo 32.º — Atos de execução
+    - Altera Artigo 33.º — Monitorização pela Comissão
+    - Altera QUOTAS NACIONAIS DE AQUECIMENTO E ARREFECIMENTO DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA
+      PARA 2020-2030
+    - Altera A. VALORES TÍPICOS E VALORES POR DEFEITO PARA OS BIOCOMBUSTÍVEIS PRODUZIDOS SEM EMISSÕES LÍQUIDAS DE CARBONO
+      DEVIDAS A ALTERAÇÕES DA AFETAÇÃO DOS SOLOS
+    - Altera C. METODOLOGIA
+    - Altera D. VALORES POR DEFEITO DISCRIMINADOS PARA OS BIOCOMBUSTÍVEIS E BIOLÍQUIDOS
+    - Altera A. Valores típicos e valores por defeito da redução de gases com efeito de estufa no caso de combustíveis produzidos
+      a partir de biomassa sem emissões líquidas de carbono devidas a alterações da afetação dos solos
+    - Altera B. METODOLOGIA
+    - Altera C. VALORES POR DEFEITO DISCRIMINADOS PARA COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera D. VALORES TÍPICOS E VALORES POR DEFEITO ARA OS MODOS DE PRODUÇÃO DE COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera 2. ÂMBITO DE APLICAÇÃO
+    - Altera 3. METODOLOGIA DE CONTABILIZAÇÃO DA ENERGIA RENOVÁVEL UTILIZADA PARA ARREFECIMENTO INDIVIDUAL E URBANO
+    - Altera PARTE B. BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS BIOMÁSSICOS CUJAS EMISSÕES ESTIMADAS DECORRENTES DA ALTERAÇÃO
+      INDIRETA DO USO DO SOLO SÃO CONSIDERADAS NULAS
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^31^](http://publications.europa.eu/resource/cellar/ff5d5c90-2293-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0031))
+    - Adita PARTE A. ESTIMATIVAS PROVISÓRIAS DE EMISSÕES DE MATÉRIAS-PRIMAS PARA BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS
+      BIOMÁSSICOS DECORRENTES DA ALTERAÇÃO INDIRETA DO USO DO SOLO (g CO2eq/MJ) ([^60^](http://publications.europa.eu/resource/cellar/ff5d5c90-2293-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0097))
+    - Suprime METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^31^](http://publications.europa.eu/resource/cellar/1b2898df-9e7d-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0031))
+    - Suprime PARTE A. ESTIMATIVAS PROVISÓRIAS DE EMISSÕES DE MATÉRIAS-PRIMAS PARA BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS
+      BIOMÁSSICOS DECORRENTES DA ALTERAÇÃO INDIRETA DO USO DO SOLO (g CO2eq/MJ) ([^60^](http://publications.europa.eu/resource/cellar/1b2898df-9e7d-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0097))
+  - date: '2024-07-16'
+    amending: eu:celex:32024L1711:por
+    amending_title: DIRETIVA (UE) 2024/1711 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Meta global vinculativa da União para 2030
+    - Altera Artigo 4.º — Regimes de apoio à energia de fontes renováveis
+    - Altera Artigo 9.º — Projetos conjuntos entre Estados-Membros
+    - Altera Artigo 15.º — Procedimentos administrativos, regulamentos e códigos
+    - Altera Artigo 15.º-A — Integração da energia renovável nos edifícios
+    - Altera Artigo 15.º-B — Levantamento das zonas necessárias ao cumprimento dos contributos nacionais para a meta global
+      da União em matéria de energias renováveis para 2030
+    - Altera Artigo 15.º-C — Zonas de aceleração da implantação das energias renováveis
+    - Altera Artigo 15.º-E — Zonas para infraestruturas de rede e de armazenamento necessárias para integrar a energia renovável
+      no sistema elétrico
+    - Altera Artigo 16.º — Organização e principais princípios do procedimento de concessão de licenças
+    - Altera Artigo 16.º-F — Interesse público superior
+    - Altera Artigo 18.º — Informação e formação
+    - Altera Artigo 20.º — Acesso e operação das redes
+    - Altera Artigo 20.º-A — Facilitar a integração da eletricidade de fontes renováveis no sistema
+    - Altera Artigo 22.º-A — Integração da energia renovável na indústria
+    - Altera Artigo 22.º-B — Condições para a redução do objetivo de utilização de combustíveis renováveis de origem não biológica
+      no setor industrial
+    - Altera Artigo 23.º — Integração da energia renovável no aquecimento e arrefecimento
+    - Altera Artigo 24.º — Aquecimento e arrefecimento urbano
+    - Altera Artigo 29.º — Critérios de sustentabilidade e de redução dos gases com efeitos de estufa para os biocombustíveis,
+      os biolíquidos e os combustíveis biomássicos
+    - Altera Artigo 31.º — Cálculo do impacto dos biocombustíveis, dos biolíquidos e dos combustíveis biomássicos nos gases
+      com efeito de estufa
+    - Altera Artigo 31.º-A — Base de dados da União
+    - Altera Artigo 32.º — Atos de execução
+    - Altera Artigo 33.º — Monitorização pela Comissão
+    - Altera QUOTAS NACIONAIS DE AQUECIMENTO E ARREFECIMENTO DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA
+      PARA 2020-2030
+    - Altera FORMAÇÃO E CERTIFICAÇÃO DE INSTALADORES E PROJETISTAS DE INSTALAÇÕES DE ENERGIAS RENOVÁVEIS
+    - Altera A. VALORES TÍPICOS E VALORES POR DEFEITO PARA OS BIOCOMBUSTÍVEIS PRODUZIDOS SEM EMISSÕES LÍQUIDAS DE CARBONO
+      DEVIDAS A ALTERAÇÕES DA AFETAÇÃO DOS SOLOS
+    - Altera C. METODOLOGIA
+    - Altera D. VALORES POR DEFEITO DISCRIMINADOS PARA OS BIOCOMBUSTÍVEIS E BIOLÍQUIDOS
+    - Altera A. Valores típicos e valores por defeito da redução de gases com efeito de estufa no caso de combustíveis produzidos
+      a partir de biomassa sem emissões líquidas de carbono devidas a alterações da afetação dos solos
+    - Altera B. METODOLOGIA
+    - Altera C. VALORES POR DEFEITO DISCRIMINADOS PARA COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera D. VALORES TÍPICOS E VALORES POR DEFEITO ARA OS MODOS DE PRODUÇÃO DE COMBUSTÍVEIS BIOMÁSSICOS
+    - Altera 2. ÂMBITO DE APLICAÇÃO
+    - Altera 3. METODOLOGIA DE CONTABILIZAÇÃO DA ENERGIA RENOVÁVEL UTILIZADA PARA ARREFECIMENTO INDIVIDUAL E URBANO
+    - Altera PARTE B. BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS BIOMÁSSICOS CUJAS EMISSÕES ESTIMADAS DECORRENTES DA ALTERAÇÃO
+      INDIRETA DO USO DO SOLO SÃO CONSIDERADAS NULAS
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^31^](http://publications.europa.eu/resource/cellar/0754d939-438f-11ef-865a-01aa75ed71a1.0020.02/DOC_3#E0031))
+    - Adita PARTE A. ESTIMATIVAS PROVISÓRIAS DE EMISSÕES DE MATÉRIAS-PRIMAS PARA BIOCOMBUSTÍVEIS, BIOLÍQUIDOS E COMBUSTÍVEIS
+      BIOMÁSSICOS DECORRENTES DA ALTERAÇÃO INDIRETA DO USO DO SOLO (g CO2eq/MJ) ([^60^](http://publications.europa.eu/resource/cellar/0754d939-438f-11ef-865a-01aa75ed71a1.0020.02/DOC_3#E0097))
+    - Suprime METAS GLOBAIS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2020
+      ([^31^](http://publications.europa.eu/resource/cellar/ff5d5c90-2293-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0031))
 identifiers:
   celex: 32018L2001
   eli: http://data.europa.eu/eli/dir/2018/2001/oj
@@ -49,7 +251,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7aa60dea-04e7-11e9-adde-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0754d939-438f-11ef-865a-01aa75ed71a1.0020.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018L2001-20240716
-  retrieved_at: '2026-10-22T02:35:18Z'
+  retrieved_at: '2026-10-22T17:04:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T11:10:19.027+01:00'
 integrity:
@@ -58,9 +260,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:18Z'
-  notes: Texto consolidado 02018L2001-20240716.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:04:59Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2018-2001.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -499,39 +701,19 @@ relationships:
   source: null
 article_structure:
   article_count: 55
-  section_count: 43
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 44
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:18Z'
+  checked_at: '2026-10-22T17:04:59Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018
-
-> 02018L2001 — PT — 16.07.2024 — 004.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0759) — [REGULAMENTO DELEGADO (UE) 2022/759 DA COMISSÃO de 14 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0759) — L 139 — 1 — 18.5.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023L2413) — [DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32023L2413) — L 2413 — 1 — 31.10.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024L1405) — [DIRETIVA DELEGADA (UE) 2024/1405 DA COMISSÃO de 14 de março de 2024](http://publications.europa.eu/resource/celex/32024L1405) — L 1405 — 1 — 17.5.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024L1711) — [DIRETIVA (UE) 2024/1711 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1711) — L 1711 — 1 — 26.6.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018L2001R%2804%29) — [Rectificação, JO L 311, 25.9.2020, p. 11 (2018/2001)](http://publications.europa.eu/resource/celex/32018L2001R%2804%29)
-- [►C2](http://publications.europa.eu/resource/celex/32018L2001R%2806%29) — [Rectificação, JO L 041, 22.2.2022, p. 37 (2018/2001)](http://publications.europa.eu/resource/celex/32018L2001R%2806%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023L2413R%2802%29) — [Rectificação, JO L 90026, 10.1.2025, p. 1 (2023/2413)](http://publications.europa.eu/resource/celex/32023L2413R%2802%29)
-- [►C4](http://publications.europa.eu/resource/celex/32018L2001R%2812%29) — [Rectificação, JO L 90854, 27.10.2025, p. 1 (2018/2001)](http://publications.europa.eu/resource/celex/32018L2001R%2812%29)
-
-## DIRETIVA (UE) 2018/2001 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2018
 

@@ -33,6 +33,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-02-01'
+version_history:
+  file: regulamento-ue-2016-369.versoes.json
+  count: 2
+  source_lastmod: '2020-02-01'
+  versions:
+  - date: '2016-03-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-02-01'
+    amending: eu:celex:32020R0521:por
+    amending_title: REGULAMENTO (UE) 2020/521 DO CONSELHO de 14 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Ações elegíveis
+    - Altera Artigo 4.º — Tipos de intervenção financeira e procedimentos de execução
+    - Altera Artigo 5.º — Custos elegíveis
+    - Altera Artigo 6.º — Complementaridade e coerência da ação da União
+    - Altera Artigo 7.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 9.º — Entrada em vigor e ativação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Ações elegíveis
 identifiers:
   celex: 32016R0369
   eli: http://data.europa.eu/eli/reg/2016/369/oj
@@ -47,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5cc41046-eb42-11e5-8a81-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5e3a9f1f-8b3c-11ea-812f-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0369-20200201
-  retrieved_at: '2026-10-22T02:49:08Z'
+  retrieved_at: '2026-10-22T16:50:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T16:59:10.616+01:00'
 integrity:
@@ -56,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:08Z'
-  notes: Texto consolidado 02016R0369-20200201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:50:30Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2016-369.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -153,29 +176,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/28b43d59-dff1-11e3-8cd4-01aa75ed71a1
 article_structure:
   article_count: 9
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:08Z'
+  checked_at: '2026-10-22T16:50:30Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2016/369 do Conselho, de 15 de março de 2016
-
-> 02016R0369 — PT — 01.02.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0521) — [REGULAMENTO (UE) 2020/521 DO CONSELHO de 14 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0521) — L 117 — 3 — 15.4.2020
-
-## REGULAMENTO (UE) 2016/369 DO CONSELHO
 
 de 15 de março de 2016
 

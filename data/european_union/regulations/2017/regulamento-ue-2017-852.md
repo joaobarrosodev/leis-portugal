@@ -37,6 +37,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-20'
+version_history:
+  file: regulamento-ue-2017-852.versoes.json
+  count: 5
+  source_lastmod: '2026-03-20'
+  versions:
+  - date: '2017-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-12-25'
+    amending: eu:celex:32022R2526:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2526 DA COMISSÃO de 23 de setembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Atividades industriais
+    - Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico
+    - Altera Artigo 12.º — Prestação de informações sobre fontes importantes
+    - Altera Artigo 13.º — Armazenagem de resíduos de mercúrio
+    - Altera Artigo 14.º — Rastreabilidade
+    - Altera Artigo 18.º — Relatório
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Compostos de mercúrio abrangidos pelo artigo 3.º, n.^os^ 2 e 3, e pelo artigo 7.º, n.º 3, e misturas de mercúrio
+      abrangidas pelo artigo 3.º, n.º 2, pelo artigo 4.º, n.º 1, e pelo artigo 7.º, n.º 3
+    - Adita ANEXO II
+    - Adita Produtos com mercúrio adicionado referidos no artigo 5.º
+    - Adita Parte A — Produtos com mercúrio adicionado
+    - Adita Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo
+    - Adita ANEXO III
+    - Adita Requisitos relacionados com o mercúrio aplicáveis aos processos de fabrico referidos no artigo 7.º, n.^os^ 1 e
+      2
+    - 'Adita Parte I: Proibição da utilização de mercúrio e de compostos de mercúrio, sob a forma pura ou de misturas, nos
+      processos de fabrico'
+    - 'Adita Parte II: Processos de fabrico sujeitos a restrições de utilização e libertação de mercúrio e compostos de mercúrio'
+    - Adita ANEXO IV
+    - Adita Teor do plano nacional sobre mineração e transformação aurífera artesanal e em pequena escala referido no artigo
+      9.º
+    - Adita ANEXO V
+    - Adita Tabela de correspondência
+  - date: '2023-10-16'
+    amending: eu:celex:32023R2049:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2049 DA COMISSÃO de 14 de julho de 2023
+    changes:
+    - Altera Artigo 7.º — Atividades industriais
+    - Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico
+    - Altera Artigo 12.º — Prestação de informações sobre fontes importantes
+    - Altera Artigo 18.º — Relatório
+    - Altera Parte A — Produtos com mercúrio adicionado
+    - Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo
+    - Altera Notas
+  - date: '2024-07-30'
+    amending: eu:celex:32024R1849:por
+    amending_title: REGULAMENTO (UE) 2024/1849 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 7.º — Atividades industriais
+    - Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico
+    - Altera Artigo 10.º — Amálgama dentária
+    - Altera Artigo 12.º — Prestação de informações sobre fontes importantes
+    - Altera Artigo 18.º — Relatório
+    - Altera Artigo 19.º — Revisão
+    - Altera Parte A — Produtos com mercúrio adicionado
+    - Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo
+    - Altera Notas
+  - date: '2026-03-20'
+    amending: eu:celex:32026R0055:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/55 DA COMISSÃO de 17 de dezembro de 2025
+    changes:
+    - Altera Artigo 7.º — Atividades industriais
+    - Altera Artigo 8.º — Novos produtos com mercúrio adicionado e novos processos de fabrico
+    - Altera Artigo 12.º — Prestação de informações sobre fontes importantes
+    - Altera Artigo 18.º — Relatório
+    - Altera Parte A — Produtos com mercúrio adicionado
+    - Altera Parte B — Outros produtos excluídos da lista constante da parte A do presente anexo
+    - Altera Notas
 identifiers:
   celex: 32017R0852
   eli: http://data.europa.eu/eli/reg/2017/852/oj
@@ -51,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/986d3c49-3dd5-11f1-814f-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0852-20260320
-  retrieved_at: '2026-10-22T03:18:25Z'
+  retrieved_at: '2026-10-22T16:59:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T18:44:46.462+01:00'
 integrity:
@@ -60,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:25Z'
-  notes: Texto consolidado 02017R0852-20260320.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:59:54Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-852.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -197,32 +273,19 @@ relationships:
   date: '2008-10-22'
 article_structure:
   article_count: 24
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:25Z'
+  checked_at: '2026-10-22T16:59:54Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/852 do Parlamento Europeu e do Conselho, de 17 de maio de 2017
-
-> 02017R0852 — PT — 20.03.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R2526) — [REGULAMENTO DELEGADO (UE) 2022/2526 DA COMISSÃO de 23 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2526) — L 328 — 66 — 22.12.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R2049) — [REGULAMENTO DELEGADO (UE) 2023/2049 DA COMISSÃO de 14 de julho de 2023](http://publications.europa.eu/resource/celex/32023R2049) — L 236 — 21 — 26.9.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024R1849) — [REGULAMENTO (UE) 2024/1849 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1849) — L 1849 — 1 — 10.7.2024
-- [►M4](http://publications.europa.eu/resource/celex/32026R0055) — [REGULAMENTO DELEGADO (UE) 2026/55 DA COMISSÃO de 17 de dezembro de 2025](http://publications.europa.eu/resource/celex/32026R0055) — L 55 — 1 — 17.3.2026
-
-## REGULAMENTO (UE) 2017/852 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de maio de 2017
 

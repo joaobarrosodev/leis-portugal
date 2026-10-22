@@ -36,6 +36,431 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2015-2446.versoes.json
+  count: 11
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2015-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-16'
+    amending: eu:celex:32016R0341:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/341 DA COMISSÃO de 17 de dezembro de 2015; REGULAMENTO DELEGADO (UE) 2016/651
+      DA COMISSÃO de 5 de abril de 2016; REGULAMENTO DELEGADO (UE) 2018/1063 DA COMISSÃO de 16 de maio de 2018; REGULAMENTO
+      DELEGADO (UE) 2018/1118 DA COMISSÃO de 7 de junho de 2018; M5; REGULAMENTO DELEGADO (UE) 2019/1143 DA COMISSÃO de 14
+      de março de 2019; REGULAMENTO DELEGADO (UE) 2020/877 DA COMISSÃO de 3 de abril de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 253.º — Validade das decisões que concedem o diferimento de pagamento já em vigor em 1 de maio de 2016
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Artigo 256.º
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Subsecção 0
+    - Adita Meios para a troca de informações utilizados para os pedidos e as decisões em relação aos quais os requisitos
+      aplicáveis em matéria de dados não constam do anexo A.
+    - Adita Artigo 7.º-A
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2191:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2191 DA COMISSÃO de 20 de novembro de 2020
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 105.º
+    - Altera Artigo 130.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas introdutórias aos quadros dos requisitos em matéria de dados para os pedidos e as decisões
+    - Altera Requisitos em matéria de dados
+    - Altera Notas relativas aos requisitos em matéria de dados
+    - Altera (a partir do exemplar n.º 1)
+    - Altera NOTAS INTRODUTÓRIAS
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/29518bab-5ff8-11eb-8146-01aa75ed71a1.0019.02/DOC_1#E0039) [()](http://publications.europa.eu/resource/cellar/29518bab-5ff8-11eb-8146-01aa75ed71a1.0019.02/DOC_1#E0040)
+    - Suprime 1/1. Tipo de código do pedido/decisão
+    - Suprime 1/2. Assinatura/autenticação
+    - Suprime 1/3. Tipo de pedido
+    - Suprime 1/4. Validade geográfica — União
+    - Suprime 1/5. Validade geográfica — países de trânsito comum
+    - Suprime 1/6. Número de referência da decisão
+    - Suprime 1/7. Autoridade aduaneira de decisão
+    - Suprime 2/1. Outros pedidos e decisões relativos às informações vinculativas
+    - Suprime 2/2. Decisões relativas às informações vinculativas emitidas a outros detentores
+    - Suprime 2/3. Processos judiciais ou administrativos pendentes ou já decididos
+    - Suprime 2/4. Documentos juntos
+    - Suprime 2/5. Número de identificação da instalação de armazenamento
+    - Suprime 3/1. Requerente/Titular da autorização ou decisão
+    - Suprime 3/2. Identificação do requerente/titular da autorização ou decisão
+    - Suprime 3/3. Representante
+    - Suprime 3/4. Identificação do representante
+    - Suprime 3/5. Nome e contactos da pessoa responsável pelos assuntos aduaneiros
+    - Suprime 3/6. Pessoa de contacto responsável pelo pedido
+  - date: '2021-03-15'
+    amending: eu:celex:32021R0234:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/234 DA COMISSÃO de 7 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 130.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera ÍNDICE
+    - Altera Notas introdutórias aos quadros dos requisitos em matéria de dados para os pedidos e as decisões
+    - Altera Requisitos em matéria de dados
+    - Altera Notas relativas aos requisitos em matéria de dados
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA DECLARAÇÕES, NOTIFICAÇÕES E PROVA DO ESTATUTO ADUANEIRO DE MERCADORIAS
+      UE (ARTIGO 2.º, N.º 2)
+    - Adita ANEXO C
+    - Adita ANEXO D
+    - Adita REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA DECLARAÇÕES, NOTIFICAÇÕES E PROVA DO ESTATUTO ADUANEIRO DE MERCADORIAS
+      UE (ARTIGO 2.º, N.º 4-A)
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/24b8658d-9c6b-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0040) [()](http://publications.europa.eu/resource/cellar/24b8658d-9c6b-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#E0041)
+    - Suprime REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA DECLARAÇÕES, NOTIFICAÇÕES E PROVA DO ESTATUTO ADUANEIRO DE MERCADORIAS
+      UE
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/29518bab-5ff8-11eb-8146-01aa75ed71a1.0019.02/DOC_1#E0039) [()](http://publications.europa.eu/resource/cellar/29518bab-5ff8-11eb-8146-01aa75ed71a1.0019.02/DOC_1#E0040)
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1934:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1934 DA COMISSÃO de 30 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 130.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas introdutórias aos quadros dos requisitos em matéria de dados para os pedidos e as decisões
+    - Altera Requisitos em matéria de dados
+    - Altera (a partir do exemplar n.º 1)
+    - Altera NOTAS INTRODUTÓRIAS
+    - Altera ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL
+    - Altera PRODUTOS DO REINO VEGETAL
+    - Altera PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E VINAGRES; TABACO E SEUS SUCEDÂNEOS MANUFATURADOS
+    - Altera PRODUTOS DAS INDÚSTRIAS QUÍMICAS OU DAS INDÚSTRIAS CONEXAS
+    - Altera PELES, COUROS, PELES COM PELO E OBRAS DESTAS MATÉRIAS; ARTIGOS DE CORREEIRO OU DE SELEIRO; ARTIGOS DE VIAGEM,
+      BOLSAS E ARTEFACTOS SEMELHANTES; OBRAS DE TRIPA
+    - Altera PASTAS DE MADEIRA OU DE OUTRAS MATÉRIAS FIBROSAS CELULÓSICAS; PAPEL OU CARTÃO PARA RECICLAR (DESPERDÍCIOS E APARAS);
+      PAPEL OU CARTÃO E SUAS OBRAS
+    - Altera MATÉRIAS TÊXTEIS E SUAS OBRAS
+    - Altera CALÇADO, CHAPÉUS E ARTEFACTOS DE USO SEMELHANTE, GUARDA-CHUVAS, GUARDA-SÓIS, BENGALAS, CHICOTES, E SUAS PARTES;
+      PENAS PREPARADAS E SUAS OBRAS; FLORES ARTIFICIAIS; OBRAS DE CABELO
+    - Altera OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU DE MATÉRIAS SEMELHANTES; PRODUTOS CERÂMICOS; VIDRO E SUAS OBRAS
+    - Altera PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS OU SEMIPRECIOSAS E SEMELHANTES, METAIS PRECIOSOS, METAIS FOLHEADOS
+      OU CHAPEADOS DE METAIS PRECIOSOS, E SUAS OBRAS; BIJUTARIAS; MOEDAS
+    - Altera METAIS COMUNS E SUAS OBRAS
+    - Altera MÁQUINAS E APARELHOS, MATERIAL ELÉTRICO, E SUAS PARTES; APARELHOS DE GRAVAÇÃO OU DE REPRODUÇÃO DE SOM, APARELHOS
+      DE GRAVAÇÃO OU DE REPRODUÇÃO DE IMAGENS E DE SOM EM TELEVISÃO, E SUAS PARTES E ACESSÓRIOS
+    - Altera INSTRUMENTOS E APARELHOS DE ÓTICA, DE FOTOGRAFIA, DE CINEMATOGRAFIA, DE MEDIDA, DE CONTROLO OU DE PRECISÃO; INSTRUMENTOS
+      E APARELHOS MÉDICO-CIRÚRGICOS; ARTIGOS DE RELOJOARIA; INSTRUMENTOS MUSICAIS; SUAS PARTES E ACESSÓRIOS
+    - Altera OBRAS DIVERSAS
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Altera Secção A
+    - Altera Secção B
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/bc4d10f5-5d1b-11ec-9c6c-01aa75ed71a1.0007.02/DOC_2#E0040) [()](http://publications.europa.eu/resource/cellar/bc4d10f5-5d1b-11ec-9c6c-01aa75ed71a1.0007.02/DOC_2#E0041)
+  - date: '2023-03-14'
+    amending: eu:celex:32023R0398:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/398 DA COMISSÃO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 113.º-A
+    - Altera Artigo 130.º
+    - Altera Artigo 136.º
+    - Altera Artigo 138.º
+    - Altera Artigo 139.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas introdutórias aos quadros dos requisitos em matéria de dados para os pedidos e as decisões
+    - Altera Requisitos em matéria de dados
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 112.º-A — Fornecimento dos elementos da declaração sumária de entrada por outras pessoas em casos específicos
+      no que respeita ao transporte ferroviário
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/0eb9f6e6-be9b-11ed-8912-01aa75ed71a1.0023.02/DOC_1#E0040) [()](http://publications.europa.eu/resource/cellar/0eb9f6e6-be9b-11ed-8912-01aa75ed71a1.0023.02/DOC_1#E0041)
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/bc4d10f5-5d1b-11ec-9c6c-01aa75ed71a1.0007.02/DOC_2#E0040) [()](http://publications.europa.eu/resource/cellar/bc4d10f5-5d1b-11ec-9c6c-01aa75ed71a1.0007.02/DOC_2#E0041)
+  - date: '2024-03-11'
+    amending: eu:celex:32024R0249:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/249 DA COMISSÃO de 30 de novembro de 2023; REGULAMENTO DELEGADO (UE) 2024/634
+      DA COMISSÃO de 14 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 119.º
+    - Altera Artigo 128.º
+    - Altera Artigo 130.º
+    - Altera Artigo 136.º
+    - Altera Artigo 138.º
+    - Altera Artigo 139.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera ÍNDICE
+    - Altera Notas relativas aos requisitos em matéria de dados
+    - Altera (a partir do exemplar n.º 1)
+    - Altera Notas e elementos de informação (dados) do documento de acompanhamento de trânsito
+    - Altera Notas e informações (dados) da lista de adições
+    - Altera Requisitos em matéria de dados
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 228.º — Embalagens e dispositivos de segurança e rastreio
+    - Adita REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA OS PEDIDOS E AS DECISÕES REFERIDOS NO artigo 2.º, n.º 1
+    - Adita Notas interpretativas gerais
+    - Adita Legenda do quadro
+    - Adita Símbolos nas células do título II
+    - Adita Grupos de dados
+    - Adita Secção 5
+    - Adita Notas de rodapé numeradas
+    - Adita REQUISITOS EM MATÉRIA DE DADOS COM NOTAS
+    - Adita Introdução
+    - Adita Quadro de requisitos em matéria de dados para o grupo de dados 31-38
+    - Adita Notas relativas aos requisitos em matéria de dados para o grupo de dados 31-38
+    - Adita Quadros dos requisitos em matéria de dados e notas para o grupo de dados 42-63
+    - Adita REQUISITOS COMUNS EM MATÉRIA DE DADOS PARA DECLARAÇÕES, NOTIFICAÇÕES E PROVA DO ESTATUTO ADUANEIRO DE MERCADORIAS
+      UE REFERIDOS NO ARTIGO 2.º, N.º 2
+  - date: '2024-09-30'
+    amending: eu:celex:32023R1128:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1128 DA COMISSÃO de 24 de março de 2023
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 130.º
+    - Altera Artigo 138.º
+    - Altera Artigo 141.º
+    - Altera Artigo 142.º
+    - Altera Artigo 148.º
+    - Altera Artigo 150.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera ÍNDICE
+    - Altera Notas relativas aos requisitos em matéria de dados para o grupo de dados 31-38
+    - 'Altera Introdução:'
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0047)
+    - Adita ANEXO 52-02
+    - Adita Informações a fornecer pelo transportador em conformidade com o artigo 141.º, n.º 1, alínea d), subalínea vi)
+    - Adita ANEXO 52-03
+    - Adita Elementos de dados fornecer pelo transportador em conformidade com o artigo 141.º, n.º 1, alínea d), subalíneas
+      vii) e viii), primeiro parágrafo
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/4e0b86d1-e634-11ee-8b2b-01aa75ed71a1.0019.02/DOC_2#E0043) [()](http://publications.europa.eu/resource/cellar/4e0b86d1-e634-11ee-8b2b-01aa75ed71a1.0019.02/DOC_2#E0044)
+  - date: '2024-10-14'
+    amending: eu:celex:32024R2505:por
+    amending_title: M15
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 130.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas relativas aos requisitos em matéria de dados para o grupo de dados 31-38
+    - 'Altera Introdução:'
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0047)
+    - Suprime Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/9ecbab01-8b40-11ef-a67d-01aa75ed71a1.0020.02/DOC_1#E0047)
+  - date: '2025-02-25'
+    amending: eu:celex:32025R0218:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/218 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 130.º
+    - Altera Artigo 136.º
+    - Altera Artigo 138.º
+    - Altera Artigo 140.º
+    - Altera Artigo 141.º
+    - Altera Artigo 148.º
+    - Altera Artigo 155.º
+    - Altera Artigo 167.º
+    - Altera Artigo 226.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas relativas aos requisitos em matéria de dados para o grupo de dados 31-38
+    - 'Altera Introdução:'
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0047)
+    - Suprime Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/04a61114-ac2e-11ef-acb1-01aa75ed71a1.0017.02/DOC_1#E0047)
+  - date: '2026-07-01'
+    amending: eu:celex:32026R1022:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1022 DA COMISSÃO de 30 de junho de 2026
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º — Definições
+    - Altera Artigo 104.º
+    - Altera Artigo 106.º
+    - Altera Artigo 113.º-A
+    - Altera Artigo 130.º
+    - Altera Artigo 138.º
+    - Altera Artigo 140.º
+    - Altera Artigo 141.º
+    - Altera Artigo 142.º
+    - Altera Artigo 148.º
+    - Altera Artigo 167.º
+    - Altera Artigo 244.º
+    - Altera Artigo 254.º — Utilização de autorizações e decisões já em vigor em 1 de maio de 2016
+    - Altera Notas relativas aos requisitos em matéria de dados para o grupo de dados 31-38
+    - 'Altera Introdução:'
+    - Altera (a partir do exemplar n.º 1)
+    - Altera LISTA DE PRODUTOS E OPERAÇÕES DE COMPLEMENTO DE FABRICO OU DE TRANSFORMAÇÃO QUE CONFEREM O CARÁTER ORIGINÁRIO
+    - Altera Documento de apoio quando as mercadorias são declaradas verbalmente para importação temporária
+    - Altera II. APERFEIÇOAMENTO ATIVO
+    - Adita Artigo 143.º-A — Declaração de introdução em livre prática de mercadorias em remessas de valor intrínseco não
+      superior a 150 EUR vendidas em vendas à distância
+    - Adita Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^14^](http://publications.europa.eu/resource/cellar/2e297d47-8125-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Adita Artigo 144.º — Declaração aduaneira para mercadorias transportadas sob a responsabilidade de um operador postal
+    - Adita Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/2e297d47-8125-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/2e297d47-8125-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1#E0047)
+    - Suprime Notificação da dívida aduaneira e pedido de pagamento à associação garante
+    - Suprime Artigo 143.º-A
+    - Suprime Artigo 143.º-B — Declaração de introdução em livre prática de mercadorias consideradas como não estando em risco
+      de transitarem posteriormente para a União, na aceção do artigo 5.º, n.^os^ 1 e 2 do Protocolo relativo à Irlanda/Irlanda
+      do Norte ([^15^](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0016))
+      (“Protocolo”)
+    - Suprime Artigo 144.º
+    - Suprime Matérias excluídas da [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) acumulação◄ regional
+      [()](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0046) [()](http://publications.europa.eu/resource/cellar/c61d4cc6-f90b-11ef-b7db-01aa75ed71a1.0019.02/DOC_1#E0047)
 identifiers:
   celex: 32015R2446
   eli: http://data.europa.eu/eli/reg_del/2015/2446/oj
@@ -50,7 +475,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c73754bc-ae35-11e5-b528-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/2e297d47-8125-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R2446-20260701
-  retrieved_at: '2026-10-22T02:49:13Z'
+  retrieved_at: '2026-10-22T16:53:49Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-12T07:30:22.228+02:00'
 integrity:
@@ -59,9 +484,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:13Z'
-  notes: Texto consolidado 02015R2446-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:53:49Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2015-2446.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -355,54 +780,21 @@ relationships:
   date: '2025-01-16'
 article_structure:
   article_count: 270
-  section_count: 373
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 374
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:13Z'
-  warnings: []
+  checked_at: '2026-10-22T16:53:49Z'
+  warnings:
+  - '02015R2446-20160501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02015R2446-20190725: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2015/2446 da Comissão de 28 de julho de 2015
-
-> 02015R2446 — PT — 01.07.2026 — 013.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32016R0341) — [REGULAMENTO DELEGADO (UE) 2016/341 DA COMISSÃO de 17 de dezembro de 2015](http://publications.europa.eu/resource/celex/32016R0341) — L 69 — 1 — 15.3.2016
-- [►M2](http://publications.europa.eu/resource/celex/32016R0651) — [REGULAMENTO DELEGADO (UE) 2016/651 DA COMISSÃO de 5 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0651) — L 111 — 1 — 27.4.2016
-- [►M3](http://publications.europa.eu/resource/celex/32018R1063) — [REGULAMENTO DELEGADO (UE) 2018/1063 DA COMISSÃO de 16 de maio de 2018](http://publications.europa.eu/resource/celex/32018R1063) — L 192 — 1 — 30.7.2018
-- [►M4](http://publications.europa.eu/resource/celex/32018R1118) — [REGULAMENTO DELEGADO (UE) 2018/1118 DA COMISSÃO de 7 de junho de 2018](http://publications.europa.eu/resource/celex/32018R1118) — L 204 — 11 — 13.8.2018
-- [M5](http://publications.europa.eu/resource/celex/32019R0841) — [REGULAMENTO DELEGADO (UE) 2019/841 DA COMISSÃO de 14 de março de 2019](http://publications.europa.eu/resource/celex/32019R0841) — L 138 — 76 — 24.5.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019R1143) — [REGULAMENTO DELEGADO (UE) 2019/1143 DA COMISSÃO de 14 de março de 2019](http://publications.europa.eu/resource/celex/32019R1143) — L 181 — 2 — 5.7.2019
-- [►M7](http://publications.europa.eu/resource/celex/32020R0877) — [REGULAMENTO DELEGADO (UE) 2020/877 DA COMISSÃO de 3 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0877) — L 203 — 1 — 26.6.2020
-- [►M8](http://publications.europa.eu/resource/celex/32020R2191) — [REGULAMENTO DELEGADO (UE) 2020/2191 DA COMISSÃO de 20 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R2191) — L 434 — 8 — 23.12.2020
-- [►M9](http://publications.europa.eu/resource/celex/32021R0234) — [REGULAMENTO DELEGADO (UE) 2021/234 DA COMISSÃO de 7 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0234) — L 63 — 1 — 23.2.2021
-- [►M10](http://publications.europa.eu/resource/celex/32021R1934) — [REGULAMENTO DELEGADO (UE) 2021/1934 DA COMISSÃO de 30 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1934) — L 396 — 10 — 10.11.2021
-- [►M11](http://publications.europa.eu/resource/celex/32023R0398) — [REGULAMENTO DELEGADO (UE) 2023/398 DA COMISSÃO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0398) — L 54 — 1 — 22.2.2023
-- [►M12](http://publications.europa.eu/resource/celex/32023R1128) — [REGULAMENTO DELEGADO (UE) 2023/1128 DA COMISSÃO de 24 de março de 2023](http://publications.europa.eu/resource/celex/32023R1128) — L 149 — 26 — 9.6.2023
-- [►M13](http://publications.europa.eu/resource/celex/32024R0249) — [REGULAMENTO DELEGADO (UE) 2024/249 DA COMISSÃO de 30 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R0249) — L 249 — 1 — 12.2.2024
-- [►M14](http://publications.europa.eu/resource/celex/32024R0634) — [REGULAMENTO DELEGADO (UE) 2024/634 DA COMISSÃO de 14 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0634) — L 634 — 1 — 20.2.2024
-- [M15](http://publications.europa.eu/resource/celex/32024R2505) — [REGULAMENTO DELEGADO (UE) 2024/2505 DA COMISSÃO de 22 de maio de 2024](http://publications.europa.eu/resource/celex/32024R2505) — L 2505 — 1 — 24.9.2024
-- [►M16](http://publications.europa.eu/resource/celex/32025R0218) — [REGULAMENTO DELEGADO (UE) 2025/218 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32025R0218) — L 218 — 1 — 5.2.2025
-- [►M17](http://publications.europa.eu/resource/celex/32026R1022) — [REGULAMENTO DELEGADO (UE) 2026/1022 DA COMISSÃO de 30 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1022) — L 1022 — 1 — 1.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32015R2446R%2801%29) — [Rectificação, JO L 087, 2.4.2016, p. 35 (2015/2446)](http://publications.europa.eu/resource/celex/32015R2446R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32015R2446R%2803%29) — [Rectificação, JO L 101, 13.4.2017, p. 164 (2015/2446)](http://publications.europa.eu/resource/celex/32015R2446R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32016R0341R%2802%29) — [Rectificação, JO L 101, 13.4.2017, p. 269 (2016/341)](http://publications.europa.eu/resource/celex/32016R0341R%2802%29)
-- [►C4](http://publications.europa.eu/resource/celex/32016R0341R%2805%29) — [Rectificação, JO L 096, 5.4.2019, p. 55 (2016/341)](http://publications.europa.eu/resource/celex/32016R0341R%2805%29)
-- [►C5](http://publications.europa.eu/resource/celex/32021R1934R%2801%29) — [Rectificação, JO L 115, 13.4.2022, p. 230 (2021/1934)](http://publications.europa.eu/resource/celex/32021R1934R%2801%29)
-- [►C6](http://publications.europa.eu/resource/celex/32024R0634R%2801%29) — [Rectificação, JO L 90150, 5.3.2024, p. 1 ((UE) 2024/6342024/634)](http://publications.europa.eu/resource/celex/32024R0634R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) 2015/2446 DA COMISSÃO
 
 de 28 de julho de 2015
 

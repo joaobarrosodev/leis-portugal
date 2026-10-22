@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-08-07'
+version_history:
+  file: regulamento-ue-2016-1141.versoes.json
+  count: 6
+  source_lastmod: '2025-08-07'
+  versions:
+  - date: '2016-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-08-02'
+    amending: eu:celex:32017R1263:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1263 DA COMISSÃO de 12 de julho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita LISTA DE ESPÉCIES EXÓTICAS INVASORAS QUE SUSCITAM PREOCUPAÇÃO NA UNIÃO
+    - 'Adita Notas ao quadro:'
+    - 'Adita Coluna (i): Espécie'
+    - 'Adita Coluna (ii): Códigos NC para espécimes vivos.'
+    - 'Adita Coluna (iii): Código NC para partes que podem reproduzir-se'
+    - 'Adita Coluna (iv): Categorias de mercadorias associadas'
+  - date: '2019-08-15'
+    amending: eu:celex:32019R1262:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/1262 DA COMISSÃO de 25 de julho de 2019
+    changes:
+    - Altera LISTA DE ESPÉCIES EXÓTICAS INVASORAS QUE SUSCITAM PREOCUPAÇÃO NA UNIÃO
+    - 'Altera Coluna (ii): Códigos NC para espécimes vivos.'
+    - 'Altera Coluna (iv): Categorias de mercadorias associadas'
+    - Altera Notas
+  - date: '2022-08-02'
+    amending: eu:celex:32022R1203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1203 DA COMISSÃO de 12 de julho de 2022
+    changes:
+    - Altera LISTA DE ESPÉCIES EXÓTICAS INVASORAS QUE SUSCITAM PREOCUPAÇÃO NA UNIÃO
+    - 'Altera Coluna (ii): Códigos NC para espécimes vivos.'
+    - 'Altera Coluna (iv): Categorias de mercadorias associadas'
+    - Altera Notas
+  - date: '2024-08-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera LISTA DE ESPÉCIES EXÓTICAS INVASORAS QUE SUSCITAM PREOCUPAÇÃO NA UNIÃO
+    - 'Altera Coluna (ii): Códigos NC para espécimes vivos.'
+    - Altera Notas
+  - date: '2025-08-07'
+    amending: eu:celex:32025R1422:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1422 DA COMISSÃO de 17 de julho de 2025
+    changes:
+    - Altera LISTA DE ESPÉCIES EXÓTICAS INVASORAS QUE SUSCITAM PREOCUPAÇÃO NA UNIÃO
+    - 'Altera Coluna (ii): Códigos NC para espécimes vivos.'
+    - 'Altera Coluna (iv): Categorias de mercadorias associadas'
+    - Altera Notas
 identifiers:
   celex: 32016R1141
   eli: http://data.europa.eu/eli/reg_impl/2016/1141/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3ea68601-4984-11e6-9c64-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/ed833c97-881f-11f0-9af8-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R1141-20250807
-  retrieved_at: '2026-10-22T03:17:57Z'
+  retrieved_at: '2026-10-22T16:55:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T15:56:17.471+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:17:57Z'
-  notes: Texto consolidado 02016R1141-20250807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:24Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2016-1141.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -105,32 +159,19 @@ relationships:
   source: null
 article_structure:
   article_count: 2
-  section_count: 7
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 8
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:17:57Z'
+  checked_at: '2026-10-22T16:55:24Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2016/1141 da Comissão, de 13 de julho de 2016
-
-> 02016R1141 — PT — 07.08.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1263) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/1263 DA COMISSÃO de 12 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1263) — L 182 — 37 — 13.7.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019R1262) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1262 DA COMISSÃO de 25 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1262) — L 199 — 1 — 26.7.2019
-- [►M3](http://publications.europa.eu/resource/celex/32022R1203) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1203 DA COMISSÃO de 12 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1203) — L 186 — 10 — 13.7.2022
-- [►M4](http://publications.europa.eu/resource/celex/32025R1422) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1422 DA COMISSÃO de 17 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1422) — L 1422 — 1 — 18.7.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2016/1141 DA COMISSÃO
 
 de 13 de julho de 2016
 

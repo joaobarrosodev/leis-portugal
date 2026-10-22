@@ -37,6 +37,215 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2017-2400.versoes.json
+  count: 6
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2020-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-01'
+    amending: eu:celex:32022R1379:por
+    amending_title: REGULAMENTO (UE) 2022/1379 DA COMISSÃO de 5 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Grupos de veículos
+    - Altera Artigo 5.º — Ferramentas eletrónicas
+    - Altera Artigo 6.º — Pedido de licença para explorar a ferramenta de simulação com vista à determinação das emissões
+      de CO2 e do consumo de combustível dos veículos novos
+    - Altera Artigo 7.º — Disposições administrativas para a concessão da licença
+    - Altera Artigo 8.º — Alterações subsequentes aos processos estabelecidos para fins de determinação das emissões de CO2
+      e do consumo de combustível dos veículos
+    - Altera Artigo 9.º — Obrigação de determinar e declarar as emissões de CO2 e o consumo de combustível dos veículos novos
+    - Altera Artigo 10.º — Alterações, atualizações e anomalia das ferramentas eletrónicas
+    - Altera Artigo 11.º — Acessibilidade dos dados de entrada e das informações de saída da ferramenta de simulação
+    - Altera Artigo 12.º — Componentes, unidades técnicas e sistemas relevantes para efeitos da determinação das emissões
+      de CO2 e do consumo de combustível
+    - Altera Artigo 14.º — Valores certificados
+    - Altera Artigo 15.º — Conceito de família relativamente aos componentes, unidades técnicas e sistemas que utilizem valores
+      certificados
+    - Altera Artigo 16.º — Pedido de certificação das propriedades relacionadas com as emissões de CO2 e o consumo de combustível
+      dos componentes, unidades técnicas ou sistemas
+    - Altera Artigo 17.º — Disposições administrativas para a certificação das propriedades relacionadas com as emissões de
+      CO2 e o consumo de combustível dos componentes, unidades técnicas e sistemas
+    - Altera Artigo 18.º — Extensão para incluir um componente, uma unidade técnica ou sistema novos numa família de componente,
+      família de unidade técnica ou família de sistema
+    - Altera Responsabilidades do fabricante do veículo, da entidade homologadora e da Comissão no que se refere à conformidade
+      do funcionamento da ferramenta de simulação
+    - Altera Artigo 21.º — Medidas corretivas relativas ao funcionamento da ferramenta de simulação
+    - Altera Artigo 22.º — Responsabilidades do fabricante e da entidade homologadora no que respeita à conformidade das propriedades
+      relacionadas com as emissões de CO2 e o consumo de combustível dos componentes, unidades técnicas e sistemas
+    - Altera Artigo 23.º — Medidas corretivas relativas à conformidade das propriedades relacionadas com as emissões de CO2
+      e o consumo de combustível dos componentes, unidades técnicas e sistemas
+    - Altera Artigo 24.º — Disposições transitórias
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) n.º 582/2011
+    - Altera 1. Classificação dos veículos para efeitos do presente regulamento
+    - Altera 1. Processos a instituir pelo fabricante do veículo com vista à utilização da ferramenta de simulação
+    - Altera 2. Avaliação efetuada pela entidade homologadora
+    - Altera SECÇÃO I
+    - Altera SECÇÃO II
+    - 'Altera Formato máximo: A4 (210 × 297 mm)'
+    - Altera 2. Definições
+    - Altera 3. Conjunto de parâmetros de entrada
+    - Altera 5. Eixos hidráulicos e mecânicos
+    - Altera 3. Requisitos gerais
+    - Altera 4. Procedimento de ensaio
+    - Altera 5. Pós-tratamento dos dados de medição
+    - Altera 6. Aplicação da ferramenta de pré-tratamento do motor
+    - Altera Características essenciais do motor (precursor) e dos tipos de motor da mesma família
+    - 'Altera Notas:'
+    - Altera 5. Equipamentos acionados pelo motor
+    - Altera 6. Desempenho do motor (declarado pelo fabricante)
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) n.º 582/2011
+    - Altera 1. Classificação dos veículos para efeitos do presente regulamento
+    - Altera 2. Método para determinar as emissões de CO2 e o consumo de combustível dos autocarros pesados
+    - 'Altera Formato máximo: A4 (210 × 297 mm)'
+    - Altera 3. Conjunto de parâmetros de entrada
+    - Altera 10. VHE e VEE
+    - Altera 3. Requisitos gerais
+    - Altera 3. Determinação da resistência aerodinâmica
+    - Altera Conformidade das emissões de CO2 certificadas e das propriedades relativas ao consumo de combustível
+    - Altera CERTIFICADO RELATIVO ÀS EMISSÕES DE CO2 E ÀS PROPRIEDADES DO CONSUMO DE COMBUSTÍVEL DE UMA FAMÍLIA DE PNEUS
+    - Altera 3. Seleção de veículos
+    - Altera 4. Condições do veículo
+    - Altera 5. Equipamento de medição
+    - Altera 6. Procedimento de ensaio
+    - Altera CARACTERÍSTICAS ESSENCIAIS DO SISTEMA DE MÁQUINA ELÉTRICA (PRECURSOR) E DOS TIPOS DE SISTEMA DE MÁQUINA ELÉTRICA
+      NUMA FAMÍLIA DE SISTEMAS DE MÁQUINA ELÉTRICA
+    - Altera 1. Sistemas de máquina elétrica ou IEPC
+    - Altera 3. Sistemas de bateria ou subsistemas representativos de bateria
+    - Altera 4. Sistemas de condensador
+    - Altera Notas
+    - Adita 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/8c5b39ee-80b8-11ed-9887-01aa75ed71a1.0012.02/DOC_1#E0035))
+    - 'Adita CONFORMIDADE DA UTILIZAÇÃO DA FERRAMENTA DE SIMULAÇÃO E DAS PROPRIEDADES RELATIVAS ÀS EMISSÕES DE CO2 E AO CONSUMO
+      DE COMBUSTÍVEL DE COMPONENTES, UNIDADES TÉCNICAS E SISTEMAS: PROCEDIMENTO DO ENSAIO DE VERIFICAÇÃO'
+    - Adita 7. Avaliação do ensaio
+    - Adita 8 Apresentação de relatórios
+    - Adita Principais etapas e equações de avaliação realizadas pela ferramenta numa simulação de procedimento de ensaio
+      de verificação
+    - 'Adita PARTE A: Determinação do fator CVTP'
+    - 'Adita PARTE B: Determinação das emissões poluentes específicas da travagem'
+    - Suprime 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/4d5b7210-4434-11ed-92ed-01aa75ed71a1.0022.02/DOC_1#E0035))
+    - 'Suprime CONFORMIDADE DA FERRAMENTA DE SIMULAÇÃO E DAS EMISSÕES DE CO2 E PROPRIEDADES RELATIVAS AO CONSUMO DE COMBUSTÍVEL
+      DOS COMPONENTES, UNIDADES TÉCNICAS E SISTEMAS: PROCEDIMENTO DO ENSAIO DE VERIFICAÇÃO'
+    - Suprime 7. Ensaio de avaliação
+    - Suprime 8. Apresentação de relatórios
+  - date: '2024-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) n.º 582/2011
+    - Altera 1. Classificação dos veículos para efeitos do presente regulamento
+    - Altera 2. Método para determinar as emissões de CO2 e o consumo de combustível dos autocarros pesados
+    - 'Altera Formato máximo: A4 (210 × 297 mm)'
+    - Altera 3. Conjunto de parâmetros de entrada
+    - Altera 10. VHE e VEE
+    - Altera 3. Requisitos gerais
+    - Altera 3. Determinação da resistência aerodinâmica
+    - Altera Conformidade das emissões de CO2 certificadas e das propriedades relativas ao consumo de combustível
+    - Altera CERTIFICADO RELATIVO ÀS EMISSÕES DE CO2 E ÀS PROPRIEDADES DO CONSUMO DE COMBUSTÍVEL DE UMA FAMÍLIA DE PNEUS
+    - Altera 3. Seleção de veículos
+    - Altera 5. Equipamento de medição
+    - Altera 6. Procedimento de ensaio
+    - Altera CARACTERÍSTICAS ESSENCIAIS DO SISTEMA DE MÁQUINA ELÉTRICA (PRECURSOR) E DOS TIPOS DE SISTEMA DE MÁQUINA ELÉTRICA
+      NUMA FAMÍLIA DE SISTEMAS DE MÁQUINA ELÉTRICA
+    - Altera 1. Sistemas de máquina elétrica ou IEPC
+    - Altera 3. Sistemas de bateria ou subsistemas representativos de bateria
+    - Altera 4. Sistemas de condensador
+    - Altera Notas
+    - Adita 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/af994fd9-9e70-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0035))
+    - Suprime 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/8c5b39ee-80b8-11ed-9887-01aa75ed71a1.0012.02/DOC_1#E0035))
+  - date: '2025-03-01'
+    amending: eu:celex:32025R0258:por
+    amending_title: REGULAMENTO (UE) 2025/258 DA COMISSÃO de 7 de fevereiro de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) n.º 582/2011
+    - Altera 1. Classificação dos veículos para efeitos do presente regulamento
+    - Altera 2. Método para determinar as emissões de CO2 e o consumo de combustível dos autocarros pesados
+    - 'Altera Formato máximo: A4 (210 × 297 mm)'
+    - Altera 3. Conjunto de parâmetros de entrada
+    - Altera 10. VHE e VEE
+    - Altera 3. Requisitos gerais
+    - Altera 3. Determinação da resistência aerodinâmica
+    - Altera Conformidade das emissões de CO2 certificadas e das propriedades relativas ao consumo de combustível
+    - Altera CERTIFICADO RELATIVO ÀS EMISSÕES DE CO2 E ÀS PROPRIEDADES DO CONSUMO DE COMBUSTÍVEL DE UMA FAMÍLIA DE PNEUS
+    - Altera 3. Seleção de veículos
+    - Altera 5. Equipamento de medição
+    - Altera 6. Procedimento de ensaio
+    - Altera CARACTERÍSTICAS ESSENCIAIS DO SISTEMA DE MÁQUINA ELÉTRICA (PRECURSOR) E DOS TIPOS DE SISTEMA DE MÁQUINA ELÉTRICA
+      NUMA FAMÍLIA DE SISTEMAS DE MÁQUINA ELÉTRICA
+    - Altera Valores normalizados para SRAEE
+    - Altera 1. Sistemas de máquina elétrica ou IEPC
+    - Altera 3. Sistemas de bateria ou subsistemas representativos de bateria
+    - Altera 4. Sistemas de condensador
+    - Altera Notas
+    - Adita 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/26501331-1470-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1#E0035))
+    - Suprime 4. Combustível de ensaio utilizado ([^13^](http://publications.europa.eu/resource/cellar/af994fd9-9e70-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0035))
+  - date: '2026-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 12.º — Componentes, unidades técnicas e sistemas relevantes para efeitos da determinação das emissões
+      de CO2 e do consumo de combustível
+    - Altera Valores normalizados e valores genéricos
+    - Altera Artigo 14.º — Valores certificados
+    - Altera Artigo 15.º — Conceito de família relativamente aos componentes, unidades técnicas e sistemas que utilizem valores
+      certificados
+    - Altera Artigo 16.º — Pedido de certificação das propriedades relacionadas com as emissões de CO2 e o consumo de combustível
+      dos componentes, unidades técnicas ou sistemas
+    - Altera Artigo 17.º — Disposições administrativas para a certificação das propriedades relacionadas com as emissões de
+      CO2 e o consumo de combustível dos componentes, unidades técnicas e sistemas
+    - Altera Artigo 18.º — Extensão para incluir um componente, uma unidade técnica ou sistema novos numa família de componente,
+      família de unidade técnica ou família de sistema
+    - Altera Artigo 22.º — Responsabilidades do fabricante e da entidade homologadora no que respeita à conformidade das propriedades
+      relacionadas com as emissões de CO2 e o consumo de combustível dos componentes, unidades técnicas e sistemas
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) n.º 582/2011
+    - Altera 1. Classificação dos veículos para efeitos do presente regulamento
+    - Altera 2. Método para determinar as emissões de CO2 e o consumo de combustível dos autocarros pesados
+    - 'Altera Formato máximo: A4 (210 × 297 mm)'
+    - Altera 2. Definições
+    - Altera 3. Conjunto de parâmetros de entrada
+    - Altera Tecnologias de veículos às quais não se aplicam as obrigações estabelecidas no artigo 9.º, n.º 1, primeiro parágrafo,
+      conforme previsto nesse parágrafo
+    - Altera 3. Modelo dos ficheiros de saída
+    - Altera 3. Requisitos gerais
+    - Altera 4. Procedimento de ensaio
+    - Altera 5. Pós-tratamento dos dados de medição
+    - Altera 6. Aplicação da ferramenta de pré-tratamento do motor
+    - Altera Características essenciais do motor (precursor) e dos tipos de motor da mesma família
+    - 'Altera Notas:'
+    - Altera 1. Parâmetros que definem a família de motores CO2
+    - Altera 4. Ensaios a realizar
+    - Altera 5. Rodagem de motores recém-fabricados
+    - Altera 6. Valor-alvo para avaliação da conformidade das propriedades certificadas das emissões de CO2 e do consumo de
+      combustível
+    - Altera 7. Valor real para avaliação da conformidade das propriedades certificadas das emissões de CO2 e do consumo de
+      combustível
+    - Altera 8. Limite de conformidade de um único ensaio
+    - Altera 9. Avaliação da conformidade das propriedades certificadas das emissões de CO2 e do consumo de combustível
+    - Altera Conjunto de parâmetros de entrada
+    - Altera 3. Procedimento de ensaio para as transmissões
+    - Altera 6. Procedimento de ensaio para componentes adicionais do sistema de tração (ADC) / componente do sistema de tração
+      com uma única relação de velocidade (por exemplo, transmissão angular)
+    - Altera 7. Conformidade das emissões de CO2 certificadas e das propriedades relativas ao consumo de combustível
+    - Altera Capacidade de binário genérica
+    - Altera Razão de binário genérica
+    - Altera 4. Procedimento de ensaio para os eixos
+    - Altera 3. Determinação da resistência aerodinâmica
+    - Altera 4. Parâmetro que define a família de resistência aerodinâmica para camiões médios e pesados
+    - Altera 5. Escolha do veículo de referência para a resistência aerodinâmica de camiões médios e pesados
 identifiers:
   celex: 32017R2400
   eli: http://data.europa.eu/eli/reg/2017/2400/oj
@@ -51,7 +260,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c80c381b-ec67-11e7-9749-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/89df9629-1224-11f1-8870-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R2400-20260101
-  retrieved_at: '2026-10-22T03:18:39Z'
+  retrieved_at: '2026-10-22T17:05:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T04:01:09.430+01:00'
 integrity:
@@ -60,9 +269,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:39Z'
-  notes: Texto consolidado 02017R2400-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:21Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2017-2400.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -161,32 +370,21 @@ relationships:
   date: '2024-05-08'
 article_structure:
   article_count: 27
-  section_count: 375
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 378
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:39Z'
-  warnings: []
+  checked_at: '2026-10-22T17:05:21Z'
+  warnings:
+  - '02017R2400-20171229: versão indisponível (Sem expressão na língua por para CELEX 02017R2400-20171229.)'
+  - '02017R2400-20190301: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/2400 da Comissão, de 12 de dezembro de 2017
-
-> 02017R2400 — PT — 01.01.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0318) — [REGULAMENTO (UE) 2019/318 DA COMISSÃO de 19 de fevereiro de 2019](http://publications.europa.eu/resource/celex/32019R0318) — L 58 — 1 — 26.2.2019
-- [M2](http://publications.europa.eu/resource/celex/32020R1181) — [REGULAMENTO (UE) 2020/1181 DA COMISSÃO de 7 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1181) — L 263 — 1 — 12.8.2020
-- [►M3](http://publications.europa.eu/resource/celex/32022R1379) — [REGULAMENTO (UE) 2022/1379 DA COMISSÃO de 5 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1379) — L 212 — 1 — 12.8.2022
-- [►M4](http://publications.europa.eu/resource/celex/32025R0258) — [REGULAMENTO (UE) 2025/258 DA COMISSÃO de 7 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0258) — L 258 — 1 — 20.2.2025
-
-## REGULAMENTO (UE) 2017/2400 DA COMISSÃO
 
 de 12 de dezembro de 2017
 
@@ -8311,7 +8509,6 @@ Cd·Acr (0) CST,avg,B Valor médio dos valores da resistência aerodinâmica do 
 
 (ii) O intervalo de confiança de 95 % (CI95) da média dos dados do ensaio, Cd·Acr (0) CST,avg, deve situar-se no intervalo Cd·Acr (0) CST,avg ±2,5 %, determinado pela seguinte expressão:
 
-## ensaios t
 
 3 4,303
 

@@ -37,6 +37,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-31'
+version_history:
+  file: regulamento-ue-2017-2394.versoes.json
+  count: 5
+  source_lastmod: '2026-07-31'
+  versions:
+  - date: '2017-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: eu:celex:32018R0302:por
+    amending_title: REGULAMENTO (UE) 2018/302 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2018; DIRETIVA (UE)
+      2019/770 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019; DIRETIVA (UE) 2019/771 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Poderes mínimos das autoridades competentes
+    - Altera Artigo 42.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Diretivas e regulamentos referidos no artigo 3.º, ponto 1
+  - date: '2025-01-19'
+    amending: eu:celex:32024R3228:por
+    amending_title: REGULAMENTO (UE) 2024/3228 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Diretivas e regulamentos referidos no artigo 3.º, ponto 1
+    - Altera Notas
+  - date: '2025-09-12'
+    amending: eu:celex:32023R2854:por
+    amending_title: REGULAMENTO (UE) 2023/2854 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Diretivas e regulamentos referidos no artigo 3.º, ponto 1
+    - Altera Notas
+  - date: '2026-07-31'
+    amending: eu:celex:32024L1799:por
+    amending_title: DIRETIVA (UE) 2024/1799 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Diretivas e regulamentos referidos no artigo 3.º, ponto 1
+    - Altera Notas
 identifiers:
   celex: 32017R2394
   eli: http://data.europa.eu/eli/reg/2017/2394/oj
@@ -51,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/016d3a4e-eac2-11e7-9749-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8361e943-7fa1-11f1-bf5e-01aa75ed71a1.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R2394-20260731
-  retrieved_at: '2026-10-22T02:38:23Z'
+  retrieved_at: '2026-10-22T17:02:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T23:50:23.175+01:00'
 integrity:
@@ -60,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:23Z'
-  notes: Texto consolidado 02017R2394-20260731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:02:52Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-2394.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -256,38 +300,19 @@ relationships:
   date: '2004-12-15'
 article_structure:
   article_count: 42
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:23Z'
+  checked_at: '2026-10-22T17:02:52Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/2394 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017
-
-> 02017R2394 — PT — 31.07.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R0302) — [REGULAMENTO (UE) 2018/302 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0302) — L 60I — 1 — 2.3.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019L0770) — [DIRETIVA (UE) 2019/770 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0770) — L 136 — 1 — 22.5.2019
-- [►M3](http://publications.europa.eu/resource/celex/32019L0771) — [DIRETIVA (UE) 2019/771 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0771) — L 136 — 28 — 22.5.2019
-- [►M4](http://publications.europa.eu/resource/celex/32023R2854) — [REGULAMENTO (UE) 2023/2854 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2854) — L 2854 — 1 — 22.12.2023
-- [►M5](http://publications.europa.eu/resource/celex/32024L1799) — [DIRETIVA (UE) 2024/1799 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1799) — L 1799 — 1 — 10.7.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024R3228) — [REGULAMENTO (UE) 2024/3228 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3228) — L 3228 — 1 — 30.12.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019L0771R%2801%29) — [Rectificação, JO L 305, 26.11.2019, p. 65 (2019/771)](http://publications.europa.eu/resource/celex/32019L0771R%2801%29)
-
-## REGULAMENTO (UE) 2017/2394 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de dezembro de 2017
 

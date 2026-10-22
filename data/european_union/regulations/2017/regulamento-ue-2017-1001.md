@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-01'
+version_history:
+  file: regulamento-ue-2017-1001.versoes.json
+  count: 1
+  source_lastmod: '2025-12-01'
+  versions:
+  - date: '2025-12-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32017R1001
   eli: http://data.europa.eu/eli/reg/2017/1001/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2d2217a2-525b-11e7-a5ca-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/82eaae2f-0285-11f1-825d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1001-20251201
-  retrieved_at: '2026-10-22T02:46:01Z'
+  retrieved_at: '2026-10-22T17:00:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T00:01:20.256+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:01Z'
-  notes: Texto consolidado 02017R1001-20251201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:00:56Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2017-1001.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -352,29 +361,20 @@ relationships:
   date: '2015-12-24'
 article_structure:
   article_count: 212
-  section_count: 114
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 115
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:01Z'
-  warnings: []
+  checked_at: '2026-10-22T17:00:56Z'
+  warnings:
+  - '02017R1001-20170616: versão indisponível (Sem expressão na língua por para CELEX 02017R1001-20170616.)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/1001 do Parlamento Europeu e do Conselho, de 14 de junho de 2017
-
-> 02017R1001 — PT — 01.12.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2411) — [REGULAMENTO (UE) 2023/2411 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2411) — L 2411 — 1 — 27.10.2023
-
-## REGULAMENTO (UE) 2017/1001 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de junho de 2017
 

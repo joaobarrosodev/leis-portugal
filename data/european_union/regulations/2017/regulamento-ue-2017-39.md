@@ -36,6 +36,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-08-01'
+version_history:
+  file: regulamento-ue-2017-39.versoes.json
+  count: 6
+  source_lastmod: '2023-08-01'
+  versions:
+  - date: '2017-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-02'
+    amending: eu:celex:32019R1983:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/1983 DA COMISSÃO de 28 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Pedidos de ajuda da União apresentados pelos Estados-Membros
+    - Altera Artigo 7.º — Redistribuição da ajuda da União
+    - Altera Artigo 10.º — Controlos no local
+    - Altera Artigo 14.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2020-09-04'
+    amending: eu:celex:32020R1239:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1239 DA COMISSÃO de 17 de junho de 2020
+    changes:
+    - Altera Artigo 8.º — Acompanhamento e avaliação
+    - Altera Artigo 10.º — Controlos no local
+    - Altera Notas
+    - Adita ANEXO
+    - Adita REQUISITOS MÍNIMOS PARA O FORMATO E O CONTEÚDO DOS RELATÓRIOS DE AVALIAÇÃO PREVISTOS NO ARTIGO 8.º, N.º 2
+    - Adita 1. Resumo
+    - Adita 2. Introdução
+    - Adita 3. Metodologia
+    - Adita 4. Avaliação do funcionamento do regime de distribuição nas escolas
+    - Adita 5. Respostas às perguntas da avaliação comuns
+    - Adita 5.1. Em que medida o regime de distribuição nas escolas aumentou o consumo total de fruta, produtos hortícolas
+      e leite e produtos lácteos pelas crianças, em conformidade com as recomendações nacionais para uma dieta saudável do
+      grupo etário em questão?
+    - Adita 5.2. Até que ponto o regime de distribuição nas escolas contribuiu para a educação das crianças sobre hábitos
+      alimentares saudáveis?
+    - Adita 6. Conclusões e recomendações
+    - Adita 7. Anexos
+  - date: '2022-02-25'
+    amending: eu:celex:32022R0246:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/246 DA COMISSÃO de 13 de dezembro de 2021
+    changes:
+    - Altera Artigo 4.º — Pedidos de ajuda apresentados pelos requerentes da ajuda
+    - Altera Artigo 5.º — Pagamento da ajuda
+    - Altera Artigo 7.º — Redistribuição da ajuda da União
+    - Altera Artigo 10.º — Controlos no local
+    - Altera Notas
+  - date: '2023-01-14'
+    amending: eu:celex:32023R0102:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/102 DA COMISSÃO de 11 de janeiro de 2023
+    changes:
+    - Altera Artigo 3.º — Pedidos de ajuda da União apresentados pelos Estados-Membros
+    - Altera Artigo 7.º — Redistribuição da ajuda da União
+    - Altera Notas
+  - date: '2023-08-01'
+    amending: eu:celex:32023R1449:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1449 DA COMISSÃO de 12 de junho de 2023
+    changes:
+    - Altera Artigo 2.º — Estratégias dos Estados-Membros
+    - Altera Artigo 3.º — Pedidos de ajuda da União apresentados pelos Estados-Membros
+    - Altera Artigo 4.º — Pedidos de ajuda apresentados pelos requerentes da ajuda
+    - Altera Artigo 6.º — Transferências entre dotações
+    - Altera Artigo 7.º — Redistribuição da ajuda da União
+    - Altera Artigo 9.º — Controlos administrativos
+    - Altera Notas
+    - Adita Artigo 3.º-A — Pedidos de adiantamento da ajuda apresentados pelos requerentes da ajuda
+    - Adita Artigo 5.º — Pagamento da ajuda, incluindo o pagamento de adiantamentos da ajuda
+    - Suprime Artigo 5.º — Pagamento da ajuda
 identifiers:
   celex: 32017R0039
   eli: http://data.europa.eu/eli/reg_impl/2017/39/oj
@@ -50,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9e5b1d35-d6fd-11e6-ad7c-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/f5a08bb8-5337-11ee-9220-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0039-20230801
-  retrieved_at: '2026-10-22T02:43:27Z'
+  retrieved_at: '2026-10-22T16:57:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T17:41:43.423+01:00'
 integrity:
@@ -59,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:27Z'
-  notes: Texto consolidado 02017R0039-20230801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:57:22Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2017-39.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,33 +248,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/453ecedd-d6fe-11e6-ad7c-01aa75ed71a1
 article_structure:
   article_count: 15
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:27Z'
+  checked_at: '2026-10-22T16:57:22Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2017/39 da Comissão, de 3 de novembro de 2016
-
-> 02017R0039 — PT — 01.08.2023 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1983) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1983 DA COMISSÃO de 28 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R1983) — L 308 — 82 — 29.11.2019
-- [►M2](http://publications.europa.eu/resource/celex/32020R1239) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1239 DA COMISSÃO de 17 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1239) — L 284 — 3 — 1.9.2020
-- [►M3](http://publications.europa.eu/resource/celex/32022R0246) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/246 DA COMISSÃO de 13 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0246) — L 41 — 8 — 22.2.2022
-- [►M4](http://publications.europa.eu/resource/celex/32023R0102) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/102 DA COMISSÃO de 11 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0102) — L 12 — 1 — 13.1.2023
-- [►M5](http://publications.europa.eu/resource/celex/32023R1449) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1449 DA COMISSÃO de 12 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1449) — L 179 — 5 — 14.7.2023
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2017/39 DA COMISSÃO
 
 de 3 de novembro de 2016
 

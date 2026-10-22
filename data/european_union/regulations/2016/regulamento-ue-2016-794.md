@@ -37,6 +37,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-11'
+version_history:
+  file: regulamento-ue-2016-794.versoes.json
+  count: 2
+  source_lastmod: '2026-01-11'
+  versions:
+  - date: '2022-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-11'
+    amending: eu:celex:32021R1133:por
+    amending_title: REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021; REGULAMENTO (UE)
+      2025/2611 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Atribuições
+    - Altera Artigo 7.º — Unidades Nacionais Europol
+    - Altera Artigo 11.º — Competência do Conselho de Administração
+    - Altera Artigo 12.º — Programa de trabalho plurianual e programas de trabalho anuais
+    - Altera Artigo 18.º — Finalidades das atividades de tratamento de informações
+    - Altera Artigo 20.º — Acesso dos Estados-Membros e do pessoal da Europol às informações conservadas pela Europol
+    - Altera Artigo 25.º — Transferência de dados pessoais para países terceiros e organizações internacionais
+    - Altera Artigo 30.º — Tratamento de categorias especiais de dados pessoais e de categorias diferentes de titulares de
+      dados
+    - Altera Artigo 38.º — Responsabilidade em matéria de proteção de dados
+    - Altera Artigo 41.º-D — Formação em direitos fundamentais
+    - Altera Artigo 43.º — Supervisão pela Autoridade Europeia para a Proteção de Dados (AEPD)
+    - Altera Artigo 47.º — Direito de apresentar queixa à AEPD
+    - Altera Artigo 51.º — Controlo parlamentar conjunto
+    - Altera Artigo 52.º — Acesso do Parlamento Europeu a informações tratadas pela Europol ou por seu intermédio
+    - Altera Artigo 60.º — Apresentação das contas e quitação
+    - Altera Artigo 64.º — Regime linguístico
+    - Altera Artigo 66.º — Luta contra a fraude
+    - Altera Lista das formas de criminalidade a que se refere o artigo 3.º, n.º 1
+    - Altera Notas
+    - Adita Artigo 9.º-A — Funções e composição do Centro Europeu contra a Introdução Clandestina de Migrantes
+    - Adita Artigo 21.º
+    - Adita Acesso pela Eurojust, pelo OLAF e, unicamente para efeitos do ETIAS, pela Agência Europeia da Guarda de Fronteiras
+      e Costeira e, unicamente para efeitos do VIS, pelas autoridades designadas para o VIS às informações conservadas pela
+      Europol
+    - Suprime Artigo 21.º — Acesso da Eurojust e do OLAF às informações conservadas pela Europol
 identifiers:
   celex: 32016R0794
   eli: http://data.europa.eu/eli/reg/2016/794/oj
@@ -51,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/afbd1e10-216c-11e6-86d0-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/6ee46ceb-1cb8-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0794-20260111
-  retrieved_at: '2026-10-22T02:53:32Z'
+  retrieved_at: '2026-10-22T16:55:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-05T17:56:46.586+01:00'
 integrity:
@@ -60,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:32Z'
-  notes: Texto consolidado 02016R0794-20260111.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:55:58Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2016-794.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -310,31 +351,20 @@ relationships:
   date: '2009-12-18'
 article_structure:
   article_count: 88
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:32Z'
-  warnings: []
+  checked_at: '2026-10-22T16:55:58Z'
+  warnings:
+  - '02016R0794-20160524: versão indisponível (Sem expressão na língua por para CELEX 02016R0794-20160524.)'
   errors: []
 ---
 
 # Regulamento (UE) 2016/794 do Parlamento Europeu e do Conselho, de 11 de maio de 2016
-
-> 02016R0794 — PT — 11.01.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1133) — [REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1133) — L 248 — 1 — 13.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32022R0991) — [REGULAMENTO (UE) 2022/991 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0991) — L 169 — 1 — 27.6.2022
-- [►M3](http://publications.europa.eu/resource/celex/32025R2611) — [REGULAMENTO (UE) 2025/2611 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2611) — L 2611 — 1 — 22.12.2025
-
-## REGULAMENTO (UE) 2016/794 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de maio de 2016
 

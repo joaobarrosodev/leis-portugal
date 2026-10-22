@@ -37,6 +37,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: regulamento-ue-2016-161.versoes.json
+  count: 4
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2016-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32021R0457:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/457 DA COMISSÃO de 13 de janeiro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Composição do identificador único
+    - Altera Artigo 7.º — Formato legível por pessoas
+    - Altera Artigo 12.º — Identificadores únicos desativados
+    - Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança
+    - Altera Artigo 17.º — Identificador único equivalente
+    - Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas
+    - Altera Artigo 26.º — Derrogações ao artigo 25.º
+    - Altera Artigo 33.º — Introdução de informações no sistema de repositórios
+    - Altera Artigo 35.º — Características do sistema de repositórios
+    - Altera Artigo 39.º — Acesso pelas autoridades nacionais competentes
+    - Altera Artigo 40.º — Produtos recolhidos, retirados ou roubados
+    - Altera Artigo 42.º — Remoção de identificadores únicos do sistema de repositórios
+    - Altera Artigo 43.º — Informações a prestar pelas autoridades nacionais competentes
+    - Altera Artigo 50.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos
+      de segurança referidos no artigo 45.º, n.º 1
+    - Adita ANEXO II
+    - Adita Lista de medicamentos ou categorias de medicamentos não sujeitos a receita médica que devem ser dotados dos dispositivos
+      de segurança referidos no artigo 45.º, n.º 2
+    - Adita ANEXO III
+    - Adita ANEXO IV
+  - date: '2021-10-11'
+    amending: eu:celex:32021R1686:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1686 DA COMISSÃO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança
+    - Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas
+    - Altera Artigo 33.º — Introdução de informações no sistema de repositórios
+    - Altera Artigo 47.º — Avaliação das notificações
+    - Altera Lista de medicamentos ou categorias de medicamentos sujeitos a receita médica que não devem ser dotados dos dispositivos
+      de segurança referidos no artigo 45.º, n.º 1
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: eu:celex:32022R0315:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/315 DA COMISSÃO de 17 de dezembro de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 16.º — Verificações a efetuar antes de remover ou substituir os dispositivos de segurança
+    - Altera Artigo 20.º — Verificação da autenticidade do identificador único pelos grossistas
+    - Altera Artigo 22.º — Desativação dos identificadores únicos pelos grossistas
+    - Altera Artigo 26.º — Derrogações ao artigo 25.º
+    - Altera Artigo 32.º — Estrutura do sistema de repositórios
+    - Altera Artigo 33.º — Introdução de informações no sistema de repositórios
+    - Altera Artigo 36.º — Operações do sistema de repositórios
+    - Altera Notas
 identifiers:
   celex: 32016R0161
   eli: http://data.europa.eu/eli/reg_del/2016/161/oj
@@ -51,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/645fa920-cef8-11e5-a4b5-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/f81f868a-b51c-11ec-b6f4-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016R0161-20220101
-  retrieved_at: '2026-10-22T03:00:42Z'
+  retrieved_at: '2026-10-22T16:50:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-06T12:59:16.585+01:00'
 integrity:
@@ -60,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:42Z'
-  notes: Texto consolidado 02016R0161-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:50:29Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2016-161.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -168,35 +229,19 @@ relationships:
   date: '2023-01-26'
 article_structure:
   article_count: 50
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:42Z'
+  checked_at: '2026-10-22T16:50:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2016/161 da Comissão, de 2 de outubro de 2015
-
-> 02016R0161 — PT — 01.01.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32021R0457) — [REGULAMENTO DELEGADO (UE) 2021/457 DA COMISSÃO de 13 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0457) — L 91 — 1 — 17.3.2021
-- [►M2](http://publications.europa.eu/resource/celex/32021R1686) — [REGULAMENTO DELEGADO (UE) 2021/1686 DA COMISSÃO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1686) — L 332 — 1 — 21.9.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R0315) — [REGULAMENTO DELEGADO (UE) 2022/315 DA COMISSÃO de 17 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0315) — L 55 — 33 — 28.2.2022
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32016R0161R%2803%29) — [Rectificação, JO L 133, 24.5.2016, p. 15 (2016/161)](http://publications.europa.eu/resource/celex/32016R0161R%2803%29)
-
-## REGULAMENTO DELEGADO (UE) 2016/161 DA COMISSÃO
 
 de 2 de outubro de 2015
 

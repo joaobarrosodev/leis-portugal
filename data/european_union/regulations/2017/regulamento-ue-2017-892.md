@@ -36,6 +36,76 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-24'
+version_history:
+  file: regulamento-ue-2017-892.versoes.json
+  count: 3
+  source_lastmod: '2025-12-24'
+  versions:
+  - date: '2022-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: eu:celex:32022R2091:por
+    amending_title: M3; REGULAMENTO DE EXECUÇÃO (UE) 2022/2532 DA COMISSÃO de 1 de dezembro de 2022
+    changes:
+    - Altera Artigo 38.º — Valores forfetários de importação
+    - Altera Notas
+    - Suprime Artigo 2.º — Estratégia nacional de sustentabilidade para os programas operacionais
+    - Suprime Artigo 3.º — Quadro nacional para as ações ambientais e os investimentos elegíveis
+    - Suprime Artigo 4.º — Teor dos programas operacionais
+    - Suprime Artigo 5.º — Documentos a apresentar juntamente com o programa operacional
+    - Suprime Artigo 6.º — Prazo de apresentação
+    - Suprime Artigo 7.º — Períodos de execução dos programas operacionais
+    - Suprime Artigo 8.º — Montante aprovado da ajuda
+    - Suprime Artigo 8.º-A — Execução do aumento do limite da assistência financeira da União de 50 % para 60 %
+    - Suprime Artigo 9.º — Pedidos de ajuda
+    - Suprime Artigo 10.º — Pagamento da ajuda
+    - Suprime Artigo 11.º — Adiantamentos
+    - Suprime Artigo 12.º — Pagamentos parciais
+    - Suprime Artigo 13.º — Medidas de formação e intercâmbio de melhores práticas
+    - Suprime Artigo 14.º — Ações de promoção e comunicação
+    - Suprime Artigo 15.º — Normas de comercialização dos produtos retirados
+    - Suprime Artigo 16.º — Custos de transporte relacionados com a distribuição gratuita
+    - Suprime Artigo 17.º — Despesas de triagem e de embalagem para a distribuição gratuita
+    - Suprime Artigo 21.º — Informações e relatórios anuais de agrupamentos de produtores, organizações de produtores e associações
+      de organizações de produtores e relatórios anuais dos Estados-Membros
+    - Suprime Artigo 25.º — Aprovação dos programas operacionais e das respetivas alterações
+    - Suprime Artigo 26.º — Controlos administrativos
+    - Suprime Artigo 27.º — Controlos in loco dos pedidos de ajuda anuais
+    - Suprime Artigo 28.º — Relatórios dos controlos in loco
+    - Suprime Artigo 29.º — Controlos de primeiro nível das operações de retirada
+    - Suprime Artigo 30.º — Controlos de segundo nível das operações de retirada
+    - Suprime Artigo 31.º — Colheita em verde e não colheita
+    - Suprime Artigo 32.º — Organizações transnacionais de produtores
+    - Suprime Artigo 33.º — Associações transnacionais de organizações de produtores
+    - Suprime Artigo 34.º — Controlos
+    - Suprime Artigo 35.º — Erros manifestos
+    - Suprime ANEXO I
+    - Suprime Estrutura e teor de uma estratégia nacional de sustentabilidade para os programas operacionais a que se refere
+      o artigo 2.º
+    - Suprime 1. Duração da estratégia nacional
+    - Suprime 2. Análise da situação em termos de pontos fortes e pontos fracos, e do potencial de desenvolvimento, estratégia
+      escolhida para o efeito e justificação das prioridades definidas, em conformidade com o artigo 36.º, n.º 2, alíneas
+      a) e b), do Regulamento (UE) n.º 1308/2013
+    - Suprime 3. Objetivos dos programas operacionais e indicadores de desempenho, conforme referido no artigo 36.º, n.º 2,
+      alínea c), do Regulamento (UE) n.º 1308/2013
+    - Suprime 4. Designação das autoridades e organismos competentes
+    - Suprime 5. Descrição dos sistemas de acompanhamento e avaliação
+    - Suprime ANEXO II
+    - Suprime Relatório anual — Parte A
+  - date: '2025-12-24'
+    amending: eu:celex:32025R2185:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2185 DA COMISSÃO de 10 de setembro de 2025
+    changes:
+    - Altera Artigo 38.º — Valores forfetários de importação
+    - Altera Artigo 39.º — Imposição de um direito de importação adicional
+    - Altera Artigo 40.º — Montante do direito de importação adicional
+    - Altera Artigo 41.º — Isenções do direito de importação adicional
+    - Altera Produtos e períodos para a aplicação dos direitos de importação adicionais referidos no artigo 39.º
+    - Altera Notas
+    - Adita Artigo 23.º — Pedidos de reconhecimento
+    - Suprime Artigo 23.º — Procedimentos de apresentação de pedidos
 identifiers:
   celex: 32017R0892
   eli: http://data.europa.eu/eli/reg_impl/2017/892/oj
@@ -50,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e8da729b-410d-11e7-a9b0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/91f8f009-06d4-11f1-825d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0892-20251224
-  retrieved_at: '2026-10-22T02:46:01Z'
+  retrieved_at: '2026-10-22T16:59:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T07:09:50.057+01:00'
 integrity:
@@ -59,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:01Z'
-  notes: Texto consolidado 02017R0892-20251224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:59:57Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2017-892.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -188,37 +258,20 @@ relationships:
   date: '2022-11-17'
 article_structure:
   article_count: 11
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:01Z'
-  warnings: []
+  checked_at: '2026-10-22T16:59:57Z'
+  warnings:
+  - '02017R0892-20170525: versão indisponível (Sem expressão na língua por para CELEX 02017R0892-20170525.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2017/892 da Comissão, de 13 de março de 2017
-
-> 02017R0892 — PT — 24.12.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1146) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1146 DA COMISSÃO de 7 de junho de 2018](http://publications.europa.eu/resource/celex/32018R1146) — L 208 — 9 — 17.8.2018
-- [M2](http://publications.europa.eu/resource/celex/32022R1863) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1863 DA COMISSÃO de 5 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R1863) — L 259 — 187 — 6.10.2022
-- [M3](http://publications.europa.eu/resource/celex/32022R2091) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2091 DA COMISSÃO de 25 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R2091) — L 281 — 16 — 31.10.2022
-- [►M4](http://publications.europa.eu/resource/celex/32022R2532) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2532 DA COMISSÃO de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2532) — L 328 — 80 — 22.12.2022
-- [►M5](http://publications.europa.eu/resource/celex/32025R2185) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2185 DA COMISSÃO de 10 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R2185) — L 2185 — 1 — 4.12.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32018R1146R%2802%29) — [Rectificação, JO L 90148, 30.11.2023, p. 1 ((UE) 2018/1146)](http://publications.europa.eu/resource/celex/32018R1146R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2017/892 DA COMISSÃO
 
 de 13 de março de 2017
 

@@ -35,6 +35,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-10'
+version_history:
+  file: regulamento-ue-2017-1939.versoes.json
+  count: 2
+  source_lastmod: '2021-01-10'
+  versions:
+  - date: '2017-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-10'
+    amending: eu:celex:32020R2153:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2153 DA COMISSÃO de 14 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 30.º — Medidas de investigação e outras medidas
+    - Altera Artigo 33.º — Prisão preventiva e entrega transfronteiriça
+    - Altera Artigo 38.º — Cessão dos bens apreendidos
+    - Altera Artigo 44.º — Sistema de gestão de processos
+    - Altera Artigo 91.º — Orçamento
+    - Altera Artigo 92.º — Elaboração do orçamento
+    - Altera Artigo 107.º — Regime linguístico
+    - Altera Artigo 109.º — Transparência
+    - Altera Artigo 110.º — OLAF e Tribunal de Contas
+    - Altera Artigo 111.º — Regras em matéria de proteção de informações sensíveis não classificadas e de informações classificadas
+    - Altera Artigo 113.º — Regime geral de responsabilidade
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Categorias de titulares de dados e categorias de dados pessoais operacionais a que se refere o artigo 49.º, n.º
+      3
+    - 'Adita A. Categorias de titulares de dados cujos dados pessoais operacionais podem ser tratados no índice:'
+    - 'Adita B. Categorias de dados pessoais operacionais das categorias de titulares de dados referidas nas alíneas a) e
+      b) da secção A que podem ser tratadas no índice:'
+    - 'Adita C. Categorias de dados pessoais operacionais das categorias de titulares de dados referidas na secção A, alínea
+      c), que podem ser tratadas no índice, limitadas ao que é necessário e proporcionado para que a Procuradoria Europeia
+      desempenhe as suas funções de investigação e ação penal:'
+    - 'Adita D. Categorias de dados pessoais operacionais das categorias de titulares de dados referidas na secção A, alínea
+      d), que podem ser tratadas no índice, limitadas ao que é necessário e proporcionado para que a Procuradoria Europeia
+      desempenhe as suas funções de investigação e ação penal:'
 identifiers:
   celex: 32017R1939
   eli: http://data.europa.eu/eli/reg/2017/1939/oj
@@ -49,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e8568219-bdd0-11e7-a7f8-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/80aad8be-5fed-11eb-8146-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1939-20210110
-  retrieved_at: '2026-10-22T02:46:05Z'
+  retrieved_at: '2026-10-22T17:02:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T08:14:12.160+01:00'
 integrity:
@@ -58,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:05Z'
-  notes: Texto consolidado 02017R1939-20210110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:02:40Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2017-1939.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -389,34 +427,19 @@ relationships:
   date: '2025-04-08'
 article_structure:
   article_count: 120
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:05Z'
+  checked_at: '2026-10-22T17:02:40Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2017/1939 do Conselho, de 12 de outubro de 2017
-
-> 02017R1939 — PT — 10.01.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R2153) — [REGULAMENTO DELEGADO (UE) 2020/2153 DA COMISSÃO de 14 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R2153) — L 431 — 1 — 21.12.2020
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R1939R%2802%29) — [Rectificação, JO L 214, 16.8.2019, p. 25 (2017/1939)](http://publications.europa.eu/resource/celex/32017R1939R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32020R2153R%2801%29) — [Rectificação, JO L 433, 22.12.2020, p. 80 (2020/2153)](http://publications.europa.eu/resource/celex/32020R2153R%2801%29)
-
-## REGULAMENTO (UE) 2017/1939 DO CONSELHO
 
 de 12 de outubro de 2017
 

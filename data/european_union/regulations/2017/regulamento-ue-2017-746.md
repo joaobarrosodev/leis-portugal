@@ -47,6 +47,71 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-10'
+version_history:
+  file: regulamento-ue-2017-746.versoes.json
+  count: 5
+  source_lastmod: '2025-01-10'
+  versions:
+  - date: '2022-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-03-11'
+    amending: eu:celex:32023R0503:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/503 DA COMISSÃO de 1 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 4.º — Informação genética, aconselhamento e consentimento esclarecido
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 40.º — Monitorização e reavaliação dos organismos notificados
+    - Altera Artigo 48.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 69.º — Sistema eletrónico relativo a estudos de desempenho
+    - Altera REQUISITOS RELATIVOS AO DESEMPENHO, À CONCEÇÃO E AO FABRICO
+    - Altera AVALIAÇÃO DA DOCUMENTAÇÃO TÉCNICA
+    - Altera Notas
+  - date: '2023-03-20'
+    amending: eu:celex:32023R0607:por
+    amending_title: REGULAMENTO (UE) 2023/607 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 4.º — Informação genética, aconselhamento e consentimento esclarecido
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 48.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 69.º — Sistema eletrónico relativo a estudos de desempenho
+    - Altera Artigo 110.º — Disposições transitórias
+    - Altera Artigo 112.º — Revogação
+    - Altera REQUISITOS RELATIVOS AO DESEMPENHO, À CONCEÇÃO E AO FABRICO
+    - Altera AVALIAÇÃO DA DOCUMENTAÇÃO TÉCNICA
+    - Altera Notas
+  - date: '2024-07-09'
+    amending: eu:celex:32024R1860:por
+    amending_title: REGULAMENTO (UE) 2024/1860 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 4.º — Informação genética, aconselhamento e consentimento esclarecido
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 48.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 69.º — Sistema eletrónico relativo a estudos de desempenho
+    - Altera Artigo 74.º — Procedimento de avaliação coordenada para os estudos de desempenho
+    - Altera Artigo 110.º — Disposições transitórias
+    - Altera Artigo 112.º — Revogação
+    - Altera Artigo 113.º — Entrada em vigor e data de aplicação
+    - Altera REQUISITOS RELATIVOS AO DESEMPENHO, À CONCEÇÃO E AO FABRICO
+    - Altera AVALIAÇÃO DA DOCUMENTAÇÃO TÉCNICA
+    - Altera Notas
+  - date: '2025-01-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 4.º — Informação genética, aconselhamento e consentimento esclarecido
+    - Altera Artigo 15.º — Pessoa responsável pela observância da regulamentação
+    - Altera Artigo 48.º — Procedimentos de avaliação da conformidade
+    - Altera Artigo 69.º — Sistema eletrónico relativo a estudos de desempenho
+    - Altera REQUISITOS RELATIVOS AO DESEMPENHO, À CONCEÇÃO E AO FABRICO
+    - Altera AVALIAÇÃO DA DOCUMENTAÇÃO TÉCNICA
+    - Altera Notas
+    - Adita Artigo 10.º-A
 identifiers:
   celex: 32017R0746
   eli: http://data.europa.eu/eli/reg/2017/746/oj
@@ -61,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a536c970-315d-11e7-9412-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/bb7d3f94-cd06-11ef-be2a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R0746-20250110
-  retrieved_at: '2026-10-22T02:40:54Z'
+  retrieved_at: '2026-10-22T16:59:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-11T00:44:32.114+01:00'
 integrity:
@@ -70,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:54Z'
-  notes: Texto consolidado 02017R0746-20250110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:59:47Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-746.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -319,37 +384,20 @@ relationships:
   date: '2010-04-26'
 article_structure:
   article_count: 114
-  section_count: 109
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 110
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:54Z'
-  warnings: []
+  checked_at: '2026-10-22T16:59:47Z'
+  warnings:
+  - '02017R0746-20170505: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/746 do Parlamento Europeu e do Conselho, de 5 de abril de 2017
-
-> 02017R0746 — PT — 10.01.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0112) — [REGULAMENTO (UE) 2022/112 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0112) — L 19 — 3 — 28.1.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R0503) — [REGULAMENTO DELEGADO (UE) 2023/503 DA COMISSÃO de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32023R0503) — L 70 — 3 — 8.3.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R0607) — [REGULAMENTO (UE) 2023/607 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2023](http://publications.europa.eu/resource/celex/32023R0607) — L 80 — 24 — 20.3.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R1860) — [REGULAMENTO (UE) 2024/1860 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1860) — L 1860 — 1 — 9.7.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32017R0746R%2802%29) — [Rectificação, JO L 117, 3.5.2019, p. 11 (2017/746)](http://publications.europa.eu/resource/celex/32017R0746R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32017R0746R%2803%29) — [Rectificação, JO L 334, 27.12.2019, p. 167 (2017/746)](http://publications.europa.eu/resource/celex/32017R0746R%2803%29)
-
-## REGULAMENTO (UE) 2017/746 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de abril de 2017
 
