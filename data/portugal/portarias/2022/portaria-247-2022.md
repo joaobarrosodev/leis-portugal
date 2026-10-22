@@ -102,8 +102,7 @@ provenance:
   notes: 5 versão(ões); histórico completo em portaria-247-2022.versoes.json.
 reuse:
   status: permitted
-  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
-    (legalize.dev)
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
@@ -127,7 +126,7 @@ subjects:
 relationships:
 - type: amended_by
   target: pt:dre:1134399002:por
-  label: Última alteração registada pelo legalize-pt
+  label: Última alteração registada na importação inicial
   source: null
 - type: amended_by
   target: pt:dre:208204021:por
