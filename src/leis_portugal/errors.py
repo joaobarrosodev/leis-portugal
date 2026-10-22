@@ -23,6 +23,16 @@ class MetadataError(SourceError):
     """Metadados obrigatórios em falta ou inconsistentes na fonte."""
 
 
+class NoSourceText(MetadataError):
+    """A fonte oficial não tem o texto do documento (nem eletrónico, nem na língua pedida).
+
+    Não é um erro de acesso: voltar a tentar não muda nada até a fonte publicar o texto."""
+
+    def __init__(self, message: str, *, record_id: str | None = None) -> None:
+        super().__init__(message)
+        self.record_id = record_id
+
+
 class SkipDocument(SourceError):
     """Documento listado pela fonte mas fora do âmbito do acervo."""
 
@@ -33,3 +43,18 @@ class StorageError(LeisPortugalError):
 
 class InvalidRecord(LeisPortugalError):
     """Um registo não cumpre o esquema e não pode ser gravado."""
+
+
+def failure_reason(exc: BaseException) -> str:
+    """Motivo legível de uma falha, para as listas em `reports/`."""
+    if isinstance(exc, NoSourceText):
+        return "sem_texto_na_fonte"
+    if isinstance(exc, FetchError):
+        return "erro_de_acesso"
+    if isinstance(exc, MetadataError):
+        return "metadados_em_falta"
+    if isinstance(exc, InvalidRecord):
+        return "registo_invalido"
+    if isinstance(exc, StorageError):
+        return "armazenamento"
+    return "resposta_inesperada"

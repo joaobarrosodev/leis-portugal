@@ -105,3 +105,26 @@ def test_cellar_client_parses_sparql_rows_and_concatenates_text_items():
 
     content = client.fetch_text(Expression(uri=None, title="t", short_title=None, last_modified=None, text_items=["u/DOC_1", "u/DOC_2"], pdf_url=None))
     assert content.content == b"<html>1</html>\n<html>2</html>"
+
+
+def test_failure_reasons_are_reported_by_motivo(repo_root: Path):
+    import json
+
+    from leis_portugal.errors import FetchError, NoSourceText, failure_reason
+    from leis_portugal.infrastructure.repository import Acervo
+    from leis_portugal.services.reporting import generate_reports
+
+    assert failure_reason(NoSourceText("x")) == "sem_texto_na_fonte"
+    assert failure_reason(FetchError("x")) == "erro_de_acesso"
+    assert failure_reason(KeyError("x")) == "resposta_inesperada"
+    reports = repo_root / "reports"
+    reports.mkdir()
+    (reports / "dre_imported_failures.jsonl").write_text(
+        "".join(json.dumps(item) + "\n" for item in [
+            {"ref": "a", "motivo": "sem_texto_na_fonte"}, {"ref": "b", "motivo": "sem_texto_na_fonte"}, {"ref": "c", "motivo": "erro_de_acesso"},
+        ]),
+        encoding="utf-8",
+    )
+    generate_reports(Acervo(repo_root))
+    text = (reports / "COBERTURA.md").read_text(encoding="utf-8")
+    assert "| 3 | erro de acesso à fonte: 1; a fonte não tem o texto: 2 |" in text

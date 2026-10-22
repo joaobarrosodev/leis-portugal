@@ -21,6 +21,7 @@ SCHEMA_VERSION = "1.0"
 # o texto da importação inicial (bytes convertidos, `imported_derived_markdown`).
 _KIND_RANK = {"original": 0, "corrigendum": 0, "republication": 1, "consolidated": 2}
 IMPORTED_SCOPE = "imported_derived_markdown"
+SOURCE_GAP_PREFIX = "Fonte sem texto:"
 
 
 def utc_now() -> str:
@@ -312,6 +313,15 @@ class LegalRecord:
     def same_document(self, other_id: str | None) -> bool:
         """O mesmo documento, aceitando o formato antigo `eu:celex:<CELEX>:<língua>:original`."""
         return bool(other_id) and (other_id == self.id or other_id.startswith(self.id + ":"))
+
+    def note_source_gap(self, text: str, *, checked: str) -> bool:
+        """Regista que a fonte não tem o texto. Devolve False se a nota já existia
+        (a data da primeira verificação mantém-se, para não gerar alterações a cada recolha)."""
+        if any(note.startswith(f"{SOURCE_GAP_PREFIX} {text}") for note in self.notes):
+            return False
+        self.notes = [note for note in self.notes if not note.startswith(SOURCE_GAP_PREFIX)]
+        self.notes.append(f"{SOURCE_GAP_PREFIX} {text} (verificado em {checked}).")
+        return True
 
     def add_relationships(self, *groups: list[Relationship] | None) -> None:
         self.relationships = merge_relationships(self.relationships, *groups)

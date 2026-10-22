@@ -13,6 +13,16 @@ from leis_portugal.infrastructure.repository import Acervo
 from leis_portugal.services.validation import validate_repository
 
 
+REASON_LABELS = {
+    "sem_texto_na_fonte": "a fonte não tem o texto",
+    "erro_de_acesso": "erro de acesso à fonte",
+    "metadados_em_falta": "metadados em falta na fonte",
+    "resposta_inesperada": "resposta com formato inesperado",
+    "registo_invalido": "registo inválido",
+    "armazenamento": "erro ao gravar",
+    "fora_do_acervo": "ato fora do acervo",
+}
+
 # Acima deste número, os relatórios mostram apenas agregados (o acervo completo tem
 # centenas de milhares de registos).
 MAX_LISTED_DOCUMENTS = 500
@@ -161,11 +171,24 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
     rows = []
     for name, description in failure_files.items():
         path = coverage_dir / name
-        if path.exists():
-            count = sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
-            rows.append(f"| [{name}]({name}) | {description} | {count} |")
+        if not path.exists():
+            continue
+        entries = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+        reasons = Counter(entry.get("motivo", "sem_motivo") for entry in entries)
+        detail = "; ".join(f"{REASON_LABELS.get(reason, reason)}: {count}" for reason, count in sorted(reasons.items())) or "—"
+        rows.append(f"| [{name}]({name}) | {description} | {len(entries)} | {detail} |")
     if rows:
-        lines.extend(["", "## Falhas de recolha registadas", "", "| Ficheiro | O que contém | Registos |", "|---|---|---:|", *rows])
+        lines.extend([
+            "",
+            "## Falhas de recolha registadas",
+            "",
+            "\"A fonte não tem o texto\" não é um erro: o documento existe mas o DRE ou o EUR-Lex não publicam o texto"
+            " (em formato eletrónico ou em português). Nesses casos o próprio registo tem uma nota \"Fonte sem texto\".",
+            "",
+            "| Ficheiro | O que contém | Registos | Por motivo |",
+            "|---|---|---:|---|",
+            *rows,
+        ])
 
     lines.extend(["", "## Registos existentes", ""])
     if not coverage["documents_listed"]:

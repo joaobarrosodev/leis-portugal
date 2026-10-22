@@ -8,7 +8,7 @@ from datetime import date
 
 from leis_portugal.errors import LeisPortugalError
 from leis_portugal.infrastructure.repository import Acervo, WriteResult
-from leis_portugal.services.common import EU_POLICY, Progress, run_parallel, silent
+from leis_portugal.services.common import EU_POLICY, Progress, failure, run_parallel, silent
 from leis_portugal.sources.eurlex.source import EurLexSource
 
 
@@ -62,7 +62,7 @@ class EurLexIngestion:
             try:
                 result = self.ingest(celex, source)
             except LeisPortugalError as exc:
-                summary.failures.append({"celex": celex, "error": str(exc)})
+                summary.failures.append(failure("celex", celex, exc))
                 return f"{celex}: falha: {exc}"
             summary.results.append(result)
             return f"{celex}: {'atualizado' if result.changed else 'inalterado'}"

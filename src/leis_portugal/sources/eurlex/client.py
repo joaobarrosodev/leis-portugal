@@ -9,7 +9,7 @@ from datetime import date
 from typing import Any
 
 from leis_portugal.domain.identifiers import normalize_celex
-from leis_portugal.errors import FetchError, MetadataError
+from leis_portugal.errors import FetchError, MetadataError, NoSourceText
 from leis_portugal.infrastructure.http import HttpClient
 from leis_portugal.sources.content import SourceContent
 
@@ -129,7 +129,7 @@ SELECT ?expr ?title ?short ?modified ?mtype ?item WHERE {{
              ?item cdm:item_belongs_to_manifestation ?manifestation . }}
 }}""")
         if not rows:
-            raise MetadataError(f"Sem expressão na língua {language} para CELEX {normalized}.")
+            raise NoSourceText(f"Sem expressão na língua {language} para CELEX {normalized}.")
 
         def first(name: str) -> str | None:
             return next((row[name] for row in rows if row.get(name)), None)

@@ -38,9 +38,9 @@ from leis_portugal.domain.record import (
     utc_now,
 )
 from leis_portugal.domain.relations import eu_relationships
-from leis_portugal.errors import LeisPortugalError, SourceError
+from leis_portugal.errors import LeisPortugalError, NoSourceText
 from leis_portugal.infrastructure.repository import Acervo
-from leis_portugal.services.common import Progress, run_parallel, silent
+from leis_portugal.services.common import Progress, failure, note_source_gap, run_parallel, silent
 from leis_portugal.sources.dre.client import DreClient
 from leis_portugal.sources.dre.consolidated import (
     ARTICLE_TYPES,
@@ -136,7 +136,9 @@ def collect_history(entry: ConsolidatedEntry, client: DreClient, *, today: str |
                 ensure_ascii=False,
             ).encode("utf-8")
     if not versions:
-        raise SourceError(f"{entry.url}: texto consolidado vazio em todas as datas ({', '.join(unavailable)})")
+        raise NoSourceText(
+            f"{entry.url}: texto consolidado vazio em todas as datas ({', '.join(unavailable)})", record_id=pt_record_id(diploma["Id"])
+        )
 
     used = dict.fromkeys(key for version in versions for key in version["fragments"])
     history = {
@@ -289,10 +291,14 @@ def collect_versions(
         try:
             result = collect_history(entry, ctx.client)
             path, action = apply_history(result, acervo=acervo, dre_source=ctx.source)
+        except NoSourceText as exc:
+            note_source_gap(acervo, exc, "o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data")
+            summary.failures.append(failure("url", entry.url, exc))
+            return f"sem texto na fonte: {entry.url}"
         except (LeisPortugalError, KeyError, TypeError, ValueError) as exc:
             # KeyError/TypeError/ValueError: resposta do DRE com um formato inesperado
             # para este diploma; fica registada e a recolha continua.
-            summary.failures.append({"url": entry.url, "error": f"{type(exc).__name__}: {exc}"})
+            summary.failures.append(failure("url", entry.url, exc))
             return f"falha: {entry.url}: {exc}"
         setattr(summary, action, getattr(summary, action) + 1)
         return f"{action}: {acervo.relative(path)} ({len(result.history['versions'])} versões)"

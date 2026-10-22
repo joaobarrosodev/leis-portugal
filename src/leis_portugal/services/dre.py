@@ -10,9 +10,9 @@ from concurrent.futures import ProcessPoolExecutor
 from dataclasses import dataclass, field
 from datetime import date, timedelta
 
-from leis_portugal.errors import LeisPortugalError, SkipDocument
+from leis_portugal.errors import LeisPortugalError, NoSourceText, SkipDocument
 from leis_portugal.infrastructure.repository import PORTUGUESE_SCOPES, Acervo, WriteResult
-from leis_portugal.services.common import PORTUGUESE_POLICY, Progress, run_parallel, silent
+from leis_portugal.services.common import PORTUGUESE_POLICY, Progress, failure, note_source_gap, run_parallel, silent
 from leis_portugal.sources.dre.source import DreSource
 
 
@@ -23,6 +23,7 @@ class DreRunSummary:
     failures: list[dict[str, str]] = field(default_factory=list)
 
 
+NO_TEXT_NOTE = "o DRE não tem texto eletrónico nem PDF deste diploma; mantém-se o texto anterior"
 _IMPORTED = "source_sha256_scope: imported_derived_markdown"
 _DRE_PATH = re.compile(r"^  dre_path: '?(/dr/[^'\n]+)'?$", re.MULTILINE)
 
@@ -74,9 +75,13 @@ class DreIngestion:
             except SkipDocument as exc:
                 summary.skipped.append(str(exc))
                 return f"ignorado: {ref}"
+            except NoSourceText as exc:
+                note_source_gap(self.acervo, exc, NO_TEXT_NOTE)
+                summary.failures.append(failure("ref", ref, exc))
+                return f"sem texto na fonte: {ref}"
             except (LeisPortugalError, KeyError, TypeError, ValueError) as exc:
                 # KeyError/TypeError/ValueError: resposta com formato inesperado para este diploma.
-                summary.failures.append({"ref": ref, "error": f"{type(exc).__name__}: {exc}"})
+                summary.failures.append(failure("ref", ref, exc))
                 return f"falha: {ref}: {exc}"
             summary.documents.append(result)
             return f"{result.action}: {self.acervo.relative(result.path)}"
@@ -103,7 +108,10 @@ class DreIngestion:
                     summary.documents.append(self.ingest(ref))
                 except SkipDocument as exc:
                     summary.skipped.append(str(exc))
+                except NoSourceText as exc:
+                    note_source_gap(self.acervo, exc, NO_TEXT_NOTE)
+                    summary.failures.append(failure("ref", ref, exc))
                 except LeisPortugalError as exc:
-                    summary.failures.append({"ref": ref, "error": str(exc)})
+                    summary.failures.append(failure("ref", ref, exc))
             day += timedelta(days=1)
         return summary

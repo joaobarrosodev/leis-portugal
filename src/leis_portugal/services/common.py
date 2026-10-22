@@ -5,11 +5,14 @@ from __future__ import annotations
 import threading
 from collections.abc import Callable, Iterable
 from concurrent.futures import ThreadPoolExecutor
+from datetime import date
+from pathlib import Path
 from typing import TypeVar
 
 from leis_portugal.domain.record import LegalRecord
 from leis_portugal.domain.relations import eu_relationships
-from leis_portugal.infrastructure.repository import SavePolicy
+from leis_portugal.errors import NoSourceText, failure_reason
+from leis_portugal.infrastructure.repository import Acervo, SavePolicy
 
 
 Progress = Callable[[str], None]
@@ -65,3 +68,20 @@ def run_parallel(
         return
     with ThreadPoolExecutor(max_workers=workers) as pool:
         list(pool.map(run, items))
+
+
+def failure(key: str, value: str, exc: BaseException) -> dict[str, str]:
+    """Entrada das listas de falhas em `reports/`, com o motivo."""
+    return {key: value, "motivo": failure_reason(exc), "error": f"{type(exc).__name__}: {exc}"}
+
+
+def note_source_gap(acervo: Acervo, exc: NoSourceText, text: str, *, path: Path | None = None) -> bool:
+    """Escreve no registo (se existir) que a fonte não tem o texto."""
+    path = path or (acervo.index().get(exc.record_id) if exc.record_id else None)
+    if path is None or not path.exists():
+        return False
+    record, body = acervo.read(path)
+    if not record.note_source_gap(text, checked=date.today().isoformat()):
+        return False
+    acervo.write(record, body, path)
+    return True

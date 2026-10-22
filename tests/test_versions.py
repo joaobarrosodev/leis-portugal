@@ -168,3 +168,25 @@ def test_no_text_on_any_date_is_a_failure():
 
     with pytest.raises(SourceError, match="vazio em todas as datas"):
         collect_history(ENTRY, EmptyClient(), today="2026-10-22")
+
+
+def test_source_without_text_is_noted_on_the_record_and_reported(repo_root: Path):
+    from leis_portugal.services.versions import collect_versions
+
+    class EmptyClient(FakeClient):
+        def consolidated_snapshot(self, *args):
+            return []
+
+    record = repo_root / "data/portugal/decretos-leis/2009/decreto-lei-140-2009.md"
+    record.parent.mkdir(parents=True)
+    record.write_text(render_markdown(record_dict("pt:dre:494543:por", identifiers={"dre": "494543", "internal": "pt:dre:494543:por"}), "# x"), encoding="utf-8")
+    acervo = Acervo(repo_root)
+    summary = collect_versions(acervo, entries=[ENTRY], workers=1, client_factory=EmptyClient)
+    assert [item["motivo"] for item in summary.failures] == ["sem_texto_na_fonte"]
+    metadata, _ = read_markdown_record(record)
+    assert len(metadata["notes"]) == 1
+    assert metadata["notes"][0].startswith("Fonte sem texto: o DRE lista este diploma como consolidado")
+    # Repetir não muda a nota (nem a data da primeira verificação).
+    before = record.read_text(encoding="utf-8")
+    collect_versions(Acervo(repo_root), entries=[ENTRY], workers=1, client_factory=EmptyClient)
+    assert record.read_text(encoding="utf-8") == before

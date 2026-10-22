@@ -25,9 +25,9 @@ from leis_portugal.domain.history import HISTORY_SCHEMA, render_version, summari
 from leis_portugal.domain.identifiers import eu_record_id, normalize_celex
 from leis_portugal.domain.record import ArticleStructure, Integrity, LegalRecord, Provenance, Version, utc_now
 from leis_portugal.domain.structure import split_fragments
-from leis_portugal.errors import FetchError, LeisPortugalError, MetadataError, SkipDocument, SourceError
+from leis_portugal.errors import FetchError, LeisPortugalError, MetadataError, NoSourceText, SkipDocument
 from leis_portugal.infrastructure.repository import Acervo
-from leis_portugal.services.common import Progress, run_parallel, silent
+from leis_portugal.services.common import Progress, failure, note_source_gap, run_parallel, silent
 from leis_portugal.sources.eurlex.client import CellarClient
 from leis_portugal.sources.eurlex.xhtml import CellarXhtmlMarkdownConverter, consolidation_modifiers
 
@@ -162,7 +162,7 @@ def collect_eu_history(celex: str, client: CellarClient, *, publication_date: st
         if when <= today or not current_sha:
             current_sha = content.sha256
     if not versions:
-        raise SourceError(f"{normalized}: nenhuma versão consolidada disponível em português")
+        raise NoSourceText(f"{normalized}: nenhuma versão consolidada disponível em português", record_id=eu_record_id(normalized))
 
     used = dict.fromkeys(key for version in versions for key in version["fragments"])
     history = {
@@ -250,7 +250,7 @@ def collect_eu_versions(
     def work(celex: str, client: CellarClient) -> str:
         path = present.get(celex)
         if path is None:
-            summary.failures.append({"celex": celex, "error": "Ato não está no acervo (recolher primeiro com collect eurlex)."})
+            summary.failures.append({"celex": celex, "motivo": "fora_do_acervo", "error": "Ato não está no acervo (recolher primeiro com collect eurlex)."})
             return f"{celex}: não está no acervo"
         try:
             record: LegalRecord = acervo.read(path)[0]
@@ -259,8 +259,12 @@ def collect_eu_versions(
         except SkipDocument:
             summary.skipped += 1
             return f"{celex}: sem versões consolidadas"
+        except NoSourceText as exc:
+            note_source_gap(acervo, exc, "o EUR-Lex tem versões consolidadas deste ato, mas nenhuma em português", path=path)
+            summary.failures.append(failure("celex", celex, exc))
+            return f"{celex}: sem texto na fonte"
         except (LeisPortugalError, KeyError, TypeError, ValueError) as exc:
-            summary.failures.append({"celex": celex, "error": f"{type(exc).__name__}: {exc}"})
+            summary.failures.append(failure("celex", celex, exc))
             return f"{celex}: falha: {exc}"
         setattr(summary, action, getattr(summary, action) + 1)
         return f"{action}: {acervo.relative(path)} ({len(result.history['versions'])} versões)"

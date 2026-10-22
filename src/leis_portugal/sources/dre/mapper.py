@@ -24,7 +24,7 @@ from leis_portugal.domain.record import (
     utc_now,
 )
 from leis_portugal.domain.structure import article_structure
-from leis_portugal.errors import SkipDocument
+from leis_portugal.errors import NoSourceText, SkipDocument
 from leis_portugal.sources.content import SourceContent, SourceDocument
 from leis_portugal.sources.dre.client import ASSOCIATION_CORRECTIONS, ASSOCIATION_MODIFICATIONS, dre_id_from_ref, split_sitemap_ref
 from leis_portugal.sources.dre.constants import DRE_ATTRIBUTION, DRE_BASE_URL, DRE_LICENCE_URL, DRE_REUSE_NOTES
@@ -140,7 +140,7 @@ class DreMapper:
                 body = f"# {title}\n\n> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original]({pdf_url})"
                 warnings.append("Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.")
             else:
-                raise SkipDocument(f"{ref}: sem texto e sem PDF no DRE.")
+                raise NoSourceText(f"{ref}: sem texto e sem PDF no DRE.", record_id=pt_record_id(dre_id))
 
         relationships = [
             Relationship(type="cites", target=pt_record_id(cited))
