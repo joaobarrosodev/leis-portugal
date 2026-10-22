@@ -35,6 +35,743 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-05'
+version_history:
+  file: diretiva-ue-2009-43.versoes.json
+  count: 16
+  source_lastmod: '2026-06-05'
+  versions:
+  - date: '2009-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-14'
+    amending: eu:celex:32010L0080:por
+    amending_title: DIRECTIVA 2010/80/UE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 20.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO
+    - Adita LISTA DE PRODUTOS RELACIONADOS COM A DEFESA
+    - 'Adita ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Adita ML2Armas de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior a 12,7
+      mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML3Munições e dispositivos de ajustamento de espoletas, como se segue, e respectivos componentes especialmente
+      concebidos para o efeito:'
+    - 'Adita ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim e
+      acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML5Equipamento de direcção de tiro e equipamentos conexos de alerta e aviso, e sistemas e equipamentos de ensaio,
+      alinhamento e contramedida conexos, como se segue, especialmente concebidos para uso militar, bem como componentes e
+      acessórios especialmente concebidos para os mesmos:'
+    - 'Adita ML6Veículos terrestres e seus componentes, como se segue:'
+    - Adita Nota técnica
+    - 'Adita ML7Agentes tóxicos químicos ou biológicos, «agentes antimotim», materiais radioactivos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8«Materiais energéticos» e substâncias com eles relacionadas, a seguir indicados:'
+    - Adita Notas técnicas
+    - 'Adita ML9Navios de guerra (de superfície ou submarinos), equipamento naval especializado, acessórios, componentes e
+      outros navios de superfície, como se segue:'
+    - 'Adita ML10«Aeronaves», «veículos mais leves que o ar», aeronaves não tripuladas, motores aeronáuticos e equipamento
+      para «aeronaves», componentes e equipamentos associados, especialmente concebidos ou modificados para uso militar, como
+      se segue:'
+    - 'Adita ML11Equipamento electrónico não incluído noutros pontos da Lista Militar Comum da União Europeia, como se segue,
+      e componentes especialmente concebidos para o mesmo:'
+    - 'Adita ML12Sistemas de armas de energia cinética de alta velocidade e equipamento associado, como se segue, e componentes
+      especialmente concebidos para os mesmos:'
+    - 'Adita ML13Equipamento blindado ou de protecção, construções e seus componentes, como se segue:'
+    - Adita ML14«Equipamento especializado para treino militar» ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML15Equipamento de imagem ou de contramedidas, como se segue, especialmente concebido para uso militar e componentes
+      e acessórios especialmente concebidos para o mesmo:'
+    - Adita ML16Peças forjadas, vazadas e outros produtos inacabados cuja utilização em produtos controlados seja identificável
+      através da composição do material, da geometria ou da função e que tenham sido especialmente concebidas para os produtos
+      incluídos nos pontos ML1 a ML4, ML6, ML9, ML10, ML12 ou ML19.
+    - 'Adita ML17Equipamentos, materiais e «bibliotecas» diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML18Equipamento de produção e componentes, como se segue:'
+    - 'Adita ML19Sistemas de armas de energia dirigida, equipamento de contramedida ou materiais afins e modelos de ensaio,
+      como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML20Equipamentos criogénicos e «supercondutores» como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21«Software», como se segue:'
+    - 'Adita ML22«Tecnologia», como se segue:'
+    - Adita DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Adita ML7 «Adaptado para fins militares»
+    - Adita ML8 «Aditivos»
+    - Adita ML8, ML9 e ML10 «Aeronave»
+    - Adita ML11 «Sistemas automatizados de comando e controlo»
+    - Adita ML22 «Investigação científica fundamental»
+    - Adita ML7, ML22 «Biocatalisadores»
+    - Adita ML7, ML22 «Biopolímeros»
+    - Adita ML10 «Aeronaves civis»
+    - Adita ML21, ML22 «Desenvolvimento»
+  - date: '2012-04-13'
+    amending: eu:celex:32012L0010:por
+    amending_title: DIRETIVA 2012/10/UE DA COMISSÃO Texto relevante para efeitos do EEE de 22 de março de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera LISTA DE PRODUTOS RELACIONADOS COM A DEFESA
+    - 'Altera ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Altera ML2Armas de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior a
+      12,7 mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Altera ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim
+      e acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Altera ML6Veículos terrestres e seus componentes, como se segue:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - 'Altera ML12Sistemas de armas de energia cinética de alta velocidade e equipamento associado, como se segue, e componentes
+      especialmente concebidos para os mesmos:'
+    - 'Altera ML18Equipamento de produção e componentes, como se segue:'
+    - Altera Notas
+    - 'Adita ML3Munições e dispositivos de ajustamento de espoletas, como se segue, e respetivos componentes especialmente
+      concebidos para o efeito:'
+    - 'Adita Nota técnica:'
+    - 'Adita ML5Equipamento de direção de tiro e equipamentos conexos de alerta e aviso e sistemas e equipamentos de ensaio,
+      alinhamento e contramedida conexos, como se segue, especialmente concebidos para uso militar, bem como componentes e
+      acessórios especialmente concebidos para os mesmos:'
+    - 'Adita ML7Agentes tóxicos químicos ou biológicos, “agentes antimotim”, materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8“Materiais energéticos” e substâncias com eles relacionadas, a seguir indicados:'
+    - 'Adita ML8Navios de guerra (de superfície ou submarinos), equipamento naval especializado, acessórios, componentes e
+      outros navios de superfície, como se segue:'
+    - 'Adita ML10“Aeronaves”, “veículos mais leves que o ar”, aeronaves não tripuladas, motores aeronáuticos e equipamento
+      para “aeronaves”, componentes e equipamentos associados, especialmente concebidos ou modificados para uso militar, como
+      se segue:'
+    - Adita ML11Equipamento eletrónico não incluído noutros pontos da Lista Militar Comum da União Europeia, como se segue,
+      e componentes especialmente concebidos para o mesmo.
+    - 'Adita ML13Equipamento blindado ou de proteção, construções e seus componentes, como se segue:'
+    - Adita ML14‘Equipamento especializado para treino militar’ ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML15Equipamento de imagem ou de contramedida, como se segue, especialmente concebido para uso militar e componentes
+      e acessórios especialmente concebidos para o mesmo:'
+    - Adita ML16Peças forjadas, vazadas e outros produtos inacabados que tenham sido especificamente concebidos para os produtos
+      incluídos nos pontos ML1 a ML4, ML6, ML9, ML10, ML12 ou ML19.
+    - 'Adita ML17Equipamentos, materiais e ‘bibliotecas’ diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML19Sistemas de Armas de Energia Dirigida (DEW), equipamento de contramedida ou materiais afins e modelos de
+      ensaio, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML20Equipamentos criogénicos e “supercondutores” como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21“Software”, como se segue:'
+    - 'Adita ML22“Tecnologia” como se segue:'
+    - Adita ML7 “Adaptado para fins militares”
+    - Adita ML8 “Aditivos”
+    - Adita ML8, ML9 e ML10 “Aeronave”
+    - Adita ML11 “Sistemas automatizados de comando e controlo”
+    - Adita ML22 “Investigação científica fundamental”
+    - Adita ML7 e 22 “Biocatalisadores”
+    - Adita ML7 e 22 “Biopolímeros”
+    - Adita ML10 “Aeronaves civis”
+    - Adita ML21 e 22 “Desenvolvimento”
+    - Adita ML17 “Terminais”
+    - Adita ML4 e 8 “Materiais energéticos”
+  - date: '2013-02-20'
+    amending: eu:celex:32012L0047:por
+    amending_title: DIRETIVA 2012/47/UE DA COMISSÃO Texto relevante para efeitos do EEE de 14 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera LISTA DE PRODUTOS RELACIONADOS COM A DEFESA
+    - 'Altera ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Altera ML2Armas de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior a
+      12,7 mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Altera ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim
+      e acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Altera ML6Veículos terrestres e seus componentes, como se segue:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - 'Altera ML12Sistemas de armas de energia cinética de alta velocidade e equipamento associado, como se segue, e componentes
+      especialmente concebidos para os mesmos:'
+    - 'Altera ML13Equipamento blindado ou de proteção, construções e seus componentes, como se segue:'
+    - Altera Notas
+    - 'Adita ML5Equipamento de direção de tiro e equipamentos conexos de alerta e aviso, e sistemas e equipamentos de ensaio,
+      alinhamento e contramedida conexos, como se segue, especialmente concebidos para uso militar, bem como componentes e
+      acessórios especialmente concebidos para os mesmos:'
+    - 'Adita ML7Agentes tóxicos químicos ou biológicos, «agentes antimotim», materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8«Materiais energéticos» e substâncias com eles relacionadas, a seguir indicados:'
+    - 'Adita ML9Navios de guerra (de superfície ou submarinos), equipamento naval especializado, acessórios, componentes e
+      outros navios de superfície, como se segue:'
+    - Adita ML10«Aeronaves», «veículos mais leves que o ar», veículos aéreos não tripulados «(UAV)», motores aeronáuticos
+      e equipamento para «aeronaves», componentes e equipamentos associados, especialmente concebidos ou modificados para
+      uso militar
+    - Adita ML11Equipamento eletrónico não incluído noutros pontos da Lista Militar Comum da União Europeia, como se segue,
+      e componentes especialmente concebidos para o mesmo
+    - Adita ML14«Equipamento especializado para treino militar» ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML15Equipamento de imagem ou de contramedidas, como se segue, especialmente concebido para uso militar e componentes
+      e acessórios especialmente concebidos para o mesmo:'
+    - Adita ML16Peças forjadas, vazadas e outros produtos inacabados que tenham sido especialmente concebidos para os produtos
+      especificados nos pontos ML1 a ML4, ML6, ML9, ML10, ML12 ou ML19.
+    - 'Adita ML17Equipamentos, materiais e «bibliotecas» diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML19Sistemas de armas de energia dirigida (DEW), equipamento conexo ou de contramedidas e modelos de ensaio,
+      como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML20Equipamentos criogénicos e «supercondutores» como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21«Software», como se segue:'
+    - 'Adita ML22«Tecnologia» como se segue:'
+    - Adita ML7 «Adaptado para fins militares»
+    - Adita ML8 «Aditivos»
+    - Adita ML8, ML10 e ML14 «Aeronave»
+    - Adita ML11 «Sistemas automatizados de comando e controlo»
+    - Adita ML22 «Investigação científica fundamental»
+    - Adita ML7, 22 «Biocatalisadores»
+    - Adita ML7, 22 «Biopolímeros»
+    - Adita ML4, 10 «Aeronaves civis»
+    - Adita ML21, 22 «Desenvolvimento»
+    - Adita ML17 «Terminais»
+    - Adita ML8 «Materiais energéticos»
+    - Adita ML8, 18 «Explosivos»
+    - Adita ML7 «Vetores de expressão»
+    - Adita ML 17 «Pilha de combustível»
+  - date: '2014-03-03'
+    amending: eu:celex:32014L0018:por
+    amending_title: DIRETIVA 2014/18/UE DA COMISSÃO Texto relevante para efeitos do EEE de 29 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - 'Altera ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Altera ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim
+      e acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Altera Nota técnica:'
+    - 'Altera ML6Veículos terrestres e seus componentes, como se segue:'
+    - Altera Notas técnicas
+    - Altera Nota técnica
+    - 'Altera ML15Equipamento de imagem ou de contramedidas, como se segue, especialmente concebido para uso militar e componentes
+      e acessórios especialmente concebidos para o mesmo:'
+    - Altera Notas
+    - 'Adita ML2Armas de cano de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior
+      a 12,7 mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML7Agentes tóxicos químicos ou biológicos, “agentes antimotim”, materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8“Materiais energéticos” e substâncias com eles relacionadas, a seguir indicados:'
+    - Adita ML10“Aeronaves”, “veículos mais leves que o ar”, veículos aéreos não tripulados (“UAV”), motores aeronáuticos
+      e equipamento para “aeronaves”, componentes e equipamentos associados, especialmente concebidos ou modificados para
+      uso militar.
+    - 'Adita ML11Equipamento eletrónico, “veículos espaciais” e componentes, não incluídos noutros pontos da Lista Militar
+      Comum da União Europeia, como se segue:'
+    - Adita ML14“Equipamento especializado para treino militar” ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML17Equipamentos, materiais e “bibliotecas” diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - Adita Nota Técnica
+    - 'Adita ML20Equipamentos criogénicos e “supercondutores” como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21“Software”, como se segue:'
+    - 'Adita ML22“Tecnologia” como se segue:'
+    - Adita ML7 “Adaptado para fins militares”
+    - Adita ML8 “Aditivos”
+    - Adita ML8, 10, 14 “Aeronave”
+    - Adita ML4, 10 “Aeronaves civis”
+    - Adita ML7 “Agentes antimotim”
+    - Adita ML7, 22 “Biocatalisadores”
+    - Adita ML7, 22 “Biopolímeros”
+    - Adita ML21, 22 “Desenvolvimento”
+    - Adita ML22 “Do domínio público”
+    - Adita ML8, 18 “Explosivos”
+    - Adita ML22 “Investigação científica fundamental”
+    - Adita ML9, 19 “Laser”
+    - Adita ML8 “Materiais energéticos”
+    - Adita ML13 “Materiais fibrosos ou filamentosos”
+    - Adita ML22 “Necessário”
+    - Adita ML17 “Pilha de combustível”
+    - Adita ML8 “Precursores”
+    - Adita ML18, 21, 22 “Produção”
+    - Adita ML4, 8 “Produto(s) pirotécnico(s)”
+  - date: '2015-01-05'
+    amending: eu:celex:32014L0108:por
+    amending_title: DIRETIVA 2014/108/UE DA COMISSÃO Texto relevante para efeitos do EEE de 12 de dezembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - 'Altera ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Altera ML3Munições e dispositivos de ajustamento de espoletas, como se segue, e respetivos componentes especialmente
+      concebidos para o efeito:'
+    - 'Altera Nota técnica:'
+    - 'Altera ML6Veículos terrestres e seus componentes, como se segue:'
+    - Altera Nota técnica
+    - 'Altera ML7Agentes tóxicos químicos ou biológicos, “agentes antimotim”, materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - Altera Notas técnicas
+    - 'Altera ML12Sistemas de armas de energia cinética de alta velocidade e equipamento associado, como se segue, e componentes
+      especialmente concebidos para os mesmos:'
+    - 'Altera ML13Equipamento blindado ou de proteção, construções e seus componentes, como se segue:'
+    - 'Altera ML19Sistemas de armas de energia dirigida (DEW), equipamento conexo ou de contramedidas e modelos de ensaio,
+      como se segue, e componentes especialmente concebidos para os mesmos:'
+    - Altera Notas
+    - Adita Lista de produtos relacionados com a defesa
+    - Adita ML14Equipamento especializado para treino militar ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML17Equipamentos, materiais e «bibliotecas» diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML22“Tecnologia”, como se segue:'
+    - Adita ML7“Adaptado para fins militares”
+    - Adita ML8“Aditivos”
+    - Adita ML8, 10, 14“Aeronave”
+    - Adita ML4, 10“Aeronaves civis”
+    - Adita ML7“Agentes antimotim”
+    - Adita ML7, 22“Biocatalisadores”
+    - Adita ML7, 22“Biopolímeros”
+    - Adita ML21, 22“Desenvolvimento”
+    - Adita ML22“Do domínio público”
+    - Adita ML8, 18“Explosivos”
+    - Adita ML22“Investigação científica fundamental”
+    - Adita ML9, 19“Laser”
+    - Adita ML 8“Materiais energéticos”
+    - 'Adita ML13“Materiais fibrosos ou filamentosos”:'
+    - Adita ML22“Necessário”
+    - Adita ML 17“Pilha de combustível”
+    - Adita ML8“Precursores”
+    - Adita ML18, 21, 22“Produção”
+    - Adita ML4, 8“Produto(s) pirotécnico(s)”
+    - Adita ML8“Propergóis”
+    - Adita ML19“Qualificados para uso espacial”
+    - Adita ML17“Reator nuclear”
+    - Adita ML17“Robô”
+  - date: '2016-09-28'
+    amending: eu:celex:32016L0970:por
+    amending_title: DIRETIVA (UE) 2016/970 DA COMISSÃO Texto relevante para efeitos do EEE de 27 de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - 'Altera ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim
+      e acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Altera Nota técnica:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - 'Altera ML9Navios de guerra (de superfície ou submarinos), equipamento naval especializado, acessórios, componentes
+      e outros navios de superfície, como se segue:'
+    - 'Altera ML13Equipamento blindado ou de proteção, construções e seus componentes, como se segue:'
+    - 'Altera ML19Sistemas de armas de energia dirigida (DEW), equipamento conexo ou de contramedidas e modelos de ensaio,
+      como se segue, e componentes especialmente concebidos para os mesmos:'
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - Adita Lista de Produtos relacionados com a Defesa
+    - 'Adita ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegadas) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Adita ML2Armas de cano de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior
+      a 12,7 mm (calibre 0,50 polegadas), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML7Agentes tóxicos químicos ou biológicos, "agentes antimotim", materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8"Materiais energéticos" e substâncias com eles relacionadas, a seguir indicados:'
+    - Adita ML10"Aeronaves", "veículos mais leves que o ar", veículos aéreos não tripulados ("UAV"), motores aeronáuticos
+      e equipamento para "aeronaves", componentes e equipamentos associados, especialmente concebidos ou modificados para
+      uso militar.
+    - 'Adita ML11Equipamento eletrónico, "veículos espaciais" e componentes, não incluídos noutros pontos da Lista Militar
+      Comum da União Europeia, como se segue:'
+    - Adita ML14'Equipamento especializado para treino militar' ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML17Equipamentos, materiais e "bibliotecas" diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML18Equipamento de ''produção'' e componentes, como se segue:'
+    - 'Adita ML20Equipamentos criogénicos e "supercondutores" como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21"Software", como se segue:'
+    - 'Adita ML22"Tecnologia", como se segue:'
+    - Suprime Lista de produtos relacionados com a defesa
+    - 'Suprime ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Suprime ML2Armas de cano de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior
+      a 12,7 mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Suprime ML7Agentes tóxicos químicos ou biológicos, “agentes antimotim”, materiais radioativos, equipamento conexo,
+      componentes e materiais a seguir indicados:'
+    - 'Suprime ML8“Materiais energéticos” e substâncias com eles relacionadas, a seguir indicados:'
+    - Suprime ML10“Aeronaves”, “veículos mais leves que o ar”, veículos aéreos não tripulados (“UAV”), motores aeronáuticos
+      e equipamento para “aeronaves”, componentes e equipamentos associados, especialmente concebidos ou modificados para
+      uso militar.
+    - 'Suprime ML11Equipamento eletrónico, “veículos espaciais” e componentes, não incluídos noutros pontos da Lista Militar
+      Comum da União Europeia, como se segue:'
+    - Suprime ML14Equipamento especializado para treino militar ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Suprime ML17Equipamentos, materiais e «bibliotecas» diversos, como se segue, e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Suprime ML18Equipamento de produção e componentes, como se segue:'
+    - 'Suprime ML20Equipamentos criogénicos e “supercondutores” como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Suprime ML21“Software”, como se segue:'
+    - 'Suprime ML22“Tecnologia”, como se segue:'
+    - Suprime ML7“Adaptado para fins militares”
+    - Suprime ML8“Aditivos”
+    - Suprime ML8, 10, 14“Aeronave”
+  - date: '2017-06-22'
+    amending: eu:celex:32017L0433:por
+    amending_title: DIRETIVA (UE) 2017/433 DA COMISSÃO Texto relevante para efeitos do EEE de 7 de março de 2017
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - 'Altera Nota técnica:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - Adita Lista de produtos relacionados com a defesa
+    - Adita ML7"Adaptado para fins militares"
+    - Adita ML8"Aditivos"
+    - Adita ML8, 10, 14"Aeronave"
+    - Adita ML 10"Aeróstato"
+    - Adita ML11"Sistemas automatizados de comando e controlo"
+    - Adita ML22"Investigação científica fundamental"
+    - Adita ML7, 22"Biocatalisadores"
+    - Adita ML7, 22"Biopolímeros"
+    - Adita ML4, 10"Aeronaves civis"
+    - Adita ML 1"Armas de fogo desativadas".
+    - Adita ML21, 22"Desenvolvimento"
+    - Adita ML17"Terminais"
+    - Adita ML 8"Materiais energéticos"
+    - Adita ML8, 18"Explosivos"
+    - Adita ML7"Vetores de expressão"
+    - 'Adita ML13"Materiais fibrosos ou filamentosos":'
+    - Adita ML15"Tubos intensificadores de imagem de primeira geração"
+    - Adita ML 17"Pilhas a combustível"
+    - Adita ML22«Do domínio público»
+    - Adita ML9, 19"Laser"
+    - Adita ML 17"Biblioteca" (base de dados técnicos paramétricos)
+    - Adita ML10"Veículos mais leves do que o ar"
+    - Adita ML 21“Microprograma”
+    - Adita ML17"Reator nuclear"
+    - Adita ML8"Precursores"
+    - Adita ML18, 21, 22"Produção"
+    - Adita ML 21“Programa”
+    - Adita ML8"Propergóis"
+    - Adita ML4, 8"Produto(s) pirotécnico(s)"
+    - Adita ML22"Necessário"
+    - Adita ML7«Agentes antimotim»
+    - Adita ML17"Robot"
+    - Adita ML21"Software"
+  - date: '2018-03-05'
+    amending: eu:celex:32017L2054:por
+    amending_title: DIRETIVA (UE) 2017/2054 DA COMISSÃO Texto relevante para efeitos do EEE de 8 de novembro de 2017
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Lista de produtos relacionados com a defesa
+    - 'Altera Nota técnica:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - 'Adita ML1Armas de canos de alma lisa de calibre inferior a 20 mm, outras armas e armas automáticas de calibre igual
+      ou inferior a 12,7 mm (calibre 0,50 polegada) e acessórios, como se segue, e componentes especialmente concebidos para
+      as mesmas:'
+    - 'Adita ML2Armas de cano de alma lisa de calibre igual ou superior a 20 mm, outras armas ou armamento de calibre superior
+      a 12,7 mm (calibre 0,50 polegada), lançadores e acessórios, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML3Munições e dispositivos de ajustamento de espoletas, como se segue, e respetivos componentes especialmente
+      concebidos para o efeito:'
+    - 'Adita ML4Bombas, torpedos, foguetes, mísseis, outros artifícios explosivos e cargas explosivas e equipamento afim e
+      acessórios, como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML5Equipamento de direção de tiro e equipamentos conexos de alerta e aviso, e sistemas e equipamentos de ensaio,
+      alinhamento e contramedida conexos, como se segue, especialmente concebidos para uso militar, bem como componentes e
+      acessórios especialmente concebidos para os mesmos:'
+    - 'Adita ML6Veículos terrestres e seus componentes, como se segue:'
+    - 'Adita ML7Agentes químicos, "agentes biológicos", "agentes antimotim", materiais radioativos, equipamento conexo, componentes
+      e materiais a seguir indicados:'
+    - 'Adita ML8"Materiais energéticos" e substâncias com eles relacionadas, a seguir indicados:'
+    - 'Adita ML9Navios de guerra (de superfície ou submarinos), equipamento naval especializado, acessórios, componentes e
+      outros navios de superfície, como se segue:'
+    - 'Adita ML10"Aeronaves", "veículos mais leves que o ar", veículos aéreos não tripulados ("UAV"), motores aeronáuticos
+      e equipamento para "aeronaves", componentes e equipamentos associados, especialmente concebidos ou modificados para
+      uso militar:'
+    - 'Adita ML11Equipamento eletrónico, "veículos espaciais" e componentes, não incluídos noutros pontos da Lista Militar
+      Comum da União Europeia, como se segue:'
+    - 'Adita ML12Sistemas de armas de energia cinética de alta velocidade e equipamento associado, como se segue, e componentes
+      especialmente concebidos para os mesmos:'
+    - 'Adita ML13Equipamento blindado ou de proteção, construções e seus componentes, como se segue:'
+    - Adita ML14'Equipamento especializado para treino militar' ou para simulação de cenários militares, simuladores especialmente
+      concebidos para treino na utilização de qualquer arma de fogo especificada nos pontos ML1 ou ML2, e componentes e acessórios
+      especialmente concebidos para os mesmos.
+    - 'Adita ML15Equipamento de imagem ou de contramedidas, como se segue, especialmente concebido para uso militar e componentes
+      e acessórios especialmente concebidos para o mesmo:'
+    - Adita ML16Peças forjadas, vazadas e outros produtos inacabados que tenham sido especialmente concebidos para os produtos
+      especificados nos pontos ML1 a ML4, ML6, ML9, ML10, ML12 ou ML19.
+    - 'Adita ML17Equipamentos, materiais e "bibliotecas" diversos, como se segue, e componentes especialmente concebidos para
+      os mesmos:'
+    - 'Adita ML18Equipamento de ''produção'' e componentes, como se segue: a.'
+    - 'Adita ML19Sistemas de armas de energia dirigida (DEW), equipamento conexo ou de contramedidas e modelos de ensaio,
+      como se segue, e componentes especialmente concebidos para os mesmos:'
+    - 'Adita ML20Equipamentos criogénicos e "supercondutores" como se segue, e acessórios e componentes especialmente concebidos
+      para os mesmos:'
+    - 'Adita ML21"Software", como se segue:'
+    - 'Adita ML22"Tecnologia", como se segue:'
+    - Suprime ML7"Adaptado para fins militares"
+    - Suprime ML8"Aditivos"
+    - Suprime ML8, 10, 14"Aeronave"
+    - Suprime ML 10"Aeróstato"
+    - Suprime ML11"Sistemas automatizados de comando e controlo"
+    - Suprime ML22"Investigação científica fundamental"
+    - Suprime ML7, 22"Biocatalisadores"
+    - Suprime ML7, 22"Biopolímeros"
+    - Suprime ML4, 10"Aeronaves civis"
+    - Suprime ML 1"Armas de fogo desativadas".
+    - Suprime ML21, 22"Desenvolvimento"
+  - date: '2019-07-05'
+    amending: eu:celex:32019L0514:por
+    amending_title: DIRETIVA (UE) 2019/514 DA COMISSÃO Texto relevante para efeitos do EEE de 14 de março de 2019
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Lista de produtos relacionados com a defesa
+    - 'Altera Nota técnica:'
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - Adita ML8"Aditivos"
+    - Adita ML8, 10, 14"Aeronave"
+    - Adita ML4, 10"Aeronaves civis"
+    - Adita ML7"Agentes antimotim"
+    - Adita ML7"Agentes biológicos"
+    - Adita ML1"Arma de fogo desativada"
+    - Adita ML17"Biblioteca" (base de dados técnicos paramétricos)
+    - Adita ML7, 22"Biocatalisadores"
+    - Adita ML7"Biopolímeros"
+    - Adita ML17, 21, 22"Desenvolvimento"
+    - Adita ML 10"Dirigível"
+    - Adita ML22"Do domínio público"
+    - Adita ML8, 18"Explosivos"
+    - Adita ML22"Investigação científica fundamental"
+    - Adita ML9, 19"Laser"
+    - Adita ML 8"Materiais energéticos"
+    - 'Adita ML13"Materiais fibrosos ou filamentosos":'
+    - Adita ML21"Microprograma"
+    - Adita ML22"Necessário"
+    - Adita ML 17"Pilha de combustível"
+    - Adita ML8"Precursores"
+    - Adita ML18, 21, 22"Produção"
+    - Adita ML4, 8"Produto(s) pirotécnico(s)"
+    - Adita ML21"Programa"
+    - Adita ML8"Propergóis"
+    - Adita ML19"Qualificados para uso espacial"
+    - Adita ML17"Reator nuclear"
+    - Adita ML17"Robô"
+    - Adita ML11"Sistemas automatizados de comando e controlo"
+    - Adita ML21"Software"
+    - Adita ML20"Supercondutores"
+    - Adita ML22"Tecnologia"
+    - Adita ML17"Terminais"
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 4.º — Disposições gerais
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Nota técnica
+    - Altera Notas
+    - Adita Artigo 13.º — Alteração do anexo
+    - Adita Artigo 13.º-A — Exercício da delegação
+    - Adita Artigo 13.º-B — Procedimento de urgência
+    - Suprime Artigo 13.º — Adaptação do anexo
+    - Suprime Artigo 14.º — Procedimento de comité
+  - date: '2021-10-07'
+    amending: eu:celex:32021L1047:por
+    amending_title: DIRETIVA DELEGADA (UE) 2021/1047 DA COMISSÃO de 5 de março de 2021
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 13.º-A — Exercício da delegação
+    - Altera Lista de produtos relacionados com a defesa
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - 'Suprime Nota técnica:'
+    - Suprime Nota técnica
+    - Suprime Notas técnicas
+    - Suprime ML8"Aditivos"
+    - Suprime ML8, 10, 14"Aeronave"
+    - Suprime ML4, 10"Aeronaves civis"
+    - Suprime ML7"Agentes antimotim"
+    - Suprime ML7"Agentes biológicos"
+    - Suprime ML1"Arma de fogo desativada"
+    - Suprime ML17"Biblioteca" (base de dados técnicos paramétricos)
+    - Suprime ML7, 22"Biocatalisadores"
+    - Suprime ML7"Biopolímeros"
+    - Suprime ML17, 21, 22"Desenvolvimento"
+    - Suprime ML 10"Dirigível"
+    - Suprime ML22"Do domínio público"
+    - Suprime ML8, 18"Explosivos"
+    - Suprime ML22"Investigação científica fundamental"
+    - Suprime ML9, 19"Laser"
+    - Suprime ML 8"Materiais energéticos"
+    - 'Suprime ML13"Materiais fibrosos ou filamentosos":'
+    - Suprime ML21"Microprograma"
+    - Suprime ML22"Necessário"
+    - Suprime ML 17"Pilha de combustível"
+    - Suprime ML8"Precursores"
+    - Suprime ML18, 21, 22"Produção"
+    - Suprime ML4, 8"Produto(s) pirotécnico(s)"
+    - Suprime ML21"Programa"
+    - Suprime ML8"Propergóis"
+    - Suprime ML19"Qualificados para uso espacial"
+    - Suprime ML17"Reator nuclear"
+    - Suprime ML17"Robô"
+    - Suprime ML11"Sistemas automatizados de comando e controlo"
+    - Suprime ML21"Software"
+    - Suprime ML20"Supercondutores"
+    - Suprime ML22"Tecnologia"
+  - date: '2023-06-07'
+    amending: eu:celex:32023L0277:por
+    amending_title: DIRETIVA DELEGADA (UE) 2023/277 DA COMISSÃO de 5 de outubro de 2022
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 13.º-A — Exercício da delegação
+    - Altera Lista de produtos relacionados com a defesa
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - 'Adita Nota técnica:'
+    - Adita Notas técnicas
+    - Adita Nota técnica
+    - Adita ML8«Aditivos»
+    - Adita ML8, 10, 14«Aeronave»
+    - Adita ML11«Sistemas automatizados de comando e controlo»
+    - Adita ML22«Investigação científica fundamental»
+    - Adita ML7, 22«Biocatalisadores»
+    - Adita ML7«Agentes biológicos»
+    - Adita ML7«Biopolímeros»
+    - Adita ML4, 10«Aeronaves civis»
+    - Adita ML21«Resposta a ciberincidentes»
+    - Adita ML17 21, 22«Desenvolvimento»
+    - Adita ML21«Computador digital»
+    - Adita ML17«Terminais»
+    - Adita ML8«Materiais energéticos»
+    - Adita ML6, 13«Normas equivalentes»
+    - Adita ML8, 18«Explosivos»
+    - Adita ML7«Vetores de expressão»
+    - 'Adita ML13«Materiais fibrosos ou filamentosos»:'
+    - Adita ML15«Tubos intensificadores de imagem de primeira geração»
+    - Adita ML17«Pilha de combustível»
+    - Adita ML22«Do domínio público»
+    - Adita ML9, 19«Laser»
+    - Adita ML17«Biblioteca» (base de dados técnicos paramétricos)
+    - Adita ML10«Veículos mais leves que o ar»
+    - Adita ML17«Reatores nucleares»
+    - Adita ML8«Precursores»
+    - Adita ML 21, 22«Produção»
+    - Adita ML8«Propergóis»
+    - Adita ML4, 8«Produto(s) pirotécnico(s)»
+    - Adita ML22«Necessário»
+    - Adita ML7«Agentes antimotim»
+    - Adita ML17«Robô»
+    - Adita ML11«Sistema de navegação por satélite»
+  - date: '2024-06-07'
+    amending: eu:celex:32024L0242:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/242 DA COMISSÃO de 27 de setembro de 2023
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 13.º-A — Exercício da delegação
+    - Altera Lista de produtos relacionados com a defesa
+    - Altera Nota técnica
+    - Altera Notas técnicas
+    - Altera Notas
+    - Adita DEFINIÇÕES DOS TERMOS EMPREGADOS NA PRESENTE LISTA
+    - Adita ML8 «Aditivos»
+    - Adita ML8, 10, 14 «Aeronave»
+    - Adita ML11 «Sistemas automatizados de comando e controlo»
+    - Adita ML22 «Investigação científica fundamental»
+    - Adita ML7, 22 «Biocatalisadores»
+    - Adita ML7 «Agentes biológicos»
+    - Adita ML7 «Biopolímeros»
+    - Adita ML4, 10 «Aeronaves civis»
+    - Adita ML21 «Resposta a ciberincidentes»
+    - Adita ML17 21, 22 «Desenvolvimento»
+    - Adita ML21 «Computador digital»
+    - Adita ML17 «Terminais»
+    - Adita ML8 «Materiais energéticos»
+    - Adita ML6, 13 «Normas equivalentes»
+    - Adita ML8, 18 «Explosivos»
+    - Adita ML7 «Vetores de expressão»
+    - 'Adita ML13 «Materiais fibrosos ou filamentosos»:'
+    - Adita ML15 «Tubos intensificadores de imagem da primeira geração»
+    - Adita ML17 «Pilha de combustível»
+    - Adita ML22 «Do domínio público»
+    - Adita ML9, 19 «Laser»
+    - Adita ML17 «Biblioteca» (base de dados técnicos paramétricos)
+    - Adita ML10 «Veículos mais leves que o ar»
+    - Adita ML17 «Reatores nucleares»
+    - Adita ML8 «Precursores»
+    - Adita ML 21, 22 «Produção»
+    - Adita ML8 «Propergóis»
+    - Adita ML4, 8 «Produto(s) pirotécnico(s)»
+    - Adita ML22 «Necessário»
+    - Adita ML7 «Agentes antimotim»
+    - Adita ML17 «Robô»
+    - Adita ML11 «Sistema de navegação por satélite»
+    - Adita ML4, 11, 21 «Software»
+  - date: '2025-06-05'
+    amending: eu:celex:32025L0290:por
+    amending_title: DIRETIVA DELEGADA (UE) 2025/290 DA COMISSÃO de 4 de outubro de 2024
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 13.º-A — Exercício da delegação
+    - Altera Lista de produtos relacionados com a defesa
+    - Altera Notas
+    - Adita DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Suprime DEFINIÇÕES DOS TERMOS EMPREGADOS NA PRESENTE LISTA
+    - Suprime ML8 «Aditivos»
+    - Suprime ML8, 10, 14 «Aeronave»
+    - Suprime ML11 «Sistemas automatizados de comando e controlo»
+    - Suprime ML22 «Investigação científica fundamental»
+    - Suprime ML7, 22 «Biocatalisadores»
+    - Suprime Nota técnica
+    - Suprime ML7 «Agentes biológicos»
+    - Suprime ML7 «Biopolímeros»
+    - Suprime Notas técnicas
+    - Suprime ML4, 10 «Aeronaves civis»
+    - Suprime ML21 «Resposta a ciberincidentes»
+    - Suprime ML17 21, 22 «Desenvolvimento»
+    - Suprime ML21 «Computador digital»
+    - Suprime ML17 «Terminais»
+    - Suprime ML8 «Materiais energéticos»
+    - Suprime ML6, 13 «Normas equivalentes»
+    - Suprime ML8, 18 «Explosivos»
+    - Suprime ML7 «Vetores de expressão»
+    - 'Suprime ML13 «Materiais fibrosos ou filamentosos»:'
+    - Suprime ML15 «Tubos intensificadores de imagem da primeira geração»
+    - Suprime ML17 «Pilha de combustível»
+    - Suprime ML22 «Do domínio público»
+    - Suprime ML9, 19 «Laser»
+    - Suprime ML17 «Biblioteca» (base de dados técnicos paramétricos)
+    - Suprime ML10 «Veículos mais leves que o ar»
+    - Suprime ML17 «Reatores nucleares»
+    - Suprime ML8 «Precursores»
+    - Suprime ML 21, 22 «Produção»
+    - Suprime ML8 «Propergóis»
+    - Suprime ML4, 8 «Produto(s) pirotécnico(s)»
+    - Suprime ML22 «Necessário»
+    - Suprime ML7 «Agentes antimotim»
+    - Suprime ML17 «Robô»
+    - Suprime ML11 «Sistema de navegação por satélite»
+  - date: '2026-06-05'
+    amending: eu:celex:32026L0325:por
+    amending_title: DIRETIVA DELEGADA (UE) 2026/325 DA COMISSÃO de 27 de outubro de 2025
+    changes:
+    - Altera Artigo 11.º — Formalidades aduaneiras
+    - Altera Artigo 13.º-A — Exercício da delegação
+    - Altera ANEXO
+    - Altera DEFINIÇÕES DOS TERMOS EMPREGUES NA PRESENTE LISTA
+    - Altera Notas
+    - Suprime Lista de produtos relacionados com a defesa
 identifiers:
   celex: 32009L0043
   eli: http://data.europa.eu/eli/dir/2009/43/oj
@@ -49,7 +786,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9f2740e9-3452-41e7-90ce-97ef756b0fc0.0018
   content_url: http://publications.europa.eu/resource/cellar/dc126382-5eb5-11f1-aa6d-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0043-20260605
-  retrieved_at: '2026-10-22T02:36:42Z'
+  retrieved_at: '2026-10-22T15:37:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T07:08:09.114+02:00'
 integrity:
@@ -58,9 +795,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:42Z'
-  notes: Texto consolidado 02009L0043-20260605.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:37:19Z'
+  notes: 16 versão(ões); histórico completo em diretiva-ue-2009-43.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -271,47 +1008,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/4c74b1ab-9594-4cfa-b1f8-d81469689065
 article_structure:
   article_count: 21
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:42Z'
+  checked_at: '2026-10-22T15:37:19Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/43/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
-
-> 02009L0043 — PT — 05.06.2026 — 015.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010L0080) — [DIRECTIVA 2010/80/UE DA COMISSÃO de 22 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0080) — L 308 — 11 — 24.11.2010
-- [M2](http://publications.europa.eu/resource/celex/32012L0010) — [DIRETIVA 2012/10/UE DA COMISSÃO de 22 de março de 2012](http://publications.europa.eu/resource/celex/32012L0010) — L 85 — 3 — 24.3.2012
-- [M3](http://publications.europa.eu/resource/celex/32012L0047) — [DIRETIVA 2012/47/UE DA COMISSÃO de 14 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012L0047) — L 31 — 43 — 31.1.2013
-- [M4](http://publications.europa.eu/resource/celex/32014L0018) — [DIRETIVA 2014/18/UE DA COMISSÃO de 29 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014L0018) — L 40 — 20 — 11.2.2014
-- [M5](http://publications.europa.eu/resource/celex/32014L0108) — [DIRETIVA 2014/108/UE DA COMISSÃO de 12 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0108) — L 359 — 117 — 16.12.2014
-- [M6](http://publications.europa.eu/resource/celex/32016L0970) — [DIRETIVA (UE) 2016/970 DA COMISSÃO de 27 de maio de 2016](http://publications.europa.eu/resource/celex/32016L0970) — L 163 — 1 — 21.6.2016
-- [M7](http://publications.europa.eu/resource/celex/32017L0433) — [DIRETIVA (UE) 2017/433 DA COMISSÃO de 7 de março de 2017](http://publications.europa.eu/resource/celex/32017L0433) — L 70 — 1 — 15.3.2017
-- [M8](http://publications.europa.eu/resource/celex/32017L2054) — [DIRETIVA (UE) 2017/2054 DA COMISSÃO de 8 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2054) — L 311 — 1 — 25.11.2017
-- [M9](http://publications.europa.eu/resource/celex/32019L0514) — [DIRETIVA (UE) 2019/514 DA COMISSÃO de 14 de março de 2019](http://publications.europa.eu/resource/celex/32019L0514) — L 89 — 1 — 29.3.2019
-- [►M10](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-- [M11](http://publications.europa.eu/resource/celex/32021L1047) — [DIRETIVA DELEGADA (UE) 2021/1047 DA COMISSÃO de 5 de março de 2021](http://publications.europa.eu/resource/celex/32021L1047) — L 225 — 69 — 25.6.2021
-- [M12](http://publications.europa.eu/resource/celex/32023L0277) — [DIRETIVA DELEGADA (UE) 2023/277 DA COMISSÃO de 5 de outubro de 2022](http://publications.europa.eu/resource/celex/32023L0277) — L 42 — 1 — 10.2.2023
-- [M13](http://publications.europa.eu/resource/celex/32024L0242) — [DIRETIVA DELEGADA (UE) 2024/242 DA COMISSÃO de 27 de setembro de 2023](http://publications.europa.eu/resource/celex/32024L0242) — L 242 — 1 — 17.1.2024
-- [M14](http://publications.europa.eu/resource/celex/32025L0290) — [DIRETIVA DELEGADA (UE) 2025/290 DA COMISSÃO de 4 de outubro de 2024](http://publications.europa.eu/resource/celex/32025L0290) — L 290 — 1 — 21.2.2025
-- [►M15](http://publications.europa.eu/resource/celex/32026L0325) — [DIRETIVA DELEGADA (UE) 2026/325 DA COMISSÃO de 27 de outubro de 2025](http://publications.europa.eu/resource/celex/32026L0325) — L 325 — 1 — 18.2.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-
-## DIRECTIVA 2009/43/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Maio de 2009
 
