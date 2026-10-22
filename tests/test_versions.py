@@ -108,7 +108,7 @@ def test_apply_history_updates_record_and_writes_versions(repo_root: Path):
         publication_date="2009-06-15",
         identifiers={"dre": "494543", "dre_path": "/dr/detalhe/decreto-lei/140-2009-494543", "eli": None},
         version={"kind": "consolidated", "label": "x", "language": "por", "consolidation_date": "2024-11-22"},
-        source={"id": "legalize-pt", "name": "legalize-pt", "official_url": "https://diariodarepublica.pt/x", "retrieved_at": "2026-10-21T00:00:00Z", "retrieval_method": "x"},
+        source={"id": "dre", "name": "Diário da República Eletrónico", "official_url": "https://diariodarepublica.pt/x", "retrieved_at": "2026-10-21T00:00:00Z", "retrieval_method": "x"},
         integrity={"source_sha256": "0" * 64, "source_sha256_scope": "imported_derived_markdown"},
         subjects=["Património Cultural"],
         relationships=[{"type": "cites", "target": "eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre", "label": None}],

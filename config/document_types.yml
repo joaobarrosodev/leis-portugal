@@ -19,7 +19,7 @@ jurisdictions:
       path: european_union/treaties
   # Tipos canónicos do Diário da República. `path` é relativo a data/portugal/
   # ou a data/regional/<territorio>/. `aliases` cobre as grafias usadas pelo DRE
-  # (segmento de tipo do LinkSitemap) e pelo legalize-pt (`rank`).
+  # (segmento de tipo do LinkSitemap), incluindo grafias antigas.
   portugal:
     lei-constitucional:
       label_pt: Lei Constitucional

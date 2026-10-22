@@ -121,6 +121,17 @@ class Acervo:
             raise StorageError(f"Colisão de caminho: {alternative} já contém {occupant}")
         return alternative
 
+    def locate(self, record: LegalRecord) -> Path:
+        """Onde gravar um registo: o ficheiro onde já está (mesmo que o caminho canónico
+        tenha mudado, p. ex. numeração escrita de outra forma) ou um caminho novo."""
+        preferred = self.path_for(record)
+        if preferred.exists() and record.same_document(read_record_id(preferred)):
+            return preferred
+        known = self.index().get(record.id)
+        if known is not None and known.exists():
+            return known
+        return self.resolve_target(record)
+
     def history_path(self, record_path: Path) -> Path:
         return record_path.with_name(record_path.stem + HISTORY_SUFFIX)
 
@@ -194,7 +205,7 @@ class Acervo:
         """Grava um registo, juntando-o com o que já existe no mesmo caminho."""
         record.add_relationships()
         self.validate(record)
-        target = target or self.resolve_target(record)
+        target = target or self.locate(record)
 
         action = "written"
         if target.exists():

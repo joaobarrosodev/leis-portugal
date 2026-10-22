@@ -6,7 +6,7 @@ import sys
 from datetime import date
 
 from leis_portugal.cli.output import acervo, progress, write_failures
-from leis_portugal.services.dre import DreIngestion
+from leis_portugal.services.dre import DreIngestion, imported_references
 from leis_portugal.services.eu_versions import collect_eu_versions
 from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.services.linking import missing_referenced_acts, scan_portuguese_references
@@ -23,9 +23,12 @@ def register(commands) -> None:
     target.add_argument("--date", type=date.fromisoformat, help="Data de publicação (AAAA-MM-DD).")
     target.add_argument("--from", dest="date_from", type=date.fromisoformat, help="Início do intervalo (AAAA-MM-DD); usar com --to.")
     target.add_argument("--ref", help="Caminho DRE de um diploma, por exemplo /dr/detalhe/lei/29-2026-1135578391.")
+    target.add_argument("--imported", action="store_true", help="Recolher de novo do DRE os registos que ainda têm o texto da importação inicial.")
     dre.add_argument("--to", dest="date_to", type=date.fromisoformat, help="Fim do intervalo (inclusive; por omissão: hoje).")
     dre.add_argument("--no-relations", action="store_true", help="Não recolher alterações e retificações (análise jurídica).")
     dre.add_argument("--no-subjects", action="store_true", help="Não recolher os descritores temáticos.")
+    dre.add_argument("--workers", type=int, default=1, help="Com --imported: sessões DRE em paralelo (por omissão: 1).")
+    dre.add_argument("--limit", type=int, default=None, help="Com --imported: recolher no máximo N diplomas.")
     dre.set_defaults(handler=collect_dre)
 
     eurlex = sources.add_parser("eurlex", help="Recolher atos da UE via EUR-Lex/CELLAR.")
@@ -69,6 +72,14 @@ def collect_dre(args) -> int:
         result = service.ingest(args.ref)
         print(f"{result.action}: {repository.relative(result.path)}")
         return 0
+    if args.imported:
+        refs = imported_references(repository)
+        progress(f"{len(refs)} registo(s) com o texto da importação inicial")
+        summary = service.ingest_many(refs[: args.limit] if args.limit else refs, workers=args.workers, progress=progress)
+        write_failures(repository.root / "reports" / "dre_imported_failures.jsonl", summary.failures)
+        changed = sum(1 for result in summary.documents if result.changed)
+        print(f"Diplomas: {len(summary.documents)}; atualizados: {changed}; ignorados: {len(summary.skipped)}; falhas: {len(summary.failures)}")
+        return 1 if summary.failures and not summary.documents else 0
     start = args.date or args.date_from
     summary = service.ingest_dates(start, args.date or args.date_to or date.today(), progress=progress)
     for result in summary.documents:

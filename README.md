@@ -172,7 +172,6 @@ services/        casos de uso: recolher (DRE, EUR-Lex, histórico consolidado), 
 sources/         uma pasta por fonte, separando transporte (client.py) e conversão para o modelo (mapper.py)
   dre/           cliente OutSystems, mapeamento, HTML -> Markdown, fragmentos consolidados
   eurlex/        cliente CELLAR (SPARQL), mapeamento, XHTML -> Markdown
-  legalize/      importação inicial: leitura de um clone local do legalize-pt (não é uma fonte)
 infrastructure/  HTTP comum (espera e novas tentativas), Markdown/YAML, esquemas, configuração e o repositório `Acervo`
 domain/          modelo tipado `LegalRecord`, formato do histórico de versões, identificadores, tipos de diploma, relações; sem rede nem ficheiros
 ```
@@ -230,7 +229,7 @@ article_structure: {article_count: 43, section_count: 6}
 ### Regras para os metadados
 
 - `id`: `pt:dre:<id DRE>:por` para diplomas portugueses e `eu:celex:<CELEX>:por` para atos da UE, ambos estáveis entre versões.
-- `document_type`: vocabulário controlado em `config/document_types.yml`; as grafias do DRE e do legalize-pt (`declaracao-rectificacao`, `…-extracto`, …) são normalizadas.
+- `document_type`: vocabulário controlado em `config/document_types.yml`; as grafias do DRE, incluindo as antigas (`declaracao-rectificacao`, `…-extracto`, …), são normalizadas.
 - `jurisdiction` e `territory`: `regional` com `acores`/`madeira` para legislação das regiões autónomas.
 - `publication`: jornal oficial, número, série, suplemento, páginas e PDF oficial.
 - `version.kind`: `original` (texto publicado) ou `consolidated` (consolidação do DRE, com `consolidation_date`).
@@ -411,7 +410,7 @@ ruff check src tests
 python -m pytest --cov=leis_portugal
 ```
 
-Os testes não acedem à rede: o DRE, o CELLAR e o legalize-pt são simulados com respostas gravadas. O workflow [`testes.yml`](.github/workflows/testes.yml) corre o lint e os testes em cada push e pull request, com cobertura mínima de 85%.
+Os testes não acedem à rede: o DRE e o CELLAR são simulados com respostas gravadas. O workflow [`testes.yml`](.github/workflows/testes.yml) corre o lint e os testes em cada push e pull request, com cobertura mínima de 85%.
 
 ### Executar os processos de recolha
 
@@ -489,11 +488,7 @@ leis-portugal link
 
 #### Importação inicial
 
-O acervo arrancou com o texto do DRE já convertido pelo projeto [legalize-pt](https://github.com/legalize-dev/legalize-pt), para não ter de recolher ~172 mil diplomas um a um. O legalize-pt **não é uma fonte**: a fonte desses registos é o DRE, e a importação fica registada só em `provenance` e em `integrity.source_sha256_scope: imported_derived_markdown`. Sempre que um diploma é recolhido diretamente do DRE, o texto importado é substituído; o contrário nunca acontece. O comando fica disponível para refazer o arranque a partir de um clone local:
-
-```bash
-leis-portugal import legalize --path ../legalize-pt
-```
+Parte dos diplomas ainda tem o texto da importação inicial do acervo (texto do DRE já convertido para Markdown). Esses registos estão marcados com `integrity.source_sha256_scope: imported_derived_markdown` e são substituídos pela recolha direta sempre que o diploma é recolhido de novo do DRE; o contrário nunca acontece. Os relatórios mostram quantos registos estão em cada situação ("Origem do texto").
 
 Validar e gerar relatórios:
 

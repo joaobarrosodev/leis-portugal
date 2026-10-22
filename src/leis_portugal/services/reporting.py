@@ -108,7 +108,7 @@ def build_source_status(acervo: Acervo, records: list[dict[str, Any]] | None = N
     return {"generated_at": _today(), "sources": sources}
 
 
-def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any]) -> str:
+def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], coverage_dir: Path) -> str:
     lines = [
         "# Cobertura do acervo",
         "",
@@ -151,6 +151,21 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any]) 
     counter_table("Por estado de vigência", "Estado", coverage["by_legal_status"])
     counter_table("Relações registadas", "Relação", coverage["relationships_by_type"], unit="Relações")
     counter_table("Por ano de publicação", "Ano", coverage["by_year"])
+
+    failure_files = {
+        "dre_consolidated_failures.jsonl": "Diplomas sem texto consolidado no DRE (histórico de versões)",
+        "dre_imported_failures.jsonl": "Diplomas da importação inicial que não foi possível recolher do DRE",
+        "eurlex_referenced_failures.jsonl": "Atos da UE referidos pela legislação portuguesa sem versão portuguesa no CELLAR",
+        "eurlex_consolidated_failures.jsonl": "Atos da UE com consolidações mas sem versão consolidada em português",
+    }
+    rows = []
+    for name, description in failure_files.items():
+        path = coverage_dir / name
+        if path.exists():
+            count = sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+            rows.append(f"| [{name}]({name}) | {description} | {count} |")
+    if rows:
+        lines.extend(["", "## Falhas de recolha registadas", "", "| Ficheiro | O que contém | Registos |", "|---|---|---:|", *rows])
 
     lines.extend(["", "## Registos existentes", ""])
     if not coverage["documents_listed"]:
@@ -244,7 +259,7 @@ def generate_reports(acervo: Acervo, *, output_dir: str | Path | None = None) ->
         "source_status_json": reports_dir / "source_status.json",
         "failures_jsonl": reports_dir / "failures.jsonl",
     }
-    outputs["coverage_markdown"].write_text(_coverage_markdown(coverage, source_status), encoding="utf-8", newline="\n")
+    outputs["coverage_markdown"].write_text(_coverage_markdown(coverage, source_status, reports_dir), encoding="utf-8", newline="\n")
     outputs["progress_markdown"].write_text(_progress_markdown(coverage, source_status), encoding="utf-8", newline="\n")
     outputs["coverage_json"].write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     outputs["source_status_json"].write_text(json.dumps(source_status, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")

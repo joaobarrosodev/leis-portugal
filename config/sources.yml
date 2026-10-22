@@ -39,7 +39,7 @@ sources:
       reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
       summary: "Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos (Lei n.º 68/2021). Atribuição ao DRE/INCM preservada em cada registo."
     limits:
-      known: "Não existe API pública documentada: são usados os endpoints internos da aplicação web, que podem mudar sem aviso em cada deploy do DRE. O acervo arrancou com uma importação inicial do texto do DRE (já convertido pelo projeto legalize-pt), substituída pela recolha direta diploma a diploma. O catálogo do Jornal Oficial dos Açores fica fora do âmbito."
+      known: "Não existe API pública documentada: são usados os endpoints internos da aplicação web, que podem mudar sem aviso em cada deploy do DRE. Parte do acervo ainda tem o texto da importação inicial (texto do DRE já convertido), substituído pela recolha direta diploma a diploma. O catálogo do Jornal Oficial dos Açores fica fora do âmbito."
       rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
   - id: parlamento
     name: Assembleia da República

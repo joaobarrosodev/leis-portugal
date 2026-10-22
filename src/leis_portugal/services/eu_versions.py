@@ -78,6 +78,17 @@ def _normalized(text: str) -> str:
     return re.sub(r"[\W_]+", "", text.replace("º", "o").replace("ª", "a")).lower()
 
 
+def _act_id(celex: str) -> str | None:
+    """Id do ato modificador; o EUR-Lex tem ligações com CELEX mal escritos (p. ex.
+    `397L0062`): nesse caso o ato fica registado só com o título."""
+    if not celex.startswith("3"):
+        return None
+    try:
+        return eu_record_id(celex)
+    except ValueError:
+        return None
+
+
 def _changes(previous: dict[str, str], current: dict[str, str]) -> list[str]:
     """Modificações entre duas versões, por cabeçalho: Adita / Altera / Suprime."""
     changes = [f"Altera {heading}" for heading, key in current.items() if heading in previous and previous[heading] != key]
@@ -128,7 +139,7 @@ def collect_eu_history(celex: str, client: CellarClient, *, publication_date: st
             headings.setdefault(fragment["fragment_id"], _normalized(fragment["markdown"]))
         modifiers = consolidation_modifiers(content.content)
         new_acts = [
-            {"id": eu_record_id(item_celex) if item_celex.startswith("3") else None, "title": title, "published": None, "celex": item_celex}
+            {"id": _act_id(item_celex), "title": title, "published": None, "celex": item_celex}
             for item_celex, title in modifiers
             if item_celex not in previous_modifiers
         ]

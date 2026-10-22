@@ -19,12 +19,15 @@ def run(root: Path, *args: str) -> int:
     return main(["--root", str(root), *args])
 
 
-def test_import_link_validate_report(repo_root: Path, legalize_repo: Path, capsys):
-    # A fixture tem um ficheiro sem dre_id: a importação regista-o e termina com código 1.
-    assert run(repo_root, "import", "legalize", "--path", str(legalize_repo), "--workers", "1") == 1
-    failures = (repo_root / "reports/import_legalize_failures.jsonl").read_text(encoding="utf-8").splitlines()
-    assert [json.loads(line)["path"] for line in failures] == ["pt/2009/DRE-2009-x-1.md"]
-
+def test_link_validate_report(repo_root: Path, capsys):
+    citing = repo_root / "data/portugal/decretos-leis/2009/decreto-lei-140-2009.md"
+    citing.parent.mkdir(parents=True)
+    citing.write_text(render_markdown(record_dict("pt:dre:494543:por", relationships=[
+        {"type": "cites", "target": "celex:32016L0798", "label": None, "source": None},
+    ]), "# Decreto-Lei"), encoding="utf-8")
+    regional = repo_root / "data/regional/madeira/decretos-regulamentares-regionais/2020/decreto-regulamentar-regional-1-2020-m.md"
+    regional.parent.mkdir(parents=True)
+    regional.write_text(render_markdown(record_dict("pt:dre:127657050:por", jurisdiction="regional", territory="madeira"), "# Regional"), encoding="utf-8")
     eu = repo_root / "data/european_union/directives/2016/diretiva-ue-2016-798.md"
     eu.parent.mkdir(parents=True)
     eu.write_text(render_markdown(record_dict("eu:celex:32016L0798:por", identifiers={"celex": "32016L0798"}), "# Diretiva"), encoding="utf-8")
@@ -37,8 +40,8 @@ def test_import_link_validate_report(repo_root: Path, legalize_repo: Path, capsy
     assert run(repo_root, "validate") == 0
     assert run(repo_root, "reports") == 0
     coverage = json.loads((repo_root / "reports/coverage.json").read_text(encoding="utf-8"))
-    assert coverage["totals"]["documents"] == 6
-    assert coverage["by_jurisdiction"] == {"european_union": 1, "portugal": 4, "regional": 1}
+    assert coverage["totals"]["documents"] == 3
+    assert coverage["by_jurisdiction"] == {"european_union": 1, "portugal": 1, "regional": 1}
     assert (repo_root / "reports/failures.jsonl").read_text(encoding="utf-8") == ""
 
 

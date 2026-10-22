@@ -23,7 +23,7 @@ class DocumentType:
 
 
 class DocumentTypeRegistry:
-    """Normaliza os tipos do DRE e do legalize-pt para os tipos canónicos do acervo."""
+    """Normaliza os tipos do DRE (e grafias antigas) para os tipos canónicos do acervo."""
 
     def __init__(self, config: dict[str, Any]) -> None:
         self._types: dict[str, DocumentType] = {}

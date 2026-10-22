@@ -89,7 +89,7 @@ def test_consolidated_text_is_kept_but_relations_are_merged(repo_root):
     result = service.ingest(REF)
     metadata, _ = read_markdown_record(result.path)
     metadata["version"] = {**metadata["version"], "kind": "consolidated", "consolidation_date": "2026-11-02"}
-    metadata["source"]["id"] = "legalize-pt"
+    metadata["integrity"]["source_sha256_scope"] = "imported_derived_markdown"
     metadata["relationships"] = [{"type": "cites", "target": "eli:http://data.dre.pt/eli/lei/1/2000", "label": None}]
     result.path.write_text(render_markdown(metadata, "# Texto consolidado"), encoding="utf-8")
 

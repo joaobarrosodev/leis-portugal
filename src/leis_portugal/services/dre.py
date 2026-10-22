@@ -3,12 +3,16 @@
 from __future__ import annotations
 
 import json
+import os
+import re
+from collections.abc import Callable
+from concurrent.futures import ProcessPoolExecutor
 from dataclasses import dataclass, field
 from datetime import date, timedelta
 
 from leis_portugal.errors import LeisPortugalError, SkipDocument
-from leis_portugal.infrastructure.repository import Acervo, WriteResult
-from leis_portugal.services.common import PORTUGUESE_POLICY, Progress, silent
+from leis_portugal.infrastructure.repository import PORTUGUESE_SCOPES, Acervo, WriteResult
+from leis_portugal.services.common import PORTUGUESE_POLICY, Progress, run_parallel, silent
 from leis_portugal.sources.dre.source import DreSource
 
 
@@ -19,16 +23,66 @@ class DreRunSummary:
     failures: list[dict[str, str]] = field(default_factory=list)
 
 
+_IMPORTED = "source_sha256_scope: imported_derived_markdown"
+_DRE_PATH = re.compile(r"^  dre_path: '?(/dr/[^'\n]+)'?$", re.MULTILINE)
+
+
+def _imported_ref(path: str) -> str | None:
+    with open(path, encoding="utf-8") as handle:
+        head = handle.read(12000)
+    if _IMPORTED not in head:
+        return None
+    match = _DRE_PATH.search(head)
+    return match.group(1) if match else None
+
+
+def imported_references(acervo: Acervo, *, workers: int | None = None) -> list[str]:
+    """Caminhos DRE dos registos que ainda têm o texto da importação inicial."""
+    paths = [str(path) for path in acervo.paths(PORTUGUESE_SCOPES)]
+    with ProcessPoolExecutor(max_workers=workers or max(1, (os.cpu_count() or 2) - 1)) as pool:
+        return [ref for ref in pool.map(_imported_ref, paths, chunksize=512) if ref]
+
+
 class DreIngestion:
-    def __init__(self, acervo: Acervo, source: DreSource | None = None, *, with_relations: bool = True, with_subjects: bool = True) -> None:
+    def __init__(
+        self,
+        acervo: Acervo,
+        source: DreSource | None = None,
+        *,
+        with_relations: bool = True,
+        with_subjects: bool = True,
+        source_factory: Callable[[], DreSource] | None = None,
+    ) -> None:
         self.acervo = acervo
-        self.source = source or DreSource(acervo.types)
+        self.source_factory = source_factory or (lambda: DreSource(acervo.types))
+        self.source = source or self.source_factory()
         self.with_relations = with_relations
         self.with_subjects = with_subjects
 
-    def ingest(self, ref: str) -> WriteResult:
-        document = self.source.collect(ref, with_relations=self.with_relations, with_subjects=self.with_subjects)
+    def ingest(self, ref: str, source: DreSource | None = None) -> WriteResult:
+        document = (source or self.source).collect(ref, with_relations=self.with_relations, with_subjects=self.with_subjects)
         return self.acervo.save(document.record, document.body, policy=PORTUGUESE_POLICY)
+
+    def ingest_many(self, refs: list[str], *, workers: int = 1, progress: Progress = silent) -> DreRunSummary:
+        """Vários diplomas em paralelo (uma sessão DRE por thread)."""
+        summary = DreRunSummary()
+        self.acervo.index()  # uma leitura do índice antes de abrir as threads
+
+        def work(ref: str, source: DreSource) -> str:
+            try:
+                result = self.ingest(ref, source)
+            except SkipDocument as exc:
+                summary.skipped.append(str(exc))
+                return f"ignorado: {ref}"
+            except (LeisPortugalError, KeyError, TypeError, ValueError) as exc:
+                # KeyError/TypeError/ValueError: resposta com formato inesperado para este diploma.
+                summary.failures.append({"ref": ref, "error": f"{type(exc).__name__}: {exc}"})
+                return f"falha: {ref}: {exc}"
+            summary.documents.append(result)
+            return f"{result.action}: {self.acervo.relative(result.path)}"
+
+        run_parallel(refs, work, context=self.source_factory, workers=workers, progress=progress)
+        return summary
 
     def ingest_dates(self, start: date, end: date, *, progress: Progress = silent) -> DreRunSummary:
         """Todos os diplomas publicados entre duas datas (inclusive).

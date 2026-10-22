@@ -3,7 +3,7 @@
 O DRE marca a estrutura apenas com classes de parágrafo (`paragraph-center`,
 `paragraph-bold-center-14px`, ...). As divisões e os artigos são reconhecidos pelo
 texto e a epígrafe que os segue é unida ao cabeçalho, no formato
-`###### Artigo 1.º — Objeto`, igual ao dos registos importados do legalize-pt.
+`###### Artigo 1.º — Objeto`, o formato de todos os registos do acervo.
 """
 
 from __future__ import annotations

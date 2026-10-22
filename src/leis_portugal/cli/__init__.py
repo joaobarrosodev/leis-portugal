@@ -6,7 +6,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from leis_portugal.cli import collect, importing, maintenance, versions
+from leis_portugal.cli import collect, maintenance, versions
 from leis_portugal.errors import LeisPortugalError
 
 
@@ -15,7 +15,6 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--root", type=Path, default=Path.cwd(), help="Raiz do repositório (por omissão: diretório atual).")
     commands = parser.add_subparsers(dest="command", required=True)
     collect.register(commands)
-    importing.register(commands)
     versions.register(commands)
     maintenance.register(commands)
     return parser

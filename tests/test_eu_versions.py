@@ -133,3 +133,11 @@ def test_cli_collects_eu_history_and_version_at(repo_root: Path, monkeypatch, ca
     assert "Atos: 1; atualizados: 1" in capsys.readouterr().out
     assert main(["--root", str(repo_root), "version-at", "eu:celex:32022L2555:por", "--date", "2023-06-01"]) == 0
     assert "Âmbito original." in capsys.readouterr().out
+
+
+def test_malformed_modifier_celex_is_kept_without_id():
+    from leis_portugal.services.eu_versions import _act_id
+
+    assert _act_id("397L0062") is None
+    assert _act_id("32024L0001") == "eu:celex:32024L0001:por"
+    assert _act_id("52020PC0001") is None
