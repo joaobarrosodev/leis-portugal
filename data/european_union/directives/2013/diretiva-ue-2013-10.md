@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-04-09'
+version_history:
+  file: diretiva-ue-2013-10.versoes.json
+  count: 2
+  source_lastmod: '2013-04-09'
+  versions:
+  - date: '2013-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-09'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alterações à Diretiva 75/324/CEE
+    - Altera Artigo 3.º — Transposição
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita «1.7a. Substância
+    - Adita 1.7b. Mistura
+    - Adita «2.2. Rotulagem
+    - Adita 2.3. Volume da fase líquida
 identifiers:
   celex: 32013L0010
   eli: http://data.europa.eu/eli/dir/2013/10/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8eb63e33-9152-11e2-b5c3-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/0aa4ccf5-c9cc-4ddd-9be7-b871565c12ae.0018.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0010-20130409
-  retrieved_at: '2026-10-22T03:16:27Z'
+  retrieved_at: '2026-10-22T16:13:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:49:33.868+02:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:27Z'
-  notes: Texto consolidado 02013L0010-20130409.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:45Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2013-10.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,30 +140,19 @@ relationships:
   date: '2016-07-13'
 article_structure:
   article_count: 4
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:27Z'
+  checked_at: '2026-10-22T16:13:45Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2013/10/UE da Comissão, de 19 de março de 2013
-
-> 2013L0010 — PT — 09.04.2013 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013L0010R%2801%29) — [Rectificação, JO L 091, 3.4.2013, p. 16 (2013/10/UE)](http://publications.europa.eu/resource/celex/32013L0010R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013L0010R%2802%29) — [Rectificação, JO L 137, 4.6.2015, p. 13 (2013/10/UE)](http://publications.europa.eu/resource/celex/32013L0010R%2802%29)
-
-## DIRETIVA 2013/10/UE DA COMISSÃO
 
 de 19 de março de 2013
 

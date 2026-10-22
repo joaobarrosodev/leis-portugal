@@ -37,6 +37,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-02-01'
+version_history:
+  file: regulamento-ue-2013-39.versoes.json
+  count: 2
+  source_lastmod: '2013-02-01'
+  versions:
+  - date: '2013-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-02-01'
+    amending: eu:celex:32013R1182:por
+    amending_title: REGULAMENTO (UE) N. o 1182/2013 DO CONSELHO de 19 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Zonas de pesca
+    - Altera Artigo 10.º — Disposições especiais relativas à repartição das possibilidades de pesca
+    - Altera LISTA DOS ANEXOS
+    - Altera Kattegat, subzonas ciem I, II, III, IV, V, VI, VII, VIII, IX, X, XII, XIV, águas da UE da zona CECAF, águas da
+      Guiana Francesa
+    - Altera 4. Esforço de pesca máximo autorizado
+    - Altera Apêndice 1 do Anexo IIA
+    - Altera 8. Atribuição de dias suplementares pela cessação definitiva das atividades de pesca
+    - Altera 9. Atribuição de dias suplementares para o reforço da presença de observadores científicos
+    - Altera 16. Comunicação dos dados pertinentes
+    - Altera 15. Comunicação dos dados pertinentes
+    - Altera Notas
 identifiers:
   celex: 32013R0039
   eli: http://data.europa.eu/eli/reg/2013/39/oj
@@ -51,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5c8a20e1-66eb-11e2-9294-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/36734535-d48e-4d82-a495-91b1a76126bb.0018.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0039-20130201
-  retrieved_at: '2026-10-22T03:00:04Z'
+  retrieved_at: '2026-10-22T16:15:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T21:38:21.733+02:00'
 integrity:
@@ -60,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:04Z'
-  notes: Texto consolidado 02013R0039-20130201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:25Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-39.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -179,30 +206,19 @@ relationships:
   date: '2013-07-17'
 article_structure:
   article_count: 15
-  section_count: 82
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 83
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:04Z'
+  checked_at: '2026-10-22T16:15:25Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 39/2013 do Conselho, de 21 de janeiro de 2013
-
-> 02013R0039 — PT — 01.02.2013 — 002.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0297) — [REGULAMENTO (UE) N.º 297/2013 DO CONSELHO de 27 de março de 2013](http://publications.europa.eu/resource/celex/32013R0297) — L 90 — 10 — 28.3.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R1182) — [REGULAMENTO (UE) N.º 1182/2013 DO CONSELHO de 19 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1182) — L 313 — 15 — 22.11.2013
-
-## REGULAMENTO (UE) N.º 39/2013 DO CONSELHO
 
 de 21 de janeiro de 2013
 

@@ -36,6 +36,57 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2013-346.versoes.json
+  count: 4
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2013-04-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-03-01'
+    amending: eu:celex:32017R1991:por
+    amending_title: REGULAMENTO (UE) 2017/1991 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Notas
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 17.º-A
+    - Adita Artigo 22.º-A
+  - date: '2021-08-02'
+    amending: eu:celex:32019R1156:por
+    amending_title: REGULAMENTO (UE) 2019/1156 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Notas
+    - Adita Artigo 4.º-A
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 4.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Notas
+    - Adita Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32013R0346
   eli: http://data.europa.eu/eli/reg/2013/346/oj
@@ -50,7 +101,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5914d3f1-acc8-11e2-ab01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/bf77268e-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0346-20240109
-  retrieved_at: '2026-10-22T02:43:02Z'
+  retrieved_at: '2026-10-22T16:17:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T03:57:39.267+02:00'
 integrity:
@@ -59,9 +110,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:02Z'
-  notes: Texto consolidado 02013R0346-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:17:31Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2013-346.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,31 +210,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76
 article_structure:
   article_count: 35
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:02Z'
+  checked_at: '2026-10-22T16:17:31Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 346/2013 do Parlamento Europeu e do Conselho, de 17 de abril de 2013
-
-> 02013R0346 — PT — 09.01.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1991) — [REGULAMENTO (UE) 2017/1991 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de outubro de 2017](http://publications.europa.eu/resource/celex/32017R1991) — L 293 — 1 — 10.11.2017
-- [►M2](http://publications.europa.eu/resource/celex/32019R1156) — [REGULAMENTO (UE) 2019/1156 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1156) — L 188 — 55 — 12.7.2019
-- [►M3](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-## REGULAMENTO (UE) N.º 346/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2013
 

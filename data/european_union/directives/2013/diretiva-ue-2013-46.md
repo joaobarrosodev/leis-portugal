@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2013-46.versoes.json
+  count: 1
+  source_lastmod: '2013-09-18'
+  versions:
+  - date: '2013-08-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013L0046
   eli: http://data.europa.eu/eli/dir/2013/46/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ba0fb4e0-107b-11e3-8d1c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ba0fb4e0-107b-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:00:02Z'
+  retrieved_at: '2026-10-22T16:15:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:23:18.509+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:02Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:11Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2013-46.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -109,21 +118,20 @@ relationships:
   date: '2013-06-29'
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:02Z'
+  checked_at: '2026-10-22T16:15:11Z'
   warnings:
-  - Versão consolidada 02013L0046-20130918 indisponível (Sem expressão na língua por para CELEX 02013L0046-20130918.); usado
-    o texto do JO.
+  - '02013L0046-20130918: versão indisponível (Sem expressão na língua por para CELEX 02013L0046-20130918.)'
   errors: []
 ---
 
-# DIRETIVA 2013/46/UE DA COMISSÃO
+# Diretiva 2013/46/UE da Comissão, de 28 de agosto de 2013
 
 de 28 de agosto de 2013
 

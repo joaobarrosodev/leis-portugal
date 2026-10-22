@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-26'
+version_history:
+  file: decisao-ue-2013-1082.versoes.json
+  count: 2
+  source_lastmod: '2022-12-26'
+  versions:
+  - date: '2013-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-12-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime PLANEAMENTO
+    - Suprime Artigo 4.º — Planeamento da preparação e da resposta
+    - Suprime Artigo 5.º — Contratação pública conjunta de contramedidas médicas
+    - Suprime CAPÍTULO III
+    - Suprime VIGILÂNCIA EPIDEMIOLÓGICA E MONITORIZAÇÃO AD HOC
+    - Suprime Artigo 6.º — Vigilância epidemiológica
+    - Suprime Artigo 7.º — Monitorização ad hoc
+    - Suprime CAPÍTULO IV
+    - Suprime ALERTA RÁPIDO E RESPOSTA
+    - Suprime Artigo 8.º — Criação de um Sistema de Alerta Rápido e de Resposta
+    - Suprime Artigo 9.º — Notificação de alertas
+    - Suprime Artigo 10.º — Avaliação dos riscos para a saúde pública
+    - Suprime Artigo 11.º — Coordenação da resposta
+    - Suprime CAPÍTULO V
+    - Suprime SITUAÇÕES DE EMERGÊNCIA
+    - Suprime Artigo 12.º — Reconhecimento das situações de emergência
+    - Suprime Artigo 13.º — Efeitos jurídicos do reconhecimento
+    - Suprime Artigo 14.º — Termo do reconhecimento
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES PROCESSUAIS
+    - Suprime Artigo 15.º — Designação das autoridades e dos representantes nacionais
+    - Suprime Artigo 16.º — Proteção dos dados pessoais
+    - Suprime Artigo 17.º — Comité de Segurança da Saúde
+    - Suprime Artigo 18.º — Procedimento de comité
+    - Suprime Artigo 19.º — Relatórios respeitantes à presente decisão
+    - Suprime CAPÍTULO VII
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 20.º — Revogação da Decisão n.º 2119/98/CE
+    - Suprime Artigo 21.º — Entrada em vigor
+    - Suprime Artigo 22.º — Destinatários
+    - Suprime ANEXO
+    - Suprime Critérios de seleção de doenças transmissíveis ou de problemas de saúde especiais conexos que devem ser abrangidos
+      pela vigilância epidemiológica no âmbito da rede
+    - Suprime Notas
 identifiers:
   celex: 32013D1082
   eli: http://data.europa.eu/eli/dec/2013/1082/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d817a1f-45fa-11e3-ae03-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/76b9b488-9c4d-11ed-b508-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013D1082-20221226
-  retrieved_at: '2026-10-22T02:45:41Z'
+  retrieved_at: '2026-10-22T16:13:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:39:21.821+02:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:41Z'
-  notes: Texto consolidado 02013D1082-20221226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:29Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2013-1082.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,16 +249,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:41Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:13:29Z'
+  warnings: []
   errors: []
 ---
 

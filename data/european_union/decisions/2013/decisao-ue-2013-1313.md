@@ -36,6 +36,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-18'
+version_history:
+  file: decisao-ue-2013-1313.versoes.json
+  count: 4
+  source_lastmod: '2023-12-18'
+  versions:
+  - date: '2013-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-03-21'
+    amending: eu:celex:32018R1475:por
+    amending_title: M1; DECISÃO (UE) 2019/420 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objetivo geral e objeto
+    - Altera Artigo 3.º — Objetivos específicos
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Ações de prevenção
+    - Altera Artigo 8.º — Ações gerais de preparação da Comissão
+    - Altera Artigo 9.º — Ações gerais de preparação dos Estados-Membros
+    - Altera Artigo 10.º — Planeamento das operações
+    - Altera Artigo 15.º — Resposta a catástrofes na União
+    - Altera Artigo 16.º — Promover uma resposta coerente em caso de catástrofe fora da União
+    - Altera Artigo 19.º — Recursos orçamentais
+    - Altera Artigo 21.º — Ações de prevenção e preparação elegíveis
+    - Altera Artigo 26.º — Complementaridade e coerência da ação da União
+    - Altera Artigo 27.º — Proteção dos interesses financeiros da União Europeia
+    - Altera Artigo 28.º — Países terceiros e organizações internacionais
+    - Altera Artigo 30.º — Exercício da delegação
+    - Altera Artigo 32.º — Atos de execução
+    - Altera Artigo 34.º — Avaliação
+    - Altera Notas
+    - Adita Artigo 6.º — Gestão do risco
+    - Adita Artigo 11.º
+    - Adita Reserva Europeia de Proteção Civil
+    - Adita Artigo 12.º — rescEU
+    - Adita Artigo 13.º
+    - Adita Rede Europeia de Conhecimentos sobre Proteção Civil
+    - Adita Artigo 20.º-A — Visibilidade e distinções
+    - Adita Artigo 23.º
+    - Adita Ações elegíveis relacionadas com o equipamento e as operações
+    - Adita Artigo 35.º — Disposições transitórias
+    - Adita ANEXO I
+    - Adita Percentagens de repartição do enquadramento financeiro para execução do Mecanismo da União referido no artigo
+      19.º, n.º 1
+    - Adita Princípios
+    - Adita ANEXO I-A
+    - Adita Categorias de custos elegíveis relativamente ao cálculo dos custos totais estimados nos termos do artigo 21.º,
+      n.º 3
+    - Adita ANEXO II
+    - Suprime Artigo 6.º — Gestão de riscos
+    - Suprime Artigo 11.º — Capacidade Europeia de Resposta de Emergência
+    - Suprime Artigo 12.º — Colmatar as lacunas de capacidade de resposta
+    - Suprime Artigo 13.º — Formação, exercícios, lições aprendidas e divulgação de conhecimentos
+    - Suprime Artigo 23.º — Ações elegíveis relacionadas com o equipamento e os recursos de transporte
+  - date: '2021-01-01'
+    amending: eu:celex:32021R0836:por
+    amending_title: REGULAMENTO (UE) 2021/836 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2021
+    changes:
+    - Altera Artigo 1.º — Objetivo geral e objeto
+    - Altera Artigo 3.º — Objetivos específicos
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Ações de prevenção
+    - Altera Artigo 6.º — Gestão do risco
+    - Altera Artigo 7.º — Centro de Coordenação de Resposta de Emergência
+    - Altera Artigo 8.º — Ações gerais de preparação da Comissão
+    - Altera Artigo 9.º — Ações gerais de preparação dos Estados-Membros
+    - Altera Reserva Europeia de Proteção Civil
+    - Altera Artigo 12.º — rescEU
+    - Altera Artigo 14.º — Notificação de catástrofes na União
+    - Altera Artigo 15.º — Resposta a catástrofes na União
+    - Altera Artigo 16.º — Promover uma resposta coerente em caso de catástrofe fora da União
+    - Altera Artigo 17.º — Apoio no terreno
+    - Altera Artigo 18.º — Transporte e equipamento
+    - Altera Artigo 19.º — Recursos orçamentais
+    - Altera Artigo 20.º-A — Visibilidade e distinções
+    - Altera Artigo 21.º — Ações de prevenção e preparação elegíveis
+    - Altera Artigo 22.º — Ações de resposta elegíveis
+    - Altera Artigo 25.º — Tipos de intervenção financeira e procedimentos de execução
+    - Altera Artigo 26.º — Complementaridade e coerência da ação da União
+    - Altera Artigo 27.º — Proteção dos interesses financeiros da União Europeia
+    - Altera Artigo 30.º — Exercício da delegação
+    - Altera Artigo 32.º — Atos de execução
+    - Altera Artigo 33.º — Procedimento de Comité
+    - Altera Artigo 34.º — Avaliação
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 10.º — Elaboração de cenários e planeamento da gestão de catástrofes
+    - Adita Artigo 13.º — Rede Europeia de Conhecimentos sobre Proteção Civil
+    - Adita Artigo 19.º-A — Recursos do Instrumento de Recuperação da União Europeia
+    - Adita Artigo 23.º — Ações elegíveis relacionadas com o equipamento e as operações
+    - Adita Categorias de custos elegíveis a que se refere o artigo 21.º, n.º 3
+    - Suprime Artigo 10.º — Planeamento das operações
+    - Suprime Artigo 13.º
+    - Suprime Rede Europeia de Conhecimentos sobre Proteção Civil
+    - Suprime Artigo 23.º
+    - Suprime Ações elegíveis relacionadas com o equipamento e as operações
+    - Suprime Percentagens de repartição do enquadramento financeiro para execução do Mecanismo da União referido no artigo
+      19.º, n.º 1
+    - Suprime Princípios
+  - date: '2023-12-18'
+    amending: eu:celex:32023D2671:por
+    amending_title: DECISÃO (UE) 2023/2671 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objetivo geral e objeto
+    - Altera Artigo 9.º — Ações gerais de preparação dos Estados-Membros
+    - Altera Artigo 12.º — rescEU
+    - Altera Artigo 16.º — Promover uma resposta coerente em caso de catástrofe fora da União
+    - Altera Artigo 19.º-A — Recursos do Instrumento de Recuperação da União Europeia
+    - Altera Artigo 25.º — Tipos de intervenção financeira e procedimentos de execução
+    - Altera Artigo 26.º — Complementaridade e coerência da ação da União
+    - Altera Artigo 27.º — Proteção dos interesses financeiros da União Europeia
+    - Altera Artigo 35.º — Disposições transitórias
+    - Altera Notas
 identifiers:
   celex: 32013D1313
   eli: http://data.europa.eu/eli/dec/2013/1313/oj
@@ -50,7 +164,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/600ee81c-6c06-11e3-9afb-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b290da50-b468-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013D1313-20231218
-  retrieved_at: '2026-10-22T02:48:29Z'
+  retrieved_at: '2026-10-22T16:13:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T21:27:39.765+02:00'
 integrity:
@@ -59,9 +173,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:29Z'
-  notes: Texto consolidado 02013D1313-20231218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:37Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2013-1313.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,32 +320,20 @@ relationships:
   date: '2007-12-03'
 article_structure:
   article_count: 39
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:29Z'
-  warnings: []
+  checked_at: '2026-10-22T16:13:37Z'
+  warnings:
+  - '02013D1313-20131221: versão indisponível (Sem expressão na língua por para CELEX 02013D1313-20131221.)'
   errors: []
 ---
 
 # Decisão n. ° 1313/2013/UE do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013
-
-> 02013D1313 — PT — 18.12.2023 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32018R1475) — [REGULAMENTO (UE) 2018/1475 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1475) — L 250 — 1 — 4.10.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019D0420) — [DECISÃO (UE) 2019/420 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2019](http://publications.europa.eu/resource/celex/32019D0420) — L 77I — 1 — 20.3.2019
-- [►M3](http://publications.europa.eu/resource/celex/32021R0836) — [REGULAMENTO (UE) 2021/836 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0836) — L 185 — 1 — 26.5.2021
-- [►M4](http://publications.europa.eu/resource/celex/32023D2671) — [DECISÃO (UE) 2023/2671 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023D2671) — L — 1 — 28.11.2023
-
-## DECISÃO N.º 1313/2013/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de dezembro de 2013
 

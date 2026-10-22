@@ -38,6 +38,313 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-04-28'
+version_history:
+  file: regulamento-ue-2013-347.versoes.json
+  count: 9
+  source_lastmod: '2024-04-28'
+  versions:
+  - date: '2013-04-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-10'
+    amending: eu:celex:32013R1391:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1391/2013 DA COMISSÃO de 14 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Critérios aplicáveis aos projetos de interesse comum
+    - Altera Artigo 10.º — Duração e execução do processo de concessão de licenças
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 17.º — Relatórios e avaliação
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 20.º — Alteração do Regulamento (CE) n.º 713/2009
+    - Altera Artigo 21.º — Alteração do Regulamento (CE) n.º 714/2009
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CORREDORES E DOMÍNIOS PRIORITÁRIOS DAS INFRAESTRUTURAS ENERGÉTICAS
+    - Adita 1. CORREDORES PRIORITÁRIOS NO SETOR DA ELETRICIDADE
+    - Adita 2. CORREDORES PRIORITÁRIOS NO SETOR DO GÁS
+    - Adita 3. CORREDORES PRIORITÁRIOS NO SETOR PETROLÍFERO
+    - Adita 4. DOMÍNIOS TEMÁTICOS PRIORITÁRIOS
+    - Adita ANEXO II
+    - Adita CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Adita ANEXO III
+    - Adita LISTAS REGIONAIS DOS PROJETOS DE INTERESSE COMUM
+    - Adita 1. REGRAS APLICÁVEIS AOS GRUPOS
+    - Adita 2. PROCESSO DE ESTABELECIMENTO DE LISTAS REGIONAIS
+    - Adita ANEXO IV
+    - Adita REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Adita ANEXO V
+    - Adita ANÁLISE DE CUSTO-BENEFÍCIO A NÍVEL DO SISTEMA DE ENERGIA
+    - Adita ANEXO VI
+    - Adita ORIENTAÇÕES EM MATÉRIA DE TRANSPARÊNCIA E DE PARTICIPAÇÃO PÚBLICA
+    - Adita ANEXO VII
+    - Adita Lista da União de projetos de interesse comum («Lista da União») referida no artigo 3.º, n.º 4
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/c3454cc8-05d1-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0033))]
+  - date: '2016-02-16'
+    amending: eu:celex:32016R0089:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/89 DA COMISSÃO de 18 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 20.º — Alteração do Regulamento (CE) n.º 713/2009
+    - Altera Artigo 21.º — Alteração do Regulamento (CE) n.º 714/2009
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera Notas
+    - Adita Lista da união de projetos de interesse comum («lista da união») referida no artigo 3.º, n.º 4
+    - Adita A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Adita 1) Agregados de projetos de interesse comum
+    - Adita 2) Tratamento das subestações e das estações de compressão
+    - Adita 3) Definição de «já não considerado projeto de interesse comum»
+    - Adita 4) Definição de «projeto de interesse comum igualmente classificado nas autoestradas da eletricidade»
+    - Adita B. LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM
+    - Adita 1) Corredor prioritário «Rede ao largo nos mares do norte» («NSOG»)
+    - Adita 2) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Ocidental» («NSI West Electricity»)
+    - Adita 3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste» («NSI
+      East Electricity»)
+    - Adita 4) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia» («BEMIP Electricity»)
+    - Adita 5) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Ocidental» («NSI West Gas»)
+    - Adita 6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Adita 7) Corredor prioritário «Corredor Meridional de Gás» («SGC»)
+    - Adita 8) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia no setor do gás» («BEMIP Gas»)
+    - Adita 9) Corredor prioritário «Ligações de fornecimento de petróleo na Europa Centro-Oriental» («OSC»)
+    - Adita 10) Domínio temático prioritário «Implantação de Redes Inteligentes»
+    - Adita 11) Domínio temático prioritário «Autoestradas da eletricidade»
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/4efef62f-b4c2-465f-96fc-273f5479a0dc.0015.02/DOC_1#E0032))]
+    - Suprime Lista da União de projetos de interesse comum («Lista da União») referida no artigo 3.º, n.º 4
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/c3454cc8-05d1-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0033))]
+  - date: '2018-04-26'
+    amending: eu:celex:32018R0540:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/540 DA COMISSÃO de 23 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 20.º — Alteração do Regulamento (CE) n.º 713/2009
+    - Altera Artigo 21.º — Alteração do Regulamento (CE) n.º 714/2009
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera 1) Agregados de projetos de interesse comum
+    - Altera 1) Corredor prioritário «Rede ao largo nos mares do norte» («NSOG»)
+    - Altera 2) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Ocidental» («NSI West Electricity»)
+    - Altera 4) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia» («BEMIP Electricity»)
+    - Altera 5) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Ocidental» («NSI West Gas»)
+    - Altera 6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Altera 7) Corredor prioritário «Corredor Meridional de Gás» («SGC»)
+    - Altera 8) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia no setor do gás» («BEMIP Gas»)
+    - Altera 9) Corredor prioritário «Ligações de fornecimento de petróleo na Europa Centro-Oriental» («OSC»)
+    - Altera 10) Domínio temático prioritário «Implantação de Redes Inteligentes»
+    - Altera 11) Domínio temático prioritário «Autoestradas da eletricidade»
+    - Altera 3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste» («NSI
+      East Electricity»)
+    - Altera Notas
+    - Adita LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM («LISTA DA UNIÃO») REFERIDA NO ARTIGO 3.º, N.º 4
+    - Adita 3) Projetos já não considerados de interesse comum e projetos integrados noutros projetos de interesse comum
+    - Adita 3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e Meridional» («NSI
+      East Electricity»)
+    - Adita 12) Redes transfronteiriças de dióxido de carbono
+    - Adita C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM» E DE «PROJETOS QUE PASSARAM A FAZER
+      PARTE DE OUTROS PROJETOS DE INTERESSE COMUM»
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/ece56b47-63c4-45f2-a096-848637ebcc47.0015.02/DOC_1#E0014))]
+    - Suprime Lista da união de projetos de interesse comum («lista da união») referida no artigo 3.º, n.º 4
+    - Suprime 3) Definição de «já não considerado projeto de interesse comum»
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^32^](http://publications.europa.eu/resource/cellar/4efef62f-b4c2-465f-96fc-273f5479a0dc.0015.02/DOC_1#E0032))]
+  - date: '2019-07-04'
+    amending: eu:celex:32019R0942:por
+    amending_title: REGULAMENTO (UE) 2019/942 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 21.º — Alteração do Regulamento (CE) n.º 714/2009
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera 6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Altera Notas
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/193291c7-c028-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0014))]
+    - Suprime Artigo 20.º — Alteração do Regulamento (CE) n.º 713/2009
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/ece56b47-63c4-45f2-a096-848637ebcc47.0015.02/DOC_1#E0014))]
+  - date: '2020-01-01'
+    amending: eu:celex:32019R0943:por
+    amending_title: REGULAMENTO (UE) 2019/943 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019
+    changes:
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera 6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Altera Notas
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/c48a2710-4e80-11ea-aece-01aa75ed71a1.0019.03/DOC_1#E0014))]
+    - Suprime Artigo 21.º — Alteração do Regulamento (CE) n.º 714/2009
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/193291c7-c028-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0014))]
+  - date: '2020-03-31'
+    amending: eu:celex:32020R0389:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/389 DA COMISSÃO de 31 de outubro de 2019
+    changes:
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera Notas
+    - Adita LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM («LISTA DA UNIÃO»)
+    - Adita referida no artigo 3.º, n.º 4
+    - Adita (1) Agregados de projetos de interesse comum
+    - Adita (2) Tratamento das subestações e das estações de compressão
+    - Adita (3) Projetos já não considerados de interesse comum e projetos integrados noutros projetos de interesse comum
+    - Adita (4) Definição de «projeto de interesse comum igualmente classificado nas autoestradas da eletricidade»
+    - Adita (1) Corredor prioritário «Rede ao largo nos mares do norte» («NSOG»)
+    - Adita (2) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Ocidental» («NSI West Electricity»)
+    - Adita (3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste» («NSI
+      East Electricity»)
+    - Adita (4) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia» («BEMIP Electricity»)
+    - Adita (5) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Ocidental» («NSI West Gas»)
+    - Adita (6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Adita (7) Corredor prioritário «Corredor Meridional de Gás» («SGC»)
+    - Adita (8) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia no setor do gás» («BEMIP Gas»)
+    - Adita (9) Corredor prioritário «Ligações de fornecimento de petróleo na Europa Centro-Oriental» («OSC»)
+    - Adita (10) Domínio temático prioritário «Implantação de Redes Inteligentes»
+    - Adita (11) Domínio temático prioritário «Autoestradas da eletricidade»
+    - Adita Lista dos projetos de interesse comum igualmente classificados nas autoestradas da eletricidade
+    - Adita (12) Redes transfronteiriças de dióxido de carbono
+    - Adita C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM» E DE «PROJETOS INTEGRADOS NOUTROS
+      PROJETOS NA SEGUNDA E/OU TERCEIRA LISTA DE PROJETOS DE INTERESSE COMUM»
+    - Adita (12) Domínio temático prioritário «Rede transfronteiras de dióxido de carbono»
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/7365e807-78ea-11ea-b75f-01aa75ed71a1.0019.02/DOC_1#E0013))]
+    - Suprime LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM («LISTA DA UNIÃO») REFERIDA NO ARTIGO 3.º, N.º 4
+    - Suprime 1) Agregados de projetos de interesse comum
+    - Suprime 2) Tratamento das subestações e das estações de compressão
+    - Suprime 3) Projetos já não considerados de interesse comum e projetos integrados noutros projetos de interesse comum
+    - Suprime 4) Definição de «projeto de interesse comum igualmente classificado nas autoestradas da eletricidade»
+    - Suprime 1) Corredor prioritário «Rede ao largo nos mares do norte» («NSOG»)
+    - Suprime 2) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Ocidental» («NSI West Electricity»)
+    - Suprime 3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e Meridional» («NSI
+      East Electricity»)
+    - Suprime 4) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia» («BEMIP Electricity»)
+    - Suprime 5) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Ocidental» («NSI West Gas»)
+    - Suprime 6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Suprime 7) Corredor prioritário «Corredor Meridional de Gás» («SGC»)
+  - date: '2022-04-28'
+    amending: eu:celex:32022R0564:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/564 DA COMISSÃO de 19 de novembro de 2021
+    changes:
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Altera Notas
+    - Adita LISTA DE PROJETOS DE INTERESSE COMUM DA UNIÃO («LISTA DA UNIÃO»)
+    - Adita B. LISTA DE PROJETOS DE INTERESSE COMUM DA UNIÃO
+    - Adita C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM» E DE «PROJETOS QUE PASSARAM A FAZER
+      PARTE DE OUTROS PROJETOS DE INTERESSE COMUM»
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/caa5767c-ca18-11ec-b6f4-01aa75ed71a1.0020.02/DOC_1#E0013))]
+    - Suprime LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM («LISTA DA UNIÃO»)
+    - Suprime (1) Agregados de projetos de interesse comum
+    - Suprime (2) Tratamento das subestações e das estações de compressão
+    - Suprime (3) Projetos já não considerados de interesse comum e projetos integrados noutros projetos de interesse comum
+    - Suprime (4) Definição de «projeto de interesse comum igualmente classificado nas autoestradas da eletricidade»
+    - Suprime B. LISTA DA UNIÃO DE PROJETOS DE INTERESSE COMUM
+    - Suprime (1) Corredor prioritário «Rede ao largo nos mares do norte» («NSOG»)
+    - Suprime (2) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Ocidental» («NSI West Electricity»)
+    - Suprime (3) Corredor prioritário «Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste» («NSI
+      East Electricity»)
+    - Suprime (4) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia» («BEMIP Electricity»)
+    - Suprime (5) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Ocidental» («NSI West Gas»)
+    - Suprime (6) Corredor prioritário «Interligações Norte-Sul de gás natural na Europa Centro-Oriental e do Sudeste» («NSI
+      East Gas»)
+    - Suprime (7) Corredor prioritário «Corredor Meridional de Gás» («SGC»)
+    - Suprime (8) Corredor prioritário «Plano de Interligação do Mercado Báltico da Energia no setor do gás» («BEMIP Gas»)
+    - Suprime (9) Corredor prioritário «Ligações de fornecimento de petróleo na Europa Centro-Oriental» («OSC»)
+    - Suprime (10) Domínio temático prioritário «Implantação de Redes Inteligentes»
+    - Suprime (11) Domínio temático prioritário «Autoestradas da eletricidade»
+    - Suprime Lista dos projetos de interesse comum igualmente classificados nas autoestradas da eletricidade
+    - Suprime (12) Redes transfronteiriças de dióxido de carbono
+    - Suprime C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM» E DE «PROJETOS INTEGRADOS NOUTROS
+      PROJETOS NA SEGUNDA E/OU TERCEIRA LISTA DE PROJETOS DE INTERESSE COMUM»
+    - Suprime (12) Domínio temático prioritário «Rede transfronteiras de dióxido de carbono»
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/7365e807-78ea-11ea-b75f-01aa75ed71a1.0019.02/DOC_1#E0013))]
+  - date: '2024-04-28'
+    amending: eu:celex:32022R0869:por
+    amending_title: M8; REGULAMENTO DELEGADO (UE) 2024/1041 DA COMISSÃO de 28 de novembro de 2023
+    changes:
+    - Altera Artigo 12.º — Permitir investimentos com impactos transfronteiriços
+    - Altera Artigo 19.º — Disposições transitórias
+    - Altera Artigo 22.º — Alteração do Regulamento (CE) n.º 715/2009
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS DE INTERESSE COMUM
+    - Altera A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Altera Notas
+    - Adita LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+    - Adita (1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+    - Adita (2) Tratamento das subestações e das estações de compressão
+    - Adita (3) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+    - Adita (4) Projetos de interesse comum cujo número mudou em relação à anterior lista da União
+    - Adita B. LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO
+    - Adita (1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»)
+    - Adita (2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»)
+    - Adita (3) Plano de Interligação do Mercado Báltico da Energia no setor da eletricidade («BEMIP Electricity»)
+    - Adita (4) Redes ao largo nos mares do Norte («NSOG»)
+    - Adita (5) Plano de Interligação do Mercado Báltico da Energia para as redes ao largo («BEMIP offshore»)
+    - Adita (6) Redes ao largo meridional e ocidental («SW offshore»)
+    - Adita (7) Redes ao largo meridional e oriental («SE offshore»)
+    - Adita (8) Redes ao largo atlânticas
+    - Adita (9) Interligações para o hidrogénio na Europa Ocidental («HI West»)
+    - Adita (10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»)
+    - Adita (11) Plano de Interligação do Mercado Báltico da Energia no setor do hidrogénio («BEMIP Hydrogen»)
+    - Adita (12) Domínio temático prioritário «Implantação de Redes Elétricas Inteligentes»
+    - Adita (13) Domínio temático prioritário «Redes transfronteiras de dióxido de carbono»
+    - Adita (14) Domínio temático prioritário «Redes de Gás Inteligentes»
+    - Adita (15) Projetos que mantêm o seu estatuto de projeto de interesse comum (derrogação prevista no artigo 24.º)
+    - Adita Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/3cbf4a98-0880-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0013))]
+    - Suprime LISTA DE PROJETOS DE INTERESSE COMUM DA UNIÃO («LISTA DA UNIÃO»)
+    - Suprime B. LISTA DE PROJETOS DE INTERESSE COMUM DA UNIÃO
+    - Suprime C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM» E DE «PROJETOS QUE PASSARAM A FAZER
+      PARTE DE OUTROS PROJETOS DE INTERESSE COMUM»
+    - Suprime Declaração da Comissão Europeia sobre a elegibilidade dos projetos de interesse comum para assistência financeira
+      da UE no contexto das infraestruturas energéticas transeuropeias [Capítulo V do Regulamento (UE) n.º 347/2013 do Parlamento
+      Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/caa5767c-ca18-11ec-b6f4-01aa75ed71a1.0020.02/DOC_1#E0013))]
 identifiers:
   celex: 32013R0347
   eli: http://data.europa.eu/eli/reg/2013/347/oj
@@ -52,7 +359,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/579d92a9-acc7-11e2-ab01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/3cbf4a98-0880-11ef-a251-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0347-20240428
-  retrieved_at: '2026-10-22T02:45:43Z'
+  retrieved_at: '2026-10-22T16:17:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T03:13:21.373+02:00'
 integrity:
@@ -61,9 +368,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:43Z'
-  notes: Texto consolidado 02013R0347-20240428.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:17:35Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2013-347.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -249,37 +556,19 @@ relationships:
   date: '2006-09-25'
 article_structure:
   article_count: 22
-  section_count: 55
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 56
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:43Z'
+  checked_at: '2026-10-22T16:17:35Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 347/2013 do Parlamento Europeu e do Conselho, de 17 de abril de 2013
-
-> 02013R0347 — PT — 28.04.2024 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R1391) — [REGULAMENTO DELEGADO (UE) N.º 1391/2013 DA COMISSÃO de 14 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1391) — L 349 — 28 — 21.12.2013
-- [M2](http://publications.europa.eu/resource/celex/32016R0089) — [REGULAMENTO DELEGADO (UE) 2016/89 DA COMISSÃO de 18 de novembro de 2015](http://publications.europa.eu/resource/celex/32016R0089) — L 19 — 1 — 27.1.2016
-- [M3](http://publications.europa.eu/resource/celex/32018R0540) — [REGULAMENTO DELEGADO (UE) 2018/540 DA COMISSÃO de 23 de novembro de 2017](http://publications.europa.eu/resource/celex/32018R0540) — L 90 — 38 — 6.4.2018
-- [►M4](http://publications.europa.eu/resource/celex/32019R0942) — [REGULAMENTO (UE) 2019/942 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0942) — L 158 — 22 — 14.6.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019R0943) — [REGULAMENTO (UE) 2019/943 DO PARLAMENTO EUROPEU E DO CONSELHO de 5 de junho de 2019](http://publications.europa.eu/resource/celex/32019R0943) — L 158 — 54 — 14.6.2019
-- [M6](http://publications.europa.eu/resource/celex/32020R0389) — [REGULAMENTO DELEGADO (UE) 2020/389 DA COMISSÃO de 31 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0389) — L 74 — 1 — 11.3.2020
-- [M7](http://publications.europa.eu/resource/celex/32022R0564) — [REGULAMENTO DELEGADO (UE) 2022/564 DA COMISSÃO de 19 de novembro de 2021](http://publications.europa.eu/resource/celex/32022R0564) — L 109 — 14 — 8.4.2022
-- [M8](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-- [►M9](http://publications.europa.eu/resource/celex/32024R1041) — Alterado por: [REGULAMENTO DELEGADO (UE) 2024/1041 DA COMISSÃO de 28 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R1041) — L 1041 — 1 — 8.4.2024
-
-## REGULAMENTO (UE) N.º 347/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2013
 

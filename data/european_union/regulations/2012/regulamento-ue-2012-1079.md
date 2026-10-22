@@ -34,6 +34,110 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-05'
+version_history:
+  file: regulamento-ue-2012-1079.versoes.json
+  count: 5
+  source_lastmod: '2023-10-05'
+  versions:
+  - date: '2012-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-07'
+    amending: eu:celex:32013R0657:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 657/2013 DA COMISSÃO de 10 de julho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Requisitos aplicáveis às conversões para 8,33 kHz
+    - Altera Artigo 7.º — Obrigações dos prestadores de serviços de navegação aérea
+    - Altera Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 14.º — Isenções
+    - Altera Artigo 16.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Estados-Membros a que se referem os artigos 5.º e 6.º
+    - Adita ANEXO II
+    - Adita Disposições da OACI a que se referem os artigos 4.º e 8.º
+    - Adita ANEXO III
+    - Adita Requisitos a que se refere o artigo 10.º, a ter em conta na avaliação da segurança
+    - Adita ANEXO IV
+    - Adita PARTE A
+    - Adita Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      11.º
+    - Adita PARTE B
+    - Adita Módulo de controlo interno da produção
+    - Adita PARTE C
+    - Adita Requisitos para a verificação dos sistemas a que se refere o artigo 12.º, n.º 1
+    - Adita PARTE D
+    - Adita Requisitos para a verificação dos sistemas a que se refere o artigo 12.º, n.º 2
+    - Adita ANEXO V
+    - Adita Condições a que se refere o artigo 12.º
+  - date: '2016-12-21'
+    amending: eu:celex:32016R2345:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2016/2345 DA COMISSÃO de 14 de dezembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Obrigações dos prestadores de serviços de navegação aérea
+    - Altera Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 14.º — Isenções
+    - Altera Notas
+    - Adita Disposições da ICAO a que se referem os artigos 4.º e 8.º
+    - Suprime Disposições da OACI a que se referem os artigos 4.º e 8.º
+  - date: '2017-12-11'
+    amending: eu:celex:32017R2160:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/2160 DA COMISSÃO de 20 de novembro de 2017
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Obrigações dos prestadores de serviços de navegação aérea
+    - Altera Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Altera Artigo 14.º — Isenções
+    - Altera Disposições da ICAO a que se referem os artigos 4.º e 8.º
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Requisitos de interoperabilidade e de desempenho dos equipamentos de radiocomunicações
+    - Suprime Artigo 5.º — Obrigações dos operadores
+    - Suprime Artigo 6.º — Requisitos aplicáveis às conversões para 8,33 kHz
+    - Suprime Artigo 7.º — Obrigações dos prestadores de serviços de navegação aérea
+    - Suprime Artigo 8.º — Procedimentos associados
+    - Suprime Artigo 9.º — Disposições aplicáveis às aeronaves do Estado
+    - Suprime Artigo 10.º — Requisitos de segurança
+    - Suprime Artigo 11.º — Conformidade ou adequação para utilização dos componentes
+    - Suprime Artigo 12.º — Verificação dos sistemas
+    - Suprime Artigo 13.º — Requisitos complementares
+    - Suprime Artigo 14.º — Isenções
+    - Suprime Artigo 15.º — Revogação
+    - Suprime Artigo 16.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime Estados-Membros a que se referem os artigos 5.º e 6.º
+    - Suprime ANEXO II
+    - Suprime Disposições da ICAO a que se referem os artigos 4.º e 8.º
+    - Suprime ANEXO III
+    - Suprime Requisitos a que se refere o artigo 10.º, a ter em conta na avaliação da segurança
+    - Suprime ANEXO IV
+    - Suprime PARTE A
+    - Suprime Requisitos para a avaliação da conformidade ou adequação para utilização dos componentes a que se refere o artigo
+      11.º
+    - Suprime PARTE B
+    - Suprime Módulo de controlo interno da produção
+    - Suprime PARTE C
+    - Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 12.º, n.º 1
+    - Suprime PARTE D
+    - Suprime Requisitos para a verificação dos sistemas a que se refere o artigo 12.º, n.º 2
+    - Suprime ANEXO V
+    - Suprime Condições a que se refere o artigo 12.º
+    - Suprime Notas
 identifiers:
   celex: 32012R1079
   eli: http://data.europa.eu/eli/reg_impl/2012/1079/oj
@@ -48,7 +152,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/79a98a8f-33b4-11e2-84d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d63d2ce5-8582-11ee-99ba-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1079-20231005
-  retrieved_at: '2026-10-22T02:48:29Z'
+  retrieved_at: '2026-10-22T16:11:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T17:57:13.588+02:00'
 integrity:
@@ -57,9 +161,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:29Z'
-  notes: Texto consolidado 02012R1079-20231005.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:11:11Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2012-1079.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -162,16 +266,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:29Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:11:11Z'
+  warnings: []
   errors: []
 ---
 

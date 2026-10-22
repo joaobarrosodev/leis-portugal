@@ -38,6 +38,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-13'
+version_history:
+  file: regulamento-ue-2012-1025.versoes.json
+  count: 4
+  source_lastmod: '2024-12-13'
+  versions:
+  - date: '2012-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-07'
+    amending: eu:celex:32015L1535:por
+    amending_title: DIRETIVA (UE) 2015/1535 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 9 de
+      setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 17.º — Disposições financeiras
+    - Altera Artigo 26.º — Alterações
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ORGANIZAÇÕES EUROPEIAS DE NORMALIZAÇÃO
+    - Adita ANEXO II
+    - Adita REQUISITOS PARA A IDENTIFICAÇÃO DE ESPECIFICAÇÕES TÉCNICAS NO DOMÍNIO DAS TIC
+    - Adita ANEXO III
+    - Adita ORGANIZAÇÕES EUROPEIAS DE INTERESSADOS ELEGÍVEIS PARA FINANCIAMENTO DA UNIÃO
+    - Adita ANEXO IV
+  - date: '2023-07-09'
+    amending: eu:celex:32014L0028:por
+    amending_title: DIRETIVA 2014/28/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; DIRETIVA 2014/29/UE
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; M3; DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+      de 26 de fevereiro de 2014; DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; DIRETIVA
+      2014/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; REGULAMENTO (UE) 2022/2480 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pedidos de normalização às organizações europeias de normalização
+    - Altera Artigo 26.º — Alterações
+    - Altera Notas
+  - date: '2024-12-13'
+    amending: eu:celex:32023R0988:por
+    amending_title: REGULAMENTO (UE) 2023/988 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 10.º — Pedidos de normalização às organizações europeias de normalização
+    - Altera Artigo 11.º — Objeções formais a normas harmonizadas
+    - Altera Notas
 identifiers:
   celex: 32012R1025
   eli: http://data.europa.eu/eli/reg/2012/1025/oj
@@ -52,7 +100,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/08e6cf53-2e33-11e2-ad46-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/f5b6aa62-ac68-11ef-acb1-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1025-20241213
-  retrieved_at: '2026-10-22T02:36:03Z'
+  retrieved_at: '2026-10-22T16:10:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T16:47:01.268+02:00'
 integrity:
@@ -61,9 +109,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:03Z'
-  notes: Texto consolidado 02012R1025-20241213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:10:12Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-1025.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -400,37 +448,19 @@ relationships:
   date: '2006-11-16'
 article_structure:
   article_count: 30
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:03Z'
+  checked_at: '2026-10-22T16:10:12Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012R1025 — PT — 13.12.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0028) — [DIRETIVA 2014/28/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0028) — L 96 — 1 — 29.3.2014
-- [►M2](http://publications.europa.eu/resource/celex/32014L0029) — [DIRETIVA 2014/29/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0029) — L 96 — 45 — 29.3.2014
-- [M3](http://publications.europa.eu/resource/celex/32014L0031) — [DIRETIVA 2014/31/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0031) — L 96 — 107 — 29.3.2014
-- [►M4](http://publications.europa.eu/resource/celex/32014L0032) — [DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0032) — L 96 — 149 — 29.3.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014L0033) — [DIRETIVA 2014/33/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0033) — L 96 — 251 — 29.3.2014
-- [►M6](http://publications.europa.eu/resource/celex/32014L0034) — [DIRETIVA 2014/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0034) — L 96 — 309 — 29.3.2014
-- [►M7](http://publications.europa.eu/resource/celex/32015L1535) — [DIRETIVA (UE) 2015/1535 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de setembro de 2015](http://publications.europa.eu/resource/celex/32015L1535) — L 241 — 1 — 17.9.2015
-- [►M8](http://publications.europa.eu/resource/celex/32022R2480) — [REGULAMENTO (UE) 2022/2480 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2480) — L 323 — 1 — 19.12.2022
-- [►M9](http://publications.europa.eu/resource/celex/32023R0988) — [REGULAMENTO (UE) 2023/988 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0988) — L 135 — 1 — 23.5.2023
-
-## REGULAMENTO (UE) N.º 1025/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

@@ -34,6 +34,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-02-22'
+version_history:
+  file: diretiva-ue-2013-26.versoes.json
+  count: 2
+  source_lastmod: '2019-02-22'
+  versions:
+  - date: '2013-06-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-02-22'
+    amending: eu:celex:32013R0609:por
+    amending_title: REGULAMENTO (UE) N. o 609/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Suprime Artigo 1.º
+    - Suprime Notas
 identifiers:
   celex: 32013L0026
   eli: http://data.europa.eu/eli/dir/2013/26/oj
@@ -48,7 +65,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d433fcfa-d1c7-11e2-9b1a-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d10625b9-ba33-11e9-9d01-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0026-20190222
-  retrieved_at: '2026-10-22T03:16:29Z'
+  retrieved_at: '2026-10-22T16:13:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T16:13:19.183+02:00'
 integrity:
@@ -57,9 +74,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:29Z'
-  notes: Texto consolidado 02013L0026-20190222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:52Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2013-26.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -106,28 +123,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:29Z'
+  checked_at: '2026-10-22T16:13:52Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2013/26/UE da Comissão, de 8 de fevereiro de 2013
-
-> 02013L0026 — PT — 20.07.2016 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0609) — [REGULAMENTO (UE) N.º 609/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0609) — L 181 — 35 — 29.6.2013
-
-## DIRETIVA 2013/26/UE DA COMISSÃO
 
 de 8 de fevereiro de 2013
 

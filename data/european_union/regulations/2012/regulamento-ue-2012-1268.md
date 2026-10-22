@@ -36,6 +36,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-01-01'
+version_history:
+  file: regulamento-ue-2012-1268.versoes.json
+  count: 4
+  source_lastmod: '2018-01-01'
+  versions:
+  - date: '2012-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32015R2462:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/2462 DA COMISSÃO de 30 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 290.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+    - Adita Artigo 38.º
+  - date: '2017-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 29.º
+    - Altera Artigo 121.º
+    - Altera Artigo 134.º
+    - Altera Artigo 135.º
+    - Altera Artigo 139.º
+    - Altera Artigo 143.º
+    - Altera Artigo 148.º
+    - Altera Artigo 195.º
+    - Altera Notas
+  - date: '2018-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 29.º
+    - Altera Artigo 121.º
+    - Altera Artigo 125.º
+    - Altera Artigo 134.º
+    - Altera Artigo 135.º
+    - Altera Artigo 139.º
+    - Altera Artigo 148.º
+    - Altera Artigo 152.º
+    - Altera Artigo 195.º
+    - Altera Notas
 identifiers:
   celex: 32012R1268
   eli: http://data.europa.eu/eli/reg_del/2012/1268/oj
@@ -50,7 +135,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/66e40078-7684-4405-a2df-ba82a581f0ad.0012
   content_url: http://publications.europa.eu/resource/cellar/f98df384-8b41-42fc-ab9c-c076b1157568.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1268-20180101
-  retrieved_at: '2026-10-22T02:45:41Z'
+  retrieved_at: '2026-10-22T16:13:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T18:11:45.980+02:00'
 integrity:
@@ -59,9 +144,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:41Z'
-  notes: Texto consolidado 02012R1268-20180101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:11Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-1268.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,29 +289,19 @@ relationships:
   date: '2007-04-23'
 article_structure:
   article_count: 285
-  section_count: 151
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 152
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:41Z'
+  checked_at: '2026-10-22T16:13:11Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 1268/2012 da Comissão, de 29 de outubro de 2012
-
-> 02012R1268 — PT — 01.01.2018 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R2462) — [REGULAMENTO DELEGADO (UE) 2015/2462 DA COMISSÃO de 30 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R2462) — L 342 — 7 — 29.12.2015
-
-## REGULAMENTO DELEGADO (UE) N.º 1268/2012 DA COMISSÃO
 
 de 29 de outubro de 2012
 

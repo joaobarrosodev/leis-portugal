@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2013-54.versoes.json
+  count: 1
+  source_lastmod: '2013-12-30'
+  versions:
+  - date: '2013-12-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013L0054
   eli: http://data.europa.eu/eli/dir/2013/54/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9cf71069-6172-11e3-ab0f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9cf71069-6172-11e3-ab0f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:16:32Z'
+  retrieved_at: '2026-10-22T16:15:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T21:17:03.232+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:32Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:15Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2013-54.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -125,21 +134,20 @@ relationships:
   date: '2014-12-24'
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:32Z'
+  checked_at: '2026-10-22T16:15:15Z'
   warnings:
-  - Versão consolidada 02013L0054-20131230 indisponível (Sem expressão na língua por para CELEX 02013L0054-20131230.); usado
-    o texto do JO.
+  - '02013L0054-20131230: versão indisponível (Sem expressão na língua por para CELEX 02013L0054-20131230.)'
   errors: []
 ---
 
-# DIRETIVA 2013/54/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2013/54/UE do Parlamento Europeu e do Conselho, de 20 de novembro de 2013
 
 de 20 de novembro de 2013
 

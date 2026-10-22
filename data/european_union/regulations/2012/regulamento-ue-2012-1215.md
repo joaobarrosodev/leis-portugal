@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-1215.versoes.json
+  count: 1
+  source_lastmod: '2015-02-26'
+  versions:
+  - date: '2012-12-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R1215
   eli: http://data.europa.eu/eli/reg/2012/1215/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/387e4da5-e292-496d-a9bc-c3ebface5413.0015
   content_url: http://publications.europa.eu/resource/cellar/387e4da5-e292-496d-a9bc-c3ebface5413.0015.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:59:56Z'
+  retrieved_at: '2026-10-22T16:12:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T21:42:21.399+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:56Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:12:25Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-1215.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -697,21 +706,21 @@ relationships:
   date: '2000-12-22'
 article_structure:
   article_count: 81
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:56Z'
+  checked_at: '2026-10-22T16:12:25Z'
   warnings:
-  - 'Versão consolidada 02012R1215-20150226 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02012R1215-20150110: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R1215-20150226: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO (UE) N.º 1215/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (UE) n. ° 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012
 
 de 12 de dezembro de 2012
 

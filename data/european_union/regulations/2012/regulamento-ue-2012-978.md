@@ -36,6 +36,562 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: regulamento-ue-2012-978.versoes.json
+  count: 18
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2012-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-02-28'
+    amending: eu:celex:32013R0154:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 154/2013 DA COMISSÃO de 18 de dezembro de 2012; REGULAMENTO DELEGADO (UE)
+      N. o 1421/2013 DA COMISSÃO de 30 de outubro de 2013; REGULAMENTO DELEGADO (UE) N. o 1/2014 DA COMISSÃO de 28 de agosto
+      de 2013; REGULAMENTO DELEGADO (UE) N. o 182/2014 DA COMISSÃO de 17 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Artigo 43.º
+    - Altera Notas
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I
+    - Adita Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países elegíveis para o sistema a que se refere o artigo 3.º que tenham sido temporariamente retirados do sistema,
+      relativamente a todos ou a alguns produtos originários desses países
+    - Adita ANEXO II
+    - Adita Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea a) que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países.
+    - Adita ANEXO III
+    - Adita Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0016))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários do regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se
+      refere o artigo 1.º, n.º 2, alínea b), que tenham sido temporariamente retirados desse regime, relativamente a todos
+      ou a alguns produtos originários desses países
+    - Adita ANEXO IV
+    - Adita Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0017))do
+      acordo especial Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Adita Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea c), que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países
+    - Adita ANEXO V
+    - Adita Lista de produtos incluídos no regime geral referido no artigo 1.º, n.º 2, alínea a)
+    - Adita ANEXO VI
+    - Adita Normas de aplicação do artigo 8.º
+    - Adita ANEXO VII
+    - Adita Normas de aplicação do capítulo III do presente regulamento
+    - Adita ANEXO VIII
+    - Adita Convenções a que se refere o artigo 9.º
+    - Adita PARTE A
+    - Adita Principais convenções da ONU/OIT relativas aos direitos humanos e aos direitos dos trabalhadores
+    - Adita PARTE B
+    - Adita Convenções relativas ao ambiente e aos princípios da governação
+    - Adita ANEXO IX
+    - Adita Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Adita ANEXO X
+  - date: '2014-10-01'
+    amending: eu:celex:32014R1016:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1016/2014 DA COMISSÃO de 22 de julho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0016))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0017))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0016))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/ec893021-0353-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0017))do
+      acordo especial Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2015-01-01'
+    amending: eu:celex:32014R1015:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1015/2014 DA COMISSÃO de 22 de julho de 2014; REGULAMENTO DELEGADO (UE)
+      N. o 1386/2014 DA COMISSÃO de 19 de agosto de 2014; REGULAMENTO DELEGADO (UE) 2015/602 DA COMISSÃO de 9 de fevereiro
+      de 2015; REGULAMENTO DELEGADO (UE) 2015/1978 DA COMISSÃO de 28 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime geral referido no artigo 1.º, n.º 2, alínea a)
+    - Altera Normas de aplicação do artigo 8.º
+    - Altera Normas de aplicação do capítulo III do presente regulamento
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea a), que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países
+    - Adita Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea a) que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países.
+    - Suprime Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0016))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/1757f2ec-06ff-4453-871a-02e19eb1c59b.0014.02/DOC_1#E0017))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2016-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/d02ad8d5-697a-4ca7-b6cd-cc77063b282e.0014.02/DOC_6#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2016-01-27'
+    amending: eu:celex:32016R0079:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/79 DA COMISSÃO de 25 de novembro de 2015
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/02d377eb-3a8d-4533-89fe-f8bed809a976.0015.02/DOC_1#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2017-01-01'
+    amending: eu:celex:32015R1979:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/1979 DA COMISSÃO de 28 de agosto de 2015; REGULAMENTO DELEGADO (UE) 2017/217
+      DA COMISSÃO de 5 de dezembro de 2016
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^13^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0013))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^14^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0015))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^15^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0017))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^16^](http://publications.europa.eu/resource/cellar/7cda03eb-5ffb-4ea1-89d4-7d7877ebd480.0015.02/DOC_1#E0018))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2017-05-19'
+    amending: eu:celex:32017R0836:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/836 DA COMISSÃO de 11 de janeiro de 2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/56e471eb-5b58-46f1-b93a-4ce062146769.0015.02/DOC_2#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2018-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/f531891a-5eb7-41b1-b5e9-d322264f92d4.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2018-03-07'
+    amending: eu:celex:32018R0216:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/216 DA COMISSÃO de 14 de dezembro de 2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera LISTA DE ANEXOS
+    - Altera Lista de produtos incluídos no regime geral referido no artigo 1.º, n.º 2, alínea a)
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/19d5a40b-2a03-47b0-bbb3-b4286979d6c1.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2019-01-01'
+    amending: eu:celex:32018R0148:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/148 DA COMISSÃO de 27 de setembro de 2017; REGULAMENTO DELEGADO (UE) 2020/129
+      DA COMISSÃO de 26 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Normas de aplicação do capítulo III do presente regulamento
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/13bede29-533c-4770-b257-3189327befef.0015.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2020-08-12'
+    amending: eu:celex:32020R0550:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/550 DA COMISSÃO de 12 de fevereiro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea a), que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países
+    - Altera Normas de aplicação do capítulo III do presente regulamento
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Adita Países beneficiários do regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea
+      c), que tenham sido temporariamente retirados desse regime, relativamente a todos ou a alguns produtos originários destes
+      países
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/dbccf269-1ff9-11e9-8d04-01aa75ed71a1.0019.03/DOC_2#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países beneficiários do regime geral a que se refere o artigo 1.º, n.º 2, alínea c), que tenham sido temporariamente
+      retirados desse regime, relativamente a todos ou a alguns produtos originários destes países
+  - date: '2021-01-01'
+    amending: eu:celex:32020R0128:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/128 da COMISSÃO de 25 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Normas de aplicação do capítulo III do presente regulamento
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/7e23b0ee-d6be-11ea-adf7-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2021-04-10'
+    amending: eu:celex:32021R0576:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/576 DA COMISSÃO de 30 de novembro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/bc7443b4-8ecc-11ea-812f-01aa75ed71a1.0015.03/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2022-01-01'
+    amending: eu:celex:32021R0114:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/114 DA COMISSÃO de 25 de setembro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/d5dbca66-a752-11eb-9585-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/1d485b4e-4711-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2023-11-28'
+    amending: eu:celex:32023R2663:por
+    amending_title: REGULAMENTO (UE) 2023/2663 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Artigo 43.º
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0006))
+      para o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0008))
+      do regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0010))
+      do regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º
+      2, alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0011))
+      do regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0006))para
+      o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0008))do
+      regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0010))do
+      regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º 2,
+      alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/7fa812cb-8119-11ed-9887-01aa75ed71a1.0020.02/DOC_1#E0011))do
+      regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+  - date: '2025-01-01'
+    amending: eu:celex:32021R2127:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/2127 DA COMISSÃO de 29 de setembro de 2021; REGULAMENTO DELEGADO (UE) 2025/1951
+      DA COMISSÃO de 29 de setembro de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 35.º
+    - Altera Artigo 43.º
+    - Altera Normas de aplicação do capítulo III do presente regulamento
+    - Altera Lista de produtos incluídos no regime especial de incentivo ao desenvolvimento sustentável e à boa governação
+      a que se refere o artigo 1.º, n.º 2, alínea b)
+    - Altera Notas
+    - Adita Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/0c61fda6-bc87-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0006))
+      para o sistema a que se refere o artigo 3.º
+    - Adita Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/0c61fda6-bc87-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0008))
+      do regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Adita Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/0c61fda6-bc87-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0010))
+      do regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º
+      2, alínea b)
+    - Adita Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/0c61fda6-bc87-11ef-91ed-01aa75ed71a1.0020.02/DOC_2#E0011))
+      do regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
+    - Suprime Países elegíveis ([^6^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0006))
+      para o sistema a que se refere o artigo 3.º
+    - Suprime Países beneficiários ([^7^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0008))
+      do regime geral a que se refere o artigo 1.º, n.º 2, alínea a)
+    - Suprime Países beneficiários ([^8^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0010))
+      do regime especial de incentivo ao desenvolvimento sustentável e à boa governação a que se refere o artigo 1.º, n.º
+      2, alínea b)
+    - Suprime Países beneficiários ([^9^](http://publications.europa.eu/resource/cellar/448735a6-a030-11ee-b164-01aa75ed71a1.0020.02/DOC_1#E0011))
+      do regime especial para os países menos avançados a que se refere o artigo 1.º, n.º 2, alínea c)
 identifiers:
   celex: 32012R0978
   eli: http://data.europa.eu/eli/reg/2012/978/oj
@@ -50,7 +606,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ee7e94db-2761-11e2-9209-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0c61fda6-bc87-11ef-91ed-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0978-20250101
-  retrieved_at: '2026-10-22T03:16:19Z'
+  retrieved_at: '2026-10-22T16:11:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T07:51:20.131+02:00'
 integrity:
@@ -59,9 +615,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:19Z'
-  notes: Texto consolidado 02012R0978-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:11:46Z'
+  notes: 18 versão(ões); histórico completo em regulamento-ue-2012-978.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -295,56 +851,19 @@ relationships:
   date: '2011-05-31'
 article_structure:
   article_count: 43
-  section_count: 50
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 51
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:19Z'
+  checked_at: '2026-10-22T16:11:46Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 978/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012R0978 — PT — 01.01.2025 — 018.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32013R0154) — [REGULAMENTO DELEGADO (UE) N.º 154/2013 DA COMISSÃO de 18 de dezembro de 2012](http://publications.europa.eu/resource/celex/32013R0154) — L 48 — 1 — 21.2.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R1421) — [REGULAMENTO DELEGADO (UE) N.º 1421/2013 DA COMISSÃO de 30 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1421) — L 355 — 1 — 31.12.2013
-- [►M3](http://publications.europa.eu/resource/celex/32014R0001) — [REGULAMENTO DELEGADO (UE) N.º 1/2014 DA COMISSÃO de 28 de agosto de 2013](http://publications.europa.eu/resource/celex/32014R0001) — L 1 — 1 — 4.1.2014
-- [M4](http://publications.europa.eu/resource/celex/32014R0182) — [REGULAMENTO DELEGADO (UE) N.º 182/2014 DA COMISSÃO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32014R0182) — L 57 — 1 — 27.2.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014R1015) — [REGULAMENTO DELEGADO (UE) N.º 1015/2014 DA COMISSÃO de 22 de julho de 2014](http://publications.europa.eu/resource/celex/32014R1015) — L 283 — 20 — 27.9.2014
-- [►M6](http://publications.europa.eu/resource/celex/32014R1016) — [REGULAMENTO DELEGADO (UE) N.º 1016/2014 DA COMISSÃO de 22 de julho de 2014](http://publications.europa.eu/resource/celex/32014R1016) — L 283 — 23 — 27.9.2014
-- [►M7](http://publications.europa.eu/resource/celex/32014R1386) — [REGULAMENTO DELEGADO (UE) N.º 1386/2014 DA COMISSÃO de 19 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R1386) — L 369 — 33 — 24.12.2014
-- [M8](http://publications.europa.eu/resource/celex/32015R0602) — [REGULAMENTO DELEGADO (UE) 2015/602 DA COMISSÃO de 9 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0602) — L 100 — 8 — 17.4.2015
-- [►M9](http://publications.europa.eu/resource/celex/32015R1978) — [REGULAMENTO DELEGADO (UE) 2015/1978 DA COMISSÃO de 28 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1978) — L 289 — 1 — 5.11.2015
-- [►M10](http://publications.europa.eu/resource/celex/32015R1979) — [REGULAMENTO DELEGADO (UE) 2015/1979 DA COMISSÃO de 28 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1979) — L 289 — 3 — 5.11.2015
-- [►M11](http://publications.europa.eu/resource/celex/32016R0079) — [REGULAMENTO DELEGADO (UE) 2016/79 DA COMISSÃO de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32016R0079) — L 17 — 1 — 26.1.2016
-- [►M12](http://publications.europa.eu/resource/celex/32017R0217) — [REGULAMENTO DELEGADO (UE) 2017/217 DA COMISSÃO de 5 de dezembro de 2016](http://publications.europa.eu/resource/celex/32017R0217) — L 34 — 7 — 9.2.2017
-- [►M13](http://publications.europa.eu/resource/celex/32017R0836) — [REGULAMENTO DELEGADO (UE) 2017/836 DA COMISSÃO de 11 de janeiro de 2017](http://publications.europa.eu/resource/celex/32017R0836) — L 125 — 1 — 18.5.2017
-- [►M14](http://publications.europa.eu/resource/celex/32018R0148) — [REGULAMENTO DELEGADO (UE) 2018/148 DA COMISSÃO de 27 de setembro de 2017](http://publications.europa.eu/resource/celex/32018R0148) — L 26 — 8 — 31.1.2018
-- [►M15](http://publications.europa.eu/resource/celex/32018R0216) — [REGULAMENTO DELEGADO (UE) 2018/216 DA COMISSÃO de 14 de dezembro de 2017](http://publications.europa.eu/resource/celex/32018R0216) — L 42 — 1 — 15.2.2018
-- [►M16](http://publications.europa.eu/resource/celex/32020R0128) — [REGULAMENTO DELEGADO (UE) 2020/128 da COMISSÃO de 25 de novembro de 2019](http://publications.europa.eu/resource/celex/32020R0128) — L 27 — 6 — 31.1.2020
-- [M17](http://publications.europa.eu/resource/celex/32020R0129) — [REGULAMENTO DELEGADO (UE) 2020/129 DA COMISSÃO de 26 de novembro de 2019](http://publications.europa.eu/resource/celex/32020R0129) — L 27 — 8 — 31.1.2020
-- [►M18](http://publications.europa.eu/resource/celex/32020R0550) — [REGULAMENTO DELEGADO (UE) 2020/550 DA COMISSÃO de 12 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0550) — L 127 — 1 — 22.4.2020
-- [►M19](http://publications.europa.eu/resource/celex/32021R0114) — [REGULAMENTO DELEGADO (UE) 2021/114 DA COMISSÃO de 25 de setembro de 2020](http://publications.europa.eu/resource/celex/32021R0114) — L 36 — 5 — 2.2.2021
-- [►M20](http://publications.europa.eu/resource/celex/32021R0576) — [REGULAMENTO DELEGADO (UE) 2021/576 DA COMISSÃO de 30 de novembro de 2020](http://publications.europa.eu/resource/celex/32021R0576) — L 123 — 1 — 9.4.2021
-- [►M21](http://publications.europa.eu/resource/celex/32021R2127) — [REGULAMENTO DELEGADO (UE) 2021/2127 DA COMISSÃO de 29 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R2127) — L 432 — 7 — 3.12.2021
-- [►M22](http://publications.europa.eu/resource/celex/32023R2663) — [REGULAMENTO (UE) 2023/2663 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2663) — L 2663 — 1 — 27.11.2023
-- [►M23](http://publications.europa.eu/resource/celex/32025R1951) — [REGULAMENTO DELEGADO (UE) 2025/1951 DA COMISSÃO de 29 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1951) — L 1951 — 1 — 9.12.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R1421R%2801%29) — [Rectificação, JO L 091, 27.3.2014, p. 50 (1421/2013)](http://publications.europa.eu/resource/celex/32013R1421R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32012R0978R%2802%29) — [Rectificação, JO L 272, 16.10.2015, p. 14 (978/2012)](http://publications.europa.eu/resource/celex/32012R0978R%2802%29)
-
-## REGULAMENTO (UE) N.º 978/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

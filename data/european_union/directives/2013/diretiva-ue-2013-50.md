@@ -39,6 +39,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-11-26'
+version_history:
+  file: diretiva-ue-2013-50.versoes.json
+  count: 2
+  source_lastmod: '2013-11-26'
+  versions:
+  - date: '2013-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-11-26'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Alteração da Diretiva 2004/109/CE
+    - Altera Artigo 2.º — Alteração da Diretiva 2003/71/CE
+    - Altera Artigo 5.º — Revisão
+    - Altera Artigo 7.º — Destinatários
+    - Altera Notas
+    - Adita «CAPÍTULO VI-A
+    - Adita SANÇÕES E MEDIDAS».
+    - Adita «CAPÍTULO VI-B
+    - Adita PUBLICAÇÃO DE DECISÕES».
 identifiers:
   celex: 32013L0050
   eli: http://data.europa.eu/eli/dir/2013/50/oj
@@ -53,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ddbaa742-46bc-11e3-ae03-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ca15ec00-1221-41af-90a1-a0ef55bf3f3d.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0050-20131126
-  retrieved_at: '2026-10-22T03:00:03Z'
+  retrieved_at: '2026-10-22T16:15:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T20:30:18.111+02:00'
 integrity:
@@ -62,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:03Z'
-  notes: Texto consolidado 02013L0050-20131126.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:13Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2013-50.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -182,29 +205,19 @@ relationships:
   source: null
 article_structure:
   article_count: 7
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:03Z'
+  checked_at: '2026-10-22T16:15:13Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva 2013/50/UE do Parlamento Europeu e do Conselho, de 22 de outubro de 2013
-
-> 2013L0050 — PT — 26.11.2013 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013L0050R%2801%29) — [Rectificação, JO L 014, 18.1.2014, p. 35 (2013/50/UE)](http://publications.europa.eu/resource/celex/32013L0050R%2801%29)
-
-## DIRETIVA 2013/50/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de outubro de 2013
 

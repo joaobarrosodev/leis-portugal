@@ -37,6 +37,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2013-29.versoes.json
+  count: 1
+  source_lastmod: '2013-06-29'
+  versions:
+  - date: '2013-06-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013L0029
   eli: http://data.europa.eu/eli/dir/2013/29/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bdfc585e-dff1-11e2-9165-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/bdfc585e-dff1-11e2-9165-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:53:10Z'
+  retrieved_at: '2026-10-22T16:13:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-24T20:57:30.911+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:10Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:55Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2013-29.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -177,21 +186,20 @@ relationships:
   source: null
 article_structure:
   article_count: 50
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:10Z'
+  checked_at: '2026-10-22T16:13:55Z'
   warnings:
-  - Versão consolidada 02013L0029-20130629 indisponível (Sem expressão na língua por para CELEX 02013L0029-20130629.); usado
-    o texto do JO.
+  - '02013L0029-20130629: versão indisponível (Sem expressão na língua por para CELEX 02013L0029-20130629.)'
   errors: []
 ---
 
-# DIRETIVA 2013/29/UE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Diretiva 2013/29/UE do Parlamento Europeu e do Conselho, de 12 de junho de 2013
 
 de 12 de junho de 2013
 

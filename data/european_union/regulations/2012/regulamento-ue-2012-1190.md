@@ -35,6 +35,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-01-02'
+version_history:
+  file: regulamento-ue-2012-1190.versoes.json
+  count: 2
+  source_lastmod: '2013-01-02'
+  versions:
+  - date: '2012-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-02'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objetivo da União
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2
+    - Adita 1. BASE DE AMOSTRAGEM
+    - Adita 2. MONITORIZAÇÃO DOS PERUS
+    - Adita 2.1. Frequência da amostragem
+    - Adita 2.2. Protocolo de amostragem
+    - Adita 2.2.1. Instruções gerais para a amostragem
+    - Adita 2.2.2. Instruções específicas para certos tipos de explorações
+    - Adita 2.2.3. Amostragem pela autoridade competente
+    - Adita 2.2.4. Transporte
+    - Adita 3. ANÁLISES LABORATORIAIS
+    - Adita 3.1. Preparação das amostras
+    - Adita 3.2. Método de deteção
+    - Adita 3.3. Serotipagem
+    - Adita 3.4. Métodos alternativos
+    - Adita 3.5. Armazenagem das estirpes
+    - Adita 4. RESULTADOS E RELATÓRIOS
+    - Adita 4.1. Cálculo da prevalência para verificação do objetivo da União
+    - Adita 4.2. Relatórios
 identifiers:
   celex: 32012R1190
   eli: http://data.europa.eu/eli/reg/2012/1190/oj
@@ -49,7 +85,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1190-20130102
-  retrieved_at: '2026-10-22T03:16:20Z'
+  retrieved_at: '2026-10-22T16:12:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T10:44:19.220+02:00'
 integrity:
@@ -58,9 +94,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:20Z'
-  notes: Texto consolidado 02012R1190-20130102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:12:01Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2012-1190.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,29 +152,19 @@ relationships:
   date: '2008-06-24'
 article_structure:
   article_count: 4
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:20Z'
+  checked_at: '2026-10-22T16:12:01Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. o 1190/2012 da Comissão, de 12 de dezembro de 2012
-
-> 2012R1190 — PT — 02.01.2013 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) — [Rectificação, JO L 068, 13.3.2015, p. 91 (1190/2012)](http://publications.europa.eu/resource/celex/32012R1190R%2802%29)
-
-## REGULAMENTO (UE) N.º 1190/2012 DA COMISSÃO
 
 de 12 de dezembro de 2012
 

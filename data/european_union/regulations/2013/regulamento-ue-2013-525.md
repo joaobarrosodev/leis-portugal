@@ -37,6 +37,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2013-525.versoes.json
+  count: 2
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2013-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO 1
+    - Suprime OBJETO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO 2
+    - Suprime ESTRATÉGIAS DE DESENVOLVIMENTO HIPOCARBÓNICO
+    - Suprime Artigo 4.º — Estratégias de desenvolvimento hipocarbónico
+    - Suprime CAPÍTULO 3
+    - Suprime COMUNICAÇÃO DAS EMISSÕES E DAS REMOÇÕES HISTÓRICAS DE GASES COM EFEITO DE ESTUFA
+    - Suprime Artigo 5.º — Sistemas de inventário nacionais
+    - Suprime Artigo 6.º — Sistema de inventário da União
+    - Suprime Artigo 7.º — Inventários de gases com efeito de estufa
+    - Suprime Artigo 8.º — Inventários aproximados das emissões de gases com efeito de estufa
+    - Suprime Artigo 9.º — Procedimentos para completar as estimativas das emissões para elaborar o inventário da União
+    - Suprime CAPÍTULO 4
+    - Suprime REGISTOS
+    - Suprime Artigo 10.º — Estabelecimento e funcionamento dos registos
+    - Suprime Artigo 11.º — Retirada de unidades no âmbito do Protocolo de Quioto
+    - Suprime CAPÍTULO 5
+    - Suprime COMUNICAÇÃO DAS POLÍTICAS E MEDIDAS E DAS PROJEÇÕES RELATIVAS ÀS EMISSÕES ANTROPOGÉNICAS DE GASES COM EFEITO
+      DE ESTUFA POR FONTES E ÀS REMOÇÕES POR SUMIDOUROS
+    - Suprime Artigo 12.º — Sistemas nacionais e da União para as políticas e medidas e as projeções
+    - Suprime Artigo 13.º — Comunicação das políticas e medidas
+    - Suprime Artigo 14.º — Comunicação de projeções
+    - Suprime CAPÍTULO 6
+    - Suprime COMUNICAÇÃO DE OUTRAS INFORMAÇÕES RELEVANTES NO QUE SE REFERE ÀS ALTERAÇÕES CLIMÁTICAS
+    - Suprime Artigo 15.º — Comunicação de medidas de adaptação nacionais
+    - Suprime Artigo 16.º — Comunicação do apoio financeiro e tecnológico concedido aos países em desenvolvimento
+    - Suprime Artigo 17.º — Comunicação da utilização das receitas das vendas em leilão e dos créditos por projetos
+    - Suprime Artigo 18.º — Relatórios bienais e comunicações nacionais
+    - Suprime CAPÍTULO 7
+    - Suprime ANÁLISE DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA POR PERITOS A NÍVEL DA UNIÃO
+    - Suprime Artigo 19.º — Análise dos inventários
+    - Suprime Artigo 20.º — Efeitos dos novos cálculos
+    - Suprime CAPÍTULO 8
+    - Suprime COMUNICAÇÃO DOS PROGRESSOS RELATIVAMENTE AOS COMPROMISSOS A NÍVEL DA UNIÃO E A NÍVEL INTERNACIONAL
+    - Suprime Artigo 21.º — Comunicação dos progressos
+    - Suprime Artigo 22.º — Relatório sobre o período suplementar para o cumprimento dos compromissos no âmbito do Protocolo
+      de Quioto
+    - Suprime CAPÍTULO 9
 identifiers:
   celex: 32013R0525
   eli: http://data.europa.eu/eli/reg/2013/525/oj
@@ -51,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0fcd40ae-d802-11e2-bfa7-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2382cf09-445b-11eb-b59f-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0525-20210101
-  retrieved_at: '2026-10-22T02:43:02Z'
+  retrieved_at: '2026-10-22T16:18:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T00:49:00.650+02:00'
 integrity:
@@ -60,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:02Z'
-  notes: Texto consolidado 02013R0525-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:18:06Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2013-525.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,16 +260,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:02Z'
+  checked_at: '2026-10-22T16:18:06Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02013R0525-20140717: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0525-20180709: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

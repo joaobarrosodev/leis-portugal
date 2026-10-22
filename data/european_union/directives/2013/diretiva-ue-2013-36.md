@@ -36,6 +36,320 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-11'
+version_history:
+  file: diretiva-ue-2013-36.versoes.json
+  count: 10
+  source_lastmod: '2026-07-11'
+  versions:
+  - date: '2013-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-29'
+    amending: eu:celex:32014L0017:por
+    amending_title: DIRETIVA 2014/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de fevereiro de 2014; M2; DIRETIVA (UE) 2015/2366
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015; M4; DIRETIVA (UE) 2019/878 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 20 de maio de 2019; DIRETIVA (UE) 2021/338 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Designação e atribuições das autoridades competentes
+    - Altera Artigo 8.º — Autorização
+    - Altera Artigo 9.º — Proibição da atividade de aceitação do público de depósitos ou outros fundos reembolsáveis por pessoas
+      ou empresas que não sejam instituições de crédito
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 18.º — Revogação da autorização
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 31.º — Cobertura de empresas não autorizadas a deter fundos ou valores mobiliários dos seus clientes
+    - Altera Artigo 47.º — Notificação relativa a sucursais de países terceiros e condições de acesso para as instituições
+      de crédito com essas sucursais
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 57.º — Troca de informações com organismos de supervisão
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 64.º — Poderes de supervisão e poderes sancionatórios
+    - Altera Artigo 65.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 66.º — Sanções administrativas e outras medidas administrativas a aplicar por incumprimento das condições
+      de autorização e dos requisitos de aquisição de participações qualificadas
+    - Altera Artigo 67.º — Outras disposições
+    - Altera Artigo 74.º — Governação interna e planos de recuperação e de resolução
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 85.º — Risco operacional
+    - Altera Artigo 88.º — Sistemas de governo
+    - Altera Artigo 89.º — Comunicação discriminada por país
+    - Altera Artigo 91.º — Órgão de administração
+    - Altera Artigo 92.º — Políticas de remuneração
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 97.º — Revisão e avaliação pelo supervisor
+    - Altera Artigo 98.º — Critérios técnicos para a revisão e a avaliação
+    - Altera Artigo 99.º — Plano de atividades de supervisão
+    - Altera Artigo 104.º — Poderes de supervisão
+    - Altera Artigo 105.º — Requisitos específicos de liquidez
+    - Altera Artigo 108.º — Processo de auto-avaliação da adequação do capital interno
+    - Altera Artigo 109.º — Disposições, processos e mecanismos das instituições
+    - Altera Artigo 111.º — Determinação da autoridade responsável pela supervisão em base consolidada
+    - Altera Artigo 113.º — Decisões conjuntas sobre requisitos prudenciais específicos de uma instituição
+    - Altera Artigo 115.º — Acordos de coordenação e de cooperação
+    - Altera Artigo 116.º — Colégios de autoridades de supervisão
+  - date: '2021-06-28'
+    amending: eu:celex:32019L2034:por
+    amending_title: DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 18.º — Revogação da autorização
+    - Altera Artigo 20.º — Notificação da autorização e da revogação da autorização
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 51.º — Sucursais significativas
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 66.º — Sanções administrativas e outras medidas administrativas a aplicar por incumprimento das condições
+      de autorização e dos requisitos de aquisição de participações qualificadas
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 84.º — Risco de taxa de juro resultante de atividades não incluídas na carteira de negociação
+    - Altera Artigo 86.º — Risco de liquidez
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 98.º — Critérios técnicos para a revisão e a avaliação
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 110.º — Revisão e avaliação e medidas de supervisão
+    - Altera Artigo 111.º — Determinação da autoridade responsável pela supervisão em base consolidada
+    - Altera Artigo 114.º — Requisitos de informação em situações de emergência
+    - Altera Artigo 116.º — Colégios de autoridades de supervisão
+    - Altera Artigo 125.º — Cooperação
+    - Altera Artigo 128.º — Definições
+    - Altera Artigo 129.º — Requisito de manutenção de uma reserva de conservação de fundos próprios
+    - Altera Artigo 130.º — Requisito de manutenção de uma reserva contracíclica de fundos próprios específica da instituição
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera Artigo 143.º — Requisitos gerais de divulgação
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+    - Adita Artigo 5.º — Coordenação nos Estados‐Membros
+    - Adita Artigo 8.º A — Requisitos específicos de autorização das instituições de crédito a que se refere o artigo 4.º,
+      n.º 1, ponto 1, alínea b), do Regulamento (UE) n.º 575/2013
+    - Suprime Artigo 5.º — Coordenação nos Estados-Membros
+    - Suprime TÍTULO IV
+    - Suprime CAPITAL INICIAL DAS EMPRESAS DE INVESTIMENTO
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera Artigo 142.º — Plano de conservação de fundos próprios
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+    - Adita Artigo 141.º-B — Restrições às distribuições em caso de incumprimento do requisito de reserva para rácio de alavancagem
+    - Adita Artigo 141.º-C — Incumprimento do requisito de reserva para rácio de alavancagem
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+    - Adita Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-07-29'
+    amending: eu:celex:32024L1619:por
+    amending_title: DIRETIVA (UE) 2024/1619 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera Artigo 133.º — Requisito de manutenção de uma reserva para risco sistémico
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+  - date: '2024-12-30'
+    amending: eu:celex:32023R1114:por
+    amending_title: REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023; DIRETIVA (UE) 2024/2994
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 81.º — Risco de concentração
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 100.º — Testes de esforço para a revisão e avaliação
+    - Altera Artigo 104.º — Poderes de supervisão
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+  - date: '2025-01-17'
+    amending: eu:celex:32022L2556:por
+    amending_title: DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 65.º — Sanções administrativas e outras medidas administrativas
+    - Altera Artigo 74.º — Governação interna e planos de recuperação e de resolução
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 85.º — Risco operacional
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 97.º — Revisão e avaliação pelo supervisor
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+  - date: '2026-01-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Designação e atribuições das autoridades competentes
+    - Altera Artigo 8.º A — Requisitos específicos de autorização das instituições de crédito a que se refere o artigo 4.º,
+      n.º 1, ponto 1, alínea b), do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 18.º — Revogação da autorização
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 22.º — Comunicação e apreciação de projetos de aquisição
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 67.º — Outras disposições
+    - Altera Artigo 73.º — Capital interno
+    - Altera Artigo 74.º — Governação interna e planos de recuperação e de resolução
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Artigo 77.º — Métodos internos para o cálculo dos requisitos de fundos próprios
+    - Altera Artigo 79.º — Risco de crédito e risco de contraparte
+    - Altera Artigo 81.º — Risco de concentração
+    - Altera Artigo 83.º — Risco de mercado
+    - Altera Artigo 85.º — Risco operacional
+    - Altera Artigo 88.º — Sistemas de governo
+    - Altera Artigo 92.º — Políticas de remuneração
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 97.º — Revisão e avaliação pelo supervisor
+    - Altera Artigo 98.º — Critérios técnicos para a revisão e a avaliação
+    - Altera Artigo 100.º — Testes de esforço para a revisão e avaliação
+    - Altera Artigo 101.º — Revisão contínua da autorização para utilização de métodos internos
+    - Altera Artigo 104.º — Poderes de supervisão
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 104.º-B — Orientações sobre fundos próprios adicionais
+    - Altera Artigo 106.º — Requisitos específicos de publicação
+    - Altera Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 121.º — Qualificações dos membros do órgão de administração
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera Artigo 133.º — Requisito de manutenção de uma reserva para risco sistémico
+  - date: '2026-07-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º-A — Independência das autoridades competentes em matéria de supervisão
+    - Altera Artigo 14.º — Acionistas e sócios
+    - Altera Artigo 21.º-A — Aprovação das companhias financeiras e das companhias financeiras mistas
+    - Altera Artigo 21.º-B — Empresa-mãe intermédia na UE
+    - Altera Artigo 23.º — Critérios de apreciação
+    - Altera Artigo 27.º-F — Notificação de transferências significativas de ativos e passivos
+    - Altera Artigo 27.º-H — Âmbito de aplicação e definições
+    - Altera Artigo 48.º-K — Informações regulamentares e financeiras sobre sucursais de países terceiros e sobre a empresa
+      principal
+    - Altera Artigo 53.º — Sigilo profissional
+    - Altera Artigo 56.º — Troca de informações entre autoridades
+    - Altera Artigo 58.º — Transmissão de informações relativas aos aspetos monetário de garantia de depósitos, sistémico
+      e de pagamento
+    - Altera Artigo 58.º-A — Transmissão de informações a organismos internacionais
+    - Altera Artigo 63.º — Obrigações das pessoas encarregadas da revisão legal de contas anuais e contas consolidadas
+    - Altera Artigo 65.º — Sanções administrativas, sanções pecuniárias compulsórias e outras medidas administrativas
+    - Altera Artigo 66.º — Sanções administrativas, sanções pecuniárias compulsórias e outras medidas administrativas a aplicar
+      por incumprimento dos requisitos de autorização e dos requisitos em matéria de aquisição ou alienação de participações
+      significativas, transferências significativas de ativos e passivos, fusões ou cisões
+    - Altera Artigo 75.º — Supervisão das políticas de remuneração
+    - Altera Artigo 76.º — Tratamento de riscos
+    - Altera Análise comparativa dos métodos de cálculo dos requisitos de fundos próprios para fins de supervisão
+    - Altera Artigo 91.º — Órgão de administração e avaliação da adequação
+    - Altera Artigo 94.º — Elementos variáveis da remuneração
+    - Altera Artigo 104.º-A — Requisito de fundos próprios adicionais
+    - Altera Artigo 116.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 131.º — Instituições de importância sistémica global e outras instituições de importância sistémica
+    - Altera LISTA DAS OPERAÇÕES QUE BENEFICIAM DE RECONHECIMENTO MÚTUO
+    - Altera Notas
+    - Adita Artigo 21.º-C — Obrigação de estabelecer uma sucursal para a prestação de serviços bancários por empresas de países
+      terceiros
 identifiers:
   celex: 32013L0036
   eli: http://data.europa.eu/eli/dir/2013/36/oj
@@ -50,7 +364,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2ff66fd7-df0b-11e2-9165-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/dd9f9333-5eb5-11f1-aa6d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0036-20260711
-  retrieved_at: '2026-10-22T02:35:50Z'
+  retrieved_at: '2026-10-22T16:15:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T20:04:27.995+02:00'
 integrity:
@@ -59,9 +373,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:50Z'
-  notes: Texto consolidado 02013L0036-20260711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:10Z'
+  notes: 10 versão(ões); histórico completo em diretiva-ue-2013-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -519,48 +833,24 @@ relationships:
   source: null
 article_structure:
   article_count: 190
-  section_count: 93
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 95
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:50Z'
-  warnings: []
+  checked_at: '2026-10-22T16:15:10Z'
+  warnings:
+  - '02013L0036-20130717: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013L0036-20140320: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013L0036-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013L0036-20180113: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013L0036-20180709: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Diretiva 2013/36/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013
-
-> 02013L0036 — PT — 11.07.2026 — 014.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0017) — [DIRETIVA 2014/17/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0017) — L 60 — 34 — 28.2.2014
-- [M2](http://publications.europa.eu/resource/celex/32014L0059) — [DIRETIVA 2014/59/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0059) — L 173 — 190 — 12.6.2014
-- [►M3](http://publications.europa.eu/resource/celex/32015L2366) — [DIRETIVA (UE) 2015/2366 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de novembro de 2015](http://publications.europa.eu/resource/celex/32015L2366) — L 337 — 35 — 23.12.2015
-- [M4](http://publications.europa.eu/resource/celex/32018L0843) — [DIRETIVA (UE) 2018/843 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018L0843) — L 156 — 43 — 19.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019L0878) — [DIRETIVA (UE) 2019/878 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0878) — L 150 — 253 — 7.6.2019
-- [►M6](http://publications.europa.eu/resource/celex/32019L2034) — [DIRETIVA (UE) 2019/2034 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019L2034) — L 314 — 64 — 5.12.2019
-- [►M7](http://publications.europa.eu/resource/celex/32021L0338) — [DIRETIVA (UE) 2021/338 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021L0338) — L 68 — 14 — 26.2.2021
-- [►M8](http://publications.europa.eu/resource/celex/32022L2556) — [DIRETIVA (UE) 2022/2556 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2556) — L 333 — 153 — 27.12.2022
-- [►M9](http://publications.europa.eu/resource/celex/32023R1114) — [REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1114) — L 150 — 40 — 9.6.2023
-- [►M10](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M11](http://publications.europa.eu/resource/celex/32024L1619) — [DIRETIVA (UE) 2024/1619 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1619) — L 1619 — 1 — 19.6.2024
-- [►M12](http://publications.europa.eu/resource/celex/32024L2994) — [DIRETIVA (UE) 2024/2994 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L2994) — L 2994 — 1 — 4.12.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013L0036R%2801%29) — [Rectificação, JO L 208, 2.8.2013, p. 73 (2013/36/UE)](http://publications.europa.eu/resource/celex/32013L0036R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013L0036R%2802%29) — [Rectificação, JO L 020, 25.1.2017, p. 1 (2013/36/UE)](http://publications.europa.eu/resource/celex/32013L0036R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32013L0036R%2806%29) — [Rectificação, JO L 203, 26.6.2020, p. 96 (2013/36/UE)](http://publications.europa.eu/resource/celex/32013L0036R%2806%29)
-- [►C4](http://publications.europa.eu/resource/celex/32019L0878R%2803%29) — [Rectificação, JO L 212, 3.7.2020, p. 20 (2019/878)](http://publications.europa.eu/resource/celex/32019L0878R%2803%29)
-- [►C5](http://publications.europa.eu/resource/celex/32019L2034R%2802%29) — [Rectificação, JO L 405, 2.12.2020, p. 84 (2019/2034)](http://publications.europa.eu/resource/celex/32019L2034R%2802%29)
-
-## DIRETIVA 2013/36/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de junho de 2013
 

@@ -37,6 +37,272 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: diretiva-ue-2013-34.versoes.json
+  count: 9
+  source_lastmod: '2027-01-30'
+  versions:
+  - date: '2013-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-05'
+    amending: eu:celex:32014L0095:por
+    amending_title: DIRETIVA 2014/95/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 22 de outubro
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Princípios gerais de relato financeiro
+    - Altera Artigo 16.º — Conteúdo das notas às demonstrações financeiras relativas a todas as empresas
+    - Altera Artigo 17.º — Divulgações adicionais para médias e grandes empresas e entidades de interesse público
+    - Altera Artigo 19.º — Conteúdo do relatório de gestão
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 22.º — Obrigação de elaborar demonstrações financeiras consolidadas
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 28.º — Notas às demonstrações financeiras consolidadas
+    - Altera Artigo 31.º — Simplificações para as pequenas e médias empresas
+    - Altera Artigo 33.º — Responsabilização e responsabilidades pela elaboração e publicação das demonstrações financeiras
+      e do relatório de gestão
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 38.º — Empresas que são sócias de responsabilidade ilimitada de outras empresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 46.º — Critérios de equivalência
+    - Altera Artigo 48.º — Revisão
+    - Altera Artigo 55.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 19.º-A — Demonstrações não financeiras
+    - Adita Artigo 29.º-A — Demonstrações não financeiras consolidadas
+    - Adita ANEXO I
+    - Adita FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA A)
+    - Adita ANEXO II
+    - Adita FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA B)
+    - Adita ANEXO III
+    - Adita ESTRUTURA HORIZONTAL DO BALANÇO PREVISTA NO ARTIGO 10.º
+    - Adita Ativo
+    - Adita A. Capital subscrito não realizado
+    - Adita B. Despesas de constituição
+    - Adita C. Ativo fixo
+    - Adita I. Ativos intangíveis
+    - Adita II. Ativos fixos tangíveis
+    - Adita III. Investimentos financeiros
+    - Adita D. Ativo corrente
+    - Adita I. Inventários
+    - Adita II. Créditos
+  - date: '2014-12-11'
+    amending: eu:celex:32014L0102:por
+    amending_title: DIRETIVA 2014/102/UE DO CONSELHO Texto relevante para efeitos do EEE de 7 de novembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA A)
+    - Altera FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA B)
+    - Altera Notas
+  - date: '2021-12-21'
+    amending: eu:celex:32021L2101:por
+    amending_title: DIRETIVA (UE) 2021/2101 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA A)
+    - Altera FORMAS DE EMPRESAS A QUE SE REFERE O ARTIGO 1.º, N.º 1, ALÍNEA B)
+    - Altera Ativo
+    - Altera Capital, reservas e passivo
+    - Altera A. Capital subscrito não realizado
+    - Altera C. Ativo fixo
+    - Altera D. Ativo corrente
+    - Altera E. Acréscimos e diferimentos
+    - Altera L. Capital e reservas
+    - Altera Notas
+    - Adita CAPÍTULO 10-A
+    - Adita RELATÓRIO SOBRE AS INFORMAÇÕES RELATIVAS AO IMPOSTO SOBRE O RENDIMENTO
+    - Adita Artigo 48.º-A — Definições respeitantes à apresentação de relatórios sobre as informações relativas ao imposto
+      sobre o rendimento
+    - Adita Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Adita Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Adita Artigo 48.º-D — Publicação e acessibilidade
+    - Adita Artigo 48.º-E — Responsabilidade pela elaboração, publicação e acessibilidade do relatório sobre as informações
+      relativas ao imposto sobre o rendimento
+    - Adita Artigo 48.º-F — Declaração do revisor oficial de contas
+    - Adita Artigo 48.º-G — Data de início do relato de informações relativas ao imposto sobre o rendimento
+    - Adita Artigo 48.º-H — Cláusula de revisão
+    - Suprime I. Ativos intangíveis
+    - Suprime II. Ativos fixos tangíveis
+    - Suprime III. Investimentos financeiros
+    - Suprime I. Inventários
+    - Suprime II. Créditos
+    - Suprime IV. Depósitos bancários e caixa
+    - Suprime A. Capital e reservas
+    - Suprime I. Capital subscrito
+    - Suprime II. Prémios de emissão de ações (quotas)
+    - Suprime III. Excedente de revalorização
+    - Suprime IV. Reservas
+  - date: '2023-01-05'
+    amending: eu:celex:32022L2464:por
+    amending_title: DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Categorias de empresas e de grupos
+    - Altera Artigo 19.º — Conteúdo do relatório de gestão
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 30.º — Obrigação geral de publicação
+    - Altera Artigo 33.º — Responsabilização e responsabilidades pela elaboração e publicação das demonstrações financeiras
+      e do relatório de gestão
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-D — Publicação e acessibilidade
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 19.º-A — Relato de sustentabilidade
+    - Adita Artigo 29.º-A — Relato de sustentabilidade a nível consolidado
+    - Adita CAPÍTULO 6-A
+    - Adita NORMAS DE RELATO DE SUSTENTABILIDADE
+    - Adita Artigo 29.º-B — Normas de relato de sustentabilidade
+    - Adita Artigo 29.º-C — Normas de relato de sustentabilidade aplicáveis a pequenas e médias empresas
+    - Adita CAPÍTULO 6-B
+    - Adita FORMATO ELETRÓNICO ÚNICO DE COMUNICAÇÃO DE INFORMAÇÕES
+    - Adita Artigo 29.º-D — Formato eletrónico único de comunicação de informações
+    - Adita AUDITORIA E GARANTIA DE FIABILIDADE DO RELATO DE SUSTENTABILIDADE
+    - Adita CAPÍTULO 9-A
+    - Adita COMUNICAÇÃO DE INFORMAÇÕES RELATIVAS A EMPRESAS DE PAÍSES TERCEIROS
+    - Adita Artigo 40.º-A — Relatórios de sustentabilidade relativos a empresas de países terceiros
+    - Adita Artigo 40.º-B — Normas de relato de sustentabilidade aplicáveis a empresas de países terceiros
+    - Adita Artigo 40.º-C — Responsabilidade por elaborar, publicar e tornar acessíveis os relatórios de sustentabilidade
+      relativos a empresas de um país terceiro
+    - Adita Artigo 40.º-D — Publicação
+    - Adita DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+    - Adita Artigo 48.º-I — Disposições transitórias
+    - Suprime Artigo 19.º-A — Demonstrações não financeiras
+    - Suprime Artigo 29.º-A — Demonstrações não financeiras consolidadas
+    - Suprime REVISÃO OU AUDITORIA
+    - Suprime DISPOSIÇÕES FINAIS
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023; DIRETIVA DELEGADA
+      (UE) 2023/2775 DA COMISSÃO de 17 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Categorias de empresas e de grupos
+    - Altera Artigo 19.º-A — Relato de sustentabilidade
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 29.º-B — Normas de relato de sustentabilidade
+    - Altera Artigo 29.º-D — Formato eletrónico único de comunicação de informações
+    - Altera Artigo 30.º — Obrigação geral de publicação
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-D — Publicação e acessibilidade
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 33.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2024-05-28'
+    amending: eu:celex:32024L1306:por
+    amending_title: DIRETIVA (UE) 2024/1306 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2024
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 19.º-A — Relato de sustentabilidade
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 29.º-B — Normas de relato de sustentabilidade
+    - Altera Artigo 29.º-D — Formato eletrónico único de comunicação de informações
+    - Altera Artigo 30.º — Obrigação geral de publicação
+    - Altera Artigo 33.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 40.º-B — Normas de relato de sustentabilidade aplicáveis a empresas de países terceiros
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-D — Publicação e acessibilidade
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Notas
+  - date: '2026-03-18'
+    amending: eu:celex:32026L0470:por
+    amending_title: DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Categorias de empresas e de grupos
+    - Altera Artigo 19.º — Conteúdo do relatório de gestão
+    - Altera Artigo 19.º-A — Relato de sustentabilidade
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 29.º-A — Relato de sustentabilidade a nível consolidado
+    - Altera Artigo 29.º-B — Normas de relato de sustentabilidade
+    - Altera Artigo 30.º — Obrigação geral de publicação
+    - Altera Artigo 33.º — Responsabilização e responsabilidades pela elaboração e publicação das demonstrações financeiras
+      e do relatório de gestão
+    - Altera Artigo 33.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 40.º-A — Relatórios de sustentabilidade relativos a empresas de países terceiros
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-D — Publicação e acessibilidade
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 29.º-CA
+    - Adita Artigo 29.º-D
+    - Adita CAPÍTULO 6-C
+    - Adita MEDIDAS DE APOIO DIGITAL
+    - Adita Artigo 29.º-E
+    - Adita Artigo 29.º-F
+    - Suprime Artigo 29.º-C — Normas de relato de sustentabilidade aplicáveis a pequenas e médias empresas
+    - Suprime Artigo 29.º-D — Formato eletrónico único de comunicação de informações
+  - date: '2027-01-30'
+    amending: eu:celex:32025L0002:por
+    amending_title: M8
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 19.º-A — Relato de sustentabilidade
+    - Altera Artigo 20.º — Declaração sobre a governação da sociedade
+    - Altera Artigo 23.º — Dispensa da consolidação
+    - Altera Artigo 29.º-A — Relato de sustentabilidade a nível consolidado
+    - Altera Artigo 29.º-B — Normas de relato de sustentabilidade
+    - Altera Artigo 29.º-CA
+    - Altera Artigo 29.º-D
+    - Altera Artigo 30.º — Obrigação geral de publicação
+    - Altera Artigo 33.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 34.º — Requisito geral
+    - Altera Artigo 35.º — Alteração da Diretiva 2006/43/CE no que se refere ao relatório de auditoria
+    - Altera Artigo 36.º — Dispensas para as microempresas
+    - Altera Artigo 41.º — Definições relativas ao relato de pagamentos a administrações públicas
+    - Altera Artigo 48.º-B — Empresas e sucursais obrigadas a relatar informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-C — Conteúdo do relatório sobre as informações relativas ao imposto sobre o rendimento
+    - Altera Artigo 48.º-D — Publicação e acessibilidade
+    - Altera Artigo 49.º — Exercício da delegação
+    - Altera Notas
 identifiers:
   celex: 32013L0034
   eli: http://data.europa.eu/eli/dir/2013/34/oj
@@ -51,7 +317,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aef88894-e08d-11e2-9165-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/cd97a7c2-2267-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0034-20260318
-  retrieved_at: '2026-10-22T02:35:55Z'
+  retrieved_at: '2026-10-22T16:15:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T19:13:19.764+02:00'
 integrity:
@@ -60,9 +326,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:55Z'
-  notes: Texto consolidado 02013L0034-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:04Z'
+  notes: 9 versão(ões); histórico completo em diretiva-ue-2013-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -436,41 +702,20 @@ relationships:
   source: null
 article_structure:
   article_count: 76
-  section_count: 59
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 60
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:55Z'
-  warnings: []
+  checked_at: '2026-10-22T16:15:04Z'
+  warnings:
+  - '02013L0034-20130719: versão indisponível (Sem expressão na língua por para CELEX 02013L0034-20130719.)'
   errors: []
 ---
 
 # Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013
-
-> 02013L0034 — PT — 18.03.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0095) — [DIRETIVA 2014/95/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2014](http://publications.europa.eu/resource/celex/32014L0095) — L 330 — 1 — 15.11.2014
-- [►M2](http://publications.europa.eu/resource/celex/32014L0102) — [DIRETIVA 2014/102/UE DO CONSELHO de 7 de novembro de 2014](http://publications.europa.eu/resource/celex/32014L0102) — L 334 — 86 — 21.11.2014
-- [►M3](http://publications.europa.eu/resource/celex/32021L2101) — [DIRETIVA (UE) 2021/2101 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de novembro de 2021](http://publications.europa.eu/resource/celex/32021L2101) — L 429 — 1 — 1.12.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022L2464) — [DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2464) — L 322 — 15 — 16.12.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L 2864 — 1 — 20.12.2023
-- [►M6](http://publications.europa.eu/resource/celex/32023L2775) — [DIRETIVA DELEGADA (UE) 2023/2775 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023L2775) — L 2775 — 1 — 21.12.2023
-- [►M7](http://publications.europa.eu/resource/celex/32024L1306) — [DIRETIVA (UE) 2024/1306 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2024](http://publications.europa.eu/resource/celex/32024L1306) — L 1306 — 1 — 8.5.2024
-- [►M8](http://publications.europa.eu/resource/celex/32026L0470) — [DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0470) — L 470 — 1 — 26.2.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022L2464R%2801%29) — [Rectificação, JO L 056, 23.2.2023, p. 31 ((UE) 2022/2464)](http://publications.europa.eu/resource/celex/32022L2464R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013L0034R%2806%29) — [Rectificação, JO L 183, 20.7.2023, p. 60 (Diretiva 2013/34/UE)](http://publications.europa.eu/resource/celex/32013L0034R%2806%29)
-
-## DIRETIVA 2013/34/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 26 de junho de 2013
 

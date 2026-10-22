@@ -36,6 +36,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-06-08'
+version_history:
+  file: regulamento-ue-2012-1151.versoes.json
+  count: 5
+  source_lastmod: '2022-06-08'
+  versions:
+  - date: '2012-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 7.º — Caderno de especificações do produto
+    - Altera Artigo 8.º — Conteúdo do pedido de registo
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 25.º — Disposições transitórias
+    - Altera Artigo 26.º — Procedimento simplificado
+    - Altera Artigo 32.º — Produto da agricultura insular
+    - Altera Artigo 55.º — Relatório sobre produção agrícola local e venda direta
+    - Altera Artigo 59.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PRODUTOS AGRÍCOLAS E GÉNEROS ALIMENTÍCIOS A QUE SE REFERE O ARTIGO 2.º, N.º 1
+    - Adita ANEXO II
+  - date: '2019-12-14'
+    amending: eu:celex:32017R0625:por
+    amending_title: REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 37.º — Verificação da conformidade com o caderno de especificações do produto
+    - Altera Notas
+    - Adita Artigo 36.º
+    - Adita Conteúdo dos controlos oficiais
+    - Adita Artigo 39.º — Organismos delegados que realizam controlos em países terceiros
+    - Suprime Artigo 36.º — Designação da autoridade competente
+    - Suprime Artigo 38.º — Fiscalização da utilização da denominação no mercado
+    - Suprime Artigo 39.º — Delegação nos organismos de controlo por parte das autoridades competentes
+  - date: '2021-12-07'
+    amending: eu:celex:32021R2117:por
+    amending_title: REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021
+    changes:
+    - Altera Artigo 1.º — Objetivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos das denominações de origem e das indicações geográficas
+    - Altera Artigo 6.º — Caráter genérico, conflito com os nomes de variedades vegetais e de raças animais, homónimos e marcas
+    - Altera Artigo 7.º — Caderno de especificações do produto
+    - Altera Artigo 10.º — Fundamentos de oposição
+    - Altera Artigo 12.º — Denominações, símbolos e menções
+    - Altera Artigo 13.º — Proteção
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 15.º — Períodos transitórios para a utilização de denominações de origem protegidas e de indicações geográficas
+      protegidas
+    - Altera Artigo 21.º — Fundamentos de oposição
+    - Altera Artigo 23.º — Denominações, símbolos e menções
+    - Altera Artigo 24.º — Restrições à utilização de denominações registadas
+    - Altera Conteúdo dos controlos oficiais
+    - Altera Artigo 49.º — Pedido de registo de denominações
+    - Altera Artigo 50.º — Exame pela Comissão e publicação para fins de oposição
+    - Altera Artigo 51.º — Procedimento de oposição
+    - Altera Artigo 52.º — Decisão sobre o registo
+    - Altera PRODUTOS AGRÍCOLAS E GÉNEROS ALIMENTÍCIOS A QUE SE REFERE O ARTIGO 2.º, N.º 1
+    - Altera Notas
+    - Adita Artigo 16.º-A — Indicações geográficas de produtos vitivinícolas aromatizados
+    - Adita Artigo 24.º-A — Períodos transitórios para utilização de especialidades tradicionais garantidas
+    - Adita Artigo 53.º — Alterações do caderno de especificações
+    - Suprime Artigo 53.º — Alteração do caderno de especificações do produto
+  - date: '2022-06-08'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 14.º — Relações entre marcas, denominações de origem e indicações geográficas
+    - Altera Artigo 16.º-A — Indicações geográficas de produtos vitivinícolas aromatizados
+    - Altera Conteúdo dos controlos oficiais
+    - Altera Artigo 53.º — Alterações do caderno de especificações
+    - Altera Notas
 identifiers:
   celex: 32012R1151
   eli: http://data.europa.eu/eli/reg/2012/1151/oj
@@ -50,7 +131,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8917d52e-4432-11e2-9b3b-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/3549dc41-e295-11ec-a534-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1151-20220608
-  retrieved_at: '2026-10-22T02:36:27Z'
+  retrieved_at: '2026-10-22T16:12:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T21:54:48.782+02:00'
 integrity:
@@ -59,9 +140,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:27Z'
-  notes: Texto consolidado 02012R1151-20220608.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:12:58Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2012-1151.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -350,37 +431,19 @@ relationships:
   date: '2008-05-09'
 article_structure:
   article_count: 60
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:27Z'
+  checked_at: '2026-10-22T16:12:58Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1151/2012 do Parlamento Europeu e do Conselho, de 21 de novembro de 2012
-
-> 02012R1151 — PT — 08.06.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R0625) — [REGULAMENTO (UE) 2017/625 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de março de 2017](http://publications.europa.eu/resource/celex/32017R0625) — L 95 — 1 — 7.4.2017
-- [►M2](http://publications.europa.eu/resource/celex/32021R2117) — [REGULAMENTO (UE) 2021/2117 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2117) — L 435 — 262 — 6.12.2021
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R1151R%2802%29) — [Rectificação, JO L 055, 27.2.2013, p. 27 (1151/2012)](http://publications.europa.eu/resource/celex/32012R1151R%2802%29)
-- [C2](http://publications.europa.eu/resource/celex/32012R1151R%2803%29) — [Rectificação, JO L 191, 17.7.2015, p. 10 (1151/2012)](http://publications.europa.eu/resource/celex/32012R1151R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32017R0625R%2801%29) — [Rectificação, JO L 137, 24.5.2017, p. 40 (2017/625)](http://publications.europa.eu/resource/celex/32017R0625R%2801%29)
-- [►C4](http://publications.europa.eu/resource/celex/32021R2117R%2801%29) — [Rectificação, JO L 125, 28.4.2022, p. 4 (2021/2117)](http://publications.europa.eu/resource/celex/32021R2117R%2801%29)
-
-## REGULAMENTO (UE) N.º 1151/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 21 de novembro de 2012
 

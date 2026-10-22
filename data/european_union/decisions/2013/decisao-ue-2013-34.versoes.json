@@ -1,0 +1,721 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013D0034:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013D0034-20221017",
+ "dre_path": null,
+ "source_lastmod": "2022-10-17",
+ "versions": [
+  {
+   "date": "2013-01-18",
+   "future": false,
+   "celex": "32013D0034",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23cf83e6993b0bb4",
+    "e78b24693e7e3344",
+    "5ab1fa56b9a9b715",
+    "c726a66a105f6d11",
+    "7f4d44acec1673ab",
+    "c61efe6cdc903a42",
+    "3e81ab18d6071c6c",
+    "2153517e4d8acbc2",
+    "704159389d70f755",
+    "b7a0b74e3262dc26",
+    "1dfa23e5f17ca8ae",
+    "f6831c4f9b70c28d",
+    "7bb06fd0ff05914d",
+    "97d517b2fdd953e9"
+   ]
+  },
+  {
+   "date": "2013-12-09",
+   "future": false,
+   "celex": "02013D0034-20131209",
+   "acts": [
+    {
+     "id": "eu:celex:32013D0729:por",
+     "title": "DECISÃO 2013/729/PESC DO CONSELHO de 9 de dezembro de 2013",
+     "published": null,
+     "celex": "32013D0729"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Artigo 12.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas",
+    "Adita Artigo 3.º-A — Célula de projeto"
+   ],
+   "fragments": [
+    "d0220cb23fbece2e",
+    "e78b24693e7e3344",
+    "5ab1fa56b9a9b715",
+    "c726a66a105f6d11",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "c61efe6cdc903a42",
+    "3e81ab18d6071c6c",
+    "2153517e4d8acbc2",
+    "704159389d70f755",
+    "b7a0b74e3262dc26",
+    "1dfa23e5f17ca8ae",
+    "9c1459cf0bfb79cf",
+    "a413daa987f4bec9",
+    "cd57aedb4bcb1689"
+   ]
+  },
+  {
+   "date": "2014-04-15",
+   "future": false,
+   "celex": "02013D0034-20140415",
+   "acts": [
+    {
+     "id": "eu:celex:32014D0220:por",
+     "title": "Decisão 2014/220/PESC do Conselho de 15 de abril de 2014",
+     "published": null,
+     "celex": "32014D0220"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Artigo 12.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "77b9bf086003ca89",
+    "e78b24693e7e3344",
+    "5ab1fa56b9a9b715",
+    "c726a66a105f6d11",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "c61efe6cdc903a42",
+    "3e81ab18d6071c6c",
+    "2153517e4d8acbc2",
+    "704159389d70f755",
+    "b7a0b74e3262dc26",
+    "5c8863bbd1806e82",
+    "e11d9bd9536c5a49",
+    "f0bc0efd12bddcb2",
+    "6fc842c986a02b38"
+   ]
+  },
+  {
+   "date": "2016-03-23",
+   "future": false,
+   "celex": "02013D0034-20160323",
+   "acts": [
+    {
+     "id": "eu:celex:32016D0446:por",
+     "title": "DECISÃO (PESC) 2016/446 DO CONSELHO de 23 de março de 2016",
+     "published": null,
+     "celex": "32016D0446"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Missão",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Artigo 12.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9f99b59471f10f00",
+    "16e0c10a38744628",
+    "5ab1fa56b9a9b715",
+    "c726a66a105f6d11",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "c61efe6cdc903a42",
+    "3e81ab18d6071c6c",
+    "2153517e4d8acbc2",
+    "704159389d70f755",
+    "b7a0b74e3262dc26",
+    "07f1c0ba66391c28",
+    "06f038257dba7044",
+    "444e7b835de0eeaa",
+    "d5e655fb2b6992bf"
+   ]
+  },
+  {
+   "date": "2017-06-08",
+   "future": false,
+   "celex": "02013D0034-20170608",
+   "acts": [
+    {
+     "id": "eu:celex:32017D0971:por",
+     "title": "DECISÃO (UE) 2017/971 DO CONSELHO de 8 de junho de 2017",
+     "published": null,
+     "celex": "32017D0971"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Nomeação do Comandante da Missão da UE",
+    "Altera Artigo 3.º — Designação do Quartel-General da UE",
+    "Altera Artigo 5.º — Controlo político e direção estratégica",
+    "Altera Artigo 6.º — Direção militar",
+    "Altera Artigo 7.º — Coerência da resposta e coordenação da União",
+    "Altera Artigo 8.º — Participação de Estados terceiros",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9f99b59471f10f00",
+    "16e0c10a38744628",
+    "dc3c67e1362139a6",
+    "b7efb2862c81247b",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "dc72b9c05012de2f",
+    "e08fdfc18f718709",
+    "70371e3255268bd2",
+    "be25cdf21fbd22df",
+    "b7a0b74e3262dc26",
+    "3ba1e9098778cf51",
+    "5d4aca08fff4b09d",
+    "444e7b835de0eeaa",
+    "d0fa4f285a921be8"
+   ]
+  },
+  {
+   "date": "2018-05-14",
+   "future": false,
+   "celex": "02013D0034-20180514",
+   "acts": [
+    {
+     "id": "eu:celex:32018D0716:por",
+     "title": "DECISÃO (PESC) 2018/716 DO CONSELHO de 14 de maio de 2018",
+     "published": null,
+     "celex": "32018D0716"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Missão",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Artigo 12.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9f99b59471f10f00",
+    "c9273861903bf767",
+    "dc3c67e1362139a6",
+    "b7efb2862c81247b",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "dc72b9c05012de2f",
+    "e08fdfc18f718709",
+    "70371e3255268bd2",
+    "be25cdf21fbd22df",
+    "b7a0b74e3262dc26",
+    "41892198fbed38ef",
+    "bafe058c55d685cc",
+    "9444f7ac384ddf12",
+    "f49a8e30c0250698"
+   ]
+  },
+  {
+   "date": "2020-03-23",
+   "future": false,
+   "celex": "02013D0034-20200323",
+   "acts": [
+    {
+     "id": "eu:celex:32020D0434:por",
+     "title": "DECISÃO (PESC) 2020/434 DO CONSELHO de 23 de março de 2020",
+     "published": null,
+     "celex": "32020D0434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Missão",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Artigo 12.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9f99b59471f10f00",
+    "7022cbd668f9dd9d",
+    "dc3c67e1362139a6",
+    "b7efb2862c81247b",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "dc72b9c05012de2f",
+    "e08fdfc18f718709",
+    "70371e3255268bd2",
+    "be25cdf21fbd22df",
+    "b7a0b74e3262dc26",
+    "8d401c163dd20054",
+    "1fcbee3b531bf54a",
+    "3aab1254b3b5e04f",
+    "77357b8ccca20c63"
+   ]
+  },
+  {
+   "date": "2022-10-17",
+   "future": false,
+   "celex": "02013D0034-20221017",
+   "acts": [
+    {
+     "id": "eu:celex:32022D1966:por",
+     "title": "DECISÃO (PESC) 2022/1966 DO CONSELHO de 17 de outubro de 2022",
+     "published": null,
+     "celex": "32022D1966"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º — Missão",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 11.º — Comunicação de informações",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "9f99b59471f10f00",
+    "94771effd4653215",
+    "dc3c67e1362139a6",
+    "b7efb2862c81247b",
+    "d1a6df2c133bac7a",
+    "7f4d44acec1673ab",
+    "dc72b9c05012de2f",
+    "e08fdfc18f718709",
+    "70371e3255268bd2",
+    "be25cdf21fbd22df",
+    "b7a0b74e3262dc26",
+    "86deeffe561b7581",
+    "4078563a362a049a",
+    "3aab1254b3b5e04f",
+    "b183143e34985f22"
+   ]
+  }
+ ],
+ "fragments": {
+  "23cf83e6993b0bb4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de janeiro de 2013\n\nrelativa a uma missão militar da União Europeia que tem em vista contribuir para a formação das Forças Armadas do Mali (EUTM Mali)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente o artigo 42.º, n.º 4, e o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança,\n\nConsiderando o seguinte:\n\n(1) Em 23 de julho de 2012, o Conselho reconheceu que as dramáticas mudanças no Mali exigiam uma revisão das medidas a tomar pela União a fim de apoiar o restabelecimento do governo democrático e do Estado de direito em todo o território do Mali. O Conselho solicitou à Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança (AR) e à Comissão que apresentassem propostas concretas de medidas a tomar pela União em diversos domínios para dar resposta à evolução da situação.\n\n(2) Por carta de 18 de setembro de 2012, o Presidente da República do Mali solicitou à União apoio com vista a restabelecer a integridade territorial do Mali.\n\n(3) Na sua Resolução 2071 (2012) sobre a situação no Mali, adotada em 12 de outubro de 2012, o Conselho de Segurança das Nações Unidas, embora tendo manifestado grande preocupação sobre as consequências da instabilidade no norte do Mali para toda a região e para além dela e salientado a necessidade de dar rapidamente uma resposta a fim de preservar a estabilidade em toda a região do Sael, convidou os parceiros internacionais, incluindo a União, a prestar assistência e formação ao exército e às forças de segurança do Mali, bem como apoio ao reforço das suas capacidades operacionais.\n\n(4) Nas suas conclusões de 15 de outubro de 2012, o Conselho solicita ainda que sejam urgentemente realizados e aprofundados os trabalhos de planificação de uma eventual missão militar no âmbito da Política Comum de Segurança e Defesa (PCSD), em particular através da elaboração de um conceito de gestão de crises relativo à reorganização e ao treino das forças de defesa malianas, tendo em conta as condições necessárias ao sucesso de uma eventual missão, incluindo o apoio incondicional das autoridades do Mali e a definição de uma estratégia de saída.\n\n(5) Nas suas conclusões de 19 de novembro de 2012, o Conselho congratulou-se com a apresentação do conceito de gestão de crises pela AR e solicitou aos grupos competentes que o analisem urgentemente para poder ser aprovado pelo Conselho em dezembro de 2012.\n\n(6) Em 10 de dezembro de 2012, o Conselho aprovou um conceito de gestão de crises relativo a uma eventual missão de formação militar da PCSD no Mali. O Conselho sublinhou que a missão no Mali constitui um dos aspetos essenciais da Estratégia de Segurança e Desenvolvimento do Sael elaborada pela União.\n\n(7) Por carta de 24 de dezembro de 2012, o Presidente da República do Mali enviou uma carta convite à AR congratulando-se com a projeção da missão militar de formação da UE no Mali.\n\n(8) O Comité Político e de Segurança (CPS), sob a responsabilidade do Conselho e da AR, deverá exercer o controlo político e assumir a direção estratégica da missão militar da União e dar-lhe uma orientação estratégica e tomar as decisões pertinentes, nos termos do artigo 38.º, terceiro parágrafo, do Tratado da União Europeia (TUE).\n\n(9) É necessário negociar e celebrar acordos internacionais sobre o estatuto das unidades e do pessoal da União e sobre a participação de Estados terceiros nas missões da União.\n\n(10) As despesas operacionais decorrentes da presente decisão que tenham implicações no domínio militar ou da defesa ficam a cargo dos Estados-Membros, por força do artigo 41.º, n.º 2, do TUE e em conformidade com a Decisão 2011/871/PESC do Conselho, de 19 de dezembro de 2011, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) [([^1])](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntr1-L_2013014PT.01001901-E0001).\n\n(11) Nos termos do artigo 5.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia (TFUE), a Dinamarca não participa na elaboração nem na execução de decisões e ações da União com implicações em matéria de defesa. A Dinamarca não participa na execução da presente decisão e, por conseguinte, não participa no financiamento da missão,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "e78b24693e7e3344": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1. A União Europeia leva a cabo uma missão militar de formação («EUTM Mali») com o objetivo de formar e aconselhar, no sul do Mali, as Forças Armadas do Mali (FAM) em operação sob o controlo das autoridades civis legítimas, a fim de contribuir para restaurar a sua capacidade militar de forma a que elas possam iniciar operações militares de combate destinadas a restabelecer a integridade territorial do Mali e a reduzir a ameaça causada pelos grupos terroristas. A EUTM Mali não se pode envolver em operações de combate.\n\n2. O objetivo da EUTM Mali é responder às necessidades operacionais das FAM através da prestação de:\n\na) Apoio à formação das FAM;\n\nb) Formação e aconselhamento em matéria de comando e controlo, cadeia logística e recursos humanos, bem como formação em direito humanitário internacional, proteção de civis e direitos humanos.\n\n3. A EUTM Mali tem como objetivo reforçar as condições para o controlo das FAM por parte do poder político civil legítimo.\n\n4. As atividades da EUTM Mali serão conduzidas em estreita coordenação com outros agentes envolvidos no apoio às FAM, designadamente a Organização das Nações Unidas (ONU) e a Comunidade Económica dos Estados da África Ocidental (CEDEAO)."
+  },
+  "5ab1fa56b9a9b715": {
+   "fragment_id": "Artigo 2.º — Nomeação do Comandante da Missão da UE",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Nomeação do Comandante da Missão da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Nomeação do Comandante da Missão da UE\n\n1. O brigadeiro general François LECOINTRE é nomeado Comandante da Missão da UE.\n\n2. O Comandante da Missão da UE exerce as funções de Comandante da Operação da UE e de Comandante da Força da UE."
+  },
+  "c726a66a105f6d11": {
+   "fragment_id": "Artigo 3.º — Designação do Quartel-General da UE",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Designação do Quartel-General da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação do Quartel-General da UE\n\n1. O Quartel-General da EUTM Mali fica localizado no Mali. Desempenhará as funções de Quartel-General de Operações e de Quartel-General da Força.\n\n2. O Quartel-General da EUTM Mali é constituído por um núcleo de apoio sediado em Bruxelas."
+  },
+  "7f4d44acec1673ab": {
+   "fragment_id": "Artigo 4.º — Planeamento e lançamento da missão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Planeamento e lançamento da missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Planeamento e lançamento da missão\n\nA decisão relativa ao lançamento da EUTM Mali é adotada pelo Conselho após a aprovação do Plano da Missão e das Regras de Empenhamento."
+  },
+  "c61efe6cdc903a42": {
+   "fragment_id": "Artigo 5.º — Controlo político e direção estratégica",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlo político e direção estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo político e direção estratégica\n\n1. Sob a responsabilidade da AR, o CPS exerce o controlo político e a direção estratégica da EUTM Mali. O Conselho autoriza o CPS a tomar as decisões pertinentes, em conformidade com o artigo 38.º do TUE. Esta autorização abrange nomeadamente as competências necessárias para alterar os documentos de planeamento, incluindo o Plano da Missão e a Cadeia de Comando. Abrange igualmente as competências necessárias para tomar decisões relativas à nomeação do Comandante da Missão da UE. As competências de decisão relativas aos objetivos e ao termo da EUTM Mali continuam a pertencer ao Conselho.\n\n2. O CPS informa periodicamente o Conselho.\n\n3. O Presidente do Comité Militar da UE (CMUE) informa periodicamente o CPS sobre a condução da EUTM Mali. Se necessário, o CPS pode convidar o Comandante da Missão da UE a participar nas suas reuniões."
+  },
+  "3e81ab18d6071c6c": {
+   "fragment_id": "Artigo 6.º — Direção militar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Direção militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção militar\n\n1. O CMUE assegura a supervisão da execução da EUTM Mali conduzida sob a responsabilidade do Comandante da Missão da UE.\n\n2. O Comandante da Missão da UE informa periodicamente o CMUE. Se necessário, o CMUE pode convidar o Comandante da Missão da UE a participar nas suas reuniões.\n\n3. O Presidente do CMUE age como primeiro ponto de contacto com o Comandante da Missão da UE."
+  },
+  "2153517e4d8acbc2": {
+   "fragment_id": "Artigo 7.º — Coerência da resposta e coordenação da União",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência da resposta e coordenação da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência da resposta e coordenação da União\n\n1. A AR assegura a aplicação da presente decisão, bem como a sua coerência com a globalidade da ação externa da União, incluindo os programas de desenvolvimento da União.\n\n2. Sem prejuízo da cadeia de comando, o Comandante da Missão da UE recebe orientação política a nível local do Chefe da Delegação da União em Bamako, em estreita coordenação com o coordenador da UE para o Sael.\n\n3. A EUTM Mali coordena a sua ação com a missão da União no âmbito da PCSD no Níger (EUCAP SAHEL Niger) a fim de explorar possíveis sinergias.\n\n4. A EUTM Mali coordena a sua ação com as atividades bilaterais dos Estados-Membros no Mali, com outros agentes internacionais na região, nomeadamente a ONU, a União Africana (UA), a CEDEAO, com outros agentes bilaterais, incluindo os EUA e o Canadá, e com agentes regionais essenciais."
+  },
+  "704159389d70f755": {
+   "fragment_id": "Artigo 8.º — Participação de Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Participação de Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação de Estados terceiros\n\n1. Sem prejuízo da autonomia de decisão da União e do quadro institucional único, e em conformidade com as orientações pertinentes do Conselho Europeu, podem convidar-se Estados terceiros a participar na EUTM Mali.\n\n2. O Conselho autoriza o CPS a convidar Estados terceiros a oferecerem o seu contributo e a tomar, sob recomendação do Comandante da Missão da UE e do CMUE, as decisões pertinentes quanto à aceitação dos contributos propostos.\n\n3. As modalidades exatas da participação de Estados terceiros são objeto de acordos a celebrar ao abrigo do artigo 37.º do TUE e de acordo com o processo enunciado no artigo 218.º do TFUE. Sempre que a União e um Estado terceiro tenham celebrado um acordo que estabeleça um quadro para a participação desse Estado nas missões da União no domínio da gestão de crises, as disposições desse acordo são aplicáveis no contexto da EUTM Mali.\n\n4. Os Estados terceiros que derem contributos militares significativos para a EUTM Mali têm os mesmos direitos e obrigações, em termos de gestão corrente da missão, que os Estados-Membros que nela participem.\n\n5. O Conselho autoriza o CPS a tomar as decisões pertinentes sobre a criação de um Comité de Contribuintes no caso de os Estados terceiros darem contributos militares significativos."
+  },
+  "b7a0b74e3262dc26": {
+   "fragment_id": "Artigo 9.º — Estatuto do pessoal liderado pela UE",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Estatuto do pessoal liderado pela UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto do pessoal liderado pela UE\n\nO estatuto das unidades lideradas pela UE e do seu pessoal, incluindo os privilégios, as imunidades e outras garantias necessárias à realização e ao bom funcionamento da sua missão, pode ser objeto de um acordo a celebrar ao abrigo do artigo 37.º do TUE e em conformidade com o processo enunciado no artigo 218.º do TFUE."
+  },
+  "1dfa23e5f17ca8ae": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali é de 12, 3 milhões de EUR. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão 2011/871/PESC é fixada em 50 % e a percentagem de despesas autorizadas a que se refere o artigo 32.º, n.º 3, da Decisão 2011/871/PESC é fixada em 70 %."
+  },
+  "f6831c4f9b70c28d": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE [([^2])](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntr2-L_2013014PT.01001901-E0002):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho [([^3])](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntr3-L_2013014PT.01001901-E0003).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE."
+  },
+  "7bb06fd0ff05914d": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali cessa 15 meses após a decisão do Conselho relativa ao seu lançamento.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\nFeito em Bruxelas, em 17 de janeiro de 2013.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. ASHTON**\n\n---"
+  },
+  "97d517b2fdd953e9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntc1-L_2013014PT.01001901-E0001) [JO L 343 de 23.12.2011, p. 35](http://publications.europa.eu/resource/oj/JOL_2011_343_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntc2-L_2013014PT.01001901-E0002) [JO L 141 de 27.5.2011, p. 17](http://publications.europa.eu/resource/oj/JOL_2011_141_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018.04/DOC_1#ntc3-L_2013014PT.01001901-E0003) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho ([JO L 325 de 11.12.2009, p. 35](http://publications.europa.eu/resource/oj/JOL_2009_325_R_TOC))."
+  },
+  "d0220cb23fbece2e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de janeiro de 2013\n\nrelativa a uma missão militar da União Europeia que tem em vista contribuir para a formação das Forças Armadas do Mali (EUTM Mali)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente o artigo 42.º, n.º 4, e o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança,\n\n(1) Em 23 de julho de 2012, o Conselho reconheceu que as dramáticas mudanças no Mali exigiam uma revisão das medidas a tomar pela União a fim de apoiar o restabelecimento do governo democrático e do Estado de direito em todo o território do Mali. O Conselho solicitou à Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança (AR) e à Comissão que apresentassem propostas concretas de medidas a tomar pela União em diversos domínios para dar resposta à evolução da situação.\n\n(2) Por carta de 18 de setembro de 2012, o Presidente da República do Mali solicitou à União apoio com vista a restabelecer a integridade territorial do Mali.\n\n(3) Na sua Resolução 2071 (2012) sobre a situação no Mali, adotada em 12 de outubro de 2012, o Conselho de Segurança das Nações Unidas, embora tendo manifestado grande preocupação sobre as consequências da instabilidade no norte do Mali para toda a região e para além dela e salientado a necessidade de dar rapidamente uma resposta a fim de preservar a estabilidade em toda a região do Sael, convidou os parceiros internacionais, incluindo a União, a prestar assistência e formação ao exército e às forças de segurança do Mali, bem como apoio ao reforço das suas capacidades operacionais.\n\n(4) Nas suas conclusões de 15 de outubro de 2012, o Conselho solicita ainda que sejam urgentemente realizados e aprofundados os trabalhos de planificação de uma eventual missão militar no âmbito da Política Comum de Segurança e Defesa (PCSD), em particular através da elaboração de um conceito de gestão de crises relativo à reorganização e ao treino das forças de defesa malianas, tendo em conta as condições necessárias ao sucesso de uma eventual missão, incluindo o apoio incondicional das autoridades do Mali e a definição de uma estratégia de saída.\n\n(5) Nas suas conclusões de 19 de novembro de 2012, o Conselho congratulou-se com a apresentação do conceito de gestão de crises pela AR e solicitou aos grupos competentes que o analisem urgentemente para poder ser aprovado pelo Conselho em dezembro de 2012.\n\n(6) Em 10 de dezembro de 2012, o Conselho aprovou um conceito de gestão de crises relativo a uma eventual missão de formação militar da PCSD no Mali. O Conselho sublinhou que a missão no Mali constitui um dos aspetos essenciais da Estratégia de Segurança e Desenvolvimento do Sael elaborada pela União.\n\n(7) Por carta de 24 de dezembro de 2012, o Presidente da República do Mali enviou uma carta convite à AR congratulando-se com a projeção da missão militar de formação da UE no Mali.\n\n(8) O Comité Político e de Segurança (CPS), sob a responsabilidade do Conselho e da AR, deverá exercer o controlo político e assumir a direção estratégica da missão militar da União e dar-lhe uma orientação estratégica e tomar as decisões pertinentes, nos termos do artigo 38.º, terceiro parágrafo, do Tratado da União Europeia (TUE).\n\n(9) É necessário negociar e celebrar acordos internacionais sobre o estatuto das unidades e do pessoal da União e sobre a participação de Estados terceiros nas missões da União.\n\n(10) As despesas operacionais decorrentes da presente decisão que tenham implicações no domínio militar ou da defesa ficam a cargo dos Estados-Membros, por força do artigo 41.º, n.º 2, do TUE e em conformidade com a Decisão 2011/871/PESC do Conselho, de 19 de dezembro de 2011, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) ([^1^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0001)).\n\n(11) Nos termos do artigo 5.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia (TFUE), a Dinamarca não participa na elaboração nem na execução de decisões e ações da União com implicações em matéria de defesa. A Dinamarca não participa na execução da presente decisão e, por conseguinte, não participa no financiamento da missão,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "d1a6df2c133bac7a": {
+   "fragment_id": "Artigo 3.º-A — Célula de projeto",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A — Célula de projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Célula de projeto\n\n1. A EUTM Mali dispõe de uma célula de projeto para identificar e executar projetos. Na medida do necessário, a Missão coordena, facilita e presta aconselhamento relativamente a projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com o exercício da Missão e que apoiem os seus objetivos.\n\n2. Sob reserva do n.º 3, o Comandante da Missão da UE fica autorizado a recorrer a contribuições financeiras dos Estados-Membros ou de Estados terceiros para a execução de projetos identificados como complemento coerente das demais ações da EUTM Mali. Nesse caso, o Comandante da Missão da UE celebra com esses Estados convénios que regulem, nomeadamente, as modalidades específicas relativas à resposta a todas as queixas apresentadas por terceiros por prejuízos sofridos em virtude de atos ou omissões do Comandante da Missão da UE na utilização dos fundos colocados à sua disposição por esses Estados.\n\nEm caso algum a responsabilidade da União e da AR pode ser invocada pelos Estados contribuintes por atos ou omissões do Comandante da Missão da UE na utilização dos fundos dos referidos Estados.\n\n3. O CPS acorda na aceitação de uma contribuição financeira de Estados terceiros para a célula de projeto."
+  },
+  "9c1459cf0bfb79cf": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE."
+  },
+  "a413daa987f4bec9": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali cessa 15 meses após a decisão do Conselho relativa ao seu lançamento.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\n---"
+  },
+  "cd57aedb4bcb1689": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0001)) JO L 343 de 23.12.2011, p. 35.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7ee8ad50-05cd-11e4-831f-01aa75ed71a1.0014.03/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "77b9bf086003ca89": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de janeiro de 2013\n\nrelativa a uma missão militar da União Europeia que tem em vista contribuir para a formação das Forças Armadas do Mali (EUTM Mali)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente o artigo 42.º, n.º 4, e o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança,\n\n(1) Em 23 de julho de 2012, o Conselho reconheceu que as dramáticas mudanças no Mali exigiam uma revisão das medidas a tomar pela União a fim de apoiar o restabelecimento do governo democrático e do Estado de direito em todo o território do Mali. O Conselho solicitou à Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança (AR) e à Comissão que apresentassem propostas concretas de medidas a tomar pela União em diversos domínios para dar resposta à evolução da situação.\n\n(2) Por carta de 18 de setembro de 2012, o Presidente da República do Mali solicitou à União apoio com vista a restabelecer a integridade territorial do Mali.\n\n(3) Na sua Resolução 2071 (2012) sobre a situação no Mali, adotada em 12 de outubro de 2012, o Conselho de Segurança das Nações Unidas, embora tendo manifestado grande preocupação sobre as consequências da instabilidade no norte do Mali para toda a região e para além dela e salientado a necessidade de dar rapidamente uma resposta a fim de preservar a estabilidade em toda a região do Sael, convidou os parceiros internacionais, incluindo a União, a prestar assistência e formação ao exército e às forças de segurança do Mali, bem como apoio ao reforço das suas capacidades operacionais.\n\n(4) Nas suas conclusões de 15 de outubro de 2012, o Conselho solicita ainda que sejam urgentemente realizados e aprofundados os trabalhos de planificação de uma eventual missão militar no âmbito da Política Comum de Segurança e Defesa (PCSD), em particular através da elaboração de um conceito de gestão de crises relativo à reorganização e ao treino das forças de defesa malianas, tendo em conta as condições necessárias ao sucesso de uma eventual missão, incluindo o apoio incondicional das autoridades do Mali e a definição de uma estratégia de saída.\n\n(5) Nas suas conclusões de 19 de novembro de 2012, o Conselho congratulou-se com a apresentação do conceito de gestão de crises pela AR e solicitou aos grupos competentes que o analisem urgentemente para poder ser aprovado pelo Conselho em dezembro de 2012.\n\n(6) Em 10 de dezembro de 2012, o Conselho aprovou um conceito de gestão de crises relativo a uma eventual missão de formação militar da PCSD no Mali. O Conselho sublinhou que a missão no Mali constitui um dos aspetos essenciais da Estratégia de Segurança e Desenvolvimento do Sael elaborada pela União.\n\n(7) Por carta de 24 de dezembro de 2012, o Presidente da República do Mali enviou uma carta convite à AR congratulando-se com a projeção da missão militar de formação da UE no Mali.\n\n(8) O Comité Político e de Segurança (CPS), sob a responsabilidade do Conselho e da AR, deverá exercer o controlo político e assumir a direção estratégica da missão militar da União e dar-lhe uma orientação estratégica e tomar as decisões pertinentes, nos termos do artigo 38.º, terceiro parágrafo, do Tratado da União Europeia (TUE).\n\n(9) É necessário negociar e celebrar acordos internacionais sobre o estatuto das unidades e do pessoal da União e sobre a participação de Estados terceiros nas missões da União.\n\n(10) As despesas operacionais decorrentes da presente decisão que tenham implicações no domínio militar ou da defesa ficam a cargo dos Estados-Membros, por força do artigo 41.º, n.º 2, do TUE e em conformidade com a Decisão 2011/871/PESC do Conselho, de 19 de dezembro de 2011, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) ([^1^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0001)).\n\n(11) Nos termos do artigo 5.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia (TFUE), a Dinamarca não participa na elaboração nem na execução de decisões e ações da União com implicações em matéria de defesa. A Dinamarca não participa na execução da presente decisão e, por conseguinte, não participa no financiamento da missão,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "5c8863bbd1806e82": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2014 a 18 de maio de 2016 é de 27 700 000EUR. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão 2011/871/PESC é fixada em 0 %."
+  },
+  "e11d9bd9536c5a49": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE."
+  },
+  "f0bc0efd12bddcb2": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali cessa em 18 de maio de 2016.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\n---"
+  },
+  "6fc842c986a02b38": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#src.E0001)) JO L 343 de 23.12.2011, p. 35.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/efd1f3a1-fe11-11e3-831f-01aa75ed71a1.0014.02/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "9f99b59471f10f00": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de janeiro de 2013\n\nrelativa a uma missão militar da União Europeia que tem em vista contribuir para a formação das Forças Armadas do Mali (EUTM Mali)"
+  },
+  "16e0c10a38744628": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1. A União Europeia leva a cabo uma missão militar de formação no Mali (EUTM Mali) com o objetivo de formar e aconselhar as Forças Armadas do Mali (FAM) em operação sob o controlo das autoridades civis legítimas, a fim de contribuir para restaurar a sua capacidade militar de forma a que elas possam conduzir operações militares destinadas a restabelecer a integridade territorial do Mali e a reduzir a ameaça constituída pelos grupos terroristas. A EUTM Mali não se pode envolver em operações de combate. As suas atividades estendem-se até à grande curva do rio Níger, abrangendo os municípios de Gao e de Timbuktu.\n\n2. O objetivo da EUTM Mali é responder às necessidades operacionais das FAM através da prestação de:\n\na) apoio à formação das FAM;\n\nb) formação e aconselhamento em matéria de comando e controlo, cadeia logística e recursos humanos, bem como formação em direito humanitário internacional, proteção de civis e direitos humanos;\n\nc) um contributo, mediante pedido do Mali e em coordenação com o MINUSMA, para o processo de desarmamento, desmobilização e reintegração no âmbito do acordo de paz, através da organização de ações de formação a fim de facilitar a reconstituição de forças armadas do Mali inclusivas;\n\nd) apoio ao processo do G5 Sael, no âmbito das atividades da EUTM Mali de apoio às FAM, contribuindo para aumentar a coordenação e a interoperabilidade com as forças armadas nacionais do G5 Sael.\n\n3. A EUTM Mali tem como objetivo reforçar as condições para o controlo das FAM por parte do poder político civil legítimo.\n\n4. As atividades da EUTM Mali serão conduzidas em estreita coordenação com outros agentes envolvidos no apoio às FAM, designadamente a Organização das Nações Unidas (ONU) e a Comunidade Económica dos Estados da África Ocidental (CEDEAO)."
+  },
+  "07f1c0ba66391c28": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2016 a 18 de maio de 2018 é de 33 400 000 euros. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão 2015/528/PESC do Conselho ([^2^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#E0002)) é fixada em 10 % e a percentagem de despesas autorizadas a que se refere o artigo 34.º, n.º 3, dessa decisão é fixada em 60 %."
+  },
+  "06f038257dba7044": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^3^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#E0003)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^4^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#E0004)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE."
+  },
+  "444e7b835de0eeaa": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali cessa em 18 de maio de 2018.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\n---"
+  },
+  "d5e655fb2b6992bf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#src.E0001)) JO L 343 de 23.12.2011, p. 35.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#src.E0002)) Decisão (PESC) 2015/528 do Conselho, de 27 de março de 2015, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) e que revoga a Decisão 2011/871/PESC (JO L 84 de 28.3.2015, p. 39).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#src.E0003)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/869708fe-6de7-44d1-bf71-ebb0f9770d28.0014.02/DOC_2#src.E0004)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "dc3c67e1362139a6": {
+   "fragment_id": "Artigo 2.º — Nomeação do Comandante da Missão da UE",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Nomeação do Comandante da Missão da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Nomeação do Comandante da Missão da UE\n\n1. O Diretor da Capacidade Militar de Planeamento e Condução (CMPC) é o Comandante da Missão da EUTM Mali.\n\n2. O Brigadeiro-General Peter Devogelaere é nomeado Comandante da Força da Missão da UE da EUTM Mali."
+  },
+  "b7efb2862c81247b": {
+   "fragment_id": "Artigo 3.º — Designação do Quartel-General da UE",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Designação do Quartel-General da UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação do Quartel-General da UE\n\n1. A CMPC é a estrutura fixa de comando e controlo a nível estratégico militar fora da zona de operações, responsável pelo planeamento e condução operacionais da EUTM Mali.\n\n2. O Quartel-General da Força da Missão da EUTM Mali fica localizado no Mali e funciona sob a direção do Comandante da Força da Missão da UE.\n\n3. É incluída na CMPC uma célula de apoio, em Bruxelas, do Quartel-General da Força da Missão, até a CMPC ter atingido plena capacidade operacional."
+  },
+  "dc72b9c05012de2f": {
+   "fragment_id": "Artigo 5.º — Controlo político e direção estratégica",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Controlo político e direção estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo político e direção estratégica\n\n1. Sob a responsabilidade da AR, o CPS exerce o controlo político e a direção estratégica da EUTM Mali. O Conselho autoriza o CPS a tomar as decisões pertinentes, em conformidade com o artigo 38.º do TUE. Esta autorização abrange nomeadamente as competências necessárias para alterar os documentos de planeamento, incluindo o Plano da Missão e a Cadeia de Comando. Abrange igualmente as competências necessárias para tomar decisões relativas à nomeação [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) dos Comandantes da Força da Missão da UE**◄**. As competências de decisão relativas aos objetivos e ao termo da EUTM Mali continuam a pertencer ao Conselho.\n\n2. O CPS informa periodicamente o Conselho.\n\n3. O Presidente do Comité Militar da UE (CMUE) informa periodicamente o CPS sobre a condução da EUTM Mali. Se necessário, o CPS pode convidar o Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e o Comandante da Força da Missão da UE**◄** a participar nas suas reuniões."
+  },
+  "e08fdfc18f718709": {
+   "fragment_id": "Artigo 6.º — Direção militar",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Direção militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção militar\n\n1. O CMUE assegura a supervisão da execução da EUTM Mali conduzida sob a responsabilidade do Comandante da Missão da UE.\n\n2. O Comandante da Missão da UE informa periodicamente o CMUE. Se necessário, o CMUE pode convidar o Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e o Comandante da Força da Missão da UE**◄** a participar nas suas reuniões.\n\n3. O Presidente do CMUE age como primeiro ponto de contacto com o Comandante da Missão da UE."
+  },
+  "70371e3255268bd2": {
+   "fragment_id": "Artigo 7.º — Coerência da resposta e coordenação da União",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Coerência da resposta e coordenação da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coerência da resposta e coordenação da União\n\n1. A AR assegura a aplicação da presente decisão, bem como a sua coerência com a globalidade da ação externa da União, incluindo os programas de desenvolvimento da União.\n\n2. Sem prejuízo da cadeia de comando, o Comandante da Força da Missão da UE recebe orientação política a nível local do Representante Especial da União Europeia para o Sael coordenado com o Chefe da Delegação da União em Bamaco.\n\n3. A EUTM Mali coordena a sua ação com a missão da União no âmbito da PCSD no Níger (EUCAP SAHEL Niger) a fim de explorar possíveis sinergias.\n\n4. A EUTM Mali coordena a sua ação com as atividades bilaterais dos Estados-Membros no Mali, com outros agentes internacionais na região, nomeadamente a ONU, a União Africana (UA), a CEDEAO, com outros agentes bilaterais, incluindo os EUA e o Canadá, e com agentes regionais essenciais."
+  },
+  "be25cdf21fbd22df": {
+   "fragment_id": "Artigo 8.º — Participação de Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Participação de Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação de Estados terceiros\n\n1. Sem prejuízo da autonomia de decisão da União e do quadro institucional único, e em conformidade com as orientações pertinentes do Conselho Europeu, podem convidar-se Estados terceiros a participar na EUTM Mali.\n\n2. O Conselho autoriza o CPS a convidar Estados terceiros a oferecerem o seu contributo e a tomar, sob recomendação do Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) em consulta com o Comandante da Força da Missão da UE,**◄** e do CMUE, as decisões pertinentes quanto à aceitação dos contributos propostos.\n\n3. As modalidades exatas da participação de Estados terceiros são objeto de acordos a celebrar ao abrigo do artigo 37.º do TUE e de acordo com o processo enunciado no artigo 218.º do TFUE. Sempre que a União e um Estado terceiro tenham celebrado um acordo que estabeleça um quadro para a participação desse Estado nas missões da União no domínio da gestão de crises, as disposições desse acordo são aplicáveis no contexto da EUTM Mali.\n\n4. Os Estados terceiros que derem contributos militares significativos para a EUTM Mali têm os mesmos direitos e obrigações, em termos de gestão corrente da missão, que os Estados-Membros que nela participem.\n\n5. O Conselho autoriza o CPS a tomar as decisões pertinentes sobre a criação de um Comité de Contribuintes no caso de os Estados terceiros darem contributos militares significativos."
+  },
+  "3ba1e9098778cf51": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2016 a 18 de maio de 2018 é de 33 400 000 euros. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão 2015/528/PESC do Conselho ([^1^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#E0001)) é fixada em 10 % e a percentagem de despesas autorizadas a que se refere o artigo 34.º, n.º 3, dessa decisão é fixada em 60 %."
+  },
+  "5d4aca08fff4b09d": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e/ou no Comandante da Força da Missão da UE**◄**."
+  },
+  "d0fa4f285a921be8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#src.E0001)) Decisão (PESC) 2015/528 do Conselho, de 27 de março de 2015, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) e que revoga a Decisão 2011/871/PESC (JO L 84 de 28.3.2015, p. 39).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/84dd9f9b-d239-4e3a-87b6-dda00d5ba3c3.0014.02/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "c9273861903bf767": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1. A União Europeia leva a cabo uma missão militar de formação no Mali (EUTM Mali) com o objetivo de formar e aconselhar as Forças Armadas do Mali (FAM) em operação sob o controlo das autoridades civis legítimas, a fim de contribuir para restaurar a sua capacidade militar de forma a que elas possam conduzir operações militares destinadas a restabelecer a integridade territorial do Mali e a reduzir a ameaça constituída pelos grupos terroristas. A EUTM Mali não se pode envolver em operações de combate. As suas atividades estendem-se até à grande curva do rio Níger, abrangendo os municípios de Gao e de Timbuktu. [**►M5**](http://publications.europa.eu/resource/celex/32018D0716) A EUTM Mali também presta apoio à operacionalização da Força Conjunta do G5 Sael no seu quartel-general**◄**\n\n2. O objetivo da EUTM Mali é responder às necessidades operacionais das FAM e da Força Conjunta do G5 Sael através da prestação de:\n\na) apoio à formação e aconselhamento das FAM, nomeadamente através de atividades descentralizadas nas regiões, bem como apoio educativo em matéria de direito internacional humanitário, proteção de civis e direitos humanos;\n\nb) um contributo, mediante pedido do Mali e em coordenação com o MINUSMA, para o processo de desarmamento, desmobilização e reintegração no âmbito do acordo de paz, através da organização de ações de formação, a fim de facilitar a reconstituição de forças armadas do Mali inclusivas;\n\nc) apoio ao processo do G5 Sael através do apoio à formação e aconselhamento específico para a operacionalização da Força Conjunta do G5 Sael.\n\n3. A EUTM Mali tem como objetivo reforçar as condições para o controlo das FAM por parte do poder político civil legítimo.\n\n4. As atividades da EUTM Mali serão conduzidas em estreita coordenação com outros agentes envolvidos no apoio às FAM, designadamente a Organização das Nações Unidas (ONU) e a Comunidade Económica dos Estados da África Ocidental (CEDEAO)."
+  },
+  "41892198fbed38ef": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2018 a 18 de maio de 2020 é de 59 743 047,00 EUR. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão (PESC) 2015/528 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#E0001)) é fixada em 0 % e a percentagem das despesas autorizadas a que se refere o artigo 34.º, n.º 3, da referida decisão é fixada em 30 %."
+  },
+  "bafe058c55d685cc": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e/ou no Comandante da Força da Missão da UE**◄**."
+  },
+  "9444f7ac384ddf12": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali cessa em 18 de maio de 2020.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\n---"
+  },
+  "f49a8e30c0250698": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#src.E0001)) Decisão (PESC) 2015/528 do Conselho, de 27 de março de 2015, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) e que revoga a Decisão 2011/871/PESC (JO L 84 de 28.3.2015, p. 39).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7758f016-2036-4670-b328-b0ef07442dce.0014.02/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "7022cbd668f9dd9d": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1. A União Europeia leva a cabo uma missão militar de formação no Mali (EUTM Mali) com o objetivo de prestar assistência às forças armadas do Mali (FAM) a restaurarem a sua capacidade militar de forma a que possam conduzir operações militares destinadas a restabelecer a integridade territorial do Mali e a reduzir a ameaça constituída pelos grupos terroristas, e prestar assistência militar à Força Conjunta do G5 Sael e às forças armadas nacionais nos países do G5 Sael. A EUTM Mali não se pode envolver em operações de combate.\n\n2. Os objetivos estratégicos da EUAM Mali são os seguintes:\n\na) contribuir para melhorar a capacidade operacional das FAM sob o controlo das autoridades civis legítimas do Mali;\n\nb) apoiar o G5 Sael através da operacionalização da Força Conjunta do G5 Sael e das forças armadas nacionais nos países do G5 Sael.\n\n3. Para efeito do objetivo referido no n.º 2, alínea a), a EUTM Mali disponibiliza às FAM aconselhamento, formação, incluindo formação antes do envio, instrução e enquadramento militares, através de acompanhamento não executivo até ao plano tático, para que a EUTM Mali possa seguir as atividades das FAM e acompanhar o seu desempenho e o seu comportamento, incluindo no que toca ao respeito pelos direitos humanos e pelo direito internacional humanitário.\n\n4. Para efeito do objetivo referido no n.º 2, alínea b), a EUTM Mali disponibiliza à Força Conjunta do G5 Sael e às forças armadas nacionais nos países do G5 Sael aconselhamento, formação e enquadramento militares, através de acompanhamento não executivo até ao plano tático.\n\n5. A EUTM Mali desenvolve uma abordagem gradual e modular em apoio do G5 relativamente a atividades que têm lugar fora do Mali.\n\n6. As atividades da EUTM Mali serão conduzidas em estreita coordenação e cooperação entre os Estados-Membros e as instituições e organismos da União, em sintonia com a abordagem integrada da UE, e com outros agentes envolvidos no apoio às FAM, designadamente a Organização das Nações Unidas (ONU), a operação Barkhane e a Comunidade Económica dos Estados da África Ocidental (CEDEAO) a fim de aumentar a coerência das ações, de garantir que não haja conflitos e de otimizar da melhor forma os recursos, com o devido respeito pelo quadro institucional da União. Essas atividades terão o apoio da célula de aconselhamento e coordenação regional (CACR) na EUCAP Sael Mali."
+  },
+  "8d401c163dd20054": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2018 a 18 de maio de 2020 é de 59 743 047,00 EUR. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão (PESC) 2015/528 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#E0001)) é fixada em 0 % e a percentagem das despesas autorizadas a que se refere o artigo 34.º, n.º 3, da referida decisão é fixada em 30 %.\n\n3. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2020 a 18 de maio de 2024 é de 133 711 059 euros. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão (PESC) 2015/528 do Conselho é de 15% em autorizações e 0% em pagamentos."
+  },
+  "1fcbee3b531bf54a": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1. A AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e/ou no Comandante da Força da Missão da UE**◄**."
+  },
+  "3aab1254b3b5e04f": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. O mandato da EUTM Mali termina em 18 de maio de 2024.\n\n3. A presente decisão será revogada a contar da data de encerramento do Quartel-General da missão, de acordo com o planeamento aprovado para o termo da EUTM Mali, e sem prejuízo dos procedimentos relativamente à auditoria e à apresentação das contas da missão militar da EUTM Mali previstos na Decisão 2011/871/PESC.\n\n---"
+  },
+  "77357b8ccca20c63": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Decisão (PESC) 2015/528 do Conselho, de 27 de março de 2015, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) e que revoga a Decisão 2011/871/PESC (JO L 84 de 28.3.2015, p. 39).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/756a7174-8b3c-11ea-812f-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "94771effd4653215": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1. A União Europeia leva a cabo uma missão militar de formação no Mali (EUTM Mali) com o objetivo de prestar assistência às forças armadas do Mali (FAM) a restaurarem a sua capacidade militar de forma a que possam conduzir operações militares destinadas a restabelecer a integridade territorial do Mali e a reduzir a ameaça constituída pelos grupos terroristas, e prestar assistência militar à Força Conjunta do G5 Sael e às forças armadas nacionais nos países do G5 Sael. A EUTM Mali não se pode envolver em operações de combate.\n\n2.\n\nOs objetivos estratégicos da EUAM Mali são os seguintes:\n\na) contribuir para melhorar a capacidade operacional das FAM sob o controlo das autoridades civis legítimas do Mali;\n\nb) apoiar o G5 Sael através da operacionalização da Força Conjunta do G5 Sael e das forças armadas nacionais nos países do G5 Sael.\n\n3. Para efeito do objetivo referido no n.º 2, alínea a), a EUTM Mali disponibiliza às FAM aconselhamento e instrução militares, a não ser que o CPS decida suspender essas atividades. Além disso, se o CPS determinar que estão reunidas as condições necessárias, a EUTM Mali disponibiliza às FAM formação, incluindo formação antes do envio, e enquadramento militares, através de acompanhamento não executivo até ao plano tático, para que a EUTM Mali possa seguir as atividades das FAM e acompanhar o seu desempenho e o seu comportamento, incluindo no que toca ao respeito pelos direitos humanos e pelo direito internacional humanitário.\n\n4. Para efeito do objetivo referido no n.º 2, alínea b), a EUTM Mali disponibiliza à Força Conjunta do G5 Sael e às forças armadas nacionais nos países do G5 Sael aconselhamento, formação e enquadramento militares, através de acompanhamento não executivo até ao plano tático.\n\n5. A EUTM Mali desenvolve uma abordagem gradual e modular em apoio do G5 relativamente a atividades que têm lugar fora do Mali.\n\n6. As atividades da EUTM Mali serão conduzidas em estreita coordenação e cooperação entre os Estados-Membros e as instituições e organismos da União, em sintonia com a abordagem integrada da UE, e com outros agentes envolvidos no apoio às FAM, designadamente a Organização das Nações Unidas (ONU), a operação Barkhane e a Comunidade Económica dos Estados da África Ocidental (CEDEAO) a fim de aumentar a coerência das ações, de garantir que não haja conflitos e de otimizar da melhor forma os recursos, com o devido respeito pelo quadro institucional da União. Essas atividades terão o apoio da célula de aconselhamento e coordenação regional (CACR) na EUCAP Sael Mali.\n\n7. A EUTM Mali prossegue, com os meios e capacidades disponíveis, atividades específicas no Níger e no Burquina Fasso a partir do Mali, no âmbito do atual mandato, tendo plenamente em conta o contexto político e as necessidades expressas pelas autoridades, até que sejam definidas soluções específicas para assegurar a continuidade e a permanência das operações.\n\n8. A EUTM Mali apoia os esforços de comunicação estratégica para fomentar os valores da União, promover a ação da União e expor os casos de violações e atropelos dos direitos humanos e do direito internacional humanitário cometidos por forças estrangeiras presentes no Mali."
+  },
+  "86deeffe561b7581": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. Os custos comuns da EUTM Mali são administrados em conformidade com a Decisão 2011/871/PESC.\n\n2. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2018 a 18 de maio de 2020 é de 59 743 047,00 EUR. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão (PESC) 2015/528 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0001)) é fixada em 0 % e a percentagem das despesas autorizadas a que se refere o artigo 34.º, n.º 3, da referida decisão é fixada em 30 %.\n\n3. O montante de referência financeira para os custos comuns da EUTM Mali para o período de 19 de maio de 2020 a 18 de maio de 2024 é de 133 711 059 euros. A percentagem do montante de referência a que se refere o artigo 25.º, n.º 1, da Decisão (PESC) 2015/528 do Conselho é de 15% em autorizações e 0% em pagamentos."
+  },
+  "4078563a362a049a": {
+   "fragment_id": "Artigo 11.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicação de informações\n\n1.\n\nA AR fica autorizada a divulgar a Estados terceiros associados à presente decisão, se adequado e em conformidade com as necessidades da EUTM Mali, informações classificadas da UE que sejam elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE do Conselho, de 31 de março de 2011, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([^2^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0002)):\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em questão; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» noutros casos.\n\n2. A AR fica igualmente autorizada a comunicar à ONU e ao CEDEAO, em função das necessidades operacionais da EUTM Mali, informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUTM Mali, nos termos da Decisão 2011/292/UE. Para este efeito, serão estabelecidos acordos entre a AR e as autoridades competentes da ONU e da CEDEAO.\n\n3. Em caso de necessidade operacional específica e imediata, a AR fica igualmente autorizada a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» que sejam elaborados para efeitos da EUTM Mali, em conformidade com a Decisão 2011/292/UE. Para este efeito, são estabelecidos acordos entre a AR e as autoridades competentes do Estado anfitrião.\n\n4. A AR fica autorizada a comunicar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUTM Mali e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^3^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#E0003)).\n\n5. A AR pode delegar os poderes previstos nos n.^os^ 1 a 4, bem como a capacidade de celebrar os acordos referidos nos n.^os^ 2 e 3, no pessoal do Serviço Europeu de Ação Externa e/ou no Comandante da Missão da UE [**►M4**](http://publications.europa.eu/resource/celex/32017D0971) e/ou no Comandante da Força da Missão da UE**◄**."
+  },
+  "b183143e34985f22": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Decisão (PESC) 2015/528 do Conselho, de 27 de março de 2015, que institui um mecanismo de administração do financiamento dos custos comuns das operações da União Europeia com implicações militares ou no domínio da defesa (Athena) e que revoga a Decisão 2011/871/PESC (JO L 84 de 28.3.2015, p. 39).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 141 de 27.5.2011, p. 17.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o Regulamento Interno do Conselho (JO L 325 de 11.12.2009, p. 35)."
+  }
+ }
+}

@@ -37,6 +37,238 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-05-01'
+version_history:
+  file: regulamento-ue-2012-923.versoes.json
+  count: 9
+  source_lastmod: '2025-05-01'
+  versions:
+  - date: '2012-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-19'
+    amending: eu:celex:32015R0340:por
+    amending_title: REGULAMENTO (UE) 2015/340 DA COMISSÃO de 20 de fevereiro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2016/1185
+      DA COMISSÃO de 20 de julho de 2016; M3; M4
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera Artigo 5.º — Diferenças
+    - Altera Artigo 6.º — Monitorização das alterações
+    - Altera Artigo 8.º — Medidas transitórias e adicionais
+    - Altera Artigo 10.º — Alterações aos Regulamentos (CE) n.º 730/2006, (CE) n.º 1033/2006, (CE) n.º 1794/2006, (CE) n.º
+      1265/2007, (UE) n.º 255/2010 e ao Regulamento de Execução (UE) n.º 1035/2011
+    - Altera Artigo 11.º — Entrada em vigor
+    - Altera Notas
+    - Adita «Disposições referidas no artigo 3.º, n.º 1,
+    - Adita ANEXO
+    - Adita REGRAS DO AR
+    - Adita SECÇÃO 1
+    - Adita Voos sobre o alto mar
+    - Adita SERA.1001 Disposições gerais
+    - Adita SECÇÃO 2
+    - Adita Aplicabilidade e conformidade
+    - Adita SERA.2001 Objeto
+    - Adita SERA.2005 Conformidade com as regras do ar
+    - Adita SERA.2010 Responsabilidades
+    - Adita a) Responsabilidade do piloto-comandante
+    - Adita b) Medidas a tomar antes do voo
+    - Adita SERA.2015 Autoridade do piloto-comandante de uma aeronave
+    - Adita SERA.2020 Consumo problemático de substâncias psicoativas
+    - Adita SECÇÃO 3
+    - Adita Regras gerais e prevenção de colisões
+    - Adita SERA.3101 Operação negligente ou imprudente de aeronaves
+    - Adita SERA.3105 Alturas mínimas
+    - Adita SERA.3110 Níveis de cruzeiro
+    - Adita SERA.3115 Lançamento de objetos ou pulverizações
+    - Adita SERA.3120 Reboque
+    - Adita SERA.3125 Descidas em para-quedas
+    - Adita SERA.3130 Voos acrobáticos
+    - Adita SERA.3135 Voos em formação
+    - Adita SERA.3140 Balões livres não tripulados
+    - Adita SERA.3145 Zonas proibidas e zonas restritas
+    - Adita SERA.3201 Disposições gerais
+    - Adita SERA.3205 Proximidade
+    - Adita SERA.3210 Direito de passagem
+  - date: '2021-08-12'
+    amending: eu:celex:32020R0469:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/469 DA COMISSÃO de 14 de fevereiro de 2020; M5
+    changes:
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Voos sobre o alto mar
+    - Altera Aplicabilidade e conformidade
+    - Altera Regras gerais e prevenção de colisões
+    - Altera Planos de voo
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Classificação do espaço aéreo
+    - Altera Serviços de Tráfego Aéreo
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Serviço de alerta
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera Serviços de meteorologia – Observações efetuadas por aeronaves e reportes através de comunicações de voz
+    - Altera Transponder SSR
+    - Altera Procedimentos para as comunicações de voz
+    - Altera 1. SINAIS DE SOCORRO E DE URGÊNCIA
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera 1. CLASSIFICAÇÃO DOS BALÕES LIVRES NÃO TRIPULADOS
+    - Altera 5. NOTIFICAÇÃO DE VOOS
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera A. INSTRUÇÕES PARA APRESENTAÇÃO DE REPORTES
+    - Altera Notas
+    - Suprime SERA.1001 Disposições gerais
+    - Suprime SERA.2001 Objeto
+    - Suprime SERA.2005 Conformidade com as regras do ar
+    - Suprime SERA.2010 Responsabilidades
+    - Suprime a) Responsabilidade do piloto-comandante
+    - Suprime b) Medidas a tomar antes do voo
+    - Suprime SERA.2015 Autoridade do piloto-comandante de uma aeronave
+    - Suprime SERA.2020 Consumo problemático de substâncias psicoativas
+    - Suprime SERA.3101 Operação negligente ou imprudente de aeronaves
+    - Suprime SERA.3105 Alturas mínimas
+    - Suprime SERA.3110 Níveis de cruzeiro
+    - Suprime SERA.3115 Lançamento de objetos ou pulverizações
+    - Suprime SERA.3120 Reboque
+    - Suprime SERA.3125 Descidas em para-quedas
+    - Suprime SERA.3130 Voos acrobáticos
+  - date: '2022-01-27'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Regras gerais e prevenção de colisões
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera Transponder SSR
+    - Altera Procedimentos para as comunicações de voz
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera Notas
+    - Adita Artigo 4.º-A — Frequência de emergência de frequência muito alta (VHF)
+  - date: '2023-01-26'
+    amending: eu:celex:32021R0666:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/666 DA COMISSÃO de 22 de abril de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Classificação do espaço aéreo
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: eu:celex:32023R1772:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1772 DA COMISSÃO de 12 de setembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Aplicabilidade e conformidade
+    - Altera Planos de voo
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera Notas
+    - Adita SECÇÃO 15
+    - Adita Procedimentos de comunicação por ligação de dados entre o controlador e o piloto (CPDLC)
+    - Adita Apêndice 6
+    - Adita PREENCHIMENTO DO PLANO DE VOO
+    - Adita 1. Modelo de formulário de plano de voo da OACI
+    - Adita 2. Instruções para o preenchimento do formulário de plano de voo
+  - date: '2024-02-15'
+    amending: eu:celex:32024R0379:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/379 DA COMISSÃO de 25 de janeiro de 2024
+    changes:
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Regras gerais e prevenção de colisões
+    - Altera Planos de voo
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera Anexo 2 da OACI
+    - Altera Notas
+  - date: '2024-05-01'
+    amending: eu:celex:32024R0404:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/404 DA COMISSÃO de 30 de janeiro de 2024
+    changes:
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Planos de voo
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Classificação do espaço aéreo
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera 2. Instruções para o preenchimento do formulário de plano de voo
+    - Altera Notas
+    - Adita 2.1. Generalidades
+    - Adita 2.2. Instruções para a inserção de dados ATS
+    - Adita 2.3 Apresentado por («Filed by»)
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1111:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Cumprimento
+    - Altera Artigo 4.º — Isenções para operações especiais
+    - Altera Artigo 6.º — Monitorização das alterações
+    - Altera «Disposições referidas no artigo 3.º, n.º 1,
+    - Altera Aplicabilidade e conformidade
+    - Altera Regras gerais e prevenção de colisões
+    - Altera Planos de voo
+    - Altera Condições meteorológicas de voo visual, regras de voo visual (VFR), VFR especiais e regras de voo por instrumentos
+    - Altera Serviço de controlo de tráfego aéreo
+    - Altera Serviço de informação de voo
+    - Altera Interferências, contingências de emergência e interceção
+    - Altera Serviços de meteorologia – Observações efetuadas por aeronaves e reportes através de comunicações de voz
+    - Altera Procedimentos para as comunicações de voz
+    - Altera 3. SINAIS PARA O TRÁFEGO DE AERÓDROMO
+    - Altera 4. SINAIS DE MANOBRA NO SOLO
+    - Altera Tabela de níveis de cruzeiro
+    - Altera Apêndice 4
+    - Altera A. INSTRUÇÕES PARA APRESENTAÇÃO DE REPORTES
+    - Altera Notas
+    - Adita Transponder SSR e transmissores ADS-B
+    - Suprime Artigo 5.º — Diferenças
+    - Suprime Transponder SSR
+    - Suprime Suplemento ao ANEXO
+    - Suprime Anexo 2 da OACI
+    - Suprime Anexo 3 da OACI
+    - Suprime Anexo 10 da OACI
+    - Suprime Anexo 11 da OACI
 identifiers:
   celex: 32012R0923
   eli: http://data.europa.eu/eli/reg_impl/2012/923/oj
@@ -51,7 +283,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6abf13b1-169d-11e2-8e28-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/808ba627-3b55-11f0-8a44-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0923-20250501
-  retrieved_at: '2026-10-22T02:45:45Z'
+  retrieved_at: '2026-10-22T16:07:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T07:23:25.923+02:00'
 integrity:
@@ -60,9 +292,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:45Z'
-  notes: Texto consolidado 02012R0923-20250501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:07:57Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2012-923.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -357,46 +589,24 @@ relationships:
   date: '2023-09-15'
 article_structure:
   article_count: 11
-  section_count: 62
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 63
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:45Z'
-  warnings: []
+  checked_at: '2026-10-22T16:07:57Z'
+  warnings:
+  - '02012R0923-20121102: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0923-20150630: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0923-20160818: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0923-20170606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0923-20171012: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) n. ° 923/2012 da Comissão, de 26 de setembro de 2012
-
-> 02012R0923 — PT — 01.05.2025 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R0340) — [REGULAMENTO (UE) 2015/340 DA COMISSÃO de 20 de fevereiro de 2015](http://publications.europa.eu/resource/celex/32015R0340) — L 63 — 1 — 6.3.2015
-- [►M2](http://publications.europa.eu/resource/celex/32016R1185) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1185 DA COMISSÃO de 20 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1185) — L 196 — 3 — 21.7.2016
-- [M3](http://publications.europa.eu/resource/celex/32017R0835) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/835 DA COMISSÃO de 12 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0835) — L 124 — 35 — 17.5.2017
-- [►M4](http://publications.europa.eu/resource/celex/32020R0469) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/469 DA COMISSÃO de 14 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0469) — L 104 — 1 — 3.4.2020
-- [M5](http://publications.europa.eu/resource/celex/32020R1177) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/1177 DA COMISSÃO de 7 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1177) — L 259 — 12 — 10.8.2020
-- [M6](http://publications.europa.eu/resource/celex/32020R0886) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/886 DA COMISSÃO de 26 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0886) — L 205 — 14 — 29.6.2020
-- [►M7](http://publications.europa.eu/resource/celex/32021R0666) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/666 DA COMISSÃO de 22 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0666) — L 139 — 187 — 23.4.2021
-- [►M8](http://publications.europa.eu/resource/celex/32023R1772) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1772 DA COMISSÃO de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1772) — L 228 — 73 — 15.9.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R0379) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/379 DA COMISSÃO de 25 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0379) — L 379 — 1 — 26.1.2024
-- [►M10](http://publications.europa.eu/resource/celex/32024R0404) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/404 DA COMISSÃO de 30 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0404) — L 404 — 1 — 11.4.2024
-- [►M11](http://publications.europa.eu/resource/celex/32024R1111) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1111) — L 1111 — 1 — 23.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32012R0923R%2805%29) — [Rectificação, JO L 045, 15.2.2014, p. 40 (923/2012)](http://publications.europa.eu/resource/celex/32012R0923R%2805%29)
-- [C2](http://publications.europa.eu/resource/celex/32012R0923R%2806%29) — [Rectificação, JO L 091, 27.3.2014, p. 49 (923/2012)](http://publications.europa.eu/resource/celex/32012R0923R%2806%29)
-- [►C3](http://publications.europa.eu/resource/celex/32016R1185R%2807%29) — [Rectificação, JO L 093, 2.4.2019, p. 25 (2016/1185)](http://publications.europa.eu/resource/celex/32016R1185R%2807%29)
-- [►C4](http://publications.europa.eu/resource/celex/32016R1185R%2810%29) — [Rectificação, JO L 90770, 2.12.2024, p. 1 ((UE) 2016/1185)](http://publications.europa.eu/resource/celex/32016R1185R%2810%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) N.º 923/2012 DA COMISSÃO
 
 de 26 de setembro de 2012
 

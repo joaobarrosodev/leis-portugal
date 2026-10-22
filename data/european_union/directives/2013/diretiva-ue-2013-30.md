@@ -35,6 +35,62 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: diretiva-ue-2013-30.versoes.json
+  count: 2
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2013-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Considerações de segurança e ambiente no que se refere às licenças
+    - Altera Artigo 25.º — Relatórios sobre o impacto ambiental e a segurança
+    - Altera Artigo 38.º — Alteração da Diretiva 2004/35/CE
+    - Altera Artigo 39.º — Relatórios ao Parlamento Europeu e ao Conselho
+    - Altera Artigo 44.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Informações a incluir nos documentos a submeter à autoridade competente nos termos do artigo 11.º
+    - Adita 1. INFORMAÇÕES A SUBMETER NA NOTIFICAÇÃO DA CONCEÇÃO OU DESLOCALIZAÇÃO DE UMA INSTALAÇÃO DE PRODUÇÃO
+    - Adita 2. INFORMAÇÕES A SUBMETER NUM RELATÓRIO SOBRE RISCOS GRAVES PARA O FUNCIONAMENTO DE UMA INSTALAÇÃO DE PRODUÇÃO
+    - Adita 3. INFORMAÇÕES A SUBMETER NUM RELATÓRIO SOBRE RISCOS GRAVES PARA UMA INSTALAÇÃO DE NÃO-PRODUÇÃO
+    - Adita 4. INFORMAÇÕES A SUBMETER NUMA NOTIFICAÇÃO DE OPERAÇÕES DE SONDAGEM
+    - Adita 5. INFORMAÇÕES A SUBMETER RELATIVAMENTE AO MECANISMO DE VERIFICAÇÃO
+    - Adita 6. INFORMAÇÕES A FORNECER A RESPEITO DE UMA ALTERAÇÃO SUBSTANTIVA NUMA INSTALAÇÃO, INCLUINDO A REMOÇÃO DE UMA
+      INSTALAÇÃO FIXA
+    - Adita 7. INFORMAÇÕES A SUBMETER NUMA NOTIFICAÇÃO DE OPERAÇÕES COMBINADAS
+    - Adita 8. INFORMAÇÕES A SUBMETER NO QUE DIZ RESPEITO À POLÍTICA DE EMPRESA RELATIVA À PREVENÇÃO DE ACIDENTES GRAVES
+    - Adita 9. INFORMAÇÕES A SUBMETER RELATIVAMENTE AO SISTEMA DE GESTÃO AMBIENTAL E DE SEGURANÇA
+    - Adita 10. INFORMAÇÕES A SUBMETER NUM PLANO INTERNO DE RESPOSTA A EMERGÊNCIAS
+    - Adita ANEXO II
+    - Adita Relatório sobre operações de sondagem a submeter nos termos do artigo 15.º, n.º 4
+    - Adita ANEXO III
+    - Adita Disposições relativas à designação e funcionamento da autoridade competente, nos termos dos artigos 8.º e 9.º
+    - Adita 1. DISPOSIÇÕES RELATIVAS AOS ESTADOS-MEMBROS
+    - Adita 2. DISPOSIÇÕES RELATIVAS AO FUNCIONAMENTO DA AUTORIDADE COMPETENTE
+    - Adita ANEXO IV
+    - Adita Disposições adotadas pelos operadores e pelos proprietários para prevenir acidentes graves, nos termos do artigo
+      19.º
+    - Adita ANEXO V
+    - Adita Escolha do verificador independente e a conceção do mecanismo de verificação independente nos termos do artigo
+      17.º, n.º 3
+    - Adita ANEXO VI
+    - Adita Informações relativas às prioridades para a cooperação entre operadores e proprietários e as autoridades competentes,
+      nos termos do artigo 19.º, n.º 7
+    - Adita ANEXO VII
+    - Adita Informação a apresentar em planos externos de resposta a emergências nos termos do artigo 29.º
+    - Adita ANEXO VIII
+    - Adita Elementos a incluir nos planos externos de resposta a emergências nos termos do artigo 29.º
+    - Adita ANEXO IX
+    - Adita Partilha de informações e transparência
 identifiers:
   celex: 32013L0030
   eli: http://data.europa.eu/eli/dir/2013/30/oj
@@ -49,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/31df3ef0-dff2-11e2-9165-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d6374bc8-69fa-11ea-b735-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013L0030-20210101
-  retrieved_at: '2026-10-22T02:59:59Z'
+  retrieved_at: '2026-10-22T16:13:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T04:19:22.682+02:00'
 integrity:
@@ -58,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:59Z'
-  notes: Texto consolidado 02013L0030-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:57Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2013-30.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -198,29 +254,20 @@ relationships:
   source: null
 article_structure:
   article_count: 44
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:59Z'
-  warnings: []
+  checked_at: '2026-10-22T16:13:57Z'
+  warnings:
+  - '02013L0030-20130718: versão indisponível (Sem expressão na língua por para CELEX 02013L0030-20130718.)'
   errors: []
 ---
 
 # Diretiva 2013/30/UE do Parlamento Europeu e do Conselho, de 12 de junho de 2013
-
-> 02013L0030 — PT — 01.01.2021 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-
-## DIRETIVA 2013/30/UE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de junho de 2013
 

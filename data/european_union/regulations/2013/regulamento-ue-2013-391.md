@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2013-391.versoes.json
+  count: 1
+  source_lastmod: '2020-01-01'
+  versions:
+  - date: '2013-05-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32013R0391
   eli: http://data.europa.eu/eli/reg_impl/2013/391/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/91201059-b878-11e2-ab01-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/91201059-b878-11e2-ab01-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:40:50Z'
+  retrieved_at: '2026-10-22T16:17:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T03:41:18.806+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:50Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:17:47Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2013-391.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -159,21 +168,21 @@ relationships:
   date: '2010-12-20'
 article_structure:
   article_count: 23
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:50Z'
+  checked_at: '2026-10-22T16:17:47Z'
   warnings:
-  - Versão consolidada 02013R0391-20200101 indisponível (Sem expressão na língua por para CELEX 02013R0391-20200101.); usado
-    o texto do JO.
+  - '02013R0391-20130529: versão indisponível (Sem expressão na língua por para CELEX 02013R0391-20130529.)'
+  - '02013R0391-20200101: versão indisponível (Sem expressão na língua por para CELEX 02013R0391-20200101.)'
   errors: []
 ---
 
-# REGULAMENTO DE EXECUÇÃO (UE) N.º 391/2013 DA COMISSÃO
+# Regulamento de Execução (UE) n. ° 391/2013 da Comissão, de 3 de maio de 2013
 
 de 3 de maio de 2013
 

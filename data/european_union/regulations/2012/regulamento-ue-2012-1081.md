@@ -34,6 +34,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2012-1081.versoes.json
+  count: 1
+  source_lastmod: '2012-12-12'
+  versions:
+  - date: '2012-11-22'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32012R1081
   eli: http://data.europa.eu/eli/reg_impl/2012/1081/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52aa2ec8-347c-11e2-84d0-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/52aa2ec8-347c-11e2-84d0-01aa75ed71a1.0018.04/DOC_2
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:16:21Z'
+  retrieved_at: '2026-10-22T16:11:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T13:40:21.838+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:21Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:11:57Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2012-1081.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,21 +123,20 @@ relationships:
   date: '2004-04-09'
 article_structure:
   article_count: 18
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:21Z'
+  checked_at: '2026-10-22T16:11:57Z'
   warnings:
-  - 'Versão consolidada 02012R1081-20121212 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02012R1081-20121212: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# REGULAMENTO DE EXECUÇÃO (UE) N.º 1081/2012 DA COMISSÃO
+# Regulamento de Execução (UE) n. ° 1081/2012 da Comissão, de 9 de novembro de 2012
 
 de 9 de novembro de 2012
 

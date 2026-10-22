@@ -35,6 +35,517 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-25'
+version_history:
+  file: regulamento-ue-2012-965.versoes.json
+  count: 18
+  source_lastmod: '2026-05-25'
+  versions:
+  - date: '2012-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-14'
+    amending: eu:celex:32013R0800:por
+    amending_title: REGULAMENTO (UE) N. o 800/2013 DA COMISSÃO de 14 de agosto de 2013; REGULAMENTO (UE) N. o 71/2014 DA COMISSÃO
+      de 27 de janeiro de 2014; REGULAMENTO (UE) N. o 83/2014 DA COMISSÃO de 29 de janeiro de 2014; REGULAMENTO (UE) N. o
+      379/2014 DA COMISSÃO de 7 de abril de 2014; REGULAMENTO (UE) 2015/140 DA COMISSÃO de 29 de janeiro de 2015; REGULAMENTO
+      (UE) 2015/640 DA COMISSÃO de 23 de abril de 2015; REGULAMENTO (UE) 2015/1329 DA COMISSÃO de 31 de julho de 2015; REGULAMENTO
+      (UE) 2015/2338 DA COMISSÃO de 11 de dezembro de 2015; REGULAMENTO (UE) 2016/1199 DA COMISSÃO de 22 de julho de 2016;
+      REGULAMENTO (UE) 2017/363 DA COMISSÃO de 1 de março de 2017; REGULAMENTO (UE) 2018/394 DA COMISSÃO de 13 de março de
+      2018; REGULAMENTO (UE) 2018/1042 DA COMISSÃO de 23 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2018/1975 DA COMISSÃO
+      de 14 de dezembro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/1384 DA COMISSÃO de 24 de julho de 2019; REGULAMENTO DE
+      EXECUÇÃO (UE) 2019/1387 DA COMISSÃO de 1 de agosto de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Capacidades de supervisão
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 8.º — Limitações do tempo de voo
+    - Adita Artigo 9.º-A — Formação da tripulação de voo e de cabina
+    - Adita Artigo 9.º-AA — Requisitos aplicáveis à tripulação de voo no que se refere aos voos de verificação de manutenção
+    - Adita Artigo 9.º-B — Análise
+    - Adita ANEXO I
+    - Adita Definições dos termos usados nos anexos II a VIII
+    - Adita ANEXO II
+    - Adita REQUISITOS PARA AS AUTORIDADES NO QUE RESPEITA ÀS OPERAÇÕES AÉREAS
+    - Adita [PARTE ARO]
+    - Adita ARO.GEN.005 Âmbito
+    - Adita SUBPARTE GEN
+    - Adita REQUISITOS GERAIS
+    - Adita ARO.GEN.115 Documentação em matéria de supervisão
+    - Adita ARO.GEN.120 Meios de conformidade
+    - Adita ARO.GEN.125 Informações a comunicar à Agência
+    - Adita ARO.GEN.135 Resposta imediata a um problema de segurança
+    - Adita ARO.GEN.200 Sistema de gestão
+    - Adita ARO.GEN.205 Atribuição de funções a entidades qualificadas
+    - Adita ARO.GEN.210 Alterações ao sistema de gestão
+    - Adita ARO.GEN.220 Arquivo
+    - Adita ARO.GEN.300 Supervisão
+    - Adita ARO.GEN.305 Programa de supervisão
+    - Adita ARO.GEN.310 Procedimento de certificação inicial – organizações
+    - Adita ARO.GEN.330 Alterações – organizações
+    - Adita ARO.GEN.350 Constatações e medidas corretivas – organizações
+    - Adita ARO.GEN.355 Constatações e medidas de fiscalização – pessoas
+    - Adita ARO.GEN.360 Constatações e medidas de fiscalização — todos os operadores
+    - Adita SUBPARTE OPS
+    - Adita OPERAÇÕES AÉREAS
+    - Adita ARO.OPS.100 Emissão de certificado de operador aéreo
+    - Adita ARO.OPS.105 Acordos de partilha de códigos
+  - date: '2020-12-31'
+    amending: eu:celex:32020R2036:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/2036 DA COMISSÃO de 9 de dezembro de 2020
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera INSPEÇÕES NA PLATAFORMA DE ESTACIONAMENTO A AERONAVES DE OPERADORES SOB A SUPERVISÃO REGULAMENTAR DE OUTRO ESTADO
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera MANUAIS, CADERNETAS E REGISTOS
+    - Altera SEGURANÇA
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera TRIPULAÇÃO DE CABINA
+    - Altera TRIPULAÇÃO TÉCNICA NAS OPERAÇÕES HEMS, HHO OU NVIS
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera PROCEDIMENTOS OPERACIONAIS
+    - Altera DESEMPENHO DA AERONAVE E RESTRIÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES DE NAVEGAÇÃO BASEADAS NO DESEMPENHO (PBN)
+    - Altera OPERAÇÕES COM DESEMPENHO DE NAVEGAÇÃO MÍNIMO ESPECIFICADO (MNPS)
+    - Altera OPERAÇÕES NO ESPAÇO AÉREO COM MÍNIMOS DE SEPARAÇÃO VERTICAL REDUZIDA (RVSM)
+    - Altera OPERAÇÕES DE BAIXA VISIBILIDADE (LVO)
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera TRANSPORTE DE MERCADORIAS PERIGOSAS
+    - Altera OPERAÇÕES DE HELICÓPTEROS COM SISTEMAS DE VISÃO NOTURNA
+    - Altera OPERAÇÕES DE HELICÓPTEROS COM GUINCHO
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera OPERAÇÕES DE AVIÕES MONOMOTOR DE TURBINA EM VOOS NOTURNOS OU EM CONDIÇÕES METEOROLÓGICAS DE VOO POR INSTRUMENTOS
+      (SET-IMC)
+    - Altera DESEMPENHO DA AERONAVE E LIMITAÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS E EQUIPAMENTO
+    - Altera DESEMPENHO DA AERONAVE E LIMITES OPERACIONAIS
+    - Altera REQUISITOS ESPECÍFICOS
+    - Altera Notas
+    - Suprime ARO.GEN.115 Documentação em matéria de supervisão
+    - Suprime ARO.GEN.120 Meios de conformidade
+  - date: '2021-08-12'
+    amending: eu:celex:32020R0745:por
+    amending_title: M13; M17; M19; REGULAMENTO DE EXECUÇÃO (UE) 2021/1296 DA COMISSÃO de 4 de agosto de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Inspeções na plataforma de estacionamento
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera INSPEÇÕES NA PLATAFORMA DE ESTACIONAMENTO A AERONAVES DE OPERADORES SOB A SUPERVISÃO REGULAMENTAR DE OUTRO ESTADO
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera PROCEDIMENTOS OPERACIONAIS
+    - Altera DESEMPENHO DA AERONAVE E RESTRIÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera REQUISITOS ESPECÍFICOS
+    - Altera Notas
+  - date: '2022-04-03'
+    amending: eu:celex:32022R0414:por
+    amending_title: M21
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2022-06-09'
+    amending: eu:celex:32022R0790:por
+    amending_title: M22
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2022-10-30'
+    amending: eu:celex:32021R2237:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2237 DA COMISSÃO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Artigo 9.º-B — Análise
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera PROCEDIMENTOS OPERACIONAIS
+    - Altera DESEMPENHO DA AERONAVE E RESTRIÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES DE HELICÓPTEROS COM SISTEMAS DE VISÃO NOTURNA
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera OPERAÇÕES DE AVIÕES MONOMOTOR DE TURBINA EM VOOS NOTURNOS OU EM CONDIÇÕES METEOROLÓGICAS DE VOO POR INSTRUMENTOS
+      (SET-IMC)
+    - Altera DESEMPENHO DA AERONAVE E LIMITAÇÕES OPERACIONAIS
+    - Altera REQUISITOS ESPECÍFICOS
+    - Altera Notas
+    - Adita Operações com baixa visibilidade e operações com créditos operacionais
+    - Adita SUBPARTE N
+    - Adita APROXIMAÇÕES E PARTIDAS POINT-IN-SPACE DE HELICÓPTEROS COM MÍNIMOS VFR REDUZIDOS (PINS-VFR)
+    - Suprime OPERAÇÕES DE BAIXA VISIBILIDADE (LVO)
+  - date: '2022-12-04'
+    amending: eu:celex:32022R2203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2203 DA COMISSÃO de 11 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2023-01-09'
+    amending: eu:celex:32022R2502:por
+    amending_title: M25
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2023-02-22'
+    amending: eu:celex:32023R0217:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/217 DA COMISSÃO de 1 de fevereiro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera DESEMPENHO DA AERONAVE E RESTRIÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2023-06-14'
+    amending: eu:celex:32023R1020:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1020 DA COMISSÃO de 24 de maio de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2023-10-02'
+    amending: eu:celex:32023R1754:por
+    amending_title: M28
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2024-05-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Artigo 10.º — Entrada em vigor
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera TRIPULAÇÃO TÉCNICA NAS OPERAÇÕES HEMS, HHO OU NVIS
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera DESEMPENHO DA AERONAVE E RESTRIÇÕES OPERACIONAIS
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES DE HELICÓPTEROS COM SISTEMAS DE VISÃO NOTURNA
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera APROXIMAÇÕES E PARTIDAS POINT-IN-SPACE DE HELICÓPTEROS COM MÍNIMOS VFR REDUZIDOS (PINS-VFR)
+    - Altera Notas
+  - date: '2024-08-14'
+    amending: eu:celex:32024R2076:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2076 DA COMISSÃO de 24 de julho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2025-02-13'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Definições dos termos usados nos anexos II a VIII
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Notas
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1111:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 8.º — Limitações do tempo de voo
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera ORO.GEN.005 Âmbito
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera MANUAIS, CADERNETAS E REGISTOS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera TRIPULAÇÃO TÉCNICA NAS OPERAÇÕES HEMS, HHO OU NVIS
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES COM DESEMPENHO DE NAVEGAÇÃO MÍNIMO ESPECIFICADO (MNPS)
+    - Altera OPERAÇÕES NO ESPAÇO AÉREO COM MÍNIMOS DE SEPARAÇÃO VERTICAL REDUZIDA (RVSM)
+    - Altera Operações com baixa visibilidade e operações com créditos operacionais
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera TRANSPORTE DE MERCADORIAS PERIGOSAS
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera DOCUMENTAÇÃO DE VOO EM FORMATO ELETRÓNICO (EFB)
+    - Altera Notas
+    - Adita Anexo I — Definições dos termos utilizados nos anexos II a IX
+    - Adita SUBPARTE O
+    - Adita OPERAÇÕES DE SERVIÇOS DE EMERGÊNCIA MÉDICA COM AERONAVES COM CAPACIDADES DE VTOL TRIPULADAS (VEMS)
+    - Adita ANEXO IX
+    - Adita OPERAÇÕES DE MOBILIDADE AÉREA INOVADORA
+    - Adita (Parte IAM)
+    - Adita SECÇÃO 1
+    - Adita Aeronaves com capacidades de VTOL (VCA)
+    - Adita SECÇÃO 2
+    - Adita Aeronaves com capacidades de VTOL tripuladas (MVCA)
+    - Adita DESEMPENHO E LIMITAÇÕES OPERACIONAIS DAS AERONAVES COM CAPACIDADES DE VTOL (VCA)
+    - Adita UAM.POL.VCA.050 Âmbito
+  - date: '2026-02-22'
+    amending: eu:celex:32023R0203:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/133 DA COMISSÃO de 28 de janeiro de 2025; REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro
+      de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Operações aéreas
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Anexo I — Definições dos termos utilizados nos anexos II a IX
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera REQUISITOS ESPECÍFICOS
+    - Altera Aeronaves com capacidades de VTOL (VCA)
+    - Altera Notas
+  - date: '2026-05-25'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Derrogações
+    - Altera Artigo 9.º — Listas de equipamento mínimo
+    - Altera Anexo I — Definições dos termos utilizados nos anexos II a IX
+    - Altera REQUISITOS GERAIS
+    - Altera OPERAÇÕES AÉREAS
+    - Altera Apêndice I
+    - Altera Apêndice II
+    - Altera (sujeitas às condições especificadas na aprovação e constantes do manual de operações ou do manual de operações
+      do piloto)
+    - Altera Apêndice IV
+    - Altera CERTIFICAÇÃO COMO OPERADOR AÉREO
+    - Altera OPERAÇÕES COMERCIAIS ESPECIALIZADAS
+    - Altera TRIPULAÇÃO DE VOO
+    - Altera LIMITAÇÕES DO TEMPO DE VOO E DE SERVIÇO E REQUISITOS DE REPOUSO
+    - Altera INSTRUMENTOS, DADOS, EQUIPAMENTO
+    - Altera OPERAÇÕES PROLONGADAS COM AVIÕES BIMOTOR (ETOPS)
+    - Altera OPERAÇÕES COM HELICÓPTEROS DE SERVIÇOS DE EMERGÊNCIA MÉDICA
+    - Altera OPERAÇÕES DE HELICÓPTEROS NO MAR
+    - Altera Aeronaves com capacidades de VTOL (VCA)
+    - Altera Notas
 identifiers:
   celex: 32012R0965
   eli: http://data.europa.eu/eli/reg/2012/965/oj
@@ -49,7 +560,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3cb645b2-2a23-43c9-b842-b03665a6733a.0013
   content_url: http://publications.europa.eu/resource/cellar/6240f88e-39cd-11f1-814f-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0965-20260525
-  retrieved_at: '2026-10-22T02:41:40Z'
+  retrieved_at: '2026-10-22T16:09:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T11:45:25.130+02:00'
 integrity:
@@ -58,9 +569,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:40Z'
-  notes: Texto consolidado 02012R0965-20260525.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:09:58Z'
+  notes: 18 versão(ões); histórico completo em regulamento-ue-2012-965.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -388,71 +899,33 @@ relationships:
   date: '2026-06-22'
 article_structure:
   article_count: 13
-  section_count: 160
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 161
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:40Z'
-  warnings: []
+  checked_at: '2026-10-22T16:09:58Z'
+  warnings:
+  - '02012R0965-20121028: versão indisponível (Sem expressão na língua por para CELEX 02012R0965-20121028.)'
+  - '02012R0965-20130825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20140217: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20140701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20150219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20150514: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20151001: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20160218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20160825: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20170322: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20180701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20180814: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20190709: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02012R0965-20190925: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 965/2012 da Comissão, de 5 de outubro de 2012
-
-> 02012R0965 — PT — 25.05.2026 — 032.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0800) — [REGULAMENTO (UE) N.º 800/2013 DA COMISSÃO de 14 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0800) — L 227 — 1 — 24.8.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014R0071) — [REGULAMENTO (UE) N.º 71/2014 DA COMISSÃO de 27 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0071) — L 23 — 27 — 28.1.2014
-- [►M3](http://publications.europa.eu/resource/celex/32014R0083) — [REGULAMENTO (UE) N.º 83/2014 DA COMISSÃO de 29 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0083) — L 28 — 17 — 31.1.2014
-- [►M4](http://publications.europa.eu/resource/celex/32014R0379) — [REGULAMENTO (UE) N.º 379/2014 DA COMISSÃO de 7 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0379) — L 123 — 1 — 24.4.2014
-- [►M5](http://publications.europa.eu/resource/celex/32015R0140) — [REGULAMENTO (UE) 2015/140 DA COMISSÃO de 29 de janeiro de 2015](http://publications.europa.eu/resource/celex/32015R0140) — L 24 — 5 — 30.1.2015
-- [M6](http://publications.europa.eu/resource/celex/32015R0640) — [REGULAMENTO (UE) 2015/640 DA COMISSÃO de 23 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0640) — L 106 — 18 — 24.4.2015
-- [►M7](http://publications.europa.eu/resource/celex/32015R1329) — [REGULAMENTO (UE) 2015/1329 DA COMISSÃO de 31 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1329) — L 206 — 21 — 1.8.2015
-- [►M8](http://publications.europa.eu/resource/celex/32015R2338) — [REGULAMENTO (UE) 2015/2338 DA COMISSÃO de 11 de dezembro de 2015](http://publications.europa.eu/resource/celex/32015R2338) — L 330 — 1 — 16.12.2015
-- [►M9](http://publications.europa.eu/resource/celex/32016R1199) — [REGULAMENTO (UE) 2016/1199 DA COMISSÃO de 22 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1199) — L 198 — 13 — 23.7.2016
-- [►M10](http://publications.europa.eu/resource/celex/32017R0363) — [REGULAMENTO (UE) 2017/363 DA COMISSÃO de 1 de março de 2017](http://publications.europa.eu/resource/celex/32017R0363) — L 55 — 1 — 2.3.2017
-- [►M11](http://publications.europa.eu/resource/celex/32018R0394) — [REGULAMENTO (UE) 2018/394 DA COMISSÃO de 13 de março de 2018](http://publications.europa.eu/resource/celex/32018R0394) — L 71 — 1 — 14.3.2018
-- [►M12](http://publications.europa.eu/resource/celex/32018R1042) — [REGULAMENTO (UE) 2018/1042 DA COMISSÃO de 23 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1042) — L 188 — 3 — 25.7.2018
-- [M13](http://publications.europa.eu/resource/celex/32020R0745) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/745 DA COMISSÃO de 4 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0745) — L 176 — 11 — 5.6.2020
-- [►M14](http://publications.europa.eu/resource/celex/32018R1975) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1975 DA COMISSÃO de 14 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1975) — L 326 — 53 — 20.12.2018
-- [►M15](http://publications.europa.eu/resource/celex/32019R1384) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1384 DA COMISSÃO de 24 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1384) — L 228 — 106 — 4.9.2019
-- [►M16](http://publications.europa.eu/resource/celex/32019R1387) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/1387 DA COMISSÃO de 1 de agosto de 2019](http://publications.europa.eu/resource/celex/32019R1387) — L 229 — 1 — 5.9.2019
-- [M17](http://publications.europa.eu/resource/celex/32020R1176) — Alterado por: [REGULAMENTO DE EXECUÇÃO (UE) 2020/1176 DA COMISSÃO de 7 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1176) — L 259 — 10 — 10.8.2020
-- [►M18](http://publications.europa.eu/resource/celex/32020R2036) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2036 DA COMISSÃO de 9 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2036) — L 416 — 24 — 11.12.2020
-- [M19](http://publications.europa.eu/resource/celex/32021R1062) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1062 DA COMISSÃO de 28 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1062) — L 229 — 3 — 29.6.2021
-- [►M20](http://publications.europa.eu/resource/celex/32021R1296) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1296 DA COMISSÃO de 4 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1296) — L 282 — 5 — 5.8.2021
-- [►M21](http://publications.europa.eu/resource/celex/32021R2237) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2237 DA COMISSÃO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2237) — L 450 — 21 — 16.12.2021
-- [M22](http://publications.europa.eu/resource/celex/32022R0414) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/414 DA COMISSÃO de 11 de março de 2022](http://publications.europa.eu/resource/celex/32022R0414) — L 85 — 4 — 14.3.2022
-- [M23](http://publications.europa.eu/resource/celex/32022R0790) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/790 DA COMISSÃO de 19 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0790) — L 141 — 13 — 20.5.2022
-- [►M24](http://publications.europa.eu/resource/celex/32022R2203) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2203 DA COMISSÃO de 11 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2203) — L 293 — 3 — 14.11.2022
-- [M25](http://publications.europa.eu/resource/celex/32022R2502) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2502 DA COMISSÃO de 19 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2502) — L 325 — 56 — 20.12.2022
-- [►M26](http://publications.europa.eu/resource/celex/32023R0203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/203 DA COMISSÃO de 27 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0203) — L 31 — 1 — 2.2.2023
-- [►M27](http://publications.europa.eu/resource/celex/32023R0217) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/217 DA COMISSÃO de 1 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0217) — L 30 — 11 — 2.2.2023
-- [►M28](http://publications.europa.eu/resource/celex/32023R1020) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1020 DA COMISSÃO de 24 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1020) — L 137 — 1 — 25.5.2023
-- [M29](http://publications.europa.eu/resource/celex/32023R1754) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1754 DA COMISSÃO de 11 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1754) — L 224 — 16 — 12.9.2023
-- [►M30](http://publications.europa.eu/resource/celex/32024R1111) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1111 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1111) — L 1111 — 1 — 23.5.2024
-- [►M31](http://publications.europa.eu/resource/celex/32024R2076) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2076 DA COMISSÃO de 24 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2076) — L 2076 — 1 — 25.7.2024
-- [►M32](http://publications.europa.eu/resource/celex/32025R0133) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/133 DA COMISSÃO de 28 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0133) — L 133 — 1 — 29.1.2025
-- [►M33](http://publications.europa.eu/resource/celex/32025R2293) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2293 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2293) — L 2293 — 1 — 11.11.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32014R0083R%2802%29) — [Rectificação, JO L 127, 18.5.2016, p. 68 (83/2014)](http://publications.europa.eu/resource/celex/32014R0083R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32014R0379R%2801%29) — [Rectificação, JO L 145, 8.6.2017, p. 26 (379/2014)](http://publications.europa.eu/resource/celex/32014R0379R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32012R0965R%2806%29) — [Rectificação, JO L 235, 13.9.2017, p. 32 (965/2012)](http://publications.europa.eu/resource/celex/32012R0965R%2806%29)
-- [C4](http://publications.europa.eu/resource/celex/32019R1384R%2801%29) — [Rectificação, JO L 230, 6.9.2019, p. 10 (2019/1384)](http://publications.europa.eu/resource/celex/32019R1384R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32018R0394R%2801%29) — [Rectificação, JO L 288, 3.9.2020, p. 29 (2018/394)](http://publications.europa.eu/resource/celex/32018R0394R%2801%29)
-- [►C6](http://publications.europa.eu/resource/celex/32016R1199R%2808%29) — [Rectificação, JO L 030, 2.2.2023, p. 36 (2016/1199)](http://publications.europa.eu/resource/celex/32016R1199R%2808%29)
-- [►C7](http://publications.europa.eu/resource/celex/32024R1111R%2804%29) — [Rectificação, JO L 90414, 21.5.2025, p. 1 ((UE) 2024/1111L, 2024/1111)](http://publications.europa.eu/resource/celex/32024R1111R%2804%29)
-
-## REGULAMENTO (UE) N.º 965/2012 DA COMISSÃO
 
 de 5 de outubro de 2012
 

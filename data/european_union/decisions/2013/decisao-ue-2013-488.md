@@ -34,6 +34,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-08-14'
+version_history:
+  file: decisao-ue-2013-488.versoes.json
+  count: 5
+  source_lastmod: '2025-08-14'
+  versions:
+  - date: '2013-10-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-04-26'
+    amending: eu:celex:32014D0233:por
+    amending_title: Decisão do Conselho de 14 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Gestão das informações classificadas
+    - Altera Artigo 16.º — Organização da segurança no Conselho
+    - Altera Artigo 18.º — Substituição de anteriores decisões
+    - Altera Artigo 19.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXOS
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita ANEXO VI
+    - Adita REQUISITOS DE SEGURANÇA DO PESSOAL
+    - Adita I. INTRODUÇÃO
+    - Adita II. CONCESSÃO DE ACESSO A ICUE
+    - Adita III. REQUISITOS DA CREDENCIAÇÃO DE SEGURANÇA DO PESSOAL
+    - Adita IV. FORMAÇÃO E SENSIBILIZAÇÃO PARA A SEGURANÇA
+    - Adita V. CIRCUNSTÂNCIAS EXCECIONAIS
+    - Adita VI. PARTICIPAÇÃO EM REUNIÕES DO CONSELHO
+    - Adita VII. ACESSO POTENCIAL A ICUE
+    - Adita SEGURANÇA FÍSICA
+    - Adita II. REQUISITOS E MEDIDAS DE SEGURANÇA FÍSICA
+    - Adita III. EQUIPAMENTO PARA A PROTEÇÃO FÍSICA DAS ICUE
+    - Adita IV. ZONAS FISICAMENTE PROTEGIDAS
+    - Adita V. MEDIDAS DE PROTEÇÃO FÍSICA PARA O MANUSEAMENTO E ARMAZENAMENTO DE ICUE
+    - Adita VI. CONTROLO DAS CHAVES E COMBINAÇÕES DE FECHADURAS DE SEGREDO UTILIZADAS PARA PROTEÇÃO DAS ICUE
+    - Adita GESTÃO DAS INFORMAÇÕES CLASSIFICADAS
+    - Adita II. GESTÃO DAS CLASSIFICAÇÕES
+    - Adita III. REGISTO DE ICUE PARA EFEITOS DE SEGURANÇA
+    - Adita IV. CÓPIA E TRADUÇÃO DE DOCUMENTOS CLASSIFICADOS DA UE
+    - Adita V. TRANSPORTE DE ICUE
+    - Adita VI. DESTRUIÇÃO DE ICUE
+    - Adita VII. VISITAS DE AVALIAÇÃO
+    - Adita PROTEÇÃO DAS ICUE MANUSEADAS EM SCI
+    - Adita II. PRINCÍPIOS DA GARANTIA DA INFORMAÇÃO
+    - Adita III. FUNÇÕES E AUTORIDADES DE GARANTIA DA INFORMAÇÃO
+    - Adita SEGURANÇA INDUSTRIAL
+    - Adita II. ELEMENTOS DE SEGURANÇA DOS CONTRATOS CLASSIFICADOS
+    - Adita III. CREDENCIAÇÃO DE SEGURANÇA DA EMPRESA (CSE)
+  - date: '2019-12-30'
+    amending: eu:celex:32019D2247:por
+    amending_title: REGULAMENTO (UE) 2019/2247 DO CONSELHO de 19 de dezembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Substituição de anteriores decisões
+    - Altera ANEXOS
+    - Altera ANEXO I
+    - Altera III. REQUISITOS DA CREDENCIAÇÃO DE SEGURANÇA DO PESSOAL
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera ANEXO IV
+    - Altera ANEXO V
+    - Altera ANEXO VI
+    - Altera Apêndices
+    - Altera Apêndice A
+    - Altera Apêndice B
+    - Altera Apêndice C
+    - Altera Apêndice D
+    - Altera Notas
+    - Suprime EQUIVALÊNCIA DAS CLASSIFICAÇÕES DE SEGURANÇA
+    - Suprime LISTA DAS AUTORIDADES NACIONAIS DE SEGURANÇA (ANS)
+  - date: '2021-07-01'
+    amending: eu:celex:32021D1075:por
+    amending_title: DECISÃO (UE) 2021/1075 DO CONSELHO de 21 de junho de 2021
+    changes:
+    - Altera Artigo 18.º — Substituição de anteriores decisões
+    - Altera III. REQUISITOS DA CREDENCIAÇÃO DE SEGURANÇA DO PESSOAL
+    - Altera Notas
+    - Adita APÊNDICE B
+    - Adita EQUIVALÊNCIA DAS CLASSIFICAÇÕES DE SEGURANÇA
+    - Adita APÊNDICE C
+    - Adita LISTA DAS AUTORIDADES NACIONAIS DE SEGURANÇA (ANS)
+    - Suprime Apêndice B
+    - Suprime Apêndice C
+  - date: '2025-08-14'
+    amending: eu:celex:32025D1540:por
+    amending_title: DECISÃO (UE) 2025/1540 DO CONSELHO de 18 de julho de 2025
+    changes:
+    - Altera Artigo 18.º — Substituição de anteriores decisões
+    - Altera III. REQUISITOS DA CREDENCIAÇÃO DE SEGURANÇA DO PESSOAL
+    - Altera EQUIVALÊNCIA DAS CLASSIFICAÇÕES DE SEGURANÇA
+    - Altera LISTA DAS AUTORIDADES NACIONAIS DE SEGURANÇA (ANS)
+    - Altera Notas
+    - Adita Apêndice B
+    - Adita Apêndice C
+    - Suprime APÊNDICE B
+    - Suprime APÊNDICE C
 identifiers:
   celex: 32013D0488
   eli: http://data.europa.eu/eli/dec/2013/488/oj
@@ -48,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d43001e3-356d-11e3-806a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/3141c50f-c4af-11f0-8da2-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013D0488-20250814
-  retrieved_at: '2026-10-22T02:59:55Z'
+  retrieved_at: '2026-10-22T16:13:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T12:00:19.651+02:00'
 integrity:
@@ -57,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:55Z'
-  notes: Texto consolidado 02013D0488-20250814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:40Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2013-488.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,37 +243,19 @@ relationships:
   date: '2011-06-01'
 article_structure:
   article_count: 19
-  section_count: 59
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 60
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:55Z'
+  checked_at: '2026-10-22T16:13:40Z'
   warnings: []
   errors: []
 ---
 
 # 2013/488/UE: Decisão do Conselho, de 23 de setembro de 2013
-
-> 02013D0488 — PT — 14.08.2025 — 004.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32014D0233) — [DECISÃO DO CONSELHO de 14 de abril de 2014](http://publications.europa.eu/resource/celex/32014D0233) — L 125 — 72 — 26.4.2014
-- [M2](http://publications.europa.eu/resource/celex/32019D2247) — [DECISÃO (UE) 2019/2247 DO CONSELHO de 19 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019D2247) — L 336 — 291 — 30.12.2019
-- [M3](http://publications.europa.eu/resource/celex/32021D1075) — [DECISÃO (UE) 2021/1075 DO CONSELHO de 21 de junho de 2021](http://publications.europa.eu/resource/celex/32021D1075) — L 233 — 1 — 1.7.2021
-- [►M4](http://publications.europa.eu/resource/celex/32025D1540) — [DECISÃO (UE) 2025/1540 DO CONSELHO de 18 de julho de 2025](http://publications.europa.eu/resource/celex/32025D1540) — L 1540 — 1 — 25.7.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32025D1540R%2801%29) — [Rectificação, JO L 90647, 13.8.2025, p. 1 (2025/1540)](http://publications.europa.eu/resource/celex/32025D1540R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32019D2247R%2801%29) — [Rectificação, JO L 90789, 8.10.2025, p. 1 (2019/2247)](http://publications.europa.eu/resource/celex/32019D2247R%2801%29)
-
-## Decisão do Conselho
 
 de 23 de setembro de 2013
 

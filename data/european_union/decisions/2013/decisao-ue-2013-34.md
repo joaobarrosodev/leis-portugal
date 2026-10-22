@@ -34,6 +34,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-10-17'
+version_history:
+  file: decisao-ue-2013-34.versoes.json
+  count: 8
+  source_lastmod: '2022-10-17'
+  versions:
+  - date: '2013-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-09'
+    amending: eu:celex:32013D0729:por
+    amending_title: DECISÃO 2013/729/PESC DO CONSELHO de 9 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Artigo 12.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+    - Adita Artigo 3.º-A — Célula de projeto
+  - date: '2014-04-15'
+    amending: eu:celex:32014D0220:por
+    amending_title: Decisão 2014/220/PESC do Conselho de 15 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Artigo 12.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2016-03-23'
+    amending: eu:celex:32016D0446:por
+    amending_title: DECISÃO (PESC) 2016/446 DO CONSELHO de 23 de março de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Artigo 12.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2017-06-08'
+    amending: eu:celex:32017D0971:por
+    amending_title: DECISÃO (UE) 2017/971 DO CONSELHO de 8 de junho de 2017
+    changes:
+    - Altera Artigo 2.º — Nomeação do Comandante da Missão da UE
+    - Altera Artigo 3.º — Designação do Quartel-General da UE
+    - Altera Artigo 5.º — Controlo político e direção estratégica
+    - Altera Artigo 6.º — Direção militar
+    - Altera Artigo 7.º — Coerência da resposta e coordenação da União
+    - Altera Artigo 8.º — Participação de Estados terceiros
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Notas
+  - date: '2018-05-14'
+    amending: eu:celex:32018D0716:por
+    amending_title: DECISÃO (PESC) 2018/716 DO CONSELHO de 14 de maio de 2018
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Artigo 12.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2020-03-23'
+    amending: eu:celex:32020D0434:por
+    amending_title: DECISÃO (PESC) 2020/434 DO CONSELHO de 23 de março de 2020
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Artigo 12.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2022-10-17'
+    amending: eu:celex:32022D1966:por
+    amending_title: DECISÃO (PESC) 2022/1966 DO CONSELHO de 17 de outubro de 2022
+    changes:
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Comunicação de informações
+    - Altera Notas
 identifiers:
   celex: 32013D0034
   eli: http://data.europa.eu/eli/dec/2013/34(1)/oj
@@ -48,7 +124,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e827b1f4-6166-11e2-9294-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/6890653e-5f96-11ed-92ed-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013D0034-20221017
-  retrieved_at: '2026-10-22T03:16:23Z'
+  retrieved_at: '2026-10-22T16:13:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:03:20.996+02:00'
 integrity:
@@ -57,9 +133,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:23Z'
-  notes: Texto consolidado 02013D0034-20221017.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:13:26Z'
+  notes: 8 versão(ões); histórico completo em decisao-ue-2013-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,39 +211,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/388240a3-754d-4dcf-863f-509301626301
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:23Z'
+  checked_at: '2026-10-22T16:13:26Z'
   warnings: []
   errors: []
 ---
 
 # Decisão 2013/34/PESC do Conselho, de 17 de janeiro de 2013
-
-> 02013D0034 — PT — 17.10.2022 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013D0729) — [DECISÃO 2013/729/PESC DO CONSELHO de 9 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013D0729) — L 332 — 18 — 11.12.2013
-- [M2](http://publications.europa.eu/resource/celex/32014D0220) — [DECISÃO 2014/220/PESC DO CONSELHO de 15 de abril de 2014](http://publications.europa.eu/resource/celex/32014D0220) — L 113 — 27 — 16.4.2014
-- [M3](http://publications.europa.eu/resource/celex/32016D0446) — [DECISÃO (PESC) 2016/446 DO CONSELHO de 23 de março de 2016](http://publications.europa.eu/resource/celex/32016D0446) — L 78 — 74 — 24.3.2016
-- [►M4](http://publications.europa.eu/resource/celex/32017D0971) — [DECISÃO (UE) 2017/971 DO CONSELHO de 8 de junho de 2017](http://publications.europa.eu/resource/celex/32017D0971) — L 146 — 133 — 9.6.2017
-- [►M5](http://publications.europa.eu/resource/celex/32018D0716) — [DECISÃO (PESC) 2018/716 DO CONSELHO de 14 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0716) — L 120 — 8 — 16.5.2018
-- [►M6](http://publications.europa.eu/resource/celex/32020D0434) — [DECISÃO (PESC) 2020/434 DO CONSELHO de 23 de março de 2020](http://publications.europa.eu/resource/celex/32020D0434) — L 89 — 1 — 24.3.2020
-- [►M7](http://publications.europa.eu/resource/celex/32022D1966) — [DECISÃO (PESC) 2022/1966 DO CONSELHO de 17 de outubro de 2022](http://publications.europa.eu/resource/celex/32022D1966) — L 270 — 82 — 18.10.2022
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32016D0446R%2801%29) — [Rectificação, JO L 116, 30.4.2016, p. 39 (2016/446)](http://publications.europa.eu/resource/celex/32016D0446R%2801%29)
-
-## DECISÃO 2013/34/PESC DO CONSELHO
 
 de 17 de janeiro de 2013
 

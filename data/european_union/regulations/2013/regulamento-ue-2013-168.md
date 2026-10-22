@@ -36,6 +36,87 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: regulamento-ue-2013-168.versoes.json
+  count: 4
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2013-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-11-14'
+    amending: eu:celex:32014R0134:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 134/2014 DA COMISSÃO de 16 de dezembro de 2013; REGULAMENTO (UE) 2019/129
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de janeiro de 2019; REGULAMENTO (UE) 2020/1694 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 11 de novembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Categorias de veículos
+    - Altera Artigo 5.º — Determinação da massa em ordem de marcha
+    - Altera Artigo 18.º — Requisitos substantivos gerais
+    - Altera Artigo 21.º — Requisitos gerais de sistemas de diagnóstico a bordo
+    - Altera Artigo 22.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 23.º — Requisitos aplicáveis ao desempenho ambiental
+    - Altera Artigo 30.º — Disposições específicas relativas ao certificado de homologação UE
+    - Altera Artigo 44.º — Disponibilização no mercado, matrícula ou entrada em circulação de veículos em fim de série
+    - Altera Artigo 60.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Artigo 74.º — Alteração dos anexos
+    - Altera Artigo 75.º — Exercício da delegação
+    - Altera Artigo 77.º — Disposições transitórias
+    - Altera Artigo 82.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 24.º — [►C1](http://publications.europa.eu/resource/celex/32013R0168R%2804%29) Requisitos de desempenho
+      ambiental◄ suplementares relativos a emissões de gases com efeito de estufa, consumo de combustível, consumo de energia
+      elétrica e autonomia elétrica
+    - Adita Artigo 44.º-A — Medidas específicas para veículos de fim de série em resposta à pandemia COVID-19
+    - Adita LISTA DOS ANEXOS
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita (A) [►C1](http://publications.europa.eu/resource/celex/32013R0168R%2804%29) Procedimentos e requisitos do teste
+      de desempenho ambiental◄
+    - Adita (B) Aplicação dos requisitos do teste de desempenho ambiental para efeitos de homologação e extensões
+    - Adita ANEXO VI
+    - Adita Valores-limite para emissões poluentes, valores-limite do sistema OBD, valores-limite das emissões sonoras para
+      homologação e conformidade da produção
+    - Adita (A) Emissões de tubo de escape após arranque a frio
+    - Adita (B) Valores-limite das emissões do sistema de diagnóstico a bordo
+    - Adita (C) Valores-limite das emissões por evaporação
+    - Adita (D) Valores-limite das emissões sonoras — Euro 4 e Euro 5
+    - Adita ANEXO VII
+    - Adita Durabilidade dos dispositivos de controlo da poluição
+    - Adita (A) Quilometragem para a durabilidade dos veículos da categoria L
+    - Adita (B) Factores de deterioração (DF)
+    - Adita ANEXO VIII
+    - Adita Notas explicativas dos Anexos I a VIII
+    - Adita ANEXO IX
+  - date: '2024-11-27'
+    amending: eu:celex:32024R2838:por
+    amending_title: REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Categorias de veículos
+    - Altera Artigo 18.º — Requisitos substantivos gerais
+    - Altera Artigo 22.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 60.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Notas
+    - Suprime Artigo 78.º — Relatórios
+    - Suprime Artigo 80.º — Reexame da questão das homologações de veículos individuais
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Categorias de veículos
+    - Altera Artigo 18.º — Requisitos substantivos gerais
+    - Altera Artigo 22.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 60.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Notas
 identifiers:
   celex: 32013R0168
   eli: http://data.europa.eu/eli/reg/2013/168/oj
@@ -50,7 +131,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/11d954b5-8256-11e2-89d6-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/345df934-63ff-11f1-9b18-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0168-20260802
-  retrieved_at: '2026-10-22T02:41:41Z'
+  retrieved_at: '2026-10-22T16:15:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T07:24:48.800+02:00'
 integrity:
@@ -59,9 +140,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:41Z'
-  notes: Texto consolidado 02013R0168-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:59Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2013-168.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -387,37 +468,20 @@ relationships:
   date: '2009-12-11'
 article_structure:
   article_count: 81
-  section_count: 57
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 58
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:41Z'
-  warnings: []
+  checked_at: '2026-10-22T16:15:59Z'
+  warnings:
+  - '02013R0168-20160101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 168/2013 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2013
-
-> 02013R0168 — PT — 02.08.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0134) — [REGULAMENTO DELEGADO (UE) N.º 134/2014 DA COMISSÃO de 16 de dezembro de 2013](http://publications.europa.eu/resource/celex/32014R0134) — L 53 — 1 — 21.2.2014
-- [►M2](http://publications.europa.eu/resource/celex/32019R0129) — [REGULAMENTO (UE) 2019/129 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0129) — L 30 — 106 — 31.1.2019
-- [►M3](http://publications.europa.eu/resource/celex/32020R1694) — [REGULAMENTO (UE) 2020/1694 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1694) — L 381 — 4 — 13.11.2020
-- [►M4](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R2838) — [REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2838) — L 2838 — 1 — 7.11.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32013R0168R%2804%29) — [Rectificação, JO L 077, 23.3.2016, p. 65 (168/2013)](http://publications.europa.eu/resource/celex/32013R0168R%2804%29)
-
-## REGULAMENTO (UE) N.º 168/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de janeiro de 2013
 

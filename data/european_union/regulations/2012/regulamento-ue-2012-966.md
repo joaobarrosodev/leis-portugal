@@ -37,6 +37,147 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-01-01'
+version_history:
+  file: regulamento-ue-2012-966.versoes.json
+  count: 4
+  source_lastmod: '2017-01-01'
+  versions:
+  - date: '2012-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-18'
+    amending: eu:celex:32014R0547:por
+    amending_title: REGULAMENTO (UE, Euratom) N. o 547/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo -4.º — Prazos, datas e termos
+    - Altera Artigo 5.º — Proteção de dados pessoais
+    - Altera Artigo 11.º — Regras contabilísticas aplicáveis às receitas e às dotações
+    - Altera Artigo 13.º — Anulação e transição de dotações
+    - Altera Artigo 21.º — Receitas afetadas
+    - Altera Artigo 38.º — Projeto de orçamento
+    - Altera Artigo 45.º — Proibição de receitas negativas
+    - Altera Artigo 49.º — Apresentação do orçamento
+    - Altera Artigo 54.º — Ato de base e exceções
+    - Altera Artigo 58.º — Modalidades de execução orçamental
+    - Altera Artigo 59.º — Gestão partilhada com os Estados-Membros
+    - Altera Artigo 60.º — Gestão indireta
+    - Altera Artigo 62.º — Agências de execução
+    - Altera Artigo 90.º — Tipos de pagamentos
+    - Altera Artigo 103.º — Publicação dos contratos públicos
+    - Altera Artigo 119.º — Regras de participação nos convites à apresentação de propostas
+    - Altera Artigo 121.º — Âmbito das subvenções
+    - Altera Artigo 124.º — Montantes únicos, custos unitários e financiamento a taxa fixa
+    - Altera Artigo 125.º — Princípios gerais aplicáveis às subvenções
+    - Altera Artigo 126.º — Custos elegíveis
+    - Altera Artigo 128.º — Transparência
+    - Altera Artigo 140.º — Princípios e condições aplicáveis aos instrumentos financeiros
+    - Altera Artigo 169.º — Autorização das dotações do FEAGA
+    - Altera Artigo 175.º — Disposições especiais
+    - Altera Artigo 178.º — Anulação de dotações
+    - Altera Artigo 189.º — Acordos de financiamento para a execução das ações externas
+    - Altera Artigo 214.º — Entrada em vigor
+    - Altera Notas
+    - Adita FUNDOS ESTRUTURAIS, FUNDO DE COESÃO, FUNDO EUROPEU DAS PESCAS, FUNDO EUROPEU AGRÍCOLA DE DESENVOLVIMENTO RURAL,
+      FUNDOS DO ESPAÇO DE LIBERDADE, DE SEGURANÇA E DE JUSTIÇA GERIDOS EM REGIME DE GESTÃO PARTILHADA E MECANISMO INTERLIGAR
+      A EUROPA
+    - Adita Artigo 178.º-A — Transição das dotações de autorização do Mecanismo Interligar a Europa
+    - Adita ANEXO
+    - Adita DECLARAÇÃO COMUM SOBRE QUESTÕES RELATIVAS AO QFP
+    - Adita DECLARAÇÃO COMUM SOBRE AS DESPESAS IMOBILIÁRIAS, COM REFERÊNCIA AO ARTIGO 203.O
+    - Adita DECLARAÇÃO COMUM DO PARLAMENTO EUROPEU, DO CONSELHO E DA COMISSÃO SOBRE O ARTIGO 203.º, N.º 3
+    - Suprime FUNDOS ESTRUTURAIS, FUNDO DE COESÃO, FUNDO EUROPEU DAS PESCAS, FUNDO EUROPEU AGRÍCOLA DE DESENVOLVIMENTO RURAL
+      E FUNDOS DO ESPAÇO DE LIBERDADE, DE SEGURANÇA E DE JUSTIÇA GERIDOS EM REGIME DE GESTÃO PARTILHADA
+  - date: '2016-01-01'
+    amending: eu:celex:32015R1929:por
+    amending_title: REGULAMENTO (UE, EURATOM) 2015/1929 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo -4.º — Prazos, datas e termos
+    - Altera Artigo 5.º — Proteção de dados pessoais
+    - Altera Artigo 11.º — Regras contabilísticas aplicáveis às receitas e às dotações
+    - Altera Artigo 21.º — Receitas afetadas
+    - Altera Artigo 38.º — Projeto de orçamento
+    - Altera Artigo 45.º — Proibição de receitas negativas
+    - Altera Artigo 58.º — Modalidades de execução orçamental
+    - Altera Artigo 60.º — Gestão indireta
+    - Altera Artigo 62.º — Agências de execução
+    - Altera Artigo 66.º — Poderes e funções do gestor orçamental
+    - Altera Artigo 99.º — Poderes e funções do auditor interno
+    - Altera Artigo 102.º — Princípios aplicáveis aos contratos públicos
+    - Altera Artigo 115.º — Garantias
+    - Altera Artigo 117.º — Entidade adjudicante
+    - Altera Artigo 121.º — Âmbito das subvenções
+    - Altera Artigo 125.º — Princípios gerais aplicáveis às subvenções
+    - Altera Artigo 126.º — Custos elegíveis
+    - Altera Artigo 128.º — Transparência
+    - Altera Artigo 131.º — Pedidos de subvenção
+    - Altera Artigo 138.º — Regras gerais
+    - Altera Artigo 139.º — Âmbito de aplicação
+    - Altera Artigo 140.º — Princípios e condições aplicáveis aos instrumentos financeiros
+    - Altera Artigo 163.º — Relatórios especiais do Tribunal de Contas
+    - Altera Artigo 169.º — Autorização das dotações do FEAGA
+    - Altera Artigo 175.º — Disposições especiais
+    - Altera Artigo 178.º — Anulação de dotações
+    - Altera Artigo 178.º-A — Transição das dotações de autorização do Mecanismo Interligar a Europa
+    - Altera Artigo 183.º — Centro Comum de Investigação
+    - Altera Artigo 190.º — Contratação pública para as ações externas
+    - Altera Artigo 204.º — Peritos externos remunerados
+    - Altera Artigo 209.º — Regulamento financeiro-tipo para os organismos resultantes de parcerias público-privadas
+    - Altera Artigo 211.º — Revisão
+    - Altera Notas
+    - Adita CONTRATAÇÃO PÚBLICA E CONTRATOS DE CONCESSÃO
+    - Adita Artigo 101.º — Definições para efeitos do presente título
+    - Adita Artigo 103.º — Medidas de publicidade
+    - Adita Artigo 104.º — Procedimentos de contratação pública
+    - Adita Artigo 104.º-A — Procedimentos interinstitucionais e conjuntos de contratação
+  - date: '2017-01-01'
+    amending: eu:celex:32014R1142:por
+    amending_title: REGULAMENTO (UE, EURATOM) N. o 1142/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo -4.º — Prazos, datas e termos
+    - Altera Artigo 5.º — Proteção de dados pessoais
+    - Altera Artigo 11.º — Regras contabilísticas aplicáveis às receitas e às dotações
+    - Altera Artigo 21.º — Receitas afetadas
+    - Altera Artigo 38.º — Projeto de orçamento
+    - Altera Artigo 45.º — Proibição de receitas negativas
+    - Altera Artigo 62.º — Agências de execução
+    - Altera Artigo 104.º — Procedimentos de contratação pública
+    - Altera Artigo 106.º — Critérios de exclusão e sanções administrativas
+    - Altera Artigo 108.º — Sistema de deteção precoce e de exclusão
+    - Altera Artigo 116.º — Erros substanciais, irregularidades ou fraudes
+    - Altera Artigo 121.º — Âmbito das subvenções
+    - Altera Artigo 125.º — Princípios gerais aplicáveis às subvenções
+    - Altera Artigo 126.º — Custos elegíveis
+    - Altera Artigo 128.º — Transparência
+    - Altera Artigo 140.º — Princípios e condições aplicáveis aos instrumentos financeiros
+    - Altera Artigo 169.º — Autorização das dotações do FEAGA
+    - Altera Artigo 175.º — Disposições especiais
+    - Altera Artigo 178.º — Anulação de dotações
+    - Altera Artigo 178.º-A — Transição das dotações de autorização do Mecanismo Interligar a Europa
+    - Altera Artigo 209.º — Regulamento financeiro-tipo para os organismos resultantes de parcerias público-privadas
+    - Altera Notas
+    - Adita CONTRIBUIÇÕES PARA OS PARTIDOS POLÍTICOS EUROPEUS
+    - Adita Artigo 204.º-A — Disposições gerais
+    - Adita Artigo 204.º-B — Princípios
+    - Adita Artigo 204.º-C — Aspetos orçamentais
+    - Adita Artigo 204.º-D — Convite à apresentação de pedidos de contribuição
+    - Adita Artigo 204.º-E — Procedimento de concessão
+    - Adita Artigo 204.º-F — Procedimento de avaliação
+    - Adita Artigo 204.º-G — Forma das contribuições
+    - Adita Artigo 204.º-H — Regras relativas à contribuição
+    - Adita Artigo 204.º-I — Pré-financiamento
+    - Adita Artigo 204.º-J — Garantias
+    - Adita Artigo 204.º-K — Utilização das contribuições
+    - Adita Artigo 204.º-L — Relatório sobre a utilização das contribuições
+    - Adita Artigo 204.º-M — Pagamento do saldo
+    - Adita Artigo 204.º-N — Controlo e sanções
+    - Adita Artigo 204.º-O — Conservação de registos
 identifiers:
   celex: 32012R0966
   eli: http://data.europa.eu/eli/reg/2012/966/oj
@@ -51,7 +192,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6e42ca04-1e94-11e2-91ce-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/322fd25b-d727-11e6-ad7c-01aa75ed71a1.0016.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R0966-20170101
-  retrieved_at: '2026-10-22T02:43:00Z'
+  retrieved_at: '2026-10-22T16:09:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T03:59:29.045+02:00'
 integrity:
@@ -60,9 +201,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:00Z'
-  notes: Texto consolidado 02012R0966-20170101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:09:38Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2012-966.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -339,31 +480,19 @@ relationships:
   date: '2002-06-25'
 article_structure:
   article_count: 233
-  section_count: 176
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 177
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:00Z'
+  checked_at: '2026-10-22T16:09:38Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE, Euratom) n. ° 966/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012R0966 — PT — 01.01.2017 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R0547) — [REGULAMENTO (UE, Euratom) N.º 547/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0547) — L 163 — 18 — 29.5.2014
-- [►M2](http://publications.europa.eu/resource/celex/32014R1142) — [REGULAMENTO (UE, EURATOM) N.º 1142/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1142) — L 317 — 28 — 4.11.2014
-- [►M3](http://publications.europa.eu/resource/celex/32015R1929) — [REGULAMENTO (UE, EURATOM) 2015/1929 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1929) — L 286 — 1 — 30.10.2015
-
-## REGULAMENTO (UE, EURATOM) N.º 966/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

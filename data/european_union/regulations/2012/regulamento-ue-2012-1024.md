@@ -36,6 +36,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-02-21'
+version_history:
+  file: regulamento-ue-2012-1024.versoes.json
+  count: 7
+  source_lastmod: '2022-02-21'
+  versions:
+  - date: '2012-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-17'
+    amending: eu:celex:32013L0055:por
+    amending_title: DIRETIVA 2013/55/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de novembro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 23.º — Intercâmbio de informações com países terceiros
+    - Altera Artigo 29.º — Exceções
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE O
+      ARTIGO 3.º
+  - date: '2014-06-17'
+    amending: eu:celex:32014L0060:por
+    amending_title: DIRETIVA 2014/60/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014; DIRETIVA 2014/67/UE DO
+      PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 29.º — Exceções
+    - Altera DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE
+      O ARTIGO 3.º
+    - Altera Notas
+  - date: '2017-01-01'
+    amending: eu:celex:32016R1628:por
+    amending_title: REGULAMENTO (UE) 2016/1628 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 29.º — Exceções
+    - Altera DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE
+      O ARTIGO 3.º
+    - Altera Notas
+  - date: '2019-02-16'
+    amending: eu:celex:32016R1191:por
+    amending_title: REGULAMENTO (UE) 2016/1191 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de julho de 2016; REGULAMENTO (UE)
+      2018/1724 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de outubro de 2018
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Definições
+    - Altera Artigo 8.º — Comissão
+    - Altera Artigo 9.º — Direitos de acesso dos intervenientes e utilizadores do IMI
+    - Altera Artigo 21.º — Supervisão
+    - Altera Artigo 29.º — Exceções
+    - Altera DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE
+      O ARTIGO 3.º
+    - Altera Notas
+  - date: '2022-02-02'
+    amending: eu:celex:32020L1057:por
+    amending_title: Diretiva (UE) 2020/1057 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera Artigo 21.º — Supervisão
+    - Altera Artigo 29.º — Exceções
+    - Altera DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE
+      O ARTIGO 3.º
+    - Altera Notas
+  - date: '2022-02-21'
+    amending: eu:celex:32020R1055:por
+    amending_title: REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020
+    changes:
+    - Altera Artigo 21.º — Supervisão
+    - Altera Artigo 29.º — Exceções
+    - Altera DISPOSIÇÕES RELATIVAS À COOPERAÇÃO ADMINISTRATIVA EM ATOS DA UNIÃO APLICADAS ATRAVÉS DO IMI, A QUE SE REFERE
+      O ARTIGO 3.º
+    - Altera Notas
 identifiers:
   celex: 32012R1024
   eli: http://data.europa.eu/eli/reg/2012/1024/oj
@@ -50,7 +124,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/93bd37f1-2e32-11e2-ad46-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e07dd36d-7e3d-11ec-8c40-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1024-20220221
-  retrieved_at: '2026-10-22T02:38:21Z'
+  retrieved_at: '2026-10-22T16:10:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-12T13:38:46.266+02:00'
 integrity:
@@ -59,9 +133,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:21Z'
-  notes: Texto consolidado 02012R1024-20220221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:10:07Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2012-1024.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -224,40 +298,20 @@ relationships:
   date: '2008-01-17'
 article_structure:
   article_count: 30
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:21Z'
-  warnings: []
+  checked_at: '2026-10-22T16:10:07Z'
+  warnings:
+  - '02012R1024-20121204: versão indisponível (Sem expressão na língua por para CELEX 02012R1024-20121204.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 1024/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012
-
-> 02012R1024 — PT — 21.02.2022 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0055) — [DIRETIVA 2013/55/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013L0055) — L 354 — 132 — 28.12.2013
-- [►M2](http://publications.europa.eu/resource/celex/32014L0060) — [DIRETIVA 2014/60/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0060) — L 159 — 1 — 28.5.2014
-- [►M3](http://publications.europa.eu/resource/celex/32014L0067) — [DIRETIVA 2014/67/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014L0067) — L 159 — 11 — 28.5.2014
-- [►M4](http://publications.europa.eu/resource/celex/32016R1191) — [REGULAMENTO (UE) 2016/1191 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1191) — L 200 — 1 — 26.7.2016
-- [M5](http://publications.europa.eu/resource/celex/32016R1628) — [REGULAMENTO (UE) 2016/1628 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1628) — L 252 — 53 — 16.9.2016
-- [►M6](http://publications.europa.eu/resource/celex/32018R1724) — [REGULAMENTO (UE) 2018/1724 DO PARLAMENTO EUROPEU E DO CONSELHO de 2 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1724) — L 295 — 1 — 21.11.2018
-- [►M7](http://publications.europa.eu/resource/celex/32020L1057) — [Diretiva (UE) 2020/1057 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020L1057) — L 249 — 49 — 31.7.2020
-- [►M8](http://publications.europa.eu/resource/celex/32020R1055) — [REGULAMENTO (UE) 2020/1055 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de julho de 2020](http://publications.europa.eu/resource/celex/32020R1055) — L 249 — 17 — 31.7.2020
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32016R1628R%2802%29) — [Rectificação, JO L 231, 6.9.2019, p. 29 (2016/1628)](http://publications.europa.eu/resource/celex/32016R1628R%2802%29)
-
-## REGULAMENTO (UE) N.º 1024/2012 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de outubro de 2012
 

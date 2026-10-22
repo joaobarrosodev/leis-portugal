@@ -36,6 +36,104 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-21'
+version_history:
+  file: regulamento-ue-2013-283.versoes.json
+  count: 3
+  source_lastmod: '2022-11-21'
+  versions:
+  - date: '2013-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-17'
+    amending: eu:celex:32014R1136:por
+    amending_title: REGULAMENTO (UE) N. o 1136/2014 DA COMISSÃO de 24 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Medidas de transição no que se refere aos procedimentos relativos às substâncias ativas
+    - Altera Artigo 4.º — Medidas de transição no que se refere aos procedimentos relativos aos produtos fitofarmacêuticos
+    - Altera Artigo 5.º — Entrada em vigor e data de aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita INTRODUÇÃO
+    - Adita Informações a apresentar, sua produção e sua apresentação
+    - Adita PARTE A
+    - Adita SUBSTÂNCIAS ATIVAS QUÍMICAS
+    - Adita SECÇÃO 1
+    - Adita Identidade da substância ativa
+    - Adita 1.1. Requerente
+    - Adita 1.2. Produtor
+    - Adita 1.3. Nome vulgar proposto ou aceite pela ISO e sinónimos
+    - Adita 1.4. Nome químico (Nomenclatura IUPAC e CA)
+    - Adita 1.5. Números de código de desenvolvimento do produtor
+    - Adita 1.6. Números CAS, CE e CIPAC
+    - Adita 1.7. Fórmula molecular e de estrutura, massa molar
+    - Adita 1.8. Método de fabrico (processo de síntese) da substância ativa
+    - Adita 1.9. Especificação da pureza da substância ativa expressa em g/kg
+    - Adita 1.10. Identidade e teor de aditivos (tais como estabilizantes) e impurezas
+    - Adita 1.10.1. Aditivos
+    - Adita 1.10.2. Impurezas significativas
+    - Adita 1.10.3. Impurezas relevantes
+    - Adita 1.11. Características analíticas dos lotes
+    - Adita SECÇÃO 2
+    - Adita Propriedades físicas e químicas da substância ativa
+    - Adita 2.1. Ponto de fusão e ponto de ebulição
+    - Adita 2.2. Pressão do vapor, volatilidade
+    - Adita 2.3. Aspeto (estado físico, cor)
+    - Adita 2.4. Espetros (UV/VIS, IR, RMN, MS), extinção molar em comprimentos de onda relevantes, pureza ótica
+    - Adita 2.5. Solubilidade na água
+    - Adita 2.6. Solubilidade em solventes orgânicos
+    - Adita 2.7. Coeficiente de partição n-octanol/água
+    - Adita 2.8 Dissociação em água
+    - Adita 2.9. Inflamabilidade e auto-inflamabilidade.
+    - Adita 2.10. Ponto de inflamabilidade
+    - Adita 2.11. Propriedades explosivas
+    - Adita 2.12. Tensão superficial
+  - date: '2022-11-21'
+    amending: eu:celex:32022R1439:por
+    amending_title: REGULAMENTO (UE) 2022/1439 DA COMISSÃO de 31 de agosto de 2022
+    changes:
+    - Altera Artigo 3.º — Medidas de transição no que se refere aos procedimentos relativos às substâncias ativas
+    - Altera Artigo 4.º — Medidas de transição no que se refere aos procedimentos relativos aos produtos fitofarmacêuticos
+    - Altera Informações a apresentar, sua produção e sua apresentação
+    - Altera Identidade da substância ativa
+    - Altera Propriedades físicas e químicas da substância ativa
+    - Altera Informações adicionais sobre a substância ativa
+    - Altera Métodos de análise
+    - Altera Estudos toxicológicos e de metabolismo
+    - Altera Resíduos no interior e à superfície de produtos, géneros alimentícios e alimentos para animais, tratados
+    - Altera Destino e comportamento no ambiente
+    - Altera Estudos ecotoxicológicos
+    - Altera 2. PROPRIEDADES BIOLÓGICAS DO MICRORGANISMO
+    - Altera 4. MÉTODOS DE ANÁLISE
+    - Altera 5. EFEITOS NA SAÚDE HUMANA
+    - Altera Notas
+    - Adita 3. Boas práticas de Laboratório (BPL)
+    - Adita 4. Material de ensaio
+    - Adita 5. Ensaios em animais vertebrados
+    - Adita SUBSTÂNCIAS ATIVAS QUE SÃO MICRORGANISMOS
+    - Adita INTRODUÇÃO À PARTE B
+    - Adita 1. IDENTIDADE DO REQUERENTE, IDENTIDADE DA SUBSTÂNCIA ATIVA E INFORMAÇÕES SOBRE O FABRICO
+    - Adita 3. INFORMAÇÕES ADICIONAIS
+    - Adita 6. RESÍDUOS NO INTERIOR E À SUPERFÍCIE DOS PRODUTOS, GÉNEROS ALIMENTÍCIOS E ALIMENTOS PARA ANIMAIS TRATADOS
+    - Adita 7. OCORRÊNCIA DO MICRORGANISMO NO AMBIENTE, INCLUINDO O DESTINO E O COMPORTAMENTO DOS METABOLITOS QUE SUSCITAM
+      PREOCUPAÇÃO
+    - Adita 8. ESTUDOS ECOTOXICOLÓGICOS
+    - Suprime 1.1. Requerente
+    - Suprime 1.2. Produtor
+    - Suprime 1.3. Nome vulgar proposto ou aceite pela ISO e sinónimos
+    - Suprime 1.4. Nome químico (Nomenclatura IUPAC e CA)
+    - Suprime 1.5. Números de código de desenvolvimento do produtor
+    - Suprime 1.6. Números CAS, CE e CIPAC
+    - Suprime 1.7. Fórmula molecular e de estrutura, massa molar
+    - Suprime 1.8. Método de fabrico (processo de síntese) da substância ativa
+    - Suprime 1.9. Especificação da pureza da substância ativa expressa em g/kg
+    - Suprime 1.10. Identidade e teor de aditivos (tais como estabilizantes) e impurezas
+    - Suprime 1.10.1. Aditivos
+    - Suprime 1.10.2. Impurezas significativas
+    - Suprime 1.10.3. Impurezas relevantes
+    - Suprime 1.11. Características analíticas dos lotes
+    - Suprime 2.1. Ponto de fusão e ponto de ebulição
 identifiers:
   celex: 32013R0283
   eli: http://data.europa.eu/eli/reg/2013/283/oj
@@ -50,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fab29fde-9c3b-11e2-ab01-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a3503741-5a2b-11ed-92ed-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0283-20221121
-  retrieved_at: '2026-10-22T03:16:36Z'
+  retrieved_at: '2026-10-22T16:16:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-18T04:28:21.310+02:00'
 integrity:
@@ -59,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:36Z'
-  notes: Texto consolidado 02013R0283-20221121.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:16:59Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-283.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,34 +208,19 @@ relationships:
   date: '2011-06-10'
 article_structure:
   article_count: 5
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:36Z'
+  checked_at: '2026-10-22T16:16:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 283/2013 da Comissão, de 1 de março de 2013
-
-> 02013R0283 — PT — 21.11.2022 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R1136) — [REGULAMENTO (UE) N.º 1136/2014 DA COMISSÃO de 24 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1136) — L 307 — 26 — 28.10.2014
-- [►M2](http://publications.europa.eu/resource/celex/32022R1439) — [REGULAMENTO (UE) 2022/1439 DA COMISSÃO de 31 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1439) — L 227 — 8 — 1.9.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R1439R%2801%29) — [Rectificação, JO L 304, 24.11.2022, p. 94 (2022/1439)](http://publications.europa.eu/resource/celex/32022R1439R%2801%29)
-
-## REGULAMENTO (UE) N.º 283/2013 DA COMISSÃO
 
 de 1 de março de 2013
 

@@ -36,6 +36,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-02-01'
+version_history:
+  file: regulamento-ue-2013-98.versoes.json
+  count: 3
+  source_lastmod: '2021-02-01'
+  versions:
+  - date: '2013-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-03-01'
+    amending: eu:celex:32017R0214:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2017/214 DA COMISSÃO de 30 de novembro de 2016; REGULAMENTO DELEGADO (UE) 2017/215
+      DA COMISSÃO de 30 de novembro de 2016; REGULAMENTO DELEGADO (UE) 2017/216 DA COMISSÃO de 30 de novembro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 19.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2021-02-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Disponibilização, introdução, posse e utilização
+    - Suprime Artigo 5.º — Rotulagem
+    - Suprime Artigo 6.º — Livre circulação
+    - Suprime Artigo 7.º — Licenças
+    - Suprime Artigo 8.º — Registo de transações
+    - Suprime Artigo 9.º — Participação de transações suspeitas, de desaparecimentos e de roubos
+    - Suprime Artigo 10.º — Proteção de dados
+    - Suprime Artigo 11.º — Sanções
+    - Suprime Artigo 12.º — Alteração dos anexos
+    - Suprime Artigo 13.º — Cláusula de salvaguarda
+    - Suprime Artigo 14.º — Exercício da delegação
+    - Suprime Artigo 15.º — Procedimento de urgência
+    - Suprime Artigo 16.º — Disposição transitória
+    - Suprime Artigo 17.º — Regimes de registo em vigor
+    - Suprime Artigo 18.º — Revisão
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32013R0098
   eli: http://data.europa.eu/eli/reg/2013/98/oj
@@ -50,7 +97,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/45b0cf0f-445b-11eb-b59f-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0098-20210201
-  retrieved_at: '2026-10-22T03:00:05Z'
+  retrieved_at: '2026-10-22T16:15:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-17T23:00:18.533+02:00'
 integrity:
@@ -59,9 +106,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:05Z'
-  notes: Texto consolidado 02013R0098-20210201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:15:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-98.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,16 +204,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:05Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T16:15:24Z'
+  warnings: []
   errors: []
 ---
 

@@ -36,6 +36,123 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-2013-389.versoes.json
+  count: 4
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '2013-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-22'
+    amending: eu:celex:32015R1844:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2015/1844 DA COMISSÃO de 13 de julho de 2015; REGULAMENTO (UE) 2018/208 DA COMISSÃO
+      de 12 de fevereiro de 2018; M3; REGULAMENTO DELEGADO (UE) 2019/1122 DA COMISSÃO de 12 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Administradores nacionais e administradores de registos PQ
+    - Altera Artigo 7.º — Elos de comunicação entre os registos, o DIO e o DOUE
+    - Altera Artigo 41.º — Criação de licenças de emissão
+    - Altera Artigo 56.º — Atribuição de licenças de emissão para a aviação a título gratuito
+    - Altera Artigo 58.º — Contas de depósito de créditos internacionais no Registo da União
+    - Altera Artigo 67.º — Devolução de licenças
+    - Altera Artigo 71.º — Aplicação de mecanismos de ligação
+    - Altera Artigo 99.º — Suspensão de processos
+    - Altera Artigo 105.º — Especificações técnicas e de intercâmbio de dados
+    - Altera Artigo 108.º — Registos
+    - Altera Artigo 110.º — Confidencialidade
+    - Altera Artigo 116.º — Alterações do Regulamento (UE) n.º 920/2010
+    - Altera Artigo 118.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 73.º-A — Transferência de RCE e URE trocadas no âmbito do RCLE da UE
+    - Adita Artigo 99.º-A — Suspensão de acordos de ligação
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Termos e condições (artigo 11.º)
+    - Adita Pagamento de taxas
+    - Adita Alteração dos termos e condições principais
+    - Adita Resolução de litígios
+    - Adita Responsabilidade
+    - Adita ANEXO III
+    - Adita Informações a apresentar com os pedidos de abertura de conta (artigos 13.º, 14.º e 19.º)
+    - Adita ANEXO IV
+    - Adita Informações a fornecer para a abertura de uma conta de entrega de leilões, uma conta de depósito pessoal, uma
+      conta de negociação ou uma conta de plataforma externa de negociação (artigos 15.º, 18.º e 20.º)
+    - Adita ANEXO V
+    - Adita Informações adicionais a fornecer para a abertura de uma conta de verificador (artigo 21.º)
+    - Adita ANEXO VI
+    - Adita Informações a fornecer para a abertura de uma conta de depósito de operador (artigo 16.º)
+    - Adita ANEXO VII
+    - Adita Informações a fornecer para a abertura de uma conta de depósito de operador de aeronave (artigo 17.º)
+    - Adita ANEXO VIII
+    - Adita Informações relativas aos representantes autorizados e aos representantes autorizados adicionais a fornecer ao
+      administrador da conta (artigo 24.º)
+    - Adita ANEXO IX
+    - Adita Formatos para a apresentação de dados relativos a emissões anuais (artigo 35.º)
+    - Adita ANEXO X
+  - date: '2020-12-14'
+    amending: eu:celex:32019R1123:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1123 DA COMISSÃO de 12 de março de 2019
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 41.º — Criação de licenças de emissão
+    - Altera Artigo 58.º — Contas de depósito de créditos internacionais no Registo da União
+    - Altera Artigo 110.º — Confidencialidade
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Artigo 73.º-B — Emissão e depósito de UQA
+    - Adita Artigo 73.º-C — Transferência e utilização de unidades
+    - Adita Artigo 73.º-D — Anulação de unidades
+    - Adita Artigo 73.º-E — Retirada de unidades
+    - Adita Artigo 73.º-F — Reporte no registo da União
+    - Adita Artigo 73.º-G — Mecanismos de compensação
+    - Adita Artigo 73.º-H — Mecanismo de compensação para países que não são partes num acordo de cumprimento conjunto
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS COMUNS
+    - Suprime CAPÍTULO 1
+    - Suprime Objeto, âmbito de aplicação e definições
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO 2
+    - Suprime Sistema de registos
+    - Suprime Artigo 4.º — Registo da União
+    - Suprime Artigo 5.º — Administradores nacionais e administradores de registos PQ
+    - Suprime Artigo 6.º — Diário de Operações da União Europeia
+    - Suprime Artigo 7.º — Elos de comunicação entre os registos, o DIO e o DOUE
+    - Suprime Artigo 8.º — Administradores nacionais e administradores de registos PQ
+    - Suprime CAPÍTULO 3
+    - Suprime Contas
+    - Suprime Secção 1
+    - Suprime Disposições aplicáveis a todas as contas
+    - Suprime Artigo 9.º — Contas
+    - Suprime Artigo 10.º — Estado das contas
+    - Suprime Artigo 11.º — Administração de contas
+    - Suprime Artigo 12.º — Notificações do administrador central
+    - Suprime Secção 2
+    - Suprime Abertura e atualização das contas
+    - Suprime Artigo 13.º — Abertura das contas administradas pelo administrador central
+    - Suprime Artigo 14.º — Abertura de contas da plataforma administrativa nacional no Registo da União
+    - Suprime Artigo 15.º — Abertura de conta de entrega de leilões no Registo da União
+    - Suprime Artigo 16.º — Abertura de contas de depósito de operador no Registo da União
+    - Suprime Artigo 17.º — Abertura de contas de depósito de operador de aeronave no Registo da União
+    - Suprime Artigo 18.º — Abertura de contas de depósito pessoais e de contas de negociação no Registo da União
+    - Suprime Artigo 19.º — Abertura de contas de depósito nacionais no Registo da União
+    - Suprime Artigo 20.º — Abertura de contas de plataforma externa de negociação no Registo da União
+    - Suprime Artigo 21.º — Abertura de contas de verificador no Registo da União
+    - Suprime Artigo 22.º — Recusa de abertura de uma conta
+    - Suprime Artigo 23.º — Representantes autorizados
+    - Suprime Artigo 24.º — Nomeação e aprovação de representantes autorizados e de representantes autorizados adicionais
+    - Suprime Artigo 25.º — Atualização das informações relativas às contas e das informações sobre representantes autorizados
+    - Suprime Artigo 26.º — Lista de contas de confiança
+    - Suprime Secção 3
 identifiers:
   celex: 32013R0389
   eli: http://data.europa.eu/eli/reg/2013/389/oj
@@ -50,7 +167,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/661d99c8-b801-11e2-ab01-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/d5272065-a752-11eb-9585-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0389-20210101
-  retrieved_at: '2026-10-22T03:00:07Z'
+  retrieved_at: '2026-10-22T16:17:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T03:58:21.777+02:00'
 integrity:
@@ -59,9 +176,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:07Z'
-  notes: Texto consolidado 02013R0389-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:17:57Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2013-389.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -225,37 +342,20 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:07Z'
+  checked_at: '2026-10-22T16:17:57Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
+  - '02013R0389-20151016: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02013R0389-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 389/2013 da Comissão, de 2 de maio de 2013
-
-> 02013R0389 — PT — 01.01.2021 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32015R1844) — [REGULAMENTO DELEGADO (UE) 2015/1844 DA COMISSÃO de 13 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1844) — L 268 — 1 — 15.10.2015
-- [M2](http://publications.europa.eu/resource/celex/32018R0208) — [REGULAMENTO (UE) 2018/208 DA COMISSÃO de 12 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0208) — L 39 — 3 — 13.2.2018
-- [M3](http://publications.europa.eu/resource/celex/32019R0401) — [REGULAMENTO DELEGADO (UE) 2019/401 DA COMISSÃO de 19 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0401) — L 72 — 4 — 14.3.2019
-- [►M4](http://publications.europa.eu/resource/celex/32019R1122) — [REGULAMENTO DELEGADO (UE) 2019/1122 DA COMISSÃO de 12 de março de 2019](http://publications.europa.eu/resource/celex/32019R1122) — L 177 — 3 — 2.7.2019
-- [M5](http://publications.europa.eu/resource/celex/32019R1123) — [REGULAMENTO DELEGADO (UE) 2019/1123 DA COMISSÃO de 12 de março de 2019](http://publications.europa.eu/resource/celex/32019R1123) — L 177 — 63 — 2.7.2019
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019R0401R%2801%29) — [Rectificação, JO L 073, 15.3.2019, p. 193 (2019/401)](http://publications.europa.eu/resource/celex/32019R0401R%2801%29)
-
-## REGULAMENTO (UE) N.º 389/2013 DA COMISSÃO
 
 de 2 de maio de 2013
 

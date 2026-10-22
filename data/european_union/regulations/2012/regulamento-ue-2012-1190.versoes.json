@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012R1190:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012R1190-20130102",
+ "dre_path": null,
+ "source_lastmod": "2013-01-02",
+ "versions": [
+  {
+   "date": "2012-12-13",
+   "future": false,
+   "celex": "32012R1190",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ec7341a21e9a11e",
+    "7b1c0b5635da3d7c",
+    "15275a22f38368a9",
+    "c745698a6ca25a43",
+    "59d1310507483d47",
+    "d0a7da6894dbd01f"
+   ]
+  },
+  {
+   "date": "2013-01-02",
+   "future": false,
+   "celex": "02012R1190-20130102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objetivo da União",
+    "Altera Artigo 4.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2",
+    "Adita 1. BASE DE AMOSTRAGEM",
+    "Adita 2. MONITORIZAÇÃO DOS PERUS",
+    "Adita 2.1. Frequência da amostragem",
+    "Adita 2.2. Protocolo de amostragem",
+    "Adita 2.2.1. Instruções gerais para a amostragem",
+    "Adita 2.2.2. Instruções específicas para certos tipos de explorações",
+    "Adita 2.2.3. Amostragem pela autoridade competente",
+    "Adita 2.2.4. Transporte",
+    "Adita 3. ANÁLISES LABORATORIAIS",
+    "Adita 3.1. Preparação das amostras",
+    "Adita 3.2. Método de deteção",
+    "Adita 3.3. Serotipagem",
+    "Adita 3.4. Métodos alternativos",
+    "Adita 3.5. Armazenagem das estirpes",
+    "Adita 4. RESULTADOS E RELATÓRIOS",
+    "Adita 4.1. Cálculo da prevalência para verificação do objetivo da União",
+    "Adita 4.2. Relatórios"
+   ],
+   "fragments": [
+    "941ada9300728b5d",
+    "06ff5f272bb33991",
+    "15275a22f38368a9",
+    "c745698a6ca25a43",
+    "a8b3f34bc86b1c1c",
+    "10220b9774fa9034",
+    "36a097ef2c62d3f4",
+    "77dca07665afe0c8",
+    "c3e1192f372168d6",
+    "c7c5b46758f033dc",
+    "9626310324f1f3aa",
+    "c866607c6b2ecf32",
+    "6efda7e21ae5488d",
+    "dec3cae94c57611d",
+    "a6f94017181b0495",
+    "00e3750498255396",
+    "d847d68f50426440",
+    "cc3a5b1b934165ee",
+    "8a6f39d10fdcc468",
+    "dd2e5c62f51f58ad",
+    "7b3ed427396f779e",
+    "c6dbe3d2b9319926",
+    "b6d9c2b0e70c449d",
+    "89d2f30623dad925",
+    "9af52b530ae078ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ec7341a21e9a11e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de dezembro de 2012\n\nrelativo ao objetivo da União de redução de *Salmonella* Enteritidis e *Salmonella* Typhimurium em bandos de perus, tal como previsto no Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar [([^1])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr1-L_2012340PT.01002901-E0001), nomeadamente o artigo 4.º, n.º 1, segundo parágrafo,\n\nConsiderando o seguinte:\n\n(1) O objetivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que sejam tomadas medidas adequadas e eficazes para detetar e controlar as salmonelas e outros agentes zoonóticos em todas as fases importantes da produção, transformação e distribuição, especialmente ao nível da produção primária, a fim de reduzir a sua prevalência e o risco que constituem para a saúde pública.\n\n(2) O Regulamento (CE) n.º 2160/2003 prevê o estabelecimento de um objetivo da União para a redução da prevalência de todos os serótipos de salmonelas significativos em matéria de saúde pública, em perus, ao nível da produção primária. Essa redução é essencial para garantir o cumprimento dos critérios em matéria de salmonelas em carne fresca de peru estabelecidos no anexo II, parte E, daquele regulamento e no anexo I, capítulo 1, do Regulamento (CE) n.º 2073/2005 da Comissão, de 15 de novembro de 2005, relativo a critérios microbiológicos aplicáveis aos géneros alimentícios [([^2])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr2-L_2012340PT.01002901-E0002).\n\n(3) O Regulamento (CE) n.º 2160/2003 estabelece que o objetivo da União deve incluir uma expressão numérica da percentagem máxima de unidades epidemiológicas que permanecem positivas e/ou da percentagem mínima de redução do número de unidades epidemiológicas que permanecem positivas, o prazo máximo durante o qual o objetivo deve ser alcançado e a definição dos regimes de testes necessários para verificar a consecução do objetivo. Deve incluir ainda a definição, sempre que aplicável, de serótipos significativos em matéria de saúde pública.\n\n(4) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objetivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor, assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Diretiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Diretiva 92/117/CEE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr3-L_2012340PT.01002901-E0003), especialmente no seu artigo 5.º\n\n(5) O Regulamento (CE) n.º 584/2008 da Comissão, de 20 de junho de 2008, que dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objetivo comunitário de redução da prevalência de *Salmonella* Enteritidis e *Salmonella* Typhimurium em perus [([^4])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr4-L_2012340PT.01002901-E0004) estabelece o objetivo de reduzir para 1 %, ou menos, a percentagem máxima de bandos de perus positivos a estes dois serótipos de salmonelas até 31 de dezembro de 2012, no que se refere a bandos de perus de engorda e de perus de reprodução adultos.\n\n(6) O relatório de síntese da UE sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos de origem alimentar na União Europeia em 2010 [([^5])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr5-L_2012340PT.01002901-E0005) revelou que a *Salmonella* Enteritidis e a *Salmonella* Typhimurium são os serótipos mais frequentemente associados a doenças humanas. Em especial, os casos humanos causados por *Salmonella* Enteritidis diminuíram ainda mais acentuadamente em 2010.\n\n(7) Em março de 2012, a AESA adotou um parecer científico sobre uma estimativa do impacto para a saúde pública da definição de um novo objetivo para a redução de salmonelas em perus [([^6])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr6-L_2012340PT.01002901-E0006). O parecer concluiu que a *Salmonella* Enteritidis é o serótipo de salmonela zoonótica cuja transmissão vertical entre aves de capoeira é mais eficaz. A AESA concluiu igualmente que as medidas de controlo da União relativas a perus contribuíram para a redução considerável do número de casos de salmonelose em humanos associada a perus, em comparação com a situação em 2007. O objetivo deve, por conseguinte, ser confirmado.\n\n(8) As estirpes monofásicas de *Salmonella* Typhimurium tornaram-se um dos serótipos de salmonelas mais frequentemente detetados em várias espécies de animais e em isolados clínicos de seres humanos nos últimos anos, tal como assinalado no relatório de síntese da União Europeia sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos de origem alimentar em 2010. O parecer científico da AESA de 2010 sobre a vigilância e a avaliação dos riscos para a saúde pública das «estirpes do tipo *Salmonella* Typhimurium», adotado a 22 de setembro de 2010 [([^7])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr7-L_2012340PT.01002901-E0007), afirmava também que as estirpes monofásicas de *Salmonella* Typhimurium com a fórmula antigénica 1,4,[5],12:i:-, que inclui estirpes com e sem o antigénio O5, têm de ser consideradas variantes de *Salmonella* Typhimurium e um risco para a saúde pública comparável ao das outras estirpes de *Salmonella* Typhimurium. As estirpes de *Salmonella* Typhimurium com a fórmula antigénica 1,4,[5],12:i:- devem, pois, ser incluídas no objetivo.\n\n(9) Para verificar a consecução do objetivo da União, é necessário efetuar repetidamente a amostragem dos bandos de perus. Para avaliar e comparar os resultados, é necessário descrever um regime de testes comum.\n\n(10) Os programas nacionais de controlo para a realização do objetivo da União para 2013 em bandos de perus foram apresentados para co-financiamento da União, em conformidade com a Decisão 2009/470/CE do Conselho, de 25 de maio de 2009, relativa a determinadas despesas no domínio veterinário [([^8])](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntr8-L_2012340PT.01002901-E0008). As alterações técnicas introduzidas no anexo do presente regulamento são diretamente aplicáveis. Consequentemente, a Comissão não tem de reaprovar os programas nacionais de controlo que dão execução ao presente regulamento. Assim, não é necessário qualquer período de transição.\n\n(11) Numa preocupação de clareza, o Regulamento (CE) n.º 584/2008 deve ser revogado.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "7b1c0b5635da3d7c": {
+   "fragment_id": "Artigo 1.º — Objetivo da União",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objetivo da União\n\n1. O objetivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003 para a redução de *Salmonella* Enteritidis e *Salmonella* Typhimurium em perus («objetivo da União») é o seguinte:\n\na) Redução, para 1 % ou menos, da percentagem anual máxima de bandos de perus de engorda que permanecem positivos a *Salmonella* Enteritidis e a *Salmonella* Typhimurium; e\n\nb) Redução, para 1 % ou menos, da percentagem anual máxima de bandos de perus de reprodução adultos que permanecem positivos a *Salmonella* Enteritidis e a *Salmonella* Typhimurium;\n\nTodavia, nos Estados-Membros com menos de 100 bandos de perus de reprodução adultos ou de perus de engorda, o objetivo da União é de poder permanecer positivo anualmente apenas um bando de perus de reprodução adultos ou de perus de engorda.\n\nNo que se refere à *Salmonella* Typhimurium monofásica, devem ser incluídos no objetivo da União os serótipos com a fórmula antigénica 1,4,[5],12:i:-.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objetivo da União consta do anexo («regime de testes»)."
+  },
+  "15275a22f38368a9": {
+   "fragment_id": "Artigo 2.º — Reexame do objetivo da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Reexame do objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reexame do objetivo da União\n\nO objetivo da União será reexaminado pela Comissão, tendo em conta a informação recolhida em conformidade com o regime de testes e os critérios estabelecidos no artigo 4.º, n.º 6, alínea c), do Regulamento (CE) n.º 2160/2003."
+  },
+  "c745698a6ca25a43": {
+   "fragment_id": "Artigo 3.º — Revogação do Regulamento (CE) n.º 584/2008",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Revogação do Regulamento (CE) n.º 584/2008",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação do Regulamento (CE) n.º 584/2008\n\nO Regulamento (CE) n.º 584/2008 é revogado.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento."
+  },
+  "59d1310507483d47": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 12 de dezembro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "d0a7da6894dbd01f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc1-L_2012340PT.01002901-E0001) [JO L 325 de 12.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_325_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc2-L_2012340PT.01002901-E0002) [JO L 338 de 22.12.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_338_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc3-L_2012340PT.01002901-E0003) [JO L 325 de 12.12.2003, p. 31](http://publications.europa.eu/resource/oj/JOL_2003_325_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc4-L_2012340PT.01002901-E0004) [JO L 162 de 21.6.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_162_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc5-L_2012340PT.01002901-E0005) *EFSA Journal* 2012; 10(3):2597.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc6-L_2012340PT.01002901-E0006) *EFSA Journal* 2012; 10(4):2616.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc7-L_2012340PT.01002901-E0007) *EFSA Journal* 2010; 8(10):1826.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/40d683be-4944-11e2-8762-01aa75ed71a1.0018.04/DOC_1#ntc8-L_2012340PT.01002901-E0008) [JO L 155 de 18.6.2009, p. 30](http://publications.europa.eu/resource/oj/JOL_2009_155_R_TOC)."
+  },
+  "941ada9300728b5d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de dezembro de 2012\n\nrelativo ao objetivo da União de redução de *Salmonella* Enteritidis e *Salmonella* Typhimurium em bandos de perus, tal como previsto no Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar ([^1^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0001)), nomeadamente o artigo 4.º, n.º 1, segundo parágrafo,\n\n(1) O objetivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que sejam tomadas medidas adequadas e eficazes para detetar e controlar as salmonelas e outros agentes zoonóticos em todas as fases importantes da produção, transformação e distribuição, especialmente ao nível da produção primária, a fim de reduzir a sua prevalência e o risco que constituem para a saúde pública.\n\n(2) O Regulamento (CE) n.º 2160/2003 prevê o estabelecimento de um objetivo da União para a redução da prevalência de todos os serótipos de salmonelas significativos em matéria de saúde pública, em perus, ao nível da produção primária. Essa redução é essencial para garantir o cumprimento dos critérios em matéria de salmonelas em carne fresca de peru estabelecidos no anexo II, parte E, daquele regulamento e no anexo I, capítulo 1, do Regulamento (CE) n.º 2073/2005 da Comissão, de 15 de novembro de 2005, relativo a critérios microbiológicos aplicáveis aos géneros alimentícios ([^2^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0002)).\n\n(3) O Regulamento (CE) n.º 2160/2003 estabelece que o objetivo da União deve incluir uma expressão numérica da percentagem máxima de unidades epidemiológicas que permanecem positivas e/ou da percentagem mínima de redução do número de unidades epidemiológicas que permanecem positivas, o prazo máximo durante o qual o objetivo deve ser alcançado e a definição dos regimes de testes necessários para verificar a consecução do objetivo. Deve incluir ainda a definição, sempre que aplicável, de serótipos significativos em matéria de saúde pública.\n\n(4) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objetivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor, assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Diretiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos, que altera a Decisão 90/424/CEE do Conselho e revoga a Diretiva 92/117/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0003)), especialmente no seu artigo 5.º\n\n(5) O Regulamento (CE) n.º 584/2008 da Comissão, de 20 de junho de 2008, que dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objetivo comunitário de redução da prevalência de *Salmonella* Enteritidis e *Salmonella* Typhimurium em perus ([^4^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0004)) estabelece o objetivo de reduzir para 1 %, ou menos, a percentagem máxima de bandos de perus positivos a estes dois serótipos de salmonelas até 31 de dezembro de 2012, no que se refere a bandos de perus de engorda e de perus de reprodução adultos.\n\n(6) O relatório de síntese da UE sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos de origem alimentar na União Europeia em 2010 ([^5^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0005)) revelou que a *Salmonella* Enteritidis e a *Salmonella* Typhimurium são os serótipos mais frequentemente associados a doenças humanas. Em especial, os casos humanos causados por *Salmonella* Enteritidis diminuíram ainda mais acentuadamente em 2010.\n\n(7) Em março de 2012, a AESA adotou um parecer científico sobre uma estimativa do impacto para a saúde pública da definição de um novo objetivo para a redução de salmonelas em perus ([^6^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0006)). O parecer concluiu que a *Salmonella* Enteritidis é o serótipo de salmonela zoonótica cuja transmissão vertical entre aves de capoeira é mais eficaz. A AESA concluiu igualmente que as medidas de controlo da União relativas a perus contribuíram para a redução considerável do número de casos de salmonelose em humanos associada a perus, em comparação com a situação em 2007. O objetivo deve, por conseguinte, ser confirmado.\n\n(8) As estirpes monofásicas de *Salmonella* Typhimurium tornaram-se um dos serótipos de salmonelas mais frequentemente detetados em várias espécies de animais e em isolados clínicos de seres humanos nos últimos anos, tal como assinalado no relatório de síntese da União Europeia sobre as tendências e origens das zoonoses, dos agentes zoonóticos e surtos de origem alimentar em 2010. O parecer científico da AESA de 2010 sobre a vigilância e a avaliação dos riscos para a saúde pública das «estirpes do tipo *Salmonella* Typhimurium», adotado a 22 de setembro de 2010 ([^7^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0007)), afirmava também que as estirpes monofásicas de *Salmonella* Typhimurium com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**, que inclui estirpes com e sem o antigénio O5, têm de ser consideradas variantes de *Salmonella* Typhimurium e um risco para a saúde pública comparável ao das outras estirpes de *Salmonella* Typhimurium. As estirpes de *Salmonella* Typhimurium com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄** devem, pois, ser incluídas no objetivo.\n\n(9) Para verificar a consecução do objetivo da União, é necessário efetuar repetidamente a amostragem dos bandos de perus. Para avaliar e comparar os resultados, é necessário descrever um regime de testes comum.\n\n(10) Os programas nacionais de controlo para a realização do objetivo da União para 2013 em bandos de perus foram apresentados para co-financiamento da União, em conformidade com a Decisão 2009/470/CE do Conselho, de 25 de maio de 2009, relativa a determinadas despesas no domínio veterinário ([^8^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0008)). As alterações técnicas introduzidas no anexo do presente regulamento são diretamente aplicáveis. Consequentemente, a Comissão não tem de reaprovar os programas nacionais de controlo que dão execução ao presente regulamento. Assim, não é necessário qualquer período de transição.\n\n(11) Numa preocupação de clareza, o Regulamento (CE) n.º 584/2008 deve ser revogado.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "06ff5f272bb33991": {
+   "fragment_id": "Artigo 1.º — Objetivo da União",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objetivo da União\n\n1. O objetivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003 para a redução de *Salmonella* Enteritidis e *Salmonella* Typhimurium em perus («objetivo da União») é o seguinte:\n\na) Redução, para 1 % ou menos, da percentagem anual máxima de bandos de perus de engorda que permanecem positivos a *Salmonella* Enteritidis e a *Salmonella* Typhimurium; e\n\nb) Redução, para 1 % ou menos, da percentagem anual máxima de bandos de perus de reprodução adultos que permanecem positivos a *Salmonella* Enteritidis e a *Salmonella* Typhimurium;\n\nTodavia, nos Estados-Membros com menos de 100 bandos de perus de reprodução adultos ou de perus de engorda, o objetivo da União é de poder permanecer positivo anualmente apenas um bando de perus de reprodução adultos ou de perus de engorda.\n\nNo que se refere à *Salmonella* Typhimurium monofásica, devem ser incluídos no objetivo da União os serótipos com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objetivo da União consta do anexo («regime de testes»)."
+  },
+  "a8b3f34bc86b1c1c": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "36a097ef2c62d3f4": {
+   "fragment_id": "Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2",
+   "type": "divisao",
+   "heading": "Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de testes necessário para verificar a consecução do objetivo da União referido no artigo 1.º, n.º 2"
+  },
+  "77dca07665afe0c8": {
+   "fragment_id": "1. BASE DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "1. BASE DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. BASE DE AMOSTRAGEM\n\nA base de amostragem deve abranger todos os bandos de perus de engorda e de reprodução no âmbito dos programas nacionais de controlo previstos no artigo 5.º do Regulamento (CE) n.º 2160/2003."
+  },
+  "c3e1192f372168d6": {
+   "fragment_id": "2. MONITORIZAÇÃO DOS PERUS",
+   "type": "divisao",
+   "heading": "2. MONITORIZAÇÃO DOS PERUS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. MONITORIZAÇÃO DOS PERUS"
+  },
+  "c7c5b46758f033dc": {
+   "fragment_id": "2.1. Frequência da amostragem",
+   "type": "divisao",
+   "heading": "2.1. Frequência da amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Frequência da amostragem\n\na) Os operadores das empresas do setor alimentar devem amostrar todos os bandos de perus de engorda e de reprodução do seguinte modo:\n\ni) a amostragem de bandos de perus de engorda e de reprodução deve ter lugar, o mais tardar, três semanas antes do abate. A autoridade competente pode autorizar a colheita de amostras nas últimas seis semanas antes da data de abate no caso de perus que são mantidos mais de 100 dias ou que são provenientes da produção biológica de perus, em conformidade com o Regulamento (CE) n.º 889/2008 ([^9^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0009)),\n\nii) a amostragem de bandos de perus de reprodução deve realizar-se:\n\n— em bandos de criação: em aves com um dia e com quatro semanas de idade, e duas semanas antes de serem transferidas para a fase de postura ou unidade de postura,\n\n— em bandos adultos: pelo menos de três em três semanas durante o período de postura, na exploração ou num centro de incubação,\n\n— na exploração no caso de bandos de perus de reprodução que põem ovos para incubação destinados ao comércio no interior da União,\n\niii) a autoridade competente pode decidir aplicar uma das opções referidas no segundo travessão da subalínea ii) ao regime de testes na sua integralidade para todos os bandos. Contudo, a amostragem de bandos de reprodução que põem ovos para incubação destinados ao comércio no interior da União deve ter lugar na exploração,\n\niv) em derrogação ao disposto no segundo travessão da alínea ii), se o objetivo da União tiver sido alcançado durante pelo menos dois anos civis consecutivos em todo o território do Estado-Membro, a amostragem na exploração pode passar a efetuar-se de quatro em quatro semanas, a critério da autoridade competente. Todavia, em caso de deteção da presença de um serótipo de salmonelas relevante num bando de reprodução na exploração e/ou em qualquer outro caso considerado apropriado pela autoridade competente, esta pode decidir manter ou reduzir novamente o intervalo entre amostragens para três semanas;\n\nb) A amostragem pela autoridade competente deve prever pelo menos:\n\ni) a amostragem de bandos de perus de reprodução:\n\n— uma vez por ano, de todos os bandos com, pelo menos, 250 perus de reprodução adultos com idades compreendidas entre 30 e 45 semanas e de todas as explorações onde existam perus reprodutores de elite (trisavós), assim como bisavós e avós; a autoridade competente pode decidir que esta amostragem também pode ser efetuada no centro de incubação, e\n\n— de todos os bandos nas explorações, em caso de deteção de *Salmonella* Enteritidis ou de *Salmonella* Typhimurium em amostras colhidas no centros de incubação pelos operadores das empresas do setor alimentar ou no quadro dos controlos oficiais, a fim de investigar a origem da infeção,\n\nii) a amostragem de bandos de perus de engorda, efetuada uma vez por ano em pelo menos um bando, em 10 % das explorações com pelo menos 500 perus de engorda,\n\niii) que a amostragem pode ser realizada com base nos riscos e também cada vez que a autoridade competente achar conveniente,\n\niv) que uma amostragem realizada pela autoridade competente pode substituir a amostragem realizada por iniciativa dos operadores das empresas do setor alimentar, tal como referido na alínea a)."
+  },
+  "9626310324f1f3aa": {
+   "fragment_id": "2.2. Protocolo de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Protocolo de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Protocolo de amostragem"
+  },
+  "c866607c6b2ecf32": {
+   "fragment_id": "2.2.1. Instruções gerais para a amostragem",
+   "type": "divisao",
+   "heading": "2.2.1. Instruções gerais para a amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Instruções gerais para a amostragem\n\nA autoridade competente ou os operadores das empresas do setor alimentar devem garantir que as amostras são colhidas por pessoas com formação adequada.\n\nA amostragem de bandos de perus de reprodução deve ser feita em conformidade com o ponto 2.2 do anexo do Regulamento (UE) n.º 200/2010 ([^10^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0010)).\n\nPara a amostragem de bandos de perus de engorda, devem colher-se pelo menos dois pares de botas para esfregaço por bando. Os esfregaços são colocados nas botas e a amostra é colhida andando na instalação. Os esfregaços provenientes de um bando de perus podem ser reunidos numa única amostra.\n\nAntes de calçar as botas para esfregaço, a sua superfície deve ser humidificada através de:\n\na) Aplicação de «Maximum Recovery Diluent» (MRD: 0,8 % de cloreto de sódio, 0,1 % de peptona em água desionizada estéril); ou\n\nb) Aplicação de água estéril; ou\n\nc) A aplicação de qualquer outro diluente aprovado pelo laboratório nacional de referência mencionado no artigo 11.º, n.º 3, do Regulamento (CE) n.º 2160/2003; ou\n\nd) Autoclavagem num recipiente juntamente com os diluentes.\n\nPara humedecer as botas para esfregaço deve verter-se o líquido no seu interior antes de as calçar ou agitá-las num recipiente contendo o diluente.\n\nDeve garantir-se que todas as secções da instalação se encontrem representadas proporcionalmente na amostragem. Cada par de botas para esfregaço deve representar cerca de 50 % da superfície da instalação.\n\nConcluída a amostragem, devem retirar-se cuidadosamente as botas para esfregaço, de modo a não remover o material aderente. As botas para esfregaço podem ser viradas ao contrário para reter o material. Devem ser colocadas num saco ou recipiente e rotuladas.\n\nA autoridade competente pode decidir aumentar o número mínimo de amostras, a fim de assegurar a realização de uma amostragem representativa numa avaliação caso a caso de parâmetros epidemiológicos, tais como condições de biossegurança, distribuição ou dimensão do bando.\n\nSe a autoridade competente assim o aprovar, pode substituir-se um par de botas para esfregaço por uma amostra de 100 gramas de pó, colhida em diversos locais em toda a instalação em superfícies onde a presença de pó seja visível. Em alternativa, podem ser utilizados um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total, para recolher o pó de várias superfícies em toda a instalação. Cada esfregaço deve estar bem coberto de pó nos dois lados."
+  },
+  "6efda7e21ae5488d": {
+   "fragment_id": "2.2.2. Instruções específicas para certos tipos de explorações",
+   "type": "divisao",
+   "heading": "2.2.2. Instruções específicas para certos tipos de explorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Instruções específicas para certos tipos de explorações\n\na) Para os bandos de perus de criação ao ar livre, as amostras devem apenas ser colhidas no interior da instalação;\n\nb) Sempre que o acesso às instalações não seja possível devido a limitações de espaço em bandos com menos de 100 perus, e em que não seja possível, por conseguinte, utilizar botas para esfregaço, estas podem ser substituídas pelo mesmo tipo de tecido que o utilizado na recolha de pó, devendo os esfregaços ser passados sobre superfícies contaminadas por excrementos recentes ou, se tal não for possível, por outras técnicas de amostragem para excrementos adequadas ao objetivo pretendido."
+  },
+  "dec3cae94c57611d": {
+   "fragment_id": "2.2.3. Amostragem pela autoridade competente",
+   "type": "divisao",
+   "heading": "2.2.3. Amostragem pela autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.3. Amostragem pela autoridade competente\n\nA autoridade competente deve certificar-se, através da realização de outros testes e/ou controlos documentais, conforme adequado, que os resultados não são alterados pela presença de agentes antimicrobianos ou de outras substâncias inibidoras do crescimento bacteriano.\n\nSempre que não for detetada a presença de *Salmonella* Enteritidis nem *Salmonella* Typhimurium, mas forem encontrados agentes antimicrobianos ou um efeito inibidor do crescimento bacteriano, o bando de perus deve ser considerado como um bando infetado, para efeitos do objetivo da União referido no artigo 1.º, n.º 2."
+  },
+  "a6f94017181b0495": {
+   "fragment_id": "2.2.4. Transporte",
+   "type": "divisao",
+   "heading": "2.2.4. Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.4. Transporte\n\nAs amostras devem ser enviadas sem demora indevida por correio expresso ou por serviços de correio privados, aos laboratórios mencionados nos artigos 11.º e 12.º do Regulamento (CE) n.º 2160/2003. Durante o transporte, as amostras não devem ser expostas a uma temperatura superior a 25 °C nem à luz solar.\n\nSe não for possível enviar as amostras num prazo de 24 horas a contar da hora de colheita, as mesmas devem manter-se refrigeradas."
+  },
+  "00e3750498255396": {
+   "fragment_id": "3. ANÁLISES LABORATORIAIS",
+   "type": "divisao",
+   "heading": "3. ANÁLISES LABORATORIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ANÁLISES LABORATORIAIS"
+  },
+  "d847d68f50426440": {
+   "fragment_id": "3.1. Preparação das amostras",
+   "type": "divisao",
+   "heading": "3.1. Preparação das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Preparação das amostras\n\nNo laboratório, as amostras devem conservar-se refrigeradas até à sua análise, a qual deve iniciar-se no prazo de 48 horas após a sua receção e de 96 horas após a colheita.\n\nO ou os pares de botas/meias para esfregaço devem ser desembrulhados cuidadosamente de forma a evitar a retirada da matéria fecal aderente, a qual deve ser reunida e colocada em 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente. As botas/meias para esfregaço devem ficar completamente imersas na água peptonada tamponada, pelo que pode ser necessário adicionar uma quantidade suplementar.\n\nA amostra de pó será preferencialmente analisada em separado. No entanto, no caso de bandos de engorda, a autoridade competente pode decidir permitir que seja reunida com o par de botas/meias para esfregaço antes da análise.\n\nAgitar para saturar completamente a amostra e continuar a cultura através do método de deteção indicado no ponto 3.2.\n\nAs outras amostras (por exemplo as que provêm de bando de reprodução ou centros de incubação) devem ser preparadas em conformidade com o disposto no ponto 2.2.2 do anexo do Regulamento (UE) n.º 200/2010.\n\nCaso sejam acordadas normas do Comité Europeu de Normalização («CEN») ou da Organização Internacional de Normalização («ISO») sobre a preparação da matéria fecal para a deteção de salmonelas, essas normas devem ser aplicadas e substituir as disposições do presente ponto relativas à preparação das amostras."
+  },
+  "cc3a5b1b934165ee": {
+   "fragment_id": "3.2. Método de deteção",
+   "type": "divisao",
+   "heading": "3.2. Método de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de deteção\n\nDeve usar-se o método de deteção recomendado pelo laboratório de referência da União para as salmonelas, situado em Bilthoven, Países Baixos.\n\nEste método encontra-se descrito no anexo D da norma EN/ISO 6579 (2002): «Deteção de *Salmonella* spp. em matéria fecal de origem animal e em amostras da fase de produção primária».\n\nNeste método de deteção, utiliza-se um meio semissólido (meio Rappaport Vassiliadis semissólido modificado, MSRV) como único meio de enriquecimento seletivo."
+  },
+  "8a6f39d10fdcc468": {
+   "fragment_id": "3.3. Serotipagem",
+   "type": "divisao",
+   "heading": "3.3. Serotipagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Serotipagem\n\nNo caso de bandos de perus de reprodução, para cada amostra positiva, deve fazer-se a serotipagem de pelo menos um isolado, segundo o método de Kauffmann-White-Le Minor.\n\nNo caso de bandos de perus de engorda, para cada amostra positiva colhida pela autoridade competente, deve fazer-se a serotipagem de pelo menos um isolado, segundo o método de Kauffmann-White-Le Minor.\n\nOs operadores das empresas do setor alimentar devem, pelo menos, garantir que, para todos os isolados, nenhum pertence aos serótipos *Salmonella* Enteritidis ou *Salmonella* Typhimurium, incluindo estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**."
+  },
+  "dd2e5c62f51f58ad": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nNo atinente às amostras colhidas por iniciativa dos operadores das empresas do setor alimentar, podem ser utilizados os métodos de análise previstos no artigo 11.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0011)), em substituição dos métodos de preparação de amostras, do método de deteção e de serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a norma EN/ISO 16140."
+  },
+  "7b3ed427396f779e": {
+   "fragment_id": "3.5. Armazenagem das estirpes",
+   "type": "divisao",
+   "heading": "3.5. Armazenagem das estirpes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Armazenagem das estirpes\n\nOs laboratórios devem assegurar a armazenagem, para eventual futura fagotipagem ou teste de suscetibilidade antimicrobiana, de pelo menos uma estirpe de *Salmonella* spp. por bando e por ano, isolada a partir de amostras colhidas pela autoridade competente, usando os métodos normais de coleção de culturas, que devem assegurar a integridade das estirpes durante um período mínimo de dois anos a contar da data da análise.\n\nA autoridade competente pode decidir que os isolados de *Salmonella* spp. provenientes da amostragem efetuada pelos operadores das empresas do setor alimentar devem também ser armazenados para futura fagotipagem ou teste de suscetibilidade antimicrobiana, por forma a que os isolados sejam testados em conformidade com o artigo 2.º da Decisão 2007/407/CE da Comissão ([^12^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0012))."
+  },
+  "c6dbe3d2b9319926": {
+   "fragment_id": "4. RESULTADOS E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "4. RESULTADOS E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. RESULTADOS E RELATÓRIOS"
+  },
+  "b6d9c2b0e70c449d": {
+   "fragment_id": "4.1. Cálculo da prevalência para verificação do objetivo da União",
+   "type": "divisao",
+   "heading": "4.1. Cálculo da prevalência para verificação do objetivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Cálculo da prevalência para verificação do objetivo da União\n\nPara efeitos da verificação da consecução do objetivo da União, um bando de perus deve ser considerado positivo sempre que tenha sido detetada no bando a presença de *Salmonella* Enteritidis e/ou *Salmonella* Typhimurium (com exceção das estirpes vacinais, mas incluindo as estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**).\n\nOs bandos positivos são contabilizados apenas uma vez por lote, independentemente do número de operações de colheita de amostras e de análises efetuadas, e devem apenas ser notificados no ano da primeira amostragem positiva. A prevalência é calculada separadamente para os bandos de perus de engorda e para os bandos de perus de reprodução adultos."
+  },
+  "89d2f30623dad925": {
+   "fragment_id": "4.2. Relatórios",
+   "type": "divisao",
+   "heading": "4.2. Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Relatórios\n\n4.2.1. *Os relatórios devem incluir:* a) O número total de bandos de perus de engorda e de perus de reprodução adultos que foram testados no mínimo uma vez durante o ano a que se refere o relatório; b) O número total de bandos de perus de engorda e de perus de reprodução adultos positivos a qualquer serótipo de salmonela no Estado-Membro; c) O número de bandos de perus de engorda e de perus de reprodução adultos positivos, pelo menos uma vez, à *Salmonella* Enteritidis e à *Salmonella* Typhimurium incluindo as estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**; d) O número de bandos de perus de engorda e de perus de reprodução adultos positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem).\n\n4.2.2. *A informação referida no ponto 4.2.1, alíneas a) a d), deve ser fornecida separadamente para a amostragem no âmbito do programa global de controlo nacional das salmonelas relativamente* a) À amostragem efetuada pelos operadores das empresas do setor alimentar, prevista no ponto 2.1, alínea a); e b) À amostragem efetuada pelas autoridades competentes, prevista no ponto 2.1, alínea b).\n\n4.2.3. *Os resultados dos testes devem ser considerados como informações pertinentes relativas à cadeia alimentar, tal como previsto no anexo II, secção III, do Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho* ([^13^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0013)). Deve ser disponibilizada à autoridade competente pelo menos a seguinte informação relativa a cada bando de perus testado: a) Referência única e inalterável da exploração; b) Referência única e inalterável do bando; c) Mês da amostragem; d) Número de aves por bando. Os resultados e quaisquer informações adicionais relevantes devem ser notificados como parte do relatório sobre tendências e origens previsto no artigo 9.º, n.º 1, da Diretiva 2003/99/CE do Parlamento Europeu e do Conselho ([^14^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#E0014)). Os operadores das empresas do setor alimentar devem, sem demora injustificada, notificar a autoridade competente da deteção de *Salmonella* Enteritidis e *Salmonella* Typhimurium, incluindo as estirpes monofásicas com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32012R1190R%2802%29) 1,4,[5],12:i:-**◄**. Os operadores das empresas do setor alimentar devem dar instruções nesse sentido ao laboratório encarregue da análise.\n\n---"
+  },
+  "9af52b530ae078ec": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0001)) JO L 325 de 12.12.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0002)) JO L 338 de 22.12.2005, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0003)) JO L 325 de 12.12.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0004)) JO L 162 de 21.6.2008, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0005)) *EFSA Journal* 2012; 10(3):2597.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0006)) *EFSA Journal* 2012; 10(4):2616.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0007)) *EFSA Journal* 2010; 8(10):1826.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0008)) JO L 155 de 18.6.2009, p. 30.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0009)) JO L 250 de 18.9.2008, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0010)) JO L 61 de 11.3.2010, p. 1.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0011)) JO L 165 de 30.4.2004, p. 1.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0012)) JO L 153 de 14.6.2007, p. 26.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0013)) JO L 139 de 30.4.2004, p. 55.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/a8359e12-9158-4cca-ac57-690acc310e83.0015.02/DOC_1#src.E0014)) JO L 325 de 12.12.2003, p. 31."
+  }
+ }
+}

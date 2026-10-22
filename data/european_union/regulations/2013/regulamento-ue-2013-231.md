@@ -36,6 +36,68 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-02-12'
+version_history:
+  file: regulamento-ue-2013-231.versoes.json
+  count: 3
+  source_lastmod: '2024-02-12'
+  versions:
+  - date: '2013-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-01'
+    amending: eu:celex:32018R1618:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/1618 DA COMISSÃO de 12 de julho de 2018; REGULAMENTO DELEGADO (UE) 2021/1255
+      DA COMISSÃO de 21 de abril de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 12.º — Riscos de responsabilidade profissional
+    - Altera Artigo 18.º — Requisitos em matéria de devida diligência
+    - Altera Artigo 22.º — Recursos
+    - Altera Artigo 24.º — Incentivos
+    - Altera Artigo 30.º — Tipos de conflitos de interesses
+    - Altera Artigo 39.º — Função permanente de gestão dos riscos
+    - Altera Artigo 40.º — Política de gestão dos riscos
+    - Altera Artigo 56.º — Interpretação
+    - Altera Artigo 57.º — Requisitos gerais
+    - Altera Artigo 60.º — Controlo pelo órgão de gestão, pela direção e pela função de supervisão
+    - Altera Artigo 63.º — Transações pessoais
+    - Altera Artigo 78.º — Delegação da gestão de carteiras ou de riscos
+    - Altera Artigo 82.º — Situações em que se considera que uma entidade está transformada num mero endereço postal e o GFIA
+      deixou de gerir um FIA
+    - Altera Artigo 88.º — Instrumentos financeiros a manter em custódia
+    - Altera Artigo 89.º — Obrigações de guarda em matéria de ativos mantidos sob custódia
+    - Altera Artigo 90.º — Obrigações de guarda em matéria de verificação da propriedade e conservação de registos
+    - Altera Artigo 91.º — Obrigações de informação dos corretores de primeira linha
+    - Altera Artigo 93.º — Obrigações em matéria de subscrição e reembolso
+    - Altera Artigo 98.º — Devida diligência
+    - Altera Artigo 99.º — Obrigação de separação
+    - Altera Artigo 104.º — Conteúdo e formato do balanço ou do mapa dos ativos e passivos e da conta das receitas e despesas
+    - Altera Artigo 110.º — Apresentação de relatórios às autoridades competentes
+    - Altera Artigo 117.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Métodos de aumento da exposição de um FIA
+    - Adita ANEXO II
+    - Adita Métodos de conversão a aplicar aos instrumentos derivados
+    - Adita ANEXO III
+    - Adita Regras de compensação com base na duração
+    - Adita ANEXO IV
+    - 'Adita Modelos de relatórios: GFIA'
+    - Adita (artigo 3.º, n.º 3, alínea d), e artigo 24.º da Diretiva 2011/61/UE)
+    - 'Adita Modelos de relatórios: FIA'
+    - Adita Resultados dos testes de esforço
+  - date: '2024-02-12'
+    amending: eu:celex:32024R0382:por
+    amending_title: M3
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 56.º — Interpretação
+    - Altera Artigo 63.º — Transações pessoais
+    - Altera Artigo 88.º — Instrumentos financeiros a manter em custódia
+    - Altera (artigo 3.º, n.º 3, alínea d), e artigo 24.º da Diretiva 2011/61/UE)
+    - Altera Notas
 identifiers:
   celex: 32013R0231
   eli: http://data.europa.eu/eli/reg_del/2013/231/oj
@@ -50,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/63d9dce8-92c9-11e2-b5c3-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/454c172c-d011-11ee-b9d9-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0231-20240212
-  retrieved_at: '2026-10-22T02:39:55Z'
+  retrieved_at: '2026-10-22T16:16:44Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-09T16:29:36.090+02:00'
 integrity:
@@ -59,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:55Z'
-  notes: Texto consolidado 02013R0231-20240212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:16:44Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-231.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,31 +251,21 @@ relationships:
   date: '2023-06-29'
 article_structure:
   article_count: 117
-  section_count: 81
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 82
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:55Z'
-  warnings: []
+  checked_at: '2026-10-22T16:16:44Z'
+  warnings:
+  - '02013R0231-20130411: versão indisponível (Sem expressão na língua por para CELEX 02013R0231-20130411.)'
+  - '02013R0231-20200401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) n. ° 231/2013 da Comissão, de 19 de Dezembro de 2012
-
-> 02013R0231 — PT — 12.02.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1618) — [REGULAMENTO DELEGADO (UE) 2018/1618 DA COMISSÃO de 12 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1618) — L 271 — 1 — 30.10.2018
-- [►M2](http://publications.europa.eu/resource/celex/32021R1255) — [REGULAMENTO DELEGADO (UE) 2021/1255 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1255) — L 277 — 11 — 2.8.2021
-- [M3](http://publications.europa.eu/resource/celex/32024R0382) — [REGULAMENTO DELEGADO (UE) 2024/382 DA COMISSÃO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32024R0382) — L — 1 — 23.1.2024
-
-## REGULAMENTO DELEGADO (UE) N.º 231/2013 DA COMISSÃO
 
 de 19 de Dezembro de 2012
 

@@ -36,6 +36,107 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-11-21'
+version_history:
+  file: regulamento-ue-2013-284.versoes.json
+  count: 3
+  source_lastmod: '2022-11-21'
+  versions:
+  - date: '2013-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-09-17'
+    amending: eu:celex:32015R1475:por
+    amending_title: REGULAMENTO (UE) 2015/1475 DA COMISSÃO de 27 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Medidas de transição no que se refere aos procedimentos relativos às substâncias ativas
+    - Altera Artigo 4.º — Medidas de transição no que se refere aos procedimentos relativos aos produtos fitofarmacêuticos
+    - Altera Artigo 5.º — Entrada em vigor e data de aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita INTRODUÇÃO
+    - Adita Informações a apresentar, sua produção e sua apresentação
+    - Adita PARTE A
+    - Adita PRODUTOS FITOFARMACÊUTICOS QUÍMICOS
+    - Adita SECÇÃO 1
+    - Adita Identidade do produto fitofarmacêutico
+    - Adita 1.1. Requerente
+    - Adita 1.2. Fabricante do produto fitofarmacêutico e das substâncias ativas
+    - Adita 1.3. Denominação comercial ou proposta de denominação comercial e número de código de desenvolvimento do produtor
+      do produto fitofarmacêutico, se adequado
+    - Adita 1.4. Informações quantitativas e qualitativas pormenorizadas sobre a composição do produto fitofarmacêutico
+    - Adita 1.4.1. Composição do produto fitofarmacêutico
+    - Adita 1.4.2. Informações sobre a substância ativa
+    - Adita 1.4.3. Informações sobre fitoprotetores, agentes sinérgicos e coformulantes
+    - Adita 1.5. Tipo e código do produto fitofarmacêutico
+    - Adita 1.6. Função
+    - Adita SECÇÃO 2
+    - Adita Propriedades físicas, químicas e técnicas do produto fitofarmacêutico
+    - Adita 2.1. Aspeto
+    - Adita 2.2. Propriedades explosivas e oxidantes
+    - Adita 2.3. Inflamabilidade e auto-inflamabilidade
+    - Adita 2.4. Acidez, alcalinidade e valor do pH
+    - Adita 2.5. Viscosidade e tensão superficial
+    - Adita 2.6. Densidade relativa e aparente
+    - 'Adita 2.7. Estabilidade durante a armazenagem e período de conservação: efeitos da temperatura nas características
+      técnicas do produto fitofarmacêutico'
+    - Adita 2.8. Características técnicas do produto fitofarmacêutico
+    - Adita 2.8.1. Molhabilidade
+    - Adita 2.8.2. Persistência da espuma
+    - Adita 2.8.3. Suspensibilidade, espontaneidade de dispersão e estabilidade de dispersão
+    - Adita 2.8.4. Grau de estabilidade de dissolução e de diluição
+    - Adita 2.8.5. Distribuição segundo a dimensão, teor de pó, atrito e estabilidade mecânica
+    - Adita 2.8.5.1. Distribuição do tamanho das partículas
+    - Adita 2.8.5.2. Teor de pó
+    - Adita 2.8.5.3. Atrito
+    - Adita 2.8.5.4. Dureza e integridade
+  - date: '2022-11-21'
+    amending: eu:celex:32022R1440:por
+    amending_title: REGULAMENTO (UE) 2022/1440 DA COMISSÃO de 31 de agosto de 2022
+    changes:
+    - Altera Artigo 3.º — Medidas de transição no que se refere aos procedimentos relativos às substâncias ativas
+    - Altera Informações a apresentar, sua produção e sua apresentação
+    - Altera Identidade do produto fitofarmacêutico
+    - Altera Propriedades físicas, químicas e técnicas do produto fitofarmacêutico
+    - Altera Dados sobre a aplicação
+    - Altera Informações adicionais sobre o produto fitofarmacêutico
+    - Altera Métodos de análise
+    - Altera Dados de eficácia
+    - Altera Estudos toxicológicos
+    - Altera DESTINO E COMPORTAMENTO NO AMBIENTE
+    - Altera Estudos ecotoxicológicos
+    - Altera Notas
+    - Adita 3. Boas Práticas de Laboratório (BPL)
+    - Adita 4. Material de ensaio
+    - Adita 5. Ensaios em animais vertebrados
+    - Adita PRODUTOS FITOFARMACÊUTICOS QUE CONTENHAM UMA SUBSTÂNCIA ATIVA QUE É UM MICRORGANISMO
+    - Adita INTRODUÇÃO À PARTE B
+    - Suprime 1.1. Requerente
+    - Suprime 1.2. Fabricante do produto fitofarmacêutico e das substâncias ativas
+    - Suprime 1.3. Denominação comercial ou proposta de denominação comercial e número de código de desenvolvimento do produtor
+      do produto fitofarmacêutico, se adequado
+    - Suprime 1.4. Informações quantitativas e qualitativas pormenorizadas sobre a composição do produto fitofarmacêutico
+    - Suprime 1.4.1. Composição do produto fitofarmacêutico
+    - Suprime 1.4.2. Informações sobre a substância ativa
+    - Suprime 1.4.3. Informações sobre fitoprotetores, agentes sinérgicos e coformulantes
+    - Suprime 1.5. Tipo e código do produto fitofarmacêutico
+    - Suprime 1.6. Função
+    - Suprime 2.1. Aspeto
+    - Suprime 2.2. Propriedades explosivas e oxidantes
+    - Suprime 2.3. Inflamabilidade e auto-inflamabilidade
+    - Suprime 2.4. Acidez, alcalinidade e valor do pH
+    - Suprime 2.5. Viscosidade e tensão superficial
+    - Suprime 2.6. Densidade relativa e aparente
+    - 'Suprime 2.7. Estabilidade durante a armazenagem e período de conservação: efeitos da temperatura nas características
+      técnicas do produto fitofarmacêutico'
+    - Suprime 2.8. Características técnicas do produto fitofarmacêutico
+    - Suprime 2.8.1. Molhabilidade
+    - Suprime 2.8.2. Persistência da espuma
+    - Suprime 2.8.3. Suspensibilidade, espontaneidade de dispersão e estabilidade de dispersão
+    - Suprime 2.8.4. Grau de estabilidade de dissolução e de diluição
+    - Suprime 2.8.5. Distribuição segundo a dimensão, teor de pó, atrito e estabilidade mecânica
+    - Suprime 2.8.5.1. Distribuição do tamanho das partículas
 identifiers:
   celex: 32013R0284
   eli: http://data.europa.eu/eli/reg/2013/284/oj
@@ -50,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c20a6c84-9c3c-11e2-ab01-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/82066ad4-5a2d-11ed-92ed-01aa75ed71a1.0019.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0284-20221121
-  retrieved_at: '2026-10-22T03:16:37Z'
+  retrieved_at: '2026-10-22T16:17:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T03:33:21.178+02:00'
 integrity:
@@ -59,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:16:37Z'
-  notes: Texto consolidado 02013R0284-20221121.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:17:05Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2013-284.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -108,34 +209,19 @@ relationships:
   date: '2011-06-10'
 article_structure:
   article_count: 5
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:16:37Z'
+  checked_at: '2026-10-22T16:17:05Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) n. ° 284/2013 da Comissão, de 1 de março de 2013
-
-> 02013R0284 — PT — 21.11.2022 — 002.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015R1475) — [REGULAMENTO (UE) 2015/1475 DA COMISSÃO de 27 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1475) — L 225 — 10 — 28.8.2015
-- [►M2](http://publications.europa.eu/resource/celex/32022R1440) — [REGULAMENTO (UE) 2022/1440 DA COMISSÃO de 31 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1440) — L 227 — 38 — 1.9.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R1440R%2801%29) — [Rectificação, JO L 304, 24.11.2022, p. 97 (2022/1440)](http://publications.europa.eu/resource/celex/32022R1440R%2801%29)
-
-## REGULAMENTO (UE) N.º 284/2013 DA COMISSÃO
 
 de 1 de março de 2013
 

@@ -36,6 +36,103 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: regulamento-ue-2013-167.versoes.json
+  count: 8
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2013-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: eu:celex:32014R1322:por
+    amending_title: REGULAMENTO DELEGADO (UE) N. o 1322/2014 DA COMISSÃO de 19 de setembro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Categorias de veículos
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Artigo 78.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita LIMITES PARA PEQUENAS SÉRIES
+    - Adita ANEXO III
+  - date: '2016-10-14'
+    amending: eu:celex:32016R1788:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2016/1788 DA COMISSÃO de 14 de julho de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2017-01-01'
+    amending: eu:celex:32016R1628:por
+    amending_title: REGULAMENTO (UE) 2016/1628 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016
+    changes:
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 19.º — Prescrições em matéria de desempenho ambiental
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2018-06-26'
+    amending: eu:celex:32018R0830:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2018/830 DA COMISSÃO de 9 de março de 2018
+    changes:
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 19.º — Prescrições em matéria de desempenho ambiental
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera ANEXO I
+    - Altera Notas
+  - date: '2019-04-18'
+    amending: eu:celex:32019R0519:por
+    amending_title: REGULAMENTO (UE) 2019/519 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 4.º — Categorias de veículos
+    - Altera Artigo 12.º — Obrigações dos importadores relativamente aos seus produtos que não estejam em conformidade ou
+      que representem um risco grave
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 19.º — Prescrições em matéria de desempenho ambiental
+    - Altera Artigo 25.º — Disposições especiais relativas ao certificado de homologação UE
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 39.º — Disponibilização no mercado, matrícula ou entrada em circulação de veículos em fim de série
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Artigo 71.º — Exercício da delegação
+    - Altera Artigo 76.º — Revogação
+    - Altera ANEXO I
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita LISTA DE PRESCRIÇÕES PARA EFEITOS DE HOMOLOGAÇÃO UE DE VEÍCULO
+    - Adita Tabela de correspondência
+    - Adita (referido no artigo 76.º)
+  - date: '2024-11-27'
+    amending: eu:celex:32024R2838:por
+    amending_title: REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 19.º — Prescrições em matéria de desempenho ambiental
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Notas
+    - Suprime Artigo 74.º — Relatório
+    - Suprime Artigo 75.º — Reexame
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 17.º — Requisitos aplicáveis à segurança funcional dos veículos
+    - Altera Artigo 19.º — Prescrições em matéria de desempenho ambiental
+    - Altera Artigo 27.º — Ensaios exigidos para a homologação UE
+    - Altera Artigo 56.º — Fórum de Acesso à Informação sobre Veículos
+    - Altera Notas
 identifiers:
   celex: 32013R0167
   eli: http://data.europa.eu/eli/reg/2013/167/oj
@@ -50,7 +147,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/79ce6e68-96dc-418f-b104-a0c0b7130cee.0004
   content_url: http://publications.europa.eu/resource/cellar/6053f6be-9073-11f1-9262-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0167-20260802
-  retrieved_at: '2026-10-22T02:53:14Z'
+  retrieved_at: '2026-10-22T16:16:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-19T07:25:51.885+02:00'
 integrity:
@@ -59,9 +156,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:14Z'
-  notes: Texto consolidado 02013R0167-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T16:16:41Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2013-167.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -501,35 +598,20 @@ relationships:
   date: '2013-04-10'
 article_structure:
   article_count: 76
-  section_count: 43
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 44
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:14Z'
-  warnings: []
+  checked_at: '2026-10-22T16:16:41Z'
+  warnings:
+  - '02013R0167-20130322: versão indisponível (Sem expressão na língua por para CELEX 02013R0167-20130322.)'
   errors: []
 ---
 
 # Regulamento (UE) n. ° 167/2013 do Parlamento Europeu e do Conselho, de 5 de fevereiro de 2013
-
-> 02013R0167 — PT — 02.08.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014R1322) — [REGULAMENTO DELEGADO (UE) N.º 1322/2014 DA COMISSÃO de 19 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R1322) — L 364 — 1 — 18.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32016R1628) — [REGULAMENTO (UE) 2016/1628 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016](http://publications.europa.eu/resource/celex/32016R1628) — L 252 — 53 — 16.9.2016
-- [►M3](http://publications.europa.eu/resource/celex/32016R1788) — [REGULAMENTO DELEGADO (UE) 2016/1788 DA COMISSÃO de 14 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1788) — L 277 — 1 — 13.10.2016
-- [►M4](http://publications.europa.eu/resource/celex/32018R0830) — [REGULAMENTO DELEGADO (UE) 2018/830 DA COMISSÃO de 9 de março de 2018](http://publications.europa.eu/resource/celex/32018R0830) — L 140 — 15 — 6.6.2018
-- [►M5](http://publications.europa.eu/resource/celex/32019R0519) — [REGULAMENTO (UE) 2019/519 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019R0519) — L 91 — 42 — 29.3.2019
-- [►M6](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-- [►M7](http://publications.europa.eu/resource/celex/32024R2838) — [REGULAMENTO (UE) 2024/2838 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2838) — L 2838 — 1 — 7.11.2024
-
-## REGULAMENTO (UE) N.º 167/2013 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de fevereiro de 2013
 
